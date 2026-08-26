@@ -1067,6 +1067,96 @@
   },
   "collection_id": "premiere-pro-ai-tools",
   "created_at": "2026-08-26T17:55:27.601898+00:00",
+  "display_label_prompt_version": 1,
+  "display_labels": {
+    "adjusting audio levels with the gain tool (g)": "Gain Tool Audio Levels",
+    "adjusting enhancement intensity": "Enhance Intensity",
+    "adjustment layers for global color and effect application": "Adjustment Layers",
+    "ai reframe for aspect-ratio changes": "AI Reframe",
+    "ai text-based editing workflow": "Text-Based Editing",
+    "ai-assisted color correction (lumetri auto)": "AI Color Correction",
+    "ai-generated sections and visual labeling": "Text Sections",
+    "animating text and converting captions to graphics": "Caption to Graphics",
+    "applying and adjusting transitions (cross dissolve) and default transition via shift+d": "Video Transitions",
+    "applying luts for color grading via the creative tab": "Lumetri LUTs",
+    "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)": "Essential Sound",
+    "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain": "Audio Mixing Basics",
+    "audio remix in premiere pro": "Audio Remix",
+    "audio workflow: three-track arrangement (voice, effects, music)": "Three-Track Audio",
+    "auto reframe for social formats (vertical 9x16)": "Auto Reframe",
+    "auto reframe sequence across clips": "Sequence Auto Reframe",
+    "auto-save and cache management": "Auto Save Cache",
+    "bin and sequence creation; organizing with bins and color labels": "Bins and Labels",
+    "captions and transcript-based editing (create captions from transcript, translation, track styles)": "Transcript Captions",
+    "clip trimming with playhead and ripple edits": "Ripple Trimming",
+    "color code timeline sections to map story beats": "Timeline Story Beats",
+    "color correct source footage to apply globally across clips": "Global Color Correction",
+    "color correction and luts (c-log 3 to rec. 709) with lumetri color": "Lumetri Color",
+    "color correction intensity and before/after comparison": "Color Match",
+    "color matching with comparison view and apply match": "Apply Match",
+    "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)": "Editing Tool Shortcuts",
+    "create a premiere pro project and folder structure": "Project Setup",
+    "create and name a sequence from a-roll": "Sequence From A-Roll",
+    "creating closed captions from transcripts": "Closed Captions",
+    "cut and trim with razor (c) and selection (v) tools": "Razor and Selection",
+    "drag a-roll to drop media to create a sequence": "Drag to Sequence",
+    "drive selection for performance (ssd vs hdd)": "SSD Performance",
+    "ducking, mastering, and amplitude/compression adjustments": "Ducking and Compression",
+    "editing from text and deleting pauses": "Transcript Editing",
+    "enhance speech in essential sound": "Enhance Speech",
+    "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)": "Export Media",
+    "export workflow: outpoints, command m, h.264, and 4k presets": "Export Presets",
+    "exporting and working with transcripts": "Transcript Export",
+    "exporting: in/out points, 1080p h.264, and final render": "Final Export",
+    "file organization and project setup (year_month_day naming, main folder structure, autosaves location)": "Project Folder Structure",
+    "filtering pauses and removing filler words": "Filler Word Removal",
+    "generative extend for video clips": "Generative Extend",
+    "graphics and lower thirds (essential graphics templates)": "Essential Graphics",
+    "import media and create bins for organization": "Media Import Bins",
+    "import mode and hover scrubbing of footage": "Import Mode",
+    "importing media and creating a sequence": "Media and Sequence Setup",
+    "in and out points for selecting clip sections (i/o)": "In and Out Points",
+    "insert b-roll using video-only drag to avoid overwriting audio": "Video Only Drag",
+    "inserting an intro bumper and aligning it with edits": "Intro Bumper",
+    "inserting cuts at detected points": "Scene Edit Detection",
+    "keyboard shortcuts and remapping in premiere": "Keyboard Remapping",
+    "keyframing and motion graphics (transform, position, scale, rotation) with easing": "Motion Keyframes",
+    "layer a-roll and b-roll for multi-track edits": "A-Roll B-Roll Layering",
+    "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)": "Lumetri Color Panel",
+    "lumetri color correction, exposure/contrast/shadows, and white balance": "Basic Color Correction",
+    "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation": "Lumetri Scopes",
+    "managing export outputs in an 'exports' folder with versioning": "Export Versioning",
+    "memory (ram) allocation for editing workflows": "RAM Allocation",
+    "morph cut for jump-cut concealment": "Morph Cut",
+    "multi-camera editing workflow (create multi-camera source sequence, toggle multi-camera view, flattening, nesting, toggling camera angles)": "Multi-Camera Editing",
+    "organize media into a-roll, b-roll, and assets": "Media Organization",
+    "premiere pro interface and workspaces": "Interface And Workspaces",
+    "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces": "Workspace Fundamentals",
+    "project folder structure (media and project files)": "Project File Structure",
+    "rate stretch tool and remix subtool": "Rate Stretch Tool",
+    "razor vs. ripple delete; inserting vs. overwriting edits": "Razor and Ripple Delete",
+    "remix tool for music editing and auto-cut detection": "Remix Tool",
+    "rename and organize sequences into a dedicated bin": "Sequence Organization",
+    "ripple edits to shift timeline content efficiently (q)": "Ripple Editing",
+    "scene edit detection": "Scene Match Detection",
+    "sequence settings and matching to footage (frame rate, resolution)": "Sequence Matching",
+    "sequence settings: frame rate, resolution, and color space": "Sequence Color Space",
+    "slow down 60fps b-roll on a 24fps timeline": "Slow Motion B-Roll",
+    "sponsor: story blocks and its stock footage library": "Storyblocks Library",
+    "stabilization (warp stabilizer) and motion corrections": "Warp Stabilizer",
+    "subtitles and captions from transcript; caption styling and animation": "Caption Styling",
+    "text and essential graphics: creating, centering, and font choices": "Text Styling",
+    "text titles: adding and styling with t, font choice, and drop shadow": "Title Styling",
+    "timeline basics (playhead, zoom, snapping, linked audio/video)": "Timeline Basics",
+    "timeline basics: snapping, unlinking video and audio, and ripple delete": "Timeline Editing",
+    "transcription language detection and speaker labeling": "Speech Transcription",
+    "transform keyframes for motion and easing (scale)": "Motion Easing Keyframes",
+    "ultra key for green screen and keying cleanup": "Ultra Key",
+    "use workspaces to optimize editing": "Workspace Optimization",
+    "using shapes and nesting for organized motion graphics": "Shape Nesting",
+    "using the slip tool for precise timing": "Slip Tool",
+    "warp stabilizer for stabilization": "Stabilize with Warp"
+  },
   "families": {
     "family-ai-editing-tools-4244cb13": {
       "canonical_key": "ai editing tools",
@@ -1233,6 +1323,7 @@
       "text titles: adding and styling with t, font choice, and drop shadow",
       "using shapes and nesting for organized motion graphics"
     ],
+    "applying and adjusting transitions (cross dissolve) and default transition via shift+d": [],
     "applying luts for color grading via the creative tab": [
       "adjustment layers for global color and effect application",
       "color correction and luts (c-log 3 to rec. 709) with lumetri color"
@@ -1271,6 +1362,10 @@
       "ai reframe for aspect-ratio changes",
       "auto reframe for social formats (vertical 9x16)",
       "remix tool for music editing and auto-cut detection"
+    ],
+    "auto-save and cache management": [
+      "importing media and creating a sequence",
+      "project folder structure (media and project files)"
     ],
     "bin and sequence creation; organizing with bins and color labels": [
       "color code timeline sections to map story beats",
@@ -1458,6 +1553,7 @@
       "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces"
     ],
     "importing media and creating a sequence": [
+      "auto-save and cache management",
       "create a premiere pro project and folder structure",
       "create and name a sequence from a-roll",
       "drag a-roll to drop media to create a sequence",
@@ -1551,6 +1647,7 @@
       "use workspaces to optimize editing"
     ],
     "project folder structure (media and project files)": [
+      "auto-save and cache management",
       "create a premiere pro project and folder structure",
       "file organization and project setup (year_month_day naming, main folder structure, autosaves location)"
     ],
@@ -1602,6 +1699,7 @@
       "drag a-roll to drop media to create a sequence",
       "importing media and creating a sequence"
     ],
+    "sponsor: story blocks and its stock footage library": [],
     "stabilization (warp stabilizer) and motion corrections": [
       "warp stabilizer for stabilization"
     ],
@@ -1644,6 +1742,9 @@
     "transform keyframes for motion and easing (scale)": [
       "keyframing and motion graphics (transform, position, scale, rotation) with easing"
     ],
+    "ultra key for green screen and keying cleanup": [
+      "warp stabilizer for stabilization"
+    ],
     "use workspaces to optimize editing": [
       "keyboard shortcuts and remapping in premiere",
       "premiere pro interface and workspaces",
@@ -1658,17 +1759,19 @@
       "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)"
     ],
     "warp stabilizer for stabilization": [
-      "stabilization (warp stabilizer) and motion corrections"
+      "stabilization (warp stabilizer) and motion corrections",
+      "ultra key for green screen and keying cleanup"
     ]
   },
   "schema_version": 1,
   "source_hash": "b082a7f8421746f247b3cf7f76643d851b6798c5677b2f86a8eb5fa991185b44",
   "stats": {
     "canonical_topic_count": 87,
+    "display_label_count": 87,
     "family_count": 18,
     "raw_topic_count": 87,
-    "related_edge_count": 157
+    "related_edge_count": 160
   },
   "status": "complete",
-  "updated_at": "2026-08-26T17:56:08.608985+00:00"
+  "updated_at": "2026-08-26T18:20:45.647321+00:00"
 }

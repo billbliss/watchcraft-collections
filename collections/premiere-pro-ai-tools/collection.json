@@ -1,0 +1,276 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "premiere-pro-ai-tools",
+  "title": "Premiere Pro AI Tools",
+  "topic_scope": "collection",
+  "topic_normalization": null,
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "Premiere Pro AI Tools",
+    "children": [
+      {
+        "type": "video",
+        "item_id": "video-premiere-pro-ai-tools-pjobx9xqvgi-youtube-38f15be5"
+      }
+    ]
+  },
+  "topics": {
+    "topic-adjusting-enhancement-intensity-13bd35bc": {
+      "topic_id": "topic-adjusting-enhancement-intensity-13bd35bc",
+      "canonical_key": "adjusting enhancement intensity",
+      "label": "Adjusting enhancement intensity",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-reframe-for-aspect-ratio-changes-18a67b40": {
+      "topic_id": "topic-ai-reframe-for-aspect-ratio-changes-18a67b40",
+      "canonical_key": "ai reframe for aspect-ratio changes",
+      "label": "AI Reframe for aspect-ratio changes",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-text-based-editing-workflow-55a15ea4": {
+      "topic_id": "topic-ai-text-based-editing-workflow-55a15ea4",
+      "canonical_key": "ai text-based editing workflow",
+      "label": "AI text-based editing workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-assisted-color-correction-lumetri-auto-4085a133": {
+      "topic_id": "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+      "canonical_key": "ai-assisted color correction (lumetri auto)",
+      "label": "AI-assisted color correction (Lumetri Auto)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5": {
+      "topic_id": "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+      "canonical_key": "ai-generated sections and visual labeling",
+      "label": "AI-generated sections and visual labeling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-audio-remix-in-premiere-pro-3c71c5db": {
+      "topic_id": "topic-audio-remix-in-premiere-pro-3c71c5db",
+      "canonical_key": "audio remix in premiere pro",
+      "label": "Audio Remix in Premiere Pro",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-auto-reframe-sequence-across-clips-09ee2a96": {
+      "topic_id": "topic-auto-reframe-sequence-across-clips-09ee2a96",
+      "canonical_key": "auto reframe sequence across clips",
+      "label": "Auto Reframe Sequence across clips",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-color-correction-intensity-and-before-after-comp-c41fb911": {
+      "topic_id": "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+      "canonical_key": "color correction intensity and before/after comparison",
+      "label": "Color correction intensity and before/after comparison",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-creating-closed-captions-from-transcripts-bc97c2aa": {
+      "topic_id": "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+      "canonical_key": "creating closed captions from transcripts",
+      "label": "Creating closed captions from transcripts",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-editing-from-text-and-deleting-pauses-fc64a4b0": {
+      "topic_id": "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+      "canonical_key": "editing from text and deleting pauses",
+      "label": "Editing from text and deleting pauses",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-enhance-speech-in-essential-sound-a63422af": {
+      "topic_id": "topic-enhance-speech-in-essential-sound-a63422af",
+      "canonical_key": "enhance speech in essential sound",
+      "label": "Enhance Speech in Essential Sound",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-exporting-and-working-with-transcripts-83ca1e1e": {
+      "topic_id": "topic-exporting-and-working-with-transcripts-83ca1e1e",
+      "canonical_key": "exporting and working with transcripts",
+      "label": "Exporting and working with transcripts",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e": {
+      "topic_id": "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
+      "canonical_key": "filtering pauses and removing filler words",
+      "label": "Filtering pauses and removing filler words",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-generative-extend-for-video-clips-ef0bc611": {
+      "topic_id": "topic-generative-extend-for-video-clips-ef0bc611",
+      "canonical_key": "generative extend for video clips",
+      "label": "Generative Extend for video clips",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-inserting-cuts-at-detected-points-506bad2d": {
+      "topic_id": "topic-inserting-cuts-at-detected-points-506bad2d",
+      "canonical_key": "inserting cuts at detected points",
+      "label": "Inserting cuts at detected points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-morph-cut-for-jump-cut-concealment-e6928d60": {
+      "topic_id": "topic-morph-cut-for-jump-cut-concealment-e6928d60",
+      "canonical_key": "morph cut for jump-cut concealment",
+      "label": "Morph Cut for jump-cut concealment",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rate-stretch-tool-and-remix-subtool-141d7d70": {
+      "topic_id": "topic-rate-stretch-tool-and-remix-subtool-141d7d70",
+      "canonical_key": "rate stretch tool and remix subtool",
+      "label": "Rate Stretch tool and remix subtool",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-scene-edit-detection-11c2a0ce": {
+      "topic_id": "topic-scene-edit-detection-11c2a0ce",
+      "canonical_key": "scene edit detection",
+      "label": "Scene Edit Detection",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-transcription-language-detection-and-speaker-lab-d4696823": {
+      "topic_id": "topic-transcription-language-detection-and-speaker-lab-d4696823",
+      "canonical_key": "transcription language detection and speaker labeling",
+      "label": "Transcription language detection and speaker labeling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    }
+  },
+  "topic_families": {},
+  "items": {
+    "video-premiere-pro-ai-tools-pjobx9xqvgi-youtube-38f15be5": {
+      "item_id": "video-premiere-pro-ai-tools-pjobx9xqvgi-youtube-38f15be5",
+      "title": "Eight AI Tools in Premiere Pro: Remix, Extend, Transcription, and More",
+      "media": [
+        {
+          "type": "youtube",
+          "video_id": "PjObX9XQvgI",
+          "url": "https://www.youtube.com/watch?v=PjObX9XQvgI"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/PjObX9XQvgI.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "Justin Brown (Primal Video) demonstrates eight AI-powered features now available in Adobe Premiere Pro, highlighting how these tools speed editing and enable new workflows. The guide covers audio remix to extend or shorten music with automated seam blending, generative extend to lengthen video clips (up to a two-second AI-generated extension) and identify AI-generated portions, AI text-based editing through transcription (including language detection, speaker labeling, and editing from text), automatic captions export, enhanced speech for noisy audio, scene edit detection to insert cuts at shot changes, morph cut to smooth over jump cuts, AI reframing for auto-scene repositioning when changing aspect ratios, auto reframe sequencing for multi-clip projects, and AI-assisted color correction via Lumetri Auto with adjustable intensity. Throughout, the presenter notes practical caveats (e.g., 2-second extension limit, occasional perceptual differences in color correction, and verification of AI-generated edits). The video provides concrete steps and UI cues (e.g., locating Remix in the rate-stretch menu, selecting AI-generated regions, using Transcribe and the Lumetri Color tab) to help learners apply these features in real-world projects.",
+      "date": {
+        "display": "March 24, 2025",
+        "iso": "2025-03-24",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-audio-remix-in-premiere-pro-3c71c5db",
+        "topic-rate-stretch-tool-and-remix-subtool-141d7d70",
+        "topic-generative-extend-for-video-clips-ef0bc611",
+        "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-transcription-language-detection-and-speaker-lab-d4696823",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
+        "topic-enhance-speech-in-essential-sound-a63422af",
+        "topic-adjusting-enhancement-intensity-13bd35bc",
+        "topic-scene-edit-detection-11c2a0ce",
+        "topic-inserting-cuts-at-detected-points-506bad2d",
+        "topic-morph-cut-for-jump-cut-concealment-e6928d60",
+        "topic-ai-reframe-for-aspect-ratio-changes-18a67b40",
+        "topic-auto-reframe-sequence-across-clips-09ee2a96",
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-audio-remix-in-premiere-pro-3c71c5db": [
+          1
+        ],
+        "topic-enhance-speech-in-essential-sound-a63422af": [
+          4
+        ],
+        "topic-scene-edit-detection-11c2a0ce": [
+          5
+        ],
+        "topic-morph-cut-for-jump-cut-concealment-e6928d60": [
+          6
+        ],
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133": [
+          9
+        ],
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911": [
+          9
+        ]
+      },
+      "chapter_count": 10
+    }
+  },
+  "stats": {
+    "video_count": 1,
+    "topic_count": 19,
+    "topic_family_count": 0
+  },
+  "description": "A Watchcraft collection of public instructional videos.",
+  "source": {
+    "type": "youtube",
+    "publisher": "Justin Brown - Primal Video"
+  },
+  "revision": 2,
+  "content_hash": "9c36718901d82b1c08a7e17f246027180a5a0b86c520204a99d87fed28e14c5f"
+}

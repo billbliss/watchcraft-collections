@@ -1,0 +1,33 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "Premiere Pro AI Tools",
+    "collection_id": "premiere-pro-ai-tools",
+    "description": "A Watchcraft collection of public instructional videos.",
+    "source": {
+      "type": "youtube",
+      "publisher": "Justin Brown - Primal Video"
+    }
+  },
+  "sources": {
+    "PjObX9XQvgI.youtube": {
+      "source_id": "youtube:PjObX9XQvgI",
+      "type": "youtube",
+      "video_id": "PjObX9XQvgI",
+      "url": "https://www.youtube.com/watch?v=PjObX9XQvgI",
+      "title": "8 Insane Premiere Pro AI Tools (Edit Videos Faster With Adobe AI!)",
+      "publisher": "Justin Brown - Primal Video",
+      "publisher_url": "https://www.youtube.com/@PrimalVideo",
+      "thumbnail_url": "https://i.ytimg.com/vi/PjObX9XQvgI/hqdefault.jpg",
+      "duration_seconds": 936,
+      "published_at": "2025-03-24T21:00:33-07:00",
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "video": "PjObX9XQvgI.youtube",
+  "title": "Eight AI Tools in Premiere Pro: Remix, Extend, Transcription, and More",
+  "date": {
+    "display": "March 24, 2025",
+    "iso": "2025-03-24",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "Justin Brown (Primal Video) demonstrates eight AI-powered features now available in Adobe Premiere Pro, highlighting how these tools speed editing and enable new workflows. The guide covers audio remix to extend or shorten music with automated seam blending, generative extend to lengthen video clips (up to a two-second AI-generated extension) and identify AI-generated portions, AI text-based editing through transcription (including language detection, speaker labeling, and editing from text), automatic captions export, enhanced speech for noisy audio, scene edit detection to insert cuts at shot changes, morph cut to smooth over jump cuts, AI reframing for auto-scene repositioning when changing aspect ratios, auto reframe sequencing for multi-clip projects, and AI-assisted color correction via Lumetri Auto with adjustable intensity. Throughout, the presenter notes practical caveats (e.g., 2-second extension limit, occasional perceptual differences in color correction, and verification of AI-generated edits). The video provides concrete steps and UI cues (e.g., locating Remix in the rate-stretch menu, selecting AI-generated regions, using Transcribe and the Lumetri Color tab) to help learners apply these features in real-world projects.",
+  "topics": [
+    "Audio Remix in Premiere Pro",
+    "Rate Stretch tool and remix subtool",
+    "Generative Extend for video clips",
+    "AI-generated sections and visual labeling",
+    "AI text-based editing workflow",
+    "Transcription language detection and speaker labeling",
+    "Editing from text and deleting pauses",
+    "Exporting and working with transcripts",
+    "Creating closed captions from transcripts",
+    "Filtering pauses and removing filler words",
+    "Enhance Speech in Essential Sound",
+    "Adjusting enhancement intensity",
+    "Scene Edit Detection",
+    "Inserting cuts at detected points",
+    "Morph Cut for jump-cut concealment",
+    "AI Reframe for aspect-ratio changes",
+    "Auto Reframe Sequence across clips",
+    "AI-assisted color correction (Lumetri Auto)",
+    "Color correction intensity and before/after comparison"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:00:20.720",
+      "title": "Intro and Overview",
+      "concepts": [
+        "Introduction to Premiere Pro AI features",
+        "Beta access requirements",
+        "Impact on editing workflow"
+      ],
+      "description": "Opening framing of the top AI features in Premiere Pro and notes about beta access."
+    },
+    {
+      "start": "00:00:20.720",
+      "end": "00:01:33.160",
+      "title": "Audio Remix: Extend and Seamlessly Blend Music",
+      "concepts": [
+        "Audio Remix in Premiere Pro",
+        "Remix tool under Rate Stretch",
+        "Seamless audio transitions"
+      ],
+      "description": "Using the Remix tool under Rate Stretch to extend audio and automatically blend edits for seamless transitions."
+    },
+    {
+      "start": "00:01:33.160",
+      "end": "00:04:01.239",
+      "title": "Generative Extend for Video",
+      "concepts": [
+        "Generative Extend",
+        "AI-generated regions",
+        "Two-second extension limit"
+      ],
+      "description": "AI-based extension of video clips up to 2 seconds with highlighted AI-generated regions."
+    },
+    {
+      "start": "00:04:01.239",
+      "end": "00:06:53.800",
+      "title": "AI Text-Based Editing with Transcribe",
+      "concepts": [
+        "Transcribe workflow",
+        "Language detection",
+        "Speaker labeling",
+        "Editing from text",
+        "Pause removal",
+        "Closing captions from transcript",
+        "Transcript export"
+      ],
+      "description": "Transcribing audio, detecting language, labeling speakers, editing from text, removing pauses, exporting transcripts, and generating captions."
+    },
+    {
+      "start": "00:06:53.800",
+      "end": "00:09:25.520",
+      "title": "Enhance Speech (Essential Sound)",
+      "concepts": [
+        "Enhance Speech",
+        "Essential Sound",
+        "Noise reduction",
+        "Intensity control"
+      ],
+      "description": "Using Essential Sound to denoise and improve speech quality with adjustable intensity."
+    },
+    {
+      "start": "00:09:25.520",
+      "end": "00:10:45.520",
+      "title": "Scene Edit Detection",
+      "concepts": [
+        "Scene Edit Detection",
+        "Automatic cuts",
+        "Editing from detected scenes"
+      ],
+      "description": "Automatically identify scene boundaries and insert cuts to facilitate quick re-edits."
+    },
+    {
+      "start": "00:10:45.520",
+      "end": "00:12:14.360",
+      "title": "Morph Cut for Jump-Cut Concealment",
+      "concepts": [
+        "Morph Cut",
+        "Jump-cut concealment",
+        "Frame morphing"
+      ],
+      "description": "Morph between shots to smooth transitions and hide jump cuts."
+    },
+    {
+      "start": "00:12:14.360",
+      "end": "00:12:58.120",
+      "title": "AI Reframe",
+      "concepts": [
+        "AI Reframe",
+        "Auto repositioning",
+        "Subject tracking"
+      ],
+      "description": "Auto repositioning for new aspect ratios; keeps subjects centered and tracked."
+    },
+    {
+      "start": "00:12:58.120",
+      "end": "00:13:51.120",
+      "title": "Auto Reframe Sequence (9:16)",
+      "concepts": [
+        "Auto Reframe Sequence",
+        "9:16 vertical",
+        "Multi-clip sequencing"
+      ],
+      "description": "Applying auto reframe to an entire sequence for vertical formats and across clips."
+    },
+    {
+      "start": "00:13:51.120",
+      "end": "00:15:37.000",
+      "title": "AI-assisted Color Correction (Lumetri Auto)",
+      "concepts": [
+        "Lumetri Auto",
+        "Auto color correction",
+        "Intensity control",
+        "Before/after comparison"
+      ],
+      "description": "Lumetri Auto analyzes shots and applies color adjustments with adjustable intensity; before/after comparison available."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Audio Remix (Premiere Pro)",
+      "timestamp": "00:00:20.720",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Generative Extend (video)",
+      "timestamp": "00:02:25.240",
+      "confidence": 0.85
+    },
+    {
+      "technique": "AI-generated segment visualization and reuse",
+      "timestamp": "00:03:50.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "AI Text-Based Editing via Transcribe",
+      "timestamp": "00:04:01.239",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Closed captions from transcript",
+      "timestamp": "00:06:12.720",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Enhance Speech (Essential Sound)",
+      "timestamp": "00:06:53.800",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Scene Edit Detection",
+      "timestamp": "00:09:25.520",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Morph Cut",
+      "timestamp": "00:10:45.520",
+      "confidence": 0.85
+    },
+    {
+      "technique": "AI Reframe (auto reposition for new aspect ratios)",
+      "timestamp": "00:12:14.360",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Auto Reframe Sequence (9:16 vertical)",
+      "timestamp": "00:12:58.120",
+      "confidence": 0.85
+    },
+    {
+      "technique": "AI-assisted Color Correction (Lumetri Auto)",
+      "timestamp": "00:13:51.120",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-26T08:11:28.788380+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-26T08:12:58.051375+00:00"
+}

@@ -1,0 +1,1674 @@
+{
+  "assignments": {
+    "adjusting audio levels with the gain tool (g)": {
+      "alias_source_keys": [],
+      "canonical_key": "adjusting audio levels with the gain tool (g)",
+      "canonical_label": "Adjusting audio levels with the Gain tool (G)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "rationale": "Gain is a direct audio level adjustment tool.",
+      "source_key": "adjusting audio levels with the gain tool (g)",
+      "source_label": "Adjusting audio levels with the Gain tool (G)"
+    },
+    "adjusting enhancement intensity": {
+      "alias_source_keys": [],
+      "canonical_key": "adjusting enhancement intensity",
+      "canonical_label": "Adjusting enhancement intensity",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "Enhancement intensity refers to tuning an AI-assisted enhancement feature.",
+      "source_key": "adjusting enhancement intensity",
+      "source_label": "Adjusting enhancement intensity"
+    },
+    "adjustment layers for global color and effect application": {
+      "alias_source_keys": [],
+      "canonical_key": "adjustment layers for global color and effect application",
+      "canonical_label": "Adjustment Layers for global color and effect application",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-color-grading-3b7e8bdb",
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "rationale": "Adjustment layers are used to apply color or effects across multiple clips.",
+      "source_key": "adjustment layers for global color and effect application",
+      "source_label": "Adjustment Layers for global color and effect application"
+    },
+    "ai reframe for aspect-ratio changes": {
+      "alias_source_keys": [],
+      "canonical_key": "ai reframe for aspect-ratio changes",
+      "canonical_label": "AI Reframe for aspect-ratio changes",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "AI Reframe is an AI-assisted resizing and reframing workflow.",
+      "source_key": "ai reframe for aspect-ratio changes",
+      "source_label": "AI Reframe for aspect-ratio changes"
+    },
+    "ai text-based editing workflow": {
+      "alias_source_keys": [],
+      "canonical_key": "ai text-based editing workflow",
+      "canonical_label": "AI text-based editing workflow",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Text-based editing is an AI-driven transcript workflow for cutting dialogue.",
+      "source_key": "ai text-based editing workflow",
+      "source_label": "AI text-based editing workflow"
+    },
+    "ai-assisted color correction (lumetri auto)": {
+      "alias_source_keys": [],
+      "canonical_key": "ai-assisted color correction (lumetri auto)",
+      "canonical_label": "AI-assisted color correction (Lumetri Auto)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-color-correction-0389cbfd",
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "Lumetri Auto is an AI-assisted color correction feature.",
+      "source_key": "ai-assisted color correction (lumetri auto)",
+      "source_label": "AI-assisted color correction (Lumetri Auto)"
+    },
+    "ai-generated sections and visual labeling": {
+      "alias_source_keys": [],
+      "canonical_key": "ai-generated sections and visual labeling",
+      "canonical_label": "AI-generated sections and visual labeling",
+      "confidence": 0.73,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Generated sections and labels point to AI-assisted transcript organization.",
+      "source_key": "ai-generated sections and visual labeling",
+      "source_label": "AI-generated sections and visual labeling"
+    },
+    "animating text and converting captions to graphics": {
+      "alias_source_keys": [],
+      "canonical_key": "animating text and converting captions to graphics",
+      "canonical_label": "Animating text and converting captions to graphics",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18",
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Animating text and converting captions to graphics are title and caption styling tasks.",
+      "source_key": "animating text and converting captions to graphics",
+      "source_label": "Animating text and converting captions to graphics"
+    },
+    "applying and adjusting transitions (cross dissolve) and default transition via shift+d": {
+      "alias_source_keys": [],
+      "canonical_key": "applying and adjusting transitions (cross dissolve) and default transition via shift+d",
+      "canonical_label": "Applying and adjusting transitions (cross dissolve) and default transition via Shift+D",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "rationale": "Cross dissolve and default transitions are standard transition workflows.",
+      "source_key": "applying and adjusting transitions (cross dissolve) and default transition via shift+d",
+      "source_label": "Applying and adjusting transitions (cross dissolve) and default transition via Shift+D"
+    },
+    "applying luts for color grading via the creative tab": {
+      "alias_source_keys": [],
+      "canonical_key": "applying luts for color grading via the creative tab",
+      "canonical_label": "Applying LUTs for color grading via the Creative tab",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-color-grading-3b7e8bdb"
+      ],
+      "rationale": "Applying LUTs via the Creative tab is a creative grading workflow.",
+      "source_key": "applying luts for color grading via the creative tab",
+      "source_label": "Applying LUTs for color grading via the Creative tab"
+    },
+    "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)": {
+      "alias_source_keys": [],
+      "canonical_key": "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "canonical_label": "Audio editing with Essential Sound (Dialogue, Auto Match, Ducking; noise reduction; audio gain)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "rationale": "Essential Sound tasks like ducking, noise reduction, and gain are audio editing.",
+      "source_key": "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "source_label": "Audio editing with Essential Sound (Dialogue, Auto Match, Ducking; noise reduction; audio gain)"
+    },
+    "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain": {
+      "alias_source_keys": [],
+      "canonical_key": "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "canonical_label": "Audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "rationale": "Track mixing, denoise, dynamics, and gain are core audio mixing tasks.",
+      "source_key": "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "source_label": "Audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain"
+    },
+    "audio remix in premiere pro": {
+      "alias_source_keys": [],
+      "canonical_key": "audio remix in premiere pro",
+      "canonical_label": "Audio Remix in Premiere Pro",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "Audio Remix is presented as an AI tool in Premiere Pro.",
+      "source_key": "audio remix in premiere pro",
+      "source_label": "Audio Remix in Premiere Pro"
+    },
+    "audio workflow: three-track arrangement (voice, effects, music)": {
+      "alias_source_keys": [],
+      "canonical_key": "audio workflow: three-track arrangement (voice, effects, music)",
+      "canonical_label": "Audio workflow: three-track arrangement (voice, effects, music)",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "rationale": "Organizing voice, effects, and music tracks is an audio workflow structure.",
+      "source_key": "audio workflow: three-track arrangement (voice, effects, music)",
+      "source_label": "Audio workflow: three-track arrangement (voice, effects, music)"
+    },
+    "auto reframe for social formats (vertical 9x16)": {
+      "alias_source_keys": [],
+      "canonical_key": "auto reframe for social formats (vertical 9x16)",
+      "canonical_label": "Auto Reframe for social formats (Vertical 9x16)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "Auto Reframe is an AI-assisted aspect-ratio conversion feature.",
+      "source_key": "auto reframe for social formats (vertical 9x16)",
+      "source_label": "Auto Reframe for social formats (Vertical 9x16)"
+    },
+    "auto reframe sequence across clips": {
+      "alias_source_keys": [],
+      "canonical_key": "auto reframe sequence across clips",
+      "canonical_label": "Auto Reframe Sequence across clips",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "Auto Reframe across a sequence is an AI reframing workflow.",
+      "source_key": "auto reframe sequence across clips",
+      "source_label": "Auto Reframe Sequence across clips"
+    },
+    "auto-save and cache management": {
+      "alias_source_keys": [],
+      "canonical_key": "auto-save and cache management",
+      "canonical_label": "Auto-save and cache management",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-project-setup-c56d30c4"
+      ],
+      "rationale": "Auto-save and cache management are foundational project setup tasks.",
+      "source_key": "auto-save and cache management",
+      "source_label": "Auto-save and cache management"
+    },
+    "bin and sequence creation; organizing with bins and color labels": {
+      "alias_source_keys": [],
+      "canonical_key": "bin and sequence creation; organizing with bins and color labels",
+      "canonical_label": "Bin and sequence creation; organizing with bins and color labels",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "rationale": "Bins, sequences, and color labels are used to organize media and timelines.",
+      "source_key": "bin and sequence creation; organizing with bins and color labels",
+      "source_label": "Bin and sequence creation; organizing with bins and color labels"
+    },
+    "captions and transcript-based editing (create captions from transcript, translation, track styles)": {
+      "alias_source_keys": [],
+      "canonical_key": "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "canonical_label": "Captions and transcript-based editing (Create Captions from Transcript, translation, track styles)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Creating captions from transcripts and transcript styling are transcript-driven workflows.",
+      "source_key": "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "source_label": "Captions and transcript-based editing (Create Captions from Transcript, translation, track styles)"
+    },
+    "clip trimming with playhead and ripple edits": {
+      "alias_source_keys": [],
+      "canonical_key": "clip trimming with playhead and ripple edits",
+      "canonical_label": "Clip trimming with playhead and ripple edits",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "Trimming and ripple edits are core timeline editing operations.",
+      "source_key": "clip trimming with playhead and ripple edits",
+      "source_label": "Clip trimming with playhead and ripple edits"
+    },
+    "color code timeline sections to map story beats": {
+      "alias_source_keys": [],
+      "canonical_key": "color code timeline sections to map story beats",
+      "canonical_label": "Color code timeline sections to map story beats",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "rationale": "Color-coding timeline sections is a way to structure and label the edit.",
+      "source_key": "color code timeline sections to map story beats",
+      "source_label": "Color code timeline sections to map story beats"
+    },
+    "color correct source footage to apply globally across clips": {
+      "alias_source_keys": [],
+      "canonical_key": "color correct source footage to apply globally across clips",
+      "canonical_label": "Color correct source footage to apply globally across clips",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "rationale": "Applying correction to source footage for reuse across clips is color correction.",
+      "source_key": "color correct source footage to apply globally across clips",
+      "source_label": "Color correct source footage to apply globally across clips"
+    },
+    "color correction and luts (c-log 3 to rec. 709) with lumetri color": {
+      "alias_source_keys": [],
+      "canonical_key": "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "canonical_label": "Color correction and LUTs (C-Log 3 to Rec. 709) with Lumetri Color",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-color-correction-0389cbfd",
+        "family-color-grading-3b7e8bdb"
+      ],
+      "rationale": "Lumetri correction plus LUT conversion spans correction and grading.",
+      "source_key": "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "source_label": "Color correction and LUTs (C-Log 3 to Rec. 709) with Lumetri Color"
+    },
+    "color correction intensity and before/after comparison": {
+      "alias_source_keys": [],
+      "canonical_key": "color correction intensity and before/after comparison",
+      "canonical_label": "Color correction intensity and before/after comparison",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-color-correction-0389cbfd",
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "The topic covers AI color correction with before/after comparison.",
+      "source_key": "color correction intensity and before/after comparison",
+      "source_label": "Color correction intensity and before/after comparison"
+    },
+    "color matching with comparison view and apply match": {
+      "alias_source_keys": [],
+      "canonical_key": "color matching with comparison view and apply match",
+      "canonical_label": "Color matching with comparison view and Apply Match",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "rationale": "Comparison view and Apply Match are color matching correction tools.",
+      "source_key": "color matching with comparison view and apply match",
+      "source_label": "Color matching with comparison view and Apply Match"
+    },
+    "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)": {
+      "alias_source_keys": [],
+      "canonical_key": "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "canonical_label": "Core editing tools and shortcuts (V, C, W, Q, A, B, N; ripple, slip, roll)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "The listed shortcuts are foundational editing and trim tools.",
+      "source_key": "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "source_label": "Core editing tools and shortcuts (V, C, W, Q, A, B, N; ripple, slip, roll)"
+    },
+    "create a premiere pro project and folder structure": {
+      "alias_source_keys": [],
+      "canonical_key": "create a premiere pro project and folder structure",
+      "canonical_label": "Create a Premiere Pro project and folder structure",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-project-setup-c56d30c4"
+      ],
+      "rationale": "Creating the project and folder structure is initial setup work.",
+      "source_key": "create a premiere pro project and folder structure",
+      "source_label": "Create a Premiere Pro project and folder structure"
+    },
+    "create and name a sequence from a-roll": {
+      "alias_source_keys": [],
+      "canonical_key": "create and name a sequence from a-roll",
+      "canonical_label": "Create and name a sequence from A-roll",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "rationale": "Creating and naming a sequence from A-roll is sequence setup.",
+      "source_key": "create and name a sequence from a-roll",
+      "source_label": "Create and name a sequence from A-roll"
+    },
+    "creating closed captions from transcripts": {
+      "alias_source_keys": [],
+      "canonical_key": "creating closed captions from transcripts",
+      "canonical_label": "Creating closed captions from transcripts",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Creating captions from transcripts is transcript-based captioning.",
+      "source_key": "creating closed captions from transcripts",
+      "source_label": "Creating closed captions from transcripts"
+    },
+    "cut and trim with razor (c) and selection (v) tools": {
+      "alias_source_keys": [],
+      "canonical_key": "cut and trim with razor (c) and selection (v) tools",
+      "canonical_label": "Cut and trim with Razor (C) and Selection (V) tools",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "Razor and Selection tools are basic clip-cutting and trimming tools.",
+      "source_key": "cut and trim with razor (c) and selection (v) tools",
+      "source_label": "Cut and trim with Razor (C) and Selection (V) tools"
+    },
+    "drag a-roll to drop media to create a sequence": {
+      "alias_source_keys": [],
+      "canonical_key": "drag a-roll to drop media to create a sequence",
+      "canonical_label": "Drag A-roll to drop media to create a sequence",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "rationale": "Dragging A-roll to create a sequence is a sequence creation workflow.",
+      "source_key": "drag a-roll to drop media to create a sequence",
+      "source_label": "Drag A-roll to drop media to create a sequence"
+    },
+    "drive selection for performance (ssd vs hdd)": {
+      "alias_source_keys": [],
+      "canonical_key": "drive selection for performance (ssd vs hdd)",
+      "canonical_label": "Drive selection for performance (SSD vs HDD)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-playback-and-performance-dfa3736e"
+      ],
+      "rationale": "Choosing SSDs versus HDDs is a performance and storage decision.",
+      "source_key": "drive selection for performance (ssd vs hdd)",
+      "source_label": "Drive selection for performance (SSD vs HDD)"
+    },
+    "ducking, mastering, and amplitude/compression adjustments": {
+      "alias_source_keys": [],
+      "canonical_key": "ducking, mastering, and amplitude/compression adjustments",
+      "canonical_label": "Ducking, mastering, and amplitude/compression adjustments",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "rationale": "Ducking, mastering, and compression are audio processing tasks.",
+      "source_key": "ducking, mastering, and amplitude/compression adjustments",
+      "source_label": "Ducking, mastering, and amplitude/compression adjustments"
+    },
+    "editing from text and deleting pauses": {
+      "alias_source_keys": [],
+      "canonical_key": "editing from text and deleting pauses",
+      "canonical_label": "Editing from text and deleting pauses",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Editing from text and deleting pauses are transcript-based dialogue edits.",
+      "source_key": "editing from text and deleting pauses",
+      "source_label": "Editing from text and deleting pauses"
+    },
+    "enhance speech in essential sound": {
+      "alias_source_keys": [],
+      "canonical_key": "enhance speech in essential sound",
+      "canonical_label": "Enhance Speech in Essential Sound",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-audio-editing-38de09f5",
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "Enhance Speech is an AI-assisted audio cleanup feature.",
+      "source_key": "enhance speech in essential sound",
+      "source_label": "Enhance Speech in Essential Sound"
+    },
+    "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)": {
+      "alias_source_keys": [],
+      "canonical_key": "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)",
+      "canonical_label": "Export workflow (Export Media, H.264, High Quality 1080p, burn-in captions, render in to out)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "rationale": "Export media settings, presets, captions, and render steps are delivery tasks.",
+      "source_key": "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)",
+      "source_label": "Export workflow (Export Media, H.264, High Quality 1080p, burn-in captions, render in to out)"
+    },
+    "export workflow: outpoints, command m, h.264, and 4k presets": {
+      "alias_source_keys": [],
+      "canonical_key": "export workflow: outpoints, command m, h.264, and 4k presets",
+      "canonical_label": "Export workflow: Outpoints, Command M, H.264, and 4K presets",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "rationale": "Outpoints, Command M, and H.264 presets describe export delivery workflow.",
+      "source_key": "export workflow: outpoints, command m, h.264, and 4k presets",
+      "source_label": "Export workflow: Outpoints, Command M, H.264, and 4K presets"
+    },
+    "exporting and working with transcripts": {
+      "alias_source_keys": [],
+      "canonical_key": "exporting and working with transcripts",
+      "canonical_label": "Exporting and working with transcripts",
+      "confidence": 0.77,
+      "family_ids": [
+        "family-export-and-delivery-acd195da",
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Transcripts are being exported and used as part of the delivery workflow.",
+      "source_key": "exporting and working with transcripts",
+      "source_label": "Exporting and working with transcripts"
+    },
+    "exporting: in/out points, 1080p h.264, and final render": {
+      "alias_source_keys": [],
+      "canonical_key": "exporting: in/out points, 1080p h.264, and final render",
+      "canonical_label": "Exporting: in/out points, 1080p H.264, and final render",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "rationale": "In/out points, H.264, and final render are export settings and delivery steps.",
+      "source_key": "exporting: in/out points, 1080p h.264, and final render",
+      "source_label": "Exporting: in/out points, 1080p H.264, and final render"
+    },
+    "file organization and project setup (year_month_day naming, main folder structure, autosaves location)": {
+      "alias_source_keys": [],
+      "canonical_key": "file organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "canonical_label": "File organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-project-setup-c56d30c4",
+        "family-media-organization-999a1952"
+      ],
+      "rationale": "Naming conventions, folder structure, and autosaves location belong to setup and organization.",
+      "source_key": "file organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "source_label": "File organization and project setup (year_month_day naming, main folder structure, autosaves location)"
+    },
+    "filtering pauses and removing filler words": {
+      "alias_source_keys": [],
+      "canonical_key": "filtering pauses and removing filler words",
+      "canonical_label": "Filtering pauses and removing filler words",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Removing pauses and filler words is a transcript-driven dialogue cleanup task.",
+      "source_key": "filtering pauses and removing filler words",
+      "source_label": "Filtering pauses and removing filler words"
+    },
+    "generative extend for video clips": {
+      "alias_source_keys": [],
+      "canonical_key": "generative extend for video clips",
+      "canonical_label": "Generative Extend for video clips",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "rationale": "Generative Extend is an AI-assisted editing feature for creating extra clip content.",
+      "source_key": "generative extend for video clips",
+      "source_label": "Generative Extend for video clips"
+    },
+    "graphics and lower thirds (essential graphics templates)": {
+      "alias_source_keys": [],
+      "canonical_key": "graphics and lower thirds (essential graphics templates)",
+      "canonical_label": "Graphics and lower thirds (Essential Graphics templates)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "rationale": "Lower thirds and Essential Graphics templates are on-screen graphic design work.",
+      "source_key": "graphics and lower thirds (essential graphics templates)",
+      "source_label": "Graphics and lower thirds (Essential Graphics templates)"
+    },
+    "import media and create bins for organization": {
+      "alias_source_keys": [],
+      "canonical_key": "import media and create bins for organization",
+      "canonical_label": "Import media and create bins for organization",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "rationale": "Importing media and creating bins is core media organization.",
+      "source_key": "import media and create bins for organization",
+      "source_label": "Import media and create bins for organization"
+    },
+    "import mode and hover scrubbing of footage": {
+      "alias_source_keys": [],
+      "canonical_key": "import mode and hover scrubbing of footage",
+      "canonical_label": "Import Mode and hover scrubbing of footage",
+      "confidence": 0.76,
+      "family_ids": [
+        "family-project-setup-c56d30c4",
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "rationale": "Import mode and hover scrubbing relate to initial workflow setup and navigating the import interface.",
+      "source_key": "import mode and hover scrubbing of footage",
+      "source_label": "Import Mode and hover scrubbing of footage"
+    },
+    "importing media and creating a sequence": {
+      "alias_source_keys": [
+        "import media and create bins for organization"
+      ],
+      "canonical_key": "importing media and creating a sequence",
+      "canonical_label": "Importing media and creating a sequence",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-project-setup-c56d30c4",
+        "family-sequence-setup-38329584"
+      ],
+      "rationale": "This combines importing media with creating a sequence, and the alias matches the organization-focused variant.",
+      "source_key": "importing media and creating a sequence",
+      "source_label": "Importing media and creating a sequence"
+    },
+    "in and out points for selecting clip sections (i/o)": {
+      "alias_source_keys": [],
+      "canonical_key": "in and out points for selecting clip sections (i/o)",
+      "canonical_label": "In and out points for selecting clip sections (I/O)",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "Setting in and out points is basic clip selection for editing.",
+      "source_key": "in and out points for selecting clip sections (i/o)",
+      "source_label": "In and out points for selecting clip sections (I/O)"
+    },
+    "insert b-roll using video-only drag to avoid overwriting audio": {
+      "alias_source_keys": [],
+      "canonical_key": "insert b-roll using video-only drag to avoid overwriting audio",
+      "canonical_label": "Insert B-roll using video-only drag to avoid overwriting audio",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-b-roll-and-montage-472ac6dd"
+      ],
+      "rationale": "Video-only drag for B-roll insertion is a standard layering workflow.",
+      "source_key": "insert b-roll using video-only drag to avoid overwriting audio",
+      "source_label": "Insert B-roll using video-only drag to avoid overwriting audio"
+    },
+    "inserting an intro bumper and aligning it with edits": {
+      "alias_source_keys": [],
+      "canonical_key": "inserting an intro bumper and aligning it with edits",
+      "canonical_label": "Inserting an intro bumper and aligning it with edits",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-b-roll-and-montage-472ac6dd"
+      ],
+      "rationale": "An intro bumper placed and aligned with edits is montage-style timeline construction.",
+      "source_key": "inserting an intro bumper and aligning it with edits",
+      "source_label": "Inserting an intro bumper and aligning it with edits"
+    },
+    "inserting cuts at detected points": {
+      "alias_source_keys": [],
+      "canonical_key": "inserting cuts at detected points",
+      "canonical_label": "Inserting cuts at detected points",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "Detected cuts here refers to transcript-based or scene-detection-assisted cut insertion.",
+      "source_key": "inserting cuts at detected points",
+      "source_label": "Inserting cuts at detected points"
+    },
+    "keyboard shortcuts and remapping in premiere": {
+      "alias_source_keys": [],
+      "canonical_key": "keyboard shortcuts and remapping in premiere",
+      "canonical_label": "Keyboard shortcuts and remapping in Premiere",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-playback-and-performance-dfa3736e",
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "rationale": "Keyboard shortcuts and remapping are speed and navigation habits that improve editing efficiency.",
+      "source_key": "keyboard shortcuts and remapping in premiere",
+      "source_label": "Keyboard shortcuts and remapping in Premiere"
+    },
+    "keyframing and motion graphics (transform, position, scale, rotation) with easing": {
+      "alias_source_keys": [],
+      "canonical_key": "keyframing and motion graphics (transform, position, scale, rotation) with easing",
+      "canonical_label": "Keyframing and motion graphics (Transform, position, scale, rotation) with easing",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-motion-and-keyframes-0647f3ad"
+      ],
+      "rationale": "Position, scale, rotation, and easing are all keyframe-based motion controls.",
+      "source_key": "keyframing and motion graphics (transform, position, scale, rotation) with easing",
+      "source_label": "Keyframing and motion graphics (Transform, position, scale, rotation) with easing"
+    },
+    "layer a-roll and b-roll for multi-track edits": {
+      "alias_source_keys": [],
+      "canonical_key": "layer a-roll and b-roll for multi-track edits",
+      "canonical_label": "Layer A-roll and B-roll for multi-track edits",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-b-roll-and-montage-472ac6dd"
+      ],
+      "rationale": "Layering A-roll and B-roll across tracks is a multi-track montage workflow.",
+      "source_key": "layer a-roll and b-roll for multi-track edits",
+      "source_label": "Layer A-roll and B-roll for multi-track edits"
+    },
+    "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)": {
+      "alias_source_keys": [],
+      "canonical_key": "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "canonical_label": "Lumetri Color (Basic, Creative, Color Wheels, Comparison View, Match, Auto Tone)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "rationale": "Lumetri Color panels like Basic, Wheels, Match, and Auto Tone are correction tools.",
+      "source_key": "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "source_label": "Lumetri Color (Basic, Creative, Color Wheels, Comparison View, Match, Auto Tone)"
+    },
+    "lumetri color correction, exposure/contrast/shadows, and white balance": {
+      "alias_source_keys": [],
+      "canonical_key": "lumetri color correction, exposure/contrast/shadows, and white balance",
+      "canonical_label": "Lumetri color correction, exposure/contrast/shadows, and white balance",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "rationale": "Exposure, contrast, shadows, and white balance are classic color correction adjustments.",
+      "source_key": "lumetri color correction, exposure/contrast/shadows, and white balance",
+      "source_label": "Lumetri color correction, exposure/contrast/shadows, and white balance"
+    },
+    "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation": {
+      "alias_source_keys": [],
+      "canonical_key": "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation",
+      "canonical_label": "Lumetri scopes and IRE range; exposure, highlights, shadows, whites, blacks, and saturation",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "rationale": "Scopes and IRE guidance are used to evaluate and correct exposure and saturation.",
+      "source_key": "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation",
+      "source_label": "Lumetri scopes and IRE range; exposure, highlights, shadows, whites, blacks, and saturation"
+    },
+    "managing export outputs in an 'exports' folder with versioning": {
+      "alias_source_keys": [],
+      "canonical_key": "managing export outputs in an 'exports' folder with versioning",
+      "canonical_label": "Managing export outputs in an 'exports' folder with versioning",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "rationale": "Managing export outputs and versions is part of delivery organization.",
+      "source_key": "managing export outputs in an 'exports' folder with versioning",
+      "source_label": "Managing export outputs in an 'exports' folder with versioning"
+    },
+    "memory (ram) allocation for editing workflows": {
+      "alias_source_keys": [],
+      "canonical_key": "memory (ram) allocation for editing workflows",
+      "canonical_label": "Memory (RAM) allocation for editing workflows",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-playback-and-performance-dfa3736e"
+      ],
+      "rationale": "RAM allocation is a performance optimization setting for editing workflows.",
+      "source_key": "memory (ram) allocation for editing workflows",
+      "source_label": "Memory (RAM) allocation for editing workflows"
+    },
+    "morph cut for jump-cut concealment": {
+      "alias_source_keys": [],
+      "canonical_key": "morph cut for jump-cut concealment",
+      "canonical_label": "Morph Cut for jump-cut concealment",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "rationale": "Morph Cut is an effect used to conceal jump cuts.",
+      "source_key": "morph cut for jump-cut concealment",
+      "source_label": "Morph Cut for jump-cut concealment"
+    },
+    "multi-camera editing workflow (create multi-camera source sequence, toggle multi-camera view, flattening, nesting, toggling camera angles)": {
+      "alias_source_keys": [],
+      "canonical_key": "multi-camera editing workflow (create multi-camera source sequence, toggle multi-camera view, flattening, nesting, toggling camera angles)",
+      "canonical_label": "Multi-camera editing workflow (Create Multi-Camera Source Sequence, Toggle Multi-Camera View, flattening, nesting, toggling camera angles)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-multicam-and-scene-matching-8f0b71e2"
+      ],
+      "rationale": "The listed multicam actions are all part of multi-camera editing workflows.",
+      "source_key": "multi-camera editing workflow (create multi-camera source sequence, toggle multi-camera view, flattening, nesting, toggling camera angles)",
+      "source_label": "Multi-camera editing workflow (Create Multi-Camera Source Sequence, Toggle Multi-Camera View, flattening, nesting, toggling camera angles)"
+    },
+    "organize media into a-roll, b-roll, and assets": {
+      "alias_source_keys": [],
+      "canonical_key": "organize media into a-roll, b-roll, and assets",
+      "canonical_label": "Organize media into A-roll, B-roll, and assets",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "rationale": "Separating A-roll, B-roll, and assets is media organization.",
+      "source_key": "organize media into a-roll, b-roll, and assets",
+      "source_label": "Organize media into A-roll, B-roll, and assets"
+    },
+    "premiere pro interface and workspaces": {
+      "alias_source_keys": [],
+      "canonical_key": "premiere pro interface and workspaces",
+      "canonical_label": "Premiere Pro interface and workspaces",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "rationale": "Premiere Pro interface and workspaces directly match the workspace category.",
+      "source_key": "premiere pro interface and workspaces",
+      "source_label": "Premiere Pro interface and workspaces"
+    },
+    "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces": {
+      "alias_source_keys": [],
+      "canonical_key": "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces",
+      "canonical_label": "Premiere Pro workspace fundamentals (Project, Source, Timeline, Program windows) and workspaces",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "rationale": "Project, Source, Timeline, and Program windows are core workspace fundamentals.",
+      "source_key": "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces",
+      "source_label": "Premiere Pro workspace fundamentals (Project, Source, Timeline, Program windows) and workspaces"
+    },
+    "project folder structure (media and project files)": {
+      "alias_source_keys": [],
+      "canonical_key": "project folder structure (media and project files)",
+      "canonical_label": "Project folder structure (media and project files)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-project-setup-c56d30c4"
+      ],
+      "rationale": "Project folder structure for media and project files is foundational setup.",
+      "source_key": "project folder structure (media and project files)",
+      "source_label": "Project folder structure (media and project files)"
+    },
+    "rate stretch tool and remix subtool": {
+      "alias_source_keys": [],
+      "canonical_key": "rate stretch tool and remix subtool",
+      "canonical_label": "Rate Stretch tool and remix subtool",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "rationale": "Rate Stretch and remix are editing tools tied to time manipulation and music trimming.",
+      "source_key": "rate stretch tool and remix subtool",
+      "source_label": "Rate Stretch tool and remix subtool"
+    },
+    "razor vs. ripple delete; inserting vs. overwriting edits": {
+      "alias_source_keys": [],
+      "canonical_key": "razor vs. ripple delete; inserting vs. overwriting edits",
+      "canonical_label": "Razor vs. ripple delete; inserting vs. overwriting edits",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "Razor, ripple delete, insert, and overwrite are fundamental editing operations.",
+      "source_key": "razor vs. ripple delete; inserting vs. overwriting edits",
+      "source_label": "Razor vs. ripple delete; inserting vs. overwriting edits"
+    },
+    "remix tool for music editing and auto-cut detection": {
+      "alias_source_keys": [],
+      "canonical_key": "remix tool for music editing and auto-cut detection",
+      "canonical_label": "Remix tool for music editing and auto-cut detection",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-audio-editing-38de09f5"
+      ],
+      "rationale": "Remix for music editing is audio-focused, with auto-cut detection adding an AI-assisted workflow.",
+      "source_key": "remix tool for music editing and auto-cut detection",
+      "source_label": "Remix tool for music editing and auto-cut detection"
+    },
+    "rename and organize sequences into a dedicated bin": {
+      "alias_source_keys": [],
+      "canonical_key": "rename and organize sequences into a dedicated bin",
+      "canonical_label": "Rename and organize sequences into a dedicated bin",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "rationale": "Renaming and filing sequences into a bin is timeline organization.",
+      "source_key": "rename and organize sequences into a dedicated bin",
+      "source_label": "Rename and organize sequences into a dedicated bin"
+    },
+    "ripple edits to shift timeline content efficiently (q)": {
+      "alias_source_keys": [],
+      "canonical_key": "ripple edits to shift timeline content efficiently (q)",
+      "canonical_label": "Ripple edits to shift timeline content efficiently (Q)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "Ripple edits are a foundational timeline editing operation.",
+      "source_key": "ripple edits to shift timeline content efficiently (q)",
+      "source_label": "Ripple edits to shift timeline content efficiently (Q)"
+    },
+    "scene edit detection": {
+      "alias_source_keys": [],
+      "canonical_key": "scene edit detection",
+      "canonical_label": "Scene Edit Detection",
+      "confidence": 1.0,
+      "family_ids": [
+        "family-multicam-and-scene-matching-8f0b71e2"
+      ],
+      "rationale": "Scene Edit Detection is explicitly a scene-matching workflow.",
+      "source_key": "scene edit detection",
+      "source_label": "Scene Edit Detection"
+    },
+    "sequence settings and matching to footage (frame rate, resolution)": {
+      "alias_source_keys": [
+        "sequence settings: frame rate, resolution, and color space"
+      ],
+      "canonical_key": "sequence settings and matching to footage (frame rate, resolution)",
+      "canonical_label": "Sequence settings and matching to footage (frame rate, resolution)",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "rationale": "This is a sequence-settings variant focused on matching footage, and the alias is exact.",
+      "source_key": "sequence settings and matching to footage (frame rate, resolution)",
+      "source_label": "Sequence settings and matching to footage (frame rate, resolution)"
+    },
+    "sequence settings: frame rate, resolution, and color space": {
+      "alias_source_keys": [
+        "sequence settings and matching to footage (frame rate, resolution)"
+      ],
+      "canonical_key": "sequence settings: frame rate, resolution, and color space",
+      "canonical_label": "Sequence settings: frame rate, resolution, and color space",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "rationale": "The exact sequence-settings phrase corresponds to matching settings to source footage.",
+      "source_key": "sequence settings: frame rate, resolution, and color space",
+      "source_label": "Sequence settings: frame rate, resolution, and color space"
+    },
+    "slow down 60fps b-roll on a 24fps timeline": {
+      "alias_source_keys": [],
+      "canonical_key": "slow down 60fps b-roll on a 24fps timeline",
+      "canonical_label": "Slow down 60fps B-roll on a 24fps timeline",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "rationale": "Slowing 60fps footage on a 24fps timeline is a frame-rate sequence choice.",
+      "source_key": "slow down 60fps b-roll on a 24fps timeline",
+      "source_label": "Slow down 60fps B-roll on a 24fps timeline"
+    },
+    "sponsor: story blocks and its stock footage library": {
+      "alias_source_keys": [],
+      "canonical_key": "sponsor: story blocks and its stock footage library",
+      "canonical_label": "Sponsor: Story Blocks and its stock footage library",
+      "confidence": 0.06,
+      "family_ids": [],
+      "rationale": "This is a sponsor mention about stock footage, not a Premiere editing topic.",
+      "source_key": "sponsor: story blocks and its stock footage library",
+      "source_label": "Sponsor: Story Blocks and its stock footage library"
+    },
+    "stabilization (warp stabilizer) and motion corrections": {
+      "alias_source_keys": [],
+      "canonical_key": "stabilization (warp stabilizer) and motion corrections",
+      "canonical_label": "Stabilization (Warp Stabilizer) and motion corrections",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "rationale": "Warp Stabilizer and motion correction are effects that repair or smooth footage.",
+      "source_key": "stabilization (warp stabilizer) and motion corrections",
+      "source_label": "Stabilization (Warp Stabilizer) and motion corrections"
+    },
+    "subtitles and captions from transcript; caption styling and animation": {
+      "alias_source_keys": [],
+      "canonical_key": "subtitles and captions from transcript; caption styling and animation",
+      "canonical_label": "Subtitles and captions from transcript; caption styling and animation",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062",
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "rationale": "Transcript captions and their styling are both transcript and caption-graphics workflows.",
+      "source_key": "subtitles and captions from transcript; caption styling and animation",
+      "source_label": "Subtitles and captions from transcript; caption styling and animation"
+    },
+    "text and essential graphics: creating, centering, and font choices": {
+      "alias_source_keys": [],
+      "canonical_key": "text and essential graphics: creating, centering, and font choices",
+      "canonical_label": "Text and essential graphics: creating, centering, and font choices",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "rationale": "Creating, centering, and styling text with Essential Graphics is title work.",
+      "source_key": "text and essential graphics: creating, centering, and font choices",
+      "source_label": "Text and essential graphics: creating, centering, and font choices"
+    },
+    "text titles: adding and styling with t, font choice, and drop shadow": {
+      "alias_source_keys": [],
+      "canonical_key": "text titles: adding and styling with t, font choice, and drop shadow",
+      "canonical_label": "Text titles: adding and styling with T, font choice, and drop shadow",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "rationale": "Adding and styling text titles is a titles-and-graphics task.",
+      "source_key": "text titles: adding and styling with t, font choice, and drop shadow",
+      "source_label": "Text titles: adding and styling with T, font choice, and drop shadow"
+    },
+    "timeline basics (playhead, zoom, snapping, linked audio/video)": {
+      "alias_source_keys": [],
+      "canonical_key": "timeline basics (playhead, zoom, snapping, linked audio/video)",
+      "canonical_label": "Timeline basics (playhead, zoom, snapping, linked audio/video)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-timeline-fundamentals-7bb52e92"
+      ],
+      "rationale": "Playhead, zoom, snapping, and linked audio/video are timeline fundamentals.",
+      "source_key": "timeline basics (playhead, zoom, snapping, linked audio/video)",
+      "source_label": "Timeline basics (playhead, zoom, snapping, linked audio/video)"
+    },
+    "timeline basics: snapping, unlinking video and audio, and ripple delete": {
+      "alias_source_keys": [],
+      "canonical_key": "timeline basics: snapping, unlinking video and audio, and ripple delete",
+      "canonical_label": "Timeline basics: snapping, unlinking video and audio, and ripple delete",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-timeline-fundamentals-7bb52e92",
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "Snapping, unlinking audio/video, and ripple delete combine timeline behavior with basic editing.",
+      "source_key": "timeline basics: snapping, unlinking video and audio, and ripple delete",
+      "source_label": "Timeline basics: snapping, unlinking video and audio, and ripple delete"
+    },
+    "transcription language detection and speaker labeling": {
+      "alias_source_keys": [],
+      "canonical_key": "transcription language detection and speaker labeling",
+      "canonical_label": "Transcription language detection and speaker labeling",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "rationale": "This is about transcription language detection and speaker labeling, which belongs to transcript-based editing.",
+      "source_key": "transcription language detection and speaker labeling",
+      "source_label": "Transcription language detection and speaker labeling"
+    },
+    "transform keyframes for motion and easing (scale)": {
+      "alias_source_keys": [],
+      "canonical_key": "transform keyframes for motion and easing (scale)",
+      "canonical_label": "Transform keyframes for motion and easing (scale)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-motion-and-keyframes-0647f3ad"
+      ],
+      "rationale": "Scale keyframes and easing are core motion animation concepts.",
+      "source_key": "transform keyframes for motion and easing (scale)",
+      "source_label": "Transform keyframes for motion and easing (scale)"
+    },
+    "ultra key for green screen and keying cleanup": {
+      "alias_source_keys": [],
+      "canonical_key": "ultra key for green screen and keying cleanup",
+      "canonical_label": "Ultra Key for green screen and keying cleanup",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "rationale": "Ultra Key is a keyed effect used for green-screen cleanup and compositing.",
+      "source_key": "ultra key for green screen and keying cleanup",
+      "source_label": "Ultra Key for green screen and keying cleanup"
+    },
+    "use workspaces to optimize editing": {
+      "alias_source_keys": [],
+      "canonical_key": "use workspaces to optimize editing",
+      "canonical_label": "Use workspaces to optimize editing",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "rationale": "Workspaces are part of Premiere Pro layout and interface optimization.",
+      "source_key": "use workspaces to optimize editing",
+      "source_label": "Use workspaces to optimize editing"
+    },
+    "using shapes and nesting for organized motion graphics": {
+      "alias_source_keys": [],
+      "canonical_key": "using shapes and nesting for organized motion graphics",
+      "canonical_label": "Using shapes and nesting for organized motion graphics",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "rationale": "Shapes and nesting are used to build and organize motion graphics and on-screen design elements.",
+      "source_key": "using shapes and nesting for organized motion graphics",
+      "source_label": "Using shapes and nesting for organized motion graphics"
+    },
+    "using the slip tool for precise timing": {
+      "alias_source_keys": [],
+      "canonical_key": "using the slip tool for precise timing",
+      "canonical_label": "Using the slip tool for precise timing",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "rationale": "The slip tool is a foundational clip-timing edit in the timeline.",
+      "source_key": "using the slip tool for precise timing",
+      "source_label": "Using the slip tool for precise timing"
+    },
+    "warp stabilizer for stabilization": {
+      "alias_source_keys": [],
+      "canonical_key": "warp stabilizer for stabilization",
+      "canonical_label": "Warp Stabilizer for stabilization",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "rationale": "Warp Stabilizer is a stabilization effect used to smooth shaky footage.",
+      "source_key": "warp stabilizer for stabilization",
+      "source_label": "Warp Stabilizer for stabilization"
+    }
+  },
+  "collection_id": "premiere-pro-ai-tools",
+  "created_at": "2026-08-26T17:55:27.601898+00:00",
+  "families": {
+    "family-ai-editing-tools-4244cb13": {
+      "canonical_key": "ai editing tools",
+      "description": "Groups AI-assisted Premiere workflows such as generative extend, AI reframing, auto color correction, enhancement, and speech tools.",
+      "family_id": "family-ai-editing-tools-4244cb13",
+      "label": "AI Editing Tools"
+    },
+    "family-audio-editing-38de09f5": {
+      "canonical_key": "audio editing",
+      "description": "Covers gain, mixing, ducking, noise reduction, mastering, track organization, and other essential sound-editing tasks.",
+      "family_id": "family-audio-editing-38de09f5",
+      "label": "Audio Editing"
+    },
+    "family-b-roll-and-montage-472ac6dd": {
+      "canonical_key": "b-roll and montage",
+      "description": "Focuses on layering B-roll, insert and overwrite workflows, intro bumpers, and timeline constructions that support narrative pacing.",
+      "family_id": "family-b-roll-and-montage-472ac6dd",
+      "label": "B-Roll And Montage"
+    },
+    "family-color-correction-0389cbfd": {
+      "canonical_key": "color correction",
+      "description": "Includes white balance, exposure, scopes, comparison view, color matching, and correction workflows across Lumetri and related tools.",
+      "family_id": "family-color-correction-0389cbfd",
+      "label": "Color Correction"
+    },
+    "family-color-grading-3b7e8bdb": {
+      "canonical_key": "color grading",
+      "description": "Covers creative grading choices such as LUTs, looks, adjustment layers, and stylistic color treatment for finished footage.",
+      "family_id": "family-color-grading-3b7e8bdb",
+      "label": "Color Grading"
+    },
+    "family-core-editing-44d51558": {
+      "canonical_key": "core editing",
+      "description": "Covers trimming, cutting, ripple edits, slip and roll adjustments, and other foundational clip-editing operations.",
+      "family_id": "family-core-editing-44d51558",
+      "label": "Core Editing"
+    },
+    "family-export-and-delivery-acd195da": {
+      "canonical_key": "export and delivery",
+      "description": "Covers export settings, presets, in/out points, render steps, caption burn-ins, and file organization for final delivery.",
+      "family_id": "family-export-and-delivery-acd195da",
+      "label": "Export And Delivery"
+    },
+    "family-interface-and-workspaces-8ab2feb1": {
+      "canonical_key": "interface and workspaces",
+      "description": "Includes the Premiere Pro layout, core panels, workspaces, and navigation habits that help editors move efficiently through the app.",
+      "family_id": "family-interface-and-workspaces-8ab2feb1",
+      "label": "Interface And Workspaces"
+    },
+    "family-media-organization-999a1952": {
+      "canonical_key": "media organization",
+      "description": "Groups practices for importing footage, making bins, naming sequences, labeling assets, and keeping sources and timelines structured.",
+      "family_id": "family-media-organization-999a1952",
+      "label": "Media Organization"
+    },
+    "family-motion-and-keyframes-0647f3ad": {
+      "canonical_key": "motion and keyframes",
+      "description": "Includes position, scale, rotation, easing, transform animation, and other motion-driven visual adjustments.",
+      "family_id": "family-motion-and-keyframes-0647f3ad",
+      "label": "Motion And Keyframes"
+    },
+    "family-multicam-and-scene-matching-8f0b71e2": {
+      "canonical_key": "multicam and scene matching",
+      "description": "Includes multi-camera workflows, scene edit detection, and methods for aligning or flattening source edits across footage.",
+      "family_id": "family-multicam-and-scene-matching-8f0b71e2",
+      "label": "Multicam And Scene Matching"
+    },
+    "family-playback-and-performance-dfa3736e": {
+      "canonical_key": "playback and performance",
+      "description": "Includes shortcuts, remapping, hardware choices, RAM allocation, drive selection, and other practices that improve editing speed and responsiveness.",
+      "family_id": "family-playback-and-performance-dfa3736e",
+      "label": "Playback And Performance"
+    },
+    "family-project-setup-c56d30c4": {
+      "canonical_key": "project setup",
+      "description": "Covers creating projects, folder structures, autosaves, cache, storage, and other foundational setup decisions before editing begins.",
+      "family_id": "family-project-setup-c56d30c4",
+      "label": "Project Setup"
+    },
+    "family-sequence-setup-38329584": {
+      "canonical_key": "sequence setup",
+      "description": "Covers sequence creation, matching settings to footage, frame-rate choices, and building timelines from source clips or A-roll.",
+      "family_id": "family-sequence-setup-38329584",
+      "label": "Sequence Setup"
+    },
+    "family-speech-and-transcript-editing-b1666062": {
+      "canonical_key": "speech and transcript editing",
+      "description": "Groups transcript-based editing, caption generation, pause removal, speaker labeling, and text-driven dialogue cleanup workflows.",
+      "family_id": "family-speech-and-transcript-editing-b1666062",
+      "label": "Speech And Transcript Editing"
+    },
+    "family-timeline-fundamentals-7bb52e92": {
+      "canonical_key": "timeline fundamentals",
+      "description": "Includes playhead control, snapping, zooming, linked clips, track behavior, and other basic timeline navigation skills.",
+      "family_id": "family-timeline-fundamentals-7bb52e92",
+      "label": "Timeline Fundamentals"
+    },
+    "family-titles-and-graphics-c8fe2d18": {
+      "canonical_key": "titles and graphics",
+      "description": "Covers text titles, lower thirds, essential graphics, shapes, caption styling, and other on-screen graphic design work.",
+      "family_id": "family-titles-and-graphics-c8fe2d18",
+      "label": "Titles And Graphics"
+    },
+    "family-transitions-and-effects-97f8a0d5": {
+      "canonical_key": "transitions and effects",
+      "description": "Includes cross dissolves, Morph Cut, Ultra Key, stabilization, and other effects that smooth, repair, or stylize footage.",
+      "family_id": "family-transitions-and-effects-97f8a0d5",
+      "label": "Transitions And Effects"
+    }
+  },
+  "model": "gpt-5.4-mini",
+  "prompt_version": 2,
+  "related": {
+    "adjusting audio levels with the gain tool (g)": [
+      "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "audio workflow: three-track arrangement (voice, effects, music)"
+    ],
+    "adjusting enhancement intensity": [
+      "ai-assisted color correction (lumetri auto)",
+      "color correction intensity and before/after comparison",
+      "enhance speech in essential sound"
+    ],
+    "adjustment layers for global color and effect application": [
+      "applying luts for color grading via the creative tab",
+      "color correction and luts (c-log 3 to rec. 709) with lumetri color"
+    ],
+    "ai reframe for aspect-ratio changes": [
+      "auto reframe for social formats (vertical 9x16)",
+      "auto reframe sequence across clips",
+      "generative extend for video clips"
+    ],
+    "ai text-based editing workflow": [
+      "ai-generated sections and visual labeling",
+      "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "editing from text and deleting pauses",
+      "exporting and working with transcripts",
+      "filtering pauses and removing filler words",
+      "generative extend for video clips",
+      "inserting cuts at detected points",
+      "remix tool for music editing and auto-cut detection",
+      "transcription language detection and speaker labeling"
+    ],
+    "ai-assisted color correction (lumetri auto)": [
+      "adjusting enhancement intensity",
+      "color correct source footage to apply globally across clips",
+      "color correction intensity and before/after comparison",
+      "color matching with comparison view and apply match",
+      "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "lumetri color correction, exposure/contrast/shadows, and white balance",
+      "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation"
+    ],
+    "ai-generated sections and visual labeling": [
+      "ai text-based editing workflow",
+      "editing from text and deleting pauses",
+      "generative extend for video clips",
+      "inserting cuts at detected points"
+    ],
+    "animating text and converting captions to graphics": [
+      "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "graphics and lower thirds (essential graphics templates)",
+      "subtitles and captions from transcript; caption styling and animation",
+      "text and essential graphics: creating, centering, and font choices",
+      "text titles: adding and styling with t, font choice, and drop shadow",
+      "using shapes and nesting for organized motion graphics"
+    ],
+    "applying luts for color grading via the creative tab": [
+      "adjustment layers for global color and effect application",
+      "color correction and luts (c-log 3 to rec. 709) with lumetri color"
+    ],
+    "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)": [
+      "adjusting audio levels with the gain tool (g)",
+      "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "audio workflow: three-track arrangement (voice, effects, music)",
+      "ducking, mastering, and amplitude/compression adjustments",
+      "enhance speech in essential sound",
+      "remix tool for music editing and auto-cut detection"
+    ],
+    "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain": [
+      "adjusting audio levels with the gain tool (g)",
+      "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "audio workflow: three-track arrangement (voice, effects, music)",
+      "ducking, mastering, and amplitude/compression adjustments",
+      "enhance speech in essential sound"
+    ],
+    "audio remix in premiere pro": [
+      "enhance speech in essential sound",
+      "generative extend for video clips",
+      "remix tool for music editing and auto-cut detection"
+    ],
+    "audio workflow: three-track arrangement (voice, effects, music)": [
+      "adjusting audio levels with the gain tool (g)",
+      "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "remix tool for music editing and auto-cut detection"
+    ],
+    "auto reframe for social formats (vertical 9x16)": [
+      "ai reframe for aspect-ratio changes",
+      "auto reframe sequence across clips"
+    ],
+    "auto reframe sequence across clips": [
+      "ai reframe for aspect-ratio changes",
+      "auto reframe for social formats (vertical 9x16)",
+      "remix tool for music editing and auto-cut detection"
+    ],
+    "bin and sequence creation; organizing with bins and color labels": [
+      "color code timeline sections to map story beats",
+      "file organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "import media and create bins for organization",
+      "rename and organize sequences into a dedicated bin"
+    ],
+    "captions and transcript-based editing (create captions from transcript, translation, track styles)": [
+      "ai text-based editing workflow",
+      "animating text and converting captions to graphics",
+      "creating closed captions from transcripts",
+      "editing from text and deleting pauses",
+      "exporting and working with transcripts",
+      "subtitles and captions from transcript; caption styling and animation"
+    ],
+    "clip trimming with playhead and ripple edits": [
+      "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "cut and trim with razor (c) and selection (v) tools",
+      "in and out points for selecting clip sections (i/o)",
+      "razor vs. ripple delete; inserting vs. overwriting edits",
+      "ripple edits to shift timeline content efficiently (q)",
+      "timeline basics: snapping, unlinking video and audio, and ripple delete"
+    ],
+    "color code timeline sections to map story beats": [
+      "bin and sequence creation; organizing with bins and color labels",
+      "organize media into a-roll, b-roll, and assets"
+    ],
+    "color correct source footage to apply globally across clips": [
+      "ai-assisted color correction (lumetri auto)",
+      "color correction intensity and before/after comparison",
+      "color matching with comparison view and apply match",
+      "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "lumetri color correction, exposure/contrast/shadows, and white balance"
+    ],
+    "color correction and luts (c-log 3 to rec. 709) with lumetri color": [
+      "adjustment layers for global color and effect application",
+      "applying luts for color grading via the creative tab",
+      "color correction intensity and before/after comparison",
+      "color matching with comparison view and apply match",
+      "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "lumetri color correction, exposure/contrast/shadows, and white balance",
+      "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation"
+    ],
+    "color correction intensity and before/after comparison": [
+      "adjusting enhancement intensity",
+      "ai-assisted color correction (lumetri auto)",
+      "color correct source footage to apply globally across clips",
+      "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "color matching with comparison view and apply match",
+      "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "lumetri color correction, exposure/contrast/shadows, and white balance"
+    ],
+    "color matching with comparison view and apply match": [
+      "ai-assisted color correction (lumetri auto)",
+      "color correct source footage to apply globally across clips",
+      "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "color correction intensity and before/after comparison",
+      "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "lumetri color correction, exposure/contrast/shadows, and white balance"
+    ],
+    "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)": [
+      "clip trimming with playhead and ripple edits",
+      "cut and trim with razor (c) and selection (v) tools",
+      "razor vs. ripple delete; inserting vs. overwriting edits",
+      "ripple edits to shift timeline content efficiently (q)",
+      "timeline basics: snapping, unlinking video and audio, and ripple delete",
+      "using the slip tool for precise timing"
+    ],
+    "create a premiere pro project and folder structure": [
+      "file organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "importing media and creating a sequence",
+      "project folder structure (media and project files)"
+    ],
+    "create and name a sequence from a-roll": [
+      "drag a-roll to drop media to create a sequence",
+      "importing media and creating a sequence",
+      "sequence settings and matching to footage (frame rate, resolution)",
+      "sequence settings: frame rate, resolution, and color space"
+    ],
+    "creating closed captions from transcripts": [
+      "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "exporting and working with transcripts",
+      "filtering pauses and removing filler words",
+      "inserting cuts at detected points",
+      "subtitles and captions from transcript; caption styling and animation",
+      "transcription language detection and speaker labeling"
+    ],
+    "cut and trim with razor (c) and selection (v) tools": [
+      "clip trimming with playhead and ripple edits",
+      "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "in and out points for selecting clip sections (i/o)",
+      "razor vs. ripple delete; inserting vs. overwriting edits",
+      "ripple edits to shift timeline content efficiently (q)"
+    ],
+    "drag a-roll to drop media to create a sequence": [
+      "create and name a sequence from a-roll",
+      "importing media and creating a sequence",
+      "sequence settings and matching to footage (frame rate, resolution)",
+      "sequence settings: frame rate, resolution, and color space",
+      "slow down 60fps b-roll on a 24fps timeline"
+    ],
+    "drive selection for performance (ssd vs hdd)": [
+      "memory (ram) allocation for editing workflows"
+    ],
+    "ducking, mastering, and amplitude/compression adjustments": [
+      "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain"
+    ],
+    "editing from text and deleting pauses": [
+      "ai text-based editing workflow",
+      "ai-generated sections and visual labeling",
+      "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "exporting and working with transcripts",
+      "filtering pauses and removing filler words",
+      "inserting cuts at detected points",
+      "subtitles and captions from transcript; caption styling and animation",
+      "transcription language detection and speaker labeling"
+    ],
+    "enhance speech in essential sound": [
+      "adjusting enhancement intensity",
+      "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "audio remix in premiere pro"
+    ],
+    "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)": [
+      "export workflow: outpoints, command m, h.264, and 4k presets",
+      "exporting: in/out points, 1080p h.264, and final render",
+      "managing export outputs in an 'exports' folder with versioning"
+    ],
+    "export workflow: outpoints, command m, h.264, and 4k presets": [
+      "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)",
+      "exporting: in/out points, 1080p h.264, and final render",
+      "managing export outputs in an 'exports' folder with versioning"
+    ],
+    "exporting and working with transcripts": [
+      "ai text-based editing workflow",
+      "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "creating closed captions from transcripts",
+      "editing from text and deleting pauses",
+      "exporting: in/out points, 1080p h.264, and final render",
+      "filtering pauses and removing filler words",
+      "managing export outputs in an 'exports' folder with versioning",
+      "subtitles and captions from transcript; caption styling and animation",
+      "transcription language detection and speaker labeling"
+    ],
+    "exporting: in/out points, 1080p h.264, and final render": [
+      "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)",
+      "export workflow: outpoints, command m, h.264, and 4k presets",
+      "exporting and working with transcripts"
+    ],
+    "file organization and project setup (year_month_day naming, main folder structure, autosaves location)": [
+      "bin and sequence creation; organizing with bins and color labels",
+      "create a premiere pro project and folder structure",
+      "import media and create bins for organization",
+      "import mode and hover scrubbing of footage",
+      "project folder structure (media and project files)"
+    ],
+    "filtering pauses and removing filler words": [
+      "ai text-based editing workflow",
+      "creating closed captions from transcripts",
+      "editing from text and deleting pauses",
+      "exporting and working with transcripts",
+      "inserting cuts at detected points",
+      "transcription language detection and speaker labeling"
+    ],
+    "generative extend for video clips": [
+      "ai reframe for aspect-ratio changes",
+      "ai text-based editing workflow",
+      "ai-generated sections and visual labeling",
+      "audio remix in premiere pro"
+    ],
+    "graphics and lower thirds (essential graphics templates)": [
+      "animating text and converting captions to graphics",
+      "text and essential graphics: creating, centering, and font choices",
+      "using shapes and nesting for organized motion graphics"
+    ],
+    "import media and create bins for organization": [
+      "bin and sequence creation; organizing with bins and color labels",
+      "file organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "organize media into a-roll, b-roll, and assets",
+      "rename and organize sequences into a dedicated bin"
+    ],
+    "import mode and hover scrubbing of footage": [
+      "file organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces"
+    ],
+    "importing media and creating a sequence": [
+      "create a premiere pro project and folder structure",
+      "create and name a sequence from a-roll",
+      "drag a-roll to drop media to create a sequence",
+      "sequence settings and matching to footage (frame rate, resolution)",
+      "sequence settings: frame rate, resolution, and color space",
+      "slow down 60fps b-roll on a 24fps timeline"
+    ],
+    "in and out points for selecting clip sections (i/o)": [
+      "clip trimming with playhead and ripple edits",
+      "cut and trim with razor (c) and selection (v) tools"
+    ],
+    "insert b-roll using video-only drag to avoid overwriting audio": [
+      "inserting an intro bumper and aligning it with edits",
+      "layer a-roll and b-roll for multi-track edits"
+    ],
+    "inserting an intro bumper and aligning it with edits": [
+      "insert b-roll using video-only drag to avoid overwriting audio",
+      "layer a-roll and b-roll for multi-track edits"
+    ],
+    "inserting cuts at detected points": [
+      "ai text-based editing workflow",
+      "ai-generated sections and visual labeling",
+      "creating closed captions from transcripts",
+      "editing from text and deleting pauses",
+      "filtering pauses and removing filler words"
+    ],
+    "keyboard shortcuts and remapping in premiere": [
+      "premiere pro interface and workspaces",
+      "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces",
+      "use workspaces to optimize editing"
+    ],
+    "keyframing and motion graphics (transform, position, scale, rotation) with easing": [
+      "transform keyframes for motion and easing (scale)"
+    ],
+    "layer a-roll and b-roll for multi-track edits": [
+      "insert b-roll using video-only drag to avoid overwriting audio",
+      "inserting an intro bumper and aligning it with edits"
+    ],
+    "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)": [
+      "ai-assisted color correction (lumetri auto)",
+      "color correct source footage to apply globally across clips",
+      "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "color correction intensity and before/after comparison",
+      "color matching with comparison view and apply match",
+      "lumetri color correction, exposure/contrast/shadows, and white balance",
+      "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation"
+    ],
+    "lumetri color correction, exposure/contrast/shadows, and white balance": [
+      "ai-assisted color correction (lumetri auto)",
+      "color correct source footage to apply globally across clips",
+      "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "color correction intensity and before/after comparison",
+      "color matching with comparison view and apply match",
+      "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation"
+    ],
+    "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation": [
+      "ai-assisted color correction (lumetri auto)",
+      "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "lumetri color correction, exposure/contrast/shadows, and white balance"
+    ],
+    "managing export outputs in an 'exports' folder with versioning": [
+      "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)",
+      "export workflow: outpoints, command m, h.264, and 4k presets",
+      "exporting and working with transcripts"
+    ],
+    "memory (ram) allocation for editing workflows": [
+      "drive selection for performance (ssd vs hdd)"
+    ],
+    "morph cut for jump-cut concealment": [
+      "rate stretch tool and remix subtool"
+    ],
+    "multi-camera editing workflow (create multi-camera source sequence, toggle multi-camera view, flattening, nesting, toggling camera angles)": [
+      "scene edit detection"
+    ],
+    "organize media into a-roll, b-roll, and assets": [
+      "color code timeline sections to map story beats",
+      "import media and create bins for organization",
+      "rename and organize sequences into a dedicated bin"
+    ],
+    "premiere pro interface and workspaces": [
+      "keyboard shortcuts and remapping in premiere",
+      "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces",
+      "use workspaces to optimize editing"
+    ],
+    "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces": [
+      "import mode and hover scrubbing of footage",
+      "keyboard shortcuts and remapping in premiere",
+      "premiere pro interface and workspaces",
+      "use workspaces to optimize editing"
+    ],
+    "project folder structure (media and project files)": [
+      "create a premiere pro project and folder structure",
+      "file organization and project setup (year_month_day naming, main folder structure, autosaves location)"
+    ],
+    "rate stretch tool and remix subtool": [
+      "morph cut for jump-cut concealment"
+    ],
+    "razor vs. ripple delete; inserting vs. overwriting edits": [
+      "clip trimming with playhead and ripple edits",
+      "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "cut and trim with razor (c) and selection (v) tools",
+      "ripple edits to shift timeline content efficiently (q)",
+      "timeline basics: snapping, unlinking video and audio, and ripple delete"
+    ],
+    "remix tool for music editing and auto-cut detection": [
+      "ai text-based editing workflow",
+      "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "audio remix in premiere pro",
+      "audio workflow: three-track arrangement (voice, effects, music)",
+      "auto reframe sequence across clips"
+    ],
+    "rename and organize sequences into a dedicated bin": [
+      "bin and sequence creation; organizing with bins and color labels",
+      "import media and create bins for organization",
+      "organize media into a-roll, b-roll, and assets"
+    ],
+    "ripple edits to shift timeline content efficiently (q)": [
+      "clip trimming with playhead and ripple edits",
+      "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "cut and trim with razor (c) and selection (v) tools",
+      "razor vs. ripple delete; inserting vs. overwriting edits",
+      "timeline basics: snapping, unlinking video and audio, and ripple delete"
+    ],
+    "scene edit detection": [
+      "multi-camera editing workflow (create multi-camera source sequence, toggle multi-camera view, flattening, nesting, toggling camera angles)"
+    ],
+    "sequence settings and matching to footage (frame rate, resolution)": [
+      "create and name a sequence from a-roll",
+      "drag a-roll to drop media to create a sequence",
+      "importing media and creating a sequence",
+      "sequence settings: frame rate, resolution, and color space"
+    ],
+    "sequence settings: frame rate, resolution, and color space": [
+      "create and name a sequence from a-roll",
+      "drag a-roll to drop media to create a sequence",
+      "importing media and creating a sequence",
+      "sequence settings and matching to footage (frame rate, resolution)"
+    ],
+    "slow down 60fps b-roll on a 24fps timeline": [
+      "drag a-roll to drop media to create a sequence",
+      "importing media and creating a sequence"
+    ],
+    "stabilization (warp stabilizer) and motion corrections": [
+      "warp stabilizer for stabilization"
+    ],
+    "subtitles and captions from transcript; caption styling and animation": [
+      "animating text and converting captions to graphics",
+      "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "creating closed captions from transcripts",
+      "editing from text and deleting pauses",
+      "exporting and working with transcripts",
+      "text titles: adding and styling with t, font choice, and drop shadow"
+    ],
+    "text and essential graphics: creating, centering, and font choices": [
+      "animating text and converting captions to graphics",
+      "graphics and lower thirds (essential graphics templates)",
+      "text titles: adding and styling with t, font choice, and drop shadow",
+      "using shapes and nesting for organized motion graphics"
+    ],
+    "text titles: adding and styling with t, font choice, and drop shadow": [
+      "animating text and converting captions to graphics",
+      "subtitles and captions from transcript; caption styling and animation",
+      "text and essential graphics: creating, centering, and font choices"
+    ],
+    "timeline basics (playhead, zoom, snapping, linked audio/video)": [
+      "timeline basics: snapping, unlinking video and audio, and ripple delete"
+    ],
+    "timeline basics: snapping, unlinking video and audio, and ripple delete": [
+      "clip trimming with playhead and ripple edits",
+      "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "razor vs. ripple delete; inserting vs. overwriting edits",
+      "ripple edits to shift timeline content efficiently (q)",
+      "timeline basics (playhead, zoom, snapping, linked audio/video)"
+    ],
+    "transcription language detection and speaker labeling": [
+      "ai text-based editing workflow",
+      "creating closed captions from transcripts",
+      "editing from text and deleting pauses",
+      "exporting and working with transcripts",
+      "filtering pauses and removing filler words"
+    ],
+    "transform keyframes for motion and easing (scale)": [
+      "keyframing and motion graphics (transform, position, scale, rotation) with easing"
+    ],
+    "use workspaces to optimize editing": [
+      "keyboard shortcuts and remapping in premiere",
+      "premiere pro interface and workspaces",
+      "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces"
+    ],
+    "using shapes and nesting for organized motion graphics": [
+      "animating text and converting captions to graphics",
+      "graphics and lower thirds (essential graphics templates)",
+      "text and essential graphics: creating, centering, and font choices"
+    ],
+    "using the slip tool for precise timing": [
+      "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)"
+    ],
+    "warp stabilizer for stabilization": [
+      "stabilization (warp stabilizer) and motion corrections"
+    ]
+  },
+  "schema_version": 1,
+  "source_hash": "b082a7f8421746f247b3cf7f76643d851b6798c5677b2f86a8eb5fa991185b44",
+  "stats": {
+    "canonical_topic_count": 87,
+    "family_count": 18,
+    "raw_topic_count": 87,
+    "related_edge_count": 157
+  },
+  "status": "complete",
+  "updated_at": "2026-08-26T17:56:08.608985+00:00"
+}

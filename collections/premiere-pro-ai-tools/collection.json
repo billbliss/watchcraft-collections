@@ -2,14 +2,31 @@
   "kind": "watchcraft.collection",
   "schema_version": 4,
   "collection_id": "premiere-pro-ai-tools",
-  "title": "Premiere Pro AI Tools",
+  "title": "Learning Adobe Premiere Pro",
   "topic_scope": "collection",
-  "topic_normalization": null,
+  "topic_normalization": {
+    "schema_version": 1,
+    "prompt_version": 2,
+    "model": "gpt-5.4-mini",
+    "source_hash": "b082a7f8421746f247b3cf7f76643d851b6798c5677b2f86a8eb5fa991185b44"
+  },
   "root": {
     "type": "group",
     "group_id": "root",
-    "title": "Premiere Pro AI Tools",
+    "title": "Learning Adobe Premiere Pro",
     "children": [
+      {
+        "type": "video",
+        "item_id": "video-premiere-pro-ai-tools-48fn-pqiliy-youtube-649a8f3f"
+      },
+      {
+        "type": "video",
+        "item_id": "video-premiere-pro-ai-tools-xdq3ij-ohja-youtube-2530c64c"
+      },
+      {
+        "type": "video",
+        "item_id": "video-premiere-pro-ai-tools-beh1i5n-798-youtube-db6c3578"
+      },
       {
         "type": "video",
         "item_id": "video-premiere-pro-ai-tools-pjobx9xqvgi-youtube-38f15be5"
@@ -17,14 +34,50 @@
     ]
   },
   "topics": {
+    "topic-adjusting-audio-levels-with-the-gain-tool-g-1a0f5389": {
+      "topic_id": "topic-adjusting-audio-levels-with-the-gain-tool-g-1a0f5389",
+      "canonical_key": "adjusting audio levels with the gain tool (g)",
+      "label": "Adjusting audio levels with the Gain tool (G)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "related_topic_ids": [
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301",
+        "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b"
+      ]
+    },
     "topic-adjusting-enhancement-intensity-13bd35bc": {
       "topic_id": "topic-adjusting-enhancement-intensity-13bd35bc",
       "canonical_key": "adjusting enhancement intensity",
       "label": "Adjusting enhancement intensity",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "related_topic_ids": [
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-enhance-speech-in-essential-sound-a63422af"
+      ]
+    },
+    "topic-adjustment-layers-for-global-color-and-effect-ap-9e61d32c": {
+      "topic_id": "topic-adjustment-layers-for-global-color-and-effect-ap-9e61d32c",
+      "canonical_key": "adjustment layers for global color and effect application",
+      "label": "Adjustment Layers for global color and effect application",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-grading-3b7e8bdb",
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "related_topic_ids": [
+        "topic-applying-luts-for-color-grading-via-the-creative-a23ed18b",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d"
+      ]
     },
     "topic-ai-reframe-for-aspect-ratio-changes-18a67b40": {
       "topic_id": "topic-ai-reframe-for-aspect-ratio-changes-18a67b40",
@@ -32,8 +85,14 @@
       "label": "AI Reframe for aspect-ratio changes",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "related_topic_ids": [
+        "topic-auto-reframe-for-social-formats-vertical-9x16-b86a7ceb",
+        "topic-auto-reframe-sequence-across-clips-09ee2a96",
+        "topic-generative-extend-for-video-clips-ef0bc611"
+      ]
     },
     "topic-ai-text-based-editing-workflow-55a15ea4": {
       "topic_id": "topic-ai-text-based-editing-workflow-55a15ea4",
@@ -41,8 +100,21 @@
       "label": "AI text-based editing workflow",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
+        "topic-generative-extend-for-video-clips-ef0bc611",
+        "topic-inserting-cuts-at-detected-points-506bad2d",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c",
+        "topic-transcription-language-detection-and-speaker-lab-d4696823"
+      ]
     },
     "topic-ai-assisted-color-correction-lumetri-auto-4085a133": {
       "topic_id": "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
@@ -50,8 +122,19 @@
       "label": "AI-assisted color correction (Lumetri Auto)",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-color-correction-0389cbfd"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-enhancement-intensity-13bd35bc",
+        "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62",
+        "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960"
+      ]
     },
     "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5": {
       "topic_id": "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
@@ -59,8 +142,95 @@
       "label": "AI-generated sections and visual labeling",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-generative-extend-for-video-clips-ef0bc611",
+        "topic-inserting-cuts-at-detected-points-506bad2d"
+      ]
+    },
+    "topic-animating-text-and-converting-captions-to-graphi-26c24468": {
+      "topic_id": "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+      "canonical_key": "animating text and converting captions to graphics",
+      "label": "Animating text and converting captions to graphics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062",
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "related_topic_ids": [
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-graphics-and-lower-thirds-essential-graphics-tem-cc921037",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-text-and-essential-graphics-creating-centering-a-68eabd71",
+        "topic-text-titles-adding-and-styling-with-t-font-choic-913bfef1",
+        "topic-using-shapes-and-nesting-for-organized-motion-gr-8767a576"
+      ]
+    },
+    "topic-applying-and-adjusting-transitions-cross-dissolv-156cf009": {
+      "topic_id": "topic-applying-and-adjusting-transitions-cross-dissolv-156cf009",
+      "canonical_key": "applying and adjusting transitions (cross dissolve) and default transition via shift+d",
+      "label": "Applying and adjusting transitions (cross dissolve) and default transition via Shift+D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
       "related_topic_ids": []
+    },
+    "topic-applying-luts-for-color-grading-via-the-creative-a23ed18b": {
+      "topic_id": "topic-applying-luts-for-color-grading-via-the-creative-a23ed18b",
+      "canonical_key": "applying luts for color grading via the creative tab",
+      "label": "Applying LUTs for color grading via the Creative tab",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-grading-3b7e8bdb"
+      ],
+      "related_topic_ids": [
+        "topic-adjustment-layers-for-global-color-and-effect-ap-9e61d32c",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d"
+      ]
+    },
+    "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9": {
+      "topic_id": "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+      "canonical_key": "audio editing with essential sound (dialogue, auto match, ducking; noise reduction; audio gain)",
+      "label": "Audio editing with Essential Sound (Dialogue, Auto Match, Ducking; noise reduction; audio gain)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-audio-levels-with-the-gain-tool-g-1a0f5389",
+        "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301",
+        "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b",
+        "topic-ducking-mastering-and-amplitude-compression-adju-87ebc058",
+        "topic-enhance-speech-in-essential-sound-a63422af",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c"
+      ]
+    },
+    "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301": {
+      "topic_id": "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301",
+      "canonical_key": "audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "label": "Audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-audio-levels-with-the-gain-tool-g-1a0f5389",
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b",
+        "topic-ducking-mastering-and-amplitude-compression-adju-87ebc058",
+        "topic-enhance-speech-in-essential-sound-a63422af"
+      ]
     },
     "topic-audio-remix-in-premiere-pro-3c71c5db": {
       "topic_id": "topic-audio-remix-in-premiere-pro-3c71c5db",
@@ -68,8 +238,44 @@
       "label": "Audio Remix in Premiere Pro",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "related_topic_ids": [
+        "topic-enhance-speech-in-essential-sound-a63422af",
+        "topic-generative-extend-for-video-clips-ef0bc611",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c"
+      ]
+    },
+    "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b": {
+      "topic_id": "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b",
+      "canonical_key": "audio workflow: three-track arrangement (voice, effects, music)",
+      "label": "Audio workflow: three-track arrangement (voice, effects, music)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-audio-levels-with-the-gain-tool-g-1a0f5389",
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c"
+      ]
+    },
+    "topic-auto-reframe-for-social-formats-vertical-9x16-b86a7ceb": {
+      "topic_id": "topic-auto-reframe-for-social-formats-vertical-9x16-b86a7ceb",
+      "canonical_key": "auto reframe for social formats (vertical 9x16)",
+      "label": "Auto Reframe for social formats (Vertical 9x16)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "related_topic_ids": [
+        "topic-ai-reframe-for-aspect-ratio-changes-18a67b40",
+        "topic-auto-reframe-sequence-across-clips-09ee2a96"
+      ]
     },
     "topic-auto-reframe-sequence-across-clips-09ee2a96": {
       "topic_id": "topic-auto-reframe-sequence-across-clips-09ee2a96",
@@ -77,8 +283,128 @@
       "label": "Auto Reframe Sequence across clips",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "related_topic_ids": [
+        "topic-ai-reframe-for-aspect-ratio-changes-18a67b40",
+        "topic-auto-reframe-for-social-formats-vertical-9x16-b86a7ceb",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c"
+      ]
+    },
+    "topic-auto-save-and-cache-management-b57f32e3": {
+      "topic_id": "topic-auto-save-and-cache-management-b57f32e3",
+      "canonical_key": "auto-save and cache management",
+      "label": "Auto-save and cache management",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-project-setup-c56d30c4"
+      ],
       "related_topic_ids": []
+    },
+    "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413": {
+      "topic_id": "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413",
+      "canonical_key": "bin and sequence creation; organizing with bins and color labels",
+      "label": "Bin and sequence creation; organizing with bins and color labels",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "related_topic_ids": [
+        "topic-color-code-timeline-sections-to-map-story-beats-57d63086",
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+        "topic-import-media-and-create-bins-for-organization-fb037152",
+        "topic-rename-and-organize-sequences-into-a-dedicated-b-c4bb63b8"
+      ]
+    },
+    "topic-captions-and-transcript-based-editing-create-cap-9741624c": {
+      "topic_id": "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+      "canonical_key": "captions and transcript-based editing (create captions from transcript, translation, track styles)",
+      "label": "Captions and transcript-based editing (Create Captions from Transcript, translation, track styles)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824"
+      ]
+    },
+    "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf": {
+      "topic_id": "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+      "canonical_key": "clip trimming with playhead and ripple edits",
+      "label": "Clip trimming with playhead and ripple edits",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "related_topic_ids": [
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+        "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437",
+        "topic-in-and-out-points-for-selecting-clip-sections-i--afd0bcfa",
+        "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+        "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c",
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329"
+      ]
+    },
+    "topic-color-code-timeline-sections-to-map-story-beats-57d63086": {
+      "topic_id": "topic-color-code-timeline-sections-to-map-story-beats-57d63086",
+      "canonical_key": "color code timeline sections to map story beats",
+      "label": "Color code timeline sections to map story beats",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "related_topic_ids": [
+        "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413",
+        "topic-organize-media-into-a-roll-b-roll-and-assets-6d42dbbc"
+      ]
+    },
+    "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223": {
+      "topic_id": "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+      "canonical_key": "color correct source footage to apply globally across clips",
+      "label": "Color correct source footage to apply globally across clips",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "related_topic_ids": [
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62"
+      ]
+    },
+    "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d": {
+      "topic_id": "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+      "canonical_key": "color correction and luts (c-log 3 to rec. 709) with lumetri color",
+      "label": "Color correction and LUTs (C-Log 3 to Rec. 709) with Lumetri Color",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-correction-0389cbfd",
+        "family-color-grading-3b7e8bdb"
+      ],
+      "related_topic_ids": [
+        "topic-adjustment-layers-for-global-color-and-effect-ap-9e61d32c",
+        "topic-applying-luts-for-color-grading-via-the-creative-a23ed18b",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62",
+        "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960"
+      ]
     },
     "topic-color-correction-intensity-and-before-after-comp-c41fb911": {
       "topic_id": "topic-color-correction-intensity-and-before-after-comp-c41fb911",
@@ -86,8 +412,86 @@
       "label": "Color correction intensity and before/after comparison",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-color-correction-0389cbfd"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-enhancement-intensity-13bd35bc",
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62"
+      ]
+    },
+    "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8": {
+      "topic_id": "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+      "canonical_key": "color matching with comparison view and apply match",
+      "label": "Color matching with comparison view and Apply Match",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "related_topic_ids": [
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62"
+      ]
+    },
+    "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f": {
+      "topic_id": "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+      "canonical_key": "core editing tools and shortcuts (v, c, w, q, a, b, n; ripple, slip, roll)",
+      "label": "Core editing tools and shortcuts (V, C, W, Q, A, B, N; ripple, slip, roll)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "related_topic_ids": [
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437",
+        "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+        "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c",
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329",
+        "topic-using-the-slip-tool-for-precise-timing-012e4116"
+      ]
+    },
+    "topic-create-a-premiere-pro-project-and-folder-structu-0e14c939": {
+      "topic_id": "topic-create-a-premiere-pro-project-and-folder-structu-0e14c939",
+      "canonical_key": "create a premiere pro project and folder structure",
+      "label": "Create a Premiere Pro project and folder structure",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-project-setup-c56d30c4"
+      ],
+      "related_topic_ids": [
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-project-folder-structure-media-and-project-files-628870d0"
+      ]
+    },
+    "topic-create-and-name-a-sequence-from-a-roll-56d34a9e": {
+      "topic_id": "topic-create-and-name-a-sequence-from-a-roll-56d34a9e",
+      "canonical_key": "create and name a sequence from a-roll",
+      "label": "Create and name a sequence from A-roll",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "related_topic_ids": [
+        "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-sequence-settings-and-matching-to-footage-frame--24055176",
+        "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae"
+      ]
     },
     "topic-creating-closed-captions-from-transcripts-bc97c2aa": {
       "topic_id": "topic-creating-closed-captions-from-transcripts-bc97c2aa",
@@ -95,8 +499,78 @@
       "label": "Creating closed captions from transcripts",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
+        "topic-inserting-cuts-at-detected-points-506bad2d",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-transcription-language-detection-and-speaker-lab-d4696823"
+      ]
+    },
+    "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437": {
+      "topic_id": "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437",
+      "canonical_key": "cut and trim with razor (c) and selection (v) tools",
+      "label": "Cut and trim with Razor (C) and Selection (V) tools",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "related_topic_ids": [
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+        "topic-in-and-out-points-for-selecting-clip-sections-i--afd0bcfa",
+        "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+        "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c"
+      ]
+    },
+    "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82": {
+      "topic_id": "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+      "canonical_key": "drag a-roll to drop media to create a sequence",
+      "label": "Drag A-roll to drop media to create a sequence",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "related_topic_ids": [
+        "topic-create-and-name-a-sequence-from-a-roll-56d34a9e",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-sequence-settings-and-matching-to-footage-frame--24055176",
+        "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae",
+        "topic-slow-down-60fps-b-roll-on-a-24fps-timeline-3d48d6c8"
+      ]
+    },
+    "topic-drive-selection-for-performance-ssd-vs-hdd-bf5656db": {
+      "topic_id": "topic-drive-selection-for-performance-ssd-vs-hdd-bf5656db",
+      "canonical_key": "drive selection for performance (ssd vs hdd)",
+      "label": "Drive selection for performance (SSD vs HDD)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-playback-and-performance-dfa3736e"
+      ],
+      "related_topic_ids": [
+        "topic-memory-ram-allocation-for-editing-workflows-8f8499c1"
+      ]
+    },
+    "topic-ducking-mastering-and-amplitude-compression-adju-87ebc058": {
+      "topic_id": "topic-ducking-mastering-and-amplitude-compression-adju-87ebc058",
+      "canonical_key": "ducking, mastering, and amplitude/compression adjustments",
+      "label": "Ducking, mastering, and amplitude/compression adjustments",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-audio-editing-38de09f5"
+      ],
+      "related_topic_ids": [
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301"
+      ]
     },
     "topic-editing-from-text-and-deleting-pauses-fc64a4b0": {
       "topic_id": "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
@@ -104,8 +578,19 @@
       "label": "Editing from text and deleting pauses",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
+        "topic-inserting-cuts-at-detected-points-506bad2d",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-transcription-language-detection-and-speaker-lab-d4696823"
+      ]
     },
     "topic-enhance-speech-in-essential-sound-a63422af": {
       "topic_id": "topic-enhance-speech-in-essential-sound-a63422af",
@@ -113,8 +598,46 @@
       "label": "Enhance Speech in Essential Sound",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-audio-editing-38de09f5"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-enhancement-intensity-13bd35bc",
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301",
+        "topic-audio-remix-in-premiere-pro-3c71c5db"
+      ]
+    },
+    "topic-export-workflow-export-media-h-264-high-quality--ddaad260": {
+      "topic_id": "topic-export-workflow-export-media-h-264-high-quality--ddaad260",
+      "canonical_key": "export workflow (export media, h.264, high quality 1080p, burn-in captions, render in to out)",
+      "label": "Export workflow (Export Media, H.264, High Quality 1080p, burn-in captions, render in to out)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "related_topic_ids": [
+        "topic-export-workflow-outpoints-command-m-h-264-and-4k-3d567bef",
+        "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218",
+        "topic-managing-export-outputs-in-an-exports-folder-wit-05d9aa5c"
+      ]
+    },
+    "topic-export-workflow-outpoints-command-m-h-264-and-4k-3d567bef": {
+      "topic_id": "topic-export-workflow-outpoints-command-m-h-264-and-4k-3d567bef",
+      "canonical_key": "export workflow: outpoints, command m, h.264, and 4k presets",
+      "label": "Export workflow: Outpoints, Command M, H.264, and 4K presets",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "related_topic_ids": [
+        "topic-export-workflow-export-media-h-264-high-quality--ddaad260",
+        "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218",
+        "topic-managing-export-outputs-in-an-exports-folder-wit-05d9aa5c"
+      ]
     },
     "topic-exporting-and-working-with-transcripts-83ca1e1e": {
       "topic_id": "topic-exporting-and-working-with-transcripts-83ca1e1e",
@@ -122,8 +645,54 @@
       "label": "Exporting and working with transcripts",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-export-and-delivery-acd195da",
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
+        "topic-managing-export-outputs-in-an-exports-folder-wit-05d9aa5c",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-transcription-language-detection-and-speaker-lab-d4696823"
+      ]
+    },
+    "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218": {
+      "topic_id": "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218",
+      "canonical_key": "exporting: in/out points, 1080p h.264, and final render",
+      "label": "Exporting: in/out points, 1080p H.264, and final render",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "related_topic_ids": [
+        "topic-export-workflow-export-media-h-264-high-quality--ddaad260",
+        "topic-export-workflow-outpoints-command-m-h-264-and-4k-3d567bef",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e"
+      ]
+    },
+    "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8": {
+      "topic_id": "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+      "canonical_key": "file organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "label": "File organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-media-organization-999a1952",
+        "family-project-setup-c56d30c4"
+      ],
+      "related_topic_ids": [
+        "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413",
+        "topic-create-a-premiere-pro-project-and-folder-structu-0e14c939",
+        "topic-import-media-and-create-bins-for-organization-fb037152",
+        "topic-import-mode-and-hover-scrubbing-of-footage-7fad977a",
+        "topic-project-folder-structure-media-and-project-files-628870d0"
+      ]
     },
     "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e": {
       "topic_id": "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
@@ -131,8 +700,17 @@
       "label": "Filtering pauses and removing filler words",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-inserting-cuts-at-detected-points-506bad2d",
+        "topic-transcription-language-detection-and-speaker-lab-d4696823"
+      ]
     },
     "topic-generative-extend-for-video-clips-ef0bc611": {
       "topic_id": "topic-generative-extend-for-video-clips-ef0bc611",
@@ -140,8 +718,122 @@
       "label": "Generative Extend for video clips",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13"
+      ],
+      "related_topic_ids": [
+        "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+        "topic-ai-reframe-for-aspect-ratio-changes-18a67b40",
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-audio-remix-in-premiere-pro-3c71c5db"
+      ]
+    },
+    "topic-graphics-and-lower-thirds-essential-graphics-tem-cc921037": {
+      "topic_id": "topic-graphics-and-lower-thirds-essential-graphics-tem-cc921037",
+      "canonical_key": "graphics and lower thirds (essential graphics templates)",
+      "label": "Graphics and lower thirds (Essential Graphics templates)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "related_topic_ids": [
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-text-and-essential-graphics-creating-centering-a-68eabd71",
+        "topic-using-shapes-and-nesting-for-organized-motion-gr-8767a576"
+      ]
+    },
+    "topic-import-media-and-create-bins-for-organization-fb037152": {
+      "topic_id": "topic-import-media-and-create-bins-for-organization-fb037152",
+      "canonical_key": "import media and create bins for organization",
+      "label": "Import media and create bins for organization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "related_topic_ids": [
+        "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413",
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+        "topic-organize-media-into-a-roll-b-roll-and-assets-6d42dbbc",
+        "topic-rename-and-organize-sequences-into-a-dedicated-b-c4bb63b8"
+      ]
+    },
+    "topic-import-mode-and-hover-scrubbing-of-footage-7fad977a": {
+      "topic_id": "topic-import-mode-and-hover-scrubbing-of-footage-7fad977a",
+      "canonical_key": "import mode and hover scrubbing of footage",
+      "label": "Import Mode and hover scrubbing of footage",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1",
+        "family-project-setup-c56d30c4"
+      ],
+      "related_topic_ids": [
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+        "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd"
+      ]
+    },
+    "topic-importing-media-and-creating-a-sequence-f49f32cb": {
+      "topic_id": "topic-importing-media-and-creating-a-sequence-f49f32cb",
+      "canonical_key": "importing media and creating a sequence",
+      "label": "Importing media and creating a sequence",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-project-setup-c56d30c4",
+        "family-sequence-setup-38329584"
+      ],
+      "related_topic_ids": [
+        "topic-create-a-premiere-pro-project-and-folder-structu-0e14c939",
+        "topic-create-and-name-a-sequence-from-a-roll-56d34a9e",
+        "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+        "topic-sequence-settings-and-matching-to-footage-frame--24055176",
+        "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae",
+        "topic-slow-down-60fps-b-roll-on-a-24fps-timeline-3d48d6c8"
+      ]
+    },
+    "topic-in-and-out-points-for-selecting-clip-sections-i--afd0bcfa": {
+      "topic_id": "topic-in-and-out-points-for-selecting-clip-sections-i--afd0bcfa",
+      "canonical_key": "in and out points for selecting clip sections (i/o)",
+      "label": "In and out points for selecting clip sections (I/O)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "related_topic_ids": [
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437"
+      ]
+    },
+    "topic-insert-b-roll-using-video-only-drag-to-avoid-ove-7b898ff0": {
+      "topic_id": "topic-insert-b-roll-using-video-only-drag-to-avoid-ove-7b898ff0",
+      "canonical_key": "insert b-roll using video-only drag to avoid overwriting audio",
+      "label": "Insert B-roll using video-only drag to avoid overwriting audio",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-b-roll-and-montage-472ac6dd"
+      ],
+      "related_topic_ids": [
+        "topic-inserting-an-intro-bumper-and-aligning-it-with-e-635aea7d",
+        "topic-layer-a-roll-and-b-roll-for-multi-track-edits-22af763e"
+      ]
+    },
+    "topic-inserting-an-intro-bumper-and-aligning-it-with-e-635aea7d": {
+      "topic_id": "topic-inserting-an-intro-bumper-and-aligning-it-with-e-635aea7d",
+      "canonical_key": "inserting an intro bumper and aligning it with edits",
+      "label": "Inserting an intro bumper and aligning it with edits",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-b-roll-and-montage-472ac6dd"
+      ],
+      "related_topic_ids": [
+        "topic-insert-b-roll-using-video-only-drag-to-avoid-ove-7b898ff0",
+        "topic-layer-a-roll-and-b-roll-for-multi-track-edits-22af763e"
+      ]
     },
     "topic-inserting-cuts-at-detected-points-506bad2d": {
       "topic_id": "topic-inserting-cuts-at-detected-points-506bad2d",
@@ -149,8 +841,141 @@
       "label": "Inserting cuts at detected points",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e"
+      ]
+    },
+    "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4": {
+      "topic_id": "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4",
+      "canonical_key": "keyboard shortcuts and remapping in premiere",
+      "label": "Keyboard shortcuts and remapping in Premiere",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1",
+        "family-playback-and-performance-dfa3736e"
+      ],
+      "related_topic_ids": [
+        "topic-premiere-pro-interface-and-workspaces-e861754e",
+        "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd",
+        "topic-use-workspaces-to-optimize-editing-2866aab7"
+      ]
+    },
+    "topic-keyframing-and-motion-graphics-transform-positio-ab984f49": {
+      "topic_id": "topic-keyframing-and-motion-graphics-transform-positio-ab984f49",
+      "canonical_key": "keyframing and motion graphics (transform, position, scale, rotation) with easing",
+      "label": "Keyframing and motion graphics (Transform, position, scale, rotation) with easing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-motion-and-keyframes-0647f3ad"
+      ],
+      "related_topic_ids": [
+        "topic-transform-keyframes-for-motion-and-easing-scale-93bd1f0f"
+      ]
+    },
+    "topic-layer-a-roll-and-b-roll-for-multi-track-edits-22af763e": {
+      "topic_id": "topic-layer-a-roll-and-b-roll-for-multi-track-edits-22af763e",
+      "canonical_key": "layer a-roll and b-roll for multi-track edits",
+      "label": "Layer A-roll and B-roll for multi-track edits",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-b-roll-and-montage-472ac6dd"
+      ],
+      "related_topic_ids": [
+        "topic-insert-b-roll-using-video-only-drag-to-avoid-ove-7b898ff0",
+        "topic-inserting-an-intro-bumper-and-aligning-it-with-e-635aea7d"
+      ]
+    },
+    "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038": {
+      "topic_id": "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+      "canonical_key": "lumetri color (basic, creative, color wheels, comparison view, match, auto tone)",
+      "label": "Lumetri Color (Basic, Creative, Color Wheels, Comparison View, Match, Auto Tone)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "related_topic_ids": [
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62",
+        "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960"
+      ]
+    },
+    "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62": {
+      "topic_id": "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62",
+      "canonical_key": "lumetri color correction, exposure/contrast/shadows, and white balance",
+      "label": "Lumetri color correction, exposure/contrast/shadows, and white balance",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "related_topic_ids": [
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960"
+      ]
+    },
+    "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960": {
+      "topic_id": "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960",
+      "canonical_key": "lumetri scopes and ire range; exposure, highlights, shadows, whites, blacks, and saturation",
+      "label": "Lumetri scopes and IRE range; exposure, highlights, shadows, whites, blacks, and saturation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-correction-0389cbfd"
+      ],
+      "related_topic_ids": [
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62"
+      ]
+    },
+    "topic-managing-export-outputs-in-an-exports-folder-wit-05d9aa5c": {
+      "topic_id": "topic-managing-export-outputs-in-an-exports-folder-wit-05d9aa5c",
+      "canonical_key": "managing export outputs in an 'exports' folder with versioning",
+      "label": "Managing export outputs in an 'exports' folder with versioning",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-export-and-delivery-acd195da"
+      ],
+      "related_topic_ids": [
+        "topic-export-workflow-export-media-h-264-high-quality--ddaad260",
+        "topic-export-workflow-outpoints-command-m-h-264-and-4k-3d567bef",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e"
+      ]
+    },
+    "topic-memory-ram-allocation-for-editing-workflows-8f8499c1": {
+      "topic_id": "topic-memory-ram-allocation-for-editing-workflows-8f8499c1",
+      "canonical_key": "memory (ram) allocation for editing workflows",
+      "label": "Memory (RAM) allocation for editing workflows",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-playback-and-performance-dfa3736e"
+      ],
+      "related_topic_ids": [
+        "topic-drive-selection-for-performance-ssd-vs-hdd-bf5656db"
+      ]
     },
     "topic-morph-cut-for-jump-cut-concealment-e6928d60": {
       "topic_id": "topic-morph-cut-for-jump-cut-concealment-e6928d60",
@@ -158,8 +983,85 @@
       "label": "Morph Cut for jump-cut concealment",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "related_topic_ids": [
+        "topic-rate-stretch-tool-and-remix-subtool-141d7d70"
+      ]
+    },
+    "topic-multi-camera-editing-workflow-create-multi-camer-07096de3": {
+      "topic_id": "topic-multi-camera-editing-workflow-create-multi-camer-07096de3",
+      "canonical_key": "multi-camera editing workflow (create multi-camera source sequence, toggle multi-camera view, flattening, nesting, toggling camera angles)",
+      "label": "Multi-camera editing workflow (Create Multi-Camera Source Sequence, Toggle Multi-Camera View, flattening, nesting, toggling camera angles)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-multicam-and-scene-matching-8f0b71e2"
+      ],
+      "related_topic_ids": [
+        "topic-scene-edit-detection-11c2a0ce"
+      ]
+    },
+    "topic-organize-media-into-a-roll-b-roll-and-assets-6d42dbbc": {
+      "topic_id": "topic-organize-media-into-a-roll-b-roll-and-assets-6d42dbbc",
+      "canonical_key": "organize media into a-roll, b-roll, and assets",
+      "label": "Organize media into A-roll, B-roll, and assets",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "related_topic_ids": [
+        "topic-color-code-timeline-sections-to-map-story-beats-57d63086",
+        "topic-import-media-and-create-bins-for-organization-fb037152",
+        "topic-rename-and-organize-sequences-into-a-dedicated-b-c4bb63b8"
+      ]
+    },
+    "topic-premiere-pro-interface-and-workspaces-e861754e": {
+      "topic_id": "topic-premiere-pro-interface-and-workspaces-e861754e",
+      "canonical_key": "premiere pro interface and workspaces",
+      "label": "Premiere Pro interface and workspaces",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "related_topic_ids": [
+        "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4",
+        "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd",
+        "topic-use-workspaces-to-optimize-editing-2866aab7"
+      ]
+    },
+    "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd": {
+      "topic_id": "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd",
+      "canonical_key": "premiere pro workspace fundamentals (project, source, timeline, program windows) and workspaces",
+      "label": "Premiere Pro workspace fundamentals (Project, Source, Timeline, Program windows) and workspaces",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "related_topic_ids": [
+        "topic-import-mode-and-hover-scrubbing-of-footage-7fad977a",
+        "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4",
+        "topic-premiere-pro-interface-and-workspaces-e861754e",
+        "topic-use-workspaces-to-optimize-editing-2866aab7"
+      ]
+    },
+    "topic-project-folder-structure-media-and-project-files-628870d0": {
+      "topic_id": "topic-project-folder-structure-media-and-project-files-628870d0",
+      "canonical_key": "project folder structure (media and project files)",
+      "label": "Project folder structure (media and project files)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-project-setup-c56d30c4"
+      ],
+      "related_topic_ids": [
+        "topic-create-a-premiere-pro-project-and-folder-structu-0e14c939",
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8"
+      ]
     },
     "topic-rate-stretch-tool-and-remix-subtool-141d7d70": {
       "topic_id": "topic-rate-stretch-tool-and-remix-subtool-141d7d70",
@@ -167,8 +1069,79 @@
       "label": "Rate Stretch tool and remix subtool",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
-      "related_topic_ids": []
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "related_topic_ids": [
+        "topic-morph-cut-for-jump-cut-concealment-e6928d60"
+      ]
+    },
+    "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337": {
+      "topic_id": "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+      "canonical_key": "razor vs. ripple delete; inserting vs. overwriting edits",
+      "label": "Razor vs. ripple delete; inserting vs. overwriting edits",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "related_topic_ids": [
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+        "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437",
+        "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c",
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329"
+      ]
+    },
+    "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c": {
+      "topic_id": "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c",
+      "canonical_key": "remix tool for music editing and auto-cut detection",
+      "label": "Remix tool for music editing and auto-cut detection",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-audio-editing-38de09f5"
+      ],
+      "related_topic_ids": [
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-audio-remix-in-premiere-pro-3c71c5db",
+        "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b",
+        "topic-auto-reframe-sequence-across-clips-09ee2a96"
+      ]
+    },
+    "topic-rename-and-organize-sequences-into-a-dedicated-b-c4bb63b8": {
+      "topic_id": "topic-rename-and-organize-sequences-into-a-dedicated-b-c4bb63b8",
+      "canonical_key": "rename and organize sequences into a dedicated bin",
+      "label": "Rename and organize sequences into a dedicated bin",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-media-organization-999a1952"
+      ],
+      "related_topic_ids": [
+        "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413",
+        "topic-import-media-and-create-bins-for-organization-fb037152",
+        "topic-organize-media-into-a-roll-b-roll-and-assets-6d42dbbc"
+      ]
+    },
+    "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c": {
+      "topic_id": "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c",
+      "canonical_key": "ripple edits to shift timeline content efficiently (q)",
+      "label": "Ripple edits to shift timeline content efficiently (Q)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "related_topic_ids": [
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+        "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437",
+        "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329"
+      ]
     },
     "topic-scene-edit-detection-11c2a0ce": {
       "topic_id": "topic-scene-edit-detection-11c2a0ce",
@@ -176,8 +1149,161 @@
       "label": "Scene Edit Detection",
       "aliases": [],
       "video_count": 1,
+      "family_ids": [
+        "family-multicam-and-scene-matching-8f0b71e2"
+      ],
+      "related_topic_ids": [
+        "topic-multi-camera-editing-workflow-create-multi-camer-07096de3"
+      ]
+    },
+    "topic-sequence-settings-and-matching-to-footage-frame--24055176": {
+      "topic_id": "topic-sequence-settings-and-matching-to-footage-frame--24055176",
+      "canonical_key": "sequence settings and matching to footage (frame rate, resolution)",
+      "label": "Sequence settings and matching to footage (frame rate, resolution)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "related_topic_ids": [
+        "topic-create-and-name-a-sequence-from-a-roll-56d34a9e",
+        "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae"
+      ]
+    },
+    "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae": {
+      "topic_id": "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae",
+      "canonical_key": "sequence settings: frame rate, resolution, and color space",
+      "label": "Sequence settings: frame rate, resolution, and color space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "related_topic_ids": [
+        "topic-create-and-name-a-sequence-from-a-roll-56d34a9e",
+        "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-sequence-settings-and-matching-to-footage-frame--24055176"
+      ]
+    },
+    "topic-slow-down-60fps-b-roll-on-a-24fps-timeline-3d48d6c8": {
+      "topic_id": "topic-slow-down-60fps-b-roll-on-a-24fps-timeline-3d48d6c8",
+      "canonical_key": "slow down 60fps b-roll on a 24fps timeline",
+      "label": "Slow down 60fps B-roll on a 24fps timeline",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-sequence-setup-38329584"
+      ],
+      "related_topic_ids": [
+        "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb"
+      ]
+    },
+    "topic-sponsor-story-blocks-and-its-stock-footage-libra-5aa525a9": {
+      "topic_id": "topic-sponsor-story-blocks-and-its-stock-footage-libra-5aa525a9",
+      "canonical_key": "sponsor: story blocks and its stock footage library",
+      "label": "Sponsor: Story Blocks and its stock footage library",
+      "aliases": [],
+      "video_count": 1,
       "family_ids": [],
       "related_topic_ids": []
+    },
+    "topic-stabilization-warp-stabilizer-and-motion-correct-1973c2d3": {
+      "topic_id": "topic-stabilization-warp-stabilizer-and-motion-correct-1973c2d3",
+      "canonical_key": "stabilization (warp stabilizer) and motion corrections",
+      "label": "Stabilization (Warp Stabilizer) and motion corrections",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "related_topic_ids": [
+        "topic-warp-stabilizer-for-stabilization-8c03375e"
+      ]
+    },
+    "topic-subtitles-and-captions-from-transcript-caption-s-ae840824": {
+      "topic_id": "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+      "canonical_key": "subtitles and captions from transcript; caption styling and animation",
+      "label": "Subtitles and captions from transcript; caption styling and animation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062",
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "related_topic_ids": [
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-text-titles-adding-and-styling-with-t-font-choic-913bfef1"
+      ]
+    },
+    "topic-text-and-essential-graphics-creating-centering-a-68eabd71": {
+      "topic_id": "topic-text-and-essential-graphics-creating-centering-a-68eabd71",
+      "canonical_key": "text and essential graphics: creating, centering, and font choices",
+      "label": "Text and essential graphics: creating, centering, and font choices",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "related_topic_ids": [
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-graphics-and-lower-thirds-essential-graphics-tem-cc921037",
+        "topic-text-titles-adding-and-styling-with-t-font-choic-913bfef1",
+        "topic-using-shapes-and-nesting-for-organized-motion-gr-8767a576"
+      ]
+    },
+    "topic-text-titles-adding-and-styling-with-t-font-choic-913bfef1": {
+      "topic_id": "topic-text-titles-adding-and-styling-with-t-font-choic-913bfef1",
+      "canonical_key": "text titles: adding and styling with t, font choice, and drop shadow",
+      "label": "Text titles: adding and styling with T, font choice, and drop shadow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "related_topic_ids": [
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-text-and-essential-graphics-creating-centering-a-68eabd71"
+      ]
+    },
+    "topic-timeline-basics-playhead-zoom-snapping-linked-au-17fa8daf": {
+      "topic_id": "topic-timeline-basics-playhead-zoom-snapping-linked-au-17fa8daf",
+      "canonical_key": "timeline basics (playhead, zoom, snapping, linked audio/video)",
+      "label": "Timeline basics (playhead, zoom, snapping, linked audio/video)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-timeline-fundamentals-7bb52e92"
+      ],
+      "related_topic_ids": [
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329"
+      ]
+    },
+    "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329": {
+      "topic_id": "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329",
+      "canonical_key": "timeline basics: snapping, unlinking video and audio, and ripple delete",
+      "label": "Timeline basics: snapping, unlinking video and audio, and ripple delete",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558",
+        "family-timeline-fundamentals-7bb52e92"
+      ],
+      "related_topic_ids": [
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+        "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+        "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c",
+        "topic-timeline-basics-playhead-zoom-snapping-linked-au-17fa8daf"
+      ]
     },
     "topic-transcription-language-detection-and-speaker-lab-d4696823": {
       "topic_id": "topic-transcription-language-detection-and-speaker-lab-d4696823",
@@ -185,12 +1311,544 @@
       "label": "Transcription language detection and speaker labeling",
       "aliases": [],
       "video_count": 1,
-      "family_ids": [],
+      "family_ids": [
+        "family-speech-and-transcript-editing-b1666062"
+      ],
+      "related_topic_ids": [
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e"
+      ]
+    },
+    "topic-transform-keyframes-for-motion-and-easing-scale-93bd1f0f": {
+      "topic_id": "topic-transform-keyframes-for-motion-and-easing-scale-93bd1f0f",
+      "canonical_key": "transform keyframes for motion and easing (scale)",
+      "label": "Transform keyframes for motion and easing (scale)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-motion-and-keyframes-0647f3ad"
+      ],
+      "related_topic_ids": [
+        "topic-keyframing-and-motion-graphics-transform-positio-ab984f49"
+      ]
+    },
+    "topic-ultra-key-for-green-screen-and-keying-cleanup-b398744b": {
+      "topic_id": "topic-ultra-key-for-green-screen-and-keying-cleanup-b398744b",
+      "canonical_key": "ultra key for green screen and keying cleanup",
+      "label": "Ultra Key for green screen and keying cleanup",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
       "related_topic_ids": []
+    },
+    "topic-use-workspaces-to-optimize-editing-2866aab7": {
+      "topic_id": "topic-use-workspaces-to-optimize-editing-2866aab7",
+      "canonical_key": "use workspaces to optimize editing",
+      "label": "Use workspaces to optimize editing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1"
+      ],
+      "related_topic_ids": [
+        "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4",
+        "topic-premiere-pro-interface-and-workspaces-e861754e",
+        "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd"
+      ]
+    },
+    "topic-using-shapes-and-nesting-for-organized-motion-gr-8767a576": {
+      "topic_id": "topic-using-shapes-and-nesting-for-organized-motion-gr-8767a576",
+      "canonical_key": "using shapes and nesting for organized motion graphics",
+      "label": "Using shapes and nesting for organized motion graphics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-titles-and-graphics-c8fe2d18"
+      ],
+      "related_topic_ids": [
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-graphics-and-lower-thirds-essential-graphics-tem-cc921037",
+        "topic-text-and-essential-graphics-creating-centering-a-68eabd71"
+      ]
+    },
+    "topic-using-the-slip-tool-for-precise-timing-012e4116": {
+      "topic_id": "topic-using-the-slip-tool-for-precise-timing-012e4116",
+      "canonical_key": "using the slip tool for precise timing",
+      "label": "Using the slip tool for precise timing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-core-editing-44d51558"
+      ],
+      "related_topic_ids": [
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f"
+      ]
+    },
+    "topic-warp-stabilizer-for-stabilization-8c03375e": {
+      "topic_id": "topic-warp-stabilizer-for-stabilization-8c03375e",
+      "canonical_key": "warp stabilizer for stabilization",
+      "label": "Warp Stabilizer for stabilization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-transitions-and-effects-97f8a0d5"
+      ],
+      "related_topic_ids": [
+        "topic-stabilization-warp-stabilizer-and-motion-correct-1973c2d3"
+      ]
     }
   },
-  "topic_families": {},
+  "topic_families": {
+    "family-ai-editing-tools-4244cb13": {
+      "family_id": "family-ai-editing-tools-4244cb13",
+      "canonical_key": "ai editing tools",
+      "label": "AI Editing Tools",
+      "description": "Groups AI-assisted Premiere workflows such as generative extend, AI reframing, auto color correction, enhancement, and speech tools.",
+      "topic_ids": [
+        "topic-adjusting-enhancement-intensity-13bd35bc",
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+        "topic-ai-reframe-for-aspect-ratio-changes-18a67b40",
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-audio-remix-in-premiere-pro-3c71c5db",
+        "topic-auto-reframe-for-social-formats-vertical-9x16-b86a7ceb",
+        "topic-auto-reframe-sequence-across-clips-09ee2a96",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-enhance-speech-in-essential-sound-a63422af",
+        "topic-generative-extend-for-video-clips-ef0bc611",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c"
+      ],
+      "video_count": 2
+    },
+    "family-audio-editing-38de09f5": {
+      "family_id": "family-audio-editing-38de09f5",
+      "canonical_key": "audio editing",
+      "label": "Audio Editing",
+      "description": "Covers gain, mixing, ducking, noise reduction, mastering, track organization, and other essential sound-editing tasks.",
+      "topic_ids": [
+        "topic-adjusting-audio-levels-with-the-gain-tool-g-1a0f5389",
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301",
+        "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b",
+        "topic-ducking-mastering-and-amplitude-compression-adju-87ebc058",
+        "topic-enhance-speech-in-essential-sound-a63422af",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c"
+      ],
+      "video_count": 4
+    },
+    "family-b-roll-and-montage-472ac6dd": {
+      "family_id": "family-b-roll-and-montage-472ac6dd",
+      "canonical_key": "b-roll and montage",
+      "label": "B-Roll And Montage",
+      "description": "Focuses on layering B-roll, insert and overwrite workflows, intro bumpers, and timeline constructions that support narrative pacing.",
+      "topic_ids": [
+        "topic-insert-b-roll-using-video-only-drag-to-avoid-ove-7b898ff0",
+        "topic-inserting-an-intro-bumper-and-aligning-it-with-e-635aea7d",
+        "topic-layer-a-roll-and-b-roll-for-multi-track-edits-22af763e"
+      ],
+      "video_count": 1
+    },
+    "family-color-correction-0389cbfd": {
+      "family_id": "family-color-correction-0389cbfd",
+      "canonical_key": "color correction",
+      "label": "Color Correction",
+      "description": "Includes white balance, exposure, scopes, comparison view, color matching, and correction workflows across Lumetri and related tools.",
+      "topic_ids": [
+        "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
+        "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+        "topic-color-correction-intensity-and-before-after-comp-c41fb911",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62",
+        "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960"
+      ],
+      "video_count": 4
+    },
+    "family-color-grading-3b7e8bdb": {
+      "family_id": "family-color-grading-3b7e8bdb",
+      "canonical_key": "color grading",
+      "label": "Color Grading",
+      "description": "Covers creative grading choices such as LUTs, looks, adjustment layers, and stylistic color treatment for finished footage.",
+      "topic_ids": [
+        "topic-adjustment-layers-for-global-color-and-effect-ap-9e61d32c",
+        "topic-applying-luts-for-color-grading-via-the-creative-a23ed18b",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d"
+      ],
+      "video_count": 3
+    },
+    "family-core-editing-44d51558": {
+      "family_id": "family-core-editing-44d51558",
+      "canonical_key": "core editing",
+      "label": "Core Editing",
+      "description": "Covers trimming, cutting, ripple edits, slip and roll adjustments, and other foundational clip-editing operations.",
+      "topic_ids": [
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+        "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437",
+        "topic-in-and-out-points-for-selecting-clip-sections-i--afd0bcfa",
+        "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+        "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c",
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329",
+        "topic-using-the-slip-tool-for-precise-timing-012e4116"
+      ],
+      "video_count": 3
+    },
+    "family-export-and-delivery-acd195da": {
+      "family_id": "family-export-and-delivery-acd195da",
+      "canonical_key": "export and delivery",
+      "label": "Export And Delivery",
+      "description": "Covers export settings, presets, in/out points, render steps, caption burn-ins, and file organization for final delivery.",
+      "topic_ids": [
+        "topic-export-workflow-export-media-h-264-high-quality--ddaad260",
+        "topic-export-workflow-outpoints-command-m-h-264-and-4k-3d567bef",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218",
+        "topic-managing-export-outputs-in-an-exports-folder-wit-05d9aa5c"
+      ],
+      "video_count": 4
+    },
+    "family-interface-and-workspaces-8ab2feb1": {
+      "family_id": "family-interface-and-workspaces-8ab2feb1",
+      "canonical_key": "interface and workspaces",
+      "label": "Interface And Workspaces",
+      "description": "Includes the Premiere Pro layout, core panels, workspaces, and navigation habits that help editors move efficiently through the app.",
+      "topic_ids": [
+        "topic-import-mode-and-hover-scrubbing-of-footage-7fad977a",
+        "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4",
+        "topic-premiere-pro-interface-and-workspaces-e861754e",
+        "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd",
+        "topic-use-workspaces-to-optimize-editing-2866aab7"
+      ],
+      "video_count": 3
+    },
+    "family-media-organization-999a1952": {
+      "family_id": "family-media-organization-999a1952",
+      "canonical_key": "media organization",
+      "label": "Media Organization",
+      "description": "Groups practices for importing footage, making bins, naming sequences, labeling assets, and keeping sources and timelines structured.",
+      "topic_ids": [
+        "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413",
+        "topic-color-code-timeline-sections-to-map-story-beats-57d63086",
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+        "topic-import-media-and-create-bins-for-organization-fb037152",
+        "topic-organize-media-into-a-roll-b-roll-and-assets-6d42dbbc",
+        "topic-rename-and-organize-sequences-into-a-dedicated-b-c4bb63b8"
+      ],
+      "video_count": 2
+    },
+    "family-motion-and-keyframes-0647f3ad": {
+      "family_id": "family-motion-and-keyframes-0647f3ad",
+      "canonical_key": "motion and keyframes",
+      "label": "Motion And Keyframes",
+      "description": "Includes position, scale, rotation, easing, transform animation, and other motion-driven visual adjustments.",
+      "topic_ids": [
+        "topic-keyframing-and-motion-graphics-transform-positio-ab984f49",
+        "topic-transform-keyframes-for-motion-and-easing-scale-93bd1f0f"
+      ],
+      "video_count": 2
+    },
+    "family-multicam-and-scene-matching-8f0b71e2": {
+      "family_id": "family-multicam-and-scene-matching-8f0b71e2",
+      "canonical_key": "multicam and scene matching",
+      "label": "Multicam And Scene Matching",
+      "description": "Includes multi-camera workflows, scene edit detection, and methods for aligning or flattening source edits across footage.",
+      "topic_ids": [
+        "topic-multi-camera-editing-workflow-create-multi-camer-07096de3",
+        "topic-scene-edit-detection-11c2a0ce"
+      ],
+      "video_count": 2
+    },
+    "family-playback-and-performance-dfa3736e": {
+      "family_id": "family-playback-and-performance-dfa3736e",
+      "canonical_key": "playback and performance",
+      "label": "Playback And Performance",
+      "description": "Includes shortcuts, remapping, hardware choices, RAM allocation, drive selection, and other practices that improve editing speed and responsiveness.",
+      "topic_ids": [
+        "topic-drive-selection-for-performance-ssd-vs-hdd-bf5656db",
+        "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4",
+        "topic-memory-ram-allocation-for-editing-workflows-8f8499c1"
+      ],
+      "video_count": 2
+    },
+    "family-project-setup-c56d30c4": {
+      "family_id": "family-project-setup-c56d30c4",
+      "canonical_key": "project setup",
+      "label": "Project Setup",
+      "description": "Covers creating projects, folder structures, autosaves, cache, storage, and other foundational setup decisions before editing begins.",
+      "topic_ids": [
+        "topic-auto-save-and-cache-management-b57f32e3",
+        "topic-create-a-premiere-pro-project-and-folder-structu-0e14c939",
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+        "topic-import-mode-and-hover-scrubbing-of-footage-7fad977a",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-project-folder-structure-media-and-project-files-628870d0"
+      ],
+      "video_count": 3
+    },
+    "family-sequence-setup-38329584": {
+      "family_id": "family-sequence-setup-38329584",
+      "canonical_key": "sequence setup",
+      "label": "Sequence Setup",
+      "description": "Covers sequence creation, matching settings to footage, frame-rate choices, and building timelines from source clips or A-roll.",
+      "topic_ids": [
+        "topic-create-and-name-a-sequence-from-a-roll-56d34a9e",
+        "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-sequence-settings-and-matching-to-footage-frame--24055176",
+        "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae",
+        "topic-slow-down-60fps-b-roll-on-a-24fps-timeline-3d48d6c8"
+      ],
+      "video_count": 3
+    },
+    "family-speech-and-transcript-editing-b1666062": {
+      "family_id": "family-speech-and-transcript-editing-b1666062",
+      "canonical_key": "speech and transcript editing",
+      "label": "Speech And Transcript Editing",
+      "description": "Groups transcript-based editing, caption generation, pause removal, speaker labeling, and text-driven dialogue cleanup workflows.",
+      "topic_ids": [
+        "topic-ai-generated-sections-and-visual-labeling-0c6d5bd5",
+        "topic-ai-text-based-editing-workflow-55a15ea4",
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-creating-closed-captions-from-transcripts-bc97c2aa",
+        "topic-editing-from-text-and-deleting-pauses-fc64a4b0",
+        "topic-exporting-and-working-with-transcripts-83ca1e1e",
+        "topic-filtering-pauses-and-removing-filler-words-3a1f8b9e",
+        "topic-inserting-cuts-at-detected-points-506bad2d",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-transcription-language-detection-and-speaker-lab-d4696823"
+      ],
+      "video_count": 3
+    },
+    "family-timeline-fundamentals-7bb52e92": {
+      "family_id": "family-timeline-fundamentals-7bb52e92",
+      "canonical_key": "timeline fundamentals",
+      "label": "Timeline Fundamentals",
+      "description": "Includes playhead control, snapping, zooming, linked clips, track behavior, and other basic timeline navigation skills.",
+      "topic_ids": [
+        "topic-timeline-basics-playhead-zoom-snapping-linked-au-17fa8daf",
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329"
+      ],
+      "video_count": 2
+    },
+    "family-titles-and-graphics-c8fe2d18": {
+      "family_id": "family-titles-and-graphics-c8fe2d18",
+      "canonical_key": "titles and graphics",
+      "label": "Titles And Graphics",
+      "description": "Covers text titles, lower thirds, essential graphics, shapes, caption styling, and other on-screen graphic design work.",
+      "topic_ids": [
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-graphics-and-lower-thirds-essential-graphics-tem-cc921037",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-text-and-essential-graphics-creating-centering-a-68eabd71",
+        "topic-text-titles-adding-and-styling-with-t-font-choic-913bfef1",
+        "topic-using-shapes-and-nesting-for-organized-motion-gr-8767a576"
+      ],
+      "video_count": 3
+    },
+    "family-transitions-and-effects-97f8a0d5": {
+      "family_id": "family-transitions-and-effects-97f8a0d5",
+      "canonical_key": "transitions and effects",
+      "label": "Transitions And Effects",
+      "description": "Includes cross dissolves, Morph Cut, Ultra Key, stabilization, and other effects that smooth, repair, or stylize footage.",
+      "topic_ids": [
+        "topic-adjustment-layers-for-global-color-and-effect-ap-9e61d32c",
+        "topic-applying-and-adjusting-transitions-cross-dissolv-156cf009",
+        "topic-morph-cut-for-jump-cut-concealment-e6928d60",
+        "topic-rate-stretch-tool-and-remix-subtool-141d7d70",
+        "topic-stabilization-warp-stabilizer-and-motion-correct-1973c2d3",
+        "topic-ultra-key-for-green-screen-and-keying-cleanup-b398744b",
+        "topic-warp-stabilizer-for-stabilization-8c03375e"
+      ],
+      "video_count": 3
+    }
+  },
   "items": {
+    "video-premiere-pro-ai-tools-48fn-pqiliy-youtube-649a8f3f": {
+      "item_id": "video-premiere-pro-ai-tools-48fn-pqiliy-youtube-649a8f3f",
+      "title": "Premiere Pro For Beginners | 2025 Edition | Valentina Vee x Adobe Video",
+      "media": [
+        {
+          "type": "youtube",
+          "video_id": "48Fn-PQILIY",
+          "url": "https://www.youtube.com/watch?v=48Fn-PQILIY"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/48Fn-PQILIY.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "Valentina Vee’s Premiere Pro for Beginners (2025 Edition) is a comprehensive, hands-on workshop that unfolds from project setup and file organization through detailed editing workflows, audio optimization with Adobe’s Essential Sound, color grading with Lumetri, captions, graphics, and music integration, to final export. The video emphasizes practical, tool-specific guidance rather than abstract concepts, including organizing assets on an external drive, creating and naming projects, managing bins and sequences, mastering core editing tools and keyboard shortcuts, using hover scrubbing, syncing multi-camera footage, applying auto-ducking and auto-match loudness, matching color across shots, building captions from transcripts, inserting graphics like lower thirds, and exporting with captions burned in. The instructor also demonstrates advanced techniques such as the Remix tool for music, Auto Reframe for social formats, multitrack multicam editing, adjustment layers for global color, and efficient workflow tips (ripple delete, slip/roll edits, and the use of an adjustment layer). The transcript reflects a project-based approach, including a vlog-style sequence and an interview with two camera angles, plus a detailed walk-through of asset management, sequencing, and export options, with downloadable assets and a companion PDF promised to learners.",
+      "date": {
+        "display": "June 16, 2025",
+        "iso": "2025-06-16",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [
+        {
+          "name": "Living room (probable)",
+          "confidence": 0.55,
+          "basis": "Transcript repeatedly references filming in a living room; no explicit shooting location is stated."
+        }
+      ],
+      "topic_ids": [
+        "topic-file-organization-and-project-setup-year-month-d-3b4aa8b8",
+        "topic-import-mode-and-hover-scrubbing-of-footage-7fad977a",
+        "topic-premiere-pro-workspace-fundamentals-project-sour-a2793ddd",
+        "topic-bin-and-sequence-creation-organizing-with-bins-a-ac987413",
+        "topic-sequence-settings-and-matching-to-footage-frame--24055176",
+        "topic-timeline-basics-playhead-zoom-snapping-linked-au-17fa8daf",
+        "topic-core-editing-tools-and-shortcuts-v-c-w-q-a-b-n-r-bb211a2f",
+        "topic-razor-vs-ripple-delete-inserting-vs-overwriting--49e06337",
+        "topic-multi-camera-editing-workflow-create-multi-camer-07096de3",
+        "topic-audio-editing-with-essential-sound-dialogue-auto-7c8e0fb9",
+        "topic-lumetri-color-basic-creative-color-wheels-compar-e956a038",
+        "topic-adjustment-layers-for-global-color-and-effect-ap-9e61d32c",
+        "topic-graphics-and-lower-thirds-essential-graphics-tem-cc921037",
+        "topic-captions-and-transcript-based-editing-create-cap-9741624c",
+        "topic-remix-tool-for-music-editing-and-auto-cut-detect-c20add0c",
+        "topic-auto-reframe-for-social-formats-vertical-9x16-b86a7ceb",
+        "topic-stabilization-warp-stabilizer-and-motion-correct-1973c2d3",
+        "topic-export-workflow-export-media-h-264-high-quality--ddaad260"
+      ],
+      "family_ids": [
+        "family-project-setup-c56d30c4",
+        "family-media-organization-999a1952",
+        "family-interface-and-workspaces-8ab2feb1",
+        "family-sequence-setup-38329584",
+        "family-timeline-fundamentals-7bb52e92",
+        "family-core-editing-44d51558",
+        "family-multicam-and-scene-matching-8f0b71e2",
+        "family-audio-editing-38de09f5",
+        "family-color-correction-0389cbfd",
+        "family-color-grading-3b7e8bdb",
+        "family-transitions-and-effects-97f8a0d5",
+        "family-titles-and-graphics-c8fe2d18",
+        "family-speech-and-transcript-editing-b1666062",
+        "family-ai-editing-tools-4244cb13",
+        "family-export-and-delivery-acd195da"
+      ],
+      "topic_sections": {
+        "topic-timeline-basics-playhead-zoom-snapping-linked-au-17fa8daf": [
+          7,
+          8,
+          9,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          35,
+          36,
+          37,
+          65,
+          66,
+          67
+        ]
+      },
+      "chapter_count": 68
+    },
+    "video-premiere-pro-ai-tools-beh1i5n-798-youtube-db6c3578": {
+      "item_id": "video-premiere-pro-ai-tools-beh1i5n-798-youtube-db6c3578",
+      "title": "Premiere Pro Beginner Tutorial: End-to-End Video Editing in 2026 (Think Media)",
+      "media": [
+        {
+          "type": "youtube",
+          "video_id": "BeH1I5n-798",
+          "url": "https://www.youtube.com/watch?v=BeH1I5n-798"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/BeH1I5n-798.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "Think Media’s complete beginner guide walks viewers through a full end-to-end workflow for editing a video in Adobe Premiere Pro (2026 era). The tutorial emphasizes upfront organization (A-roll, B-roll, assets), project setup and workspace configuration, media import into clearly named bins, creating and organizing a sequence, and performing core edits with keyboard shortcuts. It demonstrates overlaying B-roll on a multi-track timeline, applying speed changes for slow-motion on 60fps footage, and refining audio with a three-track mix, then adding titles, motion, and color correction via Lumetri and LUTs. The presenter also covers workflow efficiencies such as color-coding sections, editing the source footage to propagate color changes, white balance tweaks, and exporting with common presets. A sponsorship segment for Story Blocks is included, and the video provides downloadable project files for follow-along.",
+      "date": {
+        "display": "March 28, 2025",
+        "iso": "2025-03-28",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-organize-media-into-a-roll-b-roll-and-assets-6d42dbbc",
+        "topic-create-a-premiere-pro-project-and-folder-structu-0e14c939",
+        "topic-use-workspaces-to-optimize-editing-2866aab7",
+        "topic-import-media-and-create-bins-for-organization-fb037152",
+        "topic-create-and-name-a-sequence-from-a-roll-56d34a9e",
+        "topic-drag-a-roll-to-drop-media-to-create-a-sequence-a2c8ed82",
+        "topic-rename-and-organize-sequences-into-a-dedicated-b-c4bb63b8",
+        "topic-cut-and-trim-with-razor-c-and-selection-v-tools-c473d437",
+        "topic-ripple-edits-to-shift-timeline-content-efficient-7cb1556c",
+        "topic-in-and-out-points-for-selecting-clip-sections-i--afd0bcfa",
+        "topic-layer-a-roll-and-b-roll-for-multi-track-edits-22af763e",
+        "topic-color-code-timeline-sections-to-map-story-beats-57d63086",
+        "topic-insert-b-roll-using-video-only-drag-to-avoid-ove-7b898ff0",
+        "topic-slow-down-60fps-b-roll-on-a-24fps-timeline-3d48d6c8",
+        "topic-keyboard-shortcuts-and-remapping-in-premiere-baa5b7a4",
+        "topic-audio-workflow-three-track-arrangement-voice-eff-614a969b",
+        "topic-adjusting-audio-levels-with-the-gain-tool-g-1a0f5389",
+        "topic-inserting-an-intro-bumper-and-aligning-it-with-e-635aea7d",
+        "topic-text-titles-adding-and-styling-with-t-font-choic-913bfef1",
+        "topic-transform-keyframes-for-motion-and-easing-scale-93bd1f0f",
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62",
+        "topic-applying-luts-for-color-grading-via-the-creative-a23ed18b",
+        "topic-color-correct-source-footage-to-apply-globally-a-d3fa1223",
+        "topic-export-workflow-outpoints-command-m-h-264-and-4k-3d567bef",
+        "topic-managing-export-outputs-in-an-exports-folder-wit-05d9aa5c",
+        "topic-sponsor-story-blocks-and-its-stock-footage-libra-5aa525a9"
+      ],
+      "family_ids": [
+        "family-media-organization-999a1952",
+        "family-project-setup-c56d30c4",
+        "family-interface-and-workspaces-8ab2feb1",
+        "family-sequence-setup-38329584",
+        "family-core-editing-44d51558",
+        "family-b-roll-and-montage-472ac6dd",
+        "family-playback-and-performance-dfa3736e",
+        "family-audio-editing-38de09f5",
+        "family-titles-and-graphics-c8fe2d18",
+        "family-motion-and-keyframes-0647f3ad",
+        "family-color-correction-0389cbfd",
+        "family-color-grading-3b7e8bdb",
+        "family-export-and-delivery-acd195da"
+      ],
+      "topic_sections": {
+        "topic-create-and-name-a-sequence-from-a-roll-56d34a9e": [
+          4
+        ],
+        "topic-in-and-out-points-for-selecting-clip-sections-i--afd0bcfa": [
+          7,
+          11,
+          19
+        ],
+        "topic-lumetri-color-correction-exposure-contrast-shado-f3d04f62": [
+          16
+        ]
+      },
+      "chapter_count": 21
+    },
     "video-premiere-pro-ai-tools-pjobx9xqvgi-youtube-38f15be5": {
       "item_id": "video-premiere-pro-ai-tools-pjobx9xqvgi-youtube-38f15be5",
       "title": "Eight AI Tools in Premiere Pro: Remix, Extend, Transcription, and More",
@@ -237,7 +1895,15 @@
         "topic-ai-assisted-color-correction-lumetri-auto-4085a133",
         "topic-color-correction-intensity-and-before-after-comp-c41fb911"
       ],
-      "family_ids": [],
+      "family_ids": [
+        "family-ai-editing-tools-4244cb13",
+        "family-transitions-and-effects-97f8a0d5",
+        "family-speech-and-transcript-editing-b1666062",
+        "family-export-and-delivery-acd195da",
+        "family-audio-editing-38de09f5",
+        "family-multicam-and-scene-matching-8f0b71e2",
+        "family-color-correction-0389cbfd"
+      ],
       "topic_sections": {
         "topic-audio-remix-in-premiere-pro-3c71c5db": [
           1,
@@ -258,18 +1924,95 @@
         ]
       },
       "chapter_count": 9
+    },
+    "video-premiere-pro-ai-tools-xdq3ij-ohja-youtube-2530c64c": {
+      "item_id": "video-premiere-pro-ai-tools-xdq3ij-ohja-youtube-2530c64c",
+      "title": "Premiere Pro for Beginners: Project Setup, Timeline Editing, Color, Audio, Subtitles — Hands-on Walkthrough",
+      "media": [
+        {
+          "type": "youtube",
+          "video_id": "xDq3ij-oHJA",
+          "url": "https://www.youtube.com/watch?v=xDq3ij-oHJA"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/xDq3ij-oHJA.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This YouTube tutorial by Gavin Herman is a structured, beginner-focused Premiere Pro course. It guides viewers from setting up a project (folder structure, preferences, and performance choices) through creating a first edit, adding narration and sound design, performing basic color correction and grading with LUTs and Lumetri, adding captions, and applying motion graphics and keyframing. The video emphasizes real-world exercises, practical keyboard shortcuts, and iterative refinements (transitions, text, shapes, and audio). It also demonstrates an end-to-end export workflow and introduces techniques such as stabilization, nesting, and caption-to-graphics workflows, with occasional notes on AI-assisted subtitling and auto-transcription features.",
+      "date": {
+        "display": "September 1, 2024",
+        "iso": "2024-09-01",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-premiere-pro-interface-and-workspaces-e861754e",
+        "topic-project-folder-structure-media-and-project-files-628870d0",
+        "topic-drive-selection-for-performance-ssd-vs-hdd-bf5656db",
+        "topic-auto-save-and-cache-management-b57f32e3",
+        "topic-memory-ram-allocation-for-editing-workflows-8f8499c1",
+        "topic-sequence-settings-frame-rate-resolution-and-colo-68c235ae",
+        "topic-importing-media-and-creating-a-sequence-f49f32cb",
+        "topic-timeline-basics-snapping-unlinking-video-and-aud-936dd329",
+        "topic-clip-trimming-with-playhead-and-ripple-edits-a41fe8cf",
+        "topic-using-the-slip-tool-for-precise-timing-012e4116",
+        "topic-applying-and-adjusting-transitions-cross-dissolv-156cf009",
+        "topic-text-and-essential-graphics-creating-centering-a-68eabd71",
+        "topic-animating-text-and-converting-captions-to-graphi-26c24468",
+        "topic-using-shapes-and-nesting-for-organized-motion-gr-8767a576",
+        "topic-ultra-key-for-green-screen-and-keying-cleanup-b398744b",
+        "topic-warp-stabilizer-for-stabilization-8c03375e",
+        "topic-color-correction-and-luts-c-log-3-to-rec-709-wit-125af74d",
+        "topic-lumetri-scopes-and-ire-range-exposure-highlights-947b0960",
+        "topic-color-matching-with-comparison-view-and-apply-ma-a79a06d8",
+        "topic-audio-mixing-basics-essential-sound-panel-track--5fd28301",
+        "topic-ducking-mastering-and-amplitude-compression-adju-87ebc058",
+        "topic-subtitles-and-captions-from-transcript-caption-s-ae840824",
+        "topic-keyframing-and-motion-graphics-transform-positio-ab984f49",
+        "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218"
+      ],
+      "family_ids": [
+        "family-interface-and-workspaces-8ab2feb1",
+        "family-project-setup-c56d30c4",
+        "family-playback-and-performance-dfa3736e",
+        "family-sequence-setup-38329584",
+        "family-timeline-fundamentals-7bb52e92",
+        "family-core-editing-44d51558",
+        "family-transitions-and-effects-97f8a0d5",
+        "family-titles-and-graphics-c8fe2d18",
+        "family-speech-and-transcript-editing-b1666062",
+        "family-color-correction-0389cbfd",
+        "family-color-grading-3b7e8bdb",
+        "family-audio-editing-38de09f5",
+        "family-motion-and-keyframes-0647f3ad",
+        "family-export-and-delivery-acd195da"
+      ],
+      "topic_sections": {
+        "topic-using-the-slip-tool-for-precise-timing-012e4116": [
+          6
+        ],
+        "topic-exporting-in-out-points-1080p-h-264-and-final-re-0bce5218": [
+          14
+        ]
+      },
+      "chapter_count": 37
     }
   },
   "stats": {
-    "video_count": 1,
-    "topic_count": 19,
-    "topic_family_count": 0
+    "video_count": 4,
+    "topic_count": 87,
+    "topic_family_count": 18
   },
   "description": "A Watchcraft collection of public instructional videos.",
   "source": {
     "type": "youtube",
-    "publisher": "Justin Brown - Primal Video"
+    "publisher": "Multiple publishers"
   },
-  "revision": 3,
-  "content_hash": "2afd19548c2130e0e9d917244fb5fed4c3ca0d957a5eb74b4a4b3332341c1193"
+  "revision": 5,
+  "content_hash": "57b238000afc043da894ba33595088936590fef0dcff33487d9f060919599174"
 }

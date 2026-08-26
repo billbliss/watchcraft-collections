@@ -1,0 +1,347 @@
+{
+  "schema_version": 2,
+  "video": "BeH1I5n-798.youtube",
+  "title": "Premiere Pro Beginner Tutorial: End-to-End Video Editing in 2026 (Think Media)",
+  "date": {
+    "display": "March 28, 2025",
+    "iso": "2025-03-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "Think Media’s complete beginner guide walks viewers through a full end-to-end workflow for editing a video in Adobe Premiere Pro (2026 era). The tutorial emphasizes upfront organization (A-roll, B-roll, assets), project setup and workspace configuration, media import into clearly named bins, creating and organizing a sequence, and performing core edits with keyboard shortcuts. It demonstrates overlaying B-roll on a multi-track timeline, applying speed changes for slow-motion on 60fps footage, and refining audio with a three-track mix, then adding titles, motion, and color correction via Lumetri and LUTs. The presenter also covers workflow efficiencies such as color-coding sections, editing the source footage to propagate color changes, white balance tweaks, and exporting with common presets. A sponsorship segment for Story Blocks is included, and the video provides downloadable project files for follow-along.",
+  "topics": [
+    "Organize media into A-roll, B-roll, and assets",
+    "Create a Premiere Pro project and folder structure",
+    "Use workspaces to optimize editing",
+    "Import media and create bins for organization",
+    "Create and name a sequence from A-roll",
+    "Drag A-roll to drop media to create a sequence",
+    "Rename and organize sequences into a dedicated bin",
+    "Cut and trim with Razor (C) and Selection (V) tools",
+    "Ripple edits to shift timeline content efficiently (Q)",
+    "In and out points for selecting clip sections (I/O)",
+    "Layer A-roll and B-roll for multi-track edits",
+    "Color code timeline sections to map story beats",
+    "Insert B-roll using video-only drag to avoid overwriting audio",
+    "Slow down 60fps B-roll on a 24fps timeline",
+    "Keyboard shortcuts and remapping in Premiere",
+    "Audio workflow: three-track arrangement (voice, effects, music)",
+    "Adjusting audio levels with the Gain tool (G)",
+    "Inserting an intro bumper and aligning it with edits",
+    "Text titles: adding and styling with T, font choice, and drop shadow",
+    "Transform keyframes for motion and easing (scale)",
+    "Lumetri color correction, exposure/contrast/shadows, and white balance",
+    "Applying LUTs for color grading via the Creative tab",
+    "Color correct source footage to apply globally across clips",
+    "Export workflow: Outpoints, Command M, H.264, and 4K presets",
+    "Managing export outputs in an 'exports' folder with versioning",
+    "Sponsor: Story Blocks and its stock footage library"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:27",
+      "title": "- How to edit a video in Adobe Premiere!",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:00:27",
+      "end": "00:00:56",
+      "title": "- Downloading Premiere & project assets",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:00:56",
+      "end": "00:02:10",
+      "title": "- How to organize your footage",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:43",
+      "title": "- Premiere project setup",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:04:43",
+      "end": "00:07:05",
+      "title": "- How to create a sequence",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:07:05",
+      "end": "00:11:17",
+      "title": "- How to edit A-Roll (Talking Head)",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:11:17",
+      "end": "00:12:42",
+      "title": "- Color coding your timeline",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:12:42",
+      "end": "00:15:26",
+      "title": "- How to add B-Roll",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:15:26",
+      "end": "00:16:38",
+      "title": "- How to create slow motion footage",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:16:38",
+      "end": "00:17:35",
+      "title": "- How to find stock B-Roll footage",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:17:35",
+      "end": "00:17:56",
+      "title": "- Voice, Music, SFX, etc.",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:17:56",
+      "end": "00:20:10",
+      "title": "- Adding music",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:20:10",
+      "end": "00:22:47",
+      "title": "- Adding an intro bumper with sound effects",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:22:47",
+      "end": "00:28:13",
+      "title": "- Editing sound (EQ, compression, noise reduction)",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:28:13",
+      "end": "00:31:43",
+      "title": "- Adding text & titles",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:31:43",
+      "end": "00:33:03",
+      "title": "- Adding movement to your video (Keyframes)",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:33:03",
+      "end": "00:36:08",
+      "title": "- Color correcting",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:36:08",
+      "end": "00:36:45",
+      "title": "- Getting correct white balance",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:36:45",
+      "end": "00:37:18",
+      "title": "- Making timeline full screen",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:37:18",
+      "end": "00:39:30",
+      "title": "- Export settings",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    },
+    {
+      "start": "00:39:30",
+      "end": "00:40:01",
+      "title": "- Assets to download",
+      "concepts": [
+        "Video aims for a complete beginner’s workflow",
+        "Premiere Pro is introduced as the editing platform",
+        "Sony RX100 Mark 7 is highlighted as the example camera",
+        "Story Blocks sponsorship is announced"
+      ],
+      "description": "The video opens with the creator outlining a start-to-finish Premiere Pro workflow for beginners, mentions the RX100 Mark 7 as the sample camera, and notes a Story Blocks sponsorship. Viewers are primed to learn organization, sequencing, editing, audio, color, motion, and export—using downloadable project files."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Organize media into dedicated A-roll, B-roll, and assets bins before editing",
+      "timestamp": "00:56:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Create and name a Premiere sequence from A-roll to begin editing",
+      "timestamp": "00:05:17",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Ripple edit (Q) to delete left of playhead and shift the rest of the timeline",
+      "timestamp": "00:09:12",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Color coding timeline sections to map different video segments",
+      "timestamp": "00:12:18",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Slow-motion using 60fps B-roll on a 24fps timeline",
+      "timestamp": "00:16:12",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Use Audio Track Mixer to apply effects across an entire track",
+      "timestamp": "00:23:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Apply a structured audio effect chain (hard limiter, compressor, EQ, D noise) on voice",
+      "timestamp": "00:24:03",
+      "confidence": 0.85
+    },
+    {
+      "technique": "White balance using eyedropper for quick color balance",
+      "timestamp": "00:36:13",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Export workflow using Command M and H.264 with a dedicated exports folder",
+      "timestamp": "00:37:40",
+      "confidence": 0.83
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-26T17:53:47.083914+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

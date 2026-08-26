@@ -1,0 +1,592 @@
+{
+  "schema_version": 2,
+  "video": "xDq3ij-oHJA.youtube",
+  "title": "Premiere Pro for Beginners: Project Setup, Timeline Editing, Color, Audio, Subtitles — Hands-on Walkthrough",
+  "date": {
+    "display": "September 1, 2024",
+    "iso": "2024-09-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This YouTube tutorial by Gavin Herman is a structured, beginner-focused Premiere Pro course. It guides viewers from setting up a project (folder structure, preferences, and performance choices) through creating a first edit, adding narration and sound design, performing basic color correction and grading with LUTs and Lumetri, adding captions, and applying motion graphics and keyframing. The video emphasizes real-world exercises, practical keyboard shortcuts, and iterative refinements (transitions, text, shapes, and audio). It also demonstrates an end-to-end export workflow and introduces techniques such as stabilization, nesting, and caption-to-graphics workflows, with occasional notes on AI-assisted subtitling and auto-transcription features.",
+  "topics": [
+    "Premiere Pro interface and workspaces",
+    "Project folder structure (media and project files)",
+    "Drive selection for performance (SSD vs HDD)",
+    "Auto-save and cache management",
+    "Memory (RAM) allocation for editing workflows",
+    "Sequence settings: frame rate, resolution, and color space",
+    "Importing media and creating a sequence",
+    "Timeline basics: snapping, unlinking video and audio, and ripple delete",
+    "Clip trimming with playhead and ripple edits",
+    "Using the slip tool for precise timing",
+    "Applying and adjusting transitions (cross dissolve) and default transition via Shift+D",
+    "Text and essential graphics: creating, centering, and font choices",
+    "Animating text and converting captions to graphics",
+    "Using shapes and nesting for organized motion graphics",
+    "Ultra Key for green screen and keying cleanup",
+    "Warp Stabilizer for stabilization",
+    "Color correction and LUTs (C-Log 3 to Rec. 709) with Lumetri Color",
+    "Lumetri scopes and IRE range; exposure, highlights, shadows, whites, blacks, and saturation",
+    "Color matching with comparison view and Apply Match",
+    "Audio mixing basics: essential sound panel, track mixer, denoise, dynamics, and gain",
+    "Ducking, mastering, and amplitude/compression adjustments",
+    "Subtitles and captions from transcript; caption styling and animation",
+    "Keyframing and motion graphics (Transform, position, scale, rotation) with easing",
+    "Exporting: in/out points, 1080p H.264, and final render"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:01",
+      "title": "Premiere Pro for Beginners | Full Course",
+      "concepts": [],
+      "description": "Premiere Pro for Beginners | Full Course"
+    },
+    {
+      "start": "00:01:01",
+      "end": "00:01:12",
+      "title": "SECTION 1: Project Setup & Basics",
+      "concepts": [
+        "workspace setup",
+        "preferences/general",
+        "auto-save and cache",
+        "media cache location and management",
+        "memory/RAM considerations"
+      ],
+      "description": "Intro to the course and the plan for a beginner-friendly, hands-on workflow. Covers initial setup: creating a project folder structure with media and project files subfolders, adjusting Premiere Pro general preferences (appearance, audio, hardware) including auto-save every 5 minutes, media cache placement on an HDD/SSD for performance, and RAM allocation guidelines for smooth operation."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:06:05",
+      "title": "Best Settings & File Management",
+      "concepts": [
+        "workspace setup",
+        "preferences/general",
+        "auto-save and cache",
+        "media cache location and management",
+        "memory/RAM considerations"
+      ],
+      "description": "Intro to the course and the plan for a beginner-friendly, hands-on workflow. Covers initial setup: creating a project folder structure with media and project files subfolders, adjusting Premiere Pro general preferences (appearance, audio, hardware) including auto-save every 5 minutes, media cache placement on an HDD/SSD for performance, and RAM allocation guidelines for smooth operation."
+    },
+    {
+      "start": "00:06:05",
+      "end": "00:06:34",
+      "title": "Creating a New Project",
+      "concepts": [
+        "workspace setup",
+        "preferences/general",
+        "auto-save and cache",
+        "media cache location and management",
+        "memory/RAM considerations",
+        "new project naming and location",
+        "workspaces (Editing) overview",
+        "importing media",
+        "dragging media to timeline to create sequences"
+      ],
+      "description": "Demonstrates creating a new project (basic editing name), selecting a location on an SSD, and switching to the Editing workspace. Shows importing media from a resources folder, organizing media in a project, and creating a sequence by dropping clips on the timeline."
+    },
+    {
+      "start": "00:06:34",
+      "end": "00:07:54",
+      "title": "Undestanding Workspaces & Panels",
+      "concepts": [
+        "new project naming and location",
+        "workspaces (Editing) overview",
+        "importing media",
+        "dragging media to timeline to create sequences"
+      ],
+      "description": "Demonstrates creating a new project (basic editing name), selecting a location on an SSD, and switching to the Editing workspace. Shows importing media from a resources folder, organizing media in a project, and creating a sequence by dropping clips on the timeline."
+    },
+    {
+      "start": "00:07:54",
+      "end": "00:12:53",
+      "title": "Importing & Assembling Media",
+      "concepts": [
+        "new project naming and location",
+        "workspaces (Editing) overview",
+        "importing media",
+        "dragging media to timeline to create sequences"
+      ],
+      "description": "Demonstrates creating a new project (basic editing name), selecting a location on an SSD, and switching to the Editing workspace. Shows importing media from a resources folder, organizing media in a project, and creating a sequence by dropping clips on the timeline."
+    },
+    {
+      "start": "00:12:53",
+      "end": "00:16:10",
+      "title": "Transitions",
+      "concepts": [
+        "new project naming and location",
+        "workspaces (Editing) overview",
+        "importing media",
+        "dragging media to timeline to create sequences",
+        "sequence settings and frame rate",
+        "two-clip timeline: snapping, unlinking, and deleting unused audio",
+        "basic trimming and ripple delete",
+        "W and Q keyboard shortcuts for trimming",
+        "adding and adjusting cross dissolve transitions",
+        "text overlay basics and essential graphics panel"
+      ],
+      "description": "Explains setting sequence properties (frame rate and resolution), managing audio/video tracks (unlinking and deleting silent audio), adjusting clip length with playhead-driven trimming, using W and Q shortcuts, applying a simple dissolve, and introducing text with the essential graphics panel and alignment controls."
+    },
+    {
+      "start": "00:16:10",
+      "end": "00:19:15",
+      "title": "Adding Text",
+      "concepts": [
+        "sequence settings and frame rate",
+        "two-clip timeline: snapping, unlinking, and deleting unused audio",
+        "basic trimming and ripple delete",
+        "W and Q keyboard shortcuts for trimming",
+        "adding and adjusting cross dissolve transitions",
+        "text overlay basics and essential graphics panel"
+      ],
+      "description": "Explains setting sequence properties (frame rate and resolution), managing audio/video tracks (unlinking and deleting silent audio), adjusting clip length with playhead-driven trimming, using W and Q shortcuts, applying a simple dissolve, and introducing text with the essential graphics panel and alignment controls."
+    },
+    {
+      "start": "00:19:15",
+      "end": "00:21:55",
+      "title": "Adding Shapes",
+      "concepts": [
+        "sequence settings and frame rate",
+        "two-clip timeline: snapping, unlinking, and deleting unused audio",
+        "basic trimming and ripple delete",
+        "W and Q keyboard shortcuts for trimming",
+        "adding and adjusting cross dissolve transitions",
+        "text overlay basics and essential graphics panel",
+        "text tool and typography choices",
+        "centering text with alignment guides",
+        "creating and duplicating shapes (triangles)",
+        "layer ordering and nesting for grouped effects"
+      ],
+      "description": "Explains setting sequence properties (frame rate and resolution), managing audio/video tracks (unlinking and deleting silent audio), adjusting clip length with playhead-driven trimming, using W and Q shortcuts, applying a simple dissolve, and introducing text with the essential graphics panel and alignment controls."
+    },
+    {
+      "start": "00:21:55",
+      "end": "00:23:39",
+      "title": "Adding Sounds",
+      "concepts": [
+        "text tool and typography choices",
+        "centering text with alignment guides",
+        "creating and duplicating shapes (triangles)",
+        "layer ordering and nesting for grouped effects"
+      ],
+      "description": "Adds narrative text overlays, centers and styles them, creates simple graphic shapes (triangles), duplicates them to build a scene, and nests sequences to keep related motion graphics organized while applying a cohesive transition to multiple elements."
+    },
+    {
+      "start": "00:23:39",
+      "end": "00:24:31",
+      "title": "Adding Interest",
+      "concepts": [
+        "text tool and typography choices",
+        "centering text with alignment guides",
+        "creating and duplicating shapes (triangles)",
+        "layer ordering and nesting for grouped effects"
+      ],
+      "description": "Adds narrative text overlays, centers and styles them, creates simple graphic shapes (triangles), duplicates them to build a scene, and nests sequences to keep related motion graphics organized while applying a cohesive transition to multiple elements."
+    },
+    {
+      "start": "00:24:31",
+      "end": "00:26:20",
+      "title": "Working with a green screen",
+      "concepts": [
+        "text tool and typography choices",
+        "centering text with alignment guides",
+        "creating and duplicating shapes (triangles)",
+        "layer ordering and nesting for grouped effects"
+      ],
+      "description": "Adds narrative text overlays, centers and styles them, creates simple graphic shapes (triangles), duplicates them to build a scene, and nests sequences to keep related motion graphics organized while applying a cohesive transition to multiple elements."
+    },
+    {
+      "start": "00:26:20",
+      "end": "00:28:12",
+      "title": "Basic Keyframing",
+      "concepts": [
+        "text tool and typography choices",
+        "centering text with alignment guides",
+        "creating and duplicating shapes (triangles)",
+        "layer ordering and nesting for grouped effects"
+      ],
+      "description": "Adds narrative text overlays, centers and styles them, creates simple graphic shapes (triangles), duplicates them to build a scene, and nests sequences to keep related motion graphics organized while applying a cohesive transition to multiple elements."
+    },
+    {
+      "start": "00:28:12",
+      "end": "00:28:58",
+      "title": "Stabilizing Shaky Footage",
+      "concepts": [
+        "text tool and typography choices",
+        "centering text with alignment guides",
+        "creating and duplicating shapes (triangles)",
+        "layer ordering and nesting for grouped effects"
+      ],
+      "description": "Adds narrative text overlays, centers and styles them, creates simple graphic shapes (triangles), duplicates them to build a scene, and nests sequences to keep related motion graphics organized while applying a cohesive transition to multiple elements."
+    },
+    {
+      "start": "00:28:58",
+      "end": "00:31:08",
+      "title": "Exporting your Final Video",
+      "concepts": [
+        "text tool and typography choices",
+        "centering text with alignment guides",
+        "creating and duplicating shapes (triangles)",
+        "layer ordering and nesting for grouped effects",
+        "color correction vs. grading",
+        "Lumetri color basics",
+        "warp stabilizer (intro)"
+      ],
+      "description": "Introduces color workflows (color correction with LUTs, Rec. 709 target, exposure adjustments) and an early look at stabilization using Warp Stabilizer on handheld footage as a way to reduce shake before deeper color work."
+    },
+    {
+      "start": "00:31:08",
+      "end": "00:31:32",
+      "title": "SECTION 2: Color Science",
+      "concepts": [
+        "color correction vs. grading",
+        "Lumetri color basics",
+        "warp stabilizer (intro)",
+        "Canon C-Log to Rec.709 LUT",
+        "Lumetri Color panel: temperature, exposure, highlights, shadows, whites, blacks, saturation",
+        "Lumetri Scopes for exposure decisions",
+        "color matching and Apply Match"
+      ],
+      "description": "Shows importing a log shot, applying a conversion LUT, and performing iterative color grading using the Lumetri panel. Demonstrates how scopes guide exposure decisions and introduces a color-matching workflow to align shots with a reference grade."
+    },
+    {
+      "start": "00:31:32",
+      "end": "00:32:44",
+      "title": "Color Correction - C-LOG to Rec 709",
+      "concepts": [
+        "Canon C-Log to Rec.709 LUT",
+        "Lumetri Color panel: temperature, exposure, highlights, shadows, whites, blacks, saturation",
+        "Lumetri Scopes for exposure decisions",
+        "color matching and Apply Match"
+      ],
+      "description": "Shows importing a log shot, applying a conversion LUT, and performing iterative color grading using the Lumetri panel. Demonstrates how scopes guide exposure decisions and introduces a color-matching workflow to align shots with a reference grade."
+    },
+    {
+      "start": "00:32:44",
+      "end": "00:38:20",
+      "title": "Basic Correction",
+      "concepts": [
+        "Canon C-Log to Rec.709 LUT",
+        "Lumetri Color panel: temperature, exposure, highlights, shadows, whites, blacks, saturation",
+        "Lumetri Scopes for exposure decisions",
+        "color matching and Apply Match"
+      ],
+      "description": "Shows importing a log shot, applying a conversion LUT, and performing iterative color grading using the Lumetri panel. Demonstrates how scopes guide exposure decisions and introduces a color-matching workflow to align shots with a reference grade."
+    },
+    {
+      "start": "00:38:20",
+      "end": "00:42:32",
+      "title": "Advanced Coloring",
+      "concepts": [
+        "Canon C-Log to Rec.709 LUT",
+        "Lumetri Color panel: temperature, exposure, highlights, shadows, whites, blacks, saturation",
+        "Lumetri Scopes for exposure decisions",
+        "color matching and Apply Match"
+      ],
+      "description": "Shows importing a log shot, applying a conversion LUT, and performing iterative color grading using the Lumetri panel. Demonstrates how scopes guide exposure decisions and introduces a color-matching workflow to align shots with a reference grade."
+    },
+    {
+      "start": "00:42:32",
+      "end": "00:43:40",
+      "title": "Color Match",
+      "concepts": [
+        "audio workspace and essential sound panel",
+        "noise reduction (denoise) and dynamics processing",
+        "volume automation and gain adjustments",
+        "pitch shifting and mastering with amplitude compression",
+        "ducking and essential sound for dialogue/music balance",
+        "fade in/out for music and effects"
+      ],
+      "description": "Guides arranging narration, music, and sound effects on separate tracks, applying denoise and dynamics processing, adjusting gain, using a pitch shifter for cinematic voice, adding ducking to reduce music during dialogue, and inserting smooth fades for seamless audio transitions."
+    },
+    {
+      "start": "00:43:40",
+      "end": "00:44:34",
+      "title": "SECTION 3: Audio Mixing",
+      "concepts": [
+        "audio workspace and essential sound panel",
+        "noise reduction (denoise) and dynamics processing",
+        "volume automation and gain adjustments",
+        "pitch shifting and mastering with amplitude compression",
+        "ducking and essential sound for dialogue/music balance",
+        "fade in/out for music and effects"
+      ],
+      "description": "Guides arranging narration, music, and sound effects on separate tracks, applying denoise and dynamics processing, adjusting gain, using a pitch shifter for cinematic voice, adding ducking to reduce music during dialogue, and inserting smooth fades for seamless audio transitions."
+    },
+    {
+      "start": "00:44:34",
+      "end": "00:45:15",
+      "title": "Voiceover",
+      "concepts": [
+        "audio workspace and essential sound panel",
+        "noise reduction (denoise) and dynamics processing",
+        "volume automation and gain adjustments",
+        "pitch shifting and mastering with amplitude compression",
+        "ducking and essential sound for dialogue/music balance",
+        "fade in/out for music and effects"
+      ],
+      "description": "Guides arranging narration, music, and sound effects on separate tracks, applying denoise and dynamics processing, adjusting gain, using a pitch shifter for cinematic voice, adding ducking to reduce music during dialogue, and inserting smooth fades for seamless audio transitions."
+    },
+    {
+      "start": "00:45:15",
+      "end": "00:46:10",
+      "title": "Exploring the Audio Workspace",
+      "concepts": [
+        "audio workspace and essential sound panel",
+        "noise reduction (denoise) and dynamics processing",
+        "volume automation and gain adjustments",
+        "pitch shifting and mastering with amplitude compression",
+        "ducking and essential sound for dialogue/music balance",
+        "fade in/out for music and effects"
+      ],
+      "description": "Guides arranging narration, music, and sound effects on separate tracks, applying denoise and dynamics processing, adjusting gain, using a pitch shifter for cinematic voice, adding ducking to reduce music during dialogue, and inserting smooth fades for seamless audio transitions."
+    },
+    {
+      "start": "00:46:10",
+      "end": "00:48:38",
+      "title": "Adding Music & SFX",
+      "concepts": [
+        "audio workspace and essential sound panel",
+        "noise reduction (denoise) and dynamics processing",
+        "volume automation and gain adjustments",
+        "pitch shifting and mastering with amplitude compression",
+        "ducking and essential sound for dialogue/music balance",
+        "fade in/out for music and effects"
+      ],
+      "description": "Guides arranging narration, music, and sound effects on separate tracks, applying denoise and dynamics processing, adjusting gain, using a pitch shifter for cinematic voice, adding ducking to reduce music during dialogue, and inserting smooth fades for seamless audio transitions."
+    },
+    {
+      "start": "00:48:38",
+      "end": "00:53:25",
+      "title": "Mixing the Audio",
+      "concepts": [
+        "audio workspace and essential sound panel",
+        "noise reduction (denoise) and dynamics processing",
+        "volume automation and gain adjustments",
+        "pitch shifting and mastering with amplitude compression",
+        "ducking and essential sound for dialogue/music balance",
+        "fade in/out for music and effects"
+      ],
+      "description": "Guides arranging narration, music, and sound effects on separate tracks, applying denoise and dynamics processing, adjusting gain, using a pitch shifter for cinematic voice, adding ducking to reduce music during dialogue, and inserting smooth fades for seamless audio transitions."
+    },
+    {
+      "start": "00:53:25",
+      "end": "00:54:55",
+      "title": "Enhance Speech AI Tool",
+      "concepts": [],
+      "description": "Enhance Speech AI Tool"
+    },
+    {
+      "start": "00:54:55",
+      "end": "00:56:56",
+      "title": "Fading your Audio in & out",
+      "concepts": [
+        "speech-to-text captions from transcript",
+        "caption styling via essential graphics",
+        "convert captions to graphics and track styles",
+        "basic text animation (transform) with easing",
+        "copy/paste animation to multiple captions"
+      ],
+      "description": "Demonstrates generating captions from transcript, styling captions with fonts and colors, converting caption blocks to graphics for animation, and applying smooth, eased keyframed text animations across multiple caption lines."
+    },
+    {
+      "start": "00:56:56",
+      "end": "00:57:24",
+      "title": "SECTION 4: Captions, Subtitles, & Text",
+      "concepts": [
+        "speech-to-text captions from transcript",
+        "caption styling via essential graphics",
+        "convert captions to graphics and track styles",
+        "basic text animation (transform) with easing",
+        "copy/paste animation to multiple captions"
+      ],
+      "description": "Demonstrates generating captions from transcript, styling captions with fonts and colors, converting caption blocks to graphics for animation, and applying smooth, eased keyframed text animations across multiple caption lines."
+    },
+    {
+      "start": "00:57:24",
+      "end": "00:57:57",
+      "title": "Auto Transcriptions",
+      "concepts": [
+        "speech-to-text captions from transcript",
+        "caption styling via essential graphics",
+        "convert captions to graphics and track styles",
+        "basic text animation (transform) with easing",
+        "copy/paste animation to multiple captions"
+      ],
+      "description": "Demonstrates generating captions from transcript, styling captions with fonts and colors, converting caption blocks to graphics for animation, and applying smooth, eased keyframed text animations across multiple caption lines."
+    },
+    {
+      "start": "00:57:57",
+      "end": "00:58:45",
+      "title": "Removing Silences Automatically",
+      "concepts": [
+        "speech-to-text captions from transcript",
+        "caption styling via essential graphics",
+        "convert captions to graphics and track styles",
+        "basic text animation (transform) with easing",
+        "copy/paste animation to multiple captions"
+      ],
+      "description": "Demonstrates generating captions from transcript, styling captions with fonts and colors, converting caption blocks to graphics for animation, and applying smooth, eased keyframed text animations across multiple caption lines."
+    },
+    {
+      "start": "00:58:45",
+      "end": "01:01:00",
+      "title": "Auto Captions/Subtitles",
+      "concepts": [
+        "speech-to-text captions from transcript",
+        "caption styling via essential graphics",
+        "convert captions to graphics and track styles",
+        "basic text animation (transform) with easing",
+        "copy/paste animation to multiple captions"
+      ],
+      "description": "Demonstrates generating captions from transcript, styling captions with fonts and colors, converting caption blocks to graphics for animation, and applying smooth, eased keyframed text animations across multiple caption lines."
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:04:55",
+      "title": "Animating your Subtitles",
+      "concepts": [
+        "speech-to-text captions from transcript",
+        "caption styling via essential graphics",
+        "convert captions to graphics and track styles",
+        "basic text animation (transform) with easing",
+        "copy/paste animation to multiple captions"
+      ],
+      "description": "Demonstrates generating captions from transcript, styling captions with fonts and colors, converting caption blocks to graphics for animation, and applying smooth, eased keyframed text animations across multiple caption lines."
+    },
+    {
+      "start": "01:04:55",
+      "end": "01:05:35",
+      "title": "SECTION 5: Advanced Keyframing & MoGraph",
+      "concepts": [
+        "keyframing transforms (position, scale, rotation)",
+        "transform vs motion effect for animation",
+        "anchor point and center alignment for smooth transforms",
+        "easy in/ease out keyframes and timing control",
+        "animating basic shapes and text with nesting",
+        "effect controls and shortcuts for easing"
+      ],
+      "description": "Delves into comprehensive keyframing and motion graphics workflows: creating smooth zooms and rotations with transform, controlling anchor points, easing keyframes, nesting shapes/text for clean animations, and aligning timing for professional-looking motion."
+    },
+    {
+      "start": "01:05:35",
+      "end": "01:09:02",
+      "title": "Smooth Zooms (in & out)",
+      "concepts": [
+        "keyframing transforms (position, scale, rotation)",
+        "transform vs motion effect for animation",
+        "anchor point and center alignment for smooth transforms",
+        "easy in/ease out keyframes and timing control",
+        "animating basic shapes and text with nesting",
+        "effect controls and shortcuts for easing"
+      ],
+      "description": "Delves into comprehensive keyframing and motion graphics workflows: creating smooth zooms and rotations with transform, controlling anchor points, easing keyframes, nesting shapes/text for clean animations, and aligning timing for professional-looking motion."
+    },
+    {
+      "start": "01:09:02",
+      "end": "01:13:05",
+      "title": "Animating an Object",
+      "concepts": [
+        "keyframing transforms (position, scale, rotation)",
+        "transform vs motion effect for animation",
+        "anchor point and center alignment for smooth transforms",
+        "easy in/ease out keyframes and timing control",
+        "animating basic shapes and text with nesting",
+        "effect controls and shortcuts for easing"
+      ],
+      "description": "Delves into comprehensive keyframing and motion graphics workflows: creating smooth zooms and rotations with transform, controlling anchor points, easing keyframes, nesting shapes/text for clean animations, and aligning timing for professional-looking motion."
+    },
+    {
+      "start": "01:13:05",
+      "end": "01:15:07",
+      "title": "Animating Text",
+      "concepts": [
+        "keyframing transforms (position, scale, rotation)",
+        "transform vs motion effect for animation",
+        "anchor point and center alignment for smooth transforms",
+        "easy in/ease out keyframes and timing control",
+        "animating basic shapes and text with nesting",
+        "effect controls and shortcuts for easing"
+      ],
+      "description": "Delves into comprehensive keyframing and motion graphics workflows: creating smooth zooms and rotations with transform, controlling anchor points, easing keyframes, nesting shapes/text for clean animations, and aligning timing for professional-looking motion."
+    },
+    {
+      "start": "01:15:07",
+      "end": "01:16:07",
+      "title": "We're Done! +Next Steps...",
+      "concepts": [
+        "keyframing transforms (position, scale, rotation)",
+        "transform vs motion effect for animation",
+        "anchor point and center alignment for smooth transforms",
+        "easy in/ease out keyframes and timing control",
+        "animating basic shapes and text with nesting",
+        "effect controls and shortcuts for easing"
+      ],
+      "description": "Delves into comprehensive keyframing and motion graphics workflows: creating smooth zooms and rotations with transform, controlling anchor points, easing keyframes, nesting shapes/text for clean animations, and aligning timing for professional-looking motion."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cross dissolve transitions on timeline",
+      "timestamp": "00:13:22.040",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Slip Tool for precise edit timing",
+      "timestamp": "00:14:34.120",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Nest sequences to group motion graphics",
+      "timestamp": "00:21:04.560",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Ultra Key for green screen keying",
+      "timestamp": "00:24:56.840",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Warp Stabilizer for handheld footage",
+      "timestamp": "00:28:34.560",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Speech-to-text captions from transcript",
+      "timestamp": "00:57:28.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Transform keyframes for zoom in/out with easing",
+      "timestamp": "01:05:13.440",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Captions converted to graphics and animated",
+      "timestamp": "01:01:25.160",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Color grading with LUTs and Lumetri scopes",
+      "timestamp": "00:31:22.160",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Color match using Compare View and Apply Match",
+      "timestamp": "00:42:56.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exporting with in/out points and 1080p H.264",
+      "timestamp": "00:29:01.000",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-26T17:54:42.874182+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

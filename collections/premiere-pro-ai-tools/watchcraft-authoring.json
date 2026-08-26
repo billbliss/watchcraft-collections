@@ -2,12 +2,12 @@
   "kind": "watchcraft.authoring",
   "schema_version": 1,
   "collection": {
-    "title": "Premiere Pro AI Tools",
+    "title": "Learning Adobe Premiere Pro",
     "collection_id": "premiere-pro-ai-tools",
     "description": "A Watchcraft collection of public instructional videos.",
     "source": {
       "type": "youtube",
-      "publisher": "Justin Brown - Primal Video"
+      "publisher": "Multiple publishers"
     }
   },
   "sources": {
@@ -21,6 +21,7 @@
       "publisher_url": "https://www.youtube.com/@PrimalVideo",
       "thumbnail_url": "https://i.ytimg.com/vi/PjObX9XQvgI/hqdefault.jpg",
       "duration_seconds": 936,
+      "position": 4,
       "published_at": "2025-03-24T21:00:33-07:00",
       "chapters": [
         {
@@ -58,6 +59,573 @@
         {
           "start_seconds": 828,
           "title": "Premiere Pro AI Tool #8: AI Color Correction"
+        }
+      ],
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "48Fn-PQILIY.youtube": {
+      "source_id": "youtube:48Fn-PQILIY",
+      "type": "youtube",
+      "video_id": "48Fn-PQILIY",
+      "url": "https://www.youtube.com/watch?v=48Fn-PQILIY",
+      "title": "Premiere Pro For Beginners | 2025 Edition | Valentina Vee x Adobe Video",
+      "publisher": "Adobe Video",
+      "publisher_url": "https://www.youtube.com/@AdobeVideo",
+      "thumbnail_url": "https://i.ytimg.com/vi/48Fn-PQILIY/hqdefault.jpg",
+      "duration_seconds": 12459,
+      "position": 1,
+      "published_at": "2025-06-16T14:00:03-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "Introduction"
+        },
+        {
+          "start_seconds": 87,
+          "title": "File Organization"
+        },
+        {
+          "start_seconds": 208,
+          "title": "Creating a New Project"
+        },
+        {
+          "start_seconds": 270,
+          "title": "Setting up a Project with Import Mode"
+        },
+        {
+          "start_seconds": 356,
+          "title": "New Project from Scratch"
+        },
+        {
+          "start_seconds": 390,
+          "title": "5 Main Windows Overview"
+        },
+        {
+          "start_seconds": 563,
+          "title": "Import Tools & Media Management"
+        },
+        {
+          "start_seconds": 671,
+          "title": "Organizing the Workspace"
+        },
+        {
+          "start_seconds": 930,
+          "title": "Creating Sequences and Choosing Frame Rates"
+        },
+        {
+          "start_seconds": 1151,
+          "title": "What are Frame Rates and Image Dimensions"
+        },
+        {
+          "start_seconds": 1300,
+          "title": "Color Coding Clips"
+        },
+        {
+          "start_seconds": 1406,
+          "title": "Putting Clips into the Timeline"
+        },
+        {
+          "start_seconds": 1542,
+          "title": "Navigating the Timeline"
+        },
+        {
+          "start_seconds": 1904,
+          "title": "Cutting Clips in the Timeline"
+        },
+        {
+          "start_seconds": 2009,
+          "title": "Keyboard Shortcuts Menu"
+        },
+        {
+          "start_seconds": 2120,
+          "title": "Fast Forward, Pause, Rewind in the Timeline"
+        },
+        {
+          "start_seconds": 2202,
+          "title": "Timeline Shortcuts"
+        },
+        {
+          "start_seconds": 2445,
+          "title": "Versioning Sequences"
+        },
+        {
+          "start_seconds": 2531,
+          "title": "Silent Scrubbing"
+        },
+        {
+          "start_seconds": 2553,
+          "title": "Save and Autosave"
+        },
+        {
+          "start_seconds": 2760,
+          "title": "Re-order Clips in Timeline"
+        },
+        {
+          "start_seconds": 2940,
+          "title": "Rolling Edit Tool"
+        },
+        {
+          "start_seconds": 3149,
+          "title": "Bring Part of Clip into Timeline"
+        },
+        {
+          "start_seconds": 3298,
+          "title": "Ripple Edit Tool"
+        },
+        {
+          "start_seconds": 3419,
+          "title": "Slip Tool"
+        },
+        {
+          "start_seconds": 3681,
+          "title": "Loop Playback Tool"
+        },
+        {
+          "start_seconds": 3790,
+          "title": "Audio Fade Handles"
+        },
+        {
+          "start_seconds": 3840,
+          "title": "Add Audio Transition to All Clips"
+        },
+        {
+          "start_seconds": 3982,
+          "title": "Turn Down Audio across Multiple Clips"
+        },
+        {
+          "start_seconds": 4429,
+          "title": "Clean Up Audio with Enhance Speech"
+        },
+        {
+          "start_seconds": 4856,
+          "title": "Auto-Match Audio Loudness"
+        },
+        {
+          "start_seconds": 4920,
+          "title": "Find and Add Music from Essential Sound"
+        },
+        {
+          "start_seconds": 5269,
+          "title": "Audio Remix Tool for Shortening Music"
+        },
+        {
+          "start_seconds": 5460,
+          "title": "Add Basic Text"
+        },
+        {
+          "start_seconds": 5622,
+          "title": "Ducking and Auto-Ducking Music Tracks"
+        },
+        {
+          "start_seconds": 5940,
+          "title": "Exporting First Video"
+        },
+        {
+          "start_seconds": 6035,
+          "title": "FINAL FIRST VIDEO WATCH-THROUGH"
+        },
+        {
+          "start_seconds": 6310,
+          "title": "Organizing Multiple Videos in One Project"
+        },
+        {
+          "start_seconds": 6460,
+          "title": "Manually Synching Clips with Audio"
+        },
+        {
+          "start_seconds": 6929,
+          "title": "Using \"Synchronize\" for Clips in Timeline"
+        },
+        {
+          "start_seconds": 6968,
+          "title": "Multi-Camera Sync Workflow"
+        },
+        {
+          "start_seconds": 7590,
+          "title": "Track Targeting to Cut Rows of Clips"
+        },
+        {
+          "start_seconds": 7980,
+          "title": "Text Based Editing with Auto Transcript"
+        },
+        {
+          "start_seconds": 8373,
+          "title": "Close All Gaps"
+        },
+        {
+          "start_seconds": 8460,
+          "title": "Checker-boarding technique (Enable and Disable)"
+        },
+        {
+          "start_seconds": 8785,
+          "title": "Re-Sizing Clips"
+        },
+        {
+          "start_seconds": 8925,
+          "title": "Create Stringout from Clips in Bins (I/O Workflow)"
+        },
+        {
+          "start_seconds": 9059,
+          "title": "Rate-Stretching Slow Motion Clips"
+        },
+        {
+          "start_seconds": 9164,
+          "title": "Interpreting (Conforming) Slow-Motion Clips"
+        },
+        {
+          "start_seconds": 9405,
+          "title": "Creating Durational Markers"
+        },
+        {
+          "start_seconds": 9560,
+          "title": "Pancaking Technique for B-Roll"
+        },
+        {
+          "start_seconds": 9640,
+          "title": "Generative Extend"
+        },
+        {
+          "start_seconds": 9863,
+          "title": "Media Intelligence and Search Panel"
+        },
+        {
+          "start_seconds": 9909,
+          "title": "Source Patching"
+        },
+        {
+          "start_seconds": 10180,
+          "title": "Changing Opacity, Lining Up Clips"
+        },
+        {
+          "start_seconds": 10329,
+          "title": "Warp Stabilizer"
+        },
+        {
+          "start_seconds": 10455,
+          "title": "Lumetri Panel Basic Color Correction"
+        },
+        {
+          "start_seconds": 10653,
+          "title": "Color Match 2 Clips"
+        },
+        {
+          "start_seconds": 10890,
+          "title": "Remove Attributes from Multiple Clips"
+        },
+        {
+          "start_seconds": 10945,
+          "title": "Add Effects using Adjustment Layer"
+        },
+        {
+          "start_seconds": 11075,
+          "title": "Create and Apply Default Transition Effect"
+        },
+        {
+          "start_seconds": 11207,
+          "title": "Find and Add Sound Effects"
+        },
+        {
+          "start_seconds": 11301,
+          "title": "Find, Apply, and Edit Motion Graphics Templates"
+        },
+        {
+          "start_seconds": 11487,
+          "title": "Add and Edit Captions"
+        },
+        {
+          "start_seconds": 11665,
+          "title": "Caption Translation"
+        },
+        {
+          "start_seconds": 11869,
+          "title": "Reframe for Social Media"
+        },
+        {
+          "start_seconds": 12071,
+          "title": "Export with Burned-in Captions"
+        },
+        {
+          "start_seconds": 12131,
+          "title": "FINAL VIDEO WATCH-THROUGH"
+        }
+      ],
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "xDq3ij-oHJA.youtube": {
+      "source_id": "youtube:xDq3ij-oHJA",
+      "type": "youtube",
+      "video_id": "xDq3ij-oHJA",
+      "url": "https://www.youtube.com/watch?v=xDq3ij-oHJA",
+      "title": "Premiere Pro Tutorial for Beginners | FULL COURSE",
+      "publisher": "Gavin Herman",
+      "publisher_url": "https://www.youtube.com/@GavinHerman",
+      "thumbnail_url": "https://i.ytimg.com/vi/xDq3ij-oHJA/hqdefault.jpg",
+      "duration_seconds": 4567,
+      "position": 2,
+      "published_at": "2024-09-01T07:15:02-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "Premiere Pro for Beginners | Full Course"
+        },
+        {
+          "start_seconds": 61,
+          "title": "SECTION 1: Project Setup & Basics"
+        },
+        {
+          "start_seconds": 72,
+          "title": "Best Settings & File Management"
+        },
+        {
+          "start_seconds": 365,
+          "title": "Creating a New Project"
+        },
+        {
+          "start_seconds": 394,
+          "title": "Undestanding Workspaces & Panels"
+        },
+        {
+          "start_seconds": 474,
+          "title": "Importing & Assembling Media"
+        },
+        {
+          "start_seconds": 773,
+          "title": "Transitions"
+        },
+        {
+          "start_seconds": 970,
+          "title": "Adding Text"
+        },
+        {
+          "start_seconds": 1155,
+          "title": "Adding Shapes"
+        },
+        {
+          "start_seconds": 1315,
+          "title": "Adding Sounds"
+        },
+        {
+          "start_seconds": 1419,
+          "title": "Adding Interest"
+        },
+        {
+          "start_seconds": 1471,
+          "title": "Working with a green screen"
+        },
+        {
+          "start_seconds": 1580,
+          "title": "Basic Keyframing"
+        },
+        {
+          "start_seconds": 1692,
+          "title": "Stabilizing Shaky Footage"
+        },
+        {
+          "start_seconds": 1738,
+          "title": "Exporting your Final Video"
+        },
+        {
+          "start_seconds": 1868,
+          "title": "SECTION 2: Color Science"
+        },
+        {
+          "start_seconds": 1892,
+          "title": "Color Correction - C-LOG to Rec 709"
+        },
+        {
+          "start_seconds": 1964,
+          "title": "Basic Correction"
+        },
+        {
+          "start_seconds": 2300,
+          "title": "Advanced Coloring"
+        },
+        {
+          "start_seconds": 2552,
+          "title": "Color Match"
+        },
+        {
+          "start_seconds": 2620,
+          "title": "SECTION 3: Audio Mixing"
+        },
+        {
+          "start_seconds": 2674,
+          "title": "Voiceover"
+        },
+        {
+          "start_seconds": 2715,
+          "title": "Exploring the Audio Workspace"
+        },
+        {
+          "start_seconds": 2770,
+          "title": "Adding Music & SFX"
+        },
+        {
+          "start_seconds": 2918,
+          "title": "Mixing the Audio"
+        },
+        {
+          "start_seconds": 3205,
+          "title": "Enhance Speech AI Tool"
+        },
+        {
+          "start_seconds": 3295,
+          "title": "Fading your Audio in & out"
+        },
+        {
+          "start_seconds": 3416,
+          "title": "SECTION 4: Captions, Subtitles, & Text"
+        },
+        {
+          "start_seconds": 3444,
+          "title": "Auto Transcriptions"
+        },
+        {
+          "start_seconds": 3477,
+          "title": "Removing Silences Automatically"
+        },
+        {
+          "start_seconds": 3525,
+          "title": "Auto Captions/Subtitles"
+        },
+        {
+          "start_seconds": 3660,
+          "title": "Animating your Subtitles"
+        },
+        {
+          "start_seconds": 3895,
+          "title": "SECTION 5: Advanced Keyframing & MoGraph"
+        },
+        {
+          "start_seconds": 3935,
+          "title": "Smooth Zooms (in & out)"
+        },
+        {
+          "start_seconds": 4142,
+          "title": "Animating an Object"
+        },
+        {
+          "start_seconds": 4385,
+          "title": "Animating Text"
+        },
+        {
+          "start_seconds": 4507,
+          "title": "We're Done! +Next Steps..."
+        }
+      ],
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "BeH1I5n-798.youtube": {
+      "source_id": "youtube:BeH1I5n-798",
+      "type": "youtube",
+      "video_id": "BeH1I5n-798",
+      "url": "https://www.youtube.com/watch?v=BeH1I5n-798",
+      "title": "How to Edit a Video in Adobe Premiere 2026! (Complete Beginners Tutorial)",
+      "publisher": "Think Media",
+      "publisher_url": "https://www.youtube.com/@ThinkMediaTV",
+      "thumbnail_url": "https://i.ytimg.com/vi/BeH1I5n-798/hqdefault.jpg",
+      "duration_seconds": 2401,
+      "position": 3,
+      "published_at": "2025-03-28T05:00:15-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "- How to edit a video in Adobe Premiere!"
+        },
+        {
+          "start_seconds": 27,
+          "title": "- Downloading Premiere & project assets"
+        },
+        {
+          "start_seconds": 56,
+          "title": "- How to organize your footage"
+        },
+        {
+          "start_seconds": 130,
+          "title": "- Premiere project setup"
+        },
+        {
+          "start_seconds": 283,
+          "title": "- How to create a sequence"
+        },
+        {
+          "start_seconds": 425,
+          "title": "- How to edit A-Roll (Talking Head)"
+        },
+        {
+          "start_seconds": 677,
+          "title": "- Color coding your timeline"
+        },
+        {
+          "start_seconds": 762,
+          "title": "- How to add B-Roll"
+        },
+        {
+          "start_seconds": 926,
+          "title": "- How to create slow motion footage"
+        },
+        {
+          "start_seconds": 998,
+          "title": "- How to find stock B-Roll footage"
+        },
+        {
+          "start_seconds": 1055,
+          "title": "- Voice, Music, SFX, etc."
+        },
+        {
+          "start_seconds": 1076,
+          "title": "- Adding music"
+        },
+        {
+          "start_seconds": 1210,
+          "title": "- Adding an intro bumper with sound effects"
+        },
+        {
+          "start_seconds": 1367,
+          "title": "- Editing sound (EQ, compression, noise reduction)"
+        },
+        {
+          "start_seconds": 1693,
+          "title": "- Adding text & titles"
+        },
+        {
+          "start_seconds": 1903,
+          "title": "- Adding movement to your video (Keyframes)"
+        },
+        {
+          "start_seconds": 1983,
+          "title": "- Color correcting"
+        },
+        {
+          "start_seconds": 2168,
+          "title": "- Getting correct white balance"
+        },
+        {
+          "start_seconds": 2205,
+          "title": "- Making timeline full screen"
+        },
+        {
+          "start_seconds": 2238,
+          "title": "- Export settings"
+        },
+        {
+          "start_seconds": 2370,
+          "title": "- Assets to download"
         }
       ],
       "captions": {

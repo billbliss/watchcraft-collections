@@ -1,0 +1,1027 @@
+{
+  "schema_version": 2,
+  "video": "48Fn-PQILIY.youtube",
+  "title": "Premiere Pro For Beginners | 2025 Edition | Valentina Vee x Adobe Video",
+  "date": {
+    "display": "June 16, 2025",
+    "iso": "2025-06-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Living room (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript repeatedly references filming in a living room; no explicit shooting location is stated."
+    }
+  ],
+  "summary": "Valentina Vee’s Premiere Pro for Beginners (2025 Edition) is a comprehensive, hands-on workshop that unfolds from project setup and file organization through detailed editing workflows, audio optimization with Adobe’s Essential Sound, color grading with Lumetri, captions, graphics, and music integration, to final export. The video emphasizes practical, tool-specific guidance rather than abstract concepts, including organizing assets on an external drive, creating and naming projects, managing bins and sequences, mastering core editing tools and keyboard shortcuts, using hover scrubbing, syncing multi-camera footage, applying auto-ducking and auto-match loudness, matching color across shots, building captions from transcripts, inserting graphics like lower thirds, and exporting with captions burned in. The instructor also demonstrates advanced techniques such as the Remix tool for music, Auto Reframe for social formats, multitrack multicam editing, adjustment layers for global color, and efficient workflow tips (ripple delete, slip/roll edits, and the use of an adjustment layer). The transcript reflects a project-based approach, including a vlog-style sequence and an interview with two camera angles, plus a detailed walk-through of asset management, sequencing, and export options, with downloadable assets and a companion PDF promised to learners.",
+  "topics": [
+    "File organization and project setup (year_month_day naming, main folder structure, autosaves location)",
+    "Import Mode and hover scrubbing of footage",
+    "Premiere Pro workspace fundamentals (Project, Source, Timeline, Program windows) and workspaces",
+    "Bin and sequence creation; organizing with bins and color labels",
+    "Sequence settings and matching to footage (frame rate, resolution)",
+    "Timeline basics (playhead, zoom, snapping, linked audio/video)",
+    "Core editing tools and shortcuts (V, C, W, Q, A, B, N; ripple, slip, roll)",
+    "Razor vs. ripple delete; inserting vs. overwriting edits",
+    "Multi-camera editing workflow (Create Multi-Camera Source Sequence, Toggle Multi-Camera View, flattening, nesting, toggling camera angles)",
+    "Audio editing with Essential Sound (Dialogue, Auto Match, Ducking; noise reduction; audio gain)",
+    "Lumetri Color (Basic, Creative, Color Wheels, Comparison View, Match, Auto Tone)",
+    "Adjustment Layers for global color and effect application",
+    "Graphics and lower thirds (Essential Graphics templates)",
+    "Captions and transcript-based editing (Create Captions from Transcript, translation, track styles)",
+    "Remix tool for music editing and auto-cut detection",
+    "Auto Reframe for social formats (Vertical 9x16)",
+    "Stabilization (Warp Stabilizer) and motion corrections",
+    "Export workflow (Export Media, H.264, High Quality 1080p, burn-in captions, render in to out)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:27",
+      "title": "Introduction",
+      "concepts": [
+        "Folder structure on an external drive",
+        "Year_month_day naming convention",
+        "Subfolders: Footage, Audio, Graphics, Music, Exports",
+        "Autosaves location and Premiere folder",
+        "Standardized project demo folder"
+      ],
+      "description": "Valentina demonstrates starting a video project with a consistent folder scheme on external storage, naming conventions, and how Premiere autosaves live in the Premiere folder. She also introduces using a sample project structure to keep assets organized."
+    },
+    {
+      "start": "00:01:27",
+      "end": "00:03:28",
+      "title": "File Organization",
+      "concepts": [
+        "Folder structure on an external drive",
+        "Year_month_day naming convention",
+        "Subfolders: Footage, Audio, Graphics, Music, Exports",
+        "Autosaves location and Premiere folder",
+        "Standardized project demo folder"
+      ],
+      "description": "Valentina demonstrates starting a video project with a consistent folder scheme on external storage, naming conventions, and how Premiere autosaves live in the Premiere folder. She also introduces using a sample project structure to keep assets organized."
+    },
+    {
+      "start": "00:03:28",
+      "end": "00:04:30",
+      "title": "Creating a New Project",
+      "concepts": [
+        "Folder structure on an external drive",
+        "Year_month_day naming convention",
+        "Subfolders: Footage, Audio, Graphics, Music, Exports",
+        "Autosaves location and Premiere folder",
+        "Standardized project demo folder"
+      ],
+      "description": "Valentina demonstrates starting a video project with a consistent folder scheme on external storage, naming conventions, and how Premiere autosaves live in the Premiere folder. She also introduces using a sample project structure to keep assets organized."
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:56",
+      "title": "Setting up a Project with Import Mode",
+      "concepts": [
+        "Folder structure on an external drive",
+        "Year_month_day naming convention",
+        "Subfolders: Footage, Audio, Graphics, Music, Exports",
+        "Autosaves location and Premiere folder",
+        "Standardized project demo folder",
+        "Welcome screen and New Project dialog",
+        "Location selection and autosave path",
+        "Import Mode hover scrubbing and pre-building a project",
+        "Basic window definitions: Project, Source, Timeline, Program"
+      ],
+      "description": "The presenter walks through creating a new project, selecting a storage location (Premiere folder for autosaves), and explains Import Mode. Hover scrubbing is introduced as a way to preview clips before importing, and the four main Premiere windows are briefly described."
+    },
+    {
+      "start": "00:05:56",
+      "end": "00:06:30",
+      "title": "New Project from Scratch",
+      "concepts": [
+        "Welcome screen and New Project dialog",
+        "Location selection and autosave path",
+        "Import Mode hover scrubbing and pre-building a project",
+        "Basic window definitions: Project, Source, Timeline, Program"
+      ],
+      "description": "The presenter walks through creating a new project, selecting a storage location (Premiere folder for autosaves), and explains Import Mode. Hover scrubbing is introduced as a way to preview clips before importing, and the four main Premiere windows are briefly described."
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:23",
+      "title": "5 Main Windows Overview",
+      "concepts": [
+        "Welcome screen and New Project dialog",
+        "Location selection and autosave path",
+        "Import Mode hover scrubbing and pre-building a project",
+        "Basic window definitions: Project, Source, Timeline, Program"
+      ],
+      "description": "The presenter walks through creating a new project, selecting a storage location (Premiere folder for autosaves), and explains Import Mode. Hover scrubbing is introduced as a way to preview clips before importing, and the four main Premiere windows are briefly described."
+    },
+    {
+      "start": "00:09:23",
+      "end": "00:11:11",
+      "title": "Import Tools & Media Management",
+      "concepts": [
+        "Welcome screen and New Project dialog",
+        "Location selection and autosave path",
+        "Import Mode hover scrubbing and pre-building a project",
+        "Basic window definitions: Project, Source, Timeline, Program"
+      ],
+      "description": "The presenter walks through creating a new project, selecting a storage location (Premiere folder for autosaves), and explains Import Mode. Hover scrubbing is introduced as a way to preview clips before importing, and the four main Premiere windows are briefly described."
+    },
+    {
+      "start": "00:11:11",
+      "end": "00:15:30",
+      "title": "Organizing the Workspace",
+      "concepts": [
+        "Welcome screen and New Project dialog",
+        "Location selection and autosave path",
+        "Import Mode hover scrubbing and pre-building a project",
+        "Basic window definitions: Project, Source, Timeline, Program",
+        "Bin organization and naming (e.g., O3 MUSIC, 04 SEQUENCES)",
+        "List view vs Icon view; tilde (~) to expand panels",
+        "Video info and frame rate/Resolution columns",
+        "Labeling clips by color for quick visual organization"
+      ],
+      "description": "The video covers organizing media into bins and the habit of prefixing and numbering folders to keep projects clear. It demonstrates switching between list and icon views, expanding columns with the tilde key, and labeling clips by color to differentiate camera sources and frame rates."
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:19:11",
+      "title": "Creating Sequences and Choosing Frame Rates",
+      "concepts": [
+        "Bin organization and naming (e.g., O3 MUSIC, 04 SEQUENCES)",
+        "List view vs Icon view; tilde (~) to expand panels",
+        "Video info and frame rate/Resolution columns",
+        "Labeling clips by color for quick visual organization"
+      ],
+      "description": "The video covers organizing media into bins and the habit of prefixing and numbering folders to keep projects clear. It demonstrates switching between list and icon views, expanding columns with the tilde key, and labeling clips by color to differentiate camera sources and frame rates."
+    },
+    {
+      "start": "00:19:11",
+      "end": "00:21:40",
+      "title": "What are Frame Rates and Image Dimensions",
+      "concepts": [
+        "Bin organization and naming (e.g., O3 MUSIC, 04 SEQUENCES)",
+        "List view vs Icon view; tilde (~) to expand panels",
+        "Video info and frame rate/Resolution columns",
+        "Labeling clips by color for quick visual organization",
+        "Creating a sequence from a clip using New Item > Sequence",
+        "Matching sequence to clip settings (HD 1080p, 23.976)",
+        "Understanding frame rate, frame size, and matching lowest clip frame rate"
+      ],
+      "description": "The video covers organizing media into bins and the habit of prefixing and numbering folders to keep projects clear. It demonstrates switching between list and icon views, expanding columns with the tilde key, and labeling clips by color to differentiate camera sources and frame rates."
+    },
+    {
+      "start": "00:21:40",
+      "end": "00:23:26",
+      "title": "Color Coding Clips",
+      "concepts": [
+        "Creating a sequence from a clip using New Item > Sequence",
+        "Matching sequence to clip settings (HD 1080p, 23.976)",
+        "Understanding frame rate, frame size, and matching lowest clip frame rate"
+      ],
+      "description": "Valentina shows how to create a sequence, verify settings via the Settings tab, and ensure the sequence matches the footage’s frame rate and resolution, emphasizing best practice of aligning sequence settings to the lowest frame rate in the project."
+    },
+    {
+      "start": "00:23:26",
+      "end": "00:25:42",
+      "title": "Putting Clips into the Timeline",
+      "concepts": [
+        "Creating a sequence from a clip using New Item > Sequence",
+        "Matching sequence to clip settings (HD 1080p, 23.976)",
+        "Understanding frame rate, frame size, and matching lowest clip frame rate"
+      ],
+      "description": "Valentina shows how to create a sequence, verify settings via the Settings tab, and ensure the sequence matches the footage’s frame rate and resolution, emphasizing best practice of aligning sequence settings to the lowest frame rate in the project."
+    },
+    {
+      "start": "00:25:42",
+      "end": "00:31:44",
+      "title": "Navigating the Timeline",
+      "concepts": [
+        "Creating a sequence from a clip using New Item > Sequence",
+        "Matching sequence to clip settings (HD 1080p, 23.976)",
+        "Understanding frame rate, frame size, and matching lowest clip frame rate",
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "Valentina shows how to create a sequence, verify settings via the Settings tab, and ensure the sequence matches the footage’s frame rate and resolution, emphasizing best practice of aligning sequence settings to the lowest frame rate in the project."
+    },
+    {
+      "start": "00:31:44",
+      "end": "00:33:29",
+      "title": "Cutting Clips in the Timeline",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:33:29",
+      "end": "00:35:20",
+      "title": "Keyboard Shortcuts Menu",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:35:20",
+      "end": "00:36:42",
+      "title": "Fast Forward, Pause, Rewind in the Timeline",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:36:42",
+      "end": "00:40:45",
+      "title": "Timeline Shortcuts",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:40:45",
+      "end": "00:42:11",
+      "title": "Versioning Sequences",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:42:11",
+      "end": "00:42:33",
+      "title": "Silent Scrubbing",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:42:33",
+      "end": "00:46:00",
+      "title": "Save and Autosave",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:49:00",
+      "title": "Re-order Clips in Timeline",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:52:29",
+      "title": "Rolling Edit Tool",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:52:29",
+      "end": "00:54:58",
+      "title": "Bring Part of Clip into Timeline",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:54:58",
+      "end": "00:56:59",
+      "title": "Ripple Edit Tool",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "00:56:59",
+      "end": "01:01:21",
+      "title": "Slip Tool",
+      "concepts": [
+        "Selection tool (V)",
+        "Razor tool (C) and quick shortcuts",
+        "Ripple delete (Shift+Delete or W)",
+        "Slip and Roll edits (Y, N)",
+        "Linked vs. unlinked audio/video editing",
+        "Zooming and snapping in timeline",
+        "Create and manage edits with keyboard shortcuts"
+      ],
+      "description": "This section covers moving clips in the timeline, making precise cuts, and removing segments efficiently. It emphasizes using the Selection tool, Razor tool, ripple delete, slip, and roll edits, as well as managing audio-video linkage and timeline navigation with snapping and keyboard shortcuts."
+    },
+    {
+      "start": "01:01:21",
+      "end": "01:03:10",
+      "title": "Loop Playback Tool",
+      "concepts": [
+        "Ripple delete efficiency and custom shortcuts (ALT/Option)",
+        "Insert vs. overwrite with comma (,) and period (.)",
+        "Close gaps shortcut (custom)",
+        "Remix tool for quick music cuts",
+        "Warp Stabilizer for stabilization",
+        "Creating crossfades and default audio transitions (Shift+D)",
+        "Using an adjustment layer for global color"
+      ],
+      "description": "Key advanced editing techniques are demonstrated, including efficient cutting, using the remix tool for music, adding stable footage with Warp Stabilizer, establishing default audio transitions, and creating a global color pass with an adjustment layer."
+    },
+    {
+      "start": "01:03:10",
+      "end": "01:04:00",
+      "title": "Audio Fade Handles",
+      "concepts": [
+        "Ripple delete efficiency and custom shortcuts (ALT/Option)",
+        "Insert vs. overwrite with comma (,) and period (.)",
+        "Close gaps shortcut (custom)",
+        "Remix tool for quick music cuts",
+        "Warp Stabilizer for stabilization",
+        "Creating crossfades and default audio transitions (Shift+D)",
+        "Using an adjustment layer for global color"
+      ],
+      "description": "Key advanced editing techniques are demonstrated, including efficient cutting, using the remix tool for music, adding stable footage with Warp Stabilizer, establishing default audio transitions, and creating a global color pass with an adjustment layer."
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:06:22",
+      "title": "Add Audio Transition to All Clips",
+      "concepts": [
+        "Ripple delete efficiency and custom shortcuts (ALT/Option)",
+        "Insert vs. overwrite with comma (,) and period (.)",
+        "Close gaps shortcut (custom)",
+        "Remix tool for quick music cuts",
+        "Warp Stabilizer for stabilization",
+        "Creating crossfades and default audio transitions (Shift+D)",
+        "Using an adjustment layer for global color"
+      ],
+      "description": "Key advanced editing techniques are demonstrated, including efficient cutting, using the remix tool for music, adding stable footage with Warp Stabilizer, establishing default audio transitions, and creating a global color pass with an adjustment layer."
+    },
+    {
+      "start": "01:06:22",
+      "end": "01:13:49",
+      "title": "Turn Down Audio across Multiple Clips",
+      "concepts": [
+        "Ripple delete efficiency and custom shortcuts (ALT/Option)",
+        "Insert vs. overwrite with comma (,) and period (.)",
+        "Close gaps shortcut (custom)",
+        "Remix tool for quick music cuts",
+        "Warp Stabilizer for stabilization",
+        "Creating crossfades and default audio transitions (Shift+D)",
+        "Using an adjustment layer for global color"
+      ],
+      "description": "Key advanced editing techniques are demonstrated, including efficient cutting, using the remix tool for music, adding stable footage with Warp Stabilizer, establishing default audio transitions, and creating a global color pass with an adjustment layer."
+    },
+    {
+      "start": "01:13:49",
+      "end": "01:20:56",
+      "title": "Clean Up Audio with Enhance Speech",
+      "concepts": [
+        "Ripple delete efficiency and custom shortcuts (ALT/Option)",
+        "Insert vs. overwrite with comma (,) and period (.)",
+        "Close gaps shortcut (custom)",
+        "Remix tool for quick music cuts",
+        "Warp Stabilizer for stabilization",
+        "Creating crossfades and default audio transitions (Shift+D)",
+        "Using an adjustment layer for global color"
+      ],
+      "description": "Key advanced editing techniques are demonstrated, including efficient cutting, using the remix tool for music, adding stable footage with Warp Stabilizer, establishing default audio transitions, and creating a global color pass with an adjustment layer."
+    },
+    {
+      "start": "01:20:56",
+      "end": "01:22:00",
+      "title": "Auto-Match Audio Loudness",
+      "concepts": [
+        "Ripple delete efficiency and custom shortcuts (ALT/Option)",
+        "Insert vs. overwrite with comma (,) and period (.)",
+        "Close gaps shortcut (custom)",
+        "Remix tool for quick music cuts",
+        "Warp Stabilizer for stabilization",
+        "Creating crossfades and default audio transitions (Shift+D)",
+        "Using an adjustment layer for global color",
+        "Lumetri Color basics, color matching and comparison view",
+        "Auto match for consistent lighting",
+        "Adjustment layer for global color; manual matching across clips",
+        "Captions from transcript and translation workflow",
+        "Lower thirds and graphics templates"
+      ],
+      "description": "This section dives into color correction with Lumetri (including comparison view and match), applying color grades across clips with an adjustment layer, and the workflow for creating and styling captions. Graphics templates and lower thirds are introduced as part of the public-facing video production flow."
+    },
+    {
+      "start": "01:22:00",
+      "end": "01:27:49",
+      "title": "Find and Add Music from Essential Sound",
+      "concepts": [
+        "Lumetri Color basics, color matching and comparison view",
+        "Auto match for consistent lighting",
+        "Adjustment layer for global color; manual matching across clips",
+        "Captions from transcript and translation workflow",
+        "Lower thirds and graphics templates"
+      ],
+      "description": "This section dives into color correction with Lumetri (including comparison view and match), applying color grades across clips with an adjustment layer, and the workflow for creating and styling captions. Graphics templates and lower thirds are introduced as part of the public-facing video production flow."
+    },
+    {
+      "start": "01:27:49",
+      "end": "01:31:00",
+      "title": "Audio Remix Tool for Shortening Music",
+      "concepts": [
+        "Lumetri Color basics, color matching and comparison view",
+        "Auto match for consistent lighting",
+        "Adjustment layer for global color; manual matching across clips",
+        "Captions from transcript and translation workflow",
+        "Lower thirds and graphics templates"
+      ],
+      "description": "This section dives into color correction with Lumetri (including comparison view and match), applying color grades across clips with an adjustment layer, and the workflow for creating and styling captions. Graphics templates and lower thirds are introduced as part of the public-facing video production flow."
+    },
+    {
+      "start": "01:31:00",
+      "end": "01:33:42",
+      "title": "Add Basic Text",
+      "concepts": [
+        "Lumetri Color basics, color matching and comparison view",
+        "Auto match for consistent lighting",
+        "Adjustment layer for global color; manual matching across clips",
+        "Captions from transcript and translation workflow",
+        "Lower thirds and graphics templates"
+      ],
+      "description": "This section dives into color correction with Lumetri (including comparison view and match), applying color grades across clips with an adjustment layer, and the workflow for creating and styling captions. Graphics templates and lower thirds are introduced as part of the public-facing video production flow."
+    },
+    {
+      "start": "01:33:42",
+      "end": "01:39:00",
+      "title": "Ducking and Auto-Ducking Music Tracks",
+      "concepts": [
+        "Lumetri Color basics, color matching and comparison view",
+        "Auto match for consistent lighting",
+        "Adjustment layer for global color; manual matching across clips",
+        "Captions from transcript and translation workflow",
+        "Lower thirds and graphics templates",
+        "Essential Sound panel for dialogue and loudness; auto match",
+        "Manual vs. auto ducking for music; keyframes",
+        "Ambient vs. dialogue balance and crossfades",
+        "Sourcing and licensing music from Adobe Stock; rhythm and pacing"
+      ],
+      "description": "This section dives into color correction with Lumetri (including comparison view and match), applying color grades across clips with an adjustment layer, and the workflow for creating and styling captions. Graphics templates and lower thirds are introduced as part of the public-facing video production flow."
+    },
+    {
+      "start": "01:39:00",
+      "end": "01:40:35",
+      "title": "Exporting First Video",
+      "concepts": [
+        "Essential Sound panel for dialogue and loudness; auto match",
+        "Manual vs. auto ducking for music; keyframes",
+        "Ambient vs. dialogue balance and crossfades",
+        "Sourcing and licensing music from Adobe Stock; rhythm and pacing"
+      ],
+      "description": "Audio polishing is demonstrated with the Essential Sound panel (dialogue, auto match, and ducking), plus practical exercises on balancing music with dialogue, using crossfades, and working with stock music assets and licensing."
+    },
+    {
+      "start": "01:40:35",
+      "end": "01:45:10",
+      "title": "FINAL FIRST VIDEO WATCH-THROUGH",
+      "concepts": [
+        "Essential Sound panel for dialogue and loudness; auto match",
+        "Manual vs. auto ducking for music; keyframes",
+        "Ambient vs. dialogue balance and crossfades",
+        "Sourcing and licensing music from Adobe Stock; rhythm and pacing"
+      ],
+      "description": "Audio polishing is demonstrated with the Essential Sound panel (dialogue, auto match, and ducking), plus practical exercises on balancing music with dialogue, using crossfades, and working with stock music assets and licensing."
+    },
+    {
+      "start": "01:45:10",
+      "end": "01:47:40",
+      "title": "Organizing Multiple Videos in One Project",
+      "concepts": [
+        "Essential Sound panel for dialogue and loudness; auto match",
+        "Manual vs. auto ducking for music; keyframes",
+        "Ambient vs. dialogue balance and crossfades",
+        "Sourcing and licensing music from Adobe Stock; rhythm and pacing"
+      ],
+      "description": "Audio polishing is demonstrated with the Essential Sound panel (dialogue, auto match, and ducking), plus practical exercises on balancing music with dialogue, using crossfades, and working with stock music assets and licensing."
+    },
+    {
+      "start": "01:47:40",
+      "end": "01:55:29",
+      "title": "Manually Synching Clips with Audio",
+      "concepts": [
+        "Essential Sound panel for dialogue and loudness; auto match",
+        "Manual vs. auto ducking for music; keyframes",
+        "Ambient vs. dialogue balance and crossfades",
+        "Sourcing and licensing music from Adobe Stock; rhythm and pacing"
+      ],
+      "description": "Audio polishing is demonstrated with the Essential Sound panel (dialogue, auto match, and ducking), plus practical exercises on balancing music with dialogue, using crossfades, and working with stock music assets and licensing."
+    },
+    {
+      "start": "01:55:29",
+      "end": "01:56:08",
+      "title": "Using \"Synchronize\" for Clips in Timeline",
+      "concepts": [
+        "Essential Sound panel for dialogue and loudness; auto match",
+        "Manual vs. auto ducking for music; keyframes",
+        "Ambient vs. dialogue balance and crossfades",
+        "Sourcing and licensing music from Adobe Stock; rhythm and pacing"
+      ],
+      "description": "Audio polishing is demonstrated with the Essential Sound panel (dialogue, auto match, and ducking), plus practical exercises on balancing music with dialogue, using crossfades, and working with stock music assets and licensing."
+    },
+    {
+      "start": "01:56:08",
+      "end": "02:06:30",
+      "title": "Multi-Camera Sync Workflow",
+      "concepts": [
+        "Essential Sound panel for dialogue and loudness; auto match",
+        "Manual vs. auto ducking for music; keyframes",
+        "Ambient vs. dialogue balance and crossfades",
+        "Sourcing and licensing music from Adobe Stock; rhythm and pacing",
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:06:30",
+      "end": "02:13:00",
+      "title": "Track Targeting to Cut Rows of Clips",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:13:00",
+      "end": "02:19:33",
+      "title": "Text Based Editing with Auto Transcript",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:19:33",
+      "end": "02:21:00",
+      "title": "Close All Gaps",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:21:00",
+      "end": "02:26:25",
+      "title": "Checker-boarding technique (Enable and Disable)",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:26:25",
+      "end": "02:28:45",
+      "title": "Re-Sizing Clips",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:28:45",
+      "end": "02:30:59",
+      "title": "Create Stringout from Clips in Bins (I/O Workflow)",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:30:59",
+      "end": "02:32:44",
+      "title": "Rate-Stretching Slow Motion Clips",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:32:44",
+      "end": "02:36:45",
+      "title": "Interpreting (Conforming) Slow-Motion Clips",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:36:45",
+      "end": "02:39:20",
+      "title": "Creating Durational Markers",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:39:20",
+      "end": "02:40:40",
+      "title": "Pancaking Technique for B-Roll",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:40:40",
+      "end": "02:44:23",
+      "title": "Generative Extend",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:44:23",
+      "end": "02:45:09",
+      "title": "Media Intelligence and Search Panel",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:45:09",
+      "end": "02:49:40",
+      "title": "Source Patching",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:49:40",
+      "end": "02:52:09",
+      "title": "Changing Opacity, Lining Up Clips",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:52:09",
+      "end": "02:54:15",
+      "title": "Warp Stabilizer",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:54:15",
+      "end": "02:57:33",
+      "title": "Lumetri Panel Basic Color Correction",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "02:57:33",
+      "end": "03:01:30",
+      "title": "Color Match 2 Clips",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:01:30",
+      "end": "03:02:25",
+      "title": "Remove Attributes from Multiple Clips",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:02:25",
+      "end": "03:04:35",
+      "title": "Add Effects using Adjustment Layer",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:04:35",
+      "end": "03:06:47",
+      "title": "Create and Apply Default Transition Effect",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:06:47",
+      "end": "03:08:21",
+      "title": "Find and Add Sound Effects",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:08:21",
+      "end": "03:11:27",
+      "title": "Find, Apply, and Edit Motion Graphics Templates",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:11:27",
+      "end": "03:14:25",
+      "title": "Add and Edit Captions",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:14:25",
+      "end": "03:17:49",
+      "title": "Caption Translation",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:17:49",
+      "end": "03:21:11",
+      "title": "Reframe for Social Media",
+      "concepts": [
+        "Multicam workflows (Create Multi-Camera Source Sequence; flatten option)",
+        "Toggle Multi-Camera View; camera switching with 1/2 keys",
+        "Auto Reframe for vertical social outputs",
+        "Export settings, captions options, and final renders",
+        "Social versions (01 Social) and 9:16 framing",
+        "Export final video with captions; PDF resources",
+        "Social handles and further learning",
+        "Final video showcase and encouragement to practice"
+      ],
+      "description": "The video explores multicam editing with synchronized camera angles, including software tools for view toggling and frame-rate handling. Auto Reframe is demonstrated for social formats, and export options including caption burn-in and vertical 9:16 exports are covered."
+    },
+    {
+      "start": "03:21:11",
+      "end": "03:22:11",
+      "title": "Export with Burned-in Captions",
+      "concepts": [
+        "Export final video with captions; PDF resources",
+        "Social handles and further learning",
+        "Final video showcase and encouragement to practice"
+      ],
+      "description": "A concise wrap-up with guidance to access additional resources (PDF), and encouragement to continue practicing with Premiere Pro."
+    },
+    {
+      "start": "03:22:11",
+      "end": "03:27:39",
+      "title": "FINAL VIDEO WATCH-THROUGH",
+      "concepts": [],
+      "description": "FINAL VIDEO WATCH-THROUGH"
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hover scrubbing to preview clips in Import Mode",
+      "timestamp": "00:04:55.753",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Create new sequence by dragging first clip onto the New Item 'Sequence'",
+      "timestamp": "00:15:42.900",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Ripple Delete to remove a section and close the gap (Shift+Delete / W)",
+      "timestamp": "00:33:25.378",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Remix tool to generate music cuts and transitions",
+      "timestamp": "01:29:41.834",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Toggle Multi-Camera View and multicam editing workflow",
+      "timestamp": "02:01:22.358",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Auto Reframe for social formats",
+      "timestamp": "03:19:32.168",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Auto Match loudness in Essential Sound for consistent dialogue levels",
+      "timestamp": "01:21:19.875",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Lumetri Color: Match and Comparison View for color consistency",
+      "timestamp": "02:57:51.243",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Text-based editing: Transcript-based captions and editing",
+      "timestamp": "02:13:40.929",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Adjustment Layer for global color correction",
+      "timestamp": "03:02:49.833",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-26T17:52:17.153249+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

@@ -8,5 +8,4 @@ downloaded media, caches, credentials, and other private authoring inputs are no
 
 ## Collections
 
-- `premiere-pro-ai-tools` — one-video YouTube authoring and playback pilot
-
+- `premiere-pro-ai-tools` — four-video **Learning Adobe Premiere Pro** course

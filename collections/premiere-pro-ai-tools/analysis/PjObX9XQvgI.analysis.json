@@ -34,9 +34,9 @@
   ],
   "sections": [
     {
-      "start": "00:00:00.000",
-      "end": "00:00:20.720",
-      "title": "Intro and Overview",
+      "start": "00:00:00",
+      "end": "00:00:19",
+      "title": "8 Insane Premiere Pro AI Tools (Edit Videos Faster With Adobe AI!)",
       "concepts": [
         "Introduction to Premiere Pro AI features",
         "Beta access requirements",
@@ -45,10 +45,13 @@
       "description": "Opening framing of the top AI features in Premiere Pro and notes about beta access."
     },
     {
-      "start": "00:00:20.720",
-      "end": "00:01:33.160",
-      "title": "Audio Remix: Extend and Seamlessly Blend Music",
+      "start": "00:00:19",
+      "end": "00:01:28",
+      "title": "Premiere Pro AI Tool #1: Audio Remix",
       "concepts": [
+        "Introduction to Premiere Pro AI features",
+        "Beta access requirements",
+        "Impact on editing workflow",
         "Audio Remix in Premiere Pro",
         "Remix tool under Rate Stretch",
         "Seamless audio transitions"
@@ -56,10 +59,13 @@
       "description": "Using the Remix tool under Rate Stretch to extend audio and automatically blend edits for seamless transitions."
     },
     {
-      "start": "00:01:33.160",
-      "end": "00:04:01.239",
-      "title": "Generative Extend for Video",
+      "start": "00:01:28",
+      "end": "00:04:00",
+      "title": "Premiere Pro AI Tool #2: Generative Extend",
       "concepts": [
+        "Audio Remix in Premiere Pro",
+        "Remix tool under Rate Stretch",
+        "Seamless audio transitions",
         "Generative Extend",
         "AI-generated regions",
         "Two-second extension limit"
@@ -67,10 +73,13 @@
       "description": "AI-based extension of video clips up to 2 seconds with highlighted AI-generated regions."
     },
     {
-      "start": "00:04:01.239",
-      "end": "00:06:53.800",
-      "title": "AI Text-Based Editing with Transcribe",
+      "start": "00:04:00",
+      "end": "00:06:51",
+      "title": "Premiere Pro AI Tool #3: AI Text Based Video Editing",
       "concepts": [
+        "Generative Extend",
+        "AI-generated regions",
+        "Two-second extension limit",
         "Transcribe workflow",
         "Language detection",
         "Speaker labeling",
@@ -82,10 +91,17 @@
       "description": "Transcribing audio, detecting language, labeling speakers, editing from text, removing pauses, exporting transcripts, and generating captions."
     },
     {
-      "start": "00:06:53.800",
-      "end": "00:09:25.520",
-      "title": "Enhance Speech (Essential Sound)",
+      "start": "00:06:51",
+      "end": "00:09:24",
+      "title": "Premiere Pro AI Tool #4: AI Enhance Speech",
       "concepts": [
+        "Transcribe workflow",
+        "Language detection",
+        "Speaker labeling",
+        "Editing from text",
+        "Pause removal",
+        "Closing captions from transcript",
+        "Transcript export",
         "Enhance Speech",
         "Essential Sound",
         "Noise reduction",
@@ -94,10 +110,14 @@
       "description": "Using Essential Sound to denoise and improve speech quality with adjustable intensity."
     },
     {
-      "start": "00:09:25.520",
-      "end": "00:10:45.520",
-      "title": "Scene Edit Detection",
+      "start": "00:09:24",
+      "end": "00:10:44",
+      "title": "Premiere Pro AI Tool #5: Scene Edit Detection",
       "concepts": [
+        "Enhance Speech",
+        "Essential Sound",
+        "Noise reduction",
+        "Intensity control",
         "Scene Edit Detection",
         "Automatic cuts",
         "Editing from detected scenes"
@@ -105,10 +125,13 @@
       "description": "Automatically identify scene boundaries and insert cuts to facilitate quick re-edits."
     },
     {
-      "start": "00:10:45.520",
-      "end": "00:12:14.360",
-      "title": "Morph Cut for Jump-Cut Concealment",
+      "start": "00:10:44",
+      "end": "00:12:14",
+      "title": "Premiere Pro AI Tool #6: Morph Cut",
       "concepts": [
+        "Scene Edit Detection",
+        "Automatic cuts",
+        "Editing from detected scenes",
         "Morph Cut",
         "Jump-cut concealment",
         "Frame morphing"
@@ -116,21 +139,16 @@
       "description": "Morph between shots to smooth transitions and hide jump cuts."
     },
     {
-      "start": "00:12:14.360",
-      "end": "00:12:58.120",
-      "title": "AI Reframe",
+      "start": "00:12:14",
+      "end": "00:13:48",
+      "title": "Premiere Pro AI Tool #7: AI Reframe",
       "concepts": [
+        "Morph Cut",
+        "Jump-cut concealment",
+        "Frame morphing",
         "AI Reframe",
         "Auto repositioning",
-        "Subject tracking"
-      ],
-      "description": "Auto repositioning for new aspect ratios; keeps subjects centered and tracked."
-    },
-    {
-      "start": "00:12:58.120",
-      "end": "00:13:51.120",
-      "title": "Auto Reframe Sequence (9:16)",
-      "concepts": [
+        "Subject tracking",
         "Auto Reframe Sequence",
         "9:16 vertical",
         "Multi-clip sequencing"
@@ -138,10 +156,13 @@
       "description": "Applying auto reframe to an entire sequence for vertical formats and across clips."
     },
     {
-      "start": "00:13:51.120",
-      "end": "00:15:37.000",
-      "title": "AI-assisted Color Correction (Lumetri Auto)",
+      "start": "00:13:48",
+      "end": "00:15:36",
+      "title": "Premiere Pro AI Tool #8: AI Color Correction",
       "concepts": [
+        "Auto Reframe Sequence",
+        "9:16 vertical",
+        "Multi-clip sequencing",
         "Lumetri Auto",
         "Auto color correction",
         "Intensity control",
@@ -212,5 +233,6 @@
   "analysis_created_at": "2026-08-26T08:11:28.788380+00:00",
   "timeline_repair_model": "gpt-5-nano",
   "timeline_repair_prompt_version": 1,
-  "timeline_repaired_at": "2026-08-26T08:12:58.051375+00:00"
+  "timeline_repaired_at": "2026-08-26T08:12:58.051375+00:00",
+  "timeline_source": "youtube-publisher-chapters"
 }

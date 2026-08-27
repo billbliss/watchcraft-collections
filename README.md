@@ -5,6 +5,8 @@ Collaborative, publishable collections for [Watchcraft](https://github.com/billb
 Each directory under `collections/` is an independently installable Watchcraft
 collection. Public manifests and analysis are versioned here; retrieved captions,
 downloaded media, caches, credentials, and other private authoring inputs are not.
+The published `collections.json` file is an optional discovery directory for the
+Watchcraft website, not an authority required by the application.
 
 ## Collections
 

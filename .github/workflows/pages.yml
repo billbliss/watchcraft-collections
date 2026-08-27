@@ -25,14 +25,15 @@ jobs:
         run: |
           mkdir _site
           cp site/index.html _site/index.html
+          cp site/collections.json _site/collections.json
           cp -R collections _site/collections
           mkdir -p _site/downloads
           (cd collections && zip -qr ../_site/downloads/hello-world-referenced.zip hello-world-referenced)
           touch _site/.nojekyll
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -45,4 +46,4 @@ jobs:
     steps:
       - name: Deploy GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

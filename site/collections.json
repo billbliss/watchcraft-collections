@@ -1,0 +1,28 @@
+{
+  "kind": "watchcraft.collection-directory",
+  "schema_version": 1,
+  "description": "A non-authoritative directory of publicly advertised Watchcraft collections.",
+  "collections": [
+    {
+      "collection_id": "hello-world-managed",
+      "title": "Hello, Watchcraft! — Managed",
+      "description": "A tiny self-contained video downloaded into Watchcraft’s private storage.",
+      "media_modes": ["managed-local"],
+      "manifest_url": "https://billbliss.github.io/watchcraft-collections/collections/hello-world-managed/collection.json"
+    },
+    {
+      "collection_id": "hello-world-referenced",
+      "title": "Hello, Watchcraft! — Referenced",
+      "description": "The same tiny video kept in a folder that remains under your control.",
+      "media_modes": ["referenced-local"],
+      "package_url": "https://billbliss.github.io/watchcraft-collections/downloads/hello-world-referenced.zip"
+    },
+    {
+      "collection_id": "premiere-pro-ai-tools",
+      "title": "Learning Adobe Premiere Pro",
+      "description": "Four public YouTube lessons with searchable topics and chapter navigation.",
+      "media_modes": ["remote"],
+      "manifest_url": "https://billbliss.github.io/watchcraft-collections/collections/premiere-pro-ai-tools/collection.json"
+    }
+  ]
+}

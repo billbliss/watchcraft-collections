@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "video": "media/hello-watchcraft.mp4",
+  "title": "Hello, Watchcraft!",
+  "summary": "A short visual check of local playback and chapter seeking.",
+  "topics": [
+    "Local playback",
+    "Chapter seeking"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:03",
+      "title": "Hello from local playback",
+      "concepts": ["Local playback"],
+      "description": "The blue opening confirms that Watchcraft loaded a video from the selected collection folder."
+    },
+    {
+      "start": "00:00:03",
+      "end": "00:00:06",
+      "title": "Seek to green",
+      "concepts": ["Chapter seeking"],
+      "description": "Selecting this chapter should move playback directly to the green section."
+    },
+    {
+      "start": "00:00:06",
+      "end": "00:00:09",
+      "title": "Local playback complete",
+      "concepts": ["Local playback", "Chapter seeking"],
+      "description": "The purple finish confirms seeking near the end of the local video."
+    }
+  ]
+}

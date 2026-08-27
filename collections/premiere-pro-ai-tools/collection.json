@@ -1858,6 +1858,7 @@
       "media": [
         {
           "type": "youtube",
+          "delivery": "remote",
           "video_id": "48Fn-PQILIY",
           "url": "https://www.youtube.com/watch?v=48Fn-PQILIY"
         }
@@ -1954,6 +1955,7 @@
       "media": [
         {
           "type": "youtube",
+          "delivery": "remote",
           "video_id": "BeH1I5n-798",
           "url": "https://www.youtube.com/watch?v=BeH1I5n-798"
         }
@@ -2037,6 +2039,7 @@
       "media": [
         {
           "type": "youtube",
+          "delivery": "remote",
           "video_id": "PjObX9XQvgI",
           "url": "https://www.youtube.com/watch?v=PjObX9XQvgI"
         }
@@ -2113,6 +2116,7 @@
       "media": [
         {
           "type": "youtube",
+          "delivery": "remote",
           "video_id": "xDq3ij-oHJA",
           "url": "https://www.youtube.com/watch?v=xDq3ij-oHJA"
         }
@@ -2196,6 +2200,6 @@
     "type": "youtube",
     "publisher": "Multiple publishers"
   },
-  "revision": 8,
-  "content_hash": "9c41167fde143aaf46ac2e785fa046ce8fb40c4c9ae705c626361a190d80920f"
+  "revision": 9,
+  "content_hash": "1e0ee6190cbe5d5b1f82a02756ec1bd201282b360f429fca4dfd62726fb9be4e"
 }

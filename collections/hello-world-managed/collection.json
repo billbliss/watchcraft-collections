@@ -1,11 +1,11 @@
 {
   "kind": "watchcraft.collection",
   "schema_version": 4,
-  "collection_id": "hello-world-local",
-  "title": "Hello, Watchcraft!",
-  "description": "A tiny original local-video collection for checking Watchcraft on a new computer.",
+  "collection_id": "hello-world-managed",
+  "title": "Hello, Watchcraft! — Managed",
+  "description": "A tiny original collection whose local video is downloaded into Watchcraft-managed storage.",
   "media_root_hint": ".",
-  "metadata_url": "https://billbliss.github.io/watchcraft-collections/collections/hello-world-local/collection.json",
+  "metadata_url": "https://billbliss.github.io/watchcraft-collections/collections/hello-world-managed/collection.json",
   "license": "CC0-1.0",
   "source": {
     "type": "original-test-fixture",
@@ -15,7 +15,7 @@
   "root": {
     "type": "group",
     "group_id": "root",
-    "title": "Hello, Watchcraft!",
+    "title": "Hello, Watchcraft! — Managed",
     "children": [
       {
         "type": "video",
@@ -60,6 +60,7 @@
       "media": [
         {
           "type": "local-file",
+          "delivery": "managed-local",
           "relative_path": "media/hello-watchcraft.mp4"
         }
       ],
@@ -88,6 +89,6 @@
     "topic_count": 2,
     "topic_family_count": 1
   },
-  "revision": 1,
-  "content_hash": "45c3d72b95920f35f4ab3f28baadaa9c3c90da3d66e84cf6eff0010564bfb322"
+  "revision": 2,
+  "content_hash": "c142dab02822812eb28a9e4f0127799ecca91bba700c6dddedec17c6e4fe6484"
 }

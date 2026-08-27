@@ -1,0 +1,94 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "hello-world-referenced",
+  "title": "Hello, Watchcraft! — Referenced",
+  "description": "A tiny original collection whose local video remains in a user-selected folder.",
+  "media_root_hint": ".",
+  "metadata_url": "https://billbliss.github.io/watchcraft-collections/collections/hello-world-referenced/collection.json",
+  "license": "CC0-1.0",
+  "source": {
+    "type": "original-test-fixture",
+    "url": "https://github.com/billbliss/watchcraft-collections"
+  },
+  "topic_scope": "collection",
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "Hello, Watchcraft! — Referenced",
+    "children": [
+      {
+        "type": "video",
+        "item_id": "video-hello-watchcraft"
+      }
+    ]
+  },
+  "topics": {
+    "topic-local-playback": {
+      "topic_id": "topic-local-playback",
+      "canonical_key": "local playback",
+      "label": "Local Playback",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": ["family-playback-basics"],
+      "related_topic_ids": ["topic-chapter-seeking"]
+    },
+    "topic-chapter-seeking": {
+      "topic_id": "topic-chapter-seeking",
+      "canonical_key": "chapter seeking",
+      "label": "Chapter Seeking",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": ["family-playback-basics"],
+      "related_topic_ids": ["topic-local-playback"]
+    }
+  },
+  "topic_families": {
+    "family-playback-basics": {
+      "family_id": "family-playback-basics",
+      "canonical_key": "playback basics",
+      "label": "Playback Basics",
+      "description": "Basic checks for opening and navigating instructional video.",
+      "topic_ids": ["topic-local-playback", "topic-chapter-seeking"],
+      "video_count": 1
+    }
+  },
+  "items": {
+    "video-hello-watchcraft": {
+      "item_id": "video-hello-watchcraft",
+      "title": "Hello, Watchcraft!",
+      "media": [
+        {
+          "type": "local-file",
+          "delivery": "referenced-local",
+          "relative_path": "media/hello-watchcraft.mp4"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/hello-watchcraft.analysis.json",
+        "schema_version": 2,
+        "model": "hand-authored-fixture"
+      },
+      "summary": "A nine-second visual check of local playback and chapter seeking: blue, then green, then purple.",
+      "date": {
+        "display": "August 26, 2026"
+      },
+      "locations": [],
+      "topic_ids": ["topic-local-playback", "topic-chapter-seeking"],
+      "family_ids": ["family-playback-basics"],
+      "topic_sections": {
+        "topic-local-playback": [0, 2],
+        "topic-chapter-seeking": [1, 2]
+      },
+      "chapter_count": 3
+    }
+  },
+  "stats": {
+    "video_count": 1,
+    "topic_count": 2,
+    "topic_family_count": 1
+  },
+  "revision": 1,
+  "content_hash": "8ec09ae8bdf77ba22f04837a0744af1eea40f94ee6e0356918e74734fbd0206d"
+}

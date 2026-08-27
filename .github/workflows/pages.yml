@@ -26,6 +26,8 @@ jobs:
           mkdir _site
           cp site/index.html _site/index.html
           cp -R collections _site/collections
+          mkdir -p _site/downloads
+          (cd collections && zip -qr ../_site/downloads/hello-world-referenced.zip hello-world-referenced)
           touch _site/.nojekyll
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

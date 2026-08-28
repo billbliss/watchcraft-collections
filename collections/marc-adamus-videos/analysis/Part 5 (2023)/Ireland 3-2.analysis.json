@@ -1,0 +1,90 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Ireland 3-2.mp4",
+  "title": "HDR-like exposure balance and sky manipulation in Photoshop (Ireland 3-2)",
+  "date": {
+    "display": "2024-03-18",
+    "iso": "2024-03-18",
+    "precision": "day",
+    "confidence": 0.75,
+    "basis": "embedded_creation_time metadata (export date)"
+  },
+  "locations": [
+    {
+      "name": "Crowey Arch (in-frame feature)",
+      "confidence": 0.55,
+      "basis": "Transcript explicitly references 'crowey arch' as part of the scene; no external confirmation of exact shooting location."
+    }
+  ],
+  "summary": "The excerpt demonstrates a Photoshop-based editing workflow aimed at producing a high-dynamic-range look and directing attention toward the sun. It begins with exposure and shadow adjustments to create HDR-like balance, then proceeds to sky manipulation using a trapezoid rule to echo foreground symmetry. The editor uses masking and painting to darken and cool the sky, reintroduce preferred cloud elements, and intensify glow around the sun. A Whites adjustment layer is applied to enhance light, followed by layer flattening to finalize the composition. The steps are presented in a sequential, record-at-this-step style, illustrating practical on-screen edits rather than a generic theoretical discussion.",
+  "topics": [
+    "photoshop",
+    "hdr",
+    "exposure",
+    "shadows",
+    "high dynamic range",
+    "sky manipulation",
+    "rule of trapezoids",
+    "clouds",
+    "masking",
+    "layering",
+    "paint brush",
+    "white adjustment",
+    "glow",
+    "sun",
+    "foreground symmetry",
+    "sun glow",
+    "color grading",
+    "lighting",
+    "workflow documentation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:03:34.800",
+      "title": "HDR-like exposure balancing and sky manipulation",
+      "concepts": [
+        "exposure",
+        "shadows",
+        "hdr-like dynamic range",
+        "sky adjustment",
+        "masking",
+        "layer painting",
+        "color grading",
+        "glow",
+        "sun emphasis"
+      ],
+      "description": "Initial steps blend exposure and shadows to achieve a high dynamic range. The sky is subsequently treated to mirror foreground symmetry using a trapezoid rule, with selective painting and masking to darken/cool certain areas and to preserve or reintroduce preferred cloud elements. The sequence also includes slimming down the background, flattening layers, and applying a Whites adjustment to enhance light toward the sun."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range balancing via exposure and shadow adjustments to simulate HDR",
+      "timestamp": "00:00:21.980",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky manipulation using the trapezoid rule to mirror foreground symmetry",
+      "timestamp": "00:01:34.420",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Masking and painting to darken/cool sky and reintroduce original clouds",
+      "timestamp": "00:02:30.900",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Destructive editing steps captured (flattening and layer removal)",
+      "timestamp": "00:02:59.220",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Whites adjustment layer to drive eye toward the sun and enhance light",
+      "timestamp": "00:03:02.340",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:12:18.810581+00:00"
+}

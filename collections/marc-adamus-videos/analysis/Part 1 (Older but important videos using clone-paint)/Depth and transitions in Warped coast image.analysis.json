@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Depth and transitions in Warped coast image.mp4",
+  "title": "Depth and transitions in Warped coast image: diffusion, cloning, and color grading workflow",
+  "date": {
+    "display": "2019-06-12",
+    "iso": "2019-06-12T18:12:20Z",
+    "precision": "day",
+    "confidence": 0.45,
+    "basis": "Embedded file metadata (creation_time) from the video file"
+  },
+  "locations": [],
+  "summary": "This tutorial demonstrates a hands-on post-production workflow to create three-dimensional depth and a radiant focal point in a coast-scene image. The presenter guides the viewer through a sequence of techniques beginning with a warp-based transition and diffusion passes to push distant rocks forward and push near subjects back. The workflow then layers in clone-painting, history-brush refinements, and targeted blurs (including dark Gaussian blur) to suppress distracting highlights and emphasize the sun-lit focal area. Further steps apply luminosity boosts, selective color and split-toning to colorize sun-exposed waves, RAW adjustments for global and local contrast, and localized color matching via lasso selections. A final pass blends light using additional blurs to convey atmospheric diffusion, ensuring the sun-point remains the viewer’s eye focus while maintaining natural color balance across the scene.",
+  "topics": [
+    "Warp",
+    "Gaussian Blur",
+    "Image Diffusion",
+    "Deep depth",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Soft Brush",
+    "Dark Gaussian Blur",
+    "Lasso Tool",
+    "Split Toning",
+    "Selective Color",
+    "Color Temperature",
+    "Dynamic Range",
+    "RAW Adjustments",
+    "Clarity",
+    "Luminosity",
+    "Color Grading",
+    "Sun glow",
+    "Wave shading",
+    "Noise reduction"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:15",
+      "title": "Establishing depth with warp and diffusion",
+      "concepts": [
+        "depth cue via warp to create big-to-small transition",
+        "diffusion to introduce mid-ground separation",
+        "warmth and light management for depth perception"
+      ],
+      "description": "Begin with a warped base to introduce a sense of depth, then duplicate the image and apply diffusion (Gaussian blur, slightly warmer) to create a back layer that appears further away. The presenter emphasizes the goal of making rocks at different distances read as separate planes rather than a flat silhouette, followed by luminosity adjustments to draw the eye toward the sun focal area."
+    },
+    {
+      "start": "00:04:31",
+      "end": "00:07:12",
+      "title": "Mid-ground diffusion and early composite shaping",
+      "concepts": [
+        "diffusion/blur to back rocks",
+        "soft brush vs edge brush for distance fall-off",
+        "initial clone/history-based refinement"
+      ],
+      "description": "Duplicate the adjusted image and apply additional diffusion to the middle ground rocks, progressively building distinct depth levels. Use softer brush settings to apply diffusion on more distant rocks, then refine with a hard-history-control approach to preserve plausible foreground separation and avoid over-editing."
+    },
+    {
+      "start": "00:07:21",
+      "end": "00:10:44",
+      "title": "Local light shaping and color-enrichment on the coast",
+      "concepts": [
+        "shaping light on the wave",
+        "RAW adjustments for light, clarity, and warmth",
+        "split toning and selective color for highlight-only color cast"
+      ],
+      "description": "Shift to shaping the light on the wave by re-entering RAW adjustments, adding clarity and brightness to the rock-facing highlights, and selectively coloring the sun-lit areas with split toning. The speaker demonstrates applying sunset hues primarily to highlights to preserve blues in shadows, then refining yellows through selective color to achieve a cohesive dusk-toned palette."
+    },
+    {
+      "start": "00:10:44",
+      "end": "00:15:50",
+      "title": "Localized color correction and edge refinement",
+      "concepts": [
+        "lasso tool for localized color changes",
+        "RAW split-tone and selective color refinements",
+        "clone alignment and edge cleanup"
+      ],
+      "description": "Use the Lasso tool to isolate a rock to recolor with targeted RAW adjustments (split tone and warmth), then erase the edge with the History Brush to avoid visible selection lines. The clone-stamp remains aligned for continued painting of light on close-to-far transition areas, with rapid toggling between RAW and selective color to harmonize yellows and reds for a natural look."
+    },
+    {
+      "start": "00:15:50",
+      "end": "00:21:10",
+      "title": "Final diffusion, color bleed, and atmospheric polish",
+      "concepts": [
+        "additional Gaussian blur to bleed light and suppress noise",
+        "global atmosphere diffusion and color balance",
+        "final color-tuning and ensuring focal point clarity"
+      ],
+      "description": "A final large-scale blur is applied to smear and bleed light through the scene, simulating atmospheric diffusion and reducing perceived noise. The presenter emphasizes diffusing too much clarity to preserve depth, then performs minor color-tuning (splitting tones, color-temperature adjustments, and selective color refinements) to ensure the sunlit areas glow naturally without over-saturating the image. The result is a notional 'sun radiance' that draws attention to the focal point while preserving overall color harmony."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Warp-based perspective transition to create depth cue",
+      "timestamp": "00:00:33",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Gaussian blur diffusion to mid-ground and luminosity boost",
+      "timestamp": "00:01:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Stamp with History Brush for precise blending",
+      "timestamp": "00:01:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dark Gaussian blur to subdue bright highlights",
+      "timestamp": "00:08:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Split toning and selective color for sun-lit highlights",
+      "timestamp": "00:11:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Lasso selection for localized color adjustments with quick history brush cleanup",
+      "timestamp": "00:10:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Low-opacity painting to color-match highlights across the scene",
+      "timestamp": "00:14:43",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Final diffuse blur pass to bleed light and reduce noise",
+      "timestamp": "00:15:50",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:36:41.646894+00:00"
+}

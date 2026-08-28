@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 2-3.mp4",
+  "title": "Photoshop Focus Stacking and Narrative Color Grading for Landscape",
+  "date": {
+    "display": "November 17, 2024 (approx.)",
+    "iso": "2024-11-17",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "embedded_creation_time in metadata and folder naming (Part 7 (2024-2025))."
+  },
+  "locations": [
+    {
+      "name": "McKinnon Peak",
+      "confidence": 0.85,
+      "basis": "Explicit identification by speaker in transcript: 'This is McKinnon Peak' (approx. 00:06:56.500)."
+    },
+    {
+      "name": "McKinnon Hut",
+      "confidence": 0.85,
+      "basis": "Explicit identification by speaker in transcript: 'McKinnon Hut' (approx. 00:07:04.760)."
+    }
+  ],
+  "summary": "This workshop-style Photoshop workflow demonstrates landscape focus stacking to preserve sharp foreground and background detail, using multiple exposures loaded into a stack, auto-alignment, and content-aware blending. After revealing the focus-stacking process, the instructor discusses cropping decisions (including a four-by-five aspect) and explains focus-breathing-related border artifacts. The tutorial then proceeds to color-grade the image, emphasizing sunset tones through targeted adjustments (color balance, camera calibration, and selective midtone control) and painting light onto the mountains. It culminates with Dodge/Burn and glow techniques, sponge-tool enhancements, hard vignette, and depth cues to push distant mountains further away, with explicit scene identification of McKinnon Peak and McKinnon Hut as reference points within the shot.",
+  "topics": [
+    "Photoshop focus stacking",
+    "Load files into stack",
+    "Auto-align layers",
+    "Content-aware fill",
+    "Layer blending",
+    "Focus stacking vs Helicon Focus",
+    "Focus breathing",
+    "Cropping to 4x5",
+    "Border artifacts from focus stacking",
+    "Shadows and blacks adjustments",
+    "Exposure and whites adjustments",
+    "Color balance and midtone control",
+    "Camera calibration",
+    "Blue/Grey/Purple color grading",
+    "Selective color isolation",
+    "Painting light on mountains",
+    "Dodge tool vs burn tool",
+    "Color saturation and glow with sponge tool",
+    "Hard vignette for depth control",
+    "Edge and distance cueing in post"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02.080",
+      "end": "00:02:32.280",
+      "title": "Focus stacking setup and alignment in Photoshop",
+      "concepts": [
+        "Focus stacking",
+        "Load files into stack",
+        "Auto-align layers",
+        "Content-aware blend for tones",
+        "Layer blending and flattening"
+      ],
+      "description": "The instructor introduces the broader concept of focus stacking when using a wider lens, then demonstrates loading a background and a foreground into a Photoshop stack, auto-aligning the layers, and blending with content-aware fill. The dialogue notes that Helicon Focus is a strong stand-alone option but Photoshop can perform focus stacking as well, with results that are rarely perfect but usable. The section also mentions the difference between stacking versus using a dedicated tool and frames the workflow around later color adjustment."
+    },
+    {
+      "start": "00:02:32.280",
+      "end": "00:03:36.900",
+      "title": "Cropping decisions and focus breathing considerations",
+      "concepts": [
+        "Flatten layers",
+        "Crop to 4x5 format",
+        "Focus breathing explanation",
+        "Border artifacts and framing"
+      ],
+      "description": "After blending, the content is flattened and cropped to the preferred aspect ratio (4x5). The presenter explains that borders can appear due to focus breathing—as the lens changes focus, the image framing shifts slightly—and demonstrates cropping to manage these effects while preserving the intended composition."
+    },
+    {
+      "start": "00:03:36.900",
+      "end": "00:07:34.760",
+      "title": "Color grading and sky-mountain separation",
+      "concepts": [
+        "Shadows/Blacks adjustments",
+        "Exposure and whites adjustments",
+        "Color balance",
+        "Camera calibration",
+        "Selective color shifts in midtones",
+        "Sky vs. mountain tonal separation"
+      ],
+      "description": "This section covers adjusting the overall color tone to emphasize sunset colors while isolating sky and mountain areas. The workflow includes reducing shadows, tweaking whites/ exposure, then leveraging color balance and calibration to push sky pinks/blues and the mountain tones into a complementary palette that preserves mood without over-saturating grass and foreground elements."
+    },
+    {
+      "start": "00:07:34.760",
+      "end": "00:16:19.900",
+      "title": "Local adjustments, glow, and depth control",
+      "concepts": [
+        "Dodge vs Burn tool and color impact",
+        "Sponge tool for glow and saturation",
+        "Painting light on mountains",
+        "Hard vignette to guide viewer eye",
+        "Enhancing depth via distant mountain colorization",
+        "Edge refinement and iterative erasing"
+      ],
+      "description": "The instructor delves into localized post-processing: using dodge and burn to influence light and color across midtones, highlights, and shadows; applying a glow with the sponge tool; painting light on the mountain to simulate directional light from the right; introducing a hard vignette to steer the viewer toward the main subject; subtly desaturating/adjusting distant mountains with blue/purple tones to create depth. The segment also demonstrates iterative editing (painting, erasing, re-checking) to maintain natural edges and depth cues, and includes remarks about the dodge tool’s color behavior and its long-standing role in their workflow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Photoshop focus stacking workflow (load files into stack, auto-align, blend)",
+      "timestamp": "00:00:52.940",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Content-aware blending of focus-stacked layers",
+      "timestamp": "00:01:43.480",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Focus breathing awareness and cropping (4x5)",
+      "timestamp": "00:03:10.680",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Color grading via color balance and calibration",
+      "timestamp": "00:04:34.200",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Painting light on mountains with brush and color pairing",
+      "timestamp": "00:05:53.040",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dodge and Burn with color-sensitive adjustments",
+      "timestamp": "00:08:01.620",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sponge tool for glow and saturation boost",
+      "timestamp": "00:07:39.100",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Hard vignette and depth cueing for distant mountains",
+      "timestamp": "00:10:45.860",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:05:33.321381+00:00"
+}

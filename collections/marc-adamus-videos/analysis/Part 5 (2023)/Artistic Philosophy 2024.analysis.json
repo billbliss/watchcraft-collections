@@ -1,0 +1,91 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Artistic Philosophy 2024.mp4",
+  "title": "Artistic Philosophy 2024: Minimal Tool Mastery and Timeless Compositional Basics",
+  "date": {
+    "display": "Approximately 2024-02-24",
+    "iso": "2024-02-24T23:06:39.000000Z",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata; no transcript-based date confirmation"
+  },
+  "locations": [],
+  "summary": "The video presents a landscape-photography-centric philosophy: tool-agnostic editing is acceptable, what matters is a consistent, personal workflow and mastery of a small, reliable toolkit. The speaker argues against chasing every new panel, plug-in, or technique, emphasizing long-term system stability and reaching a flow state where vision drives execution. A minimalist approach is illustrated by dodging and burning with a limited set of tools and by avoiding layers, masks, or intricate panels. Beyond workflow, the talk establishes foundational compositional and perceptual basics—how the eye sees differently from a camera, the impact of motion on spatial relationships, and the importance of simplifying complex scenes to illuminate depth and detail. Concrete examples include mud cracks as a photogenic subject and the caveat that broad rainforest scenes are harder to convey than a focused landscape like Death Valley. Overall, the video anchors practical field discipline in enduring principles of editing, perception, and composition.",
+  "topics": [
+    "Dodge and Burn",
+    "Minimal Toolset",
+    "Mastery",
+    "Flow State",
+    "Editing Philosophy",
+    "Photoshop Elements",
+    "Lightroom",
+    "ACR",
+    "Layers and Panels",
+    "Compositional Basics",
+    "Eye vs Camera",
+    "Motion and Depth",
+    "Scene Simplification",
+    "Mud Cracks",
+    "Death Valley",
+    "Landscape Photography Fundamentals",
+    "Photographic Perception",
+    "Tool Churn Avoidance"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:29",
+      "title": "Philosophy of editing and system-building",
+      "concepts": [
+        "tool-agnostic approach",
+        "personal workflow",
+        "avoid chasing new tools",
+        "mastery over novelty",
+        "long-term consistency",
+        "flow state in editing"
+      ],
+      "description": "Introduction to the core premise: processing is personal and not about any single method; a stable, decades-long system beats chasing every new panel or plugin. Mastery over a chosen toolset enables faster, more confident editing and facilitates entering flow while realizing a creative vision."
+    },
+    {
+      "start": "00:04:29",
+      "end": "00:07:42",
+      "title": "Foundations of compositional and perceptual accuracy",
+      "concepts": [
+        "eye vs camera differences",
+        "two-dimensional perception",
+        "motion and spatial relationships",
+        "scene simplification",
+        "depth cues and detail",
+        "subject selection vs. broad scenes",
+        "mud cracks as a photogenic subject",
+        "avoidance of overly broad landscapes (e.g., rainforest)"
+      ],
+      "description": "Discussion of fundamental differences between how the eye perceives a scene and how the camera records it. Emphasizes evaluating near/far relationships, spatial layout, and the benefit of simplifying a scene to manage detail and depth. Uses mud cracks as an accessible example and cautions against substituting magnitude (e.g., rainforest) for visual clarity, underscoring the universal applicability of these basics across subjects."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dodge and burn with a minimal toolset (no layers/panels/masks) — claimed 10-tools limit",
+      "timestamp": "00:03:41-00:04:03",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Flow-state editing through deep tool mastery and a fixed system (avoid constant tool-churning)",
+      "timestamp": "00:02:39-00:03:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Emphasis on compositional basics and eye-vs-camera perceptual differences in the field",
+      "timestamp": "00:04:29-00:07:42",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Use subject-focused examples to illustrate scene simplification (mud cracks; avoid overly complex scenes like rainforest vs. Death Valley)",
+      "timestamp": "00:05:31-00:07:42",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:03:47.530980+00:00"
+}

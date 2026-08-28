@@ -1,0 +1,224 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Saudi 2-5.mp4",
+  "title": "Saudi Arabia Landscape Post-Processing: Exposure, Bracketing, Focus Stacking, and Zone-Based Photoshop Techniques",
+  "date": {
+    "display": "January 24, 2026 (approx.)",
+    "iso": "2026-01-24",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded MP4 creation_time indicates 2026-01-24; transcript provides no explicit filming date."
+  },
+  "locations": [
+    {
+      "name": "Saudi Arabia (explicit in transcript)",
+      "confidence": 0.75,
+      "basis": "Transcript explicitly references 'Saudi Arabia shots' at 00:00:00."
+    }
+  ],
+  "summary": "This tutorial-style walkthrough analyzes Saudi Arabia landscape imagery through a photographer’s workflow, focusing on evaluating proper exposure and dynamic range, leveraging multi-shot techniques such as focus stacking and exposure blending, and executing a zone-based post-processing approach in RAW and Photoshop. The speaker emphasizes starting with correct exposure to maximize detail, using bracketing when needed, and isolating processing to sky, mountains, and foreground zones. The workflow then proceeds through a hands-on Photoshop routine (dodging, whitening, color grading, edge and feathered selections, and careful sun/star enhancement) to craft a cohesive look with a strong sun-beam focal point, all while managing flare, color balance, and depth through layer separation and selective adjustments.",
+  "topics": [
+    "explicit location mention: Saudi Arabia",
+    "exposure assessment and shot rejection",
+    "using camera as sight; wide-angle view interpretation",
+    "test shooting and non-requirement of every shot",
+    "dynamic range: shadows, blacks, and highlight management",
+    "focus stacking concepts and practical notes",
+    "bracketing strategy (3- or 5-shot brackets)",
+    "blending multiple exposures to control sky and foreground",
+    "moving sun/sky between exposures for balance",
+    "pre-processing: cleaning, edge corrections, and flare removal",
+    "zone-based post-processing (sky, mountains, foreground)",
+    "raw adjustments: shadows, blacks, whites, exposure, color temperature, tint",
+    "Photoshop workflow: mid-tone and shadow dodges",
+    "painting adjustments across zones via checkmarks and painting",
+    "global-to-local adjustment workflow using layers vs history",
+    "hard edge brush and feathered fades for edge lighting",
+    "sun-star optimization and careful clipping avoidance",
+    "green color correction by painting greens manually",
+    "dehaze and separation of layers for depth",
+    "focus-stacking workflow: scripts, auto-align, auto-blend, content-aware fill",
+    "be mindful of exposure-bracketing for high-contrast scenes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:44",
+      "title": "Exposure assessment and shot selection",
+      "concepts": [
+        "evaluate exposure before processing",
+        "discard overexposed/underexposed frames",
+        "practice shooting with the camera as eyes to simulate seeing through a wide-angle lens"
+      ],
+      "description": "The speaker emphasizes that only properly exposed frames should be considered for processing, and demonstrates testing shots to gauge exposure in real-world scenes, noting that some frames will be rejected as too blown out or otherwise unusable."
+    },
+    {
+      "start": "00:04:44",
+      "end": "00:06:12",
+      "title": "Focus stack acknowledgment and exposure strategy",
+      "concepts": [
+        "recognize focus stacks and depth of field tradeoffs",
+        "dynamic range considerations when using higher ISO",
+        "exposure planning for sky vs. foreground"
+      ],
+      "description": "The session acknowledges that some shots are part of a focus stack and discusses how exposure decisions impact dynamic range, highlighting that properly exposed skies enable more post-processing flexibility and potential blending."
+    },
+    {
+      "start": "00:06:12",
+      "end": "00:07:42",
+      "title": "Pre-processing and artifact removal",
+      "concepts": [
+        "cleaning up the image before post-processing",
+        "edge correction and flare mitigation",
+        "content removal basics"
+      ],
+      "description": "Before post-processing, the presenter demonstrates cleaning up elements, removing distractions, and addressing minor flare or edge issues to prepare a clean base file."
+    },
+    {
+      "start": "00:07:44",
+      "end": "00:09:05",
+      "title": "Zone-based post-processing concept",
+      "concepts": [
+        "divide image into zones (sky, foreground, mountains)",
+        "process one zone at a time to preserve overall balance"
+      ],
+      "description": "The workflow is framed around processing distinct zones in isolation, then combining them to maintain natural transitions and avoid global edits that degrade any one area."
+    },
+    {
+      "start": "00:09:05",
+      "end": "00:12:54",
+      "title": "Photoshop-based initial adjustments (dodging, burning, and color)",
+      "concepts": [
+        "mid-tone dodging and shadow dodging",
+        "using raw adjustments and painting those into other images",
+        "checkmarks to apply adjustments to alternate images",
+        "color and tone changes across zones"
+      ],
+      "description": "A sequence introduces mid-tone and shadow dodging, then moves into RAW-side adjustments (shadows, blacks, whites, exposure) followed by painting these adjustments onto other images with large brushes and high-level color tweaks."
+    },
+    {
+      "start": "00:12:54",
+      "end": "00:21:01",
+      "title": "Sky enhancement and zone-specific painting",
+      "concepts": [
+        "progressive, zone-by-zone sky adjustments",
+        "color temperature and tint on the sky",
+        "preserving foreground details (tree branches, etc.) while adjusting the sky",
+        "selective color adjustments for greens"
+      ],
+      "description": "The section covers applying targeted lighting to the sky, then painting adjustments across zones to retain branch detail, followed by color tweaks to greens and a caution about over-editing to maintain realism."
+    },
+    {
+      "start": "00:21:01",
+      "end": "00:29:12",
+      "title": "Sky to foreground balance and edge handling",
+      "concepts": [
+        "dark-to-bright flow toward sun",
+        "local glow and edge lighting on rock surfaces",
+        "soft vs hard-edge brush techniques for edges",
+        "reversing and reapplying adjustments (history/opacity fades)"
+      ],
+      "description": "The workflow emphasizes guiding the viewer’s eye toward the sun by balancing tonal transitions, applying glow, and carefully feathering edges with hard-edge selections and soft fades to maintain natural edges and avoid abrupt changes."
+    },
+    {
+      "start": "00:29:12",
+      "end": "00:37:11",
+      "title": "Layered balance, edges, and edge-point emphasis",
+      "concepts": [
+        "detailed edge work around rock and tower to emphasize focal points",
+        "selective painting and edge corrections to maintain seam-free transitions",
+        "crop decisions to improve composition and line flow"
+      ],
+      "description": "The emphasis shifts to ensuring focal points (e.g., a tower) stand out through targeted exposure and warmth adjustments, careful edge corrections, and selective cropping to enhance composition without compromising texture."
+    },
+    {
+      "start": "00:37:11",
+      "end": "00:46:57",
+      "title": "Separation of layers and depth via dehaze",
+      "concepts": [
+        "separation of layers technique",
+        "hard-edge brush to isolate distant mountains",
+        "feathering the blend for natural depth",
+        "removing foreground distractions (people, rocks) for clarity"
+      ],
+      "description": "A key technique named separation of layers uses selective adjustments and dehazing to carve depth, while manual edits like removing extraneous elements help clarify the scene and push the eye toward the sun."
+    },
+    {
+      "start": "00:46:57",
+      "end": "01:03:52",
+      "title": "Focus stacking workflow and dynamic range blending",
+      "concepts": [
+        "focus stacking with scripts; auto-align; auto-blend",
+        "content-aware fill for transparent areas after stacking",
+        "manual blends when the camera moved between frames",
+        "bracketing strategies (3- vs 5-shot bracketing) and relevance to scene control"
+      ],
+      "description": "The final phase covers assembling focus-stacked composites, aligning and blending layers, using content-aware fill to finalize transparencies, and discussing bracketing strategies to preserve dynamic range when scene brightness is extreme."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Exposure evaluation and shot filtering",
+      "timestamp": "00:00:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Dynamic range extraction and sky/foreground balancing",
+      "timestamp": "00:02:22",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Focus stacking and depth management",
+      "timestamp": "00:03:48",
+      "confidence": 0.85
+    },
+    {
+      "technique": "One-zone-at-a-time zone-based processing",
+      "timestamp": "00:07:44",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Mid-tone dodging and shadow dodging (Photoshop)",
+      "timestamp": "00:09:10",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Whites adjustments for sun glow and sky highlights",
+      "timestamp": "00:13:19",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Hard edge brush with fade for edge lighting",
+      "timestamp": "00:13:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color and targeted painting (greens, temp, tint)",
+      "timestamp": "00:19:27",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dehaze and separation of layers to create depth",
+      "timestamp": "00:45:33",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Auto-align and auto-blend in focus-stacking workflow",
+      "timestamp": "00:58:46",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Content-aware fill for stacking refinements",
+      "timestamp": "00:58:53",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Bracketing strategy for exposure management (3- to 5-shot)",
+      "timestamp": "01:02:56",
+      "confidence": 0.79
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:04:25.843397+00:00"
+}

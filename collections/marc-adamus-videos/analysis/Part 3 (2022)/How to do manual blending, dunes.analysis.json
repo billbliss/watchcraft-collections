@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/How to do manual blending, dunes.mp4",
+  "title": "Manual blending of dunes landscape: edge-based stitching in Photoshop",
+  "date": {
+    "display": "March 11, 2022 (embedded creation time)",
+    "iso": "2022-03-11",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata; no independent date corroboration in transcript"
+  },
+  "locations": [
+    {
+      "name": "desert dunes (probable)",
+      "confidence": 0.6,
+      "basis": "Filename includes 'dunes' and transcript describes sand/foreground; no explicit shooting location stated"
+    }
+  ],
+  "summary": "The video demonstrates a manual blend between two landscape exposures in Photoshop. The presenter identifies a composition where foreground and background are separately stronger in each shot, and shows how to align color and tone, select a blending line along a sandy edge, and then blend using a clone-stamp workflow. The process spans warming and toning the foreground to match the other shot, adjusting mid-ground details to avoid excessive contrast, and finally refining the seam with edge-aware cloning. The sequence also covers sky and background refinements, including gradient-based color grading and a discussion of sky replacement as an optional enhancement to increase depth and realism.",
+  "topics": [
+    "Photoshop",
+    "manual blend",
+    "edge blending",
+    "clone stamp",
+    "brush hardness",
+    "soft edge brush",
+    "color matching",
+    "temperature",
+    "exposure",
+    "contrast",
+    "midtones",
+    "dehaze",
+    "gradient",
+    "sky replacement",
+    "color balance",
+    "haze",
+    "landscape",
+    "dunes",
+    "sand",
+    "foreground",
+    "background",
+    "mid-ground",
+    "focus stacking (mentioned)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:58",
+      "title": "Concept and planning: identifying two shots to blend and the blending line",
+      "concepts": [
+        "two-shot blending concept",
+        "matching lighting across foreground and background",
+        "selecting a line (sand) for merging",
+        "accentuating light on the foreground"
+      ],
+      "description": "The presenter notes that one shot has a stronger foreground composition and the other a stronger background composition, and explains that a manual blend can merge them by matching color and tonal differences and by choosing a distinct blending line, such as a sandy edge. The foreground light is identified as a target to emphasize in the blend."
+    },
+    {
+      "start": "00:03:58",
+      "end": "00:07:59",
+      "title": "Color/tonal matching and initial edge blending setup",
+      "concepts": [
+        "temperature matching",
+        "exposure adjustment",
+        "contrast and whites",
+        "curve adjustments",
+        "prepping for edge blend",
+        "clone painting for mid-ground blending"
+      ],
+      "description": "The workflow emphasizes making the two shots look real similar in color and tone, starting with temperature matching and then adjusting exposure and contrast, including boosting whites and using a curve to emphasize light on the sand. The color around the blending line is adjusted to align the two frames, and concepts for blending along the line are introduced. The presenter later discusses using a clone-paint approach to blend the mid-ground to prevent over-contrast and to ease the transition along the seam."
+    },
+    {
+      "start": "00:07:59",
+      "end": "00:11:25",
+      "title": "Edge blending perfection, mid-ground refinement, and sky/y background enhancements",
+      "concepts": [
+        "edge blending with clone stamp",
+        "hard vs. soft brush",
+        "shadow-based alignment across the seam",
+        "ensuring seamless edge with a manual blend",
+        "adding haze to background and optional sky replacement",
+        "gradient-based sky adjustments and color grading"
+      ],
+      "description": "The final pass focuses on refining the blend along the seam, using a clone-stamp brush to align shadows and texture, and smoothing transitions so the edge cannot be distinguished at high magnification. The speaker then discusses enhancements for the background—adding haze, potentially replacing the sky, and applying a gradient and color balance to give the sky a more interesting look while preserving the sun's whiteness. The process culminates with reaffirming that this is a manual blend."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual blend between two landscape shots using edge-aligned cloning",
+      "timestamp": "00:07:03",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Clone Stamp tool for edge blending (hard edge brush, 100% opacity)",
+      "timestamp": "00:05:41",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Color-based alignment for the blending line via temperature matching",
+      "timestamp": "00:04:02",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky gradient and color grading with a potential sky replacement",
+      "timestamp": "00:10:39",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:40:05.758385+00:00"
+}

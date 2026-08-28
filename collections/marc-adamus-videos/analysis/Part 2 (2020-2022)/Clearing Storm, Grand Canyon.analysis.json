@@ -1,0 +1,250 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Clearing Storm, Grand Canyon.mp4",
+  "title": "Grand Canyon Clearing Storm: Panorama Stitch, Sky Expansion, and Layered Lighting in Photoshop",
+  "date": {
+    "display": "April 29, 2021",
+    "iso": "2021-04-29",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; filename indicates post-production date around 2021"
+  },
+  "locations": [
+    {
+      "name": "Grand Canyon, Arizona, USA",
+      "confidence": 0.9,
+      "basis": "Transcript repeatedly references the Grand Canyon; file name includes 'Grand Canyon'. Colorado River is shown in-frame within the canyon landscape."
+    }
+  ],
+  "summary": "This instructional video documents the artistically driven processing of Grand Canyon landscape imagery in Photoshop, emphasizing a non-destructive, multi-step workflow. The presenter begins by stitching two shots into a panorama with Photoshop Automate and discusses edge distortions from stitching, sky handling, and sky enlargement to fill gaps. The tutorial then covers warping techniques (perspective warp and puppet warp) to align and shape the composition before moving into a thorough, artistically driven development: RAW-based tonal shaping, HDR-like processing, and selective color management; followed by depth creation through fog, haze, and atmospheric blur, and culminating in controlled lighting shifts and color grading for a cohesive, directional light. The video emphasizes keeping technical edits separate from artistic edits, using history states and cloning to reuse adjustments, and applying blur-luminosity to unify depth, all while maintaining edge control and a deliberate eye path toward the light source. Final steps include sky/color refinements and saving multiple panorama states to preserve non-destructive history.",
+  "topics": [
+    "Photoshop",
+    "Photoshop Automate",
+    "Panorama stitching",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Dodge Tool",
+    "Mid-tone Dodge",
+    "Selective Color",
+    "Color Grading",
+    "Camera Raw",
+    "Curves",
+    "Blur + Luminosity",
+    "Fog/Atmosphere",
+    "Edge Control",
+    "Non-destructive editing",
+    "Grand Canyon",
+    "Colorado River",
+    "Stormy sky"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:02",
+      "title": "Intro: panorama stitching and composition decisions",
+      "concepts": [
+        "panorama",
+        "image merging",
+        "composition adjustment"
+      ],
+      "description": "The presenter identifies the creative goal: develop the Grand Canyon images by combining shots into a panorama using Photoshop Automate, noting an underfilled lower-right corner and the need to balance the composition before artistic processing."
+    },
+    {
+      "start": "00:01:02",
+      "end": "00:03:34",
+      "title": "Sky handling and initial sky augmentation",
+      "concepts": [
+        "sky enlargement",
+        "edge blending",
+        "cloud alignment"
+      ],
+      "description": "Discussion of enlarging the sky region instead of warping its clouds, using a larger sky piece to fill gaps, and cloning a larger cloud into the scene to achieve a seamless look while addressing sky distortions from stitching."
+    },
+    {
+      "start": "00:03:34",
+      "end": "00:04:34",
+      "title": "Perspective warp to fit the frame",
+      "concepts": [
+        "perspective warp",
+        "frame filling",
+        "alignment"
+      ],
+      "description": "Demonstrates using perspective warp to create a trapezoidal shape on the sides and enlarge the left side to better fill the frame, with emphasis on completing technical edits before artistic steps."
+    },
+    {
+      "start": "00:04:34",
+      "end": "00:06:59",
+      "title": "Intro to puppet warp and targeted warping",
+      "concepts": [
+        "puppet warp",
+        "pins for warping",
+        "selective warping"
+      ],
+      "description": "Introduces puppet warp as a tool to adjust objects (e.g., a tree) with pins, while noting that the artist tends to reserve puppet warp for selective, smaller adjustments and uses history brush for blending."
+    },
+    {
+      "start": "00:07:49",
+      "end": "00:12:04",
+      "title": "Artistic development: transitions and focal flow",
+      "concepts": [
+        "transitions toward focal point",
+        "directional lighting",
+        "blue in distant shadows",
+        "three-dimensional shading",
+        "edge darkening"
+      ],
+      "description": "Explains transition emphasis toward the light source, side-lit shading for depth, the natural blue shift in distant shadows, and deliberate edge darkening to reduce distractions and guide the eye toward the focal area."
+    },
+    {
+      "start": "00:12:54",
+      "end": "00:15:57",
+      "title": "RAW-based base and initial tonal shaping",
+      "concepts": [
+        "RAW workflow",
+        "exposure management",
+        "HDR-like tonality",
+        "history brush"
+      ],
+      "description": "Re-enters RAW for global tonal shaping, pulling blacks/shadows and pushing whites/highlights to create an HDR-like base, then transfers adjustments to other layers using the history brush."
+    },
+    {
+      "start": "00:15:57",
+      "end": "00:21:24",
+      "title": "Selective brightness and color control",
+      "concepts": [
+        "dodge/burn",
+        "mid-tone dodge",
+        "color management",
+        "river brightness"
+      ],
+      "description": "Demonstrates targeted dodging on mid-tones to enhance light direction without oversaturating color, and selectively brightens the river area to improve perceived depth while preserving color integrity."
+    },
+    {
+      "start": "00:21:24",
+      "end": "00:25:18",
+      "title": "Fog and haze for depth separation",
+      "concepts": [
+        "fog layering",
+        "diffusion",
+        "soft/hard brush",
+        "history brush"
+      ],
+      "description": "Introduces creating atmospheric depth by layering fog and diffusion between canyon layers, using hard-edged and soft-edged brushes plus history brush to manage edges and transitions."
+    },
+    {
+      "start": "00:25:18",
+      "end": "00:36:07",
+      "title": "Layer-by-layer depth work: blur, clone, and refine",
+      "concepts": [
+        "Gaussian blur",
+        "clone stamp",
+        "layer alignment",
+        "history brush"
+      ],
+      "description": "Shows duplicating and selectively blurring distant layers, then cloning fog across layers to preserve depth cues, and refining with the history brush to maintain cohesive transitions."
+    },
+    {
+      "start": "00:36:07",
+      "end": "00:41:34",
+      "title": "Edge control and lighting shaping",
+      "concepts": [
+        "edge control",
+        "directional lighting",
+        "three-dimensional shading"
+      ],
+      "description": "Emphasizes consistent edge control and strategic lighting to shape each canyon element, ensuring that light direction enhances depth and guides the viewer toward the focal point."
+    },
+    {
+      "start": "00:41:34",
+      "end": "00:45:50",
+      "title": "Sky color adjustments and stormy palette",
+      "concepts": [
+        "color grading",
+        "highlight toning",
+        "selective color",
+        "saturation management"
+      ],
+      "description": "Details color-tuning of the sky for a stormy blue palette, followed by highlight-toning and selective color adjustments to balance warmth and coolness across the composition."
+    },
+    {
+      "start": "00:45:50",
+      "end": "00:54:40",
+      "title": "Glow, diffusion, and overall atmosphere",
+      "concepts": [
+        "blur + luminosity",
+        "glow",
+        "non-destructive painting",
+        "fog layering"
+      ],
+      "description": "Introduces the 'blur plus luminosity' glow technique to diffuse and brighten edges, then paints the glow back into the image to harmonize overall atmosphere while refining fog between layers."
+    },
+    {
+      "start": "00:54:40",
+      "end": "00:58:18",
+      "title": "Wrap-up: non-destructive workflow and panorama-saving",
+      "concepts": [
+        "non-destructive editing",
+        "history preservation",
+        "saving panorama states"
+      ],
+      "description": "Concludes with reminders to save multiple panorama states for non-destructive editing and to manage layers to avoid destructive edits, followed by a final naming note for the project."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Panorama stitching via Photoshop Automate",
+      "timestamp": "00:00:36",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Sky enlargement and sky replacement with cloning",
+      "timestamp": "00:02:06",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Perspective Warp to fit frame",
+      "timestamp": "00:04:30",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Puppet Warp for selective warping",
+      "timestamp": "00:05:59",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Dodge (mid-tone) for directional light",
+      "timestamp": "00:16:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "HDR-like tonal shaping in RAW",
+      "timestamp": "00:13:25",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Fog layering and diffusion for depth",
+      "timestamp": "00:21:49",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Blur + luminosity glow for atmosphere",
+      "timestamp": "00:49:56",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Color grading and selective color adjustments",
+      "timestamp": "00:43:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Non-destructive history-preserving workflow",
+      "timestamp": "00:56:54",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:33:05.851894+00:00"
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Baffin 1-3.mp4",
+  "title": "Baffin Island Panorama: Projection choice, sky manipulation, and depth-first post-processing",
+  "date": {
+    "display": "2026-08-21",
+    "iso": "2026-08-21",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [
+    {
+      "name": "Baffin Island",
+      "confidence": 0.8,
+      "basis": "Transcript explicitly mentions 'Baffin Island doing panos' (02:30)"
+    }
+  ],
+  "summary": "The video documents a hands-on panorama workflow for a multi-shot landscape on Baffin Island, beginning with loading images into a panorama tool and testing projection options (including equirectangular and stereographic). It then stitches the panorama, saves as TIFF, and proceeds to substantial post-processing to control sky, clouds, and foreground. The presenter uses perspective warp, clone stamping, and careful brush work to enlarge cloud features, then performs multi-pass Camera Raw adjustments (gradient, color grading, dehaze, luminance) to create depth by separating layers. Lighting is manipulated along the fjord edges and glacier, culminating in glow, color refinements, and a strong, cinematic vignette to frame the scene. The workflow emphasizes depth via layer separation, edge lighting, and light propagation through the sky and midframe, all while managing a very large 500 MP capture.",
+  "topics": [
+    "panorama stitching",
+    "projection options (equirectangular, stereographic)",
+    "image loading and alignment in PTGui",
+    "cropping and composition for panorama",
+    "TIFF export and desktop storage",
+    "sky rearrangement planning",
+    "perspective warp for clouds",
+    "clone stamp for sky extension",
+    "duplicate image workflow",
+    "Camera Raw multi-pass processing",
+    "gradient filter and color grading",
+    "dehaze and exposure adjustments",
+    "layer separation to create depth",
+    "soft/hard brush opacity control (100%)",
+    "edge lighting and seasonal glow",
+    "fjords and gateway lighting",
+    "midframe glow and color tint",
+    "micro-layer cloning for sky continuity",
+    "vignette for framing",
+    "high-resolution workflow considerations (500 MP)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:36:00",
+      "title": "Load images and test projection in PTGui",
+      "concepts": [
+        "image loading",
+        "PTGui workflow",
+        "projection options",
+        "equirectangular vs stereographic",
+        "foreground bend and alignment"
+      ],
+      "description": "The presenter loads the image set and evaluates projection options in PTGui. Discussion centers on preserving foreground bend, with a preference toward the equirectangular projection after testing stereographic, to keep the glacier oriented correctly as the panorama is formed."
+    },
+    {
+      "start": "01:36:00",
+      "end": "02:40:00",
+      "title": "Panorama assembly and initial file handling",
+      "concepts": [
+        "crop framing",
+        "stitching logic",
+        "export formats"
+      ],
+      "description": "The sequence is cropped to emphasize the glacier meeting point, then a panorama is created and saved as a TIFF. Desktop storage is used to avoid card slowdowns during processing."
+    },
+    {
+      "start": "02:40:00",
+      "end": "02:58:00",
+      "title": "Sky arrangement plan after stitching",
+      "concepts": [
+        "sky rearrangement planning",
+        "foreground-sky composition"
+      ],
+      "description": "The narrator notes that the sky will need rearranging after stitching, signaling the upcoming sky adjustments separate from the initial stitch."
+    },
+    {
+      "start": "02:58:00",
+      "end": "04:21:00",
+      "title": "Cloud isolation and cloud-extension via perspective warp and clone-stamp",
+      "concepts": [
+        "perspective warp",
+        "cloud isolation",
+        "clone stamp for sky extension"
+      ],
+      "description": "Clouds are isolated and enlarged with perspective warp to create a stronger focal point, then cloned over into the adjacent shot to preserve continuity. The blends are tightened with careful brushwork and horizon corrections."
+    },
+    {
+      "start": "04:21:00",
+      "end": "07:41:00",
+      "title": "Camera Raw workflow: initial color grading and sky gradient",
+      "concepts": [
+        "gradient for horizon",
+        "color grading",
+        "horizon glow"
+      ],
+      "description": "A base tonal and color grade is established with a horizon gradient and early sky color foundation, setting the stage for deeper multi-pass adjustments in a subsequent RAW run."
+    },
+    {
+      "start": "07:41:00",
+      "end": "12:50:00",
+      "title": "First RAW pass and the separation of layers for depth",
+      "concepts": [
+        "multi-pass RAW adjustments",
+        "layer separation",
+        "dehaze and targeted luminance"
+      ],
+      "description": "A second RAW pass intensifies separation between layers to enhance depth. The technique emphasizes proper edge separation and color bleed control to reveal distinct foreground, midground, and background planes."
+    },
+    {
+      "start": "12:50:00",
+      "end": "16:11:00",
+      "title": "Edge lighting and fjord-light bleed across layers",
+      "concepts": [
+        "edge lighting",
+        "fjords lighting",
+        "color bleeding across edges"
+      ],
+      "description": "The artist focuses light on edges (the fjord gates) to frame the composition, then paints light distribution with soft and hard brushes, ensuring natural transitions with color bleed across layer boundaries."
+    },
+    {
+      "start": "16:11:00",
+      "end": "20:40:00",
+      "title": "Refined light flow and middle-frame glow",
+      "concepts": [
+        "midframe glow",
+        "additional color tinting",
+        "selective dehaze and exposure",
+        "edge emphasis"
+      ],
+      "description": "Additional light is diverted into the midframe to imply light piercing through atmosphere. Targeted color tinting, subtle dehazing, and exposure tweaks refine atmospheric depth without overpowering the main terrain."
+    },
+    {
+      "start": "20:40:00",
+      "end": "26:11:00",
+      "title": "Final balancing, sky manipulation experiments, and framing",
+      "concepts": [
+        "glacier lighting",
+        "micro sky layers",
+        "sky replacement options",
+        "vignette for framing"
+      ],
+      "description": "The last pass adds warmth and shape to glacier surfaces, experiments with a larger sky and micro-sky layers, and concludes with a strong vignette to direct viewer focus toward the central glacier and fjord, signaling the completion of a high-contrast landscape panorama."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "PTGui-based panorama assembly and projection testing (load images; test equirectangular vs stereographic)",
+      "timestamp": "00:00:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky reassembly and cloud extension via perspective warp and clone-stamp",
+      "timestamp": "02:58:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Camera Raw multi-pass color grading with horizon gradient",
+      "timestamp": "07:41:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Layer separation for depth (explicit 'separation of layers')",
+      "timestamp": "12:29:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Edge lighting and light-beam emphasis on gates",
+      "timestamp": "15:52:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Midframe glow and selective color grading using dehaze/exposure",
+      "timestamp": "20:40:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Vignette and final framing adjustments",
+      "timestamp": "25:30:00",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:12:56.438847+00:00"
+}

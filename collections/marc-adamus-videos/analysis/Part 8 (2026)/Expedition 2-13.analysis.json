@@ -1,0 +1,209 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Expedition 2-13.mp4",
+  "title": "Panorama stitching and multi-zone post-processing for landscape scenes (Expedition 2-13)",
+  "date": {
+    "display": "June 5, 2026",
+    "iso": "2026-06-05",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time suggests approximate export date; transcript indicates a single-session workflow around panorama creation and heavy post-processing."
+  },
+  "locations": [],
+  "summary": "The video documents a landscape photography workflow focused on building a wide panorama from multiple frames, managing dynamic range, and sculpting light and texture through layered, zone-based editing. A presenter compares composition options, explains panorama capture and stitching concepts, then demonstrates sky replacement via clone stamping, selective dehazing, and targeted brightness/contrast adjustments to separate and refine foreground, midground, and background. The session covers non-destructive versioning, creative sky augmentation (a “cheating” sky extension), RAW workflow considerations, and final color grading before export, with practical tips for edge quality, print readiness, and workflow efficiency.",
+  "topics": [
+    "Panorama stitching workflow (capture, merge, export as TIFF)",
+    "Panoramic distortion vs rectilinear distortion; wide-field planning",
+    "Leading lines and convergence for composition in landscape",
+    "Sky replacement and sky cloning with hard-edge brush and clone stamp",
+    "Edge refinement, masking, and feathered fades to avoid artifacts",
+    "Dehaze, warmth, and color grading across image zones",
+    "Zone-based processing: isolating foreground/midground/background",
+    "Layer separation and light bleed to simulate sunrise reflections",
+    "Non-destructive editing and versioning (saving multiple states)",
+    "Creative sky extension (sky size manipulation and beam enhancement)",
+    "RAW workflow considerations and file compatibility (CR3)",
+    "Final polish: texture/clarity, selective color, export considerations"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:41",
+      "title": "Initial composition evaluation and leading-light strategy",
+      "concepts": [
+        "leading lines",
+        "diagonal composition",
+        "lower sixth convergence",
+        "eye guidance toward light"
+      ],
+      "description": "The presenter compares frame options to steer the viewer toward the light, notes how light placement and converging leading lines affect composition, and discusses initial framing decisions."
+    },
+    {
+      "start": "00:01:41",
+      "end": "00:02:24",
+      "title": "Panorama plan and data handling",
+      "concepts": [
+        "panorama folder access",
+        "SD card workflow",
+        "availability of multiple frames"
+      ],
+      "description": "Cueing the workflow for panorama work, including locating the panoramic sequence on storage and considering how multiple frames will be stitched."
+    },
+    {
+      "start": "00:02:24",
+      "end": "00:03:54",
+      "title": "Wide-field capture concepts and exposure planning",
+      "concepts": [
+        "panoramic distortion feature",
+        "field of view (12-shot panorama ~140°)",
+        "rectilinear distortion considerations"
+      ],
+      "description": "Discusses using a panorama feature to create a wide-angle look, the typical shot count for a broad field of view, and the implications for distortion and later rectilinear correction."
+    },
+    {
+      "start": "00:03:54",
+      "end": "00:04:21",
+      "title": "Export steps and initial view preparation",
+      "concepts": [
+        "TIFF export",
+        "desktop workflow",
+        "preparing for cropping"
+      ],
+      "description": "Describes exporting the panorama as a TIFF and saving it to the desktop to avoid card-based processing delays, followed by initial viewing and cropping considerations."
+    },
+    {
+      "start": "00:04:21",
+      "end": "00:07:01",
+      "title": "Sky enhancement: cloning sky for focal emphasis",
+      "concepts": [
+        "hard-edge brush",
+        "clone stamp tool",
+        "sky cloning",
+        "edge handling"
+      ],
+      "description": "Demonstrates cloning sky into the scene to reinforce the horizon and sky treatment, with careful edge work and gradual fades to maintain realism."
+    },
+    {
+      "start": "00:07:01",
+      "end": "00:09:50",
+      "title": "Light bleed, dehaze, and edge refinement for sunrise effect",
+      "concepts": [
+        "dehaze",
+        "edge blending",
+        "sunrise light bleed",
+        "print-ready edges"
+      ],
+      "description": "Explains leveraging dehaze and controlled light bleed to simulate sunrise illumination on mountains, while refining edges to ensure print-quality boundaries."
+    },
+    {
+      "start": "00:09:50",
+      "end": "00:13:58",
+      "title": "Zone-based processing and preliminary separation",
+      "concepts": [
+        "zone masking",
+        "layer separation",
+        "curves/contrast/whites",
+        "color grading by zone"
+      ],
+      "description": "Introduces dividing the image into zones and using targeted adjustments (textures, whites, curves, color grading) to separate and manage different parts of the scene."
+    },
+    {
+      "start": "00:13:58",
+      "end": "00:21:57",
+      "title": "Per-zone processing routine and integration",
+      "concepts": [
+        "shadows/blacks/whites adjustments",
+        "color balance",
+        "saturation/tonal blending",
+        "clarity/texture in glacier silt"
+      ],
+      "description": "Details a workflow for processing each zone individually and then recombining, with emphasis on preserving sky contrast while enriching foreground texture and color harmony."
+    },
+    {
+      "start": "00:21:57",
+      "end": "00:24:36",
+      "title": "Versioning and remixing workflow",
+      "concepts": [
+        "duplicate states",
+        "save-and-compare",
+        "option-click cloning",
+        "cross-version comparison"
+      ],
+      "description": "Shows how to preserve multiple editing states to compare variations and blend ideas from different versions for the final result."
+    },
+    {
+      "start": "00:24:36",
+      "end": "00:26:39",
+      "title": "Creative sky-augmentation and practical constraints",
+      "concepts": [
+        "sky beam extension",
+        "sky enlargement (non-photoreal sky)",
+        "stitching considerations"
+      ],
+      "description": "Demonstrates a ‘cheating’ technique to enlarge sky beams by increasing sky size and selectively transferring beams, while acknowledging the need to later merge with additional panoramas and preserve consistent seams."
+    },
+    {
+      "start": "00:26:39",
+      "end": "00:30:40",
+      "title": "RAW compatibility, final color grading, and export options",
+      "concepts": [
+        "CR3 compatibility and Photoshop issues",
+        "final color grading (shadows, blacks, whites, balance)",
+        "selective color and texture adjustments",
+        "Topaz/Photos workflow",
+        "final export considerations"
+      ],
+      "description": "Addresses RAW file compatibility concerns, demonstrates finishing color grading and selective color tuning, and discusses export paths and post-processing tools, ending with notes about ongoing computer-related workflow issues."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Panorama stitching workflow (capture, merge)",
+      "timestamp": "00:02:24",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Rectilinear vs. wide-field distortion management",
+      "timestamp": "00:03:54",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky replacement using clone stamp and hard-edge brush",
+      "timestamp": "00:06:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Layer-based zone separation and light bleed",
+      "timestamp": "00:12:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Dehaze and color grading for multi-zone editing",
+      "timestamp": "00:10:06",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Non-destructive versioning and remixing workflow",
+      "timestamp": "00:21:45",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Creative sky extension (beams) via sky enlargement",
+      "timestamp": "00:22:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "RAW workflow and compatibility troubleshooting",
+      "timestamp": "00:25:36",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Final polish: texture/clarity and selective color in midtone regions",
+      "timestamp": "00:29:00",
+      "confidence": 0.84
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:36:56.085257+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Week 4 images CR.mp4",
+  "title": "Night Mountain Scene with Moon: Dynamic Range Expansion and RAW Processing Workflow",
+  "date": {
+    "display": "2022-01-28",
+    "iso": "2022-01-28",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time from video metadata"
+  },
+  "locations": [],
+  "summary": "The video presents a landscape processing workflow for a night mountain scene featuring the Moon. The instructor emphasizes avoiding noise by treating night shots as if they were mid-day in terms of exposure, explains how underexposure increases noise, and outlines a two-stage approach: first expand the dynamic range in post to reveal tonal detail, then shape the lighting to emphasize the light source. The method includes evaluating proper exposure for highlight retention, noting the missing moon reflection in the scene, managing tonal separation between deep shadow and midtones to preserve three-dimensionality, and finally transitioning into Camera Raw for zone-based adjustments after initial range expansion. The speaker also discusses camera specifics (e.g., Nikon) and the practical limits of dynamic range at different ISO settings.",
+  "topics": [
+    "night photography",
+    "moon",
+    "mountain landscape",
+    "dynamic range",
+    "exposure",
+    "highlight recovery",
+    "shadow detail",
+    "RAW processing",
+    "Camera Raw",
+    "post-processing workflow",
+    "noise management",
+    "zone-based processing",
+    "Nikon",
+    "exposure planning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:01",
+      "title": "Exposure planning for night scenes",
+      "concepts": [
+        "night photography",
+        "underexposure handling",
+        "exposure strategy",
+        "noise considerations"
+      ],
+      "description": "The speaker introduces processing a mountain-night scene with the moon, aiming to first reveal dynamic range and then shape light toward the source. He notes the shots are heavily underexposed (about four stops, or around two stops in some cases), which leads to noise if not addressed. A key guideline is to avoid exposing night shots for how they look to the eye in low light and instead to expose as if it were daylight, recognizing the difference between what looks good in real life versus on a screen. Specifics include discussion of ISO impact on dynamic range (e.g., 100 ISO could yield more range than 400 ISO) and the consequence of noise in brighter areas such as trees when pushing too much."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:03:12",
+      "title": "Highlight management and tonal separation",
+      "concepts": [
+        "highlights",
+        "shadow detail",
+        "three-dimensionality",
+        "tone separation"
+      ],
+      "description": "The presenter identifies the optimal exposure is to push highlights to the left without clipping, while acknowledging that the on-location appearance (e.g., pink tones and visible moon) can differ from what the camera records. He points out the moon’s reflection is missing in the shot and emphasizes the importance of maintaining separation in the darkest-to-lightest zones to preserve three-dimensionality. The emphasis is on keeping the brightest areas from blowing out and recognizing the gap between the blackest and brightest zones as critical for later post-processing."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:04:15",
+      "title": "Dynamic range expansion and transition to RAW processing",
+      "concepts": [
+        "dynamic range expansion",
+        "RAW workflow",
+        "noise reduction considerations",
+        "Camera Raw preparation"
+      ],
+      "description": "The workflow described involves expanding the scene’s dynamic range first, then reducing the overall exposure slightly, and repeating the process in RAW to reveal more tonal information as one would have perceived in real light. The goal is to ensure the left side is not blown out while maintaining full dynamic range visibility, enabling effective post-processing. The speaker highlights the next step: transitioning to Camera Raw to select and adjust specific tonal zones, signaling the start of the post-processing phase. He also notes practical constraints related to sensor performance (e.g., Nikon camera capabilities) and the need to manage noise in highly shadowed areas."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion through staged RAW processing",
+      "timestamp": "00:03:28",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Expose night scenes as if mid-day to maximize dynamic range",
+      "timestamp": "00:01:02",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Noise management by considering ISO and potential layer merging",
+      "timestamp": "00:01:21",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Transition to Camera Raw for zone-based post-processing",
+      "timestamp": "00:04:15",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:13:43.044538+00:00"
+}

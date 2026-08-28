@@ -1,0 +1,122 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/PNW 1-2.mp4",
+  "title": "Drone Panorama Stitching: PTGui-powered exposure control, rectilinear projection, and sky replacement",
+  "date": {
+    "display": "2025-06-28",
+    "iso": "2025-06-28",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time in metadata; video file indicates a 2024-2025 release window."
+  },
+  "locations": [],
+  "summary": "This video demonstrates a drone panorama workflow that avoids automatic exposure merging by Lightroom, instead manually balancing exposure across frame imports, then stitching with PTGui using rectilinear projection for a faithful wide-angle look. It covers cropping to a center region, and a separate sky replacement technique achieved by duplicating the sky, overlaying and masking with careful edge blending, followed by post-processing to introduce directional light and color grading. The narration highlights the advantages of PTGui's exposure fusion controls and the speed advantage over Photoshop for stitching, and it provides practical tips on masking, inverse selections, and soft brush painting to achieve a high-resolution panorama (over 100 MP).",
+  "topics": [
+    "Drone panorama creation",
+    "Exposure management across drone pano frames",
+    "Limitations of Lightroom/Photoshop for drone pano stitching",
+    "Per-frame exposure balancing and shadow recovery",
+    "PTGui stitching workflow for panos",
+    "Rectilinear projection in panorama stitching",
+    "Center cropping to remove edge artifacts",
+    "Sky replacement and masking techniques",
+    "Clone tool usage for sky alignment",
+    "Inverse selection masking",
+    "Soft brush lighting for directional light",
+    "Color grading: warmth, whites, blue saturation, selective color"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "02:14:00",
+      "title": "Pre-stitch exposure management for drone panos",
+      "concepts": [
+        "drone pano exposure constraints",
+        "foreground/background exposure",
+        "avoid Lightroom auto-stitch"
+      ],
+      "description": "Introductory notes on how drone panos differ from still-camera panos, with a focus on lack of user control over exposure across frames and the decision to avoid letting Lightroom stitch automatically; plan is to balance exposures manually before stitching."
+    },
+    {
+      "start": "02:14:00",
+      "end": "05:07:00",
+      "title": "PTGui-based stitching workflow and projection choices",
+      "concepts": [
+        "importing into PTGui",
+        "image alignment and projection options",
+        "exposure fusion control",
+        "crop to center"
+      ],
+      "description": "Demonstrates moving from Lightroom/PS to PTGui for stitching, aligning frames, selecting a projection (rectilinear) to mimic wide-angle warping, and leveraging exposure fusion controls while planning a center-crop cropping."
+    },
+    {
+      "start": "08:40:00",
+      "end": "10:57:00",
+      "title": "Sky replacement and masking strategy",
+      "concepts": [
+        "sky overlay technique",
+        "duplication and scaling of sky",
+        "masking with inverse selection",
+        "edge blending"
+      ],
+      "description": "Shows a sky replacement workflow by duplicating the image, extending the sky region, overlaying and blending the skies with careful masking, and avoiding obvious seams through inverse selection and soft blending."
+    },
+    {
+      "start": "11:14:00",
+      "end": "13:40:00",
+      "title": "Post-processing for depth and color grading",
+      "concepts": [
+        "shadows and whites",
+        "warmth and directional light",
+        "soft painting with low opacity",
+        "color adjustments (blue saturation, selective color)"
+      ],
+      "description": "Covers painting light onto ridges to create three-dimensionality, directional light bleed, and final color grading to achieve a cohesive, high-contrast look."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual exposure balancing across drone pano frames",
+      "timestamp": "00:01:04",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Avoid relying on Lightroom/Photoshop for drone panos due to stitching gaps",
+      "timestamp": "00:02:03",
+      "confidence": 0.65
+    },
+    {
+      "technique": "PTGui stitching with alignment and exposure fusion controls",
+      "timestamp": "03:57:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rectilinear projection for panos to emulate wide-angle warp",
+      "timestamp": "05:42:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Center-crop strategy after stitching",
+      "timestamp": "05:49:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Sky overlay by duplicating, scaling, and masking sky",
+      "timestamp": "08:40:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Inverse selection masking for edge-safe blending",
+      "timestamp": "09:42:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Soft brush lighting to create directional light and depth",
+      "timestamp": "11:31:00",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:36:49.204922+00:00"
+}

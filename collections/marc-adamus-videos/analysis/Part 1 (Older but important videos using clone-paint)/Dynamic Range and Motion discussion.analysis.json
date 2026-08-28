@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Dynamic Range and Motion discussion.mp4",
+  "title": "Dynamic Range and Motion: A Landscape Photography Tutorial Analysis",
+  "date": {
+    "display": "2018-06-12",
+    "iso": "2018-06-12T00:00:00Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time in metadata"
+  },
+  "locations": [
+    {
+      "name": "New Zealand (explicit in transcript)",
+      "confidence": 0.85,
+      "basis": "Transcript states the shot was taken in New Zealand"
+    },
+    {
+      "name": "Olympic National Park (example/location for rainforest scenario)",
+      "confidence": 0.6,
+      "basis": "Transcript mentions Olympic National Park as part of a rainforest example; not stated as shooting location"
+    },
+    {
+      "name": "Death Valley (example location)",
+      "confidence": 0.6,
+      "basis": "Transcript uses Death Valley as a contrasting example; not stated as shooting location"
+    }
+  ],
+  "summary": "In Dynamic Range and Motion discussion, the photographer explains core perceptual differences between camera capture and human vision, emphasizing motion absence and limited dynamic range in still images. The talk contrasts complex rainforest scenes with simple arid landscapes to illustrate why two-dimensional media benefit from simplification and how motion aids depth perception. A central thread concerns dynamic range, with practical demonstrations that the useful shadow recovery on modern sensors typically spans roughly 1.6 to 3.1 stops, depending on the camera. The speaker details real-world testing across bodies (Nikon D850, Canon 5D III/IV, Sony, Fuji, etc.), the importance of precise highlight control, and how exposed-to-the-right thinking can help maximize shadow detail without excessive noise. He also covers post-processing strategies—sky removal, atmosphere introduction, painted light, and even sun/storm-light inserts from separate images—to craft painterly landscapes. The narration includes cautions about halo/artefact risk when blending exposures, the growing practicality of single-shot dynamic range with modern sensors, and panorama stitching (14-shot stitch) as a post-capture strategy. A concrete anecdote centers on a New Zealand shoot using a D850 at ISO 31 to illustrate low-noise, high-DR performance and the diminishing use of Graduated Neutral Density filters in light of sensor capabilities.",
+  "topics": [
+    "dynamic range",
+    "shadow recovery",
+    "highlights control",
+    "exposure",
+    "expose to the right",
+    "ETTR",
+    "single-shot dynamic range",
+    "dynamic range by camera",
+    "camera comparisons",
+    "Nikon D850",
+    "Canon 5D III",
+    "Canon 5D IV",
+    "Sony sensor",
+    "Fuji",
+    "panorama stitching",
+    "14-shot stitch",
+    "no focus stacking",
+    "sky removal",
+    "atmosphere addition",
+    "painted light",
+    "sun star",
+    "post-processing",
+    "print quality",
+    "noise-free",
+    "ND grads",
+    "depth simplification",
+    "motion vs still"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "19:50:00",
+      "title": "Dynamic Range, Motion, and Post-Processing Principles in Landscape Photography",
+      "concepts": [
+        "camera vs eye perception",
+        "motion in two-dimensional media",
+        "dynamic range differences",
+        "simplification in field composition",
+        "capture vs print considerations",
+        "shadow detail vs highlight control",
+        "exposure strategies",
+        "post-processing of skies and light",
+        "panorama stitching",
+        "focus on painterly light"
+      ],
+      "description": "A consolidated overview of how motion, dynamic range, and post-production choices shape landscape images. The presenter discusses how cameras lack motion and depth cues compared to the human eye, advocating simplification in complex scenes (e.g., rainforest) and the value of carefully controlling highlights to maximize useful shadow detail. The talk blends field strategy with detailed camera-based observations, including cross-brand comparisons, sensor performance assertions (3.1 stops as a practical DR limit in shadows), and the practical implications for printing. It also describes extensive post-processing workflows—sky removal, atmosphere creation, and light painting—along with techniques for assembling expansive scenes via stitching, all while warning against artefacts from exposure blending. The section weaves in explicit shooting anecdotes (e.g., a New Zealand shoot with a Nikon D850 at ISO 31) to ground theoretical claims in practice, and it contrasts science-backed limits with artistic endeavors (e.g., painterly light via post)."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range estimation and practical DR limits across camera bodies (1.6–3.1 stops)",
+      "timestamp": "05:23",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Expose-recover strategy: highlights control and avoiding noise in shadows (single-shot DR)",
+      "timestamp": "13:39",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Exposed-to-the-right (ETTR) concept and practical shadow extraction",
+      "timestamp": "08:18",
+      "confidence": 0.85
+    },
+    {
+      "technique": "14-shot panorama stitching to achieve extended scenes without focus stacking",
+      "timestamp": "18:59",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Post-processing sky removal, atmosphere addition, and light painting for painterly results",
+      "timestamp": "17:11",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Sun/light insertion from separate images and multi-photo compositing (no focus stacking)",
+      "timestamp": "18:59",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Cautions against haloing/artifacts when blending exposures; emphasis on single-shot DR when possible",
+      "timestamp": "10:27",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:47:57.090471+00:00"
+}

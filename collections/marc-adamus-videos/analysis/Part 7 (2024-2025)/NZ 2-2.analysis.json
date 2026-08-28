@@ -1,0 +1,88 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 2-2.mp4",
+  "title": "Seascape Photoshop workflow: sky blend, beams, and depth",
+  "date": {
+    "display": "July 6, 2025",
+    "iso": "2025-07-06",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded file creation time indicates 2025-07-06; transcript contains no date; no explicit shooting date inferred from dialogue"
+  },
+  "locations": [],
+  "summary": "This video demonstrates a Photoshop-based post-processing workflow applied to a seascape composite featuring an island and a moving boat. The presenter begins by testing dynamic range and exposure, then crops and adjusts foreground/background elements. A sky layer is introduced and blended with targeted whites and color adjustments, followed by selective layer separation and masking to manage multi-element edits. Beams of light are painted into the scene with a hard brush and then refined by erasing with a soft brush, and additional elements such as birds are added. Shading and warmth are used to impart three-dimensionality to the island and water, aided by clarity and dehaze to create glow. The workflow culminates in sky-focused color grading, a subtle gradient to smooth the transition, and cleanup of dust spots visible at high f-stops. Overall, the video showcases a compact, multi-layer compositing approach to achieve a sunrise-toned, high-contrast seascape in roughly five minutes of editing time.",
+  "topics": [
+    "Dynamic range expansion",
+    "Exposure adjustment",
+    "Foreground/background focus bracket assessment",
+    "Cropping for composition",
+    "Shadow and black level adjustments",
+    "White and color adjustments for sky",
+    "Color temperature warm-up",
+    "Low-opacity sky layer blending",
+    "Layer separation and masking",
+    "Edge handling during selection and editing",
+    "Sky resizing to fit composition",
+    "Beams (light rays) creation with 60% hard brush at 1000 px radius",
+    "Beams erasing with soft brush for natural look",
+    "Adding birds for composition",
+    "Clarity and dehaze to create midground glow",
+    "Warmth + dynamic range for depth",
+    "Gradient-based sky finishing",
+    "Dust spot management at high f-stops",
+    "Water glow and mist enhancement"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:12:38",
+      "title": "Overall Photoshop workflow for a seascape",
+      "concepts": [
+        "Dynamic range testing and initial exposure decisions",
+        "Cropping to balance foreground and background",
+        "Layer separation and masking for element-specific edits",
+        "Sky replacement/blending via a low-opacity sky layer",
+        "Beam creation and placement to simulate sunlight direction",
+        "Depth enhancement through warmth and dehaze",
+        "Birds and subtle atmospheric touches",
+        "Final color grading, gradient finishing, and dust spot cleanup"
+      ],
+      "description": "This section traces a condensed post-production sequence on a seascape image, starting with dynamic range and exposure exploration, followed by cropping and foreground/background balancing. The workflow then introduces a sky layer for selective color/white adjustments, applies layer separation to manage different elements, and experiments with beam-like light rays and limited-opacity sky blends to integrate the sky. Further steps add depth through warmth and dehaze, reinforce directional lighting on the island, insert decorative birds, and finish with targeted color grading, gradient work, and dust spot cleanup to produce the final composite."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sky blend via low-opacity sky layer with whites and color adjustments",
+      "timestamp": "00:02:04",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Layer separation and masking to enable multi-element edits",
+      "timestamp": "00:01:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Beams: painting light rays with a 60% hard brush at 1000 px radius, then erasing with a soft brush",
+      "timestamp": "00:06:11",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Midground glow using clarity/dehaze and warmth for depth",
+      "timestamp": "00:05:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color grading of the sky via tonal adjustments and a gradient to simulate sunrise",
+      "timestamp": "00:10:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dust spot management and discussion of high f-stop artifacts",
+      "timestamp": "00:11:12",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:03:45.001186+00:00"
+}

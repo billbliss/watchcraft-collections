@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/AK Summer Week 2-1.mp4",
+  "title": "Two-exposure RAW composite using history painting: background and water with sky planning",
+  "date": {
+    "display": "August 8, 2023 (approx.)",
+    "iso": "2023-08-08",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time; approximate date not independently confirmed in transcript"
+  },
+  "locations": [],
+  "summary": "The video presents a non-destructive, RAW-first workflow for constructing a two-exposure composite of a landscape scene. The presenter emphasizes a history-painting approach—making an adjustment, then reapplying it via the history brush to enable easy reversion—and does most work in RAW before finalizing in Photoshop. The method centers on selecting two usable frames (one for background, one for water), planning a later sky blend, and ensuring composition is favorable (notably avoiding foreground flowers overlapping the water to keep blending feasible). He advocates starting from a conservative exposure and a cooler color temperature to expand dynamic range, so nothing is blown out or irretrievably lost, while preserving plenty of headroom to improve highlights. Throughout, the guidance contrasts eye-based viewing with camera auto white balance, underscoring non-destructive, adjustable editing rather than a finished, polished look.",
+  "topics": [
+    "History Brush",
+    "History Painting",
+    "RAW workflow",
+    "Non-destructive editing",
+    "Photoshop",
+    "Two-file blend",
+    "Background and water composite",
+    "Sky planning",
+    "Exposure adjustment",
+    "Color temperature",
+    "Dynamic range expansion",
+    "Shadows",
+    "Highlights",
+    "Manual blend",
+    "Auto white balance avoidance",
+    "Eye-based color assessment"
+  ],
+  "sections": [
+    {
+      "start": "00:00:31",
+      "end": "00:01:04",
+      "title": "History painting and non-destructive RAW editing",
+      "concepts": [
+        "history brush",
+        "non-destructive edits",
+        "history-based adjustments"
+      ],
+      "description": "The speaker introduces the history painting concept: make an adjustment, then reapply it using the history brush; edits are anchored in RAW to facilitate later fixes or reversions."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:02:12",
+      "title": "Two-file plan: background and water; preparing for blending",
+      "concepts": [
+        "two-file blend",
+        "background vs water",
+        "sky planning"
+      ],
+      "description": "Outlines selecting two initial frames—one for the background and one for the water—and planning to blend them, with the possibility of adding sky later after the initial merge."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:02:32",
+      "title": "Composition note: avoid overlapping moving elements",
+      "concepts": [
+        "composition",
+        "moving water vs flowers",
+        "long shutter effects"
+      ],
+      "description": "Notes that foreground flowers should not overlap the water to ease the blend, given the water’s long exposure and motion."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:03:11",
+      "title": "Establishing a starting point with global adjustments",
+      "concepts": [
+        "exposure down",
+        "color temperature down",
+        "dynamic range expansion"
+      ],
+      "description": "Advocates lowering overall exposure, cooling color temperature, and expanding the shadows so nothing is blown or completely lost, creating a robust starting point with room to improve highlights."
+    },
+    {
+      "start": "00:03:11",
+      "end": "00:03:41",
+      "title": "Camera color temp vs. eye-based assessment",
+      "concepts": [
+        "auto white balance",
+        "eye-based color assessment"
+      ],
+      "description": "Emphasizes viewing edits by eye rather than relying on the camera’s auto white balance, acknowledging that the camera may 'make stuff up' in color temperature."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "History painting (history brush) in Photoshop/RAW, non-destructive edits",
+      "timestamp": "00:00:31",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Two-file composite planning: background + water with sky addition plan",
+      "timestamp": "00:01:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Manual sky extension after initial blend",
+      "timestamp": "00:02:12",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Global exposure and color temperature adjustments to expand dynamic range",
+      "timestamp": "00:02:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Highlight/shadow balance to establish a robust starting point",
+      "timestamp": "00:03:04",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Auto white balance avoidance and eye-based color judgment",
+      "timestamp": "00:03:36",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:01:21.003512+00:00"
+}

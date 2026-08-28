@@ -1,0 +1,331 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/WEBSITE VIDEO FEATURE - Artistic Philosophy.mp4",
+  "title": "Artistic Philosophy in Landscape Post-Processing: Depth, Light, and Visual Flow (Mark Adamus)",
+  "date": {
+    "display": "June 30, 2023",
+    "iso": "2023-06-30",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [],
+  "summary": "In this introductory discourse, Mark Adamus presents an artistic philosophy for post-processing landscape images. He argues that permanent landscape subjects (mountains, rivers, trees) should remain recognizable, while non-permanent elements such as clouds, fog, haze, and atmosphere can be shaped to enhance depth and three-dimensionality. He emphasizes constructing visual flow from near to far using transitions (big to small, dark to light, cool to warm) and a directional light source that guides the viewer toward a focal point, often the light itself. He de-emphasizes color as the core driver of mood, framing color as secondary to light and atmosphere, and discusses dynamic range, edge control, and spacing (the rule of six and the rule of odds) as practical tools for field decisions. The video also covers the difference between camera and eye perception, the importance of layering and motion in complex scenes, and a high-level view of a Photoshop workflow focused on shading toward light rather than exhaustive tool use. Throughout, Adamus ties these concepts to field practice—emphasizing the value of wilderness time, the ethics of representing landscapes honestly, and the idea that post-processing should serve a clear artistic rationale rather than arbitrary enhancement.",
+  "topics": [
+    "Mark Adamus",
+    "Artistic Philosophy",
+    "Landscape post-processing",
+    "Post-processing",
+    "Photoshop",
+    "Dynamic range",
+    "Level of blacks",
+    "Transitions",
+    "Near to far",
+    "Visual flow",
+    "Leading lines",
+    "Framing",
+    "Layers",
+    "Directional light",
+    "Edge control",
+    "Focus stacking",
+    "Pre-light of sunrise",
+    "Rule of six",
+    "Rule of thirds",
+    "Odd numbers",
+    "Atmosphere",
+    "Diffusion",
+    "Glow",
+    "Color vs light vs atmosphere",
+    "Raw processing",
+    "Dodging and burning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:51",
+      "title": "Introduction: Authenticity and Permitted Edits",
+      "concepts": [
+        "post-processing philosophy",
+        "permanent subjects",
+        "non-permanent subjects",
+        "ethical landscape representation",
+        "viewer recognition"
+      ],
+      "description": "Mark Adamus introduces his first post-processing video and defines the core boundary of his approach: mountains, rivers, and trees should remain recognizable, while clouds, fog, haze, and other transient elements may be shaped to better describe the scene."
+    },
+    {
+      "start": "00:02:51",
+      "end": "00:05:24",
+      "title": "Limits, Wilderness Time, and the Cost of Believability",
+      "concepts": [
+        "artistic latitude",
+        "wilderness experience",
+        "Photoshop realism",
+        "limits of alteration",
+        "time in the field vs computer"
+      ],
+      "description": "He explains why believable edits take time, why he prefers wilderness over the computer, and why dramatic changes to permanent landscape forms would undermine the experience he is trying to share."
+    },
+    {
+      "start": "00:05:24",
+      "end": "00:10:51",
+      "title": "Camera Skill vs Artistic Judgment",
+      "concepts": [
+        "technical proficiency",
+        "trial and error",
+        "artistic development",
+        "film-to-digital latitude",
+        "personal vision"
+      ],
+      "description": "Adamus contrasts fast technical camera learning with the slower development of artistic judgment, framing post-processing as an extension of drawing, shading, and lighting rather than a fixed formula."
+    },
+    {
+      "start": "00:10:51",
+      "end": "00:15:59",
+      "title": "Motion, Complexity, and Dynamic Range",
+      "concepts": [
+        "motion in scenes",
+        "forest immersion",
+        "layered complexity",
+        "dynamic range",
+        "recovering hidden detail"
+      ],
+      "description": "He uses rainforest imagery to show how motion and visual complexity affect perception, then explains how digital dynamic range lets photographers recover detail that the camera initially compresses or blocks up."
+    },
+    {
+      "start": "00:15:59",
+      "end": "00:19:57",
+      "title": "Visual Flow Through Near-to-Far Structure",
+      "concepts": [
+        "visual flow",
+        "three-dimensionality",
+        "near to far",
+        "framing elements",
+        "layers"
+      ],
+      "description": "The focus shifts to arranging the scene so the viewer moves through it coherently, using layered structure and directional organization to create a stronger sense of depth and immersion."
+    },
+    {
+      "start": "00:19:57",
+      "end": "00:24:09",
+      "title": "Transitions, Leading Lines, and Light as Focal Point",
+      "concepts": [
+        "big to small transitions",
+        "leading lines",
+        "dark to light",
+        "cool to warm",
+        "light as focal point"
+      ],
+      "description": "Adamus defines transitions as the key mechanism behind leading lines and compositional flow, showing how size, tone, temperature, and light all need to move the eye toward a focal point."
+    },
+    {
+      "start": "00:24:09",
+      "end": "00:31:58",
+      "title": "Level of Blacks and Atmospheric Depth",
+      "concepts": [
+        "level of blacks",
+        "distance cues",
+        "diffusion",
+        "haze",
+        "glow"
+      ],
+      "description": "He introduces level of blacks as a crucial depth cue, explaining how distant forms should read lighter and less contrasty than close ones, and how atmosphere and glow help separate planes in the image."
+    },
+    {
+      "start": "00:31:58",
+      "end": "00:36:40",
+      "title": "Shaping Mountains, Forests, and Dense Scenes",
+      "concepts": [
+        "subject separation",
+        "shape definition",
+        "forest composition",
+        "light in the frame",
+        "complex layering"
+      ],
+      "description": "Using multiple examples, he shows how black levels, contrast, and atmospheric spacing help define peaks and trees, especially in forests where the light itself becomes the main compositional anchor."
+    },
+    {
+      "start": "00:36:40",
+      "end": "00:43:19",
+      "title": "Field Diagnostics and Directional Light Strategy",
+      "concepts": [
+        "rule of six",
+        "composition review",
+        "simplifying scenes",
+        "directional light source",
+        "looking into the sun"
+      ],
+      "description": "He presents the rule of six as a quick compositional audit, then explains why shaping a frame with directional light—often by shooting toward the sun—improves flow and helps long-lens scenes feel dimensional."
+    },
+    {
+      "start": "00:43:19",
+      "end": "00:48:26",
+      "title": "Long Lenses, Focus Stacking, and Spacing",
+      "concepts": [
+        "long lens atmosphere",
+        "focus stacking",
+        "compressed layers",
+        "spacing",
+        "odd numbers"
+      ],
+      "description": "Adamus demonstrates how long lenses can still create depth through atmosphere, focus stacking, and tonal separation, then discusses spacing and odd-numbered groupings as tools for reducing tension."
+    },
+    {
+      "start": "00:48:26",
+      "end": "00:55:56",
+      "title": "Edge Control and the Graph of Light",
+      "concepts": [
+        "edge control",
+        "framing",
+        "pre-light of sunrise",
+        "soft dawn light",
+        "light timing"
+      ],
+      "description": "He explains how edges should push the viewer back into the frame, then introduces the graph of light to show why the best usable light can arrive before sunrise, when shadows are still soft and manageable."
+    },
+    {
+      "start": "00:55:56",
+      "end": "00:59:40",
+      "title": "Wide-Angle Geometry and Rule of Thirds",
+      "concepts": [
+        "wide-angle composition",
+        "lens geometry",
+        "foreground placement",
+        "rule of thirds",
+        "subject balance"
+      ],
+      "description": "The video turns to practical wide-angle placement, including how close foreground subjects should be and how the rule of thirds applies to horizons, reflections, and multi-part landscape scenes."
+    },
+    {
+      "start": "00:59:40",
+      "end": "01:08:46",
+      "title": "Color Is Secondary to Light and Atmosphere",
+      "concepts": [
+        "light vs color",
+        "tonal values",
+        "atmosphere",
+        "shading",
+        "mood"
+      ],
+      "description": "Adamus argues that mood and structure come primarily from light, tone, and atmosphere rather than color, and shows how relatively small adjustments can transform the perceived lighting and dimensionality of a scene."
+    },
+    {
+      "start": "01:08:46",
+      "end": "01:18:48",
+      "title": "Before-and-After Examples of Shading and Flow",
+      "concepts": [
+        "dodging and burning",
+        "directional light source",
+        "diffusion",
+        "level of blacks",
+        "cohesive flow"
+      ],
+      "description": "A sequence of before-and-after examples illustrates the same recurring workflow: add direction to the light, soften distant areas, manage black levels, and guide the eye toward a chosen focal point."
+    },
+    {
+      "start": "01:18:48",
+      "end": "01:24:24",
+      "title": "Recap of Core Composition Principles",
+      "concepts": [
+        "camera vs eye",
+        "motion",
+        "dynamic range",
+        "framing",
+        "layers",
+        "leading lines"
+      ],
+      "description": "He summarizes the major compositional ideas covered so far, emphasizing how field decisions, light direction, spacing, and contrast all work together to create depth and simplify a scene."
+    },
+    {
+      "start": "01:24:24",
+      "end": "01:28:54",
+      "title": "Photoshop Philosophy: Few Tools, Clear Purpose",
+      "concepts": [
+        "limited toolkit",
+        "why before how",
+        "raw processing",
+        "predictable tools",
+        "shading toward light"
+      ],
+      "description": "Adamus closes by stressing that good post-processing depends less on knowing many tools and more on understanding why edits are made, then briefly demonstrates a simple shading adjustment from the raw file to the finished image."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Permanent vs non-permanent subject authenticity in post-processing",
+      "timestamp": "00:01:21",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Motion and depth concept; comparing video vs still photography to capture depth",
+      "timestamp": "00:11:04",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dynamic range expansion and exposure balancing; post-processing to reveal detail",
+      "timestamp": "00:15:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Near-to-far and big-to-small transitions to create visual flow (leading lines)",
+      "timestamp": "00:20:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Light as focal point; prioritizing lighting in composition",
+      "timestamp": "00:23:29",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Level of blacks as depth cue; distance perception",
+      "timestamp": "00:24:09",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Rule of six for quick field composition check",
+      "timestamp": "00:36:42",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Directional light source to shape image; shading toward light",
+      "timestamp": "00:38:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Edge control to keep eye inside frame",
+      "timestamp": "00:50:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Focus stacking for depth and atmosphere in long-lens images",
+      "timestamp": "00:43:59",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Pre-light of sunrise and the graph of light for mood and timing",
+      "timestamp": "00:52:28",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Rule of thirds and odd numbers to distribute subjects and reduce tension",
+      "timestamp": "00:47:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color vs light vs atmosphere; color treated as secondary to shading and atmosphere",
+      "timestamp": "01:03:30",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Limited Photoshop toolkit approach; focus on ‘why’ behind edits rather than tools",
+      "timestamp": "01:25:12",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T17:38:50.217821+00:00",
+  "timeline_repair_model": "gpt-5.4-mini",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-21T18:21:31.068427+00:00"
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/Clements Fireweed.mp4",
+  "title": "Clements Fireweed: Zone-based RAW-to-Photoshop Landscape Processing with Light Painting",
+  "date": {
+    "display": "September 29, 2022",
+    "iso": "2022-09-29",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; transcript corroboration not available"
+  },
+  "locations": [],
+  "summary": "The video presents a pragmatic, zone-based workflow for transforming a high-contrast landscape image into a luminous final rendering. After addressing raw exposure and highlight/shadow range, the presenter demonstrates a four-zone approach in Photoshop (foreground, two mountain zones, and sky), performing major, non-destructive edits in RAW and then painting light and color within each zone. Key methods include creating multiple sky versions and blending them via a history-based workflow, painting directional light onto mountain faces, using a sponge tool to brighten foreground edges, and applying a Gaussian blur diffusion pass to generate a glow or Orton-style haze. The speaker emphasizes predictability and a repeatable system, largely avoiding tool proliferation in favor of mastering a core set of adjustments and zone-specific refinements.",
+  "topics": [
+    "zone-based processing",
+    "four-zone workflow",
+    "photoshop",
+    "camera_raw",
+    "gaussian blur",
+    "blur plus luminosity",
+    "history brush",
+    "painting light",
+    "color grading",
+    "camera calibration",
+    "HSL",
+    "sponge tool",
+    "diffusion",
+    "diffusion haze",
+    "dynamic range",
+    "highlights",
+    "shadow detail",
+    "non-destructive editing",
+    "sunset lighting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.080",
+      "end": "00:05:58.140",
+      "title": "RAW exposure management and preserving highlight/shadow detail",
+      "concepts": [
+        "highlights control",
+        "dynamic range discussion for Sony",
+        "dynamic range discussion for Canon",
+        "shadow detail extraction",
+        "exposure decisions"
+      ],
+      "description": "Begins with a reminder to avoid blowing out highlights while conveying that shadow detail must be preserved. The presenter compares dynamic range capabilities of Sony and Canon bodies and emphasizes extracting shadow detail without sacrificing highlight integrity as the open RAW image is reviewed."
+    },
+    {
+      "start": "00:08:02.780",
+      "end": "00:10:01.440",
+      "title": "Four-zone Photoshop processing",
+      "concepts": [
+        "foreground",
+        "two mountain zones",
+        "sky",
+        "zone-based processing rationale"
+      ],
+      "description": "Introduces the core concept of dividing the image into four distinct zones to prevent cross-zone artifacts when adjusting the image. The speaker explains how this segmentation enables large, deliberate adjustments in each zone before later refinement."
+    },
+    {
+      "start": "00:10:23.520",
+      "end": "00:14:22.100",
+      "title": "RAW-to-Photoshop workflow and sky/mountain planning",
+      "concepts": [
+        "dynamic range panel",
+        "five RAW adjustments",
+        "color temperature and tint",
+        "HSL",
+        "color grading",
+        "camera calibration",
+        "zone planning"
+      ],
+      "description": "Outlines five RAW adjustments used in the workflow (dynamic range, color temperature, tint, HSL, color grading, and calibration) and explains the rationale for moving into Photoshop to begin multi-zone processing, with a focus on planning how sky and light will interact with the mountains."
+    },
+    {
+      "start": "00:12:22.680",
+      "end": "00:14:22.100",
+      "title": "Non-destructive sky adjustments using history states",
+      "concepts": [
+        "history panel",
+        "multiple sky variants",
+        "versioning",
+        "non-destructive edits"
+      ],
+      "description": "Demonstrates creating multiple sky variants and using the Photoshop history panel to blend adjustments. Emphasizes non-destructive workflows and the ability to revert or reintroduce edits at will."
+    },
+    {
+      "start": "00:15:16.300",
+      "end": "00:20:52.300",
+      "title": "Lighting the mountains and foreground with targeted painting",
+      "concepts": [
+        "sunset light on mountain faces",
+        "color grading",
+        "camera calibration",
+        "sponge tool for foreground glow",
+        "edge refinement"
+      ],
+      "description": "Details how to simulate sunset-driven light on specific mountain faces, using color grading and calibration to push warmth, and employing the sponge tool to brighten foreground areas. Emphasizes edge control and three-dimensionality through careful brushwork and selective painting."
+    },
+    {
+      "start": "00:21:55.680",
+      "end": "00:25:34.780",
+      "title": "Diffusion and glow with blur + luminosity",
+      "concepts": [
+        "Gaussian blur",
+        "diffusion",
+        "luminosity",
+        "Orton-effect style glow",
+        "selective application"
+      ],
+      "description": "Introduces a diffusion-based glow pass to the background using blur plus luminosity, including masking to keep edges clean and applying glow primarily to background areas to enhance atmospheric mood."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Four-zone and zone-based processing in Photoshop",
+      "timestamp": "00:08:02.780",
+      "confidence": 0.82
+    },
+    {
+      "technique": "History-based sky variant mixing and non-destructive blending",
+      "timestamp": "00:12:30.340",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Painting light on mountain faces to create sunset illusion",
+      "timestamp": "00:17:39.240",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Sponge tool for foreground lighting enhancement",
+      "timestamp": "00:20:34.920",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blur plus luminosity diffusion for atmospheric glow",
+      "timestamp": "00:22:33.820",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Color grading and camera calibration for mood",
+      "timestamp": "00:15:34.680",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Non-destructive editing using history states and reversion",
+      "timestamp": "00:12:22.680",
+      "confidence": 0.77
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:32:49.370906+00:00"
+}

@@ -1,0 +1,182 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/ESDV Images and blends.mp4",
+  "title": "Warping, layering, and color grading in Photoshop: two-image landscape blends (ESDV Images and blends)",
+  "date": {
+    "display": "2021-02-22",
+    "iso": "2021-02-22",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in source metadata (2021-02-22T18:43:35.000000Z)"
+  },
+  "locations": [],
+  "summary": "This video walks through a Photoshop-driven workflow for landscape blending using two images, focusing on composition via warps, depth separation with selective blur, and sky/foreground color grading. The presenter demonstrates perspective and puppet warps to resize and reshape foreground elements, then blends warped results back into the original using history brushes. A series of RAW adjustments, color grading, and selective color work follows to sculpt mood, depth, and tonal separation, culminating in a Milky Way composite that blends two exposures with cloning, diffusion, and horizon glow. Throughout, the emphasis is on preserving a believable scene while achieving three-dimensional depth and a strong visual lead toward the subject.",
+  "topics": [
+    "Photoshop",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Warp",
+    "History Brush",
+    "Blur",
+    "Foreground-Background Separation",
+    "RAW Adjustments",
+    "Curves",
+    "Hue/Saturation",
+    "HSL",
+    "Selective Color",
+    "Color Balance",
+    "Color Grading",
+    "Dodge and Burn",
+    "Edge Control",
+    "Clone Stamp",
+    "Content-Aware Fill",
+    "Milky Way",
+    "Astrophotography",
+    "Two-Exposure Blending",
+    "Dehaze",
+    "Noise Reduction",
+    "Vignette",
+    "Shadow/Highlight",
+    "Two-image Blend",
+    "Leading Lines",
+    "Composition Adjustment",
+    "Layer Masking"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:21",
+      "title": "Intro: focus stacking note, crop decision, and two warp concepts",
+      "concepts": [
+        "focus stacking concept",
+        "crop-based composition",
+        "preparation for warping"
+      ],
+      "description": "The presenter recalls two images were aligned via focus stacking, but one was cropped/warped and thus not stacked. The plan is to demonstrate two main edits: sky color enhancement and warping to adjust composition."
+    },
+    {
+      "start": "00:02:21",
+      "end": "00:04:58",
+      "title": "Perspective Warp introduction: establishing regions and three-box workflow",
+      "concepts": [
+        "perspective warp",
+        "region-based warping",
+        "box constraints"
+      ],
+      "description": "The first warp type shown is Perspective Warp, splitting the scene into regions (mountains/Joshua trees vs. top of trees). The presenter explains limiting to typical three boxes (sometimes more) and demonstrates how warping reshapes size and proportion to improve composition."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:08:38",
+      "title": "Puppet Warp and selective warping: pin placement and masking",
+      "concepts": [
+        "puppet warp",
+        "mesh control",
+        "locking corners",
+        "history brush for blending"
+      ],
+      "description": "A shift to Puppet Warp shows dense meshes for fine control. The speaker demonstrates dropping a warp pin around a cloud, locking corners, and stretching only the target area. They emphasize blending the warp back into the original with the history brush to avoid unintended changes elsewhere."
+    },
+    {
+      "start": "00:08:38",
+      "end": "00:12:25",
+      "title": "Depth management and sky color refinement via RAW and local painting",
+      "concepts": [
+        "local color grading",
+        "sky color enhancement",
+        "background depth via blur"
+      ],
+      "description": "Background blur is introduced as a depth cue to push the background farther away. The RAW editor is used to boost sky color (temperature/tint) and then a selective painting approach (via history brush) helps apply adjustments to specific elements (clouds first, then blending back)."
+    },
+    {
+      "start": "00:12:25",
+      "end": "00:15:10",
+      "title": "Cactus glow with color shifts and edge painting",
+      "concepts": [
+        "curves for glow",
+        "HSL hue/saturation adjustments",
+        "edge painting"
+      ],
+      "description": "A big curves adjustment increases cactus glow; yellow and orange hues are refined in HSL and saturation is increased. Edges are painted to emphasize glow while preserving natural edges; the emphasis remains on controlled, localized color to avoid oversaturation."
+    },
+    {
+      "start": "00:15:10",
+      "end": "00:27:00",
+      "title": "Two-exposure blending, straightening, and sky composition",
+      "concepts": [
+        "tilt/straighten",
+        "two-exposure blend",
+        "clone painting for matching"
+      ],
+      "description": "The speaker shifts to tilt correction for a sun-star image, then explains how to blend two exposures (foreground/mid-ground vs sky) using a clone-stamp workflow to align and merge. The method aims to preserve a believable horizon while increasing depth and color separation. The process includes selecting regions, blending, and matching exposure between layers."
+    },
+    {
+      "start": "00:27:00",
+      "end": "01:00:07",
+      "title": "Milky Way composition: dehaze, selective color, blur, and horizon glow",
+      "concepts": [
+        "Milky Way composite",
+        "dehaze",
+        "selective color",
+        "gaussian/soft blur for depth",
+        "foreground darkening and diffusion"
+      ],
+      "description": "The final major section focuses on Milky Way processing: creating tonal separation between foreground and sky, separating sky colors using dehaze, selective color, and color balance, and applying a horizon glow using a blur that diffuses distant elements. The guide then shows painting the foreground back in where needed and using cloning/edge-control to maintain separation and realism. The presenter notes the difference between 'real' vs 'fake' Milky Way composites and demonstrates a method to blend the galactic core with a believable horizon glow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Focus stacking (conceptual, two images referenced)",
+      "timestamp": "00:00:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Perspective Warp",
+      "timestamp": "00:01:32",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Puppet Warp",
+      "timestamp": "00:03:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "History Brush for selective warp blending",
+      "timestamp": "00:05:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Background blur for depth separation",
+      "timestamp": "00:08:43",
+      "confidence": 0.82
+    },
+    {
+      "technique": "RAW adjustments for sky and color grading",
+      "timestamp": "00:11:13",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Curves and HSL color adjustments for subject glow",
+      "timestamp": "00:13:01",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Two-exposure blending and clone-stamp alignment",
+      "timestamp": "00:25:06",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Milky Way composition: dehaze, selective color, blur",
+      "timestamp": "00:56:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Edge control and soft history brush to erase lines",
+      "timestamp": "00:21:12",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:52:29.058469+00:00"
+}

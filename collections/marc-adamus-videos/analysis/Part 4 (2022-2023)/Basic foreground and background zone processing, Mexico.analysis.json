@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/Basic foreground and background zone processing, Mexico.mp4",
+  "title": "Manual foreground/background zone processing in Photoshop: non-destructive edits, sky integration, and warp-based widening",
+  "date": {
+    "display": "May 31, 2023 (approx.)",
+    "iso": "2023-05-31",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in file metadata"
+  },
+  "locations": [],
+  "summary": "The video presents a photographer’s workshop-style workflow for processing a single image with an emphasis on non-destructive, history-based edits, manual edge blending, and zone-by-zone adjustments. Beginning with broad tonal tweaks and a history-aware workflow, the presenter compares two closely related shots to decide on a manual blend rather than a focus stack. The session then covers careful edge cleanup using the history brush and a high-hardness clone, followed by a sky-replacement approach conducted entirely with traditional tools. A core segment demonstrates three methods to widen the composition (rule of trapezoids, distort+scale in Camera Raw, and an adaptive wide-angle approach), culminating in puppet warp for targeted adjustments. Finally, the picture is processed in three RAW zones (mountains, sky, flowers) with dehaze, whites, and selective color grading to intensify directional light, all while emphasizing non-destructive history-based revision and before/after comparisons.",
+  "topics": [
+    "Photoshop",
+    "History brush",
+    "Clone Stamp",
+    "History states",
+    "Manual sky replacement",
+    "Soft-edge brush",
+    "Perspective Warp",
+    "Rule of Trapezoids",
+    "Camera Raw",
+    "Distort + Scale",
+    "Adaptive Wide Angle",
+    "Puppet Warp",
+    "Warp tools",
+    "Non-destructive editing",
+    "Edge blending",
+    "Zone-based RAW processing",
+    "Dehaze",
+    "Whites technique",
+    "Color grading",
+    "Luminance adjustments",
+    "Local adjustments",
+    "Edge refinement",
+    "High-hardness clone",
+    "Directional light",
+    "Before/after comparison"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:58",
+      "title": "Non-destructive prep and edge blending setup",
+      "concepts": [
+        "global tonal adjustments",
+        "history-based workflow",
+        "non-destructive editing",
+        "edge blending with history states",
+        "two-shot comparison",
+        "clone edge tweaks"
+      ],
+      "description": "The instructor begins with global tonal shifts (shadows/blacks up, highlights down, exposure up) and explains the value of recording a full history in Photoshop to treat steps as reversible states. A side-by-side comparison of two shots is used to decide whether a focus stack is necessary; a manual blend is pursued instead. Early edge refinement relies on a high-hardness clone stamp to transplant a flower between images, with the History Brush later re-applying original edges to maintain realism."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:14:01",
+      "title": "Sky integration approach and foundational warps",
+      "concepts": [
+        "crop and edge handling",
+        "sky alignment",
+        "soft-edge cloning",
+        "no automatic sky replacement",
+        "transition to warps"
+      ],
+      "description": "The focus shifts to preparing for sky integration without automated sky replacement. The sky is manipulated through careful, limited cloning with a soft edge, and the edge is feathered to avoid obvious seams. The presenter introduces later steps for widening the scene via warps and explains that warping is used only after establishing the base composition. The segment also notes the importance of cropping and stabilizing the composition before heavy warping."
+    },
+    {
+      "start": "00:14:01",
+      "end": "00:23:31",
+      "title": "Zone-based RAW processing and color direction of light",
+      "concepts": [
+        "three-zone processing (mountains, sky, flowers)",
+        "RAW-based adjustments",
+        "dehaze",
+        "whites technique",
+        "color grading",
+        "history brush usage"
+      ],
+      "description": "The workflow is reframed as processing in three logical zones within RAW (mountains, sky, flowers) to optimize how each area responds to adjustments. Dehaze is applied to the mountains, whites are used to brighten the sky, and color temperature/tint are tweaked. The presenter demonstrates how to revert to previous history states and selectively re-apply adjustments with a history brush, then moves to targeted refinements (warmth and luminance) to emphasize directional light and cohesion across zones."
+    },
+    {
+      "start": "00:23:31",
+      "end": "00:23:54",
+      "title": "Closing check and directional-light rationale",
+      "concepts": [
+        "before/after comparison",
+        "directional lighting",
+        "final look",
+        "discipline with tools"
+      ],
+      "description": "A final review emphasizes checking the image before/after changes, ensuring a believable directional light and a cohesive transition from shadows to highlights. The speaker reiterates a disciplined tool use (five tools) and summarizes how the directional light guides viewer attention across the composition."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Global tonal remapping and non-destructive history tracking",
+      "timestamp": "00:00:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Non-destructive editing via Photoshop history states",
+      "timestamp": "00:00:33",
+      "confidence": 0.8
+    },
+    {
+      "technique": "High-hardness clone-based edge merging between shots",
+      "timestamp": "00:02:07",
+      "confidence": 0.75
+    },
+    {
+      "technique": "History Brush to reapply original states and clean edges",
+      "timestamp": "00:03:33",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Manual sky integration using soft-edge cloning (no automated sky replacement)",
+      "timestamp": "00:05:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Rule of Trapezoids: Perspective Warp for widening a scene",
+      "timestamp": "00:08:02",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Distort + Scale in Camera Raw to widen field of view",
+      "timestamp": "00:09:30",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Puppet Warp for localized geometric adjustments",
+      "timestamp": "00:12:22",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Three-zone RAW processing (mountains, sky, flowers) with selective adjustments",
+      "timestamp": "00:16:14",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Whites technique in RAW for sky/scene brightness and color balance",
+      "timestamp": "00:18:20",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color grading via selective luminance and warmth adjustments",
+      "timestamp": "00:21:12",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:25:12.617725+00:00"
+}

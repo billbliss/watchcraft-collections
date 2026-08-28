@@ -1,0 +1,175 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Mexico Drone Pano 1-3.mp4",
+  "title": "Drone Panorama Post-Processing: Perspective Warp, Puppet Warp, and Sky Beam Emphasis",
+  "date": {
+    "display": "2024-06-06 (approximate)",
+    "iso": "2024-06-06",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time in metadata; folder path indicates 2024 context; transcript references a multi-night pano workflow but does not provide an exact shooting date."
+  },
+  "locations": [],
+  "summary": "This video presents a step-by-step drone panorama post-processing workflow focused on correcting DJI-stitch artifacts, preserving symmetric geometry, and emphasizing dramatic beams and sunset color. The speaker discusses isolating beam regions, applying perspective warp and trapezoid corrections to widen edges, and then refining with puppet warp to shape individual elements while keeping straight lines intact. The tutorial moves from stitching and cropping a high-resolution pano (~120 MP) to targeted local adjustments (white balance, color grading, and detail recovery) and exploring HDR as a selective fill. It also covers depth-building techniques like simulated lighting, dodging/burning, sky cloning, and careful horizon alignment, finishing with final crop decisions and file-management notes. The content blends technical instruction with aesthetic emphasis on foreground framing, beam drama, and color harmony in a sunset panorama.",
+  "topics": [
+    "drone panorama",
+    "photomerge",
+    "perspective warp",
+    "trapezoid distortion",
+    "DJI stitching",
+    "puppet warp",
+    "beams",
+    "sunset",
+    "foreground lighting",
+    "white balance",
+    "color grading",
+    "dynamic range",
+    "hdr",
+    "auto hdr",
+    "local adjustments",
+    "brush tool",
+    "clone stamp",
+    "sky cloning",
+    "dodge and burn",
+    "simulated light",
+    "glow",
+    "horizon alignment",
+    "crop",
+    "panorama stitching",
+    "120 megapixel",
+    "raw processing",
+    "beams isolation",
+    "photography workflow",
+    "post-processing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:24",
+      "title": "Peripheral distortion management and initial warp",
+      "concepts": [
+        "peripheral distortion",
+        "symmetry",
+        "beam isolation",
+        "photomerge",
+        "global vs local warp"
+      ],
+      "description": "Open discussion on how peripheral distortion lines can warp scenes; emphasis on applying warp symmetrically and preparing subject regions for a photo merge."
+    },
+    {
+      "start": "00:01:49",
+      "end": "00:02:54",
+      "title": "Perspective warp and trapezoid correction for beams",
+      "concepts": [
+        "perspective warp",
+        "selective isolation",
+        "trapezoids",
+        "DJI stitching artifact",
+        "wide-angle look"
+      ],
+      "description": "Isolate beams and terrain (mountain and beam regions) and apply perspective warp; describe how DJI stitching stretches sides to create a wide-angle effect and how trapezoid rules are used to correct it."
+    },
+    {
+      "start": "00:03:14",
+      "end": "00:05:00",
+      "title": "Puppet warp and local warping to preserve lines",
+      "concepts": [
+        "puppet warp",
+        "local warp",
+        "straight lines",
+        "symmetry"
+      ],
+      "description": "Introduce puppet warp to refine warped regions while avoiding distortion of straight lines; construct boundaries (walls) to maintain symmetry around the beam structures."
+    },
+    {
+      "start": "00:06:25",
+      "end": "00:12:10",
+      "title": "Global light adjustments and local color management",
+      "concepts": [
+        "white balance",
+        "color temperature",
+        "tint",
+        "raw adjustments",
+        "brush-based detail restoration",
+        "HDR as fill"
+      ],
+      "description": "Demonstrates targeting the sunlit area with whites adjustments and targeted color tweaks; uses brush application to recover detail without color bleed; discusses HDR as a selective fill for enhancing beam definition."
+    },
+    {
+      "start": "00:15:59",
+      "end": "00:18:32",
+      "title": "Simulated light and depth enhancement",
+      "concepts": [
+        "simulated light source",
+        "dodging and burning",
+        "glow",
+        "depth layering",
+        "foreground vs background lighting"
+      ],
+      "description": "Deals with creating depth by simulating a light source, using dodge/burn and glow strategies to emphasize layers and foreground interest, while balancing color and sky."
+    },
+    {
+      "start": "00:18:32",
+      "end": "00:30:24",
+      "title": "Final touches: sky, horizon, and workflow notes",
+      "concepts": [
+        "sky cloning",
+        "horizon straightening",
+        "crop of warped edges",
+        "foreground lighting balance",
+        "file management"
+      ],
+      "description": "Covers finishing steps like cloning sky to smooth transitions, aligning horizons, cropping warped edges, refining foreground light, and noting non-savings and multiple card/workflow considerations for pano projects."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Photomerge / panorama stitching",
+      "timestamp": "00:01:13",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Perspective Warp (selective region)",
+      "timestamp": "00:01:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Trapezoid distortion correction (DJI-wide look)",
+      "timestamp": "00:02:16",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Puppet Warp for local warps",
+      "timestamp": "00:03:20",
+      "confidence": 0.82
+    },
+    {
+      "technique": "White balance and local color adjustments (Whites, color temp, tint)",
+      "timestamp": "00:06:25",
+      "confidence": 0.75
+    },
+    {
+      "technique": "HDR usage as selective fill",
+      "timestamp": "00:11:28",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Simulated light source and glow (dodge/burn)",
+      "timestamp": "00:15:59",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Sky cloning / foreground integration",
+      "timestamp": "00:17:30",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Horizon alignment and warp-crop of edges",
+      "timestamp": "00:28:59",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:58:27.313155+00:00"
+}

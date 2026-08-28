@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Ireland 1-1.mp4",
+  "title": "Zone-Based Landscape Processing: Light Shaping, HDR, and Sky Techniques",
+  "date": {
+    "display": "March 22, 2025",
+    "iso": "2025-03-22",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in video metadata"
+  },
+  "locations": [],
+  "summary": "This instructional video presents a zone-based approach to landscape post-processing, emphasizing restraint and a stepwise workflow rather than a single 'crank-it-all-up' pass. The presenter explains breaking images into zones (sky, rocks, water, mountains, etc.), weighing global versus zone-specific adjustments, and building a coherent light path through staged techniques. Key practices include extracting shadow detail before expanding exposure, applying color and tonal shifts with non-HSL tools (temperature and tint), using the history brush for selective adjustments, selectively applying HDR-like texture to sky, and employing advanced methods such as manual focus blending, AI-powered removal suggestions, and sky replacement across shots. The workflow stresses avoiding over-processing, sequencing adjustments to guide the eye toward the light, and balancing multiple zones to maintain a natural, cohesive result while demonstrating both basic and more artistic enhancements for coastal landscapes.",
+  "topics": [
+    "zone-based processing",
+    "global vs local adjustments",
+    "shadow extraction",
+    "highlight suppression",
+    "white adjustments (temperature and tint) over HSL",
+    "history brush and painting with selections",
+    "auto HDR in RAW and selective sky treatment",
+    "avoiding over-processing in strong-lit scenes",
+    "AI-assisted remove tool / content-aware removal",
+    "focus stacking and manual blend with clone stamp",
+    "sky replacement across shots",
+    "dehaze and atmospheric perspective",
+    "edge masking with hard brushes",
+    "simulated light source via whites and color grading",
+    "four-zone separation (sky, water, mountains, island) for complex scenes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:00",
+      "title": "Philosophy and Zone Concept",
+      "concepts": [
+        "zone-based workflow",
+        "less is more",
+        "global vs local adjustments"
+      ],
+      "description": "Introductory rationale for a restrained processing approach and the core idea that an image can be divided into zones (e.g., sky vs rocks) that may require different adjustments. The speaker notes that more zones mean more processing time and complexity."
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:07:53",
+      "title": "Light Direction and Transition Planning",
+      "concepts": [
+        "directional light",
+        "two light types",
+        "transition toward light"
+      ],
+      "description": "Discussion of shaping light by directing adjustments toward the source. The speaker identifies two lighting scenarios: light entering the frame from outside and light originating inside the frame, using side light to define form and guiding placement for subsequent edits."
+    },
+    {
+      "start": "00:07:53",
+      "end": "00:12:12",
+      "title": "Shadow Extraction and Path to Light",
+      "concepts": [
+        "shadow detail extraction",
+        "global adjustment path",
+        "flattening to a blank canvas"
+      ],
+      "description": "Technique to extract shadow detail first, then move adjustments in one directional flow (toward brighter, lighter tones). This framing helps avoid competing directional edits and creates a clearer path to the light."
+    },
+    {
+      "start": "00:12:12",
+      "end": "00:16:15",
+      "title": "White Adjustments, Color, and History Painting",
+      "concepts": [
+        "white adjustments",
+        "color temperature",
+        "tint",
+        "history brush",
+        "painting with selections"
+      ],
+      "description": "Advocates using whites, temperature, and tint rather than HSL for color control. Demonstrates history painting workflows and selective painting with brushes and selections to apply adjustments to targeted zones."
+    },
+    {
+      "start": "00:16:15",
+      "end": "00:21:38",
+      "title": "Auto HDR and Sky Selectivity",
+      "concepts": [
+        "auto HDR in RAW",
+        "tone mapping",
+        "selective sky adjustments"
+      ],
+      "description": "Introduces an Auto HDR-like approach, including multi-pass adjustments to the sky and selective texture/contrast, while cautioning against applying HDR uniformly across the scene to avoid unnatural results."
+    },
+    {
+      "start": "00:21:38",
+      "end": "00:29:50",
+      "title": "Four-Zone Separation and Atmospheric Work",
+      "concepts": [
+        "zone separation",
+        "four zones (sky, water, mountains, island)",
+        "dehaze",
+        "edge masking"
+      ],
+      "description": "In more complex coastal scenes, the speaker outlines separating the image into multiple zones (sky, water, landscape, and an island) and using atmospheric adjustments to enhance depth, including dedicated masking approaches for hard-to-select edges."
+    },
+    {
+      "start": "00:29:50",
+      "end": "00:39:50",
+      "title": "Sky Replacement and Composition Adjustments",
+      "concepts": [
+        "sky replacement",
+        "crop and alignment",
+        "rule of thirds",
+        "sky blending across shots",
+        "clone stamp"
+      ],
+      "description": "Demonstrates acquiring a different sky from another shot, cropping and aligning, and blending to preserve composition. Discusses considerations of light direction and space to support a convincing sky replacement."
+    },
+    {
+      "start": "00:39:50",
+      "end": "00:52:00",
+      "title": "Simulated Light and Final Polish",
+      "concepts": [
+        "simulated light source",
+        "color grading",
+        "dodge/burn",
+        "final adjustments"
+      ],
+      "description": "Covers creating a simulated sun and driving the composition with targeted dodging/burning and color grading to produce a cohesive, dramatic result while preserving overall color balance."
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:40",
+      "title": "Focus Blending and Manual Detailing",
+      "concepts": [
+        "manual focus blend",
+        "clone stamp",
+        "hard edge brush"
+      ],
+      "description": "Shows blending two focus positions with a hard-edge brush and clone-stamp workflow to produce a seamless focal balance across foreground and background elements."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Zone-based processing and multi-zone adjustment",
+      "timestamp": "00:00:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Shadow detail extraction and single-path processing",
+      "timestamp": "00:07:53",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Auto HDR-like sky enhancement with selective opacity",
+      "timestamp": "00:13:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky replacement across shots with clone-stamp alignment",
+      "timestamp": "00:33:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Simulated light source using whites and color grading",
+      "timestamp": "00:48:20",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual focus blending using clone stamp (hard-edge brush)",
+      "timestamp": "00:46:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:47:25.860583+00:00"
+}

@@ -1,0 +1,182 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Patagonia 2026 2-1.mp4",
+  "title": "Patagonia 2026 Drone Panorama and Post-Processing Workflow",
+  "date": {
+    "display": "Approx. 2026-04-17",
+    "iso": "2026-04-17",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata (2026-04-17); video filename indicates Patagonia 2026 context"
+  },
+  "locations": [
+    {
+      "name": "Patagonia, Monte Fitz Roy region, Argentina",
+      "confidence": 0.6,
+      "basis": "Transcript repeatedly references Patagonia and Fitz Roy; scene context and mountains align with Monte Fitz Roy region"
+    }
+  ],
+  "summary": "The video presents an on-location workflow for drone-based panorama work in Patagonia, focusing on planning wide and panoramic shots, evaluating light and composition, and executing a non-destructive, tiered post-processing workflow in RAW and Photoshop. It covers panorama stitching with PT GUI, projection decisions (rectilinear vs cylindrical), cropping choices (2x3, 4x5, wide-angle) to optimize leading lines, and a sequence of local and global adjustments (whites, color temperature, tint, color separation, selective color, color grading, and camera calibration). The narration also details using non-destructive techniques like the history brush, multiple adjustment layers, and targeted tools (dodge/burn, puppet warp, perspective warp, and blur vignette) to balance mountains, sky, and foreground while preserving atmosphere.",
+  "topics": [
+    "drone panoramas",
+    "panorama vs. free pano",
+    "dynamic range and processing time",
+    "rule of six composition",
+    "2x3 and 4x5 cropping options",
+    "leading lines in landscape framing",
+    "panorama lighting evaluation and subject separation",
+    "RAW whites adjustment workflow",
+    "color temperature and tint adjustments",
+    "history brush and unlimited history",
+    "Selective Color and color separation (50-150) technique",
+    "color grading across highlights, mid-tones, and shadows",
+    "blue/gold color calibration (camera calibration)",
+    "PT GUI panorama stitching and exposure matching with Shift",
+    "projection choices: rectilinear vs cylindrical",
+    "adaptive wide-angle distortion and crop",
+    "zone-based local adjustments",
+    "removal/cleanup tools (remove tool)",
+    "puppet warp and perspective warp for geometry",
+    "blur vignette for natural falloff",
+    "dodge and burn and color impact",
+    "atmosphere and middle-of-day shots as a compositional strength",
+    "edge and edge-feathering attention for depth",
+    "layer-based vs history-based editing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:19",
+      "title": "Intro and panorama framing: shot variety, lighting, and processing indicators",
+      "concepts": [
+        "drone-origin panoramic framing",
+        "landscape-to-intimate scene range",
+        "lighting variety and avoidance of extreme HDR",
+        "width and dynamic range as predictors of processing time"
+      ],
+      "description": "The narrator sets the scene by contrasting grand landscape stitches with small riverfront intimate frames, notes lighting variations, and introduces two quick processing cues: wider images and higher dynamic range tend to require more localized, blended adjustments."
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:07:11",
+      "title": "Rule of six and initial panorama evaluation",
+      "concepts": [
+        "rule of six: grid of six equal rectangles",
+        "leading elements and focal points in each sixth",
+        "criteria for discarding panos without proper leading lines"
+      ],
+      "description": "The speaker emphasizes a compositional rule—divide the frame into six equal sections and ensure each contains something contributing to the composition—before selecting a panorama that has a strong leading line and avoid empty sixths."
+    },
+    {
+      "start": "00:07:12",
+      "end": "00:12:11",
+      "title": "Panorama selection and early light assessment",
+      "concepts": [
+        "panorama vs single-shot evaluation",
+        "light distribution and scene depth",
+        "decision-making about which panorama to pursue based on light and composition"
+      ],
+      "description": "Discussion centers on choosing between multiple panorama candidates, comparing wide-angle vs free-pano approaches, and prioritizing shots with favorable light distribution and leading-line continuity."
+    },
+    {
+      "start": "00:12:12",
+      "end": "00:17:56",
+      "title": "RAW post-processing basics: whites, temp/tint, and history brush intro",
+      "concepts": [
+        "whites adjustment in Camera Raw",
+        "exposure, shadows, blacks, and clipping management",
+        "color temperature and tint tweaks",
+        "unlimited history as a pseudo-layer workflow"
+      ],
+      "description": "The presenter demonstrates a quick, selective approach to RAW adjustments (whites replacement, temperature/tint shifts) and introduces the history brush as a non-destructive editing method, explaining how history can function like layers to restore or modify previous steps."
+    },
+    {
+      "start": "00:15:56",
+      "end": "00:17:56",
+      "title": "Selective Color and color separation fundamentals",
+      "concepts": [
+        "Selective Color vs HSL",
+        "color separation technique (reds/yellows toward magenta/green)",
+        "edge cases and masking-like adjustments on whites/blacks"
+      ],
+      "description": "A focused explanation of using selective color to selectively modify whites, blacks, and color channels, including a demonstration of color separation to enhance greens and reds, with cautions about artifact risk and natural saturation."
+    },
+    {
+      "start": "00:18:46",
+      "end": "00:34:16",
+      "title": "Stitching workflows: PT GUI, projection choices, and composition tweaks",
+      "concepts": [
+        "PT GUI stitching for more control",
+        "rectilinear vs cylindrical projections",
+        "matching exposure across stitched files (Shift control)",
+        "cropping and distortion management (adaptive wide angle, 4x5 vs 24 mm equivalence)",
+        "removing extra drones and edge artifacts"
+      ],
+      "description": "This section walks through selecting files, aligning and stitching in PT GUI, adjusting projection to optimize perspective and distortion, and exploring wide-angle output with post-stitch cropping. It also covers workflow considerations when edge artifacts or extraneous drones intrude into the composition."
+    },
+    {
+      "start": "00:34:16",
+      "end": "01:08:11",
+      "title": "Advanced multi-zone color grading, local adjustments, and final refinements",
+      "concepts": [
+        "multi-zone/zone-based adjustments",
+        "4-zone color grading, white/black balance, and blue handling",
+        "color calibration (blue/gold) and selective color refinements",
+        "dodge & burn, depth layering, and atmosphere preservation",
+        "edge refinement, vignette strategies (blur vignette)",
+        "final checks: atmosphere and atmospheric priority in mid-day shoots"
+      ],
+      "description": "The final portion delves into complex local adjustments across multiple zones (mountain, sky, foreground, foliage), including deep dives into color grading with highlights/shadows, calibration and selective color polish, and depth techniques like layer separation and controlled blur vignette. It culminates in dodge/burn planning, perspective concerns, and an emphasis on preserving atmospheric mid-day shots as a decisive factor in image quality."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Stitching panoramas with PT GUI (exposure matching and Shift control)",
+      "timestamp": "00:23:40",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Rule of six compositional grid for panorama evaluation",
+      "timestamp": "00:02:59",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Whites adjustment in Camera Raw with temperature/tint",
+      "timestamp": "00:09:23",
+      "confidence": 0.7
+    },
+    {
+      "technique": "History brush as unlimited history for non-destructive edits",
+      "timestamp": "00:12:11",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color separation (50-150) and selective color for targeted color control",
+      "timestamp": "00:16:01",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Adaptive wide-angle cropping and rectilinear/cylindrical projection decisions",
+      "timestamp": "00:24:18",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Puppet Warp for subtle geometric adjustments in landscape composites",
+      "timestamp": "00:35:46",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Blur vignette to create natural falloff",
+      "timestamp": "00:37:24",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Dodge and burn with color-aware adjustments",
+      "timestamp": "00:49:57",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:49:18.117557+00:00"
+}

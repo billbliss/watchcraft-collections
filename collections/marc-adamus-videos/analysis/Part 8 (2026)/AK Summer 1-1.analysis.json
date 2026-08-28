@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/AK Summer 1-1.mp4",
+  "title": "Minimal-Tool Landscape Post-Processing: Transitions, Depth, and Dynamic Range",
+  "date": {
+    "display": "July 15, 2026 (approx.)",
+    "iso": "2026-07-15",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata from source video: 2026-07-15T05:06:09Z."
+  },
+  "locations": [
+    {
+      "name": "Northern Alaska (explicit mention; probable shooting context)",
+      "confidence": 0.6,
+      "basis": "Transcript explicitly states 'northern alaska' as a prior shooting location (00:14:10). The line frames it as a past trip rather than a current shooting site."
+    },
+    {
+      "name": "Brady Glacial Rivers (explicit mention; travel context)",
+      "confidence": 0.6,
+      "basis": "Transcript references 'the Brady Glacial Rivers today' as the planned subject for a current shoot (00:19:42). It appears in talking points about future/ongoing shoots rather than a fixed studio location."
+    },
+    {
+      "name": "Oman (explicit mention; landscape example)",
+      "confidence": 0.6,
+      "basis": "Transcript includes 'here in Oman' while discussing forest lighting and backlighting effects (approx. 00:25:28). Indicated as an example location within the trip, not necessarily the shooting location for all footage."
+    }
+  ],
+  "summary": "This video presents a photographer’s philosophy of post-processing as an artistic, flow-driven practice rather than a recipe-based, tool-heavy workflow. The speaker argues for a minimal toolkit—roughly eight to ten tools—that are combined to adjust color, light, and atmosphere, while emphasizing how experience (roughly a thousand hours) enables a true sense of what each adjustment will do before you make it. The core instructional themes center on composition transitions (dark-to-light, big-to-small, cool-to-warm) and the use of spacing to guide the viewer along a visual path. Dynamic range and exposure management are treated as essential skills, with emphasis on how to read histograms, protect highlights, recover shadows, and plan before capture. The speaker also contrasts eye perception (motion and dynamic range) with camera limitations, advocates learning the “why” behind techniques rather than blindly following recipes, and demonstrates how backlighting and wide-angle distortion can enhance depth when used purposefully. The content blends theoretical landscape principles with practical techniques, including a focus on viewer guidance, depth creation, and a unique workflow philosophy that eschews traditional, engineer-designed Photoshop structures in favor of an artist-driven approach.",
+  "topics": [
+    "Minimal-tool Photoshop workflow",
+    "Eight to ten tools for color, light, and atmosphere",
+    "Tools for color, tonal, and atmospheric adjustments",
+    "Haze, diffusion, and fog as atmosphere tools",
+    "Eight-to-ten tool philosophy and 'less is more'",
+    "1000-hour proficiency benchmark for post-processing",
+    "Why vs how: learning through understanding, not recipes",
+    "Flow state in editing and artistic practice",
+    "Visual path and viewer guidance in landscapes",
+    "Spacing and transitions in composition",
+    "Big-to-small transitions with wide-angle perspectives",
+    "Dark-to-light transitions and level of blacks",
+    "Dynamic range and light/shadow structure",
+    "Exposure planning, histograms, and highlight management",
+    "Motion vs dynamic range in eye versus camera",
+    "Backlighting techniques for depth and form",
+    "Pre-visualization and depth creation in landscapes",
+    "Direct look-into-light vs look-away lighting strategies",
+    "Recommended foundational learning resources (philosophy, workflow basics, technical basics)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:50",
+      "title": "Philosophy and artistic approach to photography",
+      "concepts": [
+        "art as human experience",
+        "flow and mood-driven processing",
+        "importance of experience over technical recipe-following",
+        "avoidance of over-reliance on AI-driven summaries"
+      ],
+      "description": "The speaker frames photography as an art that emphasizes human experience and mood over rigid technical instructions. He discusses the aim of letting the mood of an image guide processing and the need for strong technical proficiency to reach a flow state, while de-emphasizing a purely recipe-based workflow."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:09:50",
+      "title": "Tool philosophy: minimal toolkit and proficiency",
+      "concepts": [
+        "eight to ten core tools",
+        "fewer tools, more predictability",
+        "the downside of tool clutter and 'recipes'",
+        "1000-hour proficiency target as a practical baseline"
+      ],
+      "description": "This section argues for a small, coherent toolset in Photoshop, arguing that fewer tools enable more reliable, predictable outcomes. The speaker suggests a rough 1,000 hours of practice to reach proficiency such that tool behavior is known instinctively."
+    },
+    {
+      "start": "00:09:50",
+      "end": "00:18:20",
+      "title": "Why over how: learning approach and workflow philosophy",
+      "concepts": [
+        "why-doing-first approach",
+        "artistic workflow vs engineered workflows",
+        "custom, artist-driven methods to learning Photoshop",
+        "progression from philosophy to workflow and technique"
+      ],
+      "description": "This part emphasizes learning the rationale behind edits (the 'why') rather than simply how to perform each step. The speaker introduces a personalized, artist-centric workflow and stresses that different photographers will have different tools and processes, but the underlying principles should guide final outcomes."
+    },
+    {
+      "start": "00:18:20",
+      "end": "00:28:50",
+      "title": "Landscape fundamentals: spacing, transitions, and visual path",
+      "concepts": [
+        "spacing between elements",
+        "transitions: dark-to-light, big-to-small, cool-to-warm",
+        "visual path to guide viewer into the scene",
+        "the role of depth and three-dimensional impression in landscapes"
+      ],
+      "description": "This section covers core landscape-compositional ideas: how to arrange elements with appropriate spacing, use transitions to guide the eye, and create a coherent visual path that leads the viewer through the scene. Examples discuss how to imply depth and movement even in static images."
+    },
+    {
+      "start": "00:28:50",
+      "end": "00:30:00",
+      "title": "Dynamic range, exposure, and lighting strategies",
+      "concepts": [
+        "dynamic range as shape of light and shadow",
+        "avoidance of 'harsh light' concept as a fallacy",
+        "exposure planning and histogram interpretation",
+        "look-into-light vs look-away lighting decisions",
+        "backlighting for form and depth"
+      ],
+      "description": "The final section focuses on dynamic range management, exposure decisions, histogram use, and lighting strategies (including when to look into or away from light). The speaker explains how backlighting and right-time mist or glow can reveal form and depth without creating distracting shadows."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Minimal toolset and 'less is more' approach to Photoshop workflows",
+      "timestamp": "00:04:01",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Eight-to-ten tools: color, light, and atmosphere adjustments",
+      "timestamp": "00:04:11",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Big-to-small transition using 10mm lens to reveal depth in landscapes",
+      "timestamp": "00:15:14",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dark-to-light and cool-to-warm transitions to guide eye and create depth",
+      "timestamp": "00:16:54",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dynamic range management and highlight/shadow control (pre-visualization and recovery)",
+      "timestamp": "00:19:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Look-into-light vs look-away lighting strategy across the day",
+      "timestamp": "00:24:26",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Why-over-how teaching approach; flow state and artistic motivation",
+      "timestamp": "00:06:30",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:32:04.499351+00:00"
+}

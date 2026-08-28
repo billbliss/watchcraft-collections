@@ -1,0 +1,174 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/AK 3-1.mp4",
+  "title": "Advanced Single-Image Landscape Post-Processing in Photoshop (AK 3-1)",
+  "date": {
+    "display": "August 23, 2025",
+    "iso": "2025-08-23",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded_creation_time metadata from the video file; folder indicates 2024-2025 context"
+  },
+  "locations": [
+    {
+      "name": "Mendenhall Glacier (Alaska)",
+      "confidence": 0.66,
+      "basis": "Transcript explicitly mentions 'Mendenhall here'; filename and Alaska context ('AK') support location inference"
+    }
+  ],
+  "summary": "This video presents an in-depth, single-image post-processing workflow for landscape photography, with a strong emphasis on crafting light, depth, and color in Photoshop rather than batch-processing multiple frames. The presenter walks through making the first image work by examining exposure, dynamic range, and foreground brightness, then demonstrates a multi-zone approach (sky, mountains, foreground) for targeted RAW adjustments, color grading, and light shaping. The tutorial showcases non-destructive editing via history-based layers, the use of an adaptive wide-angle modification and symmetry-focused cropping, and advanced tools and techniques (diffusion, level of blacks, dodge/burn for water and highlights, clone-paint for blending exposures, selective color for color separation, and edge refinement). Throughout, the emphasis is on leading the viewer’s eye toward light, preserving natural color, and saving multiple versions to revisit decisions, all illustrated against ice-cave and sunset scenes in Alaska.",
+  "topics": [
+    "Half-stop bracketing",
+    "Expose to the right (ETTR) concept",
+    "Single-image RAW processing workflow",
+    "ISO and dynamic range relationship",
+    "Adaptive Wide Angle filter in post-processing",
+    "Cropping for symmetry",
+    "Directionally-driven lighting in post (left-side light)",
+    "History-based layers for non-destructive edits",
+    "Zone-based processing (sky, mountains, foreground)",
+    "Whites adjustment in RAW replacing exposure for sky",
+    "Color temperature and color grading (blue/gold balance)",
+    "Blue-gold filter and twilight color dynamics",
+    "Level of blacks and diffusion for depth",
+    "Dodge & Burn (shadow and mid-tone) for water/foreground",
+    "Edge refinement and handling unselectable edges with soft brushes",
+    "Clone Stamp / Clone Paint for blending exposures",
+    "Selective Color vs HSL for color separation",
+    "Orton/diffusion textures for depth and atmosphere",
+    "Versioning and Save As for non-destructive workflow",
+    "Camera-targeted perspective changes and puppet/workspace warp concepts"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:03:33.000",
+      "title": "Workflow basics, first-image selection, and initial exposure planning",
+      "concepts": [
+        "workflow basics",
+        "selecting the first image",
+        "half-stop bracketing vs one-stop bracketing",
+        "expose to the right concept"
+      ],
+      "description": "Sets up the 'post-processing system' premise, explains processing the first image rather than scanning a batch, and introduces the rationale for half-stop bracketing and ETTR-oriented thinking."
+    },
+    {
+      "start": "00:03:33.000",
+      "end": "00:10:00.000",
+      "title": "Dynamic range, ISO considerations, and foreground exposure",
+      "concepts": [
+        "dynamic range",
+        "ISO vs dynamic range",
+        "foreground exposure adjustments",
+        "exposing foreground without noise"
+      ],
+      "description": "Discusses how ISO affects dynamic range (doubling ISO reduces range by about 1/3 stop), pricing foreground brightness, and the logic of keeping ISO low while preparing to reveal foreground detail."
+    },
+    {
+      "start": "00:10:00.000",
+      "end": "00:21:00.000",
+      "title": "Initial edits: RAW whites, color temperature, and zoning",
+      "concepts": [
+        "RAW whites adjustment",
+        "color temperature control",
+        "zone-based processing",
+        "adaptive wide-angle filter",
+        "cropping for symmetry"
+      ],
+      "description": "Shows replacing exposure with a whites-focused RAW adjustment, balancing color temperature, applying a wide-angle transformation for composition, and cropping to achieve symmetry."
+    },
+    {
+      "start": "00:21:00.000",
+      "end": "01:15:00.000",
+      "title": "Ice cave processing: three-zone approach and directional lighting",
+      "concepts": [
+        "three-zone processing (sky, mountains, foreground)",
+        "directional light from the left",
+        "level of blacks",
+        "diffusion",
+        "water as leading line",
+        "edge refinement"
+      ],
+      "description": "Details a three-zone approach for ice-cave scenes (and notes a four-zone mindset when relevant), emphasizes creating directional light from the left, expands shadows, uses diffusion to imply distance, and refines edges to maintain natural transitions."
+    },
+    {
+      "start": "01:15:00.000",
+      "end": "01:41:40.000",
+      "title": "Non-destructive edits and advanced texture work",
+      "concepts": [
+        "history layers",
+        "clone-paint blending",
+        "edge refinement with soft brush",
+        "diffusion and Orton-style texture",
+        "selective color vs HSL for color separation"
+      ],
+      "description": "Demonstrates maintaining a fully non-destructive workflow via history-based edits, employing clone-paint to blend exposures, refining edges, and using diffusion-style texture to enhance depth and atmosphere while discussing color-separation tactics."
+    },
+    {
+      "start": "01:41:40.000",
+      "end": "01:42:02.000",
+      "title": "Wrap-up and future topics",
+      "concepts": [
+        "saving versions",
+        "drone processing",
+        "black-and-white workflows"
+      ],
+      "description": "Concludes with notes on saving multiple versions, preserving history, and previewing upcoming topics such as drone footage and additional black-and-white processing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Bracketing half-stop exposure",
+      "timestamp": "00:00:41.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adaptive Wide-Angle filter to reshape perspective",
+      "timestamp": "00:04:31.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "History-based layers for non-destructive edits",
+      "timestamp": "00:06:33.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Zone-based processing (sky, mountains, foreground)",
+      "timestamp": "00:09:11.000",
+      "confidence": 0.65
+    },
+    {
+      "technique": "RAW whites adjustment replacing exposure; color temperature",
+      "timestamp": "00:09:32.000",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Level of blacks and diffusion for depth",
+      "timestamp": "00:10:46.000",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Dodge & Burn for water and leading lines",
+      "timestamp": "00:24:04.000",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Clone Stamp / Clone Paint for blending exposures",
+      "timestamp": "00:32:13.000",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Selective Color for color separation",
+      "timestamp": "01:25:42.000",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Non-destructive versioning with Save As",
+      "timestamp": "01:42:00.000",
+      "confidence": 0.5
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:12:00.713941+00:00"
+}

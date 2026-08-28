@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/CL 1-1.mp4",
+  "title": "Multi-zone RAW workflow and depth-building edits around Wizard Island (Crater Lake scene)",
+  "date": {
+    "display": "2023-06-08 (approximate, export timestamp)",
+    "iso": "2023-06-08T17:17:44Z",
+    "precision": "unknown",
+    "confidence": 0.5,
+    "basis": "Embedded creation time suggests 2023; transcript references Wizard Island in a lake scene, implying Crater Lake context but no explicit date"
+  },
+  "locations": [
+    {
+      "name": "Wizard Island (probable Crater Lake, Oregon)",
+      "confidence": 0.6,
+      "basis": "Transcript explicitly mentions 'Wizard Island' and lake context; Crater Lake is the location that hosts Wizard Island, inferred from the scene description."
+    }
+  ],
+  "summary": "This tutorial-style video walks through a landscape edit centered on a Wizard Island scene, with emphasis on expanding shadows, controlling highlights, and blending sky, water, and island using a zone-based RAW workflow. The presenter repeatedly uses the history brush to combine separate adjustments, applies noise reduction early, and employs very soft brushes to maintain seamless transitions. Key moments include a multi-pass HDR-like texture boost, color grading of highlights, painting adjustments into water and the island, and a final depth-adding blur and simulated light source to enhance horizon glow. The transcript provides concrete micro-techniques such as being deliberate with brush hardness, opacity, and selective painting to achieve depth and realism without over-processing the trees.",
+  "topics": [
+    "Wizard Island",
+    "Crater Lake",
+    "Photoshop",
+    "Camera Raw",
+    "RAW processing",
+    "zone-based editing",
+    "history brush",
+    "noise reduction",
+    "soft brush",
+    "highlights",
+    "shadows",
+    "color grading",
+    "dodging and burning",
+    "sky color",
+    "water color",
+    "horizon blur",
+    "depth",
+    "simulated light source",
+    "HDR-like processing",
+    "local adjustments",
+    "edge masking",
+    "blur 400",
+    "lens corrections",
+    "texture enhancement"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:13",
+      "title": "Initial RAW shadow expansion and baseline setup",
+      "concepts": [
+        "expand shadows",
+        "prevent highlight blowout",
+        "startpoint for processing",
+        "RAW adjustments"
+      ],
+      "description": "The presenter describes expanding all shadows as the first step, keeping highlights from blowing out by pulling exposure and shadows, and then preparing the image for RAW adjustments. Notes about not needing to record every step and establishing a solid starting point are included."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:02:21",
+      "title": "Noise handling and history-mixed adjustments",
+      "concepts": [
+        "early noise reduction",
+        "note on grain and dynamic range",
+        "history brush to blend adjustments"
+      ],
+      "description": "Discussion of reducing noise at the start (especially for high ISO or limited dynamic range cameras). The workflow introduces mixing two adjustment states via the history brush so future adjustments can be blended into the current state."
+    },
+    {
+      "start": "00:02:21",
+      "end": "00:04:01",
+      "title": "Zone-based RAW workflow and horizon/sky separation",
+      "concepts": [
+        "zone-based adjustments",
+        "sky and water as a zone",
+        "managing exposure for different areas"
+      ],
+      "description": "The shooter proposes breaking the image into zones (sky, water, horizon, trees) and applying coordinated RAW adjustments per zone, starting with lowering exposure and boosting shadows/blacks while lifting whites, followed by initial color-temperature and tint tweaks."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:05:31",
+      "title": "Sky-driven color refinement and controlled bleed",
+      "concepts": [
+        "dramatic sky color",
+        "bleeding adjustments into landscape",
+        "soft blending with low opacity"
+      ],
+      "description": "A vivid sky is created through temperature/tint tweaks and exaggerating sky color, then the adjustment is softened and feathered into the landscape using a low-opacity history brush for seamless transitions."
+    },
+    {
+      "start": "00:05:40",
+      "end": "00:06:08",
+      "title": "Auto HDR-like texture boost (iterative)",
+      "concepts": [
+        "clarity/shadows/denoise combo",
+        "iterative pass (3x)",
+        "texture enhancement in whites"
+      ],
+      "description": "An Auto HDR-inspired technique is performed: high clarity and shadow recovery paired with noise reduction, repeated three times to amplify texture in the sky, followed by selective application to foreground as needed."
+    },
+    {
+      "start": "00:06:08",
+      "end": "00:08:11",
+      "title": "Foreground-light handling and selective highlight painting",
+      "concepts": [
+        "foreground adjustment",
+        "highlight luminosity",
+        "color grading of highlights",
+        "painting highlights into water and island"
+      ],
+      "description": "Additional RAW adjustments are used to brighten the foreground, then color grading is applied to the highlights. The highlights are painted back into the water and the island using a history brush, ensuring the adjustments flow across the composition."
+    },
+    {
+      "start": "00:08:11",
+      "end": "00:11:31",
+      "title": "Depth through horizon-blur and edge control",
+      "concepts": [
+        "blurring to push depth",
+        "large blur for background",
+        "edge masking of Wizard Island",
+        "color and luminosity balance in blur"
+      ],
+      "description": "A strong depth cue is created by applying a large blur (described as 400 pixels) to the background sky, with color and luminosity adjustments added. Wizard Island is selectively preserved with a harder-edge brush to keep it distinct, and the blur’s color is tuned to support depth perception."
+    },
+    {
+      "start": "00:12:22",
+      "end": "00:12:53",
+      "title": "Final touches: simulated light source and tweaks",
+      "concepts": [
+        "simulated sun/light source",
+        "horizon glow",
+        "final tweaks and glitch note"
+      ],
+      "description": "The final steps discuss creating a simulated light source to brighten the horizon and add glow, followed by minor refinements. The presenter also notes an occasional technical hiccup (internet/connection) during the session."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Zone-based RAW adjustments (sky vs. water vs. horizon)",
+      "timestamp": "00:02:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History brush to blend adjustments from different states",
+      "timestamp": "00:02:57",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Very soft brush with zero hardness for seamless blending",
+      "timestamp": "00:04:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Auto HDR-like texture boost (clarity/shadows/denoise, iterated)",
+      "timestamp": "00:05:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective color grading of highlights and painting into target areas",
+      "timestamp": "00:07:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Large-background blur to create depth and then refine with masking",
+      "timestamp": "00:09:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Edge masking to isolate foreground elements (Wizard Island)",
+      "timestamp": "00:10:35",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Simulated light source for horizon glow",
+      "timestamp": "00:12:22",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:05:12.498019+00:00"
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Expedition 2-11.mp4",
+  "title": "From Crop to Beam: Post-Processing a High-Contrast Landscape Shot",
+  "date": {
+    "display": "June 4, 2026",
+    "iso": "2026-06-04",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time in metadata; folder/file naming indicates 2026 session; transcript corroborates mid-2020s workflow."
+  },
+  "locations": [],
+  "summary": "This video is a hands-on teardown of post-processing a high-contrast landscape image. The author details a sequence of decisions beginning with tight cropping and perspective warp, then expands tonal range while preserving detail through a two-pass color grade. The workflow emphasizes directional light development, horizon-driven color balance, and layer separation via selective blues. The tutor also demonstrates fine-tuning with dodge/burn, glow, and edge treatments, and culminates with advanced elements such as beam creation and careful compositing (including a bird insertion) plus pre-processing steps like noise reduction. The narrative stresses starting from a darker baseline, maintaining a forward path toward light rather than repeatedly brightening disparate regions, and using large-brush tools for cohesive, natural results.",
+  "topics": [
+    "crop",
+    "perspective warp",
+    "edge-to-edge cropping",
+    "trapezoid rule in perspective",
+    "dynamic range expansion",
+    "blending original versus adjusted layer",
+    "two-pass color grading",
+    "white/neutral balance adjustments",
+    "warmth/tone shifts",
+    "blue extraction for layer separation",
+    "horizon-driven color grading",
+    "glow and light bleed",
+    "foreground shading and texture",
+    "mid-tone dodge",
+    "highlight dodge",
+    "halo removal",
+    "sky simplification",
+    "noise reduction prep",
+    "bird insertion with Healing Stamp",
+    "dust removal and spot cleanup",
+    "beams creation technique",
+    "color matching for beams",
+    "edge hardening of beams",
+    "de-emphasizing beams to avoid over-editing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:18",
+      "title": "Cropping, edge alignment and perspective correction",
+      "concepts": [
+        "crop",
+        "perspective warp",
+        "edge alignment",
+        "trapezoid rule"
+      ],
+      "description": "The shot is cropped to the edges of the foreground trees, then perspective warp is used to align elements and establish a trapezoidal correction so bushes appear to lean inward."
+    },
+    {
+      "start": "00:01:18",
+      "end": "00:02:31",
+      "title": "Dynamic range planning and initial light development",
+      "concepts": [
+        "dynamic range expansion",
+        "exposure adjustment",
+        "blend with original"
+      ],
+      "description": "Dynamic range is expanded, then the exposure is adjusted downward to create a controlled, single-direction light flow. The original image is blended back in to refine tonal balance while keeping a directional light path."
+    },
+    {
+      "start": "00:02:31",
+      "end": "00:04:32",
+      "title": "Color grading, horizon emphasis and blues handling",
+      "concepts": [
+        "two-pass color grading",
+        "white adjustment",
+        "warmth application",
+        "horizon emphasis",
+        "blue extraction"
+      ],
+      "description": "Color grading is performed more than once to achieve the desired range. A white adjustment and subtle warmth lay the foundation, followed by a second pass to refine the overall color balance, with blues extracted to separate foreground layers from the distant hills behind trees."
+    },
+    {
+      "start": "00:04:32",
+      "end": "00:07:52",
+      "title": "Glow, light bleed, and foreground texture enhancement",
+      "concepts": [
+        "glow",
+        "light bleed",
+        "foreground shading",
+        "large brush work"
+      ],
+      "description": "Subtle glow is introduced to hint at light slipping through the scene and a light bleed is shaped to guide the viewer through the horizon while large brushes texture and balance the foreground."
+    },
+    {
+      "start": "00:07:52",
+      "end": "00:12:10",
+      "title": "Refinement: dodges, halos, and minor crops",
+      "concepts": [
+        "mid-tone dodge",
+        "highlight dodge",
+        "halo removal",
+        "crop refinement"
+      ],
+      "description": "Mid-tone and highlight dodges draw attention to key areas (notably water) while halos are removed and the composition is gently cropped for symmetry and visual flow."
+    },
+    {
+      "start": "00:12:10",
+      "end": "00:16:53",
+      "title": "Bird insertion and pre-processing notes",
+      "concepts": [
+        "dust vs. bird identification",
+        "Healing Stamp tool",
+        "noise reduction prep"
+      ],
+      "description": "The editor discusses identifying a bird, placing it via Healing Stamp, cleaning dust, and noting the need for noise reduction due to ISO levels prior to processing."
+    },
+    {
+      "start": "00:16:53",
+      "end": "00:23:39",
+      "title": "Beam creation technique and final touches",
+      "concepts": [
+        "beam creation workflow",
+        "color matching for beams",
+        "edge hardening",
+        "color and light balance"
+      ],
+      "description": "A focused walkthrough of constructing and color-matching beams, painting them into the scene, and erasing the opposite side to emphasize the beam without overdoing it. The tutor emphasizes color accuracy and selective placement as a key control on form."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cropping to edge of foreground elements and perspective warp",
+      "timestamp": "00:00:12",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Applying trapezoidal perspective correction to foreground bushes",
+      "timestamp": "00:01:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Two-pass color grading to achieve broader tonal range",
+      "timestamp": "00:03:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blue extraction to separate background layers",
+      "timestamp": "00:04:07",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mid-tone and highlight dodging to guide viewer attention",
+      "timestamp": "00:07:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Healing Stamp tool for bird insertion and dust removal",
+      "timestamp": "00:16:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Noise reduction pre-processing for high-ISO capture",
+      "timestamp": "00:17:08",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Beam creation workflow: color, brightness, and erasing the opposite side",
+      "timestamp": "00:21:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Glow and light bleed to subtly illuminate foreground",
+      "timestamp": "00:04:45",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Sky simplification to preserve tree form while controlling color",
+      "timestamp": "00:08:15",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:34:22.378439+00:00"
+}

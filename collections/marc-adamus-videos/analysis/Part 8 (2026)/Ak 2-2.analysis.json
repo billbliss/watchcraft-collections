@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Ak 2-2.mp4",
+  "title": "Alpine Landscape Workflow: Composition, Sky, and Post-Processing in Photoshop (Part 8, 2026)",
+  "date": {
+    "display": "2026-07-27 (approximate export date from metadata)",
+    "iso": "2026-07-27",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation/export time provided; video content implies a contemporary instructional session in 2026."
+  },
+  "locations": [
+    {
+      "name": "Devil's Thumb (South Face) - explicit reference",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly discusses the 'south face' of 'the thumb' and refers to Devil's Thumb in that context."
+    }
+  ],
+  "summary": "In this studio-style walkthrough, the presenter analyzes alpine landscape photographs and demonstrates a practical workflow for composition, sky handling, and post-processing in Photoshop. The session emphasizes foreground design using wide-angle cues (V and U shapes), careful spacing and rule-based layout, selection-free blending, sky grading with color and tonal adjustments, focus stacking considerations, and advanced layering techniques to create depth, mood, and leading light. Throughout, the instructor stresses the careful balance of light, dynamic range, and color to preserve eye flow and credible realism, while acknowledging the limitations and artifacts of focus stacking and extreme wide-angle distortion.",
+  "topics": [
+    "wide-angle foreground composition",
+    "V and U shape foreground elements",
+    "diagonal lines to fill the frame",
+    "big-to-small foreground transition",
+    "spacing and rule of thirds in landscape",
+    "measuring foreground distance for depth",
+    "focus stacking basics and overlap",
+    "focus breathing with wide-angle lenses",
+    "aperture considerations for focus stacks",
+    "sky gradient and absence of sky as composition tool",
+    "sky grading: whites adjustment, color temperature, tint",
+    "color grading and selective color in landscape",
+    "white adjustments to skies and glacier blues",
+    "color balance and tonal adjustments (tonal-based color adjustment)",
+    "D haze for mountain separation",
+    "layer separation: multiple mountain ranges",
+    "blur vignette technique for depth and edge softness",
+    "sky-edge blending without selections",
+    "directional light painting with shadows and dodging",
+    "heavily layered composite editing (manual blending vs selections)",
+    "clone smear for masking distractions",
+    "rule of trapezoids for wide angles",
+    "warp caution: avoid warping in processing workflow",
+    "black-and-white interpretation and basic RGB flexibility",
+    "drone vs helicopter workflow in aerial photography",
+    "edge control: large brushes for natural blending",
+    "sun/star preservation and sun-star adjustment strategy"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:06",
+      "title": "Foundational composition and sky handling",
+      "concepts": [
+        "sky absence as compositional choice",
+        "gradient to guide light",
+        "V and U shape foreground elements",
+        "diagonal lines to fill the frame"
+      ],
+      "description": "Discussion of how to avoid unnecessary skies, use gradient for light direction, and employ V/U shapes and diagonal lines to create strong wide-angle foregrounds."
+    },
+    {
+      "start": "00:04:06",
+      "end": "00:06:18",
+      "title": "Foreground spacing and rule-based balance",
+      "concepts": [
+        "spacing of primary subjects: mountains, glacier, flowers",
+        "rule of thirds vs. off-balance compositions",
+        "lowering camera for edge-to-edge foreground emphasis"
+      ],
+      "description": "Guidance on keeping key subjects close but not touching, and evaluating composition balance with a rule-of-thirds mindset while noting flexibility in balance."
+    },
+    {
+      "start": "00:06:18",
+      "end": "00:16:04",
+      "title": "Lighting assessment, dynamic range, and sky color work",
+      "concepts": [
+        "dynamic range as a gating factor before editing",
+        "backlit expectations and sky-light separation",
+        "directional light from the back and sky handling"
+      ],
+      "description": "Explains how light direction and sky exposure affect the overall edit, with emphasis on maintaining separation between sky and mountains and deciding when sky presence is necessary."
+    },
+    {
+      "start": "00:16:04",
+      "end": "00:29:00",
+      "title": "Post-processing techniques: sky coloring, layer separation, and color control",
+      "concepts": [
+        "non-selective brush blending",
+        "whites adjustment for sky and glacier color",
+        "color grading and selective color on flowers",
+        "two-layer separation for mountains",
+        "vignette via blur to blend highlights and shadows"
+      ],
+      "description": "Demonstrates a suite of editing routines to enhance sky, foregrounds, and distant mountains, including additive sky grading, selective color manipulation, and depth via layered masking."
+    },
+    {
+      "start": "00:29:00",
+      "end": "01:36:28",
+      "title": "Advanced mountain separation, lighting sculpting, and compositional refinements",
+      "concepts": [
+        "D hazing for mountain separation",
+        "cloning and healing for noise and flare",
+        "sun-star management and exposure strategy with highlights/shadows",
+        "rule of trapezoids for sky expansion",
+        "warp caution: avoid prior warps"
+      ],
+      "description": "Covers more intricate edits: separating multiple mountain layers, sculpting directional light, maintaining sun-star integrity, and expanding the sky using trapezoidal expansion while preserving edge fidelity."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Wide-angle foreground composition using V/U shapes and diagonal lines",
+      "timestamp": "00:00:20",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Focus stacking (multi-shot, overlap reasoning, ~5-shot preference)",
+      "timestamp": "00:03:58",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Focus breathing and its impact on scene before stacking",
+      "timestamp": "00:02:41",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Sky gradient and color grading via whites adjustment, tint, and temperature",
+      "timestamp": "00:09:02",
+      "confidence": 0.7
+    },
+    {
+      "technique": "No-selection blending with large brushes; fade between sky and foreground",
+      "timestamp": "00:09:58",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Directional light painting with shadow dodge and selective lighting",
+      "timestamp": "00:11:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "D haze for mountain separation and multi-layering",
+      "timestamp": "00:23:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blur vignette to soften highlights and create eye focus",
+      "timestamp": "00:24:24",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective color and color balance to enhance flower tones",
+      "timestamp": "00:27:33",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Clone smear and healing for sun flare and noise cleanup",
+      "timestamp": "00:22:11",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Rule of trapezoids for widening sky in wide-angle scenes",
+      "timestamp": "01:31:51",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Cautionary note: avoid warping and preserve edge fidelity when editing",
+      "timestamp": "01:33:52",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Black-and-white processing as RGB preservation with dodge/burn",
+      "timestamp": "00:44:01",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Drone vs helicopter workflow discussion for aerials",
+      "timestamp": "00:51:54",
+      "confidence": 0.55
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:29:29.816061+00:00"
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Storm Chase 1-2.mp4",
+  "title": "Storm-Chase Handheld Long-Exposure Blend with Lightning Insertion and Zone-Based Color Grading",
+  "date": {
+    "display": "August 13, 2024",
+    "iso": "2024-08-13",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time metadata indicates 2024-08-13T17:47:51Z; transcript contains no independent date confirmation."
+  },
+  "locations": [],
+  "summary": "The video demonstrates a practical, camera-RAW workflow for combining a handheld long-exposure landscape with a separate lightning strike frame. It covers selecting and aligning two exposures, matching color, and then compositing with precision using tools such as the Clone Stamp, History Brush, and a darker-color blending mode. The creator discusses zone-based edits (lighting, foreground, and lightning as separate zones), emphasizes selective color control via the Whites adjustment rather than traditional HSL, and applies targeted dodging, dehazing, and subtle cropping to preserve mood. Noise reduction is addressed with a severe preset, and the final pass includes careful remixing to balance brightness and color while preserving a natural rain/halo effect around the illuminated area. The overall approach blends technique, color theory, and careful masking to produce a cohesive storm-scene image.",
+  "topics": [
+    "Photoshop",
+    "Clone Stamp Tool",
+    "Dodge Tool",
+    "Shadow Dodge",
+    "History Brush",
+    "Dehaze",
+    "Noise Reduction (Severe preset)",
+    "Whites Adjustment",
+    "Color Temperature",
+    "Tint",
+    "Exposure Bracketing",
+    "RAW Processing",
+    "Lightning Composite",
+    "Layer Masking",
+    "Blending Modes",
+    "Darker Color",
+    "Cloud Matching",
+    "Zone-Based Editing",
+    "Handheld Long Exposure",
+    "Storm Photography",
+    "Image Cropping",
+    "Auto Exposure Bracketing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:02:14.680",
+      "title": "Handheld long-exposure considerations and source imagery",
+      "concepts": [
+        "handheld long exposure",
+        "tripod alternatives",
+        "scene blending",
+        "exposure bracketing"
+      ],
+      "description": "The speaker notes handheld long exposures for streams and streams-shot images, acknowledging that without a tripod landscapes can be soft. The strategy introduced is blending a landscape frame with a water/stream exposure using auto exposure bracketing."
+    },
+    {
+      "start": "00:02:14.680",
+      "end": "00:07:20.260",
+      "title": "Lightning insertion and cross-shot blending",
+      "concepts": [
+        "selecting two similar frames",
+        "color/match adjustments",
+        "cloud-based background matching"
+      ],
+      "description": "The presenter selects an earlier frame with a sharp tree to serve as the landscape reference and a later frame with stronger lightning. The goal is to make the two shots visually align (color and exposure) to facilitate a seamless blend, then prepare to insert lightning from one shot into the other."
+    },
+    {
+      "start": "00:07:20.260",
+      "end": "00:12:15.500",
+      "title": "Initial processing, noise, and exposure-zone thinking",
+      "concepts": [
+        "RAW processing",
+        "noise reduction planning",
+        "zone-based adjustments"
+      ],
+      "description": "Attention turns to processing workflow: opening raw files, ensuring sharpness in the scene, and outlining a zone-based approach (lightning, foreground, and sky) to guide subsequent color and exposure edits. The speaker discusses the Whites adjustment as a core color tool and introduces the concept of editing by zones."
+    },
+    {
+      "start": "00:12:15.500",
+      "end": "00:16:57.760",
+      "title": "Whites adjustment, selective zoning, and tonal shaping",
+      "concepts": [
+        "Whites adjustment",
+        "color temperature",
+        "tint",
+        "zone masking",
+        "opacity control"
+      ],
+      "description": "A detailed dive into the Whites adjustment to enhance color and contrast, with color temperature and tint considerations. The technique is shown on specific zones and portions of the image, including a right-side zone, using brush sizing and opacity to constrain edits. The process includes dodging to emphasize rain and subsequent local contrast and color decisions to preserve natural hues."
+    },
+    {
+      "start": "00:16:57.760",
+      "end": "00:18:45.080",
+      "title": "Final remix, crop, and reflective notes",
+      "concepts": [
+        "crop for composition",
+        "remix between original and processed versions",
+        "halo considerations around rain"
+      ],
+      "description": "The workflow closes with a crop to improve composition, a remix between the processed result and the original, and reflections on how storm specifics—like a brighter halo where precipitation occurs—influence final decisions. The mentor notes the difficulty of replicating the exact workflow and timing as part of their unique method."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Expose and align two frames for blending (auto exposure bracketing workflow)",
+      "timestamp": "00:00:33.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective exposure alignment between RAWs via on-screen alignment cue (Ctrl/Cmd+Tab style alignment reference)",
+      "timestamp": "00:03:58.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Stamp Tool used to transplant lightning between frames",
+      "timestamp": "00:04:16.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Control of alignment by sampling source and painting into the target (alt-click sampling)",
+      "timestamp": "00:04:20.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Darker Color Blending Mode to move only the darker color portions of a layer",
+      "timestamp": "00:05:49.000",
+      "confidence": 0.78
+    },
+    {
+      "technique": "History Brush to undo a misstep and preserve original tree shape",
+      "timestamp": "00:05:00.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Noise reduction using a severe preset (descriptor: code pack)",
+      "timestamp": "00:08:54.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Whites adjustment for global color control; light clipping control via highlights",
+      "timestamp": "00:10:05.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective masking to apply Whites adjustment to a single zone with brush opacity",
+      "timestamp": "00:13:09.000",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Dodging to emphasize backlit rain and foreground depth in a defined zone",
+      "timestamp": "00:13:27.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dehaze followed by contrast and saturation adjustments to alter mood",
+      "timestamp": "00:14:11.000",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Cropping to refine composition and balance halo effects",
+      "timestamp": "00:15:52.000",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:14:37.509497+00:00"
+}

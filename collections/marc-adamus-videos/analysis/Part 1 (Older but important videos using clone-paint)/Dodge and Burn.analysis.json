@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Dodge and Burn.mp4",
+  "title": "Dodge and Burn: Black-and-White Landscape Post-Processing with Clone-Paint and Sky/Wave Compositing",
+  "date": {
+    "display": "April 23, 2017",
+    "iso": "2017-04-23",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; approximate export date inferred from file metadata"
+  },
+  "locations": [],
+  "summary": "This landscape post-processing workflow centers on creating a dramatic black-and-white image through selective dodging and burning, while using clone-painting techniques to stabilize texture and blend foreground, waves, sky, and added elements. The instructor argues for retaining color information in the file to visualize tonal relationships and demonstrates how dehaze, curves, and noise-management steps can be leveraged in RAW to craft a powerful sky. The video then guides through composition decisions (space for side-light), perspective adjustments, heavy emphasis on the heart of B&W work (dodging/burning), and culminates in a composite workflow that adds an iceberg and diffuse sky elements to enhance depth and three-dimensionality.",
+  "topics": [
+    "dodge and burn",
+    "clone stamp",
+    "clone painting",
+    "clone smear",
+    "dehaze",
+    "curves",
+    "luminance noise reduction",
+    "dust spot removal",
+    "perspective warp",
+    "sky replacement",
+    "water blending",
+    "black and white post-processing",
+    "landscape post-processing",
+    "soft brush",
+    "noise management"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:04:59.380",
+      "title": "Introduction to black-and-white post-processing and the role of dodge and burn",
+      "concepts": [
+        "black-and-white post-processing",
+        "retaining color information in the file",
+        "tonal values",
+        "dodge and burn",
+        "banding and noise"
+      ],
+      "description": "The presenter explains why many retain color data when converting to black and white to visualize tonal relationships, and positions dodge and burn as the core method for shaping light and tone without relying on dedicated B&W software. The discussion also touches on how working in RGB while black-and-white can enhance tonal separation."
+    },
+    {
+      "start": "00:04:59.380",
+      "end": "00:16:26.720",
+      "title": "Sky handling, dehaze, curves, and initial sky preparation",
+      "concepts": [
+        "RAW adjustments",
+        "dehaze",
+        "curves",
+        "highlights/darks",
+        "dust spots",
+        "noise management"
+      ],
+      "description": "The workflow covers using dehaze to dramatically improve a sky (with notes on its adverse color effects if used aggressively in color). It also covers applying curves to control lights and darks, preparing foreground and sky separately, and managing noise by selective luminance noise reduction on the sky region."
+    },
+    {
+      "start": "00:16:26.720",
+      "end": "00:25:56.620",
+      "title": "The heart of B&W processing: dodge and burn to sculpt light",
+      "concepts": [
+        "dodging mid-tones",
+        "dodging shadows",
+        "dodging highlights",
+        "lighting direction",
+        "true black/true white points"
+      ],
+      "description": "This section is presented as the core technique—extensive dodge-and-burn to shape light, mid-tones, shadows, and highlights across the scene. The instructor emphasizes the direction of light, side-light concepts, and the goal of achieving a natural yet three-dimensional look, with an emphasis on practice and developing an artistic eye."
+    },
+    {
+      "start": "00:25:56.620",
+      "end": "00:33:13.980",
+      "title": "Perspective, composition tweaks, and iceberg composite",
+      "concepts": [
+        "space on light side",
+        "composition shift",
+        "perspective warp",
+        "iceberg insertion",
+        "diffusion and sky cloning"
+      ],
+      "description": "The final portion covers compositional adjustments to emphasize side-light by adding space to the anticipated light source, using perspective warp to refine the frame without sacrificing quality, and introducing an iceberg composite with sky diffusion to integrate new elements and enhance depth and atmosphere."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dodge and burn to sculpt light and tone in black-and-white landscape",
+      "timestamp": "00:16:26.720",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Clone stamp and clone painting for wave and sky blending",
+      "timestamp": "00:08:42.980",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Perspective warp to adjust composition",
+      "timestamp": "00:14:49.080",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Dehaze in RAW to dramatically improve sky; note color tradeoffs",
+      "timestamp": "00:02:59.400",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Clone smear sky diffusion for depth and mist effects",
+      "timestamp": "00:19:12.420",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Iceberg insertion and diffusion to integrate new elements",
+      "timestamp": "00:29:02.440",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:39:20.208196+00:00"
+}

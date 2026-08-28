@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Stitiching methods for drone panos.mp4",
+  "title": "Stitching Methods for Drone Panos: Rectilinear and 360 Workflows with PTGui, Panavolo, and Lightroom",
+  "date": {
+    "display": "August 13, 2026",
+    "iso": "2026-08-13",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata; filename indicates production period around 2026"
+  },
+  "locations": [],
+  "summary": "The video surveys how to create panoramic drone images, emphasizing how lens choice and stitching method affect distortion and output. It contrasts rectilinear stitching with spherical/panometric options, explains when to use a wide-angle panel versus a free panel, and compares tools (Lightroom, Photoshop, PTGui Pro, and Panavolo). The instructor demonstrates exposure matching, perspective warping, and cropping decisions, with a deep dive into 360-degree panoramas, mirroring techniques for center alignment, and batch workflows (Lightroom and image processor) to prepare inputs for Panovolo. Practical tips include shooting on auto exposure for large tonal ranges, avoiding extreme edge distortion, and choosing projections (rectilinear, stereographic, cylindrical) to shape the final composition.",
+  "topics": [
+    "Drone pano fundamentals: nine-shot panoramas and FOV for Pro 3 vs Pro 4",
+    "Rectilinear distortion and why it matters for wide-angle drone stitching",
+    "Rectilinear vs spherical/panometric vs cylindrical projections in stitching",
+    "Wide-angle panel vs free-panel stitching workflows",
+    "Post-processing: exposure matching across panorama frames",
+    "PTGui Pro features: exposure matching and diverse stitching options",
+    "Panavolo advantages: DJI file sequencing and file-order awareness",
+    "360-degree panoramas: challenges, mirroring technique, and center alignment",
+    "Perspective warp techniques and the trapezoid rule for Warping",
+    "Batch workflows: batch processing in Lightroom and Image Processor for Panovolo",
+    "Handling blank frames and alignment across stitching tools",
+    "Output considerations: uncompressed formats and Photoshop integration"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:13",
+      "title": "Intro: Panoramic drone imagery and distortion basics",
+      "concepts": [
+        "nine-shot panoramas",
+        "Pro 3 vs Pro 4 lens focal lengths and FOV",
+        "rectilinear distortion on wide-angle edges",
+        "horizon straightness"
+      ],
+      "description": "Introduces panoramic drone imagery and explains how lens choice affects the field of view when stitching nine shots, highlighting the need for rectilinear distortion to keep horizons straight."
+    },
+    {
+      "start": "00:04:13",
+      "end": "00:08:02",
+      "title": "Stitching tool landscape and limitations",
+      "concepts": [
+        "Lightroom vs Photoshop vs PTGui vs Panavolo",
+        "free panel vs wide-angle panel",
+        "rectilinear stitching options in drone previews"
+      ],
+      "description": "Outlines the main software options for stitching, noting that Lightroom and Photoshop offer limited rectilinear stitching and introducing the concept differences between free panels and wide-angle panels."
+    },
+    {
+      "start": "00:08:02",
+      "end": "00:14:13",
+      "title": "PTGui Pro and Panavolo capabilities",
+      "concepts": [
+        "PTGui Pro exposure matching",
+        "wide range of stitching options",
+        "DJI file sequencing support in Panavolo",
+        "types of panoramas (wide, free, 360)"
+      ],
+      "description": "Covers why PTGui Pro is favored for exposure matching and more stitching options, and explains how Panavolo uniquely reads DJI file ordering to handle sequencing for DJI panoramas."
+    },
+    {
+      "start": "00:14:13",
+      "end": "00:16:20",
+      "title": "Post-processing and exposure matching workflow",
+      "concepts": [
+        "post-process exposure blending",
+        "exposure shift for matching",
+        "preparing panoramas for processing"
+      ],
+      "description": "Demonstrates automatic exposure blending (exposure plus shift) to harmonize frames and describes saving and preparing stitched panoramas for processing."
+    },
+    {
+      "start": "00:16:20",
+      "end": "00:20:53",
+      "title": "Wide-angle vs free-panel workflows and rectilinear intent",
+      "concepts": [
+        "rectilinear distortion focus",
+        "wide-angle panel advantages",
+        "free panel limitations"
+      ],
+      "description": "Shows how a wide-angle panel can yield rectilinear output and contrasts with free-panel stitching, emphasizing the desired projection for clean geometry."
+    },
+    {
+      "start": "00:20:53",
+      "end": "00:31:31",
+      "title": "360 panoramas: setup, constraints, and mirroring",
+      "concepts": [
+        "330-degree vs 360-degree panoramas",
+        "downward field-of-view limits (60-90 degrees)",
+        "mirroring technique for center alignment",
+        "cropping decisions for 360 outputs"
+      ],
+      "description": "Details 360-degree stitching challenges, including limitations on downward view, how mirroring can fix center alignment when stitching is imperfect, and how to crop and compose for 360 outputs."
+    },
+    {
+      "start": "00:31:31",
+      "end": "00:38:46",
+      "title": "360 stitching adjustments, perspective warp, and finalization",
+      "concepts": [
+        "rotation and cropping to align",
+        "perspective warp with trapezoid control",
+        "final processing and export steps"
+      ],
+      "description": "Discusses post-stitch adjustments such as perspective warp (often using a trapezoid approach) and preparing the final output for processing and export."
+    },
+    {
+      "start": "00:38:46",
+      "end": "00:38:49",
+      "title": "Closing notes on workflow and reliability",
+      "concepts": [
+        "PanoVolo workflow simplicity",
+        "stability considerations"
+      ],
+      "description": "Brief closing remarks on Panovolo’s ease of use and potential stability considerations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Rectilinear distortion control via Wide Angle Panel for drone pans",
+      "timestamp": "00:02:43",
+      "confidence": 0.75
+    },
+    {
+      "technique": "DJI file sequencing read by Panavolo to preserve image order",
+      "timestamp": "00:06:05",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exposure matching in PTGui Pro (pro tools)",
+      "timestamp": "00:08:55",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rectilinear projection selection and post-process blending in PTGui",
+      "timestamp": "00:12:53",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Exposure matching workflow: post-process exposure plus shift",
+      "timestamp": "00:14:13",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Three-zone perspective warp and trapezoidal correction",
+      "timestamp": "00:17:24",
+      "confidence": 0.75
+    },
+    {
+      "technique": "360-degree mirroring technique for center alignment",
+      "timestamp": "00:30:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Batch processing and image prep for Panovolo (Lightroom + Image Processor)",
+      "timestamp": "00:34:19",
+      "confidence": 0.7
+    },
+    {
+      "technique": "One-click Panovolo stitch workflow and timing (~30s)",
+      "timestamp": "00:38:46",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:58:28.968088+00:00"
+}

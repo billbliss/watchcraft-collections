@@ -1,0 +1,242 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Norway 1-1 including 360 drone panoramas.mp4",
+  "title": "Norway Drone Fall Color: HDR, Beams, and 360 Panorama Workflow (Photoshop + PTGui)",
+  "date": {
+    "display": "Approx. 2025-10-14",
+    "iso": "2025-10-14",
+    "precision": "day",
+    "confidence": 0.45,
+    "basis": "Embedded creation_time in metadata; video path indicates 2024-2025 production window."
+  },
+  "locations": [
+    {
+      "name": "Norway (probable; fjord region)",
+      "confidence": 0.65,
+      "basis": "Transcript repeatedly references a Norway trip, fjord landscapes, and a waterfall; filename path includes Norway; mentions of Mardell Fossum waterfall as a Norwegian feature."
+    }
+  ],
+  "summary": "The video analyzes a Norway drone sequence with dramatic fall color and a fjord setting, focusing on practical decisions for high–dynamic–range landscape shooting. It covers selecting camera modes for dynamic range, aperture choices and wind effects, and then demonstrates a multi-step post-processing workflow: extracting shadow detail, blending exposures manually in Photoshop, and using clone-stamp and history-based adjustments to align and merge shots. The presenter also explains beam creation, color separation of fall foliage, sky handling (including deliberately blown skies for punch), and advanced panorama stitching concepts with PTGui, including rectilinear projection versus cylindrical maps and the pitfalls of 100‑MP captures for large stitches. The session culminates in multi-layer separation to enhance middle-ground depth, simulated light sources, blur vignettes, and deliberate color grading to emphasize fall color and landscape texture, all while noting practical constraints of ND filters, shutter choices, and file management for large panoramas.",
+  "topics": [
+    "drone photography in Norway",
+    "dynamic range management",
+    "aperture choices for moving subjects",
+    "ND filters and long-exposure water",
+    "distance-based focus and depth of field",
+    "auto exposure bracketing (AEB)",
+    "manual exposure blending in Photoshop",
+    "clone stamp and inverse selection techniques",
+    "history brush workflow",
+    "beams and light rays creation in post",
+    "color separation for fall foliage",
+    "selective color and HSL adjustments",
+    "sky management and blown-out skies",
+    "sun/star effects and cropping",
+    "foreground/middle-ground separation",
+    "multi-zone adjustments and clarity",
+    "auto HDR vs RAW processing",
+    "9-shot pano vs 24-shot pano vs 180-degree pano",
+    "rectilinear distortion vs wide-angle stitching",
+    "PTGui panorama workflow",
+    "RAW processing limits (ACR) vs Lightroom",
+    "layer-based vs history-based editing",
+    "blur vignette techniques",
+    "simulated light sources in post",
+    "color grading with blue/gold balance",
+    "edge alignment and seam editing in panoramas",
+    "file management for large panoramas"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:16",
+      "title": "Scene assessment and camera setup for HDR landscape capture",
+      "concepts": [
+        "composition balance (waterfall, mountain, fall color)",
+        "dynamic range awareness",
+        "wind considerations",
+        "drone image mode selection"
+      ],
+      "description": "The presenter evaluates a waterfall–mountain–fall color scene from Norway, highlighting how balance and light affect image quality and setting up expectations about exposure and mode choice."
+    },
+    {
+      "start": "00:02:16",
+      "end": "00:04:40",
+      "title": "Exposure strategy and ND considerations in dynamic morning light",
+      "concepts": [
+        "dynamic range",
+        "aperture choices (f-stop)",
+        "ND filter absence impact",
+        "wind-induced motion"
+      ],
+      "description": "Discussion of avoiding 100 MP in harsh light when dynamic range is wide, advocating 25 MP mode for better DR under wind. Notes the need for ND filters to achieve slower water shutter speeds and avoid out-of-focus results at close distances."
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:07:10",
+      "title": "Shadow recovery and multi-exposure blending in Photoshop",
+      "concepts": [
+        "shadow detail extraction",
+        "exposure expansion",
+        "manual blend workflow",
+        "alignment challenges with wind"
+      ],
+      "description": "Explains expanding dynamic range by extracting shadow details, blending a long-exposure shot with a shorter-exposure one, and performing a manual blend when the drone is moving between frames."
+    },
+    {
+      "start": "00:07:10",
+      "end": "00:09:15",
+      "title": "Initial layer alignment and painting with a history brush",
+      "concepts": [
+        "inverse selection",
+        "clone stamp alignment",
+        "layer-based painting",
+        "opacity tuning"
+      ],
+      "description": "Demonstrates selecting the overlapping region, cloning from one image to align with the other, and painting the exposure adjustments into the target image using a history brush for controlled application."
+    },
+    {
+      "start": "00:09:15",
+      "end": "00:14:20",
+      "title": "Beam creation, sky handling, and early color grading",
+      "concepts": [
+        "beam generation (sun rays)",
+        "sky handling (blown highlights)",
+        "global vs local adjustments",
+        "vignette and foreground emphasis"
+      ],
+      "description": "Shows creating light beams in the midground, managing a bright sky without losing control of the foreground, and using autos and local adjustments to begin bringing out beams and foreground texture."
+    },
+    {
+      "start": "00:14:20",
+      "end": "01:07:14",
+      "title": "Pano planning and rectilinear vs wide-angle projection for large panoramas",
+      "concepts": [
+        "nine-shot pano vs 24-shot pano vs 180° pano",
+        "rectilinear distortion",
+        "stitching workflow in PTGui",
+        "RAW vs JPEG considerations"
+      ],
+      "description": "The presenter discusses pano formats, why rectilinear projection yields a true-wide look, and the pitfalls of stitching 24-shot or 180° pans from DJI files. They detail choosing exposures for pano stitching and the limits of software in processing extreme dimensions."
+    },
+    {
+      "start": "01:07:14",
+      "end": "01:16:40",
+      "title": "PTGui post-processing and multi-exposure merging",
+      "concepts": [
+        "PTGui balance of highlights/shadows",
+        "creating a panorama from multiple exposures",
+        "edge alignment and canvas expansion"
+      ],
+      "description": "In-depth PTGui workflow: loading disparate exposures, choosing projection, balancing tone, and generating a stitched panorama. The speaker demonstrates edge alignment by masking and blending, followed by a Photoshop step to finalize."
+    },
+    {
+      "start": "01:12:40",
+      "end": "01:16:50",
+      "title": "Layer separation to enhance depth and middle-ground texture",
+      "concepts": [
+        "layer separation",
+        "mid-ground detail",
+        "clarity and texture enhancements",
+        "dehaze usage as sun proxy"
+      ],
+      "description": "Illustrates separating layers to exaggerate the middle ground, adding texture and clarity to mid-ground geometry, and using dehaze as a sun-like glow to separate layers visually."
+    },
+    {
+      "start": "01:30:50",
+      "end": "01:41:20",
+      "title": "Simulated light sources, color grading, and edge lighting on trees",
+      "concepts": [
+        "simulated sun",
+        "color grading",
+        "selective color",
+        "edge lighting on trunks"
+      ],
+      "description": "Demonstrates painting simulated sunlight from a chosen direction, applying selective color and color temperature to foliage, and edge-lighting birch trunks to enhance dimensionality."
+    },
+    {
+      "start": "01:41:20",
+      "end": "01:46:00",
+      "title": "Sky and cloud management; final tuning for dramatic fall color",
+      "concepts": [
+        "cloud suppression near mountains",
+        "blown-out sky activation",
+        "color temperature and blues balance"
+      ],
+      "description": "The presenter explains intentionally blowing out the sky for dramatic effect, then managing remaining color with selective color and blue/green adjustments to preserve fall tones and sky separation."
+    },
+    {
+      "start": "01:46:00",
+      "end": "01:53:02",
+      "title": "Final review and multi-shot comparison",
+      "concepts": [
+        "best-composition choice",
+        "exposure tuning for foreground vs sky",
+        "fall color layering"
+      ],
+      "description": "Close review of candidate shots, choosing the best composition with strong fall color and a cohesive foreground, and comparing multiple exposures for optimal balance."
+    },
+    {
+      "start": "01:53:02",
+      "end": "01:56:20",
+      "title": "Practical notes on workflow and file management",
+      "concepts": [
+        "layered exports",
+        "saving iterations",
+        "history vs layers",
+        "downsampling for processing"
+      ],
+      "description": "Practical remarks on saving multiple versions, keeping iterations, and managing large files, including a reminder that history cannot be saved in Photoshop and how to work with layers efficiently."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Beams creation by painting light beams (brush with mid-tones) and erasing the opposite side to create separate beams",
+      "timestamp": "00:12:09",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual multi-exposure blend with selective regions using inverse selection and clone stamp to align imagery",
+      "timestamp": "00:06:37",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Color separation for fall foliage using selective color and HSL to vary tree hues",
+      "timestamp": "00:23:20",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Pano projection choice and rectilinear stitching in PTGui to preserve a wide, undistorted field",
+      "timestamp": "01:05:58",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Rectilinear vs cylindrical projection explanation and workflow for large DJI panoramas",
+      "timestamp": "01:06:11",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Blur vignette to blend edges and direct viewer focus toward the center",
+      "timestamp": "01:30:53",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Simulated sun/light source by layering and color grading to illuminate mid-ground and foreground",
+      "timestamp": "01:24:40",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Layer separation to exaggerate depth and emphasize mid-ground texture",
+      "timestamp": "01:12:06",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Sky management: intentionally blown-out sky for dramatic effect and selective color adjustments to maintain color balance",
+      "timestamp": "01:09:14",
+      "confidence": 0.83
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:55:58.533466+00:00"
+}

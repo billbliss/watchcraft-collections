@@ -1,0 +1,189 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Long Lens shading and tones.mp4",
+  "title": "Long Lens Shading and Tones: Directional Light, Dodge/Burn, Sky Fusion and RAW Workflows",
+  "date": {
+    "display": "March 9, 2019",
+    "iso": "2019-03-09",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata; transcript does not independently confirm a shooting date"
+  },
+  "locations": [
+    {
+      "name": "Eastern Sierra (probable)",
+      "confidence": 0.45,
+      "basis": "Speaker mentions 'the rabbit brush in the eastern Sierra' when describing a shot/scene; not stated as shooting location"
+    }
+  ],
+  "summary": "The video presents a practical Photoshop-based workflow for landscape tonal development that centers on creating a directional light feel, shading toward that light, and building depth through dodge/burn and edge contrasts. The presenter contrasts traditional dodge/burn with 'clone painting' (clone-stamp) as alternative methods, then demonstrates sky-horizon fusion to remove harsh horizons and enhance depth. A strong emphasis on tonal processing (especially black-and-white first) precedes recoloring via split-toning and selective color. The speaker also covers RAW-based dynamic-range expansion, luminosity adjustments, diffusion and glow, and cautions about monitor versus print results, urging hands-on painting as the core artistic skill beneath any tool-based workflow.",
+  "topics": [
+    "Clone Stamp",
+    "Clone Painting",
+    "Dodge and Burn",
+    "Directional Light",
+    "Long Lens Landscape",
+    "Sky Fusion",
+    "Horizon Blending",
+    "Split Toning",
+    "Selective Color",
+    "Luminosity",
+    "RAW Processing",
+    "Dynamic Range",
+    "Diffusion",
+    "Glow",
+    "Edge Control",
+    "Foreground-Background Separation",
+    "Atmospheric Perspective",
+    "Color Balance",
+    "White Point"
+  ],
+  "sections": [
+    {
+      "start": "00:00:16",
+      "end": "00:01:04",
+      "title": "Establishing a directional light and shading toward it",
+      "concepts": [
+        "directional light source",
+        "shading toward the light",
+        "two-dimensional to three-dimensional transformation",
+        "light-driven tonal flow"
+      ],
+      "description": "The speaker demonstrates creating a directional light source and shading the image toward that light to create depth and a sense of three-dimensional form. The emphasis is on controlling light across the scene to guide the viewer’s eye."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:01:17",
+      "title": "Dodge and burn as painterly tonal control",
+      "concepts": [
+        "dodge and burn",
+        "tonal painting",
+        "hand-driven adjustment vs automated tools"
+      ],
+      "description": "The presenter frames shading as a painterly act, using dodge and burn to sculpt light and texture and stressing its centrality to both black-and-white and color processing."
+    },
+    {
+      "start": "00:01:17",
+      "end": "00:02:00",
+      "title": "Long-lens considerations and painting as a core workflow",
+      "concepts": [
+        "long lens landscape",
+        "creative control via brushstrokes",
+        "edge and contrast management"
+      ],
+      "description": "A compact discussion ties the approach to long-lens landscapes, noting light, atmosphere, and angular light are essential, with shading and brushwork serving as the primary control mechanism."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:13",
+      "title": "Black-and-white as learning ground; color workflow intro",
+      "concepts": [
+        "black-and-white processing",
+        "tonal separation",
+        "three kinds of color shots",
+        "split toning introduction"
+      ],
+      "description": "The speaker argues for mastering tonal processing in black and white before color and introduces three color-shot models (partially colored, fully colored, recolored) and the concept of split-toning as a tonal-to-color bridge."
+    },
+    {
+      "start": "00:04:13",
+      "end": "00:06:38",
+      "title": "Color workflow strategies and tool choice",
+      "concepts": [
+        "color processing after tonal work",
+        "split toning",
+        "selective color",
+        "clone-paint vs. fast tools"
+      ],
+      "description": "The workflow is articulated: build tonal structure first, then add color; the speaker demonstrates choosing tools (dodging/burning vs clone painting) and explains why separating tonal work from color work can simplify processing."
+    },
+    {
+      "start": "00:06:38",
+      "end": "00:12:25",
+      "title": "Building depth via near-to-far transitions and subject separation",
+      "concepts": [
+        "near-to-far transitions",
+        "high-contrast foreground to low-contrast background",
+        "edge control",
+        "foreground-background separation"
+      ],
+      "description": "The speaker demonstrates creating tonal transitions that pull the eye toward the main subject (the tree) by enhancing foreground shadows and sky contrast, plus selective darkening/lightening to separate subjects from the background."
+    },
+    {
+      "start": "00:11:04",
+      "end": "00:12:25",
+      "title": "Sky-to-horizon fusion to remove harsh horizons",
+      "concepts": [
+        "clone-stamp",
+        "sky replacement",
+        "horizon fusion",
+        "visual flow"
+      ],
+      "description": "A practical sky cloning technique is shown to blend the sky with the landscape horizon, eliminating harsh lines and creating a more seamless, depth-enhancing transition between sky and land."
+    },
+    {
+      "start": "00:16:59",
+      "end": "00:31:30",
+      "title": "RAW-based tonal expansion and color reintroduction",
+      "concepts": [
+        "RAW dynamic range expansion",
+        "White point adjustments",
+        "color balance",
+        "recoloring after tonal work"
+      ],
+      "description": "The speaker discusses expanding dynamic range in RAW, then reintroducing color via color balance and selective color, emphasizing the order of operations: tonal work first, then color."
+    },
+    {
+      "start": "00:27:24",
+      "end": "00:37:50",
+      "title": "Diffusion, luminosity and glow; monitor vs print caveat",
+      "concepts": [
+        "diffusion",
+        "diffusion + luminosity = glow",
+        "monitor vs print",
+        "avoid over-softening for print"
+      ],
+      "description": "A key caution about diffusion-based edits and their print fidelity is discussed. The presenter explains how diffusion can create glow when paired with luminosity adjustments and stresses testing across screens and in print."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Directional light source creation and shading toward light",
+      "timestamp": "00:00:16",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Dodge and burn as artistic shading; compare with clone-paint",
+      "timestamp": "00:01:04",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Clone Stamp / Clone Painting for horizon and sky fusion",
+      "timestamp": "00:11:04",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky-horizon fusion to enhance depth and visual flow",
+      "timestamp": "00:11:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Split toning and selective color after tonal build",
+      "timestamp": "00:04:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "RAW dynamic range expansion; Whites tool workflow",
+      "timestamp": "00:27:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Diffusion + luminosity interplay to create glow",
+      "timestamp": "00:33:10",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:00:39.471197+00:00"
+}

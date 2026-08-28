@@ -1,0 +1,163 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Rainbow Mtn.mp4",
+  "title": "Shading and Sky-First Composite in Rainbow Mountain (Clone-Paint Workflow Demonstration)",
+  "date": {
+    "display": "2018-04-23 (approx.)",
+    "iso": "2018-04-23T12:52:44Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata from video file; approximate unless transcript confirms exact date"
+  },
+  "locations": [],
+  "summary": "The video presents a Photoshop workflow focused on creating three-dimensional shading through a directional light, merging sky and landscape, and iterative RAW processing. It emphasizes painting light with brushes (including clone-paint), replacing or reorienting sky, and blending multiple passes of RAW edits (including curves, split toning, and color grading) to achieve a cohesive, lit landscape. Key tactics include avoiding heavy selections, using large brushes for broad shading, performing a sky flip for directional lighting, and employing a clone-smear bleed to smooth sky transitions into the foreground. The presenter also demonstrates color and luminosity adjustments on reds and yellows to enhance perceived sunlit contrast, followed by final touch-ups with dodge/burn and sponge tools to sculpt depth.",
+  "topics": [
+    "Photoshop",
+    "Adobe Camera Raw",
+    "Smart Object",
+    "Brush Tool",
+    "Clone Stamp/Clone Brush",
+    "Clone-Paint",
+    "Clone-Smear",
+    "Sky Replacement",
+    "Sky Bleed",
+    "Curves",
+    "Split Toning",
+    "Dodge/Burn",
+    "Sponge Tool",
+    "Color Grading",
+    "Luminosity",
+    "Saturation",
+    "Brightness/Contrast",
+    "Blur",
+    "Histogram/Edge Refinement",
+    "Highlights/Shadows",
+    "Edge Control",
+    "Color Balance",
+    "Gradient",
+    "Noise/Detail"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:22",
+      "title": "Establishing shading and sky integration",
+      "concepts": [
+        "directional light",
+        "scene cohesion",
+        "sky-land fusion",
+        "color balance"
+      ],
+      "description": "Intro covers establishing a directional light to give the main ridge more space on the lighted side and emphasizes fusing the sky with the landscape to avoid a hard edge across the scene."
+    },
+    {
+      "start": "00:01:22",
+      "end": "00:03:05",
+      "title": "RAW workflow planning and sky separation",
+      "concepts": [
+        "global saturation adjustments",
+        "luminance control",
+        "flattening RAW",
+        "multiple RAW passes",
+        "sky extraction strategies"
+      ],
+      "description": "Discusses flattening a flat image in RAW for a broader palette, then planning to adjust the sky separately via RAW (including the possibility of treating the sky as a smart object) with several approaches to re-enter RAW."
+    },
+    {
+      "start": "00:03:05",
+      "end": "00:07:16",
+      "title": "Sky/land fusion and early sky grading",
+      "concepts": [
+        "fusion of layers",
+        "shadow/highlight control",
+        "curves introduction",
+        "blur for fusion"
+      ],
+      "description": "Explains fusing background layers with the sky, reducing highlights, and introducing a strong curve to begin separating sky from land, including an initial plan to apply a blur to merge the two regions more organically."
+    },
+    {
+      "start": "00:08:24",
+      "end": "00:14:58",
+      "title": "Directional light painting and edge refinement",
+      "concepts": [
+        "painting light",
+        "clone-paint",
+        "highlight/dodge",
+        "edge management",
+        "history brush"
+      ],
+      "description": "Key section where the presenter paints light onto the ridges using broad brushes, discusses not relying on selections, and uses clone-paint to adjust color and brightness with careful edge control and incremental light application."
+    },
+    {
+      "start": "00:15:18",
+      "end": "00:21:21",
+      "title": "Sky orientation and color grading via RAW iterations",
+      "concepts": [
+        "sky flip",
+        "color grading",
+        "split toning",
+        "half-saturation workflow"
+      ],
+      "description": "Describes flipping the sky to orient the light source, then adjusting RAW curves and color to create a gradient that supports the new lighting direction, including a half-saturation approach and splitting tones for sky color."
+    },
+    {
+      "start": "00:22:33",
+      "end": "00:26:58",
+      "title": "Sky bleed, dodge highlights, and color polish",
+      "concepts": [
+        "clone-smear bleed",
+        "highlight dodge",
+        "selective color adjustments",
+        "edge refinement"
+      ],
+      "description": "Demonstrates bleeding sky detail into the background with 30% opacity clone-smear, applying highlight dodge to intensify sunlit edges, and performing targeted color tweaks (e.g., reds) to sustain color separation and depth."
+    },
+    {
+      "start": "00:27:45",
+      "end": "00:33:25",
+      "title": "Final pass, curvature, and closing observations",
+      "concepts": [
+        "sponge tool",
+        "brightness/contrast",
+        "three-dimensional shading",
+        "directional lighting as composition driver"
+      ],
+      "description": "Concludes with fine-tuning of curvature on slopes, selective color sharpening, and reinforcing the directional light concept as the central driver of depth and viewer guidance; ends with a final before/after and brief closing remarks."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Directional light painting with brush (clone-paint)",
+      "timestamp": "00:08:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sky replacement via sky flip and color grading",
+      "timestamp": "00:15:18",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sky bleed using clone-smear at 30% opacity",
+      "timestamp": "00:22:33",
+      "confidence": 0.75
+    },
+    {
+      "technique": "RAW multi-pass workflow with sky isolation (smart object approach)",
+      "timestamp": "00:03:05",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Curves-based sky grading and split toning",
+      "timestamp": "00:04:04",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Selective color adjustments and luminance manipulation (reds/yellows)",
+      "timestamp": "00:16:52",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:20:10.367356+00:00"
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Saudi 2-1.mp4",
+  "title": "Sun-star Beams: Non-destructive multi-shot blending, warp tricks, and color editing in desert cave photography",
+  "date": {
+    "display": "2026-01-24 (approx)",
+    "iso": "2026-01-24",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata indicates 2026-01-24T00:48:48Z; transcript does not independently confirm the date"
+  },
+  "locations": [
+    {
+      "name": "Saudi Arabia (probable)",
+      "confidence": 0.55,
+      "basis": "Filename/path includes 'Saudi 2-1.mp4'; transcript contains no explicit location statements"
+    }
+  ],
+  "summary": "This Photoshop-centric craft video walks through a desert-scene post-production workflow focused on rendering a sun-star in a rock-beam composition. The presenter guides non-destructive editing, showing how to blend multiple exposures, separate sky from foreground, and improve edge lighting while preserving the sun-star. The tutorial emphasizes precise brush work, warping and alignment tools to straighten distorted rock shapes, non-destructive cloning and history-based edits, and advanced color management (Selective Color, masking, and glow) to create depth and three-dimensionality when there is little sky. It also covers common pitfalls like focus-stacking artifacts, flare, and extreme wide-angle distortion, with practical remedies including perspective warps, content-aware fixes, and versioned saves for iterative exploration.",
+  "topics": [
+    "Sun star creation and emphasis",
+    "Sky texture and exposure balance",
+    "Multi-shot blending and HDR-like composition",
+    "Focus stacking issues and fixes",
+    "Separate sky and foreground edits (vignette, color)",
+    "Brush work: hard edge vs soft edge for edge lighting",
+    "Mid-tone and shadow dodging",
+    "Burn tool vs dodge tool usage",
+    "Clone Stamp tool with option-click + control-tab",
+    "History Brush for non-destructive edits",
+    "Edge lighting and shadowing on foreground rocks",
+    "Selective Color as masking and color refinement",
+    "Color wheel opposite technique to reduce flare",
+    "Glow and diffusion around light sources",
+    "Glow management around sun and beams",
+    "Dehaze-like adjustments and background glow",
+    "Adaptive Wide Angle Filter and perspective distortion",
+    "Perspective Warp and Puppet Warp",
+    "Content-Aware Fill for flare removal",
+    "Crop, framing, and telephoto framing when no sky",
+    "Beams, horizon, and depth through layering",
+    "Versioning strategy: Save As to preserve processing history",
+    "General considerations for sky-light dependence in desert scenes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.600",
+      "end": "00:02:01.980",
+      "title": "Sun-star emphasis and initial sky/low-area adjustments",
+      "concepts": [
+        "sun star",
+        "sky texture",
+        "lower areas adjustment",
+        "edge glow"
+      ],
+      "description": "Early portion covers identifying a sun-star in the sky, balancing lower areas, and deciding that more sky helps showcase the star. The presenter adjusts the base shot to set up a stronger center-glow and prepares for blending in subsequent frames."
+    },
+    {
+      "start": "00:02:01.980",
+      "end": "00:04:16.840",
+      "title": "Two-shot blending concept and sky isolation",
+      "concepts": [
+        "blend two shots",
+        "mix into original shot",
+        "exposure layering",
+        "sky isolation"
+      ],
+      "description": "Discussion of taking multiple exposures or separate edits and combining them into the original frame to balance sun-star visibility with rock detail, including plans to isolate the sky for separate processing and vignette application."
+    },
+    {
+      "start": "00:04:16.840",
+      "end": "00:06:40.680",
+      "title": "Warping and alignment to straighten rock geometry",
+      "concepts": [
+        "rule of trapezoids",
+        "perspective warp",
+        "rock straightening",
+        "sun-star preservation"
+      ],
+      "description": "Demonstrates warping a tilted rock using trapezoidal perspective adjustments so the sun-star lines remain consistent. Then a duplicate/merge workflow aligns two rock shapes for a more coherent composite, with cloning to blend textures and preserve the sun-star alignment."
+    },
+    {
+      "start": "00:06:40.680",
+      "end": "00:12:13.260",
+      "title": "Edge lighting, cloning, and local color work",
+      "concepts": [
+        "hard edge brush",
+        "soft brush fade",
+        "shadow dodge",
+        "selective color",
+        "masking"
+      ],
+      "description": "Covers edge lighting on foreground rocks with hard/soft brushes, careful feathering, and dodge/burn to sculpt light. It also introduces masking using selective color to brighten specific regions while preserving the sky and performing localized color enhancements."
+    },
+    {
+      "start": "00:12:13.260",
+      "end": "00:29:40.680",
+      "title": "Depth and background separation; glow and background harmonization",
+      "concepts": [
+        "glow and diffusion",
+        "beams",
+        "foreground-to-background contrast",
+        "dehaze-esque background glow",
+        "telephoto framing"
+      ],
+      "description": "The presenter focuses on creating depth by intensifying beams and adding a warm glow to background elements. Techniques include selective color layering to emphasize horizon trees, adding glow under edges to simulate distance, and discussing telephoto framing when clouds are scarce."
+    },
+    {
+      "start": "00:50:53.580",
+      "end": "01:16:56.520",
+      "title": "Advanced color control, background brightness, and warp tool overview",
+      "concepts": [
+        "de-haze",
+        "background brightness",
+        "Selective Color as mask",
+        "pocket warp",
+        "perspective warp",
+        "puppet warp"
+      ],
+      "description": "Explores color consistency and background separation through de-hazing and masking, with emphasis on brightening behind the trees and using Selective Color as a mask. It also covers various warp tools (perspective, puppet) to correct distortions in wide-angle scenes for realistic shapes while noting the trade-offs in image quality."
+    },
+    {
+      "start": "00:59:20.020",
+      "end": "01:16:56.520",
+      "title": "Wide-angle distortions, cropping, and final refinements",
+      "concepts": [
+        "Adaptive Wide Angle Filter",
+        "crop factor",
+        "dynamic range expansion",
+        "final polish"
+      ],
+      "description": "Concludes with a practical note on widening perspective with Adaptive Wide Angle, selecting crop to improve composition, and applying final refinements for consistent color and brightness across light transitions."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sun star emphasis through multi-shot exposure blending and sky texture work",
+      "timestamp": "00:01:34.200",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Warping the rock using the trapezoid rule to preserve sun-star direction while straightening geometry",
+      "timestamp": "00:04:23.560",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Stamp workflow with option-click and control-tab to transfer alignment between shots",
+      "timestamp": "00:05:14.320",
+      "confidence": 0.78
+    },
+    {
+      "technique": "History Brush and non-destructive edits to revert or re-apply changes selectively",
+      "timestamp": "00:06:21.740",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Selective Color as mask and targeted color amplification to separate foreground and background",
+      "timestamp": "00:40:59.600",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Content-aware removal and color-mwheel-based opposite-color balancing for flare reduction",
+      "timestamp": "00:23:43.180",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Adaptive Wide Angle Filter and subsequent perspective/puppet warps to control distortion",
+      "timestamp": "00:59:20.020",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Perspective Warp and puppet warp demonstrations for selective piece distortion control",
+      "timestamp": "01:14:28.380",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Content-aware and masking strategies to manage flare and background texture",
+      "timestamp": "00:23:43.180",
+      "confidence": 0.74
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:48:30.730428+00:00"
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Joshua Dunes warping and transistions.mp4",
+  "title": "Joshua Dunes warping and transitions: perspective warp, puppet warp, and multi-pass blending",
+  "date": {
+    "display": "July 12, 2020",
+    "iso": "2020-07-12T21:49:25Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [],
+  "summary": "This instructional video walks through a landscape post-processing workflow centered on creating dramatic depth in a dunes scene. The presenter first stabilizes exposure and expands dynamic range, then applies color grading techniques to push a warm sunset palette. The core of the tutorial contrasts two warp-based approaches—perspective warp to exaggerate foreground lines and puppet warp on a separate layer for more flexible reshaping—before showing a manual blend with clone stamping to seamlessly merge layers. The workflow continues in RAW/Camera Raw with Auto HDR passes, selective color adjustments, and targeted painting to emphasize sunbeams and mountain beams, ending with vignetting and final tone tweaks to heighten depth and guide the viewer’s eye toward the composition’s focal points.",
+  "topics": [
+    "perspective-warp",
+    "puppet-warp",
+    "image-resize",
+    "clone-stamp",
+    "manual-blend",
+    "leading-lines",
+    "sunbeams",
+    "dunes",
+    "foreground-background-separation",
+    "dynamic-range",
+    "shadows",
+    "blacks",
+    "whites",
+    "color-grading",
+    "split-toning",
+    "color-calibration",
+    "auto-HDR",
+    "raw",
+    "camera-raw",
+    "dodge",
+    "burn",
+    "luminosity",
+    "masking",
+    "beams",
+    "vignette",
+    "beams-emphasis",
+    "cloning",
+    "tone-mapping"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:04",
+      "title": "Initial color and exposure adjustments; dynamic-range restoration",
+      "concepts": [
+        "dynamic-range",
+        "shadows",
+        "blacks",
+        "foreground-background separation",
+        "color-temperature",
+        "tint",
+        "white-balance"
+      ],
+      "description": "The presenter identifies a dunes shot and discusses cropping choices and early DR edits to separate the background (beams and mountains) from the foreground (Joshua trees and dunes). They describe lowering shadows/blacks and then increasing overall contrast to maintain depth and acceptable sky detail before moving into color adjustments."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:07:31",
+      "title": "Color grading pass: warm sky and sunset highlights",
+      "concepts": [
+        "color-temperature",
+        "tint",
+        "camera-calibration",
+        "split-toning",
+        "highlights",
+        "whites",
+        "clarity"
+      ],
+      "description": "A color palette pass increases temperature and tint toward a warm horizon, followed by camera calibration and a highlights-only split-toning approach to introduce sunset hues. Whites are boosted and a light clarity adjustment is applied to push the scene toward a vivid sunset look with a full sky gradient."
+    },
+    {
+      "start": "00:07:31",
+      "end": "00:14:26",
+      "title": "Perspective warp demonstration: extending foreground with wide-angle illusion",
+      "concepts": [
+        "perspective-warp",
+        "leading-lines",
+        "zones",
+        "crop-and-warp",
+        "line-stability"
+      ],
+      "description": "The tutorial explains perspective warp as a zone-based tool (3–9 trapezoidal/rectangular regions) used to warp large image areas, creating dramatic foreground leading lines. The instructor emphasizes keeping straight elements (tree trunks) and using precise crops to ensure seamless blending between warped and unwarped areas."
+    },
+    {
+      "start": "00:14:26",
+      "end": "00:19:18",
+      "title": "Puppet warp: layer-based reshaping with a mesh",
+      "concepts": [
+        "puppet-warp",
+        "mesh",
+        "control-points",
+        "layer-management",
+        "locking",
+        "warp-scope"
+      ],
+      "description": "Puppet warp is introduced as a flexible but difficult tool. The presenter demonstrates enabling a mesh on a separate layer, locking corners, and selectively warping with control points to shape clouds and other features. The complexity and learning curve of puppet warp are acknowledged, including the need to practice and the value of blending with manual paint."
+    },
+    {
+      "start": "00:19:18",
+      "end": "00:21:18",
+      "title": "Warp-method rationale: when to use which tool",
+      "concepts": [
+        "warp-choice",
+        "workflow-strategy",
+        "method-comparison"
+      ],
+      "description": "Discussion of the practical choice between perspective warp and puppet warp. The instructor notes puppet warp’s difficulty and the potential compatibility issues with downstream blending, arguing for a pragmatic approach depending on the scene (e.g., mountains and clouds)."
+    },
+    {
+      "start": "00:21:18",
+      "end": "00:29:53",
+      "title": "RAW processing and multi-pass color/light emphasis",
+      "concepts": [
+        "RAW",
+        "Auto HDR",
+        "clarity",
+        "noise-reduction",
+        "split-toning",
+        "paint",
+        "opacity",
+        "dodge",
+        "burn",
+        "masking"
+      ],
+      "description": "The workflow moves back to RAW with Auto HDR applied in multiple passes to recover shadows and brighten beams. The instructor details painting subtle adjustments (e.g., 2–4% opacity) into the beams and mountains, followed by careful masking and cloning to preserve natural detail while enhancing depth and luminosity."
+    },
+    {
+      "start": "00:29:53",
+      "end": "00:31:01",
+      "title": "Final touches: transitions, depth, and viewer guidance",
+      "concepts": [
+        "vignette",
+        "color grading",
+        "dehaze",
+        "tone-mapping",
+        "big-to-small-transition",
+        "depth-perception"
+      ],
+      "description": "A concise wrap-up covers final color tweaks (violet/blue shifts, cyan blues in shadows, selective color adjustments), a targeted vignette to anchor the eye toward the sun and trees, and a recap of the four core transitions used to maximize depth: big-to-small, cooler-to-wamer, and darker-to-lighter shifts with careful background dodging and blurring."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Perspective warp to exaggerate the foreground and create leading lines",
+      "timestamp": "00:06:04",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Image resize on one dimension to adjust foreground prominence",
+      "timestamp": "00:11:42",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Puppet warp on a separate layer with a mesh and control points",
+      "timestamp": "00:14:26",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual blend using brush and history to align warped layers",
+      "timestamp": "00:08:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone stamp-assisted blending to conceal seams between warped and original areas",
+      "timestamp": "00:10:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "RAW Auto HDR with targeted painting to emphasize beams",
+      "timestamp": "00:20:28",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Beams and sun-beam emphasis through selective color and luminosity painting",
+      "timestamp": "00:26:30",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Color grading workflow: split toning, selective color, and vignette",
+      "timestamp": "00:26:30",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:57:24.394364+00:00"
+}

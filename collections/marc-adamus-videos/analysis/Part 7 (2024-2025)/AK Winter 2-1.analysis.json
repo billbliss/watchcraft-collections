@@ -1,0 +1,132 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/AK Winter 2-1.mp4",
+  "title": "Focus Stacking and Color Grading in a Low-Light Landscape (Photoshop Workflow)",
+  "date": {
+    "display": "March 2, 2025",
+    "iso": "2025-03-02",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time metadata; approximate date of export"
+  },
+  "locations": [],
+  "summary": "This video walks through a Photoshop-based workflow for extracting maximum detail from a low-light landscape image while preserving color. The presenter first discusses light and color balance, then guides a manual focus-stacking approach using two exposures, followed by a zone-based workflow that blends foreground, mountain, and sky with whites adjustments and color tuning. A directional light effect is simulated with the dodge tool on the background, and a warm gradient is built into the sky and mountains using color temperature, tint, and color balance, with iterative passes to avoid over-saturation. Finishing touches include subtle gradient refinements, selective color adjustments, and a soft vignette to guide viewer focus. The emphasis is on precise starting points, careful blending (rather than relying on automatic stacking), and incremental refinements for natural-looking, high-contrast output.",
+  "topics": [
+    "low-light processing",
+    "focus stacking",
+    "manual blend",
+    "clone stamping",
+    "hard-edge brush",
+    "history brush",
+    "whites adjustment",
+    "dynamic range expansion",
+    "color temperature",
+    "color balance",
+    "gradient mapping",
+    "sky and mountain highlights",
+    "dodge tool",
+    "directional light",
+    "selective color (50-150 adjustment)",
+    "vignette",
+    "shadows and blacks handling",
+    "RAW vs Photoshop workflow",
+    "local color corrections",
+    "eye flow in composition"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:54",
+      "title": "Initial assessment and planning for focus stacking",
+      "concepts": [
+        "low-light image handling",
+        "maximizing contrast without destroying color",
+        "planning for a focus-stack approach"
+      ],
+      "description": "The presenter describes working with limited light and emphasizes preserving natural color while bringing out contrast. The discussion sets up the decision to use focus stacking to enhance sharpness and to plan subsequent color and tonal adjustments."
+    },
+    {
+      "start": "01:54:00",
+      "end": "05:08",
+      "title": "Manual focus stacking and initial blend",
+      "concepts": [
+        "two-image focus stack decision",
+        "manual alignment by cloning",
+        "hard-edge brush for blending edge transitions",
+        "avoidance of full automation in stacking"
+      ],
+      "description": "Two exposures are identified as sufficient due to focal plane overlap. The workflow uses cloning to align and a hard-edge brush to blend from a chosen reference point, in order to conceal the blend and ensure a clean transition between focal planes instead of relying on automatic stacking features."
+    },
+    {
+      "start": "05:08:00",
+      "end": "12:38",
+      "title": "Foreground/background separation and baseline tonal adjustments",
+      "concepts": [
+        "three-zone workflow (foreground, mountain, sky)",
+        "whites adjustment with dynamic-range expansion",
+        "color temperature adjustments",
+        "per-zone tonal balancing"
+      ],
+      "description": "The image is divided into foreground, dark mountains, and sky. The workflow applies whites adjustments to expand dynamic range, followed by color temperature tweaks to bring out contrast without oversaturation. The speaker notes that adjustments may need to be applied in multiple passes to avoid blue wash and to preserve color accuracy."
+    },
+    {
+      "start": "12:38:00",
+      "end": "21:54",
+      "title": "Background lighting, gradient, and finishing touches",
+      "concepts": [
+        "directional light via dodge tool",
+        "gradient adjustments for sky and mountains",
+        "color balance tuning (blue/pink hues)",
+        "selective color adjustments (50-150)",
+        "history brush for blending refinements",
+        "vignette and eye guidance"
+      ],
+      "description": "Directional light is simulated on the background using a dodge tool, and a warm gradient is built into the sky and mountain highlights with iterative color-temperature and tint adjustments. The color balance is tuned to introduce pinks and blues, with additional refinements using selective color to target specific hues. The passer emphasizes careful starting levels and the use of the history brush to softly blend between exposures, followed by a subtle vignette to focus attention on the illuminated area."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual two-image focus stacking and blend",
+      "timestamp": "00:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective blending with a hard-edge brush and clone-based alignment",
+      "timestamp": "02:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History brush-based fade between exposures for seamless merge",
+      "timestamp": "05:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Whites adjustment with dynamic range expansion and per-zone color temperature",
+      "timestamp": "03:39",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Directional lighting via the dodge tool on the background",
+      "timestamp": "06:15",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gradient-based color grading for sky and mountain highlights (color temperature, tint, color balance)",
+      "timestamp": "07:32",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective color (50-150) adjustments for targeted hue control",
+      "timestamp": "14:32",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Final touches: subtle vignette and color-saturation management to guide viewer eye",
+      "timestamp": "11:12",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:38:36.325368+00:00"
+}

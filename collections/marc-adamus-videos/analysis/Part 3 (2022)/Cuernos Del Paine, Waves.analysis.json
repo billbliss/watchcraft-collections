@@ -1,0 +1,335 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/Cuernos Del Paine, Waves.mp4",
+  "title": "Cuernos del Paine Waves: Multi-shot compositing, atmosphere, and color grading in Photoshop",
+  "date": {
+    "display": "2022-04-02",
+    "iso": "2022-04-02",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [
+    {
+      "name": "Patagonia (explicit)",
+      "confidence": 0.9,
+      "basis": "Transcript [00:00:00] contains 'Patagonia here'"
+    },
+    {
+      "name": "Cuernos Del Paine area (probable)",
+      "confidence": 0.6,
+      "basis": "Filename and folder path indicate the subject; transcript does not explicitly name the location"
+    }
+  ],
+  "summary": "This landscape-processing tutorial walks through a multi-shot compositing workflow in Photoshop, set in a Patagonia waves context. The presenter demonstrates preparing RAW files to preserve dynamic range, syncing two exposures, and determining whether the camera moved between shots using a 'clone-paint' test. The video then covers manual blending with a mix of hard- and soft-edged brushes, followed by an alignment step when the camera shifted. A four-zone workflow is introduced to edit mountains, sky, water/waves, and rocks separately, then advanced color and atmospheric work is performed: perspective warping to enhance leading lines, targeted light shaping across land and water, color grading and selective color to control warmth, and finishing touches with blur plus luminosity to create glow. The session also highlights an Auto HDR pass for texture in waves, back-and-forth refinement, and the importance of preserving mountain detail while shaping atmosphere and light to achieve three-dimensionality.",
+  "topics": [
+    "Patagonia",
+    "Cuernos del Paine",
+    "photoshop",
+    "RAW",
+    "clone stamp",
+    "history brush",
+    "hard edge brush",
+    "soft edge brush",
+    "Perspective Warp",
+    "rule of trapezoids",
+    "focus stacking",
+    "zone editing",
+    "color grading",
+    "Selective Color",
+    "noise reduction",
+    "auto HDR",
+    "blur + luminosity",
+    "three-dimensionality",
+    "atmospheric perspective",
+    "leading lines",
+    "dynamic range",
+    "composition",
+    "masking",
+    "texture"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:20",
+      "title": "Introduction and image concept",
+      "concepts": [
+        "Patagonia seascape",
+        "shot selection",
+        "composition planning",
+        "wave compositing",
+        "side light concept"
+      ],
+      "description": "The presenter introduces the Patagonia scene, explains the abundance of possible wave combinations, and outlines the plan to add a splash and directional sunset light to shape the image."
+    },
+    {
+      "start": "00:01:20",
+      "end": "00:05:39",
+      "title": "RAW setup and exposure matching",
+      "concepts": [
+        "RAW dynamic range",
+        "highlight control",
+        "shadow detail",
+        "Apply Previous Settings",
+        "exposure sync"
+      ],
+      "description": "The first exposure is opened in RAW with an emphasis on keeping highlight detail and shadow information intact. A second shot is matched to the same settings so the pair can be blended consistently."
+    },
+    {
+      "start": "00:05:39",
+      "end": "00:09:28",
+      "title": "Detecting camera shift and aligning the frames",
+      "concepts": [
+        "clone paint test",
+        "camera movement",
+        "manual alignment",
+        "clone stamp",
+        "fit on screen"
+      ],
+      "description": "Using the clone-paint method, the presenter checks whether the camera moved between exposures. After confirming a shift, the images are zoomed and manually aligned for blending."
+    },
+    {
+      "start": "00:09:28",
+      "end": "00:12:31",
+      "title": "Manual blending of land, water, and waves",
+      "concepts": [
+        "hard edge brush",
+        "soft edge brush",
+        "manual blend",
+        "wave replacement",
+        "maskless compositing"
+      ],
+      "description": "The two shots are blended by painting land with a hard-edged brush and water or sky with a soft-edged brush, creating a seamless composite without layer masks."
+    },
+    {
+      "start": "00:12:31",
+      "end": "00:16:54",
+      "title": "Transition to creative processing and perspective warp",
+      "concepts": [
+        "focus stacking concept",
+        "light color atmosphere workflow",
+        "cropping",
+        "Perspective Warp",
+        "rule of trapezoids",
+        "leading lines"
+      ],
+      "description": "With the technical blend complete, the video shifts to creative editing: crop the frame, then warp the sky using the rule of trapezoids to strengthen leading lines without distorting the mountains."
+    },
+    {
+      "start": "00:16:54",
+      "end": "00:22:02",
+      "title": "Shaping depth with atmospheric clouds and history brush",
+      "concepts": [
+        "zone-based light shaping",
+        "clone stamp",
+        "cloud placement",
+        "history brush",
+        "atmospheric depth",
+        "three-dimensionality"
+      ],
+      "description": "Directional light is added to the scene by darkening one side and brightening the other, then a cloud is borrowed and blended behind a horn to increase separation and depth, with the history brush cleaning up the edges."
+    },
+    {
+      "start": "00:22:02",
+      "end": "00:28:11",
+      "title": "Four-zone workflow and mountain adjustments",
+      "concepts": [
+        "mountain separation",
+        "zone editing",
+        "four zones",
+        "RAW tonal shaping",
+        "warmth",
+        "whites",
+        "texture"
+      ],
+      "description": "The presenter explains the four-zone structure of the image, then begins with the mountains by warming them, boosting whites, and preserving texture so they stand apart from the background."
+    },
+    {
+      "start": "00:28:11",
+      "end": "00:34:41",
+      "title": "Layered light building with history brush and color grading",
+      "concepts": [
+        "history brush transfer",
+        "selective opacity",
+        "global saturation reduction",
+        "color grading",
+        "highlights",
+        "cloud texture",
+        "contrast"
+      ],
+      "description": "Multiple RAW adjustments are stacked and brushed into the image to build brighter mountain light and textured cloud structure, using color grading to keep warmth confined to the highlights."
+    },
+    {
+      "start": "00:34:41",
+      "end": "00:40:48",
+      "title": "Blur-based atmospheric separation",
+      "concepts": [
+        "noise reduction",
+        "blur painting",
+        "luminosity",
+        "background suppression",
+        "foreground separation",
+        "depth"
+      ],
+      "description": "A blur-and-luminosity pass is used as a soft atmospheric layer, then painted into distant peaks and background areas to push them back and make the horns stand forward."
+    },
+    {
+      "start": "00:40:48",
+      "end": "00:45:13",
+      "title": "Iterative sky refinements",
+      "concepts": [
+        "zone refinement",
+        "exposure adjustment",
+        "curves",
+        "warm highlights",
+        "selective cloud treatment",
+        "history status"
+      ],
+      "description": "The sky is refined in repeated passes, using exposure, whites, curves, and color grading to warm the clouds while preserving the blue sky and allowing easy backtracking through history."
+    },
+    {
+      "start": "00:45:13",
+      "end": "00:52:08",
+      "title": "Auto HDR technique for wave texture and mountain light",
+      "concepts": [
+        "auto HDR",
+        "clarity",
+        "shadow recovery",
+        "noise reduction",
+        "wave texture",
+        "sunlit mountain highlights"
+      ],
+      "description": "An Auto HDR-style RAW preset is used to enhance texture in the waves and create a more contrasty, sunlit look on the mountain faces, with repeated adjustments painted in selectively."
+    },
+    {
+      "start": "00:52:08",
+      "end": "00:57:29",
+      "title": "Refining mountain light and warming the waves",
+      "concepts": [
+        "color balance",
+        "opacity control",
+        "seamless blending",
+        "waves",
+        "selective warmth",
+        "highlight control"
+      ],
+      "description": "The mountain highlight treatment is tuned to match the scene, then the same lighting logic is applied to the waves, warming only the bright whites with selective color and painted adjustments."
+    },
+    {
+      "start": "00:57:29",
+      "end": "01:03:50",
+      "title": "Rock zone adjustments and reflected light cleanup",
+      "concepts": [
+        "rock zone",
+        "waterfall highlights",
+        "reflected light",
+        "cloud light source",
+        "clone stamp",
+        "history brush"
+      ],
+      "description": "The rocks are processed as the final zone, bringing out detail and warm light on the rock faces and waterfall areas, then refining or removing reflected-light artifacts to keep the lighting believable."
+    },
+    {
+      "start": "01:03:50",
+      "end": "01:10:23",
+      "title": "Final blur-plus-luminosity glow and wrap-up",
+      "concepts": [
+        "blur plus luminosity",
+        "Gordon effect",
+        "glow",
+        "mid-ground refinement",
+        "light direction",
+        "three-dimensional flow"
+      ],
+      "description": "A finishing blur-plus-luminosity pass creates a dreamy glow in the sky and distant areas, and the presenter compares the result to the starting point before concluding with the importance of placing light to guide depth and flow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Initial RAW dynamic-range balancing to preserve shadow detail while preventing clipping",
+      "timestamp": "00:01:20",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Two-shot exposure pairing and sync using Apply Previous Settings (RAW/Lightroom concept) and manual alignment",
+      "timestamp": "00:04:43",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Stamp 'clone-paint' method to test for camera movement and to align/blend shots without layer masks",
+      "timestamp": "00:06:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Manual blending with hard-edge brush for land and soft-edge brush for water/sky, blending two images",
+      "timestamp": "00:09:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cloud behind mountain with reduced-opacity clone brush (17%) to create atmospheric depth, followed by history brush to adjust edges",
+      "timestamp": "00:19:24",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Zone-based editing: partitioning the image into four zones and editing them separately to avoid cross-zone artifacts",
+      "timestamp": "00:24:46",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Perspective Warp / Rule of Trapezoids to widen the sky and improve leading lines while preserving mountains",
+      "timestamp": "00:13:46",
+      "confidence": 0.9
+    },
+    {
+      "technique": "History Brush to transfer adjustments between images and selectively restore history states",
+      "timestamp": "00:28:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Color Grading and Selective Color to localize warmth and hue to highlights while preserving overall color balance",
+      "timestamp": "00:32:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Blur plus luminosity finishing pass to create a subtle glow and depth (Gordon effect explanation)",
+      "timestamp": "01:03:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Auto HDR adjustments in RAW for textural enhancement in waves (clarity/shadows, reduced exposure, noise reduction) applied iteratively",
+      "timestamp": "00:45:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Atmospheric-depth and three-dimensionality via shading and selective light to separate mountains and bring foreground peaks forward",
+      "timestamp": "00:22:02",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Focus stacking concept: recognition of 'the technical part' of stacking focus for depth",
+      "timestamp": "00:12:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Electronic-zone-based workflow concept: four zones (mountains, sky, water/waves, rocks) and staged edits",
+      "timestamp": "00:24:46",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color management with selective color and color grading to isolate highlighted light while preserving blue tones",
+      "timestamp": "00:56:10",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color to warm whites in waves for reflective highlights",
+      "timestamp": "00:56:10",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:38:33.913044+00:00",
+  "timeline_repair_model": "gpt-5.4-mini",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-21T18:21:41.021893+00:00"
+}

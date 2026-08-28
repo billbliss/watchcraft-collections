@@ -1,0 +1,254 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/PNW 1-3.mp4",
+  "title": "Coastal Wave Processing and Directional Light Painting in Photoshop (PNW 1-3, Part 6 - 2024)",
+  "date": {
+    "display": "June 20, 2024 (approximate export date)",
+    "iso": "2024-06-20",
+    "precision": "day",
+    "confidence": 0.4,
+    "basis": "embedded_creation_time metadata; transcript does not independently confirm the shooting date"
+  },
+  "locations": [],
+  "summary": "This instructional portrait of coastal editing walks through a photographer-editor's workflow to elevate a shoreline image. It covers selecting suitable waves and light across multiple frames, cropping for sky, and building directional sunset-like lighting through staged local dodging and color grading. The process includes raw adjustments, shadow/highlight manipulation, and a blend of two shots via clone-stamping techniques, followed by selective color work, an HDR-like texture boost, perspective corrections to the horizon, and final refinements to rocks, water, and sky. The narrative emphasizes maintaining natural looking light while shaping depth through controlled, zone-by-zone adjustments and cautious use of HDR texture on the water.",
+  "topics": [
+    "clone stamp tool",
+    "wave blending",
+    "shadow dodge",
+    "highlight dodge",
+    "whites blacks exposure",
+    "color grading",
+    "selective color",
+    "raw adjustments",
+    "perspective warp",
+    "horizon correction",
+    "crop",
+    "auto HDR",
+    "tone-mapped HDR",
+    "luminosity adjustments",
+    "sky color",
+    "rock color",
+    "water texture",
+    "coastal landscape",
+    "waves",
+    "rocks",
+    "seascape",
+    "cam dynamics",
+    "dynamic range",
+    "three-dimensional lighting",
+    "seagull placement"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:19",
+      "title": "Initial global adjustments to expand dynamic range",
+      "concepts": [
+        "dynamic range expansion",
+        "global exposure adjustments",
+        "shadow preservation",
+        "contrast control"
+      ],
+      "description": "Open with intent to expand the dynamic range while keeping shadows dark; establishes baseline processing context."
+    },
+    {
+      "start": "00:00:19",
+      "end": "00:01:40",
+      "title": "Wave and light source scouting across shots",
+      "concepts": [
+        "wave selection",
+        "lighting compatibility",
+        "file comparison"
+      ],
+      "description": "The editor evaluates the current file for a near-perfect wave and second wave; considers blending a shot with waves between rocks but notes focus issues and light availability."
+    },
+    {
+      "start": "01:40",
+      "end": "02:33",
+      "title": "Camera-movement consequences for blending feasibility",
+      "concepts": [
+        "composition shifts",
+        "focal-length differences",
+        "alignment challenges"
+      ],
+      "description": "Discussion of whether blending could work given different compositions and focal lengths; emphasizes lack of alignment between shots."
+    },
+    {
+      "start": "02:33",
+      "end": "03:03",
+      "title": "Determining blending feasibility across frames",
+      "concepts": [
+        "blend feasibility",
+        "light matching",
+        "composition variance"
+      ],
+      "description": "Conclusion that blending light across shots is not feasible due to the absence of matching light in alternative takes."
+    },
+    {
+      "start": "03:03",
+      "end": "04:50",
+      "title": "Strategic cropping and shot selection for later processing",
+      "concepts": [
+        "crop planning",
+        "sky inclusion",
+        "scene composition"
+      ],
+      "description": "Notes on potential cropping later to include more sky; evaluation of prior options and decision to focus on a single shot with strong potential."
+    },
+    {
+      "start": "04:50",
+      "end": "06:36",
+      "title": "Sky/light trade-off and plan to render strong light",
+      "concepts": [
+        "epic skies",
+        "light loss",
+        "directional light planning"
+      ],
+      "description": "Acknowledge epic skies came with reduced light; reframing the task as creating light where it was missing rather than waiting for ideal conditions."
+    },
+    {
+      "start": "06:36",
+      "end": "07:43",
+      "title": "Directing light with wide framing and pre-visualization",
+      "concepts": [
+        "wide framing",
+        "sky capture",
+        "crop for later"
+      ],
+      "description": "Guidance to go wide early to ensure sky data is captured, anticipating later cropping decisions."
+    },
+    {
+      "start": "07:43",
+      "end": "10:04",
+      "title": "Shadow dodge build-out for directional light",
+      "concepts": [
+        "shadow dodge",
+        "staging light path",
+        "zone-based shading"
+      ],
+      "description": "First pass of shaping light by brightening a defined area to invite directional light and then applying targeted dodging to allocate light paths."
+    },
+    {
+      "start": "10:04",
+      "end": "12:52",
+      "title": "Fine-tuning wave lighting and color with selective targeting",
+      "concepts": [
+        "white/reds/blacks adjustments",
+        "color grading",
+        "localized light on waves"
+      ],
+      "description": "Shade the wave with whites and color grade to create a sunset feel; paint light onto the wave and other breaking waves; emphasize directionality while preserving edges."
+    },
+    {
+      "start": "12:52",
+      "end": "15:57",
+      "title": "Foreground rock and rock-texture stabilization",
+      "concepts": [
+        "foreground rock selection",
+        "color consistency",
+        "dynamic range tweaks"
+      ],
+      "description": "Addresss color inconsistencies in foreground rocks, adding sunset hues and raising dynamic range in problematic zones to achieve cohesion."
+    },
+    {
+      "start": "15:57",
+      "end": "20:12",
+      "title": "Increasing light bleed and RAW-based refinements",
+      "concepts": [
+        "light bleed",
+        "highlight dodge",
+        "RAW adjustments",
+        "HDR texture"
+      ],
+      "description": "Introduce more directional light, perform highlight dodge in controlled steps, revisit RAW to push warmth, and introduce an HDR-like texture boost to enhance surface detail in water."
+    },
+    {
+      "start": "20:12",
+      "end": "22:28",
+      "title": "Before/after remix and horizon framing",
+      "concepts": [
+        "before/after remixes",
+        "partial light reintroduction",
+        "crop reconsideration"
+      ],
+      "description": "Demonstrates remaking the light by blending adjustments gradually; compares before and after and adjusts horizon emphasis through selective remasking."
+    },
+    {
+      "start": "22:28",
+      "end": "23:01",
+      "title": "Horizon correction with perspective tools",
+      "concepts": [
+        "perspective warp",
+        "un-tilt horizon"
+      ],
+      "description": "Uses perspective-based correction to straighten the horizon, preserving the rebalanced tonal relationships."
+    },
+    {
+      "start": "23:01",
+      "end": "30:12",
+      "title": "Final color, texture, and detail refinements; seagull embellishment",
+      "concepts": [
+        "clouds 50-150 color boost",
+        "selective color",
+        "blues adjustment",
+        "seagull placement"
+      ],
+      "description": "Concludes with layered color work (clouds and sky hues) using 50-150 adjustments, targeted selective color on rocks and sky, final horizon and wave tweaks, and a closing note about adding a seagull to complete the composition."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Clone Stamp-based wave blending (two-shot blend)",
+      "timestamp": "00:05:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Shadow Dodge to sculpt directional light",
+      "timestamp": "00:07:43",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Highlight Dodge to simulate light catching surfaces",
+      "timestamp": "00:16:49",
+      "confidence": 0.8
+    },
+    {
+      "technique": "White/Blacks/Exposure adjustments",
+      "timestamp": "00:08:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color Grading for sunset tones",
+      "timestamp": "00:08:49",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Selective Color for localized color control",
+      "timestamp": "00:26:17",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Auto HDR (tone-mapped HDR) texture boost in RAW",
+      "timestamp": "00:18:52",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Perspective Warp for horizon alignment",
+      "timestamp": "00:22:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "RAW-based warmups and blues adjustment",
+      "timestamp": "00:17:55",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Remix light across the scene via staged intensity",
+      "timestamp": "00:21:15",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:06:35.834785+00:00"
+}

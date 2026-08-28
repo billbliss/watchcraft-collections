@@ -1,0 +1,221 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Alaska Winter + Aurora 2-2.mp4",
+  "title": "Alaska Nightscape Post-Processing: Multi-Exposure Auroral Blending, Beams, and Clone-Paint Techniques",
+  "date": {
+    "display": "March 7, 2026 (approx.)",
+    "iso": "2026-03-07",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata in file"
+  },
+  "locations": [
+    {
+      "name": "Alaska (probable)",
+      "confidence": 0.6,
+      "basis": "Filename/path indicates Alaska; transcript does not explicitly confirm shooting location"
+    }
+  ],
+  "summary": "The video is a detailed, field-tested walkthrough of post-processing a dramatic Alaska night-scape featuring beams of light through fog, a foreground tree, a rolling fog bank, and an aurora. The presenter walks through noise reduction; global and local adjustments; selecting and aligning multiple exposures; and composing aurora and foreground elements from different frames. Distinctive techniques include non-destructive cloning-based blending (clone stamp and the clone-paint workflow), history painting, careful foreground augmentation with light beams, fog manipulation, and color-grading to preserve a natural look while enhancing aurora color depth. The discussion emphasizes stable composition for easier blends, avoiding a literal, pasted moon, and ensuring pixel-level accuracy (no duplicated stars) when finalizing a blended image for print or display.",
+  "topics": [
+    "noise reduction (global then local)",
+    "global exposure adjustment to control shadows/highlights",
+    "multi-exposure blending for night-sky scenes",
+    "aurora and foreground alignment across frames",
+    "clone stamp tool for cross-image blending",
+    "clone painting workflow (non-destructive)",
+    "history brush usage for layering effects",
+    "foreground beams and fog enhancement in post",
+    "color grading and selective color for aurora (magenta/blue shifts)",
+    "masking to prevent duplicate stars during blends",
+    "handling vertical vs horizontal blends in aurora photography",
+    "composition decisions to place light source and avoid alignment along axes",
+    "non-destructive versioning and save-as workflow"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:26",
+      "title": "Scene elements and planning in the shot",
+      "concepts": [
+        "god beams",
+        "fog",
+        "lone tree",
+        "foreground fog",
+        "moonrise light",
+        "aurora"
+      ],
+      "description": "Introductory framing of the shot: beams through fog, a lone tree, fog beneath a mountain, moonlit accents, and visible aurora. The speaker notes many zones and pieces to balance during processing."
+    },
+    {
+      "start": "00:02:26",
+      "end": "00:04:13",
+      "title": "Noise reduction strategy for night exposures",
+      "concepts": [
+        "global noise reduction",
+        "local noise reduction",
+        "AI denoise",
+        "pre/post processing"
+      ],
+      "description": "Outline of applying noise reduction before processing and again after major adjustments. Advises using AI-based tools (Topaz or Lightroom) and applying moderation so detail (like slight green noise) remains visible."
+    },
+    {
+      "start": "00:04:13",
+      "end": "00:07:12",
+      "title": "Base file selection and exposure matching",
+      "concepts": [
+        "base file",
+        "15s exposure",
+        "ISO considerations",
+        "alignment planning"
+      ],
+      "description": "Selecting a ‘base’ exposure (e.g., 15-second frame at ISO 3200–6400) to anchor the blend. Adjustments focus on foreground shadow detail and preparing frames to blend with aurora frames later."
+    },
+    {
+      "start": "00:07:12",
+      "end": "00:12:26",
+      "title": "Aurora frame selection and initial blending plan",
+      "concepts": [
+        "aurora frames",
+        "frame quality",
+        "foreground composition",
+        "blend strategy"
+      ],
+      "description": "Deciding which aurora frames to pull from and how to merge them with the base image. Emphasizes that aurora detail may differ between exposures and that the foreground should be matched before compositing the aurora."
+    },
+    {
+      "start": "00:12:26",
+      "end": "00:18:55",
+      "title": "Blending constraints and alignment considerations",
+      "concepts": [
+        "vertical vs. horizontal blends",
+        "edge alignment",
+        "duplicate stars",
+        "composition stability"
+      ],
+      "description": "Discusses challenges of changing composition and camera movement. Highlights the risk of duplicate stars, misaligned edges, and the importance of a stable composition to simplify blending."
+    },
+    {
+      "start": "00:18:55",
+      "end": "00:21:49",
+      "title": "Versioning and non-destructive workflow intro",
+      "concepts": [
+        "save as versions",
+        "non-destructive edits",
+        "history and cloning"
+      ],
+      "description": "Introduces non-destructive workflows and the practice of saving multiple versions to revert adjustments later. Prefaces the clone-paint/history-paint discussion with a long-standing workflow mindset."
+    },
+    {
+      "start": "00:21:49",
+      "end": "00:24:50",
+      "title": "Clone Stamp vs. clone-paint: cross-image blending",
+      "concepts": [
+        "clone stamp",
+        "clone-paint",
+        "overlaying frames",
+        "alignment controls",
+        "history brush"
+      ],
+      "description": "Deep dive into the clone stamp workflow for cross-image alignment, and the clone-paint method as a history-linked, non-destructive alternative. Includes practical steps for aligning two images and painting adjustments from one onto the other."
+    },
+    {
+      "start": "00:24:50",
+      "end": "00:31:28",
+      "title": "Foreground beams and fog enhancement techniques",
+      "concepts": [
+        "beams painting",
+        "fog intensity",
+        "soft vs hard edges",
+        "layer opacity"
+      ],
+      "description": "Demonstrates painting additional beams with a brush, fading and erasing edges for direction, and intensifying foreground fog with controlled opacity to balance the scene."
+    },
+    {
+      "start": "00:31:28",
+      "end": "00:36:14",
+      "title": "Aurora color control and selective color work",
+      "concepts": [
+        "magenta/blue casts",
+        "selective color adjustments",
+        "white adjustments",
+        "color grading"
+      ],
+      "description": "Explains shifting the aurora toward magenta/blue, using selective color to fine-tune specific ranges, and applying whites adjustments to preserve color integrity without banding."
+    },
+    {
+      "start": "00:36:14",
+      "end": "00:41:40",
+      "title": "Edge handling, masking, and star alignment considerations",
+      "concepts": [
+        "edge definition",
+        "masking",
+        "star duplication prevention",
+        "pre- and post-blend checks"
+      ],
+      "description": "Emphasizes careful edge treatment, masking to avoid duplicating stars, and preserving alignment to keep the blend believable and print-ready."
+    },
+    {
+      "start": "00:41:40",
+      "end": "00:46:36",
+      "title": "Finishing touches, workflow discipline, and Q&A",
+      "concepts": [
+        "final fog tweaks",
+        "tripod prints",
+        "printability",
+        "questions about clone-paint"
+      ],
+      "description": "Wrap-up with final fog adjustments, tripod footprint considerations, and a reminder about preserving edits for later revisit; includes a brief Q&A and rationale for the chosen workflow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Multi-exposure aurora/foreground blending (selecting base frame + aurora frames)",
+      "timestamp": "00:09:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Stamp cross-image alignment for blending two frames",
+      "timestamp": "00:05:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Clone Paint workflow (non-destructive, cross-image edits)",
+      "timestamp": "00:21:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "History Brush to blend between staged edits",
+      "timestamp": "00:22:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "AI-based noise reduction with global then local sequencing",
+      "timestamp": "00:03:04",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective color and white-shift color grading for aurora",
+      "timestamp": "00:32:45",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Beams and fog augmentation with large soft brushes and controlled erasure",
+      "timestamp": "00:25:19",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Pixel-accurate color matching and 100% foreground comparison during blending",
+      "timestamp": "00:08:12",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Color-cast management and masking to avoid color banding in aurora",
+      "timestamp": "00:35:33",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:50:24.920501+00:00"
+}

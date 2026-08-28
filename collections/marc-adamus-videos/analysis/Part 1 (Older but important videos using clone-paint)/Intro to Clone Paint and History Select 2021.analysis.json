@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Intro to Clone Paint and History Select 2021.mp4",
+  "title": "Intro to Clone Paint and History Select 2021 — Post-processing workflow with history-based painting and clone-paint techniques",
+  "date": {
+    "display": "February 22, 2021 (approximate)",
+    "iso": "2021-02-22",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time metadata suggests 2021-02-22; transcript does not independently confirm the date."
+  },
+  "locations": [],
+  "summary": "This instructional video outlines a photographer’s post-processing workflow centered on selective exposure management, dynamic range balancing, and painterly editing achieved through two parallel image variants. The speaker demonstrates adjusting exposure and dynamic range, adding directional light via dodging, and performing tonal- and color-based color grading in RAW/Camera Raw before painting those adjustments into a second RAW version in Photoshop. A core feature is the clone-paint workflow, where adjustments from a copied image are painted onto the original using a clone-stamp approach, contrasted with the history-brush method. The video also covers texture work (via cloning), foliage enhancement with the sponge tool, and a non-destructive mindset that emphasizes saving multiple versions to preserve options.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "History Brush",
+    "Clone Painting",
+    "Clone Stamp Tool",
+    "Sponge Tool",
+    "Dodge and Burn",
+    "Dynamic Range",
+    "Exposure",
+    "Blacks",
+    "Shadows",
+    "Highlights",
+    "Color Grading",
+    "Tonality-based Adjustments",
+    "Color-based Adjustments",
+    "Color Wheel",
+    "Camera Calibration",
+    "HSL",
+    "Non-destructive workflow",
+    "Versioning",
+    "Painterly look",
+    "Bleed",
+    "Focus/Depth"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "Image selection and initial exposure balancing",
+      "concepts": [
+        "image selection",
+        "reduce exposure",
+        "dynamic range panel",
+        "blacks/shadows",
+        "highlights",
+        "initial balance of light"
+      ],
+      "description": "The presenter previews the selection of trip images and explains beginning post-processing by lowering exposure and using the dynamic range panel to raise lights while restoring blacks and shadows, aiming for a view closer to eye perception."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:05:52",
+      "title": "Color grading concepts: tonal-based vs color-based adjustments",
+      "concepts": [
+        "tonal-based color adjustments",
+        "color-based adjustments",
+        "color wheel",
+        "tone vs color",
+        "camera calibration",
+        "banding risk in HSL"
+      ],
+      "description": "Discussion on differentiating tonal-based adjustments (e.g., luminosity-driven changes) from color-based adjustments (targeting specific color ranges). The speaker demonstrates adjusting color temperature, tint, and introduces camera calibration as a tool, cautioning about banding with wide HSL edits."
+    },
+    {
+      "start": "00:05:52",
+      "end": "00:07:02",
+      "title": "Photoshop workflow intro: two-image approach and blending without selections",
+      "concepts": [
+        "Photoshop",
+        "two-image approach",
+        "RAW version blending",
+        "non-selections"
+      ],
+      "description": "The workflow concept is introduced: create a second RAW version to pull adjustments from, plan to blend by painting rather than using selections, and prepare to move these adjustments into Photoshop."
+    },
+    {
+      "start": "00:07:02",
+      "end": "00:14:20",
+      "title": "History Brush-based painting and RAW adjustments in Photoshop",
+      "concepts": [
+        "Camera Raw Filter",
+        "history brush",
+        "dodging",
+        "soft/gradual painting",
+        "layer separation"
+      ],
+      "description": "The speaker uses Camera Raw Filter to craft light adjustments on a second variant, then applies them with the History Brush to paint warmth and direction onto the primary image, emphasizing a painterly, non-destructive workflow and the avoidance of hard selections."
+    },
+    {
+      "start": "00:14:20",
+      "end": "00:21:33",
+      "title": "Clone Painting workflow: sampling from a copy and painting onto the original",
+      "concepts": [
+        "clone painting",
+        "clone stamp tool",
+        "sample from copy",
+        "alignment",
+        "texture in shadows",
+        "further texture work on clouds",
+        "foliage adjustments"
+      ],
+      "description": "An extended demonstration of clone painting: duplicating the image to preserve history, aligning the copies, and using the clone stamp to transfer texture and color from the copy to the original while selectively masking. The process includes texture work in shadows and preliminary cloud/fog texture adjustments, plus a note on using the sponge tool for foliage."
+    },
+    {
+      "start": "00:21:33",
+      "end": "00:21:58",
+      "title": "Non-destructive saving and final notes",
+      "concepts": [
+        "non-destructive workflow",
+        "versioning",
+        "save as multiple versions"
+      ],
+      "description": "The video closes with guidance to save multiple versions to safeguard past states and maintain flexibility, highlighting a non-destructive editing philosophy."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range balancing using exposure and the dynamic range panel (blacks/shadows and whites/highlights)",
+      "timestamp": "00:00:31-00:00:50",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Directional side lighting through dodging to enhance perceived light direction",
+      "timestamp": "00:01:12-00:01:23",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tonality-based vs color-based color adjustments; color grading with color wheel and luminosity controls",
+      "timestamp": "00:02:26-00:03:52",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Camera Calibration tool for global color adjustment and color harmony",
+      "timestamp": "00:04:07-00:04:41",
+      "confidence": 0.78
+    },
+    {
+      "technique": "History Brush as primary adaptive painting workflow for applying adjustments",
+      "timestamp": "00:09:40-00:10:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Painting workflow: duplicating the image and painting from the copy onto the original using clone stamp",
+      "timestamp": "00:14:25-00:16:26",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Sponge Tool for selective foliage color and saturation adjustments",
+      "timestamp": "00:17:54-00:18:11",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Non-destructive versioning and saving multiple states to preserve edits",
+      "timestamp": "00:20:06-00:21:58",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:54:44.989484+00:00"
+}

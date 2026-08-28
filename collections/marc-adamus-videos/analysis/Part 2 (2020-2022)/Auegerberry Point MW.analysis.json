@@ -1,0 +1,151 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Auegerberry Point MW.mp4",
+  "title": "Milky Way Nightscape: Multi-Exposure Fusion and Milky Way Core Enhancement (Auegerberry Point MW)",
+  "date": {
+    "display": "2021-02-16",
+    "iso": "2021-02-16",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time from file metadata"
+  },
+  "locations": [
+    {
+      "name": "Las Vegas, Nevada (light source)",
+      "confidence": 0.75,
+      "basis": "Explicit reference in transcript that foreground lighting came from Las Vegas rather than moonlight."
+    },
+    {
+      "name": "Ridgecrest, California (proximate light source)",
+      "confidence": 0.6,
+      "basis": "Transcript mentions the town of Ridgecrest as a light source in the scene, indicating proximity but not the shooting location."
+    }
+  ],
+  "summary": "The video walks through a nightscape workflow that blends a foreground landscape with a Milky Way sky using two exposures, then performs a multi-pass RAW workflow to emphasize the stars and the Milky Way core. The presenter demonstrates aligning the Milky Way with the landscape when the camera is moved, blending two shots, and carefully controlling noise by placing the sky and midground on separate layers. He shows clone-stamp edge blending, history-brush painting to control depth, horizon-specific color grading (including magenta-tinted skies), and a two-pass RAW approach to separately enhance the sky and the Milky Way core. Additional steps cover chromatic aberration considerations, selective color corrections, mid-tone dodging to guide viewer attention, and a final blur-based glow to create a soft, dreamy finish. The result is a cohesive night scene that merges Las Vegas foreground light with a dark, star-filled sky while maintaining believable transitions between sky and ground.",
+  "topics": [
+    "Milky Way photography",
+    "nightscape",
+    "foreground-sky blending",
+    "two-exposure blending",
+    "cloning",
+    "clone stamp",
+    "history brush",
+    "Camera Raw",
+    "RAW processing",
+    "dehaze",
+    "clarity",
+    "color grading",
+    "selective color",
+    "chromatic aberration",
+    "noise reduction",
+    "mid-tone dodging",
+    "luminosity blur",
+    "glow",
+    "Milky Way core",
+    "noise management",
+    "edge blending",
+    "composition",
+    "Las Vegas light",
+    "Ridgecrest proximity",
+    "astrophotography tutorial",
+    "exposure fusion",
+    "dynamic range"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:39",
+      "title": "Shot setup and initial alignment",
+      "concepts": [
+        "static camera for consistency",
+        "Milky Way alignment with landscape when changing shots",
+        "foreground darkening for balanced dynamic range"
+      ],
+      "description": "The presenter notes that a fixed camera position across shots makes alignment easier, then demonstrates darkening the foreground and broad-scale adjustments to create a true-to-eye dynamic range before proceeding to align the Milky Way with the landscape."
+    },
+    {
+      "start": "00:02:39",
+      "end": "00:12:25",
+      "title": "Edge blending and dual-exposure alignment",
+      "concepts": [
+        "two-image overlay",
+        "edge-noise management",
+        "clone stamping for alignment",
+        "compositional consistency between sky and ground"
+      ],
+      "description": "Two images (foreground-exposed and sky-exposed) are overlaid. The edge where the two frames meet is blended using a low-hardness clone-stamp approach, with inverse selections to constrain blending and preserve detail in the midground while controlling noise. The emphasis is on keeping a stable alignment and ensuring the horizon lines up while the sky changes."
+    },
+    {
+      "start": "00:12:25",
+      "end": "00:16:21",
+      "title": "Composition considerations and RAW preparation",
+      "concepts": [
+        "cropping for strong composition",
+        "planning Milky Way scale relative to foreground",
+        "preparing for multi-pass RAW work"
+      ],
+      "description": "The frames are cropped to improve composition, and the speaker discusses how Milky Way size in pixels will affect final integration. The discussion sets up for subsequent RAW processing passes to optimize both sky and Milky Way details."
+    },
+    {
+      "start": "00:16:21",
+      "end": "00:28:18",
+      "title": "Two-pass RAW processing, Milky Way placement, and finishing touches",
+      "concepts": [
+        "two RAW passes: stars vs Milky Way core",
+        "dehaze/clarity/exposure adjustments",
+        "color grading and white balance tuning",
+        "chromatic aberration handling via selective color",
+        "noise reduction strategy",
+        "blur and luminosity glow",
+        "history brush blending and masking",
+        "final composite alignment and save"
+      ],
+      "description": "The main RAW workflow unfolds in two passes: first to optimize the sky and star field, second to intensify the Milky Way core. The Milky Way is then composited into the landscape with careful feathering, edge blending, and color corrections to maintain a natural night look while preserving the foreground’s light influence (Las Vegas glow). The process includes chromatic aberration adjustments, selective color corrections to harmonize edges, and a final glow achieved with a blur-based effect and luminosity adjustments. Noise reduction is applied selectively after multi-pass edits, and the composite is finalized with careful dodging along the horizon to guide the viewer’s eye. The video ends with reflections on composition choices and saving the final image."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Two-shot sky/foreground alignment and stacking",
+      "timestamp": "00:02:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Clone Stamp edge blending for seamless composite",
+      "timestamp": "00:02:53",
+      "confidence": 0.8
+    },
+    {
+      "technique": "RAW multi-pass processing: separate sky vs. Milky Way core",
+      "timestamp": "00:08:51",
+      "confidence": 0.9
+    },
+    {
+      "technique": "History brush and selective painting to control depth",
+      "timestamp": "00:12:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Noise reduction (40% NR, preserve midtone detail)",
+      "timestamp": "00:15:07",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Dodge and burn (mid-tone) to direct viewer attention",
+      "timestamp": "00:19:47",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective color to mitigate chromatic aberration",
+      "timestamp": "00:20:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blur plus luminosity for glow and atmosphere",
+      "timestamp": "00:25:43",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:26:07.424484+00:00"
+}

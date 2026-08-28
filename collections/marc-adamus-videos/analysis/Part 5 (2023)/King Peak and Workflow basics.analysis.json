@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/King Peak and Workflow basics.mp4",
+  "title": "King Peak and Workflow Basics: RAW Dynamic Range Expansion and Photoshop Workflow",
+  "date": {
+    "display": "February 24, 2024",
+    "iso": "2024-02-24",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded MP4 creation_time indicates 2024-02-24; transcript does not independently confirm the filming date."
+  },
+  "locations": [],
+  "summary": "This segment presents a landscape photographer's workflow basics focused on preparing a shot for processing by first expanding dynamic range in RAW to preserve shadow detail and prevent blown highlights, followed by aesthetic adjustments in Photoshop to guide the viewer's eye to the sunlit area. The narrator discusses keeping the image slightly underexposed in the RAW stage to avoid loss of detail, then considers foreground lighting, leading lines, and transitions. The video also covers the tradeoffs of perspective warping (to improve leading lines) and stresses that warping can reduce sharpness and should be considered early in the workflow since edits performed later may be hard to undo. Finally, it outlines practical workflow choices in Photoshop/Camera Raw, touches on the role of smart objects, and notes that if a focus-stacked sequence were available, stacking would be performed first. The overall emphasis is on addressing dynamic range in RAW before further edits to minimize shadow recovery and maintain image integrity.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "RAW processing",
+    "dynamic range",
+    "shadow detail",
+    "exposure adjustment",
+    "leading lines",
+    "perspective warp",
+    "warp tool",
+    "vignette",
+    "focus stacking",
+    "non-destructive editing",
+    "landscape photography",
+    "workflow basics",
+    "image editing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:15",
+      "title": "RAW dynamic range expansion and shadow preservation",
+      "concepts": [
+        "Expand dynamic range in RAW",
+        "Avoid clipping / blown highlights",
+        "Preserve shadow detail",
+        "Prevent sun from becoming a blob",
+        "Set baseline before processing"
+      ],
+      "description": "The speaker describes the first step of the workflow: opening the image in RAW and expanding dynamic range so nothing is within a stop of clipping while shadows retain detail. The aim is to avoid HDR-like exaggeration and to create a workable base for further edits, ensuring the sun remains distinct and not blown out."
+    },
+    {
+      "start": "00:02:19",
+      "end": "00:04:03",
+      "title": "Lighting transitions and foreground treatment",
+      "concepts": [
+        "Directing the eye to the light",
+        "Creating smooth transitions",
+        "Balancing foreground brightness",
+        "Enhancing or preserving leading lines"
+      ],
+      "description": "After establishing RAW exposure, the discussion shifts to guiding viewer attention toward the sunlit area, creating transitions, and evaluating how the foreground light-to-dark gradient can be managed to support the composition without harming overall realism."
+    },
+    {
+      "start": "00:04:03",
+      "end": "00:04:32",
+      "title": "Warping caveats and detail considerations",
+      "concepts": [
+        "Perspective warping for stronger leading lines",
+        "Trade-off with sharpness/detail",
+        "Undo considerations and timing"
+      ],
+      "description": "The speaker explains when and why to apply perspective warp to improve leading lines, highlighting that warping can reduce detail and should be done cautiously and early in the workflow because later edits may be harder to revert."
+    },
+    {
+      "start": "00:04:32",
+      "end": "00:05:18",
+      "title": "Editing workflow and focus-stacking note",
+      "concepts": [
+        "Photoshop and Camera Raw tools",
+        "Open the image in RAW without smart objects",
+        "When to perform focus stacking (if applicable)",
+        "Order of operations and the importance of early edits"
+      ],
+      "description": "This section covers practical editing methods in Photoshop and Camera Raw, including using the full-image RAW adjustments, the option to avoid smart objects for simple workflows, and a clear note that if a focus-stacked set existed, stacking would be done first. It emphasizes applying edits in an order that preserves the ability to undo key adjustments."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "RAW dynamic range expansion to preserve tonal detail",
+      "timestamp": "00:00:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Shadow reconstruction and controlled exposure to avoid blown highlights",
+      "timestamp": "00:01:01",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Directing attention with light and creating transitions for composition",
+      "timestamp": "00:02:21",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Perspective warp to enhance leading lines",
+      "timestamp": "00:03:21",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Warping caution: avoid excessive distortion to preserve detail",
+      "timestamp": "00:04:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Workflow integration: Photoshop/Camera Raw approach without smart objects",
+      "timestamp": "00:04:52",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Focus stacking first when applicable",
+      "timestamp": "00:05:03",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:14:06.381187+00:00"
+}

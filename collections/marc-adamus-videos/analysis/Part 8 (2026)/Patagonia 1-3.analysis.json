@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Patagonia 1-3.mp4",
+  "title": "Patagonia Telephoto Landscape: Layered White Adjustments for Depth and Light",
+  "date": {
+    "display": "2026-04-10",
+    "iso": "2026-04-10T19:47:48.000Z",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in file metadata (approximate)"
+  },
+  "locations": [],
+  "summary": "This video tutorial demonstrates a layered post-processing workflow on telephoto landscape imagery, emphasizing haze management, depth separation, and directional light. The presenter repeatedly applies and blends Whites adjustments to lift a hazy foreground and bring warmth, then isolates the background using masking and painting to push distant structures further away. The workflow includes foreground emphasis (bonsai-like tree subject), water-layer masking for depth, sky enhancement with strong highlights, and careful dodge/burn to sculpt light and shadows. Final touches cover foreground simplification with blur to reduce texture, and crop considerations to sharpen composition. Throughout, the emphasis is on non-destructive multi-pass edits, masking, and targeted local adjustments to guide the viewer’s eye through the scene along the light source.",
+  "topics": [
+    "Telephoto landscape composition",
+    "Layered post-processing workflow",
+    "Whites adjustment (tonal lift) for hazy scenes",
+    "Temperature / white balance adjustments",
+    "Contrast enhancement across multiple passes",
+    "Masking and painting to isolate background/foreground",
+    "Background separation to increase depth",
+    "Edge-based painting for water separation",
+    "Water layer brightening and masking",
+    "Hard-edge brush usage for targeted edits",
+    "Directional light emphasis and dodging",
+    "Sky enhancement and dehaze",
+    "Crop decisions for windswept composition",
+    "Foreground simplification with blur/clone tools",
+    "Color grading and selective detail control"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:12",
+      "title": "Initial whites adjustment pass and warmth for hazy telephoto shot",
+      "concepts": [
+        "White adjustment",
+        "temperature uplift",
+        "contrast boost",
+        "multi-pass processing"
+      ],
+      "description": "Begin with a large Whites adjustment to lift the hazy mountain layers, then apply a second pass to increase contrast and warmth; plan to blend the two renders and crop to frame."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:04:11",
+      "title": "Background separation planning in layered telephoto",
+      "concepts": [
+        "background isolation",
+        "masking / painting",
+        "directional light planning"
+      ],
+      "description": "Discusses separating the background area to push it further away and capitalize on a strong composition; notes multiple candidate shots from that day."
+    },
+    {
+      "start": "00:04:11",
+      "end": "00:05:58",
+      "title": "Foreground emphasis and light shaping (bonsai, water, vignette)",
+      "concepts": [
+        "foreground lighting",
+        "brighten water behind subject",
+        "masking with hard edge brush",
+        "vignette around edges"
+      ],
+      "description": "Describes brightening the foreground feature (bonsai-like tree) and using a water layer to create separation; applies a hard-edge brush to paint and then creates a subtle edge vignette."
+    },
+    {
+      "start": "00:06:58",
+      "end": "00:07:41",
+      "title": "Sky processing and directional light emphasis",
+      "concepts": [
+        "repeated whites adjustments on sky",
+        "grain management",
+        "directional light emphasis",
+        "crop consideration"
+      ],
+      "description": "Notes aggressive sky edits via repeated Whites adjustments; discusses maintaining directional light and considers crop choice to optimize composition."
+    },
+    {
+      "start": "00:09:45",
+      "end": "00:11:41",
+      "title": "Dodge & burn to reveal sun-lit areas and deepen background",
+      "concepts": [
+        "shadow detail",
+        "dodging & burning",
+        "emphasizing sun direction",
+        "soft brush on distant areas"
+      ],
+      "description": "Demonstrates targeted dodging to brighten shadowed regions and imply sunlight behind trees; uses careful brushwork to control depth and light spill."
+    },
+    {
+      "start": "00:11:41",
+      "end": "00:12:10",
+      "title": "Foreground simplification with blur and final notes",
+      "concepts": [
+        "blur tool for middle ground",
+        "clone/blur for smoothing",
+        "potential for further processing"
+      ],
+      "description": "Illustrates using blur to reduce foreground texture and smooth the middle ground; acknowledges that some shots could benefit from further processing later."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Large whites adjustment pass to lift haze and warm the scene",
+      "timestamp": "00:00:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Two-pass whites adjustment and contrast to heighten depth",
+      "timestamp": "00:00:20",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Background separation and depth planning via masking",
+      "timestamp": "00:02:12",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Water layer brightening and painting to keep foreground distinct",
+      "timestamp": "00:06:35",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Hard-edge brush painting to isolate water and apply vignette",
+      "timestamp": "00:06:50",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Sky enhancement with repeated whites adjustments and dehaze",
+      "timestamp": "00:07:13",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Directional light emphasis via dodge and burn",
+      "timestamp": "00:09:45",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Selective foreground simplification using blur/clone tools",
+      "timestamp": "00:11:47",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Final crop recommendation to improve windswept composition",
+      "timestamp": "00:07:53",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:42:35.763148+00:00"
+}

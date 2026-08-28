@@ -1,0 +1,191 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/AK Fall Best of 2022.mp4",
+  "title": "Directional Light, Lens Distortion Techniques, and Layered Color Grading in Landscape Post-Processing (AK Fall Best of 2022)",
+  "date": {
+    "display": "September 19, 2022",
+    "iso": "2022-09-19",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time metadata indicates 2022-09-19; transcript implies a trip around that period."
+  },
+  "locations": [
+    {
+      "name": "Patagonia region (probable)",
+      "confidence": 0.45,
+      "basis": "Transcript mentions 'Patagonia fjord strips' during technique discussion, used as a reference point rather than a depicted shot."
+    },
+    {
+      "name": "Aspen area (possible mention)",
+      "confidence": 0.25,
+      "basis": "Transcript references Aspen in a casual post-processing context; not stated as the shooting location."
+    }
+  ],
+  "summary": "This video offers a detailed, multi-scene workflow for landscape post-processing in Photoshop and Camera Raw, with a strong emphasis on creating and controlling a directional light source, extracting shadow detail, and preventing highlight clipping. The presenter demonstrates a suite of techniques to simulate wider field-of-view effects without changing lenses, including distortions via the rule of trapezoids, distort+scale, and perspective warping, plus careful edge handling. The workflow progresses through zone-by-zone dodging and burning, non-destructive painting via the History brush, selective color and tonal-based color adjustments, and deliberate color grading to enhance fall hues, blue skies, and glacial rivers. Ice-cave and glacier-river sequences illustrate diffusion, diffusion-based light passes, and blue-green color balancing, while multi-shot drone/ground composites show how to merge frames with perspective alignment. Throughout, there are cautions about Puppet Warp and a focus on iterative, before/after comparisons. Overall, the video is a practical, technique-rich walkthrough for achieving cinematic landscape images through layered, non-destructive edits.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Perspective Warp",
+    "Rule of Trapezoids",
+    "Distort + Scale",
+    "History Brush",
+    "Dodge & Burn",
+    "Selective Color",
+    "Color Grading",
+    "Tonal-based Color Adjustment",
+    "Gaussian Blur",
+    "Blue in Camera Calibration",
+    "Content-Aware Fill",
+    "Puppet Warp",
+    "50-150 color adjustment",
+    "Diffusion",
+    "Edge Control",
+    "Drone Shots",
+    "Ice Cave",
+    "Glacial River",
+    "HDR/Exposure Control",
+    "Fall Color Separation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:04:30.000",
+      "title": "Exposure strategy and RAW starting point",
+      "concepts": [
+        "exposure",
+        "shadow detail",
+        "highlight clipping",
+        "RAW development"
+      ],
+      "description": "The presenter emphasizes keeping skies from blowing out while retaining shadow detail, establishing the RAW starting point that is 'dark' yet preserves information. This sets the foundation for later directional-light shaping and color development."
+    },
+    {
+      "start": "00:04:30.000",
+      "end": "00:12:00.000",
+      "title": "Directing light and distortion considerations",
+      "concepts": [
+        "directional light",
+        "lensing illusion",
+        "crop strategy",
+        "distortion",
+        "rule of trapezoids"
+      ],
+      "description": "Aims to develop a directional sidelight and to consider cropping and distortion early. Introduces the idea that warping and perspective changes can simulate wider lenses and alter the perception of space."
+    },
+    {
+      "start": "00:12:00.000",
+      "end": "00:22:00.000",
+      "title": "Selective painting and zone-by-zone adjustment",
+      "concepts": [
+        "dodge & burn",
+        "mid-tone dodge",
+        "History brush",
+        "zone-by-zone editing"
+      ],
+      "description": "Demonstrates mid-tone dodging to shape forms, allied with targeted zone adjustments and non-destructive history-based edits. Shows the painterly approach for guiding light and texture across distinct zones (valley, slope, sky)."
+    },
+    {
+      "start": "00:22:00.000",
+      "end": "00:32:00.000",
+      "title": "Fall color separation and sky control",
+      "concepts": [
+        "Selective color",
+        "fall color separation",
+        "50-150",
+        "color grading"
+      ],
+      "description": "Uses selective color to separate greens and reds and applies a 50-150-type workflow to push color separation. The goal is vibrant fall tones without losing sky contrast, followed by light painting to emphasize sunset-like warmth in chosen zones."
+    },
+    {
+      "start": "00:32:00.000",
+      "end": "00:39:00.000",
+      "title": "Ice cave workflow and diffusion",
+      "concepts": [
+        "ice cave",
+        "diffusion",
+        "water texture",
+        "noise reduction"
+      ],
+      "description": "Outlines capturing ice-water textures with a short exposure, adding diffusion for atmosphere, blue tones, and optional noise reduction (Topaz) for sky work. Emphasizes bright diffusion and selective painting to highlight entrance light through ice."
+    },
+    {
+      "start": "01:01:00.000",
+      "end": "01:40:00.000",
+      "title": "Merging frames and perspective tools; cautions on Puppet Warp",
+      "concepts": [
+        "HDR merging",
+        "Perspective Warp",
+        "Puppet Warp",
+        "alignment"
+      ],
+      "description": "Covers merging drone and ground frames via Photo Merge, then aligns and morphs shapes using Perspective Warp. The presenter cautions that Puppet Warp is dangerous, illustrating the need to manage pins and undo control carefully."
+    },
+    {
+      "start": "01:40:00.000",
+      "end": "01:50:00.000",
+      "title": "Final polish, color balance, and tone management",
+      "concepts": [
+        "tonal-based color adjustment",
+        "color correction",
+        "edge control",
+        "river color"
+      ],
+      "description": "Concludes with multi-pass tonal adjustments to restore color balance after aggressive edits, focused painting to refine highlights, and selective coloring to harmonize river tones with the overall composition."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Rule of trapezoids (perspective warp with trapezoid segmentation)",
+      "timestamp": "00:04:52.400",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Distort + Scale to simulate wider-angle lens effect",
+      "timestamp": "00:03:01.400",
+      "confidence": 0.85
+    },
+    {
+      "technique": "History brush-based non-destructive application from history state",
+      "timestamp": "00:10:12.000",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Gaussian blur and bright diffusion to imply depth",
+      "timestamp": "01:11:51.280",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blue in Camera Calibration for color separation (blue-gold contrast)",
+      "timestamp": "01:13:22.060",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color and fall color separation (greens vs reds)",
+      "timestamp": "01:21:46.980",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Content-Aware Fill for top-area cleanup",
+      "timestamp": "01:08:00.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Puppet Warp cautions and guidelines",
+      "timestamp": "01:22:14.800",
+      "confidence": 0.75
+    },
+    {
+      "technique": "50-150 color adjustment method for color amplification",
+      "timestamp": "01:23:29.160",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dodge & Burn across multiple tonal zones",
+      "timestamp": "00:08:34.660",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:20:49.968697+00:00"
+}

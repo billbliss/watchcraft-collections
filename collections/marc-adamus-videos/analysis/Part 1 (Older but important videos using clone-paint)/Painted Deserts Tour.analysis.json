@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Painted Deserts Tour.mp4",
+  "title": "Depth, Motion, and Zone-Based Post-Processing in Painted Deserts Tour",
+  "date": {
+    "display": "April 13, 2021",
+    "iso": "2021-04-13",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded MP4 creation_time metadata; no independent date confirmation in transcript"
+  },
+  "locations": [
+    {
+      "name": "Painted Desert, Arizona",
+      "confidence": 0.75,
+      "basis": "Transcript repeatedly references 'painted deserts' as shots; video title suggests Painted Deserts Tour"
+    },
+    {
+      "name": "South Henry Mountains, Utah",
+      "confidence": 0.8,
+      "basis": "Explicit mention: 'this is the south henry mountains' with later context about visiting after the tour"
+    },
+    {
+      "name": "Factory Butte area, Utah",
+      "confidence": 0.7,
+      "basis": "Explicit mention: 'factory butte area' in commentary about landscape context"
+    },
+    {
+      "name": "Rainier, Washington",
+      "confidence": 0.6,
+      "basis": "Explicit mention: 'this is Rainier in Washington' during a drone/scene description"
+    },
+    {
+      "name": "Coal Mine Canyon, Utah",
+      "confidence": 0.5,
+      "basis": "Mention of 'Coal mine' as a shot subject; context implies a distinct location in the day’s drone/landscape set"
+    }
+  ],
+  "summary": "The video blends a philosophy of creating depth and motion in landscape imagery with a practical, step-by-step Photoshop workflow. The speaker explains a zone-based approach to processing complex scenes, distinguishing one-, two-, and three-zone shots, and emphasizes how different parts of a frame (sky, foreground, background) often require distinct adjustments. The transcript then drills into hands-on techniques: cropping decisions, RAW adjustments (brightness, whites, color temperature, and calibration), and painting adjustments with the History Brush to selectively apply light, color, and texture. Recurrent motifs include building directional light, forming near-to-far transitions, and using diffusion, luminosity, and glow to create painterly depth. The video also contrasts the relative simplicity of drone (one-zone) shots with multi-zone scenes, and it closes with practical notes on versioning, cloning versus painting, and the value of preserving a workflow that supports iterative refinements.",
+  "topics": [
+    "Zone System",
+    "Two-Zone Shot",
+    "Three-Zone Shot",
+    "One-Zone Shot",
+    "History Brush",
+    "RAW adjustments",
+    "Camera Raw",
+    "Color Temperature",
+    "White Balance",
+    "Blues and Calibration",
+    "Orton Glow",
+    "Diffusion",
+    "Luminosity",
+    "D-Haze",
+    "Soft Brush",
+    "Hard Edge Brush",
+    "Layer Masks",
+    "Clone Stamp",
+    "Clone Paint",
+    "Dodge Tool (caution)",
+    "Cropping",
+    "Warping",
+    "Drone Photography",
+    "Painted Deserts",
+    "South Henry Mountains",
+    "Factory Butte",
+    "Rainier, Washington",
+    "Coal Mine Canyon",
+    "Depth and Motion"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:05",
+      "title": "Intro: depth, motion, and viewer engagement",
+      "concepts": [
+        "depth creation",
+        "motion to imply three-dimensionality",
+        "near-to-far transitions",
+        "black level hierarchy (foreground vs background)"
+      ],
+      "description": "The speaker frames the goal of landscape processing as creating depth and a sense of motion within a single frame. He emphasizes transitions (near to far, cool to warm, dark to light) and identifies the blacks as the most important transition. He classifies shots as two-zone and implies more zones increase processing difficulty."
+    },
+    {
+      "start": "00:02:06",
+      "end": "00:04:50",
+      "title": "Zone System in practice: two-, three-, and one-zone shots",
+      "concepts": [
+        "two-zone shot",
+        "three-zone shot",
+        "one-zone shot (drone)",
+        "RAW limitations across multiple zones",
+        "foreground, sky, and background separability"
+      ],
+      "description": "The narrator explains how foreground, sky, and background may each require separate processing paths (zones). He notes that multi-zone scenes cannot usually be kept in RAW adjustments alone because edits for the sky can negate edits for the cactus/foreground. Drone shots are described as single-zone and comparatively easier to process."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:10:20",
+      "title": "Defining focal points and guiding eye through light and form",
+      "concepts": [
+        "focal point",
+        "strongest light as a focal cue",
+        "triangular composition for layered shots",
+        "near-to-far transitions as fallback in the absence of a single focal point"
+      ],
+      "description": "The speaker outlines how to steer the viewer’s eye by establishing a focal point via light, and he discusses the role of triangular forms and layered elements to direct attention. He covers what happens when a single focal point isn’t obvious, recommending a near-to-far progression to maintain visual flow."
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:16:50",
+      "title": "Initial RAW/Photoshop workflow and crop decisions",
+      "concepts": [
+        "cropping first vs last",
+        "targeted adjustment of side areas",
+        "two-step RAW adjustments: darker base, whites up, warmth",
+        "introducing color balance via blues and calibration"
+      ],
+      "description": "The presenter discusses crop choices early in the workflow and demonstrates basic RAW adjustments (darken, raise whites, warm highlights) followed by a color-grade pass using blues and camera calibration. He also emphasizes cropping to remove distractions and framing considerations for directional light."
+    },
+    {
+      "start": "00:16:50",
+      "end": "00:25:50",
+      "title": "History Brush and forward/back history workflow",
+      "concepts": [
+        "history states",
+        "painting adjustments from the future state",
+        "hard edge vs soft brush for precision",
+        "refining masks and transitions with undo/redo"
+      ],
+      "description": "A core technique shown is painting adjustments from a chosen history state using the History Brush. The workflow includes selecting a future state, applying light or color to targeted regions with hard or soft brushes, and then smoothing with erasers and soft brushes to maintain natural transitions. The speaker stresses the flexibility of moving between steps and re-editing non-linearly."
+    },
+    {
+      "start": "00:25:50",
+      "end": "00:31:50",
+      "title": "Global diffusion, luminosity, and painterly glow",
+      "concepts": [
+        "diffusion across the image",
+        "luminosity/brightness boosts",
+        "Orton glow as a stylistic choice",
+        "color grading refinements and saturation control"
+      ],
+      "description": "The video covers applying diffusion and luminosity to create a painterly look, including a cautionary note about the Orton glow being a subjective effect. The speaker demonstrates iterative RAW adjustments and selective painting to balance warm and cool tones, followed by La-based tweaks to ensure color consistency."
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:48:05",
+      "title": "Drone-shot depth: practical depth separation and zone-specific edits",
+      "concepts": [
+        "drone vs ground-level workflows",
+        "two-zone drone shots: foreground vs background",
+        "diffusion and light balancing in the background",
+        "local adjustments for horizon, river, and peaks"
+      ],
+      "description": "Examples include two-zone drone shots where the foreground and background require different adjustments. The speaker discusses creating depth through selective diffusion and color balance, noting how background contrast and diffusion help distinguish layers in aerial compositions."
+    },
+    {
+      "start": "00:48:05",
+      "end": "01:00:40",
+      "title": "Wrap-up: workflow philosophy, versioning, and quick-footed processing tips",
+      "concepts": [
+        "versioning (save multiple states)",
+        "clone-paint vs history brush",
+        "maintaining speed with many layers",
+        "overall rule: depth, motion, and transitions are constant goals"
+      ],
+      "description": "The closing section reinforces the speaker’s overarching philosophy: all images seek depth and motion through deliberate transitions. He discusses practical habits such as saving multiple versions for safety, comparing clone-paint to history-based methods, and keeping a workflow that preserves speed while allowing iterative refinements. He also references additional videos and resources for deeper philosophy and technique."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Zone System: two-, three-, and one-zone processing for landscape scenes",
+      "timestamp": "00:02:06",
+      "confidence": 0.9
+    },
+    {
+      "technique": "History Brush: painting forward RAW adjustments onto targeted regions",
+      "timestamp": "00:16:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Crop-first workflow: deciding crop/warp early in Photoshop",
+      "timestamp": "00:15:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Global diffusion and luminosity to create painterly depth (Orton glow as option)",
+      "timestamp": "00:28:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "D-Haze and color grading: balancing color with advanced RAW/Camera Raw controls",
+      "timestamp": "00:53:39",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Clone Paint workflow: borrowing light and texture between frames, compared to history-based edits",
+      "timestamp": "00:30:29",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dodge tool cautions: avoiding color shifts; selective light shaping via painting instead",
+      "timestamp": "00:47:40",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Layer separation for depth: light, diffusion, and edge masking to differentiate foreground/background",
+      "timestamp": "00:39:58",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:17:58.778605+00:00"
+}

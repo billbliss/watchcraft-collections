@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/PD 3-2.mp4",
+  "title": "Post-Processing Painted Desert Drone Abstracts: RAW Workflow, Localized Edits, and Panorama Stitching",
+  "date": {
+    "display": "2025-12",
+    "iso": "2025-12",
+    "precision": "month",
+    "confidence": 0.6,
+    "basis": "Embedded creation time in metadata (2025-12-10) and transcript references to the session context; filename/path indicates a 2024–2025 project set."
+  },
+  "locations": [
+    {
+      "name": "Painted Desert",
+      "confidence": 0.85,
+      "basis": "Transcript shows “Painted Desert Tour 3 Video 2.” Explicit location reference."
+    },
+    {
+      "name": "Utah canyons (probable)",
+      "confidence": 0.4,
+      "basis": "Folder names (e.g., “Utah Canyon Drones”) and mentions of Utah drone work; not explicit shooting location."
+    }
+  ],
+  "summary": "This video documents a practical post-processing workflow for abstract Desert drone imagery, focusing on building a strong big-to-small compositional transition that leads the viewer toward the light source. The presenter demonstrates global RAW adjustments (shadows, blacks, whites, and exposure) to recover depth, then refines color balance with temperature and tint. A recurrent theme is controlled, large-brush editing over small brush work, aided by the History Brush to selectively apply adjustments. The session covers both RAW/Camera Raw and Photoshop workflows for localized edits, plus specific color tools (de-haze, blue-gold filter, color grading, and selective color) to heighten depth and mood. The tutorial also delves into advanced techniques for panoramas: stitching with PTGui (rectilinear vs other projections, handling multiple exposures, and TIFF output), then importing into Photoshop for final crops and light-direction adjustments. Throughout, the emphasis is on guiding the eye along light, texture, and transitions to create cohesive, multi-layered abstracts and landscape-based compositions.",
+  "topics": [
+    "Abstract drone processing",
+    "Global RAW adjustments: shadows, blacks, whites, exposure",
+    "Two-stage RAW workflow with whites as a highlight control",
+    "Color balance: temperature and tint adjustments",
+    "Localized edits with History Brush and large brushes",
+    "Dodge and Burn: mid-tone dodge, highlight dodge, shadow burn",
+    "Dehaze and warmth adjustments to push depth and distance",
+    "Color management: magenta/green shifts, blue-gold filter, selective color",
+    "Sponge tool for saturation in warm tones",
+    "Crop-first composition and leading lines",
+    "Adaptive Wide Angle filter for simulated wide-lens distortion",
+    "Smart Objects and history-based edits vs layers",
+    "Panorama stitching with PTGui: rectilinear vs other projections, tone mapping, TIFF output",
+    "Panorama workflow: 12-20 image sets, DNG/TIFF handling, and export to Photoshop",
+    "Demos of 100 MP vs standard captures and implications for stitching",
+    "Simulated light sources and glow effects to imply depth in panoramas",
+    "Vignetting strategies to direct viewer attention",
+    "Color grading and gradient approaches for horizon/foreground balance",
+    "Foreground/background light balancing and luminosity adjustments",
+    "Resolution and cropping decisions to optimize edge composition"
+  ],
+  "sections": [
+    {
+      "start": "00:02:12",
+      "end": "00:04:04",
+      "title": "Global RAW pass and color balance",
+      "concepts": [
+        "Shadow recovery",
+        "Blacks and whites",
+        "Exposure management",
+        "Camera Raw color balance (temperature and tint)"
+      ],
+      "description": "Begin with a global RAW pass to reveal color and depth. The instructor emphasizes pulling out shadows and blacks, reducing exposure, and using whites to recover color, followed by adjusting color temperature and tint for a natural look."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:06:06",
+      "title": "Targeted light flow and localized adjustments",
+      "concepts": [
+        "Guiding the eye toward the light source",
+        "Two-stage adjustment (global then localized)",
+        "History Brush usage (30% brush)"
+      ],
+      "description": "After the initial global pass, the presenter demonstrates targeted adjustments to draw the eye upward toward the light source. This includes using a localized approach and painting selective changes with the History Brush at reduced opacity."
+    },
+    {
+      "start": "00:06:06",
+      "end": "00:08:32",
+      "title": "Refining light, depth, and brush strategy",
+      "concepts": [
+        "Adding more light and softer haze",
+        "Avoiding excessive small brushes",
+        "Large-brush edits for efficiency"
+      ],
+      "description": "The workflow adds more light from the upper part of the frame, softens the look to imply distance, and emphasizes a big-to-small transition. The speaker cautions against using many tiny brushes and advocates larger brushes for efficiency and consistency."
+    },
+    {
+      "start": "00:10:12",
+      "end": "00:15:07",
+      "title": "Two-pass whites adjustments and vignette planning",
+      "concepts": [
+        "Two-pass approach for extreme whites",
+        "Masking to keep whites from blowing out",
+        "Creating a vignette to guide eye to the focal area",
+        "Color balance refinements (magenta/green balance)"
+      ],
+      "description": "Two separate whites-based adjustments are used to manage extreme highlights in bright regions. The second pass involves masking and selective painting back into the shot to preserve color consistency, followed by a vignette to direct attention toward the light source. Color balance is tweaked to keep overall color believable."
+    },
+    {
+      "start": "00:27:07",
+      "end": "00:32:02",
+      "title": "Panorama stitching with PTGui and initial Photoshop prep",
+      "concepts": [
+        "Panorama workflow with PTGui",
+        "Projection choice (rectilinear vs other)",
+        "Image count considerations (12-20 images)",
+        "Export as TIFF or DNG for uncompressed quality",
+        "Import into Photoshop and crop for composition"
+      ],
+      "description": "The section focuses on assembling a multi-image panorama with PTGui, choosing the appropriate projection, and dealing with different exposure levels across images. Output is saved as TIFF for later Photoshop processing, where cropping tightens the composition to emphasize leading lines and horizon flow."
+    },
+    {
+      "start": "00:49:46",
+      "end": "01:04:15",
+      "title": "Final color grading and simulated light in panoramas",
+      "concepts": [
+        "Color grading across highlights/midtones/shadows",
+        "Simulated light source and glow effects",
+        "Foreground/background separation with selective color and gradient tools",
+        "Edge handling and vignette for depth",
+        "Lucy-level adjustments: dodge/burn, de-haze, and saturation control"
+      ],
+      "description": "In the later segment, the focus shifts to panoramic color grading, with emphasis on simulating light sources, adding glow, and balancing foreground and background. The instructor demonstrates selective color and gradient adjustments, dodge/burn, de-haze, and careful edge handling to maintain cohesive depth and visual flow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Two-stage RAW adjustment sequence",
+      "timestamp": "00:02:12",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Localized adjustments with History Brush and 30% brush opacity",
+      "timestamp": "00:05:31",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Large-brush light painting to avoid over-editing",
+      "timestamp": "00:07:23",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Two-pass whites adjustments with masking to prevent clipping",
+      "timestamp": "00:11:10",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Adaptive Wide Angle filter for panorama aesthetic",
+      "timestamp": "00:17:24",
+      "confidence": 0.86
+    },
+    {
+      "technique": "PTGui panorama stitching and projection selection",
+      "timestamp": "00:27:07",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Color grading and simulated light sources in panoramas",
+      "timestamp": "00:52:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Dodge/Burn and gradient tools for depth and focal emphasis",
+      "timestamp": "00:33:00",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:34:37.657031+00:00"
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 4-5.mp4",
+  "title": "Dynamic Range Mastery and Color Grading in Cascade Creek Wildflower Shoot (NZ)",
+  "date": {
+    "display": "December 16, 2024 (approx.)",
+    "iso": "2024-12-16",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded_creation_time 2024-12-16T07:27:02Z; folder naming indicates 2024-2025 NZ shoot segment"
+  },
+  "locations": [
+    {
+      "name": "Cascade Creek",
+      "confidence": 0.9,
+      "basis": "Explicit mention in transcript [00:00:00] addressing Cascade Creek spot"
+    },
+    {
+      "name": "Milford Sound",
+      "confidence": 0.9,
+      "basis": "Explicit mention and folder reference (Milford Sound) in transcript [00:35:41], later discussion about Milford Sound folder [00:37:50]"
+    },
+    {
+      "name": "Lake Manipori",
+      "confidence": 0.9,
+      "basis": "Explicit mention in transcript [00:35:49] and discussion of Lake Manipori as a separate shoot"
+    }
+  ],
+  "summary": "The video presents a field-to-processor workflow from a New Zealand shoot (notably Cascade Creek, Milford Sound, and Lake Manipori) focused on extracting dramatic light from high-contrast scenes and translating it into post-processing in Photoshop and Camera Raw. The presenter walks through exposure decisions in bright sun, highlighting how much of the sky can be recovered and how to use highlight alerts and a ~3-stop dynamic-range ceiling at ISO 100 to protect shadows. The tutorial then covers practical cleanup (lens flare removal, artifact removal), selective color work to separate and enrich wildflower tones, and painting luminosity into distant meadows. It demonstrates constructing sunbeams with diffusion techniques, color grading with sky-to-foreground coherence, and careful remixes by history brush. The discussion extends to panoramic stitching and the wind-induced limitation on focus stacking, with rationale for cropping to gain depth of field in windy environments. Throughout, the speaker emphasizes keeping artistic intention in mind—drawing the eye to light, preserving color relationships, and balancing foreground and background through layered edits.",
+  "topics": [
+    "Dynamic range concept and exposure evaluation",
+    "Highlight recovery using histogram and highlight alerts",
+    "3.0 stops dynamic range at ISO 100 and its practical use",
+    "Shadow detail restoration and field bracketing",
+    "In-field exposure decisions under direct sunlight",
+    "Camera Raw/Photoshop workflow for RAW edits",
+    "Setting and using reveal: highlights/shadows balance with exposure",
+    "Lens flare identification and removal with the Remove tool",
+    "Manual cleanup vs. automated tools for artifacts",
+    "Using history states to apply selective adjustments",
+    "Global saturation and luminosity adjustments in RAW",
+    "Selective Color workflow for targeted color separation",
+    "Color wheel opposites and color theory in color adjustments",
+    "Painting adjustments with history brush to localize edits",
+    "Color balance and color grading to harmonize foreground and sky",
+    "Beams (god beams) creation with diffusion technique",
+    "Edge manipulation and erasing to shape beams",
+    "Sky color grading, remixing, and maintaining color consistency",
+    "Focus on depth of field via cropping versus focus stacking",
+    "Telephoto vs wide-angle impacts on post-processing complexity",
+    "Panorama assembly challenges and exposure alignment",
+    "Field workflow and time management for processing multiple shots"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:02:59.860",
+      "title": "Cascade Creek exposure and initial RAW adjustments",
+      "concepts": [
+        "Exposure evaluation in bright sun",
+        "Dynamic range concept and recoverable highlights",
+        "Histogram interpretation and highlight alerts",
+        "Bracketing and preserving shadow detail",
+        "Initial adjustments: lower highlights, raise exposure slightly, preserve glow"
+      ],
+      "description": "The speaker analyzes Cascade Creek exposure, noting recoverable highlight detail and the need to protect shadows by pushing exposure after dropping highlights. They reference using camera highlight alerts to gauge blowout and emphasize maintaining a sun glow rather than harsh sun edges."
+    },
+    {
+      "start": "00:03:42.400",
+      "end": "00:04:39.580",
+      "title": "Lens flare removal and artifact cleanup",
+      "concepts": [
+        "Lens flare removal with the Remove tool",
+        "Selective cleanup vs. over-editing",
+        "Maintaining form while removing artifacts"
+      ],
+      "description": "The host demonstrates removing a centralized lens flare with the Remove tool, then discusses balancing cleanup with preserving the original feel and structure of the scene, proceeding to manual touch-up as needed."
+    },
+    {
+      "start": "00:09:02.960",
+      "end": "00:19:00.360",
+      "title": "Flower color separation and selective color workflow",
+      "concepts": [
+        "Camera Raw zone-based adjustments",
+        "Global saturation and selective color workflow",
+        "Color wheel opposites and color relationships",
+        "Targeted adjustments to flowers to separate colors from surroundings"
+      ],
+      "description": "The section moves into color work focusing on flowers: lowering greens/yellows, using selective color to extract magenta/red/blue components, and painting adjustments via history to isolate flower tones from the background while preserving overall color harmony."
+    },
+    {
+      "start": "00:21:21.380",
+      "end": "00:46:48.580",
+      "title": "Beams, sky grading, and panorama considerations",
+      "concepts": [
+        "Diffusion-based sunbeam creation and edge control",
+        "Beams as accent rather than primary structure",
+        "Sky color grading, remixing, and maintaining foreground color coherence",
+        "Panorama stitching challenges and exposure matching"
+      ],
+      "description": "The tutorial covers creating sunbeams with diffusion and edge-aware painting, then proceeds to color-grade the sky to complement the foreground (with a remix approach). It also discusses panorama attempts, highlighting the difficulty of matching exposures and the complexity of stitching multiple telephoto frames."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Highlight recovery and exposure adjustment in bright sun",
+      "timestamp": "00:00:54.060",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Lens flare removal and post-cleanup with Remove tool",
+      "timestamp": "00:03:42.400",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Selective Color workflow for flower color separation",
+      "timestamp": "00:11:04.360",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Diffuse beam creation and beam accentuation with edge control",
+      "timestamp": "00:21:21.380",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sky color grading and remix across foreground and sky",
+      "timestamp": "00:25:30.280",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Panorama stitching considerations and exposure matching",
+      "timestamp": "00:44:12.780",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:45:28.546271+00:00"
+}

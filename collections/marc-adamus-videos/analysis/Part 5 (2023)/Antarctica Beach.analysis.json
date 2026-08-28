@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Antarctica Beach.mp4",
+  "title": "Coastal Surf Photo Processing: Water Blending, Perspective Warp, and Zone-Based Color Grading",
+  "date": {
+    "display": "January 12, 2024 (approximate)",
+    "iso": "2024-01-12T13:42:29Z",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "embedded_creation_time metadata; no transcript-independent date confirmation"
+  },
+  "locations": [],
+  "summary": "The video presents a practical workflow for processing a coastal surf image, focusing on establishing directional light and using multi-shot water blending to extend water, followed by lens-distortion corrections and a three-zone color- and light-processing approach. The instructor demonstrates stacking and blending two frames with clone-based techniques, borrowing water details from a secondary file, removing artifacts with healing tools, correcting wide-angle vignetting with perspective warp, and then applying targeted adjustments to water, sky, and mountain areas (including whites, shadows, midtones, saturation, and dodge/burn). A practical emphasis is placed on ordering technical steps before “having fun” with color and light, and on treating the final image as a cohesive blend of its three tonal zones.",
+  "topics": [
+    "clone_stamp",
+    "water_blending",
+    "two_shot_merge",
+    "perspective_warp",
+    "vignetting_removal",
+    "long_exposure_reference",
+    "cloud_motion",
+    "crop",
+    "healing_brush",
+    "water_whites",
+    "shadows_blacks",
+    "color_grading",
+    "adjustment_brush",
+    "dodge_burn",
+    "sky_dodge",
+    "zone_based_processing",
+    "coastal_photography",
+    "surfx_processing",
+    "tripod_removal",
+    "blend_layers",
+    "water_detail_from_secondary_frame"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:11",
+      "title": "Directional light planning and initial water blending",
+      "concepts": [
+        "directional/light positioning",
+        "simulated light source",
+        "shadow shading",
+        "water blending",
+        "dynamic range expansion",
+        "layer blending",
+        "clone stamping"
+      ],
+      "description": "The presenter discusses establishing a directional light on the scene to guide shading toward a virtual light source. The primary water workflow begins with blending two shots by purposefully making the result look 'bad' first, expanding dynamic range, and planning to overlay the frames. The clone-paint technique is introduced as the method to blend the two exposures."
+    },
+    {
+      "start": "00:02:11",
+      "end": "00:02:58",
+      "title": "Perspective warp and distortion correction",
+      "concepts": [
+        "perspective_warp",
+        "vignetting removal",
+        "lens distortion",
+        "cloud_motion_hint"
+      ],
+      "description": "To address distortion and vignetting from a wide-angle lens, the perspective warp tool is used to correct the issue and to set up for a potential cloud-motion effect, acknowledging long-exposure possibilities."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:28",
+      "title": "Pre-processing and cropping before color work",
+      "concepts": [
+        "crop",
+        "pre-processing",
+        "artifact removal"
+      ],
+      "description": "The workflow includes cropping the image after technical corrections, reinforcing the rule of completing technical steps (blending, warping, stitching, etc.) before color/light processing."
+    },
+    {
+      "start": "00:03:28",
+      "end": "00:04:50",
+      "title": "Three-zone processing: water, sky, and mountain",
+      "concepts": [
+        "three zones",
+        "water processing",
+        "sky processing",
+        "mountain processing",
+        "whites/shadows/blacks",
+        "color adjustment",
+        "adjustment brush",
+        "healing stamp",
+        "dodge/burn"
+      ],
+      "description": "The image is divided into three tonal zones. Each zone receives targeted edits: water adjustments (whites, shadows, blacks, cooler tone, reduced saturation), sky adjustments (dodge on midtones and brightness with selective desaturation), and minor cleanup (healing stamp to remove tripod artifacts). The approach emphasizes cohesive blending across zones to achieve a unified final image."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Blending two coastal shots using clone-stamp-like layering to extend water and merge exposures",
+      "timestamp": "00:01:22",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Borrowing water detail from a secondary frame to enhance shore action",
+      "timestamp": "00:01:43",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Perspective warp to correct wide-angle vignetting/distortion",
+      "timestamp": "00:02:18",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Targeted white/shadow/blacks adjustments with color tuning for water",
+      "timestamp": "00:03:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adjustment-brush dodge on sky for midtone manipulation",
+      "timestamp": "00:04:33",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Healing stamp to remove tripod artifact",
+      "timestamp": "00:03:20",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:02:20.778038+00:00"
+}

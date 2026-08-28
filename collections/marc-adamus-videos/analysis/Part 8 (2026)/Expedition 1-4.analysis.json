@@ -1,0 +1,132 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Expedition 1-4.mp4",
+  "title": "Post-processing a Rainbow Landscape: dynamic range expansion, selective color masking, and fine-tuned local adjustments in Photoshop",
+  "date": {
+    "display": "May 6, 2026",
+    "iso": "2026-05-06T11:36:09Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded MP4 creation_time in metadata; folder naming also suggests 2026; transcript does not confirm filming date."
+  },
+  "locations": [],
+  "summary": "The video documents a Photoshop-based post-processing workflow applied to a landscape image featuring a double rainbow over water and a tree. The presenter begins by expanding the dynamic range (lifting blacks and shadows while reducing exposure) to reveal details, then uses a perspective warp to level the horizon. With the horizon established, the workflow intensifies local brightness and color: painting whites to enhance the rainbow and water edge, adjusting blues and warmth, and employing a series of masks and selective color operations to brighten areas behind the trees without moving the foreground. The sequence includes deliberate blemish removal (shadow dodge and clone smear), followed by targeted depth work to emphasize the horizon and ridge. A final color balance shifts blues into the lower two-thirds to harmonize the image, culminating in a subtle, iterative refinement. The transcript also notes a brief consideration of de-haze/blur but ultimately relies on brush-based enhancements and masking for depth and realism.",
+  "topics": [
+    "Perspective Warp",
+    "Blacks/Shadows/Exposure adjustments",
+    "Whites adjustment (Camera Raw / Lightroom)",
+    "Brush painting on masks",
+    "Edge emphasis in water / rainbow",
+    "Double rainbow enhancement",
+    "Color Mixer and blue saturation control",
+    "Selective Color / masking for background behind trees",
+    "Neutral-based masking to brighten background",
+    "Shadow Dodge Tool",
+    "Clone Stamp Tool and Clone Smash / Clone Smear technique",
+    "Brighten and Diffuse the end of a flat plane",
+    "Hard-edge brush usage and feathering",
+    "Color Balance for lower two-thirds blues",
+    "Final ambient light adjustments and horizon emphasis"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "title": "Horizon leveling and dynamic-range expansion",
+      "concepts": [
+        "Perspective Warp to level horizon",
+        "Global tonal shaping with blacks/shadows/exposure"
+      ],
+      "description": "Initial global adjustments to expand dynamic range: push blacks up, shadows up, and exposure down to reveal non-blown highlights, while aligning the horizon using a perspective warp."
+    },
+    {
+      "start": "00:01:42",
+      "end": "00:02:41",
+      "title": "Edge brightening and rainbow emphasis",
+      "concepts": [
+        "Selective brightening of water edge",
+        "Paint with whites adjustment"
+      ],
+      "description": "Targeted brightening to make the water edge pop, with painting in the whites adjustment to introduce light onto the rainbow and surrounding water."
+    },
+    {
+      "start": "00:02:54",
+      "end": "00:03:55",
+      "title": "Second rainbow tuning and blue/warmth adjustments",
+      "concepts": [
+        "White adjustments for rainbow depth",
+        "Color Mixer saturation for blues",
+        "Clarity boost"
+      ],
+      "description": "Sequential whites adjustments to enhance the second rainbow, followed by warmer shifts and a clarity boost to intensify local contrast without oversaturating the blues."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:05:53",
+      "title": "Masking behind the tree and background brightening",
+      "concepts": [
+        "Selective Color / mask",
+        "Behind-tree brightness",
+        "Horizon emphasis"
+      ],
+      "description": "Using a mask-style approach to brighten the area behind the trees and along the horizon, effectively separating the foreground tree from the sky/background and improving depth."
+    },
+    {
+      "start": "00:05:53",
+      "end": "00:06:28",
+      "title": "Spot removal with dodge and clone techniques",
+      "concepts": [
+        "Shadow Dodge Tool",
+        "Clone Stamp Tool",
+        "Clone Smear"
+      ],
+      "description": "Apply shadow dodging to soften hotspots, then use a 30% clone stamp with a smear-like workflow to reduce spots and minor blemishes around the water and foliage."
+    },
+    {
+      "start": "00:06:36",
+      "end": "00:11:34",
+      "title": "Depth enhancement and final tone polishing",
+      "concepts": [
+        "Brighten and diffuse end of a flat plane",
+        "Edge lighting along horizon",
+        "Color Balance for blue tones"
+      ],
+      "description": "Brighten the end of a flat plane to create depth, then add a subtle diffusion along the horizon; employ a lower-two-thirds color balance to weave blues from the sky into the foreground context. Final minor tweaks refine ridge lighting and ensure cohesive color relationships."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Perspective Warp to level horizon",
+      "timestamp": "00:01:03",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Whites adjustment and painting to pop rainbow",
+      "timestamp": "00:02:09",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Selective Color masking to brighten behind the trees",
+      "timestamp": "00:04:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Shadow Dodge and Clone Stamp Smear for blemish removal",
+      "timestamp": "00:05:29",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Brighten and diffuse the end of a flat plane (depth cue)",
+      "timestamp": "00:10:24",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Color Balance to introduce blues in lower tones",
+      "timestamp": "00:10:40",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:23:41.817312+00:00"
+}

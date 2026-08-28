@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Mexico 1-3.mp4",
+  "title": "Warping and Color-Grading Drone Panoramas: Perspective Warp, Puppet Warp, and RAW Tweaks",
+  "date": {
+    "display": "June 6, 2024 (approximate)",
+    "iso": "2024-06-06",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time provided; transcript does not independently confirm the date."
+  },
+  "locations": [],
+  "summary": "This instructional video presents a drone panorama processing workflow focused on extreme perspective corrections and color grading. The speaker demonstrates isolating distortion in beam-heavy scenes, applying perspective warp to selected zones, and refining the result with puppet warp to preserve straight lines while exaggerating the intended geometry. The session emphasizes RAW-based local adjustments (whites, color temperature, tint) to recover detail in beams and sky, strategic use of HDR-like tweaks as selective fills, and simulated lighting to enhance depth and focal points. Additional techniques shown include sky cloning for atmosphere, careful edge selections, horizon alignment after stitching, and final cropping. The narrative also notes practical considerations such as DJI stitching behavior, megapixel output, and the challenges of assembling multi-drone panos.",
+  "topics": [
+    "drone photography",
+    "panorama",
+    "drone pano",
+    "perspective warp",
+    "puppet warp",
+    "photoshop",
+    "camera raw",
+    "raw editing",
+    "white balance",
+    "color temperature",
+    "tint",
+    "dynamic range",
+    "shadows",
+    "highlights",
+    "hdr",
+    "dehaze",
+    "color grading",
+    "beams",
+    "palm tree",
+    "foreground",
+    "DJI stitching",
+    "120 megapixel",
+    "horizon alignment",
+    "sky cloning",
+    "edge control",
+    "foregound lighting",
+    "beams management"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:13",
+      "title": "Initial approach to peripheral distortion and symmetrical warp",
+      "concepts": [
+        "peripheral distortion",
+        "symmetrical warp",
+        "consistent processing across frames"
+      ],
+      "description": "Set-up for correcting distortion artifacts that pull beams into the frame; emphasizes applying warp in a symmetrical fashion and processing the entire set identically."
+    },
+    {
+      "start": "00:01:49",
+      "end": "00:02:24",
+      "title": "Isolating distortion zones and planning perspective changes",
+      "concepts": [
+        "beams isolation",
+        "zone-based warping",
+        "selective adjustment"
+      ],
+      "description": "Explains isolating the beam-laden portions from the rest of the composition so that perspective changes target only the necessary areas (third/beam regions) while leaving mountains untouched."
+    },
+    {
+      "start": "00:02:44",
+      "end": "00:03:08",
+      "title": "Caution about DJI-stitch-induced trapezoidal distortion",
+      "concepts": [
+        "DJI wide-angle warp",
+        "stitch-induced distortion",
+        "crop planning"
+      ],
+      "description": "Notes that DJI stitching can stretch sides and create wide-angle distortion; introduces the idea of using trapezoid corrections to counteract this effect and prepare for cropping."
+    },
+    {
+      "start": "00:03:14",
+      "end": "00:04:07",
+      "title": "Puppet Warp for nuanced local adjustments",
+      "concepts": [
+        "puppet warp",
+        "local distortion",
+        "avoid bending straight lines"
+      ],
+      "description": "Introduces puppet warp as a refinement tool after perspective warp, with a caveat to preserve straight lines (beams) and to build 'walls' to control how warps propagate."
+    },
+    {
+      "start": "00:04:32",
+      "end": "00:05:30",
+      "title": "Maintaining beam integrity and selective tightening",
+      "concepts": [
+        "straight-line preservation",
+        "local warps around features"
+      ],
+      "description": "Reinforces the need to avoid excessive warping of linear features and to adjust only the necessary segments to maintain the dramatic geometry without introducing artifacts."
+    },
+    {
+      "start": "00:06:13",
+      "end": "00:07:14",
+      "title": "Targeted RAW adjustments for darkened sun zones",
+      "concepts": [
+        "whites adjustment",
+        "color temperature",
+        "tint",
+        "local detail pull"
+      ],
+      "description": "Switches to RAW for localized correction around sunlit zones, dialing whites and color temperature to bring back detail and color without over-saturating."
+    },
+    {
+      "start": "00:07:14",
+      "end": "00:12:19",
+      "title": "Selective detail enhancement and HDR as a fill",
+      "concepts": [
+        "soft brush painting",
+        "local detail bleed",
+        "auto HDR as fill",
+        "shadows/sharpness"
+      ],
+      "description": "Uses a soft brush to blend in enhanced detail for beams without blowing out highlights. Demonstrates employing HDR/clarity/shadows tweaks as targeted fills to strengthen beam definition while maintaining color fidelity."
+    },
+    {
+      "start": "00:15:44",
+      "end": "00:18:50",
+      "title": "Simulated light, depth layering, and color grading",
+      "concepts": [
+        "simulated light source",
+        "de-haze",
+        "color grading",
+        "blue-shift in shadows"
+      ],
+      "description": "Explains adding a simulated light source and depth cues to emphasize focal regions; demonstrates selective color grading to push blues in shadows and warmth in mid-tones, while avoiding global color overhaul."
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:18:50",
+      "title": "Sky adjustments and atmosphere via cloning",
+      "concepts": [
+        "sky clone",
+        "edge blending",
+        "atmosphere control"
+      ],
+      "description": "Demonstrates cloning or patching sky areas to achieve a cohesive mood and smoother transitions across the pano, with attention to preserving natural edge blends."
+    },
+    {
+      "start": "00:28:13",
+      "end": "00:29:31",
+      "title": "Post-stitch horizon alignment and crop",
+      "concepts": [
+        "horizon straightening",
+        "crop around warped edges",
+        "stitch quality"
+      ],
+      "description": "Covers correcting horizon tilt introduced by stitching and final cropping to remove warped portions, ensuring a clean pano frame after alignment."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Perspective Warp (selective zoning)",
+      "timestamp": "00:01:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Isolating distortion zones for targeted warp",
+      "timestamp": "00:02:00",
+      "confidence": 0.5
+    },
+    {
+      "technique": "Puppet Warp for local, controlled distortion",
+      "timestamp": "00:03:14",
+      "confidence": 0.88
+    },
+    {
+      "technique": "White Balance and Whites adjustment in RAW",
+      "timestamp": "00:06:13",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Soft brush painting to blend in detail in beams",
+      "timestamp": "00:07:09",
+      "confidence": 0.8
+    },
+    {
+      "technique": "HDR-based fill for selective beam/sky detail",
+      "timestamp": "00:11:28",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Simulated light source and depth layering",
+      "timestamp": "00:15:44",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sky cloning/patching for atmosphere",
+      "timestamp": "00:17:30",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Horizon alignment and pano crop after stitching",
+      "timestamp": "00:28:13",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:48:48.574170+00:00"
+}

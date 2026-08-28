@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/Owens River.mp4",
+  "title": "Owens River Photoshop workflow: sky extension, layer separation, and painting light",
+  "date": {
+    "display": "March 10, 2022 (approx.)",
+    "iso": "2022-03-10",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "Embedded creation time from SOURCE METADATA (2022-03-10T21:18:58.000000Z); no independent date confirmation in transcript."
+  },
+  "locations": [
+    {
+      "name": "Owens River (probable shooting location)",
+      "confidence": 0.9,
+      "basis": "Explicit identification in SOURCE METADATA filename: 'Owens River.mp4'. Transcript does not independently confirm the location."
+    },
+    {
+      "name": "Chalk bluffs",
+      "confidence": 0.55,
+      "basis": "Explicit mention in transcript as a scene feature: 'chalk bluffs'. Not established as shooting location."
+    }
+  ],
+  "summary": "This video presents a practitioner’s in-depth Photoshop-based workflow to build a three-dimensional landscape image from a low-contrast, twilight-like scene. Working from the Owens River subject, the instructor demonstrates segmentation of the image into sky, mountains, and foreground, then expands the sky, adds haze to create depth, and repeatedly shifts between raw processing and painted light to simulate a directional leftward illumination. Central themes include a heavy emphasis on separating layers to control depth, painting light rather than relying solely on captured light, and using techniques such as blur plus luminosity, color grading, and 50-150 adjustments to exaggerate and refine tonal relationships. The progression moves from initial toning and cropping to aggressive sky and mid-ground edits, culminating in final touches that restore balance between foreground, mid-ground, and background components while preserving three-dimensionality.",
+  "topics": [
+    "Owens River",
+    "chalk bluffs",
+    "sky extension",
+    "clone stamp",
+    "history brush",
+    "layer separation",
+    "background foreground separation",
+    "foreground shading",
+    "painted light",
+    "raw processing",
+    "Camera Raw",
+    "whites/shadows adjustments",
+    "color temperature",
+    "tint",
+    "color grading",
+    "selective color",
+    "50-150 adjustment",
+    "sponge tool",
+    "auto HDR",
+    "blur + luminosity",
+    "diffusion/haze",
+    "warping",
+    "composition cropping",
+    "paint bleed",
+    "texture and depth"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:50",
+      "title": "Scene setup and zone planning",
+      "concepts": [
+        "scene zones",
+        "sky vs mountains vs foreground vs river",
+        "chalk bluffs as a scene feature",
+        "left-side light as a compositional driver"
+      ],
+      "description": "The speaker identifies four zones in the frame, notes unequal illumination (left-side mountains brighter), and frames the task of balancing light across sky, mountains, and foreground. Chalk bluffs are mentioned as an unwanted element to be managed."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:08:23",
+      "title": "Sky extension and initial haze planning",
+      "concepts": [
+        "exposure adjustment",
+        "darkening sky",
+        "leftward directional light",
+        "cloud extension via sky replacement"
+      ],
+      "description": "Plan to deepen the sky, shift light direction, and prepare to extend clouds to frame edges. The left-side light becomes the primary light source to be emphasized across edits."
+    },
+    {
+      "start": "00:08:23",
+      "end": "00:16:29",
+      "title": "Layer separation and initial light shaping",
+      "concepts": [
+        "separating background/midground/foreground layers",
+        "exposure and white adjustments",
+        "color temperature and tint tweaks",
+        "RAW processing cycles"
+      ],
+      "description": "Emphasis on separating layers as the foundational workflow. The speaker adjusts exposure and whites in RAW, warms the highlights, and begins crafting light to the mountains, setting up for additive color and light painting."
+    },
+    {
+      "start": "00:16:29",
+      "end": "00:23:07",
+      "title": "Midground and foreground refinement",
+      "concepts": [
+        "foreground darkness with brighter river",
+        "color bleed via painting rather than strict selections",
+        "cloud texture and foreground texture management"
+      ],
+      "description": "Midground and foreground are refined; river brightness is increased to guide eye flow, and color is allowed to bleed between areas to create a cohesive, painterly look. Small brush work starts to shape light across elements."
+    },
+    {
+      "start": "00:23:07",
+      "end": "00:28:18",
+      "title": "Texture, HDR-like cloud detail, and early luminosity work",
+      "concepts": [
+        "auto HDR for cloud texture",
+        "sponge tool for light texture",
+        "foreground-background texture balancing",
+        "beginning of blur + luminosity workflow"
+      ],
+      "description": "Texture enhancement of clouds via auto HDR and sponge-like edits, plus early uses of blur and luminosity to push depth. The instructor emphasizes maintaining separation between layers to preserve depth cues."
+    },
+    {
+      "start": "00:28:18",
+      "end": "00:34:01",
+      "title": "Background completion and composition adjustments",
+      "concepts": [
+        "background layer separation refinement",
+        "warp tool to reduce distracting elements",
+        "background sky borrowing for depth"
+      ],
+      "description": "Further separation of background elements, inserting a brighter, warmer background sky where appropriate, and using warp to tame a distracting bush without cutting it out entirely. The goal is a believable multi-layer scene."
+    },
+    {
+      "start": "00:34:01",
+      "end": "00:42:26",
+      "title": "Color control and selective color experiments",
+      "concepts": [
+        "selective color",
+        "50-150 adjustment",
+        "saturation and black point play",
+        "mountain edge light control"
+      ],
+      "description": "The tutorial delves into selective color and the 50-150 adjustment tool to intensify mountain reds/yellows and push other colors, while carefully avoiding haloing and maintaining three-dimensional separation. The presenter explains the relationship between color, saturation, and luminance in this context."
+    },
+    {
+      "start": "00:42:26",
+      "end": "00:45:36",
+      "title": "Recap, final tweaks, and closing thoughts",
+      "concepts": [
+        "recap of major steps",
+        "importance of left-side directional light",
+        "final balance between blacks and perceived depth",
+        "benefits of painting light over relying on captured light"
+      ],
+      "description": "The closing section reinforces the key workflow: extend sky, separate layers, paint light, apply blur + luminosity, and preserve blacks for depth. The speaker emphasizes painting light rather than depending solely on captured light for dramatic effect."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sky extension using duplicate sky and clone stamp",
+      "timestamp": "00:03:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Layer separation to control depth (background/mid/foreground)",
+      "timestamp": "00:08:23",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Haze/diffusion to increase perceived distance",
+      "timestamp": "00:05:31",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Painting light onto mountains with brush",
+      "timestamp": "00:11:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Blur plus luminosity to create atmospheric glow",
+      "timestamp": "00:22:28",
+      "confidence": 0.9
+    },
+    {
+      "technique": "50-150 adjustment to intensify mountain reds/yellows",
+      "timestamp": "00:37:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Warp tool to remove a distracting foreground element while preserving composition",
+      "timestamp": "00:32:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Auto HDR and texture enhancement for clouds",
+      "timestamp": "00:27:43",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective color and color grading for tonal separation",
+      "timestamp": "00:35:32",
+      "confidence": 0.77
+    },
+    {
+      "technique": "History brush to correct mistakes during composite edits",
+      "timestamp": "00:06:31",
+      "confidence": 0.72
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:52:31.047982+00:00"
+}

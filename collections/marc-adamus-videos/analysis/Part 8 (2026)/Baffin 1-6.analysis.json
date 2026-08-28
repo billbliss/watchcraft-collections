@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Baffin 1-6.mp4",
+  "title": "Sky-Driven Mountain Emphasis: Photoshop Techniques for Landscape Edits (Baffin 1-6)",
+  "date": {
+    "display": "2026-08-21",
+    "iso": "2026-08-21",
+    "precision": "unknown",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time in metadata; recording date is not confirmed."
+  },
+  "locations": [],
+  "summary": "This video presents a stepwise Photoshop workflow for a high-contrast landscape, focusing on balancing a textured sky with a dark mountain to reveal form, then developing a coherent path of light through the scene. The instructor demonstrates sky manipulation (selecting the sky, applying a heavy Gaussian blur, and painting into the lower frame to emphasize the mountain), diffusion via dehaze and a low-opacity history brush, and local color/grading (blue lake via color balance and calibration with masking). The narrative emphasizes preserving natural light, addressing mid-ground inconsistencies, enhancing waterfall texture with precise dodging, and using dark blur to mute distracting rocks. The final pass centers on guiding the viewer’s eye through the image by isolating forms and light, with a candid note on warp as a potential composition option that is not executed in this session.",
+  "topics": [
+    "sky selection",
+    "Gaussian blur",
+    "pixel-accurate masking",
+    "painting into a frame mask",
+    "diffusion via dehaze",
+    "history brush usage",
+    "opacity control",
+    "mid-tone dodging",
+    "water texture work",
+    "multi-sampling for water",
+    "color balance toward blue",
+    "camera calibration",
+    "layer masking and erasing",
+    "dynamic range adjustments",
+    "grass enhancement with HSL",
+    "dark blur for rock distractions",
+    "leading lines and path creation",
+    "consistency in lighting",
+    "warp as a potential composition tool"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:16",
+      "title": "Sky vs. mountain contrast and composition",
+      "concepts": [
+        "sky contrast vs mountain form",
+        "leading lines",
+        "composition balance"
+      ],
+      "description": "The narrator explains how a contrasty textured sky can obscure mountain form, notes the value of leading lines on the left, and sets up the goal of balancing sky and slope to reinforce the mountain's shape."
+    },
+    {
+      "start": "00:01:16",
+      "end": "00:03:12",
+      "title": "Sky remediation: Gaussian blur, painting, and diffusion",
+      "concepts": [
+        "Gaussian blur",
+        "mask painting",
+        "lower-frame emphasis",
+        "diffusion",
+        "dehaze",
+        "history brush"
+      ],
+      "description": "The sky is selected and blurred intensely (500 px) to reduce its dominance. The artist paints a 30% mask into the bottom of the frame to draw attention to the mountain, discusses not blowing out the rest of the sky, and introduces diffusion via dehaze with a history brush set to low opacity to subtly shape the sky-mountain relationship."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:04:10",
+      "title": "Diffusion and diffusion-focused refinements",
+      "concepts": [
+        "diffusion",
+        "color introduction (when applicable)"
+      ],
+      "description": "Notes the need to revert to the original sky for other adjustments and introduces diffusion concepts (via dehaze) as a means to imply depth without overt color changes where the sky is blown out."
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:05:25",
+      "title": "Waterfall emphasis: mid-tone dodging (Size 4) and sampling",
+      "concepts": [
+        "mid-tone dodging",
+        "water texture",
+        "pixel-level sampling",
+        "four-pixel brush behavior"
+      ],
+      "description": "The waterfall is made more prominent using a mid-tone dodge. The instructor specifies a size-4 brush as essential for water-like texture, demonstrates repeated multi-sampling to create delicate lines, and emphasizes the time-intensive nature of this step."
+    },
+    {
+      "start": "00:05:25",
+      "end": "00:07:55",
+      "title": "Addressing inconsistencies and maintaining natural lighting",
+      "concepts": [
+        "lighting consistency",
+        "dodging/burning cautions",
+        "large vs. small brush control"
+      ],
+      "description": "A discussion on fixing mid-ground inconsistencies that distract from the image, with warnings about creating artificial variation with tiny brushes. The emphasis is on ensuring light and tone across planes feel uniform and natural."
+    },
+    {
+      "start": "00:08:18",
+      "end": "00:09:07",
+      "title": "Blue lake recolor: color balance, calibration, and masking",
+      "concepts": [
+        "color balance",
+        "blue calibration",
+        "exposure/shadows/whites",
+        "masking and erasing"
+      ],
+      "description": "The lake is recolored toward blue by adjusting exposure, shadows, whites, and color balance, with a blue calibration tweak. The adjustment is first applied globally, then erased with a mask to confine color to the water alone."
+    },
+    {
+      "start": "00:09:43",
+      "end": "00:12:24",
+      "title": "Grass detail and rock suppression: enhancing mid-tone range",
+      "concepts": [
+        "grass detail enhancement",
+        "HSL adjustments",
+        "camera calibration",
+        "dynamic range",
+        "dark blur for rocks"
+      ],
+      "description": "The grass is selectively brightened to boost eye movement, with careful attention to mid-tone detail and dynamic range. A broader dark blur is applied to rocks to reduce distraction and guide the viewer's eye around the scene."
+    },
+    {
+      "start": "00:12:35",
+      "end": "00:14:34",
+      "title": "Final pass: water dodging, path creation, and warp note",
+      "concepts": [
+        "mid-tone dodging on water",
+        "path/isolation of forms and light",
+        "leading the eye",
+        "warp as a potential but unexecuted step"
+      ],
+      "description": "A final set of mid-tone dodges refines the water and reinforces a visual path from foreground through the valley. The speaker discusses isolating light and forms to draw the eye and notes a potential warp technique, which is not performed in this session."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gaussian blur on sky (500 px) to reduce contrast and emphasize mountain",
+      "timestamp": "00:01:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Painted mask to bottom of frame (approx. 30%) to emphasize mountain",
+      "timestamp": "00:01:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dehaze-based diffusion with history brush",
+      "timestamp": "00:02:55",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Mid-tone dodging for waterfall with multi-sampling (Size 4)",
+      "timestamp": "00:04:25",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Blue lake recolor via color balance and calibration, masked to water",
+      "timestamp": "00:08:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Dark blur to suppress distracting rocks and guide eye",
+      "timestamp": "00:11:10",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Selective grass enhancement with HSL adjustments and calibration",
+      "timestamp": "00:09:51",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Path isolation and leading-eye guidance discussion",
+      "timestamp": "00:13:58",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:16:52.982682+00:00"
+}

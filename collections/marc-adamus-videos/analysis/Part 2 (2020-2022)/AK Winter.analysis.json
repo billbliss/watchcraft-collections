@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/AK Winter.mp4",
+  "title": "Multi-Zone Landscape Post-Processing of a Winter Mountain Scene (ISO 3200)",
+  "date": {
+    "display": "2021-12-11",
+    "iso": "2021-12-11",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "Embedded MP4 creation_time may reflect export date; no independent date confirmation in transcript."
+  },
+  "locations": [],
+  "summary": "The video presents a step-by-step post-processing workflow for a winter mountain landscape captured at high ISO. The instructor identifies a flat lighting situation and a bright sky fragment that necessitates separate local adjustments, then outlines a multi-zone approach (sky, midground/mountain, and foreground) to achieve depth and atmosphere. The process moves from initial noise reduction and lighting adjustments to intricate color grading, tonal-based color adjustments, and non-destructive compositing between two Camera Raw instances. Techniques include isolating problematic zones, painting adjustments with a history-brush workflow, cloning and blending across states, and employing perspective and warp tools to guide the viewer’s eye toward the mountain peak. The tutor emphasizes precise tint handling, color calibration, texture management, and subtle diffusion to create a three-dimensional, dreamy winter scene while preserving snow texture and avoiding color artifacts.",
+  "topics": [
+    "Camera RAW",
+    "Photoshop",
+    "Topaz Denoise",
+    "Noise Reduction",
+    "Color Grading",
+    "Color Calibration",
+    "Selective Color",
+    "HSL",
+    "Curves",
+    "Luminosity",
+    "Blending Modes",
+    "History Brush",
+    "Clone Stamp",
+    "Gaussian Blur",
+    "Diffusion",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Two RAW Versions",
+    "ISO 3200",
+    "Landscape Post-Processing",
+    "Three-Zone Workflow",
+    "Backlit Mountain",
+    "Sunlight Simulation",
+    "Color Management"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:10",
+      "title": "Scene assessment and zone planning",
+      "concepts": [
+        "flat light assessment",
+        "identifying a bright sky fragment requiring separate adjustments",
+        "big-to-small vs other tonal transitions",
+        "composition framing with trunks and vertical structure"
+      ],
+      "description": "The speaker notes nearly flat lighting and focuses on a bright sky patch that will demand distinct adjustments. He outlines a big-to-small compositional transition and describes building a framing structure with tree trunks to support later tonal shifts."
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:10",
+      "title": "Initial RAW processing and early light shaping",
+      "concepts": [
+        "ISO 3200 noise considerations",
+        "partial denoise and noise reduction",
+        "local light reinjection behind the mountain",
+        "color temperature tweaks to evoke sunset tones"
+      ],
+      "description": "The workflow begins with a gentle noise reduction, followed by using light to reintroduce exposure behind the mountain and push a warm, sunset-like palette via color temperature and color calibration."
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:06:00",
+      "title": "Dynamic range and color tuning",
+      "concepts": [
+        "black level and contrast adjustments",
+        "curves for light and color balance",
+        "warm tampering with calibration to introduce blues",
+        "color grading focused on highlights"
+      ],
+      "description": "Dynamic range is expanded, blacks boosted, and a warm-to-cool balance is crafted to give the skylight a sunset feel, with targeted highlight coloring through calibration and grading."
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:05",
+      "title": "Two-RAW approach and tone-based color replacement",
+      "concepts": [
+        "reopen with original adjustments intact",
+        "replace color with tonal-based color adjustments",
+        "avoid color artifacts via tonal adjustments",
+        "utilize two RAW states for better control"
+      ],
+      "description": "The speaker introduces a two-RAW workflow: reopen with adjustments intact, then replace problematic color using tonal-based edits to preserve luminance relationships and reduce color artifacts."
+    },
+    {
+      "start": "00:10:05",
+      "end": "00:12:30",
+      "title": "History Brush and cross-state painting",
+      "concepts": [
+        "history brush for painting adjustments between RAW states",
+        "inverse selections and localized painting",
+        "blending concepts and quick reversion"
+      ],
+      "description": "Adjustments are painted from one RAW instance onto another using the history brush, with selective painting behind the mountain and other zones to shape the light distribution."
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:50",
+      "title": "Sky behind-mountain shaping and local color control",
+      "concepts": [
+        "selective region behind the mountain",
+        "inversion selections and sky brightening",
+        "tonal-based color adjustments to the highlights",
+        "top-down color grading for a cohesive palette"
+      ],
+      "description": "A targeted sky boost is performed behind the mountain to enhance contrast and color while preserving natural transitions; a tonal-based approach is applied to keep colors consistent across zones."
+    },
+    {
+      "start": "00:16:50",
+      "end": "00:19:50",
+      "title": "Foreground refinement and blues control",
+      "concepts": [
+        "foreground color balancing",
+        "selective color and HSL to fix blues",
+        "painting precise color only on highlights to avoid artifacts",
+        "refined snow and meadow tones"
+      ],
+      "description": "Foreground adjustments focus on blues and highlight-driven color, using selective color and HSL to maintain color integrity while adding three-dimensionality to snow and meadow textures."
+    },
+    {
+      "start": "00:19:50",
+      "end": "00:23:30",
+      "title": "Sky texture and final touchups",
+      "concepts": [
+        "skinny sky texture management",
+        "clone-stamp/smear for subtle cloud texture",
+        "drama via controlled diffusion and glow",
+        "before/after comparisons"
+      ],
+      "description": "A balance between texture and noise is maintained by light cloning of sky texture and a gentle diffusion pass to introduce atmosphere without overwhelming the scene."
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:31:50",
+      "title": "Zones discussion and artistic focus",
+      "concepts": [
+        "three-zone vs one-zone workflow",
+        "why long-lens processing can be easier than wide-angle",
+        "emphasis on both technical and artistic thought"
+      ],
+      "description": "The instructor distinguishes three-zone vs one-zone processing, explaining why wider scenes demand more nuanced adjustments and highlighting the balance between technical setup and artistic interpretation."
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:52:01",
+      "title": "Perspective warps, atmosphere, and final artistic flourishes",
+      "concepts": [
+        "perspective warp to straighten horizon and guide leading lines",
+        "rule of trapezoids to expand leading lines toward the peak",
+        "puppet warp for cloud shaping and selective blending",
+        "final, artistic light shaping on the mountain to simulate sunlight",
+        "closing considerations and recap of methods"
+      ],
+      "description": "The video culminates with perspective-based warping to align horizons, cloud-stretching via puppet warp, and an artistic lighting pass on the mountain to simulate sunlight, followed by reflections on the approach and its applications."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Topaz Denoise and targeted RAW noise reduction for a 3200 ISO sky",
+      "timestamp": "00:02:45.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective color and color-temperature calibration to create sunset palette",
+      "timestamp": "00:03:25.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Two-RAW workflow with tonal-based color adjustments to control color artifacts",
+      "timestamp": "00:08:56.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History Brush: painting adjustments across RAW states",
+      "timestamp": "00:12:30.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Stamp syncing across images to reduce sky noise",
+      "timestamp": "00:10:50.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective Color and HSL to fix blues and prevent speckling",
+      "timestamp": "00:17:53.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gaussian Blur and diffusion for dreamy background texture",
+      "timestamp": "00:21:34.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Perspective Warp and the rule of trapezoids for leading lines",
+      "timestamp": "00:49:08.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Puppet Warp for cloud shaping and selective blending with history brush",
+      "timestamp": "00:51:31.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Artistic sun-side lighting on the mountain using diffusion, luminosity, and color grading",
+      "timestamp": "00:45:11.000",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:23:07.365859+00:00"
+}

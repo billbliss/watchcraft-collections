@@ -1,0 +1,158 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Saudi 2-2.mp4",
+  "title": "Drone Telephoto Beams: Post-Processing, Composition, and Stitching of Saudi 2-2",
+  "date": {
+    "display": "2026-01-24",
+    "iso": "2026-01-24T00:48:34.000000Z",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [],
+  "summary": "The video walks through a telephoto drone-shot workflow focused on revealing and enhancing beam-like light structures in a sunrise scene. The presenter opens a 6X RAW frame from a Pro 4 drone, identifies faint beams, and contrasts a quick global adjustment approach with a more deliberate, selective method to bring out beams. Core techniques include expanding dynamic range, dodging to create a directional light source, two-zone RAW edits (foreground vs sky), careful use of dehaze, clarity, and whites to avoid edge halos, and the trade-offs between noise and contrast. The session also covers artistic concepts like the rule of six for composition, color grading iterations, luminosity and history brushes, and a practical workflow for stitching multiple frames—with emphasis on avoiding bracketing and using PTGui when Lightroom isn’t sufficient. The speaker notes practical considerations (gimbal tilt limits, sun/flare, and lens flare) and contrasts easier vs more labor-intensive methods for beam enhancement.",
+  "topics": [
+    "Drone photography",
+    "Pro 4 drone and 6x telephoto capture",
+    "RAW editing workflow",
+    "Dynamic range expansion",
+    "Dodging to create directional light",
+    "Foreground vs sky color grading",
+    "White, contrast, and clarity adjustments",
+    "Dehaze cautions and edge halos",
+    "Selective dehaze with 60/1000 technique",
+    "Beams accentuation in post",
+    "Noise management and denoising",
+    "Luminosity brush and history brush",
+    "Color grading twice for impact",
+    "Rule of six for composition",
+    "Rule of 20% exposure vs artistic rules",
+    "Gimbal/shot leveling and cropping",
+    "Sun/star flare considerations",
+    "Focus stacking terminology",
+    "Bracketing avoidance in stitching",
+    "Stitching workflow in PTGui",
+    "Lightroom vs PTGui for stitching",
+    "Camera/lens issues (flare at small f-stops)",
+    "File selection for stitching (RAW vs JPEG)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.000",
+      "end": "00:01:40.800",
+      "title": "Opening the RAW Telephoto Shot and beam detection",
+      "concepts": [
+        "RAW workflow",
+        "6X telephoto drone shot",
+        "Pro 4 camera detail"
+      ],
+      "description": "The video begins with opening a 6X RAW drone shot, highlighting the Pro 4's 50 MP detail and introducing faint beams present in the frame. This establishes the subject of subsequent tonal and beam-enhancement work."
+    },
+    {
+      "start": "00:01:25.940",
+      "end": "00:03:15.120",
+      "title": "Initial tonal adjustments and directional lighting",
+      "concepts": [
+        "Dodge tool",
+        "Creating directional light",
+        "Sun position inference from beams"
+      ],
+      "description": "The presenter uses the dodge tool to simulate a directional light source by lightening mid-tones in key areas and slightly deepening shadows, aligning perceived light direction with the sun. This section emphasizes how light direction affects the eye’s transition and how to plan edits around the sun's location."
+    },
+    {
+      "start": "00:02:11.740",
+      "end": "00:03:15.120",
+      "title": "Two-zone RAW adjustments and edge-halo caution",
+      "concepts": [
+        "Foreground vs sky zoning",
+        "Whites, contrast, dehaze, clarity",
+        "Edge halo considerations"
+      ],
+      "description": "The shot is analyzed as two zones (foreground and sky). The presenter demonstrates using whites, contrast, and clarity while warning that dehaze can introduce edge halos in empty sky regions, guiding the choice toward clarity and controlled adjustments to avoid noise amplification."
+    },
+    {
+      "start": "00:04:04.820",
+      "end": "00:05:08.100",
+      "title": "60/1000 selective dehaze technique",
+      "concepts": [
+        "60% hardness, 1000 px radius",
+        "Hard-edge brush for targeted effect",
+        "Balancing contrast with noise"
+      ],
+      "description": "A more advanced method is introduced: applying dehaze selectively with a hard-edge brush using a 60/1000 setup to enhance specific beams, followed by refine-by-eraser with a larger brush to soften one side of the line, creating stronger, more intentional beams."
+    },
+    {
+      "start": "00:07:58.000",
+      "end": "00:12:15.000",
+      "title": "Composition review and one-zone effectiveness; rule of six",
+      "concepts": [
+        "Front/foreground adjustments",
+        "One-zone editing efficiency",
+        "Rule of six (composition rule)"
+      ],
+      "description": "The speaker discusses cropping, leveling, and avoiding unwanted flat-top artifacts. They emphasize that some drone shots are effectively one-zone images and highlight the rule of six as a compositional check—each sixth of the frame should contribute meaningfully, otherwise it should be removed or re-framed."
+    },
+    {
+      "start": "00:12:15.000",
+      "end": "00:17:14.820",
+      "title": "Beams, sun exposure, and flare considerations",
+      "concepts": [
+        "Sun position and beam brightness",
+        "Lens flare at small apertures",
+        "Color and exposure adjustments"
+      ],
+      "description": "A discussion of how beams respond to sun position, how to avoid excessive flare at small apertures, and the interplay between dehaze, color adjustments, and brightness to preserve beam visibility while maintaining overall image integrity."
+    },
+    {
+      "start": "00:18:14.320",
+      "end": "00:28:06.020",
+      "title": "Stitching workflow, bracketing avoidance, and PTGui",
+      "concepts": [
+        "Bracketing avoidance",
+        "File selection for stitching",
+        "PTGui workflow and camera compatibility"
+      ],
+      "description": "The speaker emphasizes avoiding bracketing for stitching, selecting suitable frames (non-bracketed RAWs) and managing different folders. They discuss PTGui as a stitching tool, common workflow challenges (e.g., camera updates for newer bodies like Z8), and the general path from RAW exports to stitched panoramas."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dodging to create directional light",
+      "timestamp": "00:01:25.940",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Two-zone RAW editing with selective adjustments",
+      "timestamp": "00:02:11.740",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Selective dehaze with 60/1000 edge brush",
+      "timestamp": "00:04:04.820",
+      "confidence": 0.85
+    },
+    {
+      "technique": "60/1000 beam enhancement with erasing pass",
+      "timestamp": "00:04:17.360",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rule of six for composition",
+      "timestamp": "00:12:04.680",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Luminosity brush concept and history brush usage",
+      "timestamp": "00:23:54.320",
+      "confidence": 0.78
+    },
+    {
+      "technique": "PTGui stitching workflow and bracketing avoidance",
+      "timestamp": "00:25:58.580",
+      "confidence": 0.77
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:51:25.165468+00:00"
+}

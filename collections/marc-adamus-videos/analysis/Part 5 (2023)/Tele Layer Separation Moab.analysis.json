@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Tele Layer Separation Moab.mp4",
+  "title": "Tele Layer Separation Moab.mp4: Layer Separation Technique with Dehaze and Masking",
+  "date": {
+    "display": "April 8, 2024 (approx.)",
+    "iso": "2024-04-08",
+    "precision": "day",
+    "confidence": 0.4,
+    "basis": "embedded_creation_time in metadata: 2024-04-08T10:52:13Z; transcript does not independently confirm event date"
+  },
+  "locations": [],
+  "summary": "The video presents a landscape-processing workflow focused on extracting and emphasizing layered depth through a combination of tonal adjustments, an Auto HDR pass, and a deliberate layer-separation approach. The presenter selects the version of the file that reveals background towers, crops for a clean composition, and then adjusts exposure and contrast before applying an Auto HDR treatment (with specified clarity, shadows, and noise-reduction parameters). After determining the best tonal base, the tutorial introduces a layer-separation technique by simulating a hazy/brightened background behind the subject to enhance separability, followed by a masking pass with a hard-edge brush to reveal and refine the separation. The segment closes with cautions about artifacts (banding, color noise) and emphasizes gradual refinement rather than aggressive edits.",
+  "topics": [
+    "Auto HDR",
+    "clarity 100",
+    "shadows 100",
+    "detailed noise reduction +17",
+    "exposure adjustment",
+    "contrast adjustment",
+    "black-and-white preview",
+    "color grading",
+    "layer separation",
+    "dehaze",
+    "background brightness",
+    "masking",
+    "hard-edge brush",
+    "erasing",
+    "composition (rule of thirds)",
+    "cropping",
+    "photography workflow",
+    "landscape processing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:01:01",
+      "title": "Initial assessment, composition, and cropping",
+      "concepts": [
+        "composition",
+        "rule of thirds",
+        "background visibility",
+        "frame selection"
+      ],
+      "description": "The presenter explains choosing the version of the file with towers visible, then crops and arranges the image to align with a pleasing composition (rule of thirds) before processing."
+    },
+    {
+      "start": "00:01:01",
+      "end": "00:02:11",
+      "title": "Initial tonal adjustments and BW planning",
+      "concepts": [
+        "exposure",
+        "shadows",
+        "highlights",
+        "black-and-white planning"
+      ],
+      "description": "Exposure is reduced slightly, shadows raised, and a temporary black-and-white look is used to assess tonal relationships before reintroducing color."
+    },
+    {
+      "start": "00:02:11",
+      "end": "00:02:25",
+      "title": "Auto HDR pass configuration and repetition",
+      "concepts": [
+        "Auto HDR",
+        "clarity",
+        "shadows",
+        "noise reduction",
+        "artifact avoidance"
+      ],
+      "description": "Auto HDR is applied with set values (clarity 100, shadows 100, detailed noise reduction +17) and described as something to repeat two or three times."
+    },
+    {
+      "start": "00:02:25",
+      "end": "00:04:07",
+      "title": "Assessing layer visibility and prep for separation",
+      "concepts": [
+        "layer separation concept",
+        "foreground-background separation",
+        "dehaze/fog behind subject"
+      ],
+      "description": "After the Auto HDR pass, the presenter notes the best portion of the scene and prepares for a layer-separation effect by introducing a haze/brightness behind the subject to enhance separation."
+    },
+    {
+      "start": "00:04:07",
+      "end": "00:04:56",
+      "title": "Masking to reveal separation with a hard-edge brush",
+      "concepts": [
+        "selection",
+        "hard-edge brush",
+        "masking",
+        "eraser",
+        "refinement"
+      ],
+      "description": "A hard-edge brush is used to trace around the adjustment, revealing the separation. The process emphasizes that initial tracing can be approximate and refined later."
+    },
+    {
+      "start": "00:04:56",
+      "end": "00:05:22",
+      "title": "Refinement and cautions against artifacts",
+      "concepts": [
+        "artifact avoidance",
+        "banding",
+        "color noise",
+        "iteration"
+      ],
+      "description": "The instructor explains why the separation should be built gradually to avoid artifacts, noting that excessive pushing yields banding, color noise, and other issues; the approach is framed as a manageable, iterative workflow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Auto HDR with defined parameter values",
+      "timestamp": "00:01:55",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Layer separation through background adjustment (dehaze/brightness) behind the subject",
+      "timestamp": "00:03:22",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Masking with a hard-edge brush and erasing for selective adjustment",
+      "timestamp": "00:04:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Caution against artifacts (banding, noise) and gradual refinement",
+      "timestamp": "00:05:04",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:32:06.124964+00:00"
+}

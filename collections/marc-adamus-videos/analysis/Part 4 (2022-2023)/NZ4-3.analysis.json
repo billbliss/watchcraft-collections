@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/NZ4-3.mp4",
+  "title": "Handheld Canon Focus Stacking, Sun-Star Beams, and Advanced Color Grading (NZ4-3)",
+  "date": {
+    "display": "December 10, 2022",
+    "iso": "2022-12-10",
+    "precision": "day",
+    "confidence": 0.8,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [],
+  "summary": "This video guides a photographer through a complete post-production workflow on a high-dynamic-range landscape shot assembled from multiple RAW frames captured handheld with a Canon system. Techniques demonstrated include: preparing RAW files for focus stacking by expanding dynamic range and adjusting exposure, assembling and aligning a handheld focus stack, and blending layers for a sharp composite. The presenter then selects, clones, and refines sun-beam artifacts, uses mid-tone dodging and selective color adjustments to enhance foreground and sky tonality, applies an Auto HDR-style treatment, and finishes with color grading, a controlled vignette, and careful compositional refinements. The segment also dives into advanced warp-based tools (convex/concave, trapezoid, puppet warp) to exaggerate mountain shapes and perspective while warning about horizon straightness, before discussing fog insertion and final crop decisions. Throughout, the emphasis is on deliberate, incremental adjustments and maintaining balance between foreground, beams, and sky to preserve naturalism while maximizing depth and visual impact.",
+  "topics": [
+    "Camera Raw",
+    "Dynamic Range",
+    "Exposure Adjustment",
+    "Focus Stacking",
+    "Canon",
+    "Auto Align Layers",
+    "Auto Blend Layers",
+    "Handheld Stacking",
+    "Sun Star",
+    "Clone Stamp",
+    "Soft Brush",
+    "Dodge and Burn",
+    "Mid-Tone Dodge",
+    "Shadow Dodge",
+    "Sponge Tool",
+    "Selective Color",
+    "HSL",
+    "Color Grading",
+    "Color Calibration",
+    "Auto HDR",
+    "Vignette",
+    "Dark Blur",
+    "Warp Tool",
+    "Convex Warp",
+    "Concave Warp",
+    "Rule of Trapezoids",
+    "Puppet Warp",
+    "Fog in Landscape",
+    "Big-to-Small Composition",
+    "Three-Dimensional Layering",
+    "4x5 Cropping"
+  ],
+  "sections": [
+    {
+      "start": "00:00:12",
+      "end": "00:02:10",
+      "title": "RAW prep and dynamic-range expansion for focus stacking",
+      "concepts": [
+        "Camera Raw expansion of dynamic range",
+        "Exposure adjustment for stacking pre-process",
+        "Frame prep for focus stacking"
+      ],
+      "description": "The speaker begins by opening multiple files in Camera Raw, expanding the dynamic range and lowering exposure before stacking. This preps the frames for later alignment and blend, with emphasis on maintaining the intended tonal balance before the stack is created."
+    },
+    {
+      "start": "00:02:16",
+      "end": "00:03:50",
+      "title": "Handheld focus stacking workflow and alignment",
+      "concepts": [
+        "Focus stacking",
+        "Auto-alignment",
+        "Stack assembly"
+      ],
+      "description": "Images are loaded into a stack and aligned automatically. The presenter highlights improved speed and accuracy when using Canon’s 10 frames-per-second performance for handheld focus stacks, and then demonstrates loading and auto-aligning the frames before the automatic blend step."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:05:54",
+      "title": "Initial post-stack review and composition framing",
+      "concepts": [
+        "Deselecting/flattening",
+        "4x5 crop framing",
+        "Edge-to-edge composition"
+      ],
+      "description": "Post-stack steps include deselecting, flattening the stack, and cropping to a four-by-five framing. The narrator comments on composition, highlighting edge framing and the balance of elements such as trees and openings as crucial before further refinements."
+    },
+    {
+      "start": "00:05:54",
+      "end": "00:06:27",
+      "title": "Sun star beams and cloud matching via cloning",
+      "concepts": [
+        "Sun star creation",
+        "Clone stamp for beam enhancement",
+        "Cloud matching across clouds"
+      ],
+      "description": "A sun-star beam is re-created by selecting a shot with an existing sun star, applying a previous conversion, and cloning the beam into the target area. The clouds are matched to maintain seamless continuity, using soft brushes and careful masking to preserve low-detail areas."
+    },
+    {
+      "start": "00:06:27",
+      "end": "00:08:58",
+      "title": "Mid-tone light adjustments and auto HDR refinements",
+      "concepts": [
+        "Mid-ground lighting",
+        "White and shadow adjustments",
+        "Auto HDR-like processing",
+        "Layered beam enhancement"
+      ],
+      "description": "The workflow tightens the mid-ground light by darkening areas then painting in whites to brighten shadows while avoiding highlights. Auto HDR-style steps are applied to beams and mid-ground to boost clarity, followed by cloning and blending to emphasize beam structure without affecting highlight integrity."
+    },
+    {
+      "start": "00:09:39",
+      "end": "00:12:22",
+      "title": "Color refinement, saturation control, and selective color",
+      "concepts": [
+        "Sponge tool on foliage",
+        "Selective color adjustments",
+        "HSL and blue saturation control",
+        "Luminosity adjustments"
+      ],
+      "description": "A sequence of local color edits emphasizes foliage and sunset tones. The sponge tool adds side-light to leaves, while HSL and selective-color work nudge saturation and luminance in specific regions. The presenter demonstrates preserving the fjord’s color while altering the trees and sky to guide the viewer’s eye."
+    },
+    {
+      "start": "00:12:29",
+      "end": "00:16:10",
+      "title": "Color grading and sky-tint balance",
+      "concepts": [
+        "Color grading tool",
+        "Highlight-warmth vs. shadow-cool",
+        "Camera calibration adjustments",
+        "Balance and luminosity control"
+      ],
+      "description": "A warm highlight color is added with targeted balance to confine adjustments to highlights, followed by cool shadows and subtle mid-tone tweaks. The color grading process is explained in terms of luminosity, amount, and blending, trading off color in the sky against the mountains to preserve separation and depth."
+    },
+    {
+      "start": "00:14:34",
+      "end": "00:16:10",
+      "title": "Final vignette and flow adjustments",
+      "concepts": [
+        "Dark-blur vignette",
+        "Painted-in original shot within vignette",
+        "Light-flow shaping"
+      ],
+      "description": "A three-step dark blur vignette is applied, and the original image is painted back into the vignette to preserve natural light flow and direct the viewer’s eye toward the beam-rich middle ground, heightening the three-dimensional feel."
+    },
+    {
+      "start": "00:26:34",
+      "end": "00:39:53",
+      "title": "Warp tools deep-dive: trapezoids, perspective, and puppet warp",
+      "concepts": [
+        "Rule of trapezoids",
+        "Convex/Concave warp",
+        "Perspective warp",
+        "Puppet Warp with locking anchors",
+        "Horizon straightness and warp pitfalls"
+      ],
+      "description": "A detailed exploration of warp tools demonstrates how to magnify mountains using convex/concave warps and the rule of trapezoids to simulate lens distortion. The presenter reviews perspective warp, its impact on image sharpness, and puppet warp, including anchoring points to avoid unwanted distortion. Cautions include preserving straight horizons and natural geometry, with thoughts on when puppet warp is appropriate (non-permanent subjects) versus when to avoid over-warping landscape geology."
+    },
+    {
+      "start": "00:40:02",
+      "end": "00:41:53",
+      "title": "Final considerations: lens behavior, cropping, and fog integration",
+      "concepts": [
+        "11mm lens distortion considerations",
+        "Horizon placement and cropping tricks",
+        "Fog insertion discussion",
+        "Symmetry and composition reminders"
+      ],
+      "description": "The session concludes with reminders about lens-induced distortion, the utility of placing the horizon thoughtfully, and a discussion of fog as a method to separate layers and unify composition. The presenter notes the balance between foreground and sky color, suggests cropped adjustments to improve symmetry, and points toward fog as a prime candidate for future shots."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Handheld Canon focus stacking with automatic alignment",
+      "timestamp": "00:02:16",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Auto align and auto blend of focus stack layers",
+      "timestamp": "00:03:50",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sun-star beam creation via cloning and previous conversion",
+      "timestamp": "00:05:01",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Mid-tone dodging and selective light painting (sponge tool for foliage)",
+      "timestamp": "00:09:39",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Auto HDR-style channel edits (clarity, shadows, noise reduction)",
+      "timestamp": "00:07:21",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color grading workflow with highlight warmth, shadow coolness, and calibration",
+      "timestamp": "00:12:29",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dark blur vignette with painting original back into vignette",
+      "timestamp": "00:14:34",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Warp tools: rule of trapezoids, convex/concave warps, and puppet warp with anchors",
+      "timestamp": "00:32:06",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Fog insertion discussion for depth and atmosphere",
+      "timestamp": "00:41:29",
+      "confidence": 0.5
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:55:25.346741+00:00"
+}

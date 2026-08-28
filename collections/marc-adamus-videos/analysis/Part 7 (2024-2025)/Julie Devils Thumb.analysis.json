@@ -1,0 +1,101 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Julie Devils Thumb.mp4",
+  "title": "Julie Devils Thumb: Depth and Color Grading in Post-Processing",
+  "date": {
+    "display": "2026-01-30",
+    "iso": "2026-01-30",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded MP4 creation_time in metadata; file path indicates production window but no transcript-confirmed recording date."
+  },
+  "locations": [],
+  "summary": "This video documents a landscape post-processing workflow focused on creating depth by separating foreground and background blacks and then refining color and light. The presenter applies a large Gaussian blur to the background, increases luminosity with whites adjustments, and uses the History Brush to restore select details. A subsequent blur and a dehaze-like pass on the left refine the separation and reintroduce the foreground. The color pass employs a selective color technique described as “50/150” to intensify mountain hues, followed by RAW-based color grading and additional whites adjustments to emphasize the light direction. Micro-corrections on foreground rocks and targeted color enhancements finalize the tonal balance and visual flow toward the scene’s light source.",
+  "topics": [
+    "Gaussian blur (600 px) for background softness",
+    "Foreground-background depth separation",
+    "Luminosity adjustments using whites slider",
+    "History Brush to restore original details",
+    "Additional blur and dehaze adjustments on left side",
+    "Foreground reintroduction after blur",
+    "Selective Color technique (50/150) on the mountain",
+    "Saturation and hue adjustments for color channels (yellow, red, magenta, blacks)",
+    "Color grading in RAW with whites adjustments",
+    "Light direction emphasis through localized color grading",
+    "Micro color corrections on rocks in foreground",
+    "Overall tonal balance and visual flow"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:22",
+      "title": "Plan for depth: separating foreground and background blacks",
+      "concepts": [
+        "depth creation through tonal separation",
+        "foreground/background contrast",
+        "identify dark vs light areas"
+      ],
+      "description": "The presenter explains the goal of separating the blacks in the background from those in the foreground to create depth, setting up a workflow that includes a large blur and selective light/color adjustments to smooth transitions between zones."
+    },
+    {
+      "start": "00:01:22",
+      "end": "00:02:53",
+      "title": "Refinement: blur, luminosity, and detail restoration",
+      "concepts": [
+        "Gaussian blur on background",
+        "white adjustment to increase luminosity",
+        "history brush to restore areas",
+        "dehaze-like adjustment on left",
+        "foreground reintroduction"
+      ],
+      "description": "The sequence adds a strong background blur (600 px) and brightens with Whites, then uses the History Brush to reclaim original tones. A further blur and a dehaze-like pass are applied to the far left, after which foreground details are brought back to sharpen the separation."
+    },
+    {
+      "start": "00:02:53",
+      "end": "00:03:28",
+      "title": "Color emphasis: selective color and RAW color grading",
+      "concepts": [
+        "Selective Color (50/150 technique) on mountain",
+        "color channel adjustments (yellow, red, magenta, black)",
+        "RAW color grading with Whites adjustment",
+        "light-direction emphasis through color"
+      ],
+      "description": "The color phase focuses on making the mountain pop using a 50/150 selective color approach, intensifying select color channels. This is followed by RAW-based color grading and additional whites adjustments to emphasize the light source and complete the tonal balance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gaussian blur (600 px) applied to background to create depth",
+      "timestamp": "00:00:45",
+      "confidence": 0.9
+    },
+    {
+      "technique": "White adjustment to increase luminosity",
+      "timestamp": "00:00:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "History Brush used to restore original areas",
+      "timestamp": "00:01:22",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Dehaze-like adjustment on far left",
+      "timestamp": "00:01:36",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective Color technique described as '50/150' on the mountain",
+      "timestamp": "00:01:52",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Color grading in RAW with Whites adjustment",
+      "timestamp": "00:02:53",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:49:14.512050+00:00"
+}

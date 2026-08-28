@@ -1,0 +1,169 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/BEST WORKFLOW VIDEO 2022_ Fall Color Layers Sierra.mp4",
+  "title": "Multi‑zone focus-stacking, color layering, and atmospheric separation in a Sierra fall-color landscape",
+  "date": {
+    "display": "November 8, 2021",
+    "iso": "2021-11-08T20:54:10Z",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "Video embedded_creation_time provided as 2021-11-08T20:54:10.000000Z; treated as approximate evidence for publication/date."
+  },
+  "locations": [
+    {
+      "name": "Mount Williamson ridge (Sierra Nevada, California, USA)",
+      "confidence": 0.6,
+      "basis": "Explicit transcript mention of 'ridge of mount williamson'; inference places in the Sierra Nevada range; no explicit country/region stated in transcript."
+    }
+  ],
+  "summary": "This video presents a comprehensive landscape post-processing workflow focused on a high-detail fall-color scene. Beginning with a six-frame focus stack to achieve sharp foreground and background details, the presenter flattens dynamic range for consistent light and then uses Photoshop and Camera Raw to color-grade by zones. The core creative technique centers on separating mountains and creating depth through a blend of clone-paint and Orton-style glow, followed by targeted, history-based adjustments (including Selective Color, calibration, and sponge/dodge/burn) to shape light, color, and atmosphere. The workflow emphasizes precise brushwork, multi-layer separation, and atmospheric haze to guide the viewer toward the light while preserving intricate foreground and midground detail, culminating in a cohesive, three-dimensional landscape image.",
+  "topics": [
+    "focus stacking",
+    "auto align",
+    "auto blend",
+    "load files into stack",
+    "Photoshop",
+    "Photoshop layers",
+    "Clone Stamp Tool",
+    "History Brush",
+    "History Select",
+    "Orton effect",
+    "Gaussian blur",
+    "Camera Raw Filter",
+    "Camera Raw calibration",
+    "Selective Color",
+    "HSL",
+    "Sponge Tool",
+    "Dodge",
+    "Burn",
+    "50-150 adjustment",
+    "Blue calibration",
+    "Atmospheric haze",
+    "Three-dimensional depth",
+    "Mountain separation",
+    "Mount Williamson",
+    "Sierra Nevada",
+    "Fall color processing",
+    "Foreground lighting",
+    "Color grading"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:20",
+      "title": "Focus stacking setup and dynamic-range flattening",
+      "concepts": [
+        "focus stacking",
+        "frame-by-frame focus planning",
+        "dynamic range expansion"
+      ],
+      "description": "The speaker identifies the goal of the stack (accentuate mid-ground colors and left-biased light) and explains that initial DR expansion is necessary to retain sky and shadow detail before heavy color work."
+    },
+    {
+      "start": "00:04:56",
+      "end": "00:09:20",
+      "title": "Loading, aligning, and blending stacked frames in Photoshop",
+      "concepts": [
+        "load files into stack",
+        "auto align layers",
+        "auto blend layers",
+        "content-aware fill"
+      ],
+      "description": "Six images are opened in Photoshop, loaded into a stack, auto-aligned to compensate slight focal-length shifts, and then auto-blended to combine the stack with seamless tones. The presenter notes potential memory issues and compares Photoshop with Helicon for alignment."
+    },
+    {
+      "start": "00:12:32",
+      "end": "00:16:59",
+      "title": "Zone-based color adjustments in Camera Raw and selective color basics",
+      "concepts": [
+        "zone-based editing",
+        "Camera Raw calibration",
+        "Selective Color",
+        "HSL"
+      ],
+      "description": "After flattening the stack, the image is opened in Camera Raw. The presenter uses calibration controls (luminosity/saturation) to intensify foliage color, then introduces selective color/HSL concepts to control blue and red regions while preserving other zones."
+    },
+    {
+      "start": "00:16:59",
+      "end": "00:23:13",
+      "title": "History Select workflow and selective sky recall",
+      "concepts": [
+        "history select",
+        "history brush",
+        "selective re-application of steps"
+      ],
+      "description": "The technique centers on history-based selective application to apply, erase, and blend prior adjustments. The host demonstrates painting adjustments into the sky separately from the rest of the image and re-applying steps with controlled opacity to avoid obvious composites."
+    },
+    {
+      "start": "00:25:01",
+      "end": "00:40:10",
+      "title": "Light painting and atmospheric separation using clone-paint and Orton-style glow",
+      "concepts": [
+        "clone paint",
+        "Orton effect",
+        "diffuse glow",
+        "atmospheric haze",
+        "ridge separation"
+      ],
+      "description": "A multiphase sequence shows duplicating the image, applying Orton-style blur and glow on a background layer, then using the clone stamp with a hard brush to paint from the blurred layer into the sharp foreground, creating pronounced depth and three-dimensional separation of ridges. The process includes precise edge erasing with soft brushes and iterative layering to simulate atmospheric haze and light diffusion."
+    },
+    {
+      "start": "00:40:10",
+      "end": "00:50:56",
+      "title": "Final refinements: luminosity, sky blues, and micro-adjustments",
+      "concepts": [
+        "luminosity masking",
+        "sky color control",
+        "dodge/burn techniques",
+        "sponge tool for foliage",
+        "final crop"
+      ],
+      "description": "The final pass emphasizes localized luminosity and color tuning, including blue calibration of skies, selective brightening of foreground light, sponge tool treatments for foliage saturation, and subtle dodging/burning for highlight emphasis. The section also covers minor crop/warp decisions and final quality checks."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Focus stacking with auto-align and auto-blend in Photoshop",
+      "timestamp": "00:06:14",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Camera Raw calibration and zone-based color adjustments",
+      "timestamp": "00:12:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History Select and History Brush for selective step application",
+      "timestamp": "00:16:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "50-150 color adjustment in Selective Color",
+      "timestamp": "00:21:15",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Clone Stamp-based mountain separation with Orton glow",
+      "timestamp": "00:26:20",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Orton-style glow and haze layering via a blurred background",
+      "timestamp": "00:27:58",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sponge tool for foliage color enhancement",
+      "timestamp": "00:42:58",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Light painting with brush to wrap light across foreground",
+      "timestamp": "00:25:01",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:29:22.260939+00:00"
+}

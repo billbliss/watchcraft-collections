@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Saudi 2-4.mp4",
+  "title": "Saudi Desert Arches: Focused Post-Processing Techniques for Sand, Sky, and Sun Stars",
+  "date": {
+    "display": "Approx. 2026-01-24 (embedded MP4 creation time used as approximate publish/export date)",
+    "iso": "2026-01-24",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "Embedded creation_time provided in metadata; transcript references a field session and a trip, but no explicit broadcast date."
+  },
+  "locations": [
+    {
+      "name": "Saudi Arabia (probable desert arch landscape)",
+      "confidence": 0.65,
+      "basis": "Transcript repeatedly discusses desert scenery and explicitly mentions 'Saudi Arabia' (line near 00:31:49). The visuals describe arches, oases, and desert features typical of that region."
+    }
+  ],
+  "summary": "The video is a high-detail walkthrough of post-processing desert-arch imagery shot on a multi-shot sequence. The speaker demonstrates how to shape lighting and depth through multi-pass color grading in Camera Raw and Photoshop, using targeted adjustments (shadows, exposure, whites, blacks), dehaze, and color balance to separate sky, sand, and distant mountains. They emphasize painting adjustments with a hard-edge brush, masking and fades to preserve layer separation, and the deliberate use of perspective- and puppet-warp to control composition. The session also covers focus stacking versus exposure blending, the challenges of alignment, and the strategic decisions for color vs. black-and-white processing. Throughout, the emphasis is on creating directional light, layered depth, and a believable sky-sand relationship, with particular attention given to sun stars, warm-cool contrasts, and the role of the middle ground in selling depth. The dialogue also includes pragmatic tips on workflow efficiency (repeating color-grading passes, avoiding over-coloring complex vegetation, and keeping natural look for distant trees).",
+  "topics": [
+    "Directional lighting and scene assessment",
+    "Baseline exposure evaluation and cropping",
+    "Camera Raw: shadows, exposure, whites, blacks",
+    "Color temperature and tint adjustments",
+    "Color grading: multiple passes across sky, sand, and middle ground",
+    "Color balance and cyan/blue toning for distance",
+    "Selective Color and Lab color mode as alternatives",
+    "Luminosity and dehaze adjustments",
+    "Hard-edge brush painting to colorize sand",
+    "Masking, erasing with fades, and feathering edges",
+    "Vignetting and selective painting to enhance lighting direction",
+    "50-150 color adjustments (color-wheel technique)",
+    "Focus stacking vs exposure-blend workflow and alignment issues",
+    "Perspective Warp and Puppet Warp for composition control",
+    "Sun star management and glow bleeding into midground",
+    "Layering to create depth: background, middle ground, foreground",
+    "Black and white processing philosophy vs color",
+    "Leading lines and composition strategies in desert scenes",
+    "Dynamic range considerations and discussion of stops"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.000",
+      "end": "00:01:00.000",
+      "title": "Shot evaluation and directional lighting",
+      "concepts": [
+        "directional light source",
+        "baseline exposure",
+        "cropping to emphasize space"
+      ],
+      "description": "Initial assessment of the shot, noting the upside-down skull view and the directional light that makes the scene compelling. The speaker discusses exposure and cropping to optimize space on the sides for lighting."
+    },
+    {
+      "start": "00:01:00.000",
+      "end": "00:02:24.000",
+      "title": "Left sky first: color grading and sky shaping",
+      "concepts": [
+        "three-pass color grading",
+        "color balance in midtones",
+        "cyan/blue emphasis in sky"
+      ],
+      "description": "The left side of the sky is treated first. Steps include shadows up, exposure down, whites up, and then iterative color grading to refine sky color—applying cyan/blue balance in midtones to establish a directional light mood before further adjustments."
+    },
+    {
+      "start": "00:02:24.000",
+      "end": "00:05:50.000",
+      "title": "Sand color work: warmth, selective color, and blending",
+      "concepts": [
+        "sand warmth and color grading",
+        "selective color",
+        "hard-edge brush painting",
+        "fade/blend techniques"
+      ],
+      "description": "Sand is given warmth and color shifts to resemble sunrise hues. The author uses selective color the reds/yellows, and paints with a hard-edge brush, followed by erasing with fades to seamlessly blend edges and create one-sided lighting that preserves tower colours."
+    },
+    {
+      "start": "00:05:50.000",
+      "end": "00:06:53.000",
+      "title": "Sky tuning and vignette refinements",
+      "concepts": [
+        "dehaze",
+        "blue-gold filter",
+        "vignette usage",
+        "selective painting in sky area"
+      ],
+      "description": "Camera Raw adjustments further separate sky from foreground: dehaze to reveal layers, introduce blue-gold balance for distance, and use a vignette to frame the composition while painting back into the sky selectively."
+    },
+    {
+      "start": "00:07:02.000",
+      "end": "00:12:12.000",
+      "title": "Dynamic range, sun stars, and focus-stack considerations",
+      "concepts": [
+        "focus stack vs exposure blend",
+        "dynamic range discussion",
+        "sun star handling",
+        "alignment challenges"
+      ],
+      "description": "A discussion of dynamic range (noting a three-stop range in a specific example) and the challenges of combining focus stacks with exposure blends due to camera movement (focus breathing). The speaker explains practical approaches to maintain sun stars and manage misalignments."
+    },
+    {
+      "start": "00:12:12.000",
+      "end": "00:13:37.000",
+      "title": "Puppet Warp and Perspective Warp in-field planning",
+      "concepts": [
+        "puppet warp",
+        "perspective warp",
+        "lens-induced symmetry"
+      ],
+      "description": "Introduction to puppet warp and perspective warp as tools to correct or enhance composition, particularly stressing how wide-angle lens distortion creates symmetry and how warping can adjust key branches and mountains without altering the sun star."
+    },
+    {
+      "start": "00:21:11.000",
+      "end": "00:24:24.000",
+      "title": "Black and white versus color processing philosophy",
+      "concepts": [
+        "black and white simplification",
+        "color-channel reasoning",
+        "ease of B&W"
+      ],
+      "description": "A comparative discussion on why black-and-white can simplify processing, with emphasis on representing brightness rather than color, and a rebuttal to overcomplicated color-channel manipulations; the speaker outlines when B&W may be advantageous."
+    },
+    {
+      "start": "00:51:25.000",
+      "end": "01:11:38.000",
+      "title": "Layering, middle ground, and final panoramic depth",
+      "concepts": [
+        "layered depth",
+        "middle-ground painting",
+        "dynamic range expansion in layers",
+        "final glow and vignette"
+      ],
+      "description": "The speaker elaborates on layering mountains to achieve depth, painting the middle ground, and using multiple adjustments (dehaze, warmth, color grading) to create a three-dimensional look. The emphasis is on the middle ground as the real magic of the image and on careful, iterative remixes to preserve natural look while enhancing depth."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Multi-pass color grading in Camera Raw",
+      "timestamp": "00:01:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective painting with hard-edge brush and fades",
+      "timestamp": "00:02:24",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Puppet Warp and Perspective Warp for composition",
+      "timestamp": "00:12:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "50-150 adjustments for localized glow",
+      "timestamp": "00:39:57",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Sun star glow and directional lighting bleeding",
+      "timestamp": "00:49:29",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Focus stacking vs exposure blending discussion",
+      "timestamp": "00:07:02",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:59:57.929206+00:00"
+}

@@ -1,0 +1,211 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Stormy Peak, mexico.mp4",
+  "title": "Moody Storm-Beam Landscape: Zone-Based Processing, Sky Extension, and Beams Emphasis in Photoshop",
+  "date": {
+    "display": "2023-06-04 (approx.)",
+    "iso": "2023-06-04T22:46:02Z",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time metadata; transcript does not independently confirm the shoot date"
+  },
+  "locations": [],
+  "summary": "This video presents a field-to-processor workflow for building a moody, multi-shot storm landscape. Starting with scene assessment and layering cues (fog boundaries and atmospheric beams), the presenter selects shots with strong layer separation, then builds a composite by expanding sky, integrating beams, and preserving shadow detail through non-destructive editing. The workflow emphasizes zone-based processing (mountains/clouds in shadow, beams, and sky), sky extension via cloning and edge blending, and careful color and tonal grading to keep a cohesive moody palette. Throughout, the instructor highlights non-destructive history states, framing/compositional decisions (including the rule of trapezoids to create a wider feel), and practical notes about workflow order, alternative widening methods, and optional tools like Topaz for refinement.",
+  "topics": [
+    "Photoshop",
+    "Bridge",
+    "RAW",
+    "clone stamp",
+    "history brush",
+    "blend modes",
+    "soft brush",
+    "beams",
+    "fog",
+    "layering",
+    "shadow dodge",
+    "dehaze",
+    "clarity",
+    "shadows",
+    "whites",
+    "blacks",
+    "tonal based color adjustment",
+    "color grading",
+    "selective color",
+    "color balance",
+    "luminosity",
+    "auto HDR",
+    "sky replacement",
+    "three ways to widen",
+    "perspective warp",
+    "rule of trapezoids",
+    "topaz"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:13",
+      "title": "Scene evaluation and composition planning",
+      "concepts": [
+        "layer separation",
+        "fog boundary visibility",
+        "coarse beam presence",
+        "composition planning"
+      ],
+      "description": "Initial assessment of the landscape notes multiple atmospheric layers (ridge/fog interactions) and discusses maintaining distinction between layers to enable strong compositions; mentions being positioned at the right distance to emphasize layer separation."
+    },
+    {
+      "start": "00:02:13",
+      "end": "00:04:01",
+      "title": "Beam discovery and shadow detail extraction",
+      "concepts": [
+        "best beams",
+        "layer separation",
+        "prevent clipping",
+        "recording steps via history state"
+      ],
+      "description": "Explores candidate frames with visible beams and distinct atmospheric layers; emphasizes avoiding overexposure in highlights and preserving shadow detail, noting the importance of capturing or preserving beam geometry for later processing."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:05:57",
+      "title": "Best-beam selection and separation assessment",
+      "concepts": [
+        "best separation of layers",
+        "beam geometry",
+        "composition offset"
+      ],
+      "description": "Continues evaluation of frames, identifying which shot provides the clearest layer separation and beam placement; selects a candidate where the left-right angle enhances the beams while keeping layer distinction intact."
+    },
+    {
+      "start": "00:05:57",
+      "end": "00:11:14",
+      "title": "Sky extension and sky-beam integration workflow",
+      "concepts": [
+        "sky extension",
+        "clone stamp",
+        "blending",
+        "content-aware fill",
+        "soft-edge blending"
+      ],
+      "description": "Describes merging multiple skies and beams: expanding the sky to accommodate beams, aligning sky elements, and using soft brushes and clone stamping to blend sources; mentions the use of a third image to supply upper-right sky and discusses edge fading for seamless integration."
+    },
+    {
+      "start": "00:11:14",
+      "end": "00:14:58",
+      "title": "Non-destructive editing workflow and edge refinement",
+      "concepts": [
+        "history steps as layers",
+        "blending modes",
+        "edge refinement",
+        "selection techniques"
+      ],
+      "description": "Introduces non-destructive workflow via history states, describing how history steps can be blended and refined like layers; demonstrates refining hard-edged separations and adjusting edges to preserve natural transitions between elements."
+    },
+    {
+      "start": "00:14:58",
+      "end": "00:18:21",
+      "title": "Rule-based composition widening and irreversibility caution",
+      "concepts": [
+        "rule of trapezoids",
+        "perspective warp",
+        "three widening methods",
+        "irreversibility of state changes"
+      ],
+      "description": "Outlines compositional widening to mimic a wider lens (top/bottom pressure) and cautions that changes after applying these steps are irreversible beyond the saved history state; mentions distort/scale in RAW and wide-angle adaptive filter as alternative widening methods."
+    },
+    {
+      "start": "00:18:21",
+      "end": "00:23:20",
+      "title": "Zone-based processing framework",
+      "concepts": [
+        "zone processing",
+        "three zones (sky, beams, shadowed mountains/clouds)",
+        "shadow dodge",
+        "tonal adjustments"
+      ],
+      "description": "Defines a zone processing approach: identify regions requiring separate, independent adjustments (especially beams and shadowed areas) and apply targeted tonal/color edits per zone before blending for a cohesive result."
+    },
+    {
+      "start": "00:23:20",
+      "end": "00:29:49",
+      "title": "Beam isolation with Auto HDR and luminosity sculpting",
+      "concepts": [
+        "auto HDR",
+        "clarity",
+        "shadows",
+        "luminosity masking",
+        "color grading",
+        "masking"
+      ],
+      "description": "Demonstrates isolating and intensifying beams using Auto HDR-like parameter presets, then enhancing them with luminosity-based adjustments and localized color grading to maintain mood without blowing out highlights."
+    },
+    {
+      "start": "00:29:49",
+      "end": "00:34:00",
+      "title": "Final touches, mood tuning, and workflow philosophy",
+      "concepts": [
+        "Topaz (optional)",
+        "moody color palette",
+        "pseudo-beams",
+        "color control in highlights",
+        "perspective-first workflow"
+      ],
+      "description": "Covers final mood adjustments (dark, moody, slightly cooler), optional use of Topaz for noise/detail, minor beam refinements, and a reminder that technical adjustments precede artistic color/light work; ends with intent to save/export."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Auto HDR-like beam isolation with clarity/shadows adjustments",
+      "timestamp": "00:23:20",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Non-destructive history-state editing and blending",
+      "timestamp": "00:08:56",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Sky extension and sky-beam integration using clone stamp and edge blending",
+      "timestamp": "00:10:51",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Rule of trapezoids for wider composition via perspective warp",
+      "timestamp": "00:13:31",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Zone-based processing framework (divide into sky, beams, shadows) and targeted tonal edits",
+      "timestamp": "00:18:21",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Shadow dodge to recover depth in shadowed terrain and beams",
+      "timestamp": "00:19:01",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Selective color and color grading for moody tonality; tonal-based adjustments",
+      "timestamp": "00:21:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Luminosity-based beam isolation and masking with localized color grading",
+      "timestamp": "00:24:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Optional Topaz-like refinement for noise/detail control on drone imagery",
+      "timestamp": "00:26:23",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Perspective-first workflow guidance: fix perspective before processing",
+      "timestamp": "00:33:00",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:31:04.887013+00:00"
+}

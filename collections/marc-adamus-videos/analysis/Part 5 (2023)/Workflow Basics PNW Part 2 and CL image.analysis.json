@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Workflow Basics PNW Part 2 and CL image.mp4",
+  "title": "PNW Landscape Workflow: Dynamic Range, Zone-Based Editing, and Color Grading in Camera Raw and Photoshop",
+  "date": {
+    "display": "June 6, 2023",
+    "iso": "2023-06-06",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time metadata provided as 2023-06-06T21:23:22Z; transcript does not independently confirm a date."
+  },
+  "locations": [
+    {
+      "name": "Wizard Island (probable; Crater Lake, Oregon)",
+      "confidence": 0.6,
+      "basis": "Explicit mention of Wizard Island in transcript as part of the scene; Crater Lake connection inferred but not explicitly stated as shooting location."
+    }
+  ],
+  "summary": "In this landscape workflow video, the presenter outlines a comprehensive, multi-step process for turning a flat, high-contrast shot into a dynamic, cohesive scene. The technique starts with aggressively expanding dynamic range in RAW to recover shadow detail while preventing any area from clipping in highlights. After establishing a cropped, non-destructive base, the image is treated as separate zones (sky, light/water, dark areas, and foreground snow) to apply targeted adjustments in both Camera Raw and Photoshop. The workflow includes using Whites, color temperature, and tint for skies, history brush to propagate edits, selective color for sky luminance, dehazing and Orton-style luminosity for atmosphere, and tonal/color-based adjustments to unify color across the scene. Big brushes and masks are used to guide the viewer’s eye toward light sources, with iterative passes (including a multi-pass HDR-like sequence) and final polish using diffusion, vignetting, and AI denoise tools. Throughout, the speaker contrasts RAW-based edits with Photoshop capabilities, emphasizing record-keeping via history states and the strategic use of masking and tonal adjustments to maintain cross-zone consistency across the composition.",
+  "topics": [
+    "Camera Raw",
+    "Photoshop",
+    "RAW workflow",
+    "dynamic range",
+    "shadow detail",
+    "highlight preservation",
+    "zone-based editing",
+    "whites",
+    "color temperature",
+    "tint",
+    "history brush",
+    "selective color",
+    "tonal color",
+    "luminosity",
+    "dehaze",
+    "Orton effect",
+    "color grading",
+    "tonal adjustments",
+    "masking",
+    "Wizard Island",
+    "Crater Lake",
+    "Topaz denoise",
+    "AI denoise",
+    "noise reduction"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:59",
+      "title": "Intro: RAW-first approach and shadow detail",
+      "concepts": [
+        "RAW workflow",
+        "dynamic range",
+        "shadow extraction",
+        "exposure adjustment"
+      ],
+      "description": "The presenter emphasizes starting from RAW to extract shadow detail and prevent any area from becoming pure black, enabling later refinement in Photoshop and Camera Raw."
+    },
+    {
+      "start": "00:03:03",
+      "end": "00:04:45",
+      "title": "Crop/warp and base form; non-destructive setup",
+      "concepts": [
+        "crop",
+        "warp",
+        "base canvas",
+        "non-destructive editing"
+      ],
+      "description": "Cropping is performed early to fix geometry, with the rationale that warping and cropping alter the image shape and state, making it harder to revert later."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:06:15",
+      "title": "Zone-based processing concept",
+      "concepts": [
+        "zones",
+        "sky",
+        "water",
+        "trees",
+        "snow",
+        "local adjustments"
+      ],
+      "description": "The image is divided into zones that will be treated differently to preserve distinct characteristics (e.g., sky vs. shadows) and then blended."
+    },
+    {
+      "start": "00:06:23",
+      "end": "00:07:37",
+      "title": "Using History Brush after Photoshop entry",
+      "concepts": [
+        "history brush",
+        "recording steps",
+        "blending modes",
+        "opacity"
+      ],
+      "description": "The workflow relies on Photoshop history states to capture each step and brush them back in with varying opacity and blend modes, enabling non-linear editing."
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:11:04",
+      "title": "Second RAW pass: shadows, color, and highlights",
+      "concepts": [
+        "second RAW pass",
+        "exposure",
+        "whites",
+        "color grading"
+      ],
+      "description": "A follow-up RAW pass re-expands shadows, adjusts exposure and whites, and begins color grading, with attention to how these changes affect neighboring zones."
+    },
+    {
+      "start": "00:11:04",
+      "end": "00:12:24",
+      "title": "Selective Color in Photoshop for sky and light",
+      "concepts": [
+        "Selective Color",
+        "color grading",
+        "masking",
+        "painting selectively"
+      ],
+      "description": "Selective Color is used to fine-tune color in the sky, emulating sunlit illumination while avoiding artifacts, with painting applied to targeted areas."
+    },
+    {
+      "start": "00:12:34",
+      "end": "00:15:04",
+      "title": "Atmospheric adjustments: De-Haze and Orton glow",
+      "concepts": [
+        "dehaze",
+        "atmosphere",
+        "Orton effect",
+        "luminosity"
+      ],
+      "description": "The author demonstrates dehazing to reveal atmospheric haze and uses Orton-style glow (blur + luminosity) to create a warm, luminous horizon."
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:23:58",
+      "title": "Color unification and foreground lighting",
+      "concepts": [
+        "color grading",
+        "tonal-based adjustments",
+        "masking",
+        "foreground lighting",
+        "reflections"
+      ],
+      "description": "A broad pass to unify color across tones, with masking to apply lighting and color specifically to foreground snow and water, guiding the viewer's eye toward the horizon."
+    },
+    {
+      "start": "00:25:12",
+      "end": "00:28:21",
+      "title": "Final polish: Orton glow, diffusion, and vignetting",
+      "concepts": [
+        "Orton",
+        "diffusion",
+        "vignetting",
+        "global adjustments"
+      ],
+      "description": "The shot is finished with a final polish that strengthens glow and creates a natural vignette, smoothing transitions between zones."
+    },
+    {
+      "start": "00:29:20",
+      "end": "00:31:38",
+      "title": "Denoise and final notes on AI tools",
+      "concepts": [
+        "AI denoise",
+        "Topaz",
+        "Adobe denoise",
+        "workflow tradeoffs"
+      ],
+      "description": "The presenter compares AI denoise tools and discusses their impact on noise and grain, noting that modern AI approaches largely flatten grain without sacrificing perceived detail."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion / shadow extraction in RAW",
+      "timestamp": "00:00:10",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Zone-based image editing concept",
+      "timestamp": "00:04:03",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Sky adjustments via Whites, color temperature, and tint",
+      "timestamp": "00:05:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "History brush to preserve/reapply RAW steps in Photoshop",
+      "timestamp": "00:06:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Second RAW pass for color and atmosphere (expansion of shadows, color grading)",
+      "timestamp": "00:08:24",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective Color tool to adjust sky yellows and light (photoshop)",
+      "timestamp": "00:11:05",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dehaze to create atmospheric separation",
+      "timestamp": "00:12:34",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Orton effect (blur + luminosity) to create glow",
+      "timestamp": "00:14:05",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Luminosity-based color adjustments to unify color across tonal values",
+      "timestamp": "00:18:30",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Masked color/lighting passes and tonal-based color adjustment for foreground",
+      "timestamp": "00:21:50",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Auto HDR-like iterative passes for sky detail",
+      "timestamp": "00:22:51",
+      "confidence": 0.7
+    },
+    {
+      "technique": "AI denoise / Topaz denoise discussion",
+      "timestamp": "00:29:20",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:34:51.899906+00:00"
+}

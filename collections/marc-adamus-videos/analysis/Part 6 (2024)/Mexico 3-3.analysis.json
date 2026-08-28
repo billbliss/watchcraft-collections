@@ -1,0 +1,169 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Mexico 3-3.mp4",
+  "title": "Drone Panorama Editing: Batch RAW Adjustments, Horizon Work, and Sunset Color Grading",
+  "date": {
+    "display": "2024-06-12 (approx.)",
+    "iso": "2024-06-12",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time; no independent transcript confirmation of the date."
+  },
+  "locations": [],
+  "summary": "This instructional video guides a landscape photographer through post-processing a drone-based panorama composed of multiple RAW frames. The instructor demonstrates batch adjustments in Camera Raw, discusses horizon alignment when stitching drone-captured panels, and compares a traditional Transform workflow with a trapezoid/perspective approach. The workflow continues with puppet-warp-based refinement to preserve important foreground and sky while cropping, followed by sky augmentation via cloning and shadow/mid-tone dodging to enhance depth. Beams and dramatic sunset lighting are created with targeted dehaze and multi-pass color grading, culminating in iterative palette adjustments to achieve a cohesive, explosive sunset look while maintaining the form of the mountain and surrounding terrain.",
+  "topics": [
+    "Camera Raw",
+    "Batch processing",
+    "RAW workflow",
+    "Photo Merge",
+    "Panorama stitching",
+    "Drone panorama",
+    "Horizon alignment",
+    "Pano stitching",
+    "Transform tool",
+    "Trapezoid distortion",
+    "Perspective correction",
+    "Lock points",
+    "Clone tool",
+    "Shadow Dodge",
+    "Mid-tone Dodge",
+    "Beams",
+    "Dehaze",
+    "Color Grading",
+    "Warmth",
+    "Sunset palette",
+    "Sky editing",
+    "Puppet Warp",
+    "High-resolution imaging",
+    "100 MP+ workflows"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:01:06.000",
+      "title": "Import and batch exposure adjustments in Camera Raw",
+      "concepts": [
+        "Camera Raw",
+        "batch processing",
+        "RAW adjustments",
+        "shadows",
+        "blacks"
+      ],
+      "description": "The presenter imports multiple RAW files into Camera Raw, notes that drone cameras often auto-expose, and applies a uniform exposure adjustment across all frames by resetting to default and balancing shadows/blacks before selectively brightening individual files to achieve consistency."
+    },
+    {
+      "start": "00:01:47.380",
+      "end": "00:02:50.880",
+      "title": "Horizon handling for drone panoramas and stitching",
+      "concepts": [
+        "drone panorama",
+        "horizon",
+        "stitching",
+        "cropping",
+        "composition"
+      ],
+      "description": "The speaker explains how drone panoramas can produce a curved horizon due to gimbal movement, stresses placing the horizon near the middle of the frame to simplify later straightening, and suggests cropping the top or bottom to suit a desired composition."
+    },
+    {
+      "start": "00:02:54.340",
+      "end": "00:04:54.420",
+      "title": "Perspective handling: trapezoid approach vs Transform",
+      "concepts": [
+        "Transform tool",
+        "perspective distortion",
+        "trapezoid workflow",
+        "crop optimization"
+      ],
+      "description": "The instructor expresses a preference for a trapezoid-like distortion over the standard Transform tool, arguing it better represents wide-angle perspective and preserving symmetry; steps include stretching and careful point-locking to avoid over-warping, with a note on crop-conscious decisions."
+    },
+    {
+      "start": "00:05:06.200",
+      "end": "00:06:21.900",
+      "title": "Puppet Warp to preserve foreground while cropping",
+      "concepts": [
+        "Puppet Warp",
+        "crop preservation",
+        "layer management"
+      ],
+      "description": "The video demonstrates using Puppet Warp to subtly bend the image, keeping a key cloud/foreground area intact while ensuring the crop remains visually balanced; emphasizes that no sacrifice should be made to a desired portion of the frame."
+    },
+    {
+      "start": "00:06:27.440",
+      "end": "00:07:24.880",
+      "title": "Sky cloning and dodge techniques for depth separation",
+      "concepts": [
+        "clone tool",
+        "shadow dodge",
+        "mid-tone dodge",
+        "sky editing"
+      ],
+      "description": "The editor clones sky areas and applies shadow/dodge to create a clearer separation between sky and mountains, adding depth and reducing distant textures that could flatten the scene."
+    },
+    {
+      "start": "00:07:24.880",
+      "end": "00:12:00.380",
+      "title": "Beams, dehaze, and multi-pass color grading for sunset dynamics",
+      "concepts": [
+        "dehaze",
+        "beams",
+        "color grading",
+        "warmth",
+        "high-resolution adjustments"
+      ],
+      "description": "Beams are introduced using dehaze with carefully chosen parameters; the editor doubles down with iterative color grading, balancing warmth, mid-tones, highlights, and blues to craft a vivid sunset look, and notes parameter tuning is needed for very high-resolution imagery."
+    },
+    {
+      "start": "00:12:18.140",
+      "end": "00:15:55.520",
+      "title": "Final color palette refinement and sunset storytelling",
+      "concepts": [
+        "color grading",
+        "sky palette",
+        "global adjustments",
+        "scene coherence",
+        "photographic narrative"
+      ],
+      "description": "The workflow culminates in additional color grading passes to reinforce the sunset palette, adjust whites/temperature, and apply sky-side color shifts to harmonize the overall image while considering how a too-textured sky can distract from the mountain form."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Batch RAW adjustments in Camera Raw across multiple frames",
+      "timestamp": "00:00:00.000",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Drone panorama horizon awareness and middle-frame alignment",
+      "timestamp": "01:47.380",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Perspective control via trapezoid-style distortion (vs Transform)",
+      "timestamp": "02:54.340",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Puppet Warp to preserve key geometry during cropping",
+      "timestamp": "05:06.200",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Sky cloning with shadow/mid-tone dodging for depth separation",
+      "timestamp": "06:27.440",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Beams creation using dehaze with multi-step adjustments",
+      "timestamp": "07:24.880",
+      "confidence": 0.81
+    },
+    {
+      "technique": "Iterative color grading for sunset palettes (warmth, mid-tones, and highlights)",
+      "timestamp": "12:28.620",
+      "confidence": 0.79
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:53:55.308036+00:00"
+}

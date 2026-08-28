@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Sierra flower color and notes.mp4",
+  "title": "Color and tonal adjustment workflow for Sierra lupins (Part 5, 2023)",
+  "date": {
+    "display": "2024-04-08",
+    "iso": "2024-04-08",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time in file metadata"
+  },
+  "locations": [
+    {
+      "name": "Sierra (probable Sierra Nevada)",
+      "confidence": 0.6,
+      "basis": "Filename includes 'Sierra' and transcript references mountainous terrain; explicit location not stated in transcript."
+    }
+  ],
+  "summary": "The video presents a landscape-editing workflow aimed at balancing a warm foreground with a cool, blue-toned sky and purple lupins. It covers expanding dynamic range and lowering exposure, isolating processing by region (mountains, sky, flowers), gentle luminosity/midtone dodging for the flowers, then global color grading in Camera Raw followed by targeted color refinements in Photoshop via Selective Color to enhance magenta lupins and suppress distracting warm hues.",
+  "topics": [
+    "dynamic range",
+    "exposure adjustment",
+    "highlights control",
+    "zone-based editing",
+    "luminosity masking",
+    "dodging",
+    "midtone dodging",
+    "camera raw",
+    "color saturation",
+    "temperature adjustment",
+    "selective color",
+    "magenta",
+    "lupins",
+    "blue sky",
+    "shadow blues",
+    "white balance",
+    "lens distortion",
+    "12mm lens",
+    "mountains compression",
+    "landscape editing workflow",
+    "Sierra Nevada"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:01:39.160",
+      "title": "Scene framing and color priorities",
+      "concepts": [
+        "dual-color zones (golden/red sky vs purple/blue flower fields)",
+        "intent to maximize detail in both areas",
+        "awareness of white balance effects on color",
+        "12mm lens perspective and potential compression of distant mountains"
+      ],
+      "description": "Introduces the scene with contrasting color zones and notes that blue in the sky and color in the flowers should be preserved and enhanced. Mentions the impact of white balance on color and references the wide-angle lens characteristic (12mm) that compresses mountains."
+    },
+    {
+      "start": "00:01:39.160",
+      "end": "00:02:02.360",
+      "title": "Dynamic range and exposure management",
+      "concepts": [
+        "expand dynamic range",
+        "lower exposure to balance highlights",
+        "begin processing with highlights controlled"
+      ],
+      "description": "Demonstrates expanding the shot's dynamic range and then reducing overall exposure so highlights can be managed from the outset."
+    },
+    {
+      "start": "00:02:02.360",
+      "end": "00:02:43.040",
+      "title": "Zone-based editing plan",
+      "concepts": [
+        "separate processing by zones (mountains, sky, flowers)",
+        "avoid editing mountains and sky initially",
+        "focus adjustments on the flower region"
+      ],
+      "description": "Outlines a workflow where processing is zoned, preserving the mountains and sky while enhancing the flowers."
+    },
+    {
+      "start": "00:02:43.040",
+      "end": "00:03:53.080",
+      "title": "Luminosity adjustments and color grading workflow",
+      "concepts": [
+        "midtone dodging to boost flower luminosity",
+        "global color adjustments in Camera Raw (saturation, temperature)",
+        "Selective Color refinements to magenta in lupins",
+        "addressing unwanted hues (oranges/yellows)"
+      ],
+      "description": "Details a sequence of luminosity work (dodging) followed by color grading: increasing overall saturation with a subtle temperature shift, then targeted Selective Color tweaks to improve magenta tones in lupins and suppress undesirable warm hues."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion and exposure control",
+      "timestamp": "00:01:39.160",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Zone-based editing (zone masking)",
+      "timestamp": "00:01:57.800",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Midtone dodging (luminosity adjustments)",
+      "timestamp": "00:02:23.700",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Camera Raw color saturation and temperature tweak",
+      "timestamp": "00:02:49.420",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective Color for magenta in lupins",
+      "timestamp": "00:03:03.640",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Selective color adjustments to suppress oranges/yellows",
+      "timestamp": "00:03:50.460",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:26:31.238344+00:00"
+}

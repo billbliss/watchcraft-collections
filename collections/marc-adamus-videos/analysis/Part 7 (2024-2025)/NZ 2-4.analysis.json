@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 2-4.mp4",
+  "title": "NZ 2-4: Dynamic Range, Color Grading, and Sky-Rainbow Techniques in Queenstown Canyon Photography",
+  "date": {
+    "display": "2024-11-24",
+    "iso": "2024-11-24",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time 2024-11-24T00:42:38.000000Z"
+  },
+  "locations": [
+    {
+      "name": "Queenstown, New Zealand",
+      "confidence": 0.85,
+      "basis": "Explicit mention in transcript: \"Queenstown. So we got about 30 more minutes here\""
+    }
+  ],
+  "summary": "The video is a detailed post-processing workflow for landscape imagery captured in New Zealand, focusing on canyon and waterfall scenes. The presenter walks through zone-based edits, RAW adjustments, and multiple creative techniques to control dynamic range, color, and light. Key demonstrations include expanding dynamic range in camera raw, painting light onto rocks and waterfalls, sky recoloring with highlight burn, Orton-style diffusion, cloning out distractions, perspective corrections with warp tools (rule of trapezoids and puppet warp), focus stacking considerations, and culminating in color grading and God-beam effects for dramatic canyon scenes. The speaker also discusses composition choices, cropping, and foreground weight to guide the viewer’s eye toward waterfalls, ferns, and rainbow features, with emphasis on practical, repeatable steps rather than abstract theory.",
+  "topics": [
+    "Camera Raw / RAW processing",
+    "Dynamic range expansion",
+    "Highlight/shadow management",
+    "Dodging and burning",
+    "Edge painting with large brush",
+    "Warmth and color balance",
+    "Sky recoloring / highlight burn technique",
+    "Orton effect / diffusion",
+    "Cloning out subjects (clone stamp)",
+    "Perspective warp / Rule of trapezoids",
+    "Puppet warp for precise corrections",
+    "Foreground emphasis / Rule of thirds",
+    "Selective color adjustments",
+    "Color calibration / 50-150 adjustment",
+    "Auto HDR / Whites adjustments",
+    "God beams / directional lighting",
+    "Bracketing for exposure",
+    "Focus stacking considerations",
+    "Crop and composition decisions",
+    "Sky and cloud manipulation",
+    "Vignetting and diffusion techniques",
+    "Rainbow editing and water-spot management"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:15:00",
+      "title": "Overview, zone-based composition, and initial planning",
+      "concepts": [
+        "group planning",
+        "zone-based framing (four zones)",
+        "crop strategy to emphasize waterfall and fern"
+      ],
+      "description": "Introductory planning session describing zone-based composition, cropping choices to highlight the waterfall-fern relationship, and the rationale for keeping certain elements out of frame."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion in Camera Raw",
+      "timestamp": "00:04:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Edge-focused painting with a large brush to create smooth fade",
+      "timestamp": "00:04:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sky recoloring via highlight burn (40% opacity) and color switching",
+      "timestamp": "00:09:14",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Orton effect / diffusion-based softening on foreground",
+      "timestamp": "00:13:49",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cloning out distractions / removing people with clone stamp",
+      "timestamp": "00:15:59",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Perspective warp and the rule of trapezoids to straighten elements",
+      "timestamp": "00:24:06",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Puppet Warp for precise retiming of flowers / rainbow elements",
+      "timestamp": "00:24:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Auto HDR and Whites adjustments to intensify rainbow areas",
+      "timestamp": "01:28:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "God beams / directional side lighting corrections",
+      "timestamp": "01:30:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color adjustments and color grading for cohesive palette",
+      "timestamp": "01:04:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Bracketing mode discussion for exposure planning",
+      "timestamp": "01:23:23",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:11:08.119400+00:00"
+}

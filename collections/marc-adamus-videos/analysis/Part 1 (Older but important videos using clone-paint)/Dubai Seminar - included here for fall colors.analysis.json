@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Dubai Seminar - included here for fall colors.mp4",
+  "title": "Field-to-Edit Workflow in Dubai Seminar: Composition Rules, In-Field Scouting, and Advanced Photoshop Techniques for Landscape Photography",
+  "date": {
+    "display": "2018-01-14",
+    "iso": "2018-01-14",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata"
+  },
+  "locations": [
+    {
+      "name": "Dubai, United Arab Emirates",
+      "confidence": 0.75,
+      "basis": "filename and folder title indicate this is a Dubai seminar; embedded creation time supports unit of export"
+    },
+    {
+      "name": "Tacoma, Washington, USA",
+      "confidence": 0.85,
+      "basis": "explicit mention in transcript: \"Tacoma, Washington\""
+    },
+    {
+      "name": "New England, USA",
+      "confidence": 0.6,
+      "basis": "explicit mention in transcript: \"New England\""
+    },
+    {
+      "name": "Canada",
+      "confidence": 0.6,
+      "basis": "explicit mention in transcript: \"Canada\""
+    },
+    {
+      "name": "Alaska, USA",
+      "confidence": 0.8,
+      "basis": "explicit mention in transcript: \"Alaska tours\""
+    },
+    {
+      "name": "Shanghai, China",
+      "confidence": 0.6,
+      "basis": "explicit mention in transcript: \"Shanghai\""
+    },
+    {
+      "name": "Death Valley, USA",
+      "confidence": 0.65,
+      "basis": "explicit mention in transcript: \"Death Valley\""
+    },
+    {
+      "name": "Dubai Seminar, United Arab Emirates",
+      "confidence": 0.8,
+      "basis": "cross-check with filename and metadata confirming Dubai context"
+    }
+  ],
+  "summary": "This video captures a landscape photography seminar focused on turning field observations into strong photographs and then performing substantial post-processing in Photoshop. The speaker threads fieldcraft and composition principles (rule of odd numbers, transitions, edge control, spacing, and three core compositional structures: leading lines, framing, and layers) with practical on-location scouting and focal-length considerations. The second half dives deeply into Photoshop workflows: selective color to create atmospheric fall palettes, local color and luminance adjustments, diffusion/glow to push background recession, and targeted dodging/burning. A significant portion is dedicated to focus stacking (often handheld, with two-shot stacks), manual alignment using clone/healing tools, and careful edge blending; the presenter emphasizes pre-visualization for wide-angle work, and the unpredictability of long-lens compositions due to atmosphere. The session closes with cloud-warping, water-warping, and grain strategies for large prints, plus cautions about sky color adjustments (sun should remain white) and color consistency for print. The video references real-world examples from woodland scenes and wildflowers, with anecdotal notes about locations (Tacoma, New England, Canada, Alaska, Shanghai, Death Valley) and printing considerations, illustrating a holistic workflow from field observation to final image craft.”",
+  "topics": [
+    "Photoshop",
+    "Selective Color",
+    "Diffusion",
+    "Shadow Dodge",
+    "Highlight Dodge",
+    "Focus Stacking",
+    "Manual Blending",
+    "Clone Stamp",
+    "Healing Brush",
+    "Content-Aware Fill/Scale",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Warp Tool",
+    "Brush Tool",
+    "Cloud Warping",
+    "Water Manipulation",
+    "Color Temperature",
+    "Color Grading",
+    "Sky Editing",
+    "Blue Sky Adjustments",
+    "Grain (Print Grain)",
+    "Pre-visualization",
+    "Lens: Wide-angle vs Telephoto",
+    "Leading Lines",
+    "Layers",
+    "Edge Control",
+    "Global vs Local Adjustments"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.800",
+      "end": "01:12:25.820",
+      "title": "Field composition fundamentals and lens considerations",
+      "concepts": [
+        "Rule of odd numbers; broader interpretation beyond rule of thirds",
+        "Transitions as compositional glue (culinary analogy)",
+        "Edge control and dark framing to prevent distraction",
+        "Spacing and separation of subjects; avoiding overlap without transitions",
+        "Three core compositional structures: leading lines, framing, layers",
+        "Importance of location scouting and understanding lens behavior (wide-angle vs telephoto)",
+        "Pre-visualization concept for wide-angle images vs long lenses"
+      ],
+      "description": "Introduction to the talk's core premise: developing images in the field relies on compositional rules, spacing, and transitions. The speaker emphasizes the rule of odds and transcendent composition principles, introduces edge control and subject spacing, and outlines three structural pillars (leading lines, framing, layers). He compares wide-angle vs. telephoto workflow and stresses location scouting and pre-visualization as central to field success."
+    },
+    {
+      "start": "01:12:25.820",
+      "end": "01:36:07.780",
+      "title": "Selective color, atmosphere, and detailed woodland editing in Photoshop",
+      "concepts": [
+        "Selective color to shape fall palette; targeted color adjustments (greens, yellows)",
+        "Global vs. local adjustments; reducing overall clarity to simplify complex scenes",
+        "Diffusion/glow technique to push background into misty recession",
+        "Highlight and shadow dodging to create glow and control light bleed",
+        "Sky adjustments using whites and blues to re-balance the background; avoid turning sun yellow",
+        "Color editing to avoid over-saturation and maintain natural look; blue sky as a design choice",
+        "Edge management and localized refinement to avoid abrupt transitions"
+      ],
+      "description": "This section demonstrates a woodland scene edit focusing on selective color to create fall tones, and explains how diffusion, dodging, and local color tweaks can dramatically transform a scene with atmosphere. The presenter shows practical steps for softening detail, brightening background greens, shaping yellows, and toning the sky with careful white/blue manipulations. The emphasis is on atmosphere as the driver of composition rather than color alone."
+    },
+    {
+      "start": "01:36:07.780",
+      "end": "01:56:00.000",
+      "title": "Focus stacking, manual alignment, and water editing workflow",
+      "concepts": [
+        "Aperture considerations for focus stacking (f22 for close foreground); two-shot for entire frame",
+        "handheld shooting caveats and non-reliance on auto-align",
+        "Manual alignment and content-aware blending using clone/patch tools",
+        "Edge blending and maintaining centerpoints for alignment accuracy",
+        "Bottom-line practicality of manual blending versus automated stacking in constrained light/close-range shots",
+        "Grain application as a print-preserving texture technique"
+      ],
+      "description": "The speaker pivots to a practical, hands-on workflow for focus stacking and water editing. He advocates a high f-number to maximize depth in ultra-close foregrounds and explains the trade-offs of handheld shooting versus tripod-based stacks. The section covers manual alignment with cloning/historical brushes, content-aware adjustments, and careful edge restoration, finishing with a note on grain as a print quality consideration."
+    },
+    {
+      "start": "01:56:00.000",
+      "end": "01:36:07.780",
+      "title": "Retrieval+blend: sky, clouds, and water integration after stacking",
+      "concepts": [
+        "Cloud alignment and warping to achieve cohesive layers",
+        "Water transfer and tail editing to integrate with staged blends",
+        "Warp tools (perspective, puppet) to refine composition without compromising print quality",
+        "Use of grain to unify noise and texture across the composite image",
+        "Final color harmonization and subtle sky recoloring after major edits"
+      ],
+      "description": "This concluding section concentrates on integrating the stacked and edited components into a cohesive whole. The techniques include cloud warping for natural continuity, controlled water adjustments to create believable flow, and targeted warps to preserve print integrity while improving the overall balance and texture."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Selective Color adjustment to create fall palette",
+      "timestamp": "01:33:50.120",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Diffusion/glow to diffuse background and create misty atmosphere",
+      "timestamp": "00:24:34.300",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Shadow Dodge for glow through leaves",
+      "timestamp": "01:26:02.300",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Blue-sky balancing via whites-to-blues in selective color",
+      "timestamp": "00:39:39.660",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Focus stacking with f22 for foreground detail",
+      "timestamp": "00:49:28.640",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual alignment with clone/healing tools and content-aware methods",
+      "timestamp": "00:55:36.340",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Water manipulation using warp and blend for realistic flow",
+      "timestamp": "01:21:50.740",
+      "confidence": 0.7
+    },
+    {
+      "technique": "grain application to improve large-print detail perception",
+      "timestamp": "01:35:52.740",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:45:56.165972+00:00"
+}

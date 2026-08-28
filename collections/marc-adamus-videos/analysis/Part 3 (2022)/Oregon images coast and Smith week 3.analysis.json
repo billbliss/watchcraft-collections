@@ -1,0 +1,232 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/Oregon images coast and Smith week 3.mp4",
+  "title": "Layer separation, wave blending, and multi-shot post-processing in Oregon coast imagery (Smith Rock focus)",
+  "date": {
+    "display": "2022-06-19 (approx.)",
+    "iso": "2022-06-19",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata"
+  },
+  "locations": [
+    {
+      "name": "Smith Rock, Oregon (explicit)",
+      "confidence": 0.85,
+      "basis": "Transcript describes 'flowers with the sunset at the smith rock' as the shoot context; explicit mention of Smith Rock."
+    }
+  ],
+  "summary": "The video demonstrates a hands-on, workshop-style workflow for creating depth and visual separation in landscape imagery through Photoshop post-processing. It covers wave-layer separation using exposure blending and clone-based alignment across shots, then progresses into sky and color adjustments, Sky painting using clone-and-history techniques, and the Orton-style blur plus luminosity to enhance depth. The presenter also dives into focus stacking for wildflower scenes (Smith Rock trip), horizon alignment and perspective corrections, and finishes with color grading workflows (50-150 adjustments, selective color) and finishing touches (Vaseline-on-the-lens look, Topaz denoise, and HDR tweaks) to craft a cohesive, three-dimensional landscape image with a strong light-driven transition from foreground to light source.",
+  "topics": [
+    "Clone Stamp Tool",
+    "History Brush",
+    "Masking",
+    "Soft Edge Brush",
+    "Hard Edge Brush",
+    "Auto Align Layers",
+    "Auto Blend Layers",
+    "Exposure Blending",
+    "Layer Separation",
+    "Blur Plus Luminosity",
+    "Orton Effect",
+    "50-150 Adjustment",
+    "Selective Color Whites",
+    "Sky Replacement",
+    "Color Grading",
+    "Camera Raw",
+    "Focus Stacking",
+    "Manual Focus Stack",
+    "Topaz Denoise AI",
+    "Topaz Auto HDR",
+    "Vaseline on the Lens",
+    "Content-Aware Fill",
+    "Horizon Tilt Correction",
+    "Perspective Warping",
+    "Transition of Light",
+    "Sky and Water Blending",
+    "Cloning Alignment",
+    "Edge Refinement",
+    "Atmospheric Perspective",
+    "Raw Processing",
+    "Sky Painting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:55",
+      "title": "Layer separation and wave blending overview",
+      "concepts": [
+        "layer separation",
+        "waves blending",
+        "dynamic range",
+        "exposure blending",
+        "tripod stability"
+      ],
+      "description": "Introduction to the core goal: separate rock layers visually by blending waves between layers. The speaker advocates decreasing exposure to expand dynamic range and planning which layers to blend before processing."
+    },
+    {
+      "start": "00:01:38",
+      "end": "00:04:55",
+      "title": "Clone paint workflow and edge considerations",
+      "concepts": [
+        "clone stamp",
+        "alignment",
+        "hard edge vs soft edge",
+        "edge alignment",
+        "two-shot consistency"
+      ],
+      "description": "The presenter demonstrates aligning cloned areas between shots, then explains the ‘hard way’ when the camera moved between frames, emphasizing the need to match edges with hard-edge brushes and to switch brush type depending on subject (rock vs water)."
+    },
+    {
+      "start": "00:05:36",
+      "end": "00:12:11",
+      "title": "Sky/color adjustments and sky transfer across shots",
+      "concepts": [
+        "sky color",
+        "raw adjustments",
+        "selective color",
+        "horizon control",
+        "clone-based sky transfer"
+      ],
+      "description": "Discussion of exchanging sky and refining horizon colors, including selective color tweaks (e.g., yellows) and horizon balancing using clone/RAW adjustments to prepare for sky transfer across images."
+    },
+    {
+      "start": "00:12:11",
+      "end": "00:19:21",
+      "title": "Blur plus luminosity (Orton effect) and depth sequencing",
+      "concepts": [
+        "blur plus luminosity",
+        "Orton effect",
+        "depth separation",
+        "diffuse layers",
+        "three-dimensionality"
+      ],
+      "description": "The technique to apply blur plus luminosity globally to increase depth and create a misty, luminous atmosphere, followed by selective painting of light on rocks and water to enhance three-dimensionality and layer separation."
+    },
+    {
+      "start": "00:23:02",
+      "end": "01:04:56",
+      "title": "Smith Rock focus stacking (manual blend) and multi-shot strategy",
+      "concepts": [
+        "focus stacking",
+        "manual blend",
+        "two-shot/focus planes",
+        "auto align/auto blend reference",
+        "edge tracing",
+        "in-field tripod considerations"
+      ],
+      "description": "A long, detailed focus-stacking discussion using three shots of wildflowers, including decision making about which planes are sharp, how to blend by hand when alignment is imperfect, and the reality that perfect focus stacks are rare. Emphasis on planning focus in the field to simplify post-processing."
+    },
+    {
+      "start": "00:39:36",
+      "end": "00:41:24",
+      "title": "Horizon unwarp and perspective adjustments",
+      "concepts": [
+        "warp",
+        "horizon alignment",
+        "perspective correction",
+        "content-aware cloning"
+      ],
+      "description": "Demonstrates warping/tilting and then re-aligning the horizon to keep mountains straight while preserving tree trunks and reflections, followed by cloning to fill gaps."
+    },
+    {
+      "start": "00:44:25",
+      "end": "01:04:32",
+      "title": "Color grading workflow (50-150, selective color) and sky-to-land cohesion",
+      "concepts": [
+        "50-150 adjustment",
+        "selective color",
+        "color grading",
+        "color matching",
+        "targeting sky vs rocks"
+      ],
+      "description": "A deep dive into targeted color corrections, including the 50-150 workflow and selective color for rocks and flowers, to achieve cohesive lighting, with emphasis on ensuring transitions guide the viewer’s eye toward the light source."
+    },
+    {
+      "start": "01:00:45",
+      "end": "01:06:14",
+      "title": "Denoising and lens effects (Topaz, Vaseline on the lens)",
+      "concepts": [
+        "Topaz Denoise AI",
+        "Topaz Auto HDR",
+        "Vaseline on the lens",
+        "lens effect",
+        "image sharpening"
+      ],
+      "description": "Post-processing pipeline includes denoise and detail enhancement via Topaz, HDR adjustments, and a creative Vaseline-on-the-lens effect to emulate a soft, vignette-like light falloff and focus the viewer’s eye toward the center."
+    },
+    {
+      "start": "01:07:00",
+      "end": "01:11:37",
+      "title": "Artistic philosophy: transitions and viewer guidance",
+      "concepts": [
+        "transitions",
+        "foreground-to-background",
+        "light transitions",
+        "workflow philosophy",
+        "final composition"
+      ],
+      "description": "Concluding notes emphasize the core philosophy: establish a cohesive transition from foreground flowers to light-rich background, with an ongoing reminder that the tools’ power lies in making intentional transitions rather than chasing every tool."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Clone Stamp Alignment across shots (hard way when tripod moved)",
+      "timestamp": "00:02:04",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Soft vs Hard Edge Brush for layer blending",
+      "timestamp": "00:02:53",
+      "confidence": 0.72
+    },
+    {
+      "technique": "History Brush as an adjustment bridge between images",
+      "timestamp": "00:05:02",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blur Plus Luminosity (Orton effect) to separate layers",
+      "timestamp": "00:13:46",
+      "confidence": 0.86
+    },
+    {
+      "technique": "50-150 color adjustment workflow",
+      "timestamp": "00:45:33",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective Color Whites for recovering blown whites",
+      "timestamp": "00:44:25",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Topaz Denoise AI workflow (noise reduction and detail preservation)",
+      "timestamp": "01:00:53",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Topaz Auto HDR and texture control",
+      "timestamp": "01:03:31",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Vaseline on the Lens for a center-focus glow",
+      "timestamp": "01:05:30",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Manual focus stacking for wildflowers (focus stack)",
+      "timestamp": "00:26:56",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Horizon warping and perspective correction",
+      "timestamp": "00:39:42",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:48:57.034539+00:00"
+}

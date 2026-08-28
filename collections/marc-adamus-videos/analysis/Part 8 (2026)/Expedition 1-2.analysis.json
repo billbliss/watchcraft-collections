@@ -1,0 +1,205 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Expedition 1-2.mp4",
+  "title": "Drone-to-Pano: Practical Post-Processing and 360-Panorama Techniques (Expedition 1-2, Part 8)",
+  "date": {
+    "display": "2026-05-06",
+    "iso": "2026-05-06T11:35:46Z",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time in SOURCE METADATA; folder path indicates 2026 expedition segment"
+  },
+  "locations": [
+    {
+      "name": "Patagonia",
+      "confidence": 0.8,
+      "basis": "Explicit mention: “Patagonia here” in transcript; used as a location example for panoramas"
+    },
+    {
+      "name": "Wellington",
+      "confidence": 0.82,
+      "basis": "Explicit mentions: “back to Wellington” and processing references tied to Wellington shots"
+    }
+  ],
+  "summary": "The video captures a hands-on workflow for turning drone footage into polished panoramas, with a focus on file selection, lighting control, and a sequence of advanced post-processing techniques. Topics include identifying unprocessed drone files, using half-light edge lighting to connect scene elements, handling flare, stitching panoramas with Lightroom/Photoshop, PTGui, and PanoVolo, and employing masking, texture enhancements, and color grading (including the 50-150 adjustment) to emphasize fall colors and water textures. The tutor demonstrates a water-only warp for dramatic stream details, a five-piece perspective warp workflow for 360 panoramas, and batch-processing pipelines (including an automated image processor and exporting to TIFF). The session also covers directional lighting on wildlife, cropping centers for 360s, and practical notes about sky stitching and exposure management. Explicit location mentions (Patagonia, Wellington) are noted, and several timestamps anchor the key techniques demonstrated.",
+  "topics": [
+    "Unprocessed drone files selection",
+    "Lighting control and scene layering",
+    "Half-light directional edge lighting",
+    "Panorama stitching workflow (Lightroom, Photoshop, PTGui, PanoVolo)",
+    "Managing flare in drone imagery",
+    "Mist/atmosphere to add depth in waterfall scenes",
+    "Auto HDR with texture enhancement (100 shadows, 100 detail, plus 17)",
+    "Water-only masking and painting techniques",
+    "Five-piece perspective warp for 360 panoramas",
+    "Center-cropping and warping of 360 panoramas",
+    "Fisheye/adaptive wide-angle cropping",
+    "50-150 color adjustment and selective color for fall color",
+    "Sky matching and stitching fixes in PanoVolo vs PTGui",
+    "Batch processing pipeline and folder organization (TomDrone)",
+    "Directional lighting on wildlife subjects (e.g., sea lions) and final color grading"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:12",
+      "title": "Identify unprocessed drone files and assess lighting",
+      "concepts": [
+        "post-processing status",
+        "file selection",
+        "lighting assessment"
+      ],
+      "description": "Begin by noting the presence of post-processed drone files and the need to locate unprocessed ones to apply a consistent workflow."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:04:12",
+      "title": "Half-light technique introduction",
+      "concepts": [
+        "half-light",
+        "directional edge lighting",
+        "portraits influence"
+      ],
+      "description": "Demonstrates the half-light approach: introducing light from the edge to create shadows, mid-tones, and a cohesive connection across the scene."
+    },
+    {
+      "start": "00:04:12",
+      "end": "00:06:10",
+      "title": "Pano attempt, flare, and shot evaluation",
+      "concepts": [
+        "flare",
+        "panorama stitching",
+        "shot selection"
+      ],
+      "description": "Discusses a panorama attempt that was ruined by flare and the decision to move on to alternative shots, highlighting flare as a practical constraint."
+    },
+    {
+      "start": "00:06:10",
+      "end": "00:07:29",
+      "title": "Texture and HDR prep for dramatic depth",
+      "concepts": [
+        "texture",
+        "HDR",
+        "noise reduction",
+        "texture emphasis"
+      ],
+      "description": "Uses auto-HDR-like adjustments to add texture while maintaining color fidelity; emphasizes controlling shadows and detail for depth."
+    },
+    {
+      "start": "00:12:24",
+      "end": "00:16:40",
+      "title": "Batch processing and 0182 panorama prep",
+      "concepts": [
+        "RAW batch adjustments",
+        "Lightroom batch presets",
+        "0182 panorama",
+        "PS scripting"
+      ],
+      "description": "Shows batch-adjusting a series of RAW frames, exporting to a dedicated folder, and preparing for stitching (including 0182 panorama files)."
+    },
+    {
+      "start": "00:16:40",
+      "end": "00:21:16",
+      "title": "Sky matching and panorama stitching workflow",
+      "concepts": [
+        "PanoVolo",
+        "PTGui",
+        "sky alignment",
+        "exposure matching"
+      ],
+      "description": "Discusses differences between stitching tools and the importance of exposure matching across frames when assembling panoramas."
+    },
+    {
+      "start": "00:21:16",
+      "end": "00:25:14",
+      "title": "Five-piece perspective warp for 360 panoramas",
+      "concepts": [
+        "five-piece warp",
+        "center alignment",
+        "cropping strategy"
+      ],
+      "description": "Explains that 360 panoramas warp into five segments to correct bottom/top distortion; demonstrates aligning the middle and progressively warping top/bottom for natural results."
+    },
+    {
+      "start": "00:25:14",
+      "end": "00:29:20",
+      "title": "Center-focused cropping and island masking",
+      "concepts": [
+        "center crop",
+        "masking",
+        "island removal",
+        "edge detail"
+      ],
+      "description": "Emphasizes centering the subject and masking adjustments to protect non-target areas (e.g., removing distracting islands or edges)."
+    },
+    {
+      "start": "00:33:58",
+      "end": "00:37:23",
+      "title": "50-150 color adjustment and fall color pop",
+      "concepts": [
+        "50-150 technique",
+        "selective color",
+        "fall colors",
+        "global vs. local color"
+      ],
+      "description": "Details a two-step color workflow: global saturation increase followed by selective color reduction/addition to isolate fall colors; uses 50-150 to make fall hues pop."
+    },
+    {
+      "start": "00:39:31",
+      "end": "00:56:15",
+      "title": "Wildlife lighting and final touchups",
+      "concepts": [
+        "directional light on wildlife",
+        "color grading",
+        "mid-tone dodge",
+        "highlight dodge"
+      ],
+      "description": "Applies directional lighting to wildlife subjects (e.g., sea lion), uses masking to isolate adjustments, and performs light dodges or micro-color tweaks to draw attention to the subject."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Half-light directional edge lighting (portraiture-inspired) to connect scene",
+      "timestamp": "00:02:09",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Five-piece perspective warp for 360 panoramas",
+      "timestamp": "00:24:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Water-only perspective warp and selective painting to preserve detail",
+      "timestamp": "00:09:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "50-150 color adjustment with selective color for fall colors",
+      "timestamp": "00:34:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Auto HDR with texture emphasis (100 shadows, 100 detail, plus 17)",
+      "timestamp": "00:06:19",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Masking/painting to isolate adjustments (water vs. land)",
+      "timestamp": "00:31:59",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Batch processing automation (Image Processor, TIFF export)",
+      "timestamp": "00:15:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sky stitching alignment and sky-fix guidance (PanoVolo vs PTGui)",
+      "timestamp": "00:16:52",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:21:59.543801+00:00"
+}

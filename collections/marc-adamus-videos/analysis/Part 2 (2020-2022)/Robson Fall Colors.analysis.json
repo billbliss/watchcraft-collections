@@ -1,0 +1,75 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Robson Fall Colors.mp4",
+  "title": "Two-Pass Camera Raw Workflow with Pattern-Driven Cropping and Directional Lighting in Fall-Loli Landscape",
+  "date": {
+    "display": "September 27, 2021",
+    "iso": "2021-09-27T16:29:36.000Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; approximate creation date; transcript does not independently confirm actual shooting date"
+  },
+  "locations": [],
+  "summary": "This video segment presents a concise landscape post-processing workflow focused on fall-color scenes. The presenter emphasizes pattern-based cropping to isolate repeating dark-light or color patterns, introduces a directional lighting cue (visually simulated with editing), and demonstrates a two-pass RAW workflow in Photoshop using Camera Raw. The sequence covers expanding dynamic range by adjusting shadows and blacks, performing global saturation tweaks, color-balancing toward blues, and using curves and color calibration to enhance river and foliage details. The narration also notes ISO exposure considerations during capture, references Icelandic-style landscapes as contextual examples, and clarifies that the discussion centers on post-processing technique rather than confirming a filming location.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Dodge Tool",
+    "Burn Tool",
+    "Curves",
+    "Color Calibration",
+    "Blue Balance",
+    "Saturation",
+    "Dynamic Range",
+    "Composition Cropping",
+    "Landscape Photography",
+    "Fall Colors",
+    "Post-Processing Tutorial",
+    "Two-pass RAW workflow"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:05:03",
+      "title": "Pattern-driven composition and initial lighting adjustments",
+      "concepts": [
+        "composition",
+        "pattern recognition",
+        "cropping",
+        "directional lighting",
+        "dodging and burning"
+      ],
+      "description": "Introduces the goal of cropping to isolate a repeating color/pattern motif, discusses subtle directional lighting to guide the viewer's eye, and demonstrates a quick dodge/ burn approach to illustrate the light direction and its impact on overall composition."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cropping to isolate a repeating pattern (dark/light or color alternation) to guide viewer attention",
+      "timestamp": "00:00:09",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Simulated directional lighting using quick dodge/ burn to steer the eye",
+      "timestamp": "00:01:10",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Global tonal adjustment and color balancing (lower exposure, increase overall saturation, then bias toward blues)",
+      "timestamp": "00:04:09",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Curve-based enhancement to bring out river and color detail",
+      "timestamp": "00:04:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Two-pass Camera Raw workflow in Photoshop (Camera Raw filter, then re-open RAW for a second pass)",
+      "timestamp": "00:04:41",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:12:52.211031+00:00"
+}

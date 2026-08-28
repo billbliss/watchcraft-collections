@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Compositional Basics AP PNW 1-1.mp4",
+  "title": "Compositional Basics in Landscape Photography: Dynamic Range, Transitions, and Minimal Post-Processing (AP PNW Part 5)",
+  "date": {
+    "display": "June 6, 2023",
+    "iso": "2023-06-06T00:00:00Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [
+    {
+      "name": "Crater Lake, Oregon (Wizard Island)",
+      "confidence": 0.8,
+      "basis": "Transcript references to Crater Lake and Wizard Island; discussion of framing and depth around Wizard Island"
+    },
+    {
+      "name": "Alaska (King Peak)",
+      "confidence": 0.7,
+      "basis": "Explicit statement: 'clouds frame King Peak up in Alaska' (evidence of subject location)"
+    },
+    {
+      "name": "New Zealand",
+      "confidence": 0.6,
+      "basis": "Transcript mentions 'helicopter to New Zealand' on last year's tour; used as location context for a layered composition"
+    }
+  ],
+  "summary": "This video articulates core compositional concepts for landscape photography through a painterly lens, emphasizing how the eye and camera perceive differently, how to manage dynamic range and exposure, and how to create depth and flow in a single frame. The instructor stresses dominant transitions (dark-to-light, cool-to-warm, big-to-small) to guide the viewer’s eye, advocates for careful spacing (edge control, rule of six) and the deliberate use of leading lines and layered structures, and discusses practical field techniques (wide-angle distortion, timing around sunrise, and the graph of light). In post-processing, the speaker outlines a minimalist workflow—prioritizing color grading and RAW adjustments, with occasional layer-based depth adjustments—and notes practical workflow considerations and occasional software instability. The transcript also grounds these ideas in real-world field examples, including references to Crater Lake (Wizard Island), Alaska, and New Zealand, and contrasts two- vs. three-dimensional perception in dynamic landscapes.",
+  "topics": [
+    "dynamic range",
+    "highlights",
+    "shadows",
+    "level of blacks",
+    "dark-to-light transition",
+    "big-to-small transition",
+    "cool-to-warm transition",
+    "leading lines",
+    "layered composition",
+    "rule of six",
+    "edge control",
+    "framing",
+    "two-dimensional medium",
+    "motion",
+    "depth",
+    "peripheral distortion",
+    "wide-angle",
+    "foreground-to-background layers",
+    "graph of light",
+    "RAW processing",
+    "color grading",
+    "HSL",
+    "photo editing workflow",
+    "Photoshop",
+    "Bridge vs Lightroom",
+    "open step",
+    "post-processing philosophy",
+    "field technique"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "title": "Two-dimensional medium: eye vs camera",
+      "concepts": [
+        "Two-dimensional rendering",
+        "Photographic vs drawing mindset",
+        "Eye-to-camera differences"
+      ],
+      "description": "Introduces the central premise that photography is a two-dimensional medium and highlights the need to understand how the eye sees differently than the camera, which frames the foundation for later compositional guidance."
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:04:22",
+      "title": "Dynamic range and exposure reality",
+      "concepts": [
+        "Dynamic range in a single file",
+        "Highlight management vs shadow detail",
+        "RAW vs in-camera histogram interpretation"
+      ],
+      "description": "Explains that dynamic range can be managed within a single exposure if highlights are controlled; shadows can be pulled with care, and histograms are not the sole guide. Mentions scenarios where merging exposures is unnecessary unless conditions push ISO high or highlights dominate."
+    },
+    {
+      "start": "00:04:22",
+      "end": "00:08:20",
+      "title": "Motion, depth, and transitions in composition",
+      "concepts": [
+        "Motion and depth perception",
+        "Two-dimensional challenges in detail-heavy scenes",
+        "Use of transitions to guide eye movement"
+      ],
+      "description": "Discusses how perception changes with movement, why depth is hard to convey in a still frame with lots of detail, and introduces the concept of transitions (dark-to-light, large-to-small, etc.) to steer the viewer through the scene."
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:16:40",
+      "title": "Dominant transitions and layering",
+      "concepts": [
+        "Multiple transitions (dark-to-light, cool-to-warm, big-to-small)",
+        "Level of blacks as depth cue",
+        "Layer separation in Photoshop for depth"
+      ],
+      "description": "Outlines how to arrange subject matter with dominant transitions toward the light source and demonstrates layering as a means to create depth, including an example of separating layers with haze (post-process) to enhance perception of depth."
+    },
+    {
+      "start": "00:16:40",
+      "end": "00:29:00",
+      "title": "Processing philosophy and Photoshop workflow",
+      "concepts": [
+        "Minimal toolset",
+        "Color grading and RAW adjustments",
+        "Open step for non-destructive editing",
+        "Layering vs non-layering approach"
+      ],
+      "description": "Contrasts a minimalist processing philosophy (limited tools, emphasis on RAW adjustments and color grading) with explicit demonstrations of layer-based depth in Photoshop, followed by a stated preference against many common Photoshop features in the speaker’s workflow, highlighting the philosophy that technique should serve the image, not the toolkit."
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "title": "Graph of light and wide-angle rules",
+      "concepts": [
+        "Graph of light concept and pre/post-sunlight glow",
+        "Wide-angle specific rules and peripheral distortion",
+        "Maximizing leading lines with camera placement"
+      ],
+      "description": "Describes how light changes before and after sunrise/sunset and how to leverage that glow. Presents a dedicated wide-angle rule: position the camera to maximize distortion in the foreground to enhance leading lines and a big-to-small depth cue."
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:43:14",
+      "title": "Operational workflow and practical field tips",
+      "concepts": [
+        "Rule of six",
+        "Spacing and edge control",
+        "Light direction and intentional framing",
+        "Camera positioning for leading lines",
+        "Open data and crash consequences"
+      ],
+      "description": "Covers compositional discipline (rule of six, edge control, light source placement) and practical field constraints, including a workflow for evaluating frames and the importance of purposeful camera placement to maximize leading lines and transitions. Also notes a Photoshop crash and the need to save work with an open session."
+    },
+    {
+      "start": "00:43:14",
+      "end": "00:44:55",
+      "title": "Wrap-up and ongoing work",
+      "concepts": [
+        "End-of-session notes",
+        "Ongoing post-processing discussion",
+        "Video editing and project workflow"
+      ],
+      "description": "Wraps up the session with housekeeping: acknowledging software instability, and signaling that processing content continues in a follow-up step or later segment."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Single-exposure dynamic range management (avoid multi-exposure blending) when highlights are controlled",
+      "timestamp": "00:02:11",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Level of Blacks as a depth cue; layering to create depth (in-field discussion and later Photoshop layering)",
+      "timestamp": "00:09:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dominant transitions (dark-to-light, cool-to-warm, big-to-small) to guide eye through frame",
+      "timestamp": "00:07:46",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Rule of Six for composition; evaluate frame in six equal parts to prune clutter",
+      "timestamp": "00:19:02",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Wide-angle leading lines via calibrated camera height to maximize peripheral distortion",
+      "timestamp": "00:32:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Graph of light: pre/post-sun glow and its effect on exposure planning",
+      "timestamp": "00:29:04",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Three kinds of light in photography (within-frame, side, back) and look-into-light guideline",
+      "timestamp": "00:21:49",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Post-processing philosophy: color grading and RAW adjustments with a minimal toolset; avoidance of complex layering",
+      "timestamp": "00:38:34",
+      "confidence": 0.73
+    },
+    {
+      "technique": "Open step for non-destructive editing as a workflow practice",
+      "timestamp": "00:42:57",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:08:10.234755+00:00"
+}

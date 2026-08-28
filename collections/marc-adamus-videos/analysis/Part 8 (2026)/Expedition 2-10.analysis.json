@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Expedition 2-10.mp4",
+  "title": "Layer Separation and Color Grading in a Landscape Edit",
+  "date": {
+    "display": "2026",
+    "iso": "2026-01-01T00:00:00Z",
+    "precision": "year",
+    "confidence": 0.6,
+    "basis": "Source metadata includes embedded creation time and folder naming indicating 2026; transcript does not confirm an exact date."
+  },
+  "locations": [],
+  "summary": "The video is a practical workflow demonstration for extracting depth in a landscape photograph through deliberate layer separation and targeted color/lighting adjustments. The presenter starts with a crop and horizon refinement, then builds distinct image layers to isolate sky, water, and foreground elements. Using a clone-based separation method paired with a history brush, they progressively lift brightness and contrast in key areas (notably the water), apply selective color and luminance adjustments to mid-tones, and introduce subtle color grading to create depth and draw the viewer’s eye toward the center of interest. The sequence also covers sky manipulation by borrowing or cloning sky texture to strengthen separation, followed by a final global texture pass and a blur-based vignette substitute to keep the eye anchored. The workflow emphasizes precise brush work, edge fidelity, and the ability to revert or selectively adjust individual strokes via the history tool rather than erasing entire layers.",
+  "topics": [
+    "Crop and composition adjustment",
+    "Horizon straightening and edge alignment",
+    "Perspective warp for horizon correction",
+    "Rule of trapezoids to simulate wider angle",
+    "Hard-edge white adjustments to brighten water",
+    "Clone Stamp tool for layer separation",
+    "History Stamp tool for stroke-by-stroke undo/redo",
+    "Multiple-layer separation strategy",
+    "Dehaze vs. brightness approach for separation (method comparison)",
+    "Edge-preserving editing and precision painting",
+    "Selective color adjustments for neutrals",
+    "Input of luminance to color grading (midtones)",
+    "Reflected light and color balancing",
+    "Sky texture borrowing and sky clone technique",
+    "Selective shadow detail enhancement and noise reduction",
+    "Final texture pass: clarity, shadow detail, and color warmth",
+    "High-contrast foreground detail preservation",
+    "Final blur technique as an alternative to vignetting",
+    "Baseline vs. processed image comparison"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:02:52",
+      "title": "Initial crop and horizon alignment",
+      "concepts": [
+        "crop",
+        "sky preservation",
+        "edge removal",
+        "perspective Warp",
+        "rule of trapezoids"
+      ],
+      "description": "Assess composition, crop without sacrificing sky, straighten the horizon, and apply a trapezoidal distortion to imply a wider angle."
+    },
+    {
+      "start": "00:02:52",
+      "end": "00:08:21",
+      "title": "Layer separation preparation and edge handling",
+      "concepts": [
+        "baseline image",
+        "clone stamp for separation",
+        "history stamp for non-destructive edits",
+        "edge alignment",
+        "water brightness enhancement"
+      ],
+      "description": "Establish a baseline, prepare for separation with a duplicated layer, and begin isolating layers with precise edge work using clone and history tools."
+    },
+    {
+      "start": "00:08:21",
+      "end": "00:10:49",
+      "title": "Depth enhancement and color adjustments",
+      "concepts": [
+        "clarity",
+        "exposure adjustment",
+        "selective color",
+        "neutrals and luminance",
+        "color grading for warmth"
+      ],
+      "description": "Increase clarity and selectively boost exposure; apply midtone color grading and luminance tweaks to bring depth and warmth to the medium-ground area."
+    },
+    {
+      "start": "00:10:49",
+      "end": "00:13:53",
+      "title": "Sky texture and final touch: sky cloning",
+      "concepts": [
+        "sky cloning",
+        "texture and shadow detail",
+        "color balance in the sky"
+      ],
+      "description": "Refine the upper sky by adjusting texture and tone, and borrow/clone sky elements to reinforce layer separation and cohesive lighting."
+    },
+    {
+      "start": "00:13:53",
+      "end": "00:15:07",
+      "title": "Final touch and edge-softening approach",
+      "concepts": [
+        "global texture control",
+        "final blur (1000 px)",
+        "overlay of original middle",
+        "comparison of baseline vs processed"
+      ],
+      "description": "Apply a heavy but controlled blur to create a soft vignette effect, then reintroduce the original middle to anchor attention, ending with a baseline-versus-processed comparison."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Crop with horizon preservation and composition adjustment",
+      "timestamp": "00:01:30",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Perspective Warp to straighten horizon",
+      "timestamp": "00:02:01",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Rule of trapezoids to imply wider angle",
+      "timestamp": "00:02:13",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Brighten water glow with Whites adjustment using a hard-edge brush",
+      "timestamp": "00:03:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Clone Stamp for layer separation",
+      "timestamp": "00:04:07",
+      "confidence": 0.84
+    },
+    {
+      "technique": "History Stamp tool to preserve prior adjustments while painting",
+      "timestamp": "00:04:30",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Selective color and luminance adjustments for midtones",
+      "timestamp": "00:10:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Sky borrowing/sky clone to enhance separation",
+      "timestamp": "00:11:50",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective shadow detail and noise reduction",
+      "timestamp": "00:12:55",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Final blur pass as a vignette substitute with original overlay",
+      "timestamp": "00:13:40",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:32:14.536722+00:00"
+}

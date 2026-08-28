@@ -1,0 +1,227 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Saudi 2-3.mp4",
+  "title": "Post-Processing Telephoto Landscape: Directional Light, Beams, and Sky-Composite Techniques from a Saudi Field Shoot",
+  "date": {
+    "display": "2024–2025 (Part of a Saudi field-shoot series)",
+    "iso": "2024-01-01/2025-12-31",
+    "precision": "year",
+    "confidence": 0.55,
+    "basis": "Folder name 'Part 7 (2024-2025)' suggests timeframe; transcript references 'Saudi Arabia' as context but no explicit shoot location."
+  },
+  "locations": [
+    {
+      "name": "Saudi Arabia (probable context; not definitively the shooting location)",
+      "confidence": 0.55,
+      "basis": "Transcript frequently mentions 'Saudi Arabia' and folder path includes 'Saudi'; no explicit confirmation of shooting site."
+    }
+  ],
+  "summary": "This video is a field-to-post-production instructional session focused on turning telephoto landscape captures into more dimensional, light-rich images. The speaker demonstrates in-field cropping using the rule of six, recovery of shadow detail, and cloud removal with a heavy brush. In post, the workflow emphasizes creating a directional light feel for telephotos by aggressive dodging and zone-based adjustments across sky, middle ground, and foreground. The guide then covers multi-pass color grading, white balance, and lighting junctions to simulate sunset glow, followed by advanced techniques such as beam creation, sky-beaming composites, dehaze with tonal color management tradeoffs, and abstract texture editing (adaptive wide-angle filters, faux fisheye crops). The session culminates with a hands-on example of docking two differently processed skies to balance color while preserving naturality, and ends with reflections on morning-shot curation and future footage.",
+  "topics": [
+    "telephoto landscape shooting",
+    "rule of six",
+    "field cropping and composition",
+    "sun direction and shadows",
+    "shadow detail recovery",
+    "cloud removal with clone stamp",
+    "dodging and burning",
+    "zone-based processing (sky/mid-ground/foreground)",
+    "camera raw multi-pass edits",
+    "white balance and color temperature",
+    "color grading and luminance",
+    "multi-shot sky blending",
+    "beam creation techniques (65-1000)",
+    "beams in color grading and post",
+    "dehaze and color tradeoffs",
+    "tonal color management",
+    "two-shot sky docking and masking",
+    "adaptive wide-angle filter",
+    "fisheye/post-coversion effects",
+    "abstract texture edits (tile shading)",
+    "edge cropping and vignette control",
+    "image stacking and composite precision",
+    "morning-shot planning and file organization"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:29",
+      "title": "Intro and Rule of Six framing",
+      "concepts": [
+        "field recording",
+        "rule of six",
+        "composition planning"
+      ],
+      "description": "The host outlines the intent for a video with many techniques, highlighting the rule of six as a field-crafting tool to pre-visualize crop and balance, and signals a broader tutorial beyond standard wide-angle foreground-middle-ground-background shots."
+    },
+    {
+      "start": "00:01:29",
+      "end": "00:03:55",
+      "title": "Initial cropping, shadow consideration, and cloud adjustment",
+      "concepts": [
+        "crop framing",
+        "cloud removal",
+        "space for sun direction"
+      ],
+      "description": "Demonstrates selecting the frame using the rule of six and moving a small cloud with a large brush-size clone-stamp approach, plus discussion on sun direction and space around the focal point before post-processing."
+    },
+    {
+      "start": "00:03:55",
+      "end": "00:04:18",
+      "title": "Direction and crop decision rationale",
+      "concepts": [
+        "sun direction",
+        "shadow cues",
+        "crop refinement"
+      ],
+      "description": "Notes how light direction from the sun informs where to place space in the frame and how the crop will remove an incongruent element to strengthen composition."
+    },
+    {
+      "start": "00:04:19",
+      "end": "00:07:16",
+      "title": "Introducing post-processing for telephoto shots",
+      "concepts": [
+        "telephoto pitfalls",
+        "directional light in edit",
+        "shadow detail extraction"
+      ],
+      "description": "Explains telephoto-specific challenges (flatness, limited inherent directional light) and introduces a workflow to simulate directional light via dodging and contrast manipulation while preserving shadow detail."
+    },
+    {
+      "start": "00:07:16",
+      "end": "00:12:39",
+      "title": "Zone-based reduction and sky/mid/foreground treatment",
+      "concepts": [
+        "zone-based editing",
+        "color temperature",
+        "white balance",
+        "contrast"
+      ],
+      "description": "Breaks the image into sky, middle ground, and foreground zones; applies targeted white balance, color temperature shifts for sunset glow, and selective light painting to emphasize the scene’s layers."
+    },
+    {
+      "start": "00:12:39",
+      "end": "00:16:09",
+      "title": "Addressing foreground issues and glow refinement",
+      "concepts": [
+        "tire-tracks removal",
+        "glow control",
+        "shadow/midtone balance"
+      ],
+      "description": "Mentions removing tire marks and adjusting glow, blacks, and clarity to mitigate harsh textures, with emphasis on maintaining directional light feel without overdoing the highlights."
+    },
+    {
+      "start": "00:16:10",
+      "end": "00:25:58",
+      "title": "Beams and multi-layer color crafting (65-1000 technique)",
+      "concepts": [
+        "light beams",
+        "color grading",
+        "luminosity adjustments",
+        "two-shot sky blending"
+      ],
+      "description": "Details the creation of light beams from clouds, using a staged 65-1000 beam approach, multi-pass color grading, and careful layering to simulate sunset beams; discusses the impact on color fidelity and the need to balance two exposure skies."
+    },
+    {
+      "start": "00:25:58",
+      "end": "00:29:58",
+      "title": "Docking and color-matched sky composites",
+      "concepts": [
+        "image docking",
+        "masking and painting",
+        "color matching"
+      ],
+      "description": "Shows docking two processed sky images at the same percentage (37-37), using clone-stamp where visible through the stamp to blend color and light, and painting beams into the composite while preserving color continuity."
+    },
+    {
+      "start": "00:29:58",
+      "end": "00:36:45",
+      "title": "Dehaze tradeoffs and color-rebalancing",
+      "concepts": [
+        "dehaze",
+        "blue saturation",
+        "color mixer",
+        "color grading cycles"
+      ],
+      "description": "Demonstrates the risk of dehaze destroying color, then uses tonal color adjustments (color mixer, color grading) to re-balance color, reintroduce blue, and apply selective beam lighting with subtle warmth and tint control."
+    },
+    {
+      "start": "00:31:26",
+      "end": "00:37:10",
+      "title": "Abstract edits: adaptive wide-angle and edge focus",
+      "concepts": [
+        "adaptive wide-angle filter",
+        "fisheye crop",
+        "edge cropping",
+        "three-dimensional shading"
+      ],
+      "description": "Explores abstract edits: applying an adaptive wide-angle filter to shift focus toward the center, simulating a fisheye crop, and lightly shading tile edges to create perceived three-dimensionality."
+    },
+    {
+      "start": "00:37:10",
+      "end": "00:41:21",
+      "title": "Wrap-up, morning-shot strategy, and file checks",
+      "concepts": [
+        "morning-shot planning",
+        "file organization",
+        "future-shot goals"
+      ],
+      "description": "Concludes with notes on morning-shot selection, the importance of tight framing for abstracts, and plans to revisit and recompile morning-shot files for future tutorials."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Rule of Six composition in the field",
+      "timestamp": "00:01:11",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Cloud removal with a large brush using clone stamp",
+      "timestamp": "00:03:21",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Directional light illusion via dodging and burning across zones",
+      "timestamp": "00:05:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Zone-based Camera Raw processing (sky/mid/foreground)",
+      "timestamp": "00:06:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Beams creation and color grading (65-1000 technique)",
+      "timestamp": "00:19:58",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Sky docking and color matching for composite",
+      "timestamp": "00:26:13",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Dehaze and tonal color management tradeoffs",
+      "timestamp": "00:22:53",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Adaptive Wide Angle filter and center-focus cropping (abstracts)",
+      "timestamp": "00:31:31",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Edge shading to create waviness in abstract tiles",
+      "timestamp": "00:32:48",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Composite sky blending by clipping and masking",
+      "timestamp": "00:?",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:54:52.521465+00:00"
+}

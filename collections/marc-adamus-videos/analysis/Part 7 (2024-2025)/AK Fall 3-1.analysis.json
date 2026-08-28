@@ -1,0 +1,210 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/AK Fall 3-1.mp4",
+  "title": "Multi-zone Alpine Glacier Editorial: Light, Distortion, Sky Blending, and Focus with Photoshop",
+  "date": {
+    "display": "2025-09-22",
+    "iso": "2025-09-22",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "Embedded creation_time in metadata; transcript does not provide an explicit production date."
+  },
+  "locations": [
+    {
+      "name": "Denmark Peak",
+      "confidence": 0.75,
+      "basis": "Explicit mention in transcript as a named peak during the discussion of composition; timestamp 00:45:40–00:46:41."
+    }
+  ],
+  "summary": "This tutorial-style video presents a landscape photographer’s Photoshop workflow for a high-alpine glacier scene. The instructor tracks light direction, builds a strong tonal path toward the source of light, and uses exposure/shadows/blacks adjustments to reveal shadow detail and guide the viewer’s eye. The session then demonstrates form-shaping with a simulated wide-angle look (adaptive wide-angle filter at 8mm with fisheye distortion), followed by perspective warp and the rule of trapezoids to exaggerate spatial depth. The workflow proceeds through multi-zone edits—cropping, horizon placement, and zone-specific adjustments for the sky, moraine, glacier, and foreground—before diving into RAW-based color and tone work (whites, color temperature, tint, clarity) and selective painting to craft texture and light. The latter portions cover advanced sky work: blending two skies from different exposures with perspective corrections and cloning, then applying a six-zone framework (mountains, sun, river, foliage, rocks, and sky) for fine-tuning. The video culminates with notes on focal-point emphasis (e.g., Denmark Peak), sunrise styling options, sun glow, flare reduction, and a candid reflection on the labor involved in high-detail multi-shot composites.",
+  "topics": [
+    "leading lines",
+    "light direction analysis",
+    "exposure control (exposure, shadows, blacks)",
+    "dynamic range and ETTR concepts",
+    "crop and horizon placement",
+    "adaptive wide-angle filter",
+    "fisheye distortion",
+    "focal-length manipulation (8mm)",
+    "perspective warp",
+    "rule of trapezoids",
+    "history brush as non-destructive editing",
+    "Dodge/Burn for mid-tones",
+    "RAW whites adjustment",
+    "color temperature and tint",
+    "color grading (gold blues)",
+    "clarity and local contrast",
+    "dehaze and blue saturation interplay",
+    "sky blending across multiple shots",
+    "clone stamp for sky work",
+    "focus stacking concepts",
+    "f/4 vs f/18 considerations",
+    "sun star and glow diffusion",
+    "zone-based (six-zone) editing",
+    "flare removal and diffusion techniques",
+    "Denmark Peak emphasis",
+    "sunrise styling options"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:04:01.000",
+      "title": "Initial assessment: light, composition, and planning",
+      "concepts": [
+        "light direction from the left",
+        "leading lines",
+        "exposure planning",
+        "highlights vs. shadow balance"
+      ],
+      "description": "The speaker identifies a hazy, low-contrast glacier shot with mountains and lenticular clouds. He emphasizes leading the eye toward the light source and notes the need to subdue a dominating highlight while preserving a path of light through the frame."
+    },
+    {
+      "start": "00:04:01.000",
+      "end": "00:12:14.000",
+      "title": "Form-shaping and distortion prep: crop, horizon, and wide-angle effect",
+      "concepts": [
+        "crop adjustment",
+        "horizon placement",
+        "adaptive wide-angle filter",
+        "fisheye distortion",
+        "history brush to localize edits"
+      ],
+      "description": "Discussion moves to establishing a tighter crop, centering the horizon, and applying an adaptive wide-angle filter to simulate a wide-angle look by shrinking the center and expanding the periphery. The technique includes painting distortion into the sky via a history brush and introducing the perspective-warp/perspective-trap-like approach."
+    },
+    {
+      "start": "00:12:14.000",
+      "end": "00:21:00.000",
+      "title": "Local tone shaping: RAW workflow and sky treatment",
+      "concepts": [
+        "midtone dodging/burning",
+        "dynamic range expansion",
+        "whites adjustment in RAW",
+        "color temperature and tint",
+        "masking for sky painting"
+      ],
+      "description": "The workflow switches to targeted tone work: recovering shadow detail, leveling highlights, expanding dynamic range, and using Whites to sculpt the sky. The presenter demonstrates color temperature/tint to shift mood and paints a balanced sky primarily on the left, explaining history-based, non-destructive editing."
+    },
+    {
+      "start": "00:21:00.000",
+      "end": "00:29:16.000",
+      "title": "Foreground texture, moraine emphasis, and scene cohesion",
+      "concepts": [
+        "clarity",
+        "foreground brightness",
+        "moraine texture handling",
+        "zone-based adjustments"
+      ],
+      "description": "Attention shifts to the foreground and moraine texture. A second clarity pass and selective painting emphasize the ridge texture and link the foreground to the backlit mountains. The speaker cautions against overly contrasty skies behind mountains and argues for a smooth, diffuse sky."
+    },
+    {
+      "start": "00:29:16.000",
+      "end": "00:39:50.000",
+      "title": "Sky stitching across shots: alignment, perspective, and blending",
+      "concepts": [
+        "sky-from-different-exposures",
+        "perspective warp for sky alignment",
+        "clone stamp for sky tiling",
+        "top-to-bottom sky blending"
+      ],
+      "description": "Two separate skies are blended to harmonize exposure and mood. The process includes matching sky areas via perspective corrections, trapezoid-based warping, and cloning to create a seamless composite while preserving sun/star details and cloud structure."
+    },
+    {
+      "start": "00:39:50.000",
+      "end": "00:47:45.000",
+      "title": "Final polish: six-zone workflow, sunrise option, and emphasis on focal points",
+      "concepts": [
+        "six-zone processing (mountains, sun, river, foliage, rocks, sky)",
+        "sunrise color treatment",
+        "sun glow diffusion",
+        "sun flare management",
+        "Denmark Peak emphasis"
+      ],
+      "description": "The instructor outlines a comprehensive six-zone workflow for final polish, explores potential sunrise styling, and demonstrates selective color and glow around the sun. He also discusses flare control and reinforces focus on a key focal point—Denmark Peak—to guide composition and depth."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Exposure balancing for directional light and eye guidance (reduce exposure; lift shadows; raise blacks)",
+      "timestamp": "00:02:10.520",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Adaptive wide-angle filter to simulate ultra-wide perspective (8mm, fisheye distortion)",
+      "timestamp": "00:03:19.180",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Perspective warp and trapezoid-based distortion to emulate wide-angle geometry",
+      "timestamp": "00:04:21.500",
+      "confidence": 0.86
+    },
+    {
+      "technique": "History brush used as a non-destructive, state-based tool to apply localized distortion",
+      "timestamp": "00:04:15.160",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Dodge/Burn for mid-tone shaping and guiding light path",
+      "timestamp": "00:06:46.120",
+      "confidence": 0.86
+    },
+    {
+      "technique": "RAW whites adjustment after dynamic-range expansion; color temperature/tint tuning",
+      "timestamp": "00:07:03.700",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Selective sky painting via masking and layered RAW passes",
+      "timestamp": "00:07:49.500",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Clarity and local contrast boosts to reveal moraine texture",
+      "timestamp": "00:10:46.320",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Sky merging across two shots with perspective corrections and clone-stamp alignment",
+      "timestamp": "00:27:56.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Focus stacking discussion and manual blending for multi-depth scenes (F4 vs F18)",
+      "timestamp": "00:33:39.140",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sun star preservation and glow diffusion around bright sun areas",
+      "timestamp": "00:38:58.860",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Six-zone editing framework for targeted tonal work",
+      "timestamp": "00:39:50.000",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Dehaze with selective color adjustments and controlled blue saturation interplay",
+      "timestamp": "00:20:53.520",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sun glow diffusion and color grading around solar highlights",
+      "timestamp": "00:41:54.780",
+      "confidence": 0.76
+    },
+    {
+      "technique": "AI-based flare removal as a quick cleanup step",
+      "timestamp": "00:42:50.080",
+      "confidence": 0.45
+    },
+    {
+      "technique": "In-scene focal-point emphasis (Denmark Peak) through light bleed and selective clarity",
+      "timestamp": "00:45:40.000",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:36:36.201638+00:00"
+}

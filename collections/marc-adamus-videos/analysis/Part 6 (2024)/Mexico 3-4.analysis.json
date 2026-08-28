@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Mexico 3-4.mp4",
+  "title": "Backlit Palm Drone Scene: Dynamic Range, Sky Crafting, and Color-Grading Workflow",
+  "date": {
+    "display": "June 12, 2024",
+    "iso": "2024-06-12",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata indicates export date; transcript corroboration not provided."
+  },
+  "locations": [],
+  "summary": "This video analyzes a drone-shot landscape featuring a backlit palm canopy, focusing on a complete post-processing workflow that builds from expanding dynamic range and managing a blown sky to nuanced color grading and sky manipulation. The presenter walks through HDR-style bracketing, sky replacement considerations, and compositional tweaks (crop to a 4:5 frame, black-level separation). The tutorial then demonstrates distortion tools (adaptive wide-angle simulation and puppet warp) to explore perspective, followed by a multi-stage local adjustments workflow: dehaze, mid-tone contrast, warmth, and a gradual glow built through multiple Camera Raw and gradient passes. Color management centers on selective color techniques (notably yellows) and luminance adjustments to emphasize a backlit palm while maintaining foreground-background separation. Finishing touches include beams, Orton-like softening, dodging/burning, saturation balance, and gradient-sky construction, with emphasis on edge control and non-destructive iteration. The session culminates in a critique of composition and a reminder that sky or light direction can drive the look of the final image without over-detail in distant areas.\"",
+  "topics": [
+    "drone photography",
+    "dynamic range",
+    "HDR processing",
+    "sky replacement",
+    "bracketing",
+    "blend modes",
+    "Photoshop",
+    "Camera Raw",
+    "dehaze",
+    "color grading",
+    "selective color",
+    "50-150 technique",
+    "luminance",
+    "yellow hue",
+    "cyan",
+    "magenta",
+    "beams",
+    "Orton effect",
+    "dodging and burning",
+    "gradient maps",
+    "puppet warp",
+    "perspective warp",
+    "rule of trapezoids",
+    "wide-angle distortion",
+    "crop to 4x5",
+    "non-destructive editing",
+    "gradients",
+    "beams in sky",
+    "edge separation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:18",
+      "title": "Dynamic range planning and initial exposure decisions",
+      "concepts": [
+        "dynamic range",
+        "bracketing",
+        "sky control",
+        "scene assessment",
+        "initial crop intent"
+      ],
+      "description": "Introduces the overall goal of capturing a backlit palm scene with controlled sky and discusses expanding dynamic range and the use of bracketing. Mentions applying previous conversions to continue editing and planning the sky replacement strategy."
+    },
+    {
+      "start": "00:02:18",
+      "end": "00:06:51",
+      "title": "Color separation, edge separation, and warp concepts",
+      "concepts": [
+        "blending modes",
+        "layer separation",
+        "black level control",
+        "edge separation",
+        "wide-angle distortion",
+        "rule of trapezoids",
+        "perspective warp (puppet warp)"
+      ],
+      "description": "Describes isolating lighter/darker color information using blending modes, cropping decisions, and experimenting with lens distortion to simulate wide-angle perspective. Introduces the rule of trapezoids as a lens-driven effect and demonstrates puppet warp for selective warping while protecting the sun."
+    },
+    {
+      "start": "00:06:59",
+      "end": "00:16:16",
+      "title": "Local contrast, dehaze, glow, and palm-tree emphasis",
+      "concepts": [
+        "dehaze",
+        "mid-tone contrast",
+        "glow",
+        "warmth",
+        "zone-based adjustments",
+        "brush-based edits without selections",
+        "edge refinement"
+      ],
+      "description": "Covers dehazing a mid-tone region to create glow and warmth, followed by painting adjustments on a palm tree to increase depth and separation. Emphasizes a non-selective bleed technique to blend adjustments and maintain edge integrity, with iterative refinement to avoid obvious artifacts."
+    },
+    {
+      "start": "00:16:16",
+      "end": "00:23:23",
+      "title": "Color grading and color management in tone and sky",
+      "concepts": [
+        "color grading",
+        "selective color",
+        "50-150 technique",
+        "yellow luminance",
+        "magenta/cyan balancing",
+        "gradient sky construction",
+        "beams"
+      ],
+      "description": "Shows deeper color management, including selective color tweaks (notably yellows) blended with yellow luminance boosts to make foreground vegetation pop. Includes constructing and adjusting sky gradients with multiple color-gradework passes and preparing for beam-like light effects in the sky."
+    },
+    {
+      "start": "00:23:23",
+      "end": "00:36:46",
+      "title": "Final passes: sky gradient, beams, and composition critique",
+      "concepts": [
+        "gradient sky",
+        "beams",
+        "shadow and mid-tone dodges",
+        "Orton-like smoothing",
+        "edge separation",
+        "crop refinement",
+        "composition critique"
+      ],
+      "description": "Concludes with final sky gradient work, beam creation and toning, dodge/burn refinements, and composite critique. Emphasizes maintaining separation from the mountain, preserving edge relationships, and keeping the composition tight via a six-part crop approach while noting potential adjustments for final polish."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion and sky control (HDR-like workflow)",
+      "timestamp": "00:00:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Bracketing evaluation and reuse of previous conversion",
+      "timestamp": "00:00:30",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Blending modes to isolate color components (lighter/darker)",
+      "timestamp": "00:01:42",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Adaptive camera wide-angle filter to simulate ultra-wide distortion",
+      "timestamp": "00:03:43",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rule of trapezoids as a lens-distortion visualization",
+      "timestamp": "00:05:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Puppet Warp for edge-only warping without distorting the sun",
+      "timestamp": "00:05:51",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dehaze with mid-tone contrast and warmth to create glow",
+      "timestamp": "00:06:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Non-selective brush-based local adjustments with bleed and edge care",
+      "timestamp": "00:07:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "50-150 selective color technique for yellow separation",
+      "timestamp": "00:14:26",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Yellow luminance boost in RAW to enhance palm-tree pop",
+      "timestamp": "00:15:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Beams creation through dehaze, brightness and warmth adjustments",
+      "timestamp": "00:18:27",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Orton-like softening and controlled global toning",
+      "timestamp": "00:21:27",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Gradient sky construction via cumulative color grading passes",
+      "timestamp": "00:30:49",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Shadow and mid-tone dodging to guide viewer eye",
+      "timestamp": "00:31:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Composite edge separation and six-part crop for composition isolation",
+      "timestamp": "00:27:00",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:56:14.337717+00:00"
+}

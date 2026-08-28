@@ -1,0 +1,148 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Sun Star and person removal.mp4",
+  "title": "Sun Star and Person Removal: Sky/Cloud Composite, Color Grading, and Object Removal in Photoshop",
+  "date": {
+    "display": "Approx. 2020-01-28",
+    "iso": "2020-01-28T20:28:09Z",
+    "precision": "unknown",
+    "confidence": 0.4,
+    "basis": "Embedded MP4 creation_time in metadata; transcript does not independently confirm exact date"
+  },
+  "locations": [],
+  "summary": "This editing-focused walkthrough demonstrates removing a person from a landscape shot and achieving a cohesive sky and cloud scene through iterative color grading, cloning/patching, and perspective adjustments. The presenter walks through warming the image, matching color and luminance between two shots, painting out a subject, then building and blending oversized clouds via duplication and warping. The workflow also covers selective color corrections, HDR texture refinement, and a final vignette to guide the viewer’s eye toward the sun, interleaved with cautions about common non-destructive editing pitfalls and the importance of restraint when applying dramatic adjustments.",
+  "topics": [
+    "Photoshop",
+    "clone stamp",
+    "healing brush",
+    "content-aware fill",
+    "Alt-click",
+    "Control-click (Ctrl-click)",
+    "layer duplication",
+    "opacity",
+    "color temperature",
+    "split toning",
+    "curves",
+    "luminosity",
+    "selective color",
+    "compare side-by-side",
+    "color balance",
+    "auto HDR",
+    "noise reduction (HDR)",
+    "blur + luminosity",
+    "vignette",
+    "perspective warp",
+    "warp tool",
+    "cropping",
+    "composition",
+    "history brush",
+    "sky replacement",
+    "cloud manipulation",
+    "shadow/highlight control"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:02:24.180",
+      "title": "Initial color grading and shot matching",
+      "concepts": [
+        "color temperature",
+        "split toning",
+        "curves",
+        "shadow lift",
+        "highlights",
+        "luminance adjustments"
+      ],
+      "description": "The video begins with aligning the two frames by adjusting color temperature and shadows, then adds blue split toning and a sun-focused glow. A highlight-control curve is used to brighten without blowing out the sun. The presenter establishes a starting point and compares two shots side-by-side to gauge warmth and overall tonality before proceeding."
+    },
+    {
+      "start": "00:02:24.180",
+      "end": "00:05:57.040",
+      "title": "Subject removal and layer-based compositing",
+      "concepts": [
+        "clone stamp",
+        "healing brush",
+        "content-aware",
+        "layer alignment",
+        "Alt-Click / Ctrl-Tab-Click",
+        "non-destructive editing",
+        "history brush"
+      ],
+      "description": "The workflow shifts to removing a person from the scene. The creator aligns and blends layers, uses clone and healing tools, and employs content-aware methods to conceal the subject. He emphasizes keeping other parts of the shot intact, notes the usefulness of re-taking the shot if possible, and mentions not to rush into tools that create extra work if not planned on separate layers."
+    },
+    {
+      "start": "00:07:21.000",
+      "end": "00:15:31.760",
+      "title": "Sky augmentation: enlarging and integrating clouds",
+      "concepts": [
+        "selective color",
+        "cloud duplication",
+        "top-half scaling",
+        "warp / perspective",
+        "masking",
+        "history brush blending"
+      ],
+      "description": "Blown-out clouds are addressed with selective color adjustments, followed by creating massively enlarged clouds by duplicating and repositioning sky elements. The clouds are blended with perspective warp and careful masking, avoiding obvious seams by using the history brush for smooth transitions. The speaker also discusses additional duplication from the mountaintop to ensure clouds cover the horizon without reintroducing the mountain into the shot."
+    },
+    {
+      "start": "00:16:02.300",
+      "end": "00:22:58.300",
+      "title": "Refinement: vignette, HDR texture, and color balance",
+      "concepts": [
+        "dark cool vignette",
+        "color balance",
+        "RAW processing",
+        "auto HDR",
+        "blur + luminosity",
+        "contrast and diffusion",
+        "end-of-plane emphasis"
+      ],
+      "description": "A sequence of refinements aimed at guiding the viewer’s eye toward the sun: a dark, cool vignette is added, color balance is adjusted (with RAW processing and optional note on whether RAW would have been used), and Auto HDR is applied to recover ice texture. Blur plus luminosity is used to soften and diffuse the composition near the sun, with careful restraint to preserve a natural transition. The artist emphasizes avoiding overdoing HDR and uses selective painting to preserve edge textures while enhancing the dramatic light gradient."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Color grading and shot matching (warming, split toning, curves)",
+      "timestamp": "00:00:33.840",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Side-by-side shot matching and selective color for consistency",
+      "timestamp": "00:02:28.800",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Subject removal using clone stamp, healing brush, and content-aware",
+      "timestamp": "00:03:34.400",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Non-destructive layer workflow and history brush for cleanup",
+      "timestamp": "00:11:57.640",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sky augmentation by cloud duplication and perspective warp",
+      "timestamp": "00:13:29.500",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Perspective warp and focal composition adjustments to emphasize sun",
+      "timestamp": "00:08:52.740",
+      "confidence": 0.75
+    },
+    {
+      "technique": "HDR texture enhancement and blur + luminosity for glow",
+      "timestamp": "00:16:45.520",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Dark vignette and final color balance to guide eye movement",
+      "timestamp": "00:16:02.300",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T17:12:57.605720+00:00"
+}

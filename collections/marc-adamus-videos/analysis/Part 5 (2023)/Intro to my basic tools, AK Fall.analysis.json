@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Intro to my basic tools, AK Fall.mp4",
+  "title": "Basic Tools for Landscape Editing: Dynamic Range, State Recording, and Perspective Warp",
+  "date": {
+    "display": "September 16, 2023 (approx.)",
+    "iso": "2023-09-16",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "Embedded creation_time metadata; transcript does not independently confirm the shooting date."
+  },
+  "locations": [],
+  "summary": "The video segment presents a practical workflow for initial landscape photo editing. It demonstrates expanding the image’s dynamic range to recover shadow detail while keeping highlights from blowing out, then emphasizes recording the edit state in Photoshop (and Lightroom) via layers and history to enable non-destructive work. The sequence then covers cropping and a perspective warp to shape the composition, including adjustments to sky placement. The instructor stresses performing cropping/warp at the start or end of edits, not in the middle, to maintain a clean workflow and predictable light shaping.",
+  "topics": [
+    "Photoshop",
+    "Lightroom",
+    "Dynamic Range Expansion",
+    "Shadow Detail",
+    "Highlight Suppression",
+    "Exposure Adjustment",
+    "Non-destructive Editing",
+    "Layers",
+    "History States",
+    "Crop Tool",
+    "Perspective Warp",
+    "Sky Adjustment",
+    "Workflow",
+    "Landscape Photography",
+    "Digital Editing",
+    "State Recording"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:02:30.140",
+      "title": "Global tonal expansion and exposure shaping",
+      "concepts": [
+        "Dynamic range expansion",
+        "Shadow detail recovery",
+        "Highlight suppression",
+        "Exposure adjustment"
+      ],
+      "description": "The presenter selects the image and expands the dynamic range to pull shadows out while suppressing highlights, then adjusts exposure to bias the image toward the light direction. The aim is to prepare for editing by flattening tonal variation so subsequent edits can shape light consistently, rather than balancing conflicting tonal targets within the scene."
+    },
+    {
+      "start": "00:01:20.160",
+      "end": "00:02:02.200",
+      "title": "State recording and non-destructive editing workflow",
+      "concepts": [
+        "Photoshop",
+        "Layers",
+        "History",
+        "Lightroom history",
+        "Non-destructive editing"
+      ],
+      "description": "The speaker notes that the goal is to record the editing state, which can be implemented as a Photoshop layer or a history state (also possible in Lightroom). The emphasis is on capturing a state so edits can be revisited or undone without altering the original image."
+    },
+    {
+      "start": "00:02:55.580",
+      "end": "00:03:35.080",
+      "title": "Cropping and perspective warp to shape composition",
+      "concepts": [
+        "Crop tool",
+        "Perspective Warp",
+        "Composition",
+        "Light shaping"
+      ],
+      "description": "The narrative moves to cropping as a foundational step that should occur either at the beginning or end of the workflow. The instructor then demonstrates a perspective warp, adjusting the blue sky to influence composition and guide the viewer’s eye, with the note that these adjustments should not be performed mid-edit."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion with shadow recovery and highlight suppression",
+      "timestamp": "00:00:30.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Non-destructive editing via Photoshop layers and history (also applicable in Lightroom)",
+      "timestamp": "00:01:20.160",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cropping prior to other edits (and restricting mid-edit alterations)",
+      "timestamp": "00:02:55.580",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Perspective Warp to adjust sky and composition",
+      "timestamp": "00:03:28.320",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:11:20.663220+00:00"
+}

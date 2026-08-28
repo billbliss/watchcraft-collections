@@ -1,0 +1,267 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Windy and Weather Discussion.mp4",
+  "title": "Windy Weather Discussion: Orographics, Weather Models, and Sunset Forecasting for Landscape Photography",
+  "date": {
+    "display": "February 16, 2021",
+    "iso": "2021-02-16",
+    "precision": "day",
+    "confidence": 0.8,
+    "basis": "Embedded creation_time provided for the video file; no independently confirmed date in transcript."
+  },
+  "locations": [
+    {
+      "name": "Death Valley, California",
+      "confidence": 0.92,
+      "basis": "Explicit first-person location in transcript: 'we're right here in Death Valley right now'."
+    },
+    {
+      "name": "Bend, Oregon",
+      "confidence": 0.9,
+      "basis": "Explicit comparison about sunrise prospects: 'a five times better chance that you get a nice sunrise in Bend, Oregon.'"
+    },
+    {
+      "name": "Portland, Oregon",
+      "confidence": 0.88,
+      "basis": "Explicit comparison: 'a five times better chance [of sunrise] in Bend than you do in Portland, Oregon.'"
+    },
+    {
+      "name": "Willamette Valley, Oregon",
+      "confidence": 0.85,
+      "basis": "Explicit mention of Willamette Valley as part of terrain/light discussion."
+    },
+    {
+      "name": "Eugene, Oregon",
+      "confidence": 0.85,
+      "basis": "Explicit mention: 'if you're in Eugene, Oregon' in the cloud/light discussion."
+    },
+    {
+      "name": "Owen's Valley, California",
+      "confidence": 0.82,
+      "basis": "Transcript references 'Owens Valley of California' in the context of satellite/forecast discussion."
+    },
+    {
+      "name": "Yosemite National Park, California",
+      "confidence": 0.8,
+      "basis": "Explicit mention: 'If you're in Yosemite, that's the absolute best time to be in because you get all the cliff walls...' "
+    },
+    {
+      "name": "Oregon Coast, Oregon",
+      "confidence": 0.8,
+      "basis": "Mentions 'go to the Oregon coast in summertime' within the cloud/light forecasting discussion."
+    },
+    {
+      "name": "Grand Canyon, Arizona",
+      "confidence": 0.78,
+      "basis": "Explicit example used to illustrate light and cloud interactions."
+    }
+  ],
+  "summary": "The video provides a landscape-photography–oriented primer on how meteorology works in three dimensions, with emphasis on terrain–weather interactions (orographics), upper- and lower-atmosphere moisture and cloud formation, and how to leverage live and model data for planning sunrises, sunsets, and dramatic light. The presenter explains why eastern sides of mountain ranges often yield better atmospheric and light conditions for photography, discusses the jet stream and forecast reasoning, and then dives into the practical use of major weather models (ECMWF/EC, GFS, NAM, ICON), ensemble forecasting, and the value of model agreement. Real-time tools covered include PM2.5/dust indicators, swells, webcams, meteograms, and satellite imagery (visible vs infrared) within the Windy app, plus the importance of terrain overlays and terrain-aware forecasts. The discussion culminates in guidance on interpreting National Weather Service forecast discussions as a complementary source to model outputs, and in recognizing the limits of forecasts beyond 48 hours for precise cloud and light conditions.",
+  "topics": [
+    "Windy app",
+    "Wendy interface",
+    "ECMWF",
+    "EC/ECMWF",
+    "GFS",
+    "NAM",
+    "ICON",
+    "Meteogram",
+    "Webcams",
+    "Satellite (visible)",
+    "Satellite (infrared)",
+    "Visible vs infrared",
+    "Jet stream",
+    "Ridge and trough",
+    "Ensemble forecasting",
+    "Model agreement",
+    "Orographics",
+    "Topography",
+    "Willamette Valley",
+    "Bend Oregon",
+    "Portland Oregon",
+    "Eugene Oregon",
+    "Death Valley",
+    "Owens Valley",
+    "Yosemite",
+    "Oregon coast",
+    "Grand Canyon",
+    "PM2.5",
+    "Air quality",
+    "Dew point",
+    "Fog",
+    "Meteogram interpretation",
+    "Radar"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:20",
+      "title": "Intro: 3D meteorology and the role of orographics",
+      "concepts": [
+        "three-dimensional weather understanding",
+        "orographics",
+        "terrain interaction"
+      ],
+      "description": "Opening notes establish that meteorology is three-dimensional, with emphasis on how weather systems interact with terrain (orographic effects) and why this matters for landscape photography."
+    },
+    {
+      "start": "00:01:20",
+      "end": "00:03:58",
+      "title": "Terrain effects on clouds and light; eastern mountain slopes",
+      "concepts": [
+        "east-side cloud formation",
+        "sunrise opportunities",
+        "mountain topography impact"
+      ],
+      "description": "Discussion of how air is forced to rise over mountains, why eastern sides often yield better clouds and light, and how this influences sunrise/sunset opportunities in photography."
+    },
+    {
+      "start": "00:04:07",
+      "end": "00:07:23",
+      "title": "Jet stream and upper-level winds; forecasting approach",
+      "concepts": [
+        "jet stream",
+        "steering currents",
+        "forecast-path prediction"
+      ],
+      "description": "Introduction to high-altitude wind patterns, how jet streams steer weather systems, and the general approach forecasters use to predict movement."
+    },
+    {
+      "start": "00:07:23",
+      "end": "00:11:32",
+      "title": "Weather models and ensemble forecasting",
+      "concepts": [
+        "ECMWF/EC",
+        "GFS",
+        "NAM",
+        "ICON",
+        "ensemble forecasting",
+        "model agreement"
+      ],
+      "description": "Overview of major global models, the origin of ensemble forecasting, and the value of using multiple models to assess forecast confidence through agreement."
+    },
+    {
+      "start": "00:11:32",
+      "end": "00:14:46",
+      "title": "Model data depth and air-quality dimensions",
+      "concepts": [
+        "PM2.5",
+        "dust mass",
+        "air quality indicators",
+        "regional variability"
+      ],
+      "description": "Details on model-derived data layers such as particulate matter and dust, illustrating how air quality can influence visibility and planning."
+    },
+    {
+      "start": "00:14:46",
+      "end": "00:18:15",
+      "title": "Cloud levels and sunrise/sunset forecasting",
+      "concepts": [
+        "high/mid/low clouds",
+        "cloud-top height",
+        "convective scenarios"
+      ],
+      "description": "Guidance on how cloud altitude affects potential sunrises and sunsets, plus practical notes on cloud types to watch for when planning shots."
+    },
+    {
+      "start": "00:18:15",
+      "end": "00:20:42",
+      "title": "Forecast horizon and reliability; elevation matters",
+      "concepts": [
+        "10-day vs 48-hour accuracy",
+        "elevation-dependent forecasts",
+        "ridge/trough dynamics"
+      ],
+      "description": "Discussion of forecast reliability over different horizons and how targeting specific elevations can change forecast outcomes and photography plans."
+    },
+    {
+      "start": "00:20:42",
+      "end": "00:21:50",
+      "title": "Point forecasts and meteograms",
+      "concepts": [
+        "pin-based forecasts",
+        "meteogram interpretation",
+        "elevation-specific data"
+      ],
+      "description": "Demonstrates how dropping a pin yields localized forecasts and how meteograms depict cloud evolution and timing for planning."
+    },
+    {
+      "start": "00:21:50",
+      "end": "00:29:43",
+      "title": "Webcams and satellite tools for real-time planning",
+      "concepts": [
+        "webcams in vicinity",
+        "visible vs infrared satellite",
+        "cloud motion loops"
+      ],
+      "description": "Explains the use of live webcams and high-definition satellite imagery (visible/infrared) and how looping imagery helps anticipate cloud evolution for optimal light."
+    },
+    {
+      "start": "00:29:43",
+      "end": "00:44:32",
+      "title": "Terrain overlays, overlays, and real-time interpretation",
+      "concepts": [
+        "terrain/topography overlays",
+        "overlay variety",
+        "topographic maps vs basemaps"
+      ],
+      "description": "Describes terrain overlays and how topography informs forecast interpretation; discusses the usefulness of overlays and the need to understand geography for accurate forecasting."
+    },
+    {
+      "start": "00:42:12",
+      "end": "00:45:22",
+      "title": "Forecast discussions and practical interpretation",
+      "concepts": [
+        "National Weather Service discussions",
+        "model disagreements",
+        "interpretation of terms"
+      ],
+      "description": "Highlights the value of NWS forecast discussions as expert interpretation of model runs, with guidance on how to decode terminology and gauge forecast certainty."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Three-dimensional meteorology and orographic understanding for photography planning",
+      "timestamp": "00:00:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Analyzing jet stream and ridge/trough patterns to anticipate weather and light",
+      "timestamp": "00:05:44",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Ensemble model comparison to assess forecast confidence",
+      "timestamp": "00:11:32",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Pin-based, elevation-aware point forecasts",
+      "timestamp": "00:19:54",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Satellite usage: visible vs infrared and motion loops for real-time planning",
+      "timestamp": "00:22:44",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Meteogram interpretation to forecast cloud timing and density",
+      "timestamp": "00:20:42",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Webcams as a real-time condition check for photography planning",
+      "timestamp": "00:21:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Interpreting National Weather Service forecast discussions for context",
+      "timestamp": "00:42:12",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:18:11.877937+00:00"
+}

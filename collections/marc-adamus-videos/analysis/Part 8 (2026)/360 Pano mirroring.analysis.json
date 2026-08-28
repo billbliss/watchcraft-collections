@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/360 Pano mirroring.mp4",
+  "title": "360 Pano mirroring: patching and refining a mis-stitched 360 panorama",
+  "date": {
+    "display": "April 28, 2026 (approximate creation/export date)",
+    "iso": "2026-04-28",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [],
+  "summary": "The video demonstrates practical post-processing of a 360 panorama that failed to center correctly after stitching. It covers exposure matching across frames, the need for extra bottom-space when composing 360s, troubleshooting mis-detected frames by excluding them and re-running alignment, and a hands-on patch workflow to fill an missing piece using crop, cloning/mirroring, and blending with the history brush. The workflow also contrasts software options for exposure matching (PT GUI vs Pano Volo, Lightroom, DJI) and emphasizes an approximate, manual approach to placing a missing image via control points rather than relying on automated stitching alone. The session concludes with saving the corrected panorama and notes on bottom-space planning for future captures.",
+  "topics": [
+    "360 panorama stitching",
+    "exposure matching across frames",
+    "dynamic range shift in pano stitching",
+    "bottom-space requirements for 360 panoramas",
+    "control point troubleshooting",
+    "excluding problematic frames (3 and 9)",
+    "PT GUI optimizer for panoramas",
+    "clone stamp and mirroring for hole filling",
+    "history brush blending for patch refinement",
+    "bit depth considerations when patching",
+    "manual control-point placement vs automated stitching",
+    "stitcher software comparison for exposure consistency"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:01:20.320",
+      "title": "Problem framing: 360 pano stitching artifacts and dynamic range",
+      "concepts": [
+        "360 panorama",
+        "stitching artifact",
+        "center/middle ambiguity in 360s",
+        "dynamic range adjustment via exposure shift"
+      ],
+      "description": "The presenter explains that 360 pano stitching lacks a fixed middle, leading to unexpected composition when the middle is poorly defined. A dynamic range adjustment (exposure shift) is demonstrated to align different exposures across frames, creating a cohesive look."
+    },
+    {
+      "start": "00:00:46.280",
+      "end": "00:01:20.320",
+      "title": "Bottom-space requirement for 360 panoramas",
+      "concepts": [
+        "bottom edge space",
+        "frame composition in 360",
+        "avoiding squashed areas at the bottom"
+      ],
+      "description": "Emphasizes the need to allow substantial space below the subject when shooting a 360 pano, because the bottom can be squished during stitching and cannot be fully fixed later."
+    },
+    {
+      "start": "00:01:20.320",
+      "end": "00:02:59.140",
+      "title": "Misalignment handling: excluding problematic frames",
+      "concepts": [
+        "control points",
+        "frame exclusion",
+        "align images",
+        "optimizer"
+      ],
+      "description": "Shows an alignment issue where frames 3 and 9 cannot be placed automatically. The workflow removes those frames, then runs image alignment, project assistant, and optimizer to rebuild the panorama."
+    },
+    {
+      "start": "00:02:59.140",
+      "end": "00:03:10.860",
+      "title": "Review of the stitched result after exclusions",
+      "concepts": [
+        "stitch result review",
+        "preparation for patch",
+        "next steps after re-stitching"
+      ],
+      "description": "The speaker acknowledges the current panorama after excluding frames and previews the upcoming patch steps to fill the missing area."
+    },
+    {
+      "start": "00:03:10.860",
+      "end": "00:04:11.280",
+      "title": "First patch approach: crop and fill",
+      "concepts": [
+        "crop to reveal missing piece",
+        "layered adjustments",
+        "flatten image"
+      ],
+      "description": "Demonstrates cropping to create space for filling and preparing the image layers to patch the hole created by the missing frame."
+    },
+    {
+      "start": "00:04:11.280",
+      "end": "00:04:53.320",
+      "title": "Identifying the missing piece and its placement",
+      "concepts": [
+        "missing piece (image 9)",
+        "frame slot identification",
+        "bit depth considerations"
+      ],
+      "description": "Notes which file (image 9) is missing and where it should insert; recognizes a potential mismatch in bit depth when attempting a patch."
+    },
+    {
+      "start": "00:04:53.320",
+      "end": "00:05:39.240",
+      "title": "Correct workflow vs. patching with control points",
+      "concepts": [
+        "manual placement using control points",
+        "comparison with Pano Volo",
+        "exposure matching considerations"
+      ],
+      "description": "The narrator clarifies that the proper method is to place image 9 into its slot with control points; mentions that using Pano Volo would avoid some issues but would require exposure matching across many files."
+    },
+    {
+      "start": "00:05:39.240",
+      "end": "00:07:05.300",
+      "title": "Patch refinement: depth, warmth, and blending",
+      "concepts": [
+        "color/brightness adjustments",
+        "warmer and brighter matching",
+        "history brush and merge blending",
+        "8-bit depth considerations"
+      ],
+      "description": "Discusses adjusting the patch to fit color and brightness, applying gradual fades with the history brush, re-blending, and addressing an 8-bit depth warning during patching."
+    },
+    {
+      "start": "00:07:05.300",
+      "end": "00:08:41.460",
+      "title": "Final patch integration and 360-specific mirroring",
+      "concepts": [
+        "crop again to stretch bottom",
+        "360-specific mirroring",
+        "layer flatten",
+        "export preparation"
+      ],
+      "description": "Covers finalizing the patch with additional cropping to restore bottom detail, applying a mirroring step appropriate to 360 panoramas, and flattening layers in preparation for saving."
+    },
+    {
+      "start": "00:08:41.460",
+      "end": "00:08:48.660",
+      "title": "Stitching quality and export workflow",
+      "concepts": [
+        "PT GUI exposure matching",
+        "comparison with other stitchers (Pano Volo, Lightroom, DJI)",
+        "saving/exporting"
+      ],
+      "description": "Concludes with the note that PT GUI matches exposures well across frames; a quick comparison to other tools, and the final save/export step."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Exposure matching across a 360 panorama using a dynamic range shift",
+      "timestamp": "00:00:29.100",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective frame exclusion to fix alignment (excluding frames 3 and 9)",
+      "timestamp": "00:01:28.760",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Clone Stamp mirroring to fill a missing piece after crop",
+      "timestamp": "00:03:34.980",
+      "confidence": 0.85
+    },
+    {
+      "technique": "History brush blending for patch refinement",
+      "timestamp": "00:06:34.140",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Bottom-space management and final cropping to preserve pano detail",
+      "timestamp": "00:07:05.300",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual control-point placement as preferred method over automated patching",
+      "timestamp": "00:04:53.320",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Software comparison for exposure matching: PT GUI vs Pano Volo vs Lightroom vs DJI",
+      "timestamp": "00:08:25.940",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:18:36.438795+00:00"
+}

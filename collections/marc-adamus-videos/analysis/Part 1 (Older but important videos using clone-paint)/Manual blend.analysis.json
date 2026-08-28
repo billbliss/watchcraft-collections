@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Manual blend.mp4",
+  "title": "Manual blend: two-shot panorama stitching with trapezoid distortion, clone stamp, and advanced toning",
+  "date": {
+    "display": "2019-05-18",
+    "iso": "2019-05-18",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [],
+  "summary": "This instructional video demonstrates manual stitching of two overlapping wide-angle frames into a single wide panorama. The workflow centers on creating a trapezoid distortion to extend the scene, aligning two shots with a warp, and performing a meticulous manual blend with the clone stamp to hide seams. The presenter then enhances tonal range through diffusion and luminosity adjustments, uses an auto-HDR–like sequence to recover shadow detail, and finishes with color grading via split toning, selective color, and LAB-based dodging to preserve sunlit highlights. Throughout, non-destructive history-based edits and multiple clone-paint variants are used to refine the composition and minimize visible seams, culminating in a result that looks like a single, wide, distorted image rather than two combined frames.",
+  "topics": [
+    "clone stamp",
+    "manual blend",
+    "panorama stitching",
+    "perspective warp",
+    "trapezoid distortion",
+    "diffusion",
+    "luminosity",
+    "auto HDR",
+    "shadow clarity noise reduction",
+    "LAB color mode",
+    "split toning",
+    "selective color",
+    "sponge tool",
+    "highlights",
+    "flare removal",
+    "two-shot blending",
+    "hard-edge brush",
+    "history brush"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:15",
+      "title": "Initial exposure/contrast adjustments and flare assessment",
+      "concepts": [
+        "exposure",
+        "highlights",
+        "clarity",
+        "contrast",
+        "flare"
+      ],
+      "description": "Introduces the idea that edge clarity affects only a portion of the image while contrast impacts the whole frame. The speaker adjusts highlights and exposure, notes flare, and discusses reducing clarity to mitigate it."
+    },
+    {
+      "start": "00:02:15",
+      "end": "00:05:05",
+      "title": "Two-shot planning and flare-driven approach",
+      "concepts": [
+        "flare",
+        "two-shot merge",
+        "dynamic range",
+        "later shots",
+        "cleaning lens"
+      ],
+      "description": "Discusses flare across frames and contemplates using a later shot to broaden the scene. Frames the intent to blend two shots to create a wider composition."
+    },
+    {
+      "start": "00:05:05",
+      "end": "00:08:10",
+      "title": "Perspective warp and trapezoid distortion for alignment",
+      "concepts": [
+        "perspective warp",
+        "trapezoid",
+        "distortion",
+        "clone stamp",
+        "alignment"
+      ],
+      "description": "Describes turning one image into a trapezoid and aligning it with another so distortion continues across frames. Demonstrates alt-click alignment and using a hard-edge clone to blend along the seam."
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:12:24",
+      "title": "Manual blending workflow and historical edits",
+      "concepts": [
+        "clone stamp",
+        "history brush",
+        "opacity",
+        "layer-based workflow"
+      ],
+      "description": "Shows a step-by-step manual blend of two shots, emphasizing alignment, hard-edged cloning, and non-destructive history editing to refine the blend and project progression."
+    },
+    {
+      "start": "00:15:50",
+      "end": "00:26:04",
+      "title": "Diffusion, luminosity, and auto-HDR-like toning",
+      "concepts": [
+        "diffusion",
+        "luminosity",
+        "sun star",
+        "shadow clarity noise reduction",
+        "LAB dodge"
+      ],
+      "description": "Outlines applying diffusion to distant and bright areas and intensifying luminosity around the sun star. Describes a three-pass approach (shadow + clarity + noise reduction) to emulate HDR, followed by LAB-based dodging to brighten highlights without color distortion."
+    },
+    {
+      "start": "00:26:04",
+      "end": "00:37:46",
+      "title": "Final polish: color grading, selective color, and save strategy",
+      "concepts": [
+        "sponge tool",
+        "selective color",
+        "split tone",
+        "clone paint",
+        "history brush",
+        "save states"
+      ],
+      "description": "Details warmth and brightness adjustments for the background, selective color adjustments on foliage, and final diffusion refinements. Covers LAB-based brightening of highlights, the use of sponge for light on foliage, and strategies for non-destructive editing and saving multiple states."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual two-shot blend with trapezoid distortion and perspective warp",
+      "timestamp": "00:05:00",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Hard-edge clone stamp to blend aligned images",
+      "timestamp": "00:06:30",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Diffusion and luminosity adjustments to control flare and sun star",
+      "timestamp": "00:16:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Auto HDR-like processing via iterative shadow/clarity/noise reduction passes",
+      "timestamp": "00:23:40",
+      "confidence": 0.84
+    },
+    {
+      "technique": "LAB color dodge to brighten blown highlights without color distortion",
+      "timestamp": "00:28:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color and split toning for mood and highlight control",
+      "timestamp": "00:26:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sponge tool for local luminosity/saturation enhancements on foliage",
+      "timestamp": "00:34:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "History brush for controlled undo and non-destructive step restoration",
+      "timestamp": "00:35:40",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective-guided stitching philosophy: manual alignment and distortion control to enable seamless panos",
+      "timestamp": "00:04:20",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:07:05.312594+00:00"
+}

@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Patgaonia 2026 1-1.mp4",
+  "title": "Patagonian Landscape Post-Processing: History-Brush Workflow, Color Grading, and Panorama Stitching",
+  "date": {
+    "display": "April 5, 2026",
+    "iso": "2026-04-05",
+    "precision": "day",
+    "confidence": 0.62,
+    "basis": "embedded_creation_time in source metadata"
+  },
+  "locations": [
+    {
+      "name": "Fitz Roy (Cerro Fitz Roy)",
+      "confidence": 0.85,
+      "basis": "Explicit mention of Fitzroy in transcript (multiple timestamps)"
+    },
+    {
+      "name": "Cerro Torre",
+      "confidence": 0.85,
+      "basis": "Explicit mention alongside Guanaco in transcript"
+    }
+  ],
+  "summary": "This video presents an in-depth, Photoshop-centric workflow for turning raw landscape and drone imagery into richly rendered panoramas with strong depth and directional light. Through non-destructive techniques, the presenter demonstrates a history-state workflow (paint-adjustments on select states), zone-by-zone tonal shaping (shadows, blacks, whites, exposure), and meticulous edge work to separate layers. The session also covers panorama assembly with PT GUI, rectilinear projection for a natural wide view, and color-grade strategies (blue-gold filtration, 50/150 color adjustments, selective blues/greens) to enhance fall color and sky. Throughout, the emphasis is on cropping strategy (rule of six), directional lighting, and iterative back-and-forth refinement to achieve depth, mood, and cohesion across closely linked composition elements like foreground and distant peaks.",
+  "topics": [
+    "scene assessment and crop planning",
+    "rule of six crop",
+    "non-destructive history-state workflow in Photoshop",
+    "history brush technique and painting highlights",
+    "camera raw tonal adjustments (shadows, blacks, whites, exposure)",
+    "directional light creative painting (whites/shadows)",
+    "zone-by-zone local adjustments",
+    "edge separation with hard/soft brushes",
+    "dehaze for atmosphere and beam creation",
+    "cloning/sky replacement for unselectable areas",
+    "panorama stitching workflow (PT GUI, rectilinear projection)",
+    "RAW post-processing vs. Photoshop integration",
+    "crop-centric composition and leading lines",
+    "color grading using selective color and 50-150 color wheel",
+    "blue-gold filter in camera calibration",
+    "sky and foreground color balance (greens, reds, blues)",
+    "beams/photographic atmosphere adjustments",
+    "shadow dodge and highlight dodge techniques",
+    "non-destructive versioning and save-as strategy",
+    "drone imagery workflow and multi-shot stitching",
+    "final finishing touches: vignette, contrast, warmth",
+    "edge cleanup and avoiding halo artifacts"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:53:00",
+      "title": "Scene assessment and crop planning",
+      "concepts": [
+        "composition evaluation",
+        "identify strong subjects and connections",
+        "rule of six cropping",
+        "crop off low-value edges to strengthen the frame"
+      ],
+      "description": "The presenter surveys the frame, noting strong fall color layers and a less engaging foreground/sky split. He introduces cropping as a tool to remove distractions (edge clutter and the least compelling 1/6) and to set up a path for connecting disparate tonal regions."
+    },
+    {
+      "start": "01:53:00",
+      "end": "04:11:00",
+      "title": "Global tonal balance and RAW prep (initial pass)",
+      "concepts": [
+        "global tonal flattening",
+        "adjusting shadows and blacks",
+        "lifting shadows then reducing exposure",
+        "white balance and warmth"
+      ],
+      "description": "An early RAW-based pass aims to reduce overall contrast to uncover more detail in shadows and to enable more control over light direction in later steps. Clarity, whites, warmth, and exposure are introduced as preliminary levers before localized adjustments."
+    },
+    {
+      "start": "04:11:00",
+      "end": "07:15:00",
+      "title": "History-Brush based local adjustments (RAW)",
+      "concepts": [
+        "history states as editing layers",
+        "painting adjustments onto selected states",
+        "preserving foreground/sky while enhancing middle tones"
+      ],
+      "description": "The workflow treats history states like non-destructive layers. The presenter creates a targeted adjustment in RAW, then uses the history brush to paint that state into specific regions, preserving prior edits and enabling iterative remixing."
+    },
+    {
+      "start": "07:15:00",
+      "end": "11:12:00",
+      "title": "Directional light shaping and zone-by-zone edits",
+      "concepts": [
+        "zone-by-zone processing",
+        "creating directional light via selective painting",
+        "addressing connectors between image segments",
+        "de-haze usage in moderation"
+      ],
+      "description": "The frame is flattened zone-by-zone, then directional light is painted from the side to separate foreground, middle ground, and distant elements. De-haze is introduced carefully to avoid over-processing while enhancing depth."
+    },
+    {
+      "start": "11:12:00",
+      "end": "13:59:00",
+      "title": "Edge separation and complex masking (hard/soft brush)",
+      "concepts": [
+        "hard-edge brush for precise separation",
+        "soft brush for gentle blending",
+        "tracing around unselectable edges",
+        "preventing hard lines in complex compositions"
+      ],
+      "description": "When certain mountain edges cannot be easily masked, the artist traces with a hard-edge brush and then blends with soft brushes. The goal is to create a believable separation between layers and to hide disruptive seams."
+    },
+    {
+      "start": "13:59:00",
+      "end": "17:50:00",
+      "title": "Iterative refinement and field context (drone shots)",
+      "concepts": [
+        "drone imagery incorporation",
+        "balancing multiple candidate frames",
+        "drone perspective vs. fixed-lens processing",
+        "prepping for panoramas and future edits"
+      ],
+      "description": "The speaker discusses the broader field context (drone captures and different scouting angles) and emphasizes iterative adjustment, confirmation of good light, and selecting frames suitable for later stitching or compositing."
+    },
+    {
+      "start": "17:50:00",
+      "end": "21:20:00",
+      "title": "Panorama workflow with PT GUI and Photoshop prep",
+      "concepts": [
+        "panorama stitching workflow",
+        "rectilinear projection for wide views",
+        "camera raw post-process steps after stitching"
+      ],
+      "description": "The process shifts toward constructing panoramas. The presenter uses PT GUI to stitch multiple drone shots with rectilinear projection to emulate a wide-angle capture, then explores post-process workflow in Photoshop after exporting a TIFF from PT GUI."
+    },
+    {
+      "start": "21:20:00",
+      "end": "24:29:00",
+      "title": "Fall color color-grading and sky handling",
+      "concepts": [
+        "selective color",
+        "50-150 color wheel",
+        "blue-gold filter (camera calibration)",
+        "sky color control and saturation"
+      ],
+      "description": "Color grading focuses on enhancing fall colors and sky interplay. Tools demonstrated include the 50/150 color-wheel method, selective color adjustments, and a blue-gold calibration to influence sky tones before local painting and masking."
+    },
+    {
+      "start": "24:29:00",
+      "end": "01:12:37",
+      "title": "Atmosphere, beams, and final touches",
+      "concepts": [
+        "haze for depth",
+        "beam effects with dehaze",
+        "dodge and burn (global vs. local)",
+        "versioning and non-destructive checks",
+        "final considerations and critique"
+      ],
+      "description": "The final segment emphasizes atmospheric depth via light haze, beam creation, and selective dodging/burning. The presenter cautions about overdoing atmospheric effects, demonstrates a save-versus-overwrite strategy (save multiple versions), and discusses decisions about color balance, contrast, and edge darkening to guide the viewer’s eye through the frame."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "History brush workflow in Photoshop to non-destructively apply and remix adjustments across multiple history states",
+      "timestamp": "00:04:16",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Panorama stitching with PT GUI using rectilinear projection to simulate 9mm-wide field of view",
+      "timestamp": "01:56:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blue-gold filter and selective color adjustments for sky and fall foliage",
+      "timestamp": "23:54",
+      "confidence": 0.6
+    },
+    {
+      "technique": "50-150 color wheel method for color separation (greens vs. reds) in fall scenery",
+      "timestamp": "21:20",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Hard-edge masking and tracing around hard-to-select edges to separate layers",
+      "timestamp": "11:12",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Directional lighting via staged painting of whites/shadows to emphasize light direction",
+      "timestamp": "08:53",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:55:29.668691+00:00"
+}

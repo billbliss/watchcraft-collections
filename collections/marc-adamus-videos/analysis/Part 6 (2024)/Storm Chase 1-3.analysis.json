@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Storm Chase 1-3.mp4",
+  "title": "RAW baseline exposure, color balance, and Photoshop focus-stacking workflow",
+  "date": {
+    "display": "approx. 2024-08-13",
+    "iso": "2024-08-13",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; transcript does not independently confirm shooting date"
+  },
+  "locations": [],
+  "summary": "This video demonstrates a practical workflow for capturing and assembling a focus-stacked landscape sequence starting from RAW files. The presenter begins by establishing a baseline RAW exposure that preserves shadow detail and minimizes clipping, slightly reducing exposure to expand dynamic range. They then adjust color balance toward cooler tones to avoid an overly warm sunset and to preserve blue hues essential for contrast. After preparing the frames, the footage explains loading the image sequence into Photoshop for focus stacking, noting substantial frame overlap (f/16) that eases automatic alignment. The process proceeds with Auto Align Layers to blend the stack, while acknowledging the difference between focus stacking and focus-point blending as framed by Photoshop’s terminology, and mentioning Helicon Focus as an alternative. The timeline emphasizes practical considerations such as edge artifacts from alignment and the time required to process a large stack of images.",
+  "topics": [
+    "Photoshop",
+    "Focus stacking",
+    "Focus blending",
+    "Auto Align Layers",
+    "Load Files Into Stack",
+    "RAW processing",
+    "Shadow detail",
+    "Dynamic range",
+    "Color grading",
+    "Color balance",
+    "Sunset photography",
+    "Blue emphasis",
+    "Aperture f/16",
+    "Overlap between frames",
+    "Helicon Focus (comparison)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:09",
+      "title": "Establish baseline RAW exposure and shadow preservation",
+      "concepts": [
+        "baseline exposure in RAW",
+        "shadow detail recovery",
+        "avoid clipping within a stop",
+        "dynamic range expansion"
+      ],
+      "description": "The presenter begins by selecting all RAW frames, applying a base adjustment to slightly reduce exposure to create a baseline that preserves shadow detail before stacking in Photoshop."
+    },
+    {
+      "start": "00:01:15",
+      "end": "00:01:46",
+      "title": "Color balance and contrast adjustments for sunset/fall scenes",
+      "concepts": [
+        "cooling the image toward blue",
+        "avoiding over-warm reds",
+        "preserving blue contrast as a key color component"
+      ],
+      "description": "The color balance is nudged toward cooler tones to prevent an overly red sunset and to maintain blue as a driver of contrast, acknowledging the importance of blue in both sunset and fall-color imagery."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:03:12",
+      "title": "Photoshop focus-stacking setup: load files into stack and framing",
+      "concepts": [
+        "open in Photoshop",
+        "focus stacking vs focus point blending",
+        "substantial frame overlap (described as f/16)"
+      ],
+      "description": "Frames are opened in Photoshop and prepared for stacking. The workflow references focus stacking as a term derived from Photoshop's 'Load Files Into Stack' command and notes the significance of strong overlap between frames for effective blending."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:03:46",
+      "title": "Auto-align and finalize the stack in Photoshop",
+      "concepts": [
+        "select all layers",
+        "Auto Align Layers",
+        "Auto option",
+        "processing duration and edge artifacts"
+      ],
+      "description": "The speaker selects every image as a layer, applies Auto Align Layers (Auto), and discusses the potential wait time for alignment and the edge areas that alignment can leave, highlighting a practical consideration of stacking workflows."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Baseline RAW exposure and shadow recovery",
+      "timestamp": "00:00:28",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Cool color balance to preserve blues in sunset/fall scenes",
+      "timestamp": "00:01:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Signal that stacking uses large frame overlap (f/16) for Photoshop",
+      "timestamp": "00:02:09",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Load files into stack / focus stacking concept in Photoshop",
+      "timestamp": "00:02:01",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Auto Align Layers in Photoshop",
+      "timestamp": "00:03:28",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Helicon Focus mentioned as an alternative",
+      "timestamp": "00:02:29",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:37:27.066681+00:00"
+}

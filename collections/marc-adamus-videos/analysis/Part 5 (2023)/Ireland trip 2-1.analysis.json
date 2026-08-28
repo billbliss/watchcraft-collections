@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Ireland trip 2-1.mp4",
+  "title": "HDR Sky Replacement and Sky Blending Workflow in Photoshop (Transcript-Driven Post-Processing)",
+  "date": {
+    "display": "2024-03-15",
+    "iso": "2024-03-15",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time metadata suggests export date; transcript does not independently confirm"
+  },
+  "locations": [],
+  "summary": "The transcript outlines a photographer’s post-processing workflow for a drone-captured scene, focusing on building/controlling light in RAW, expanding dynamic range, and ultimately integrating a sky either via automated merge or manual painting. Key steps include matching exposure between sky and source, expanding the canvas to accommodate sky, using the Clone Stamp Tool to lay in sky elements, and refining the composite with masking and the history brush to blend clouds. Emphasis is placed on a one-directional light adjustment strategy to guide the viewer’s eye, minimal clipping, and iterative blending between shots to achieve a natural look. The workflow highlights both a potential automated sky-merge option and a manual painting approach, with explicit attention to opacity control during final blending.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Dynamic Range Panel",
+    "HDR",
+    "Sky Replacement",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Layer Mask",
+    "Opacity",
+    "Canvas Expansion",
+    "Masking",
+    "Image Compositing",
+    "Sky Blending",
+    "Photomerge"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:01:56.000",
+      "title": "Initial RAW processing and light shaping",
+      "concepts": [
+        "RAW open",
+        "Dynamic range expansion",
+        "Shadow recovery",
+        "Prevent clipping",
+        "Directional lighting mindset"
+      ],
+      "description": "Open the RAW file to leverage DRP-like controls for shadow detail while avoiding blown highlights. The speaker emphasizes a one-directional brightening approach to guide the viewer’s eye. A directional light is conceptually planned by incremental brightness adjustments rather than broad tonal shifts."
+    },
+    {
+      "start": "00:02:05.000",
+      "end": "00:03:28.000",
+      "title": "Sky integration options: automated merge vs. manual painting",
+      "concepts": [
+        "Sky import and exposure matching",
+        "Photo Merge (auto) vs. painting sky",
+        "Expanding canvas",
+        "Cropping foreground elements"
+      ],
+      "description": "The presenter notes two pathways: (a) use Photo Merge to combine the sky with the base image, then warp as needed, or (b) manually paint the sky. The process includes expanding the canvas to create room for sky and selectively removing foreground elements (e.g., foreground rock) to facilitate the sky replacement."
+    },
+    {
+      "start": "00:03:28.000",
+      "end": "00:04:08.000",
+      "title": "Refining the sky blend: cloning, masking, and opacity control",
+      "concepts": [
+        "Clone Tool for sky placement",
+        "Cloud-to-cloud blending",
+        "History Brush masking",
+        "Soft vs hard brush",
+        "Opacity adjustment"
+      ],
+      "description": "If choosing the painting/clone route, the sky is cloned from the sky shot and aligned with existing clouds. Any mistakes are corrected by masking with the History Brush from the previous state, using soft brushes for smooth blending, and fading between layers. Final refinements include selecting the sky area and adjusting opacity (e.g., around 100% down to ~40%) to achieve a natural blend."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "RAW processing with Dynamic Range Panel to recover shadows and prevent clipping",
+      "timestamp": "00:00:29.580",
+      "confidence": 0.88
+    },
+    {
+      "technique": "One-directional light adjustment philosophy to guide eye movement",
+      "timestamp": "00:01:01.320",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sky integration via canvas expansion and sky painting/clone approach",
+      "timestamp": "00:02:19.320",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Clone Stamp Tool for transferring sky and aligning cloud textures",
+      "timestamp": "00:02:30.460",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Cloud-to-cloud blending with careful alignment",
+      "timestamp": "00:02:36.940",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Masking with History Brush to refine sky blends",
+      "timestamp": "00:03:20.660",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Opacity control for final sky composite",
+      "timestamp": "00:04:08.720",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:13:09.940606+00:00"
+}

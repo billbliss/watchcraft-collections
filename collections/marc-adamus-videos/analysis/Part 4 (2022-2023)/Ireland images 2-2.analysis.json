@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/Ireland images 2-2.mp4",
+  "title": "Ireland images 2-2: multi-layer lighting, sky zoning, and perspective corrections in coastal Photoshop workflow",
+  "date": {
+    "display": "March 16, 2023 (approx.)",
+    "iso": "2023-03-16",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata: 2023-03-16T19:52:33.000000Z"
+  },
+  "locations": [
+    {
+      "name": "Rodeo Beach, San Francisco, CA (comparison reference)",
+      "confidence": 0.6,
+      "basis": "Transcript reference: 'this reminds me of Rodeo Beach in San Francisco' used as a comparison rather than a confirmed shooting location."
+    }
+  ],
+  "summary": "The video presents a coastal-landscape post-processing workflow centered on selecting a strong foreground shot and then building a cohesive final image through meticulous layer management, sky segmentation, and directional lighting. The presenter demonstrates foreground-water balance, cropping, and multi-zone sky work, followed by a major emphasis on creating a focal light by separating background layers, painting light, and adding fog. Techniques showcased include sky zoning with multiple tonal zones, using a hard-edge brush to create light beams, clone-stamp-based layer separation, blur plus luminosity for lightflow, and the introduction of reflected light on rocks. Advanced geometry corrections are covered with Distort + Scale and perspective modifications (including trapezoid-based adjustments and horizon un-tilting). The workflow underscores non-destructive editing, saving iterative states, and combining multiple passes to refine color, mood, and eye direction toward the light. The dialogue blends practical instruction with candid workflow commentary, including workflow pitfalls and preferences between clone-based methods and history-based edits.",
+  "topics": [
+    "Adobe Photoshop",
+    "Foreground balance",
+    "Cropping",
+    "Water balance",
+    "Layer separation",
+    "Sky zoning",
+    "Beams / sunbeams",
+    "Clone stamp tool",
+    "History brush",
+    "Blur + luminosity",
+    "Highlight dodge",
+    "Fog",
+    "Global exposure adjustments",
+    "Curves",
+    "Color grading",
+    "Tonality",
+    "D haze",
+    "Reflected light",
+    "Perspective Warp",
+    "Distort + Scale",
+    "Trapezoids",
+    "Rule of trapezoids",
+    "Un-tilt horizon",
+    "Non-destructive editing",
+    "Versioning / save states",
+    "Auto HDR (mentioned)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:06",
+      "title": "Shot selection and initial foreground balance",
+      "concepts": [
+        "foreground selection",
+        "cropping",
+        "tripod-based stability",
+        "balancing foreground with water",
+        "quick balance workflow"
+      ],
+      "description": "The presenter notes there are many good shots and selects one to balance the foreground and water, with a plan to add water on the right for balance and a quick crop to remove distractions."
+    },
+    {
+      "start": "00:02:06",
+      "end": "00:06:20",
+      "title": "Exposure, layer separation, and sky-zone planning",
+      "concepts": [
+        "separating layers for light",
+        "sky zoning",
+        "multi-zone sky adjustments",
+        "global exposure adjustments",
+        "foreground enhancement"
+      ],
+      "description": "Demonstrates separating layers to control background light, cropping, and starting a multi-zone sky workflow (zone 1, zone 2, zone 3) to manage sky highlights and prevent sky misbehavior."
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:11:21",
+      "title": "Creating focal light, fog, and beams",
+      "concepts": [
+        "fog layering",
+        "beams / light rays",
+        "hard-edge brush usage",
+        "90% separation for layer edges",
+        "clone-based separation workflow"
+      ],
+      "description": "Focuses on creating a focal point by fog separation and introducing light through the scene using beams; emphasizes hard-edge painting and later refinement with soft brushes and clone-based approaches."
+    },
+    {
+      "start": "00:11:21",
+      "end": "00:18:14",
+      "title": "Beams refinement, rock shading, and non-destructive workflow",
+      "concepts": [
+        "beams refinement",
+        "rock shading and lighting",
+        "dodge/burn usage",
+        "clone vs history brush",
+        "preserving edges while removing artifacts"
+      ],
+      "description": "Details the process of refining light beams, shaping rock surfaces, and choosing between clone-based separation and history-based edits while noting typical pitfalls when attempting to edit multiple layers at once."
+    },
+    {
+      "start": "00:17:16",
+      "end": "00:20:58",
+      "title": "Distort + Scale and trapezoidal geometry corrections",
+      "concepts": [
+        "Distort + Scale",
+        "cropping horizon alignment",
+        "perspective composition",
+        "trapezoid-based adjustments",
+        "horizon centering to avoid curvature"
+      ],
+      "description": "Shows widening the scene with Distort + Scale, the importance of pre-cropping for horizon integrity, and comparing trapezoid vs straight scale approaches to enhance foreground water and overall composition."
+    },
+    {
+      "start": "00:22:11",
+      "end": "00:35:09",
+      "title": "Sky complexity, color grading, and final tonal polish",
+      "concepts": [
+        "multi-zone sky adjustments",
+        "color grading and warmth",
+        "tonal base color",
+        "d hazing",
+        "reflected light on seas/rocks",
+        "auto HDR discussion",
+        "final sky neutralization"
+      ],
+      "description": "Explains layering the sky with zones, applying warmth, neutralizing inconsistencies, and painting reflected light to pull attention toward the directional light while maintaining a subdued background sky."
+    },
+    {
+      "start": "00:40:32",
+      "end": "00:46:45",
+      "title": "Final color, sky integrity, and non-destructive archival workflow",
+      "concepts": [
+        "tonal base color",
+        "color grading passes",
+        "non-destructive editing",
+        "saving multiple versions",
+        "clone painting for layer re-use"
+      ],
+      "description": "Covers finishing touches like consistent tonal base color, final color grading, and the practical habit of saving multiple versions to preserve different states for later re-use or comparison."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Shot selection and foreground balance",
+      "timestamp": "00:01:31.000",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Sky zoning with three zones",
+      "timestamp": "00:03:10.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blur plus luminosity workflow to create focal light",
+      "timestamp": "00:04:42.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Beams creation with hard-edge brush and later refinement",
+      "timestamp": "00:05:56.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Layer separation using clone paint vs history brush",
+      "timestamp": "00:07:02.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Highlight dodge (fog blow-out) to enhance rocks",
+      "timestamp": "00:09:14.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Reflected light on rocks to enhance mood",
+      "timestamp": "00:29:36.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Distort + Scale for wide-view composition",
+      "timestamp": "00:17:31.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Perspective Warp and trapezoid planning",
+      "timestamp": "00:19:39.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Un-tilt horizon to correct tilt",
+      "timestamp": "00:31:28.000",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Non-destructive workflow with versioned saves",
+      "timestamp": "00:45:14.000",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:40:29.176966+00:00"
+}

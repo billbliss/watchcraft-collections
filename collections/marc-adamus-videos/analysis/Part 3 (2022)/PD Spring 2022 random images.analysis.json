@@ -1,0 +1,214 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/PD Spring 2022 random images.mp4",
+  "title": "Depth through atmospheric post-processing: multi‑zone sky/foreground work and haze in Photoshop (PD Spring 2022)",
+  "date": {
+    "display": "March 7, 2022 (approx.)",
+    "iso": "2022-03-07",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in source metadata (2022-03-07T03:55:57.000000Z)"
+  },
+  "locations": [
+    {
+      "name": "Triangle Reef",
+      "confidence": 0.8,
+      "basis": "explicit mention: “triangle reef on the map of locations that i give you”; later reference to Triangle Reef as a nearby comparison/location"
+    }
+  ],
+  "summary": "The video presents a step‑by‑step Photoshop workflow tailored for drone/landscape imagery, focused on creating depth and atmosphere. Beginning with a darkened exposure that preserves shadow detail, the presenter separates foreground processing from sky work, then iteratively warps and expands sky elements to introduce leading lines. Color grading is applied selectively to foreground and horizon blues, followed by a dedicated blur plus luminosity pass to generate glow and push midtones back. A core portion of the method is a labor‑intensive, multi‑layer haze build using clone painting and selective erasure (history brush) to simulate atmospheric perspective across distant layers. The timeline moves through multi‑zone adjustments in Camera Raw, targeted saturation and hue shifts, and occasional use of tools like sponge, puppet warp, and perspective warp. The approach emphasizes drawing the eye toward light and creating a three‑dimensional feel by layering and shaping light, color, and atmosphere across depth.",
+  "topics": [
+    "Photoshop",
+    "post-processing",
+    "landscape photography",
+    "drone imagery",
+    "perspective-warp",
+    "puppet-warp",
+    "clone-stamp",
+    "history-brush",
+    "blur+luminosity",
+    "dodge",
+    "sponge-tool",
+    "two-zone-processing",
+    "Camera-Raw",
+    "dehaze",
+    "color-grading",
+    "JPEG-vs-RAW",
+    "Atmosphere",
+    "Haze",
+    "Depth"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "01:33.920",
+      "title": "Initial exposure, shadows, and foreground/sky separation",
+      "concepts": [
+        "exposure control",
+        "shadow detail",
+        "foreground processing",
+        "sky processing"
+      ],
+      "description": "Set a darker overall exposure while preserving shadow detail. Begin foreground processing and gradually choose to leave the sky alone for foreground tweaks, then prepare for sky adjustments later. The speaker emphasizes that shadows should retain detail to allow recovery from RAW data."
+    },
+    {
+      "start": "01:33.920",
+      "end": "03:39.000",
+      "title": "Sky shaping with perspective tricks and tiny sky tweaks",
+      "concepts": [
+        "perspective warp",
+        "leading lines",
+        "sky manipulation",
+        "puppet warp"
+      ],
+      "description": "Apply perspective warp to the sky to create more interesting leading lines; experiment with a dramatic, trapezoid‑like warp and a puppet warp to adjust isolated sky areas without disturbing the rest of the frame."
+    },
+    {
+      "start": "04:32.120",
+      "end": "07:12.000",
+      "title": "Foreground color grading and horizon blues",
+      "concepts": [
+        "color grading",
+        "blue saturation/luminance",
+        "camera calibration",
+        "foreground emphasis"
+      ],
+      "description": "Process foreground details first, then selectively adjust sky later. Alter blue saturation and luminance to avoid aqua/cyan distortions, apply blues in camera calibration, and introduce warmth to the horizon to balance the scene."
+    },
+    {
+      "start": "07:41.580",
+      "end": "10:15.880",
+      "title": "Blur + luminosity: creating depth and glow",
+      "concepts": [
+        "blur+luminosity",
+        "midtone separation",
+        "distance haze"
+      ],
+      "description": "Implement the blur plus luminosity technique to the background, enhancing depth and creating a hazy, distant glow. Balance brightness and warmth, push the midtones to simulate atmospheric depth, and gradually refine the effect across the mid to far ground."
+    },
+    {
+      "start": "10:15.880",
+      "end": "15:12.040",
+      "title": "Atmosphere construction with clone painting; iterative refinements",
+      "concepts": [
+        "clone stamp",
+        "atmospheric haze",
+        "layered depth",
+        "eraser/history brush"
+      ],
+      "description": "Use the clone stamp to paint brighter/hazier layers behind key structures (e.g., a tower) to simulate atmospheric layers. Erase and refine mistakes with the history brush, progressively building seven or more atmospheric layers and adjusting hues/saturation per layer to preserve depth while avoiding obvious artifacts."
+    },
+    {
+      "start": "12:40.000",
+      "end": "21:28.660",
+      "title": "Layer-by-layer refinement and depth storytelling",
+      "concepts": [
+        "multi‑zone layering",
+        "atmospheric separation",
+        "spot refinements",
+        "sponge tool"
+      ],
+      "description": "Continue multi‑zone refinement, with notes on haze settling in lower areas and the need to maintain separation between foreground/middle ground and backdrop. Use tools like sponge for localized color tweaks and selective masking to keep edges believable while enhancing depth."
+    },
+    {
+      "start": "39:31.000",
+      "end": "43:12.000",
+      "title": "Two-zone processing in Camera Raw for complex scenes",
+      "concepts": [
+        "two-zone processing",
+        "top vs bottom adjustments",
+        "dehaze",
+        "texture"
+      ],
+      "description": "Demonstrate dividing an image into multiple processing zones (bottom/middle/top) to treat each region differently. Apply dehaze and texture selectively, then blend zones to preserve overall cohesion while enhancing three‑dimensional feel."
+    },
+    {
+      "start": "49:11.000",
+      "end": "50:57.000",
+      "title": "Directional light emphasis with adaptive distortion and warm highlights",
+      "concepts": [
+        "adaptive wide angle",
+        "fisheye distortion",
+        "local highlights",
+        "directional light"
+      ],
+      "description": "Experiment with an adaptive wide angle filter to exaggerate light direction and create a stronger directional pull. Increase brightness and warmth in the upper-left region, then balance with the rest of the frame to guide the viewer’s eye along the light path."
+    },
+    {
+      "start": "53:52.000",
+      "end": "53:52.000",
+      "title": "Closing perspective: the core takeaway",
+      "concepts": [
+        "visual flow",
+        "eye path to light",
+        "depth via atmosphere"
+      ],
+      "description": "Summarizes the overarching idea: depth and movement in landscape imagery come from consistent transitions (big-to-small, dark-to-light, cool-to-warm) that guide the viewer toward the light and create a layered, three‑dimensional feel."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Foreground vs. sky separation with selective processing + blue hue calibration",
+      "timestamp": "00:00:00.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky perspective warp (trapezoidal) to create leading lines",
+      "timestamp": "01:53:540",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Puppet warp to adjust specific sky regions",
+      "timestamp": "03:23.640",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color grade applied to highlights and horizon warmth",
+      "timestamp": "04:32.120",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blur + luminosity pass to add depth and glow",
+      "timestamp": "07:41.580",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Clone Stamp to build atmospheric haze behind structures",
+      "timestamp": "11:02.400",
+      "confidence": 0.95
+    },
+    {
+      "technique": "History Brush to clean up clone-painted areas",
+      "timestamp": "12:52.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Two-zone Camera Raw processing for complex layers",
+      "timestamp": "39:31.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dehaze and texture adjustments for distant layers",
+      "timestamp": "31:59.180",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Auto HDR discussion for texture balance in water/surfaces",
+      "timestamp": "44:25.120",
+      "confidence": 0.6
+    },
+    {
+      "technique": "JPEG preview usage for color baseline before RAW processing",
+      "timestamp": "34:42.200",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Adaptive wide-angle distortion (fisheye) for dramatic light",
+      "timestamp": "49:11.680",
+      "confidence": 0.72
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T20:03:29.878589+00:00"
+}

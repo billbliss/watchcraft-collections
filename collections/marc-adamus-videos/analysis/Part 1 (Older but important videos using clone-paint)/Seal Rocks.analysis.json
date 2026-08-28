@@ -1,0 +1,318 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Seal Rocks.mp4",
+  "title": "Seal Rocks: Perspective Warp, Sky Widening, and Directional Light in Coastal Photoshop",
+  "date": {
+    "display": "June 2022 (approx)",
+    "iso": "2022-06-13T19:49:33Z",
+    "precision": "unknown",
+    "confidence": 0.4,
+    "basis": "embedded_creation_time in SOURCE METADATA"
+  },
+  "locations": [
+    {
+      "name": "Seal Rocks (probable)",
+      "confidence": 0.55,
+      "basis": "filename 'Seal Rocks.mp4' and folder name imply location; transcript references coastal rocks/sea stacks but not explicit location"
+    }
+  ],
+  "summary": "The video presents a coastal Photoshop workflow centered on salvaging a shot of sea stacks by blending, warping, and light-control techniques. The speaker explains starting with two images to copy a perfect wave onto another frame when shooting on a tripod, then addresses composition fixes when people intrude and a perfect wave isn’t available. A series of corrective tools follows: a perspective warp to align rocks and remove distractions, clone-stamping with heavy sampling to clone out foreground elements, and a horizon-straightening operation. The narrative then shifts to creating directional light via blur plus luminosity and staged color grading to simulate light coming from one side, followed by tonal-based color adjustments to unify water color. Other core steps include selective color adjustments (50-150 style), auto HDR for texture, and background replacement from alternative frames to fix lens/surface issues. The tutorial also covers sky widening through RAW distortion/scale, the rule of trapezoids for wide-angle widening, cloud-streak creation, and careful edge blending to maintain believable depth. The overall aim is a sunset-like, three-dimensional feel with strong directional light and cohesive color throughout the scene.",
+  "topics": [
+    "clone stamp tool",
+    "perspective warp",
+    "warp and blend",
+    "background replacement",
+    "blur plus luminosity",
+    "tonal-based color adjustment",
+    "selective color (50-150)",
+    "auto HDR",
+    "texture slider",
+    "detail and noise reduction",
+    "horizon correction",
+    "sky widening",
+    "distort scale (RAW)",
+    "rule of trapezoids",
+    "cloud streaks",
+    "healing brush",
+    "banding removal",
+    "dynamic range",
+    "foreground/background replacement",
+    "edge blending",
+    "shadow and highlight balance"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:50",
+      "title": "Wave blending and the need for a perfect frame",
+      "concepts": [
+        "tripod sequencing",
+        "clone-painting waves",
+        "leading lines",
+        "dynamic range reduction",
+        "exposure lowering"
+      ],
+      "description": "Introduces the coastal shot and explains how to blend a better wave from a neighboring frame when timing or composition is imperfect."
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:03:06",
+      "title": "Dealing with people in the frame",
+      "concepts": [
+        "composition cleanup",
+        "alternate frames",
+        "foreground distractions",
+        "field planning"
+      ],
+      "description": "Explains the problem of people in the shot and the strategy of finding another capture or planning field changes to make later blending possible."
+    },
+    {
+      "start": "00:03:06",
+      "end": "00:04:26",
+      "title": "Perspective warp and initial clone blending",
+      "concepts": [
+        "perspective warp",
+        "warp and blend",
+        "clone stamp tool",
+        "hard-edge brush"
+      ],
+      "description": "Uses a warped duplicate of the rock to align geometry, then clones and hard-blends the people out of the frame."
+    },
+    {
+      "start": "00:04:26",
+      "end": "00:06:44",
+      "title": "Refining the clone-out with multi-sampling",
+      "concepts": [
+        "clone stamp tool",
+        "multi-sample cloning",
+        "edge alignment",
+        "cropping"
+      ],
+      "description": "Continues reshaping and cloning the scene, emphasizing that hard edges and many sample points are needed to hide the removal convincingly."
+    },
+    {
+      "start": "00:06:44",
+      "end": "00:07:49",
+      "title": "Correcting the horizon after the warp",
+      "concepts": [
+        "horizon correction",
+        "perspective warp rotation",
+        "leveling"
+      ],
+      "description": "Straightens the tilted horizon introduced by the earlier warping and notes the tradeoff between removing distractions and preserving the original rock shape."
+    },
+    {
+      "start": "00:07:49",
+      "end": "00:10:08",
+      "title": "Making the scene feel directional",
+      "concepts": [
+        "directional light",
+        "composition interpretation",
+        "lens distortion",
+        "light direction"
+      ],
+      "description": "Argues that lens distortion and the earlier edits can be accepted creatively, then shifts to the goal of building strong light coming from the right side."
+    },
+    {
+      "start": "00:10:08",
+      "end": "00:13:54",
+      "title": "Blur plus luminosity and basic color shaping",
+      "concepts": [
+        "blur plus luminosity",
+        "luminosity masking",
+        "color grading",
+        "water color correction"
+      ],
+      "description": "Builds a distant, hazier feel with blur and luminosity, then pushes warmth and blue-green water color to simulate sunset lighting."
+    },
+    {
+      "start": "00:13:54",
+      "end": "00:16:59",
+      "title": "Tonal-based color adjustment for consistency",
+      "concepts": [
+        "tonal-based color adjustment",
+        "color consistency",
+        "highlight color control",
+        "banding"
+      ],
+      "description": "Uses tonal color rebuilding to unify inconsistent water and sky color, while noting existing banding and restoring the original rock detail."
+    },
+    {
+      "start": "00:16:59",
+      "end": "00:20:01",
+      "title": "Restoring detail and expanding dynamic range",
+      "concepts": [
+        "dynamic range expansion",
+        "history brush",
+        "color rework",
+        "shadow detail"
+      ],
+      "description": "Brings back detail in the middle ground and reworks color and contrast after earlier shortcuts caused uneven results."
+    },
+    {
+      "start": "00:20:01",
+      "end": "00:24:10",
+      "title": "Selective Color and texture in the splash",
+      "concepts": [
+        "selective color",
+        "50-150 adjustment",
+        "shadow control",
+        "auto HDR",
+        "texture slider"
+      ],
+      "description": "Applies the selective-color recipe to boost light on the rocks, then uses darker counter-adjustments and HDR-style texture to emphasize the splash."
+    },
+    {
+      "start": "00:24:10",
+      "end": "00:28:39",
+      "title": "Haze, banding, and the search for a cleaner background",
+      "concepts": [
+        "banding remediation",
+        "haze creation",
+        "background replacement",
+        "foreground/background separation"
+      ],
+      "description": "Tames the overly crisp areas, diagnoses persistent banding, and looks for a cleaner alternative frame to replace the contaminated background."
+    },
+    {
+      "start": "00:28:39",
+      "end": "00:34:41",
+      "title": "Replacing the background and matching reflections",
+      "concepts": [
+        "background replacement",
+        "sunset grading",
+        "color balance",
+        "clone stamp alignment",
+        "water blending"
+      ],
+      "description": "Grades the alternate frame to a warm sunset look, aligns the sun and reflections, and blends the new background into the foreground water."
+    },
+    {
+      "start": "00:34:41",
+      "end": "00:37:19",
+      "title": "Cleaning salt spots and finishing the base composite",
+      "concepts": [
+        "healing brush",
+        "water spot removal",
+        "texture preservation",
+        "cleanup"
+      ],
+      "description": "Uses healing on the water spots, preserving texture while clearing the lens contamination before moving on to creative widening."
+    },
+    {
+      "start": "00:37:19",
+      "end": "00:40:40",
+      "title": "Widening the scene with RAW distort/scale and cloud streaks",
+      "concepts": [
+        "distort scale (RAW)",
+        "sky widening",
+        "cloud streaks",
+        "rule of trapezoids"
+      ],
+      "description": "Demonstrates two widening methods: RAW distortion/scale for the sky and the rule of trapezoids for making the composition feel broader."
+    },
+    {
+      "start": "00:40:40",
+      "end": "00:44:56",
+      "title": "Directional glow and blur-plus-luminosity depth",
+      "concepts": [
+        "sun glow",
+        "blur plus luminosity",
+        "separation between sea stacks",
+        "three-dimensional depth",
+        "painted luminosity"
+      ],
+      "description": "Builds glowing light through the rocks and across the background, using blur plus luminosity to create stronger depth and atmospheric separation."
+    },
+    {
+      "start": "00:44:56",
+      "end": "00:46:59",
+      "title": "Final water-light pass and wrap-up",
+      "concepts": [
+        "water light painting",
+        "final color grading",
+        "foreground masking",
+        "composite review"
+      ],
+      "description": "Applies the same light treatment to the water, then reviews the before-and-after effect and ends the demonstration."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Clone Stamp Tool with multi-sample to remove foreground elements",
+      "timestamp": "00:03:55.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Perspective Warp for composition fixes (warp and blend)",
+      "timestamp": "00:03:25.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Hard-edged brush blending and alignment after warping to remove people",
+      "timestamp": "00:04:04.000",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Horizon straightening using perspective warp/rotation",
+      "timestamp": "00:06:58.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Directional light build with blur plus luminosity and staged color grading",
+      "timestamp": "00:10:16.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tonal-based color adjustment to unify water color and fix inconsistencies",
+      "timestamp": "00:13:54.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective Color adjustment (50-150) to enhance targeted tones",
+      "timestamp": "00:20:01.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Auto HDR with texture/sharpen adjustments for wave texture",
+      "timestamp": "00:23:45.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Distort/Scale in RAW to widen the scene (sky expansion)",
+      "timestamp": "00:37:19.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Rule of trapezoids for widening a composition (stitch-like widening)",
+      "timestamp": "00:38:42.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky widening and cloud-streak creation via sky replacement and perspective warp",
+      "timestamp": "00:37:53.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color calibration and sunset color grading to render warm foreground and blue sky",
+      "timestamp": "00:31:30.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Healing Brush to remove water spots and restore texture",
+      "timestamp": "00:36:24.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Banding diagnosis and selective remediation through tonal/color adjustments",
+      "timestamp": "00:24:10.000",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:49:45.556692+00:00",
+  "timeline_repair_model": "gpt-5.4-mini",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-21T18:21:19.542826+00:00"
+}

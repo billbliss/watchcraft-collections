@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Drone Warp, exposure blend, processing.mp4",
+  "title": "Drone Warp, Exposure Blend, and Sky Stitching in Photoshop (Moab Panorama)",
+  "date": {
+    "display": "April 24, 2021",
+    "iso": "2021-04-24",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time 2021-04-24T17:41:30.000000Z; transcript does not independently confirm the date."
+  },
+  "locations": [
+    {
+      "name": "Moab, Utah, USA (explicit)",
+      "confidence": 0.9,
+      "basis": "Transcript states 'downtown Moab' at the start."
+    }
+  ],
+  "summary": "This instructional video demonstrates building an ultra-high-resolution drone panorama in Photoshop, starting from a nine-shot drone sequence stitched into a single panorama, then manually correcting misalignment with perspective and puppet warp. The presenter explains how to blend sky and landscape, balance exposure between different panels using RAW adjustments, and apply a sequence of color and light treatments (including blur-plus-luminosity diffusion, diffusion-based haze, and selective color) to create a cohesive final image with strong leading lines and a believable horizon. Throughout, the workflow emphasizes pre-stitch planning, careful sky replacement, and post-stitch refinements to preserve printability and avoid obvious seams, all demonstrated on a very large (approximately 170 MP) original capture.",
+  "topics": [
+    "Adobe Photoshop",
+    "Photo Merge",
+    "Panorama Stitching",
+    "Drone Photography",
+    "Drone Panorama",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Free Transform",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Sky Blending",
+    "Sky Replacement",
+    "Blur + Luminosity",
+    "Diffusion",
+    "Gaussian Blur",
+    "Color Grading",
+    "Camera Raw",
+    "Luminosity Mask",
+    "High-Resolution Panorama",
+    "Leading Lines",
+    "Trapezoid Rule",
+    "Horizon Alignment",
+    "Sun Beams",
+    "Moab photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:27.480",
+      "end": "00:01:08.860",
+      "title": "Initial panorama stitching and file organization",
+      "concepts": [
+        "panorama",
+        "Photo Merge",
+        "RAW vs JPEG",
+        "file management"
+      ],
+      "description": "The presenter describes using Photoshop's Photo Merge to create a base panorama from drone shots, noting that the original RAW files were stored separately and only JPEGs were used for the visible panorama in that moment."
+    },
+    {
+      "start": "00:04:33.240",
+      "end": "00:05:46.360",
+      "title": "Perspective Warp and trapezoid alignment",
+      "concepts": [
+        "perspective warp",
+        "trapezoid correction",
+        "manual alignment"
+      ],
+      "description": "The video demonstrates flattening a stitched panorama, drawing custom trapezoidal boxes, and applying perspective warp to re-align edges so lines flow toward the center, discussing how wide-angle distortions affect corner geometry and the importance of trapezoidal corrections for seamless stitching."
+    },
+    {
+      "start": "00:06:07.460",
+      "end": "00:07:10.400",
+      "title": "Puppet Warp for leading lines and final fit",
+      "concepts": [
+        "puppet warp",
+        "leading lines",
+        "edge refinement"
+      ],
+      "description": "Puppet Warp is used to refine the alignment of image sections and enhance leading lines from the sides, with the operator describing how pins can warp or un-warp areas to achieve a visually pleasing crop and cohesive composition."
+    },
+    {
+      "start": "00:08:11.220",
+      "end": "00:09:04.740",
+      "title": "High-resolution panorama and edge detail",
+      "concepts": [
+        "megapixel panorama",
+        "detail preservation",
+        "stitch quality"
+      ],
+      "description": "The narrator highlights the final panorama's extreme resolution (approximately 170 megapixels), discussing the level of detail and how 170 MP panoramas provide sharper imagery than typical camera sensors, reinforcing the incentive to stitch for maximum resolution."
+    },
+    {
+      "start": "00:09:39.060",
+      "end": "00:11:35.020",
+      "title": "Second panorama stitch and sky-beam considerations",
+      "concepts": [
+        "second panorama",
+        "sky merging",
+        "sunbeams",
+        "alignment"
+      ],
+      "description": "The workflow repeats the stitching process for a separate sky shot, emphasizing the need to ensure sunbeams remain straight and to plan how skies blend with the landscape, noting that the sky can be warped to align with the center image if necessary."
+    },
+    {
+      "start": "00:12:14.040",
+      "end": "00:14:46.360",
+      "title": "Sky patching with clone stamp and sky patch management",
+      "concepts": [
+        "clone stamp",
+        "sky patch",
+        "patchwork correction"
+      ],
+      "description": "A missing sky segment is addressed using the clone stamp to patch in sky, followed by flattening and expanding a sky piece to ensure a seamless blend between the sky and the landscape, including a workaround for an asset not present in the folder."
+    },
+    {
+      "start": "00:15:02.560",
+      "end": "00:16:27.520",
+      "title": "Further sky warp and trapezoid-led adjustments",
+      "concepts": [
+        "sky warp",
+        "trapezoids",
+        "leading lines"
+      ],
+      "description": "Further perspectiveWarp steps are used to enlarge the sky area and produce stronger leading lines toward the sun, with notes on maximizing the effect while preserving printability."
+    },
+    {
+      "start": "00:16:27.520",
+      "end": "00:19:02.600",
+      "title": "Balancing horizon exposure with RAW adjustments",
+      "concepts": [
+        "RAW exposure",
+        "shadow detail",
+        "horizon balance"
+      ],
+      "description": "RAW adjustments are applied to both the landscape and sky to balance exposure, darken the horizon to match the sky, and reduce brightness differences, highlighting the grain discrepancy between drone JPEGs and camera RAWs and the need to pre-balance before final blending."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Photo Merge panorama stitching (Automate > Photo Merge in Photoshop)",
+      "timestamp": "00:00:49.160",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Perspective Warp with manual trapezoid correction",
+      "timestamp": "00:04:33.240",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Puppet Warp for alignment and leading lines",
+      "timestamp": "00:06:07.460",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Clone Stamp Tool for sky patching",
+      "timestamp": "00:12:27.860",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History Brush for selective restoration and blending",
+      "timestamp": "00:14:09.360",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blur + Luminosity technique for sky diffusion",
+      "timestamp": "00:28:55.020",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective Color and color grading in RAW for sky and horizon",
+      "timestamp": "00:32:56.480",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Luminosity masking and horizon glow adjustments",
+      "timestamp": "00:29:02.380",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:52:17.163895+00:00"
+}

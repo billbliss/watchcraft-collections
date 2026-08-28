@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Storm Chase 2020.mp4",
+  "title": "Storm Chase 2020: Multi-zone post-processing and sky enhancement in Photoshop",
+  "date": {
+    "display": "2020-08-19",
+    "iso": "2020-08-19",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time (metadata) + filename context"
+  },
+  "locations": [],
+  "summary": "The video presents a multi-zone Photoshop workflow for a storm image, emphasizing how to balance a dramatic sky with foreground and middle ground. The presenter demonstrates isolating non-sky regions, restoring the original sky with a history brush, and repositioning foreground elements via a hard-edge clone stamp. He then explores composition via perspective warp and trapezoid-based adjustments, followed by staged tonal work on the foreground, midtones, and sky using dodging/burning, vignetting, and selective color tweaks. A sequence of Auto HDR passes is used to enhance lightning and cloud texture while maintaining control over highlights, and final polish combines Gaussian blur with luminosity adjustments and selective painting to unify and emphasize the storm. The process is framed as iterative, with history-preserving steps and staged adjustments to prevent unwanted changes across zones.",
+  "topics": [
+    "Photoshop",
+    "post-processing",
+    "storm photography",
+    "lightning",
+    "Auto HDR",
+    "dodge and burn",
+    "clone stamp tool",
+    "history brush",
+    "perspective warp",
+    "puppet warp",
+    "trapezoid rule",
+    "Gaussian blur",
+    "luminosity",
+    "vignette",
+    "color grading",
+    "selective color",
+    "foreground",
+    "sky",
+    "midtones",
+    "rain texture"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:00",
+      "title": "Zone-based tonal planning and initial sky isolation",
+      "concepts": [
+        "foreground/middle ground/sky separation",
+        "non-sky region processing",
+        "recovering original sky via history brush",
+        "selective cactus adjustment"
+      ],
+      "description": "The speaker advocates treating foreground, middle ground, and sky as separate tonal zones. The sequence begins with toning the non-sky regions (increase blacks, darken foreground), then reintroduces the original sky using history-based restoration, and performs a quick cactus adjustment to align foreground elements with the sky in preparation for further processing."
+    },
+    {
+      "start": "00:03:39",
+      "end": "00:08:21",
+      "title": "Warping and composition adjustment",
+      "concepts": [
+        "perspective warp",
+        "trapezoid rule for warps",
+        "foreground/middle ground foreground extension"
+      ],
+      "description": "The video covers isolating sky and foreground regions, applying perspective warp to shorten the foreground object, and using the trapezoid rule to maintain wide-angle distortion consistency. A broader demonstration of warping leads into extending the foreground to create a taller, more dynamic composition."
+    },
+    {
+      "start": "00:10:28",
+      "end": "00:18:07",
+      "title": "Sky enhancement and storm emphasis with Auto HDR",
+      "concepts": [
+        "Auto HDR on sky",
+        "three-pass adjustments",
+        "recovery of lightning texture",
+        "selective background processing"
+      ],
+      "description": "Auto HDR is applied to the sky to deepen lightning and cloud texture through repeated clarity/shadows/denoise adjustments. A separate workflow is outlined for the bottom/background area, while the lightning is painted in with controlled passes. This section emphasizes balancing sky drama with foreground integrity."
+    },
+    {
+      "start": "00:19:46",
+      "end": "00:33:40",
+      "title": "Final polish: global blending, color grading, and horizon correction",
+      "concepts": [
+        "Gaussian blur + luminosity",
+        "mid-tone burn",
+        "color grading of foreground dirt",
+        "horizon straightening",
+        "clone-paint to balance color and storm emphasis"
+      ],
+      "description": "A sequence of global and targeted adjustments to unify the image: applying blur + luminosity, staged mid-tone burns to darken the foreground without killing color, selective color tweaks to harmonize dirt tones, and a final horizon correction. The section also covers extending the storm height via warp and painting, preserving history for iterative refinements, and ensuring the eye remains drawn to the storm while maintaining a coherent foreground."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sky restoration via History Brush to restore original sky",
+      "timestamp": "00:01:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Hard-edge clone stamp tool to reposition foreground cactus",
+      "timestamp": "00:02:24",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Perspective Warp with trapezoid-rule guidance",
+      "timestamp": "00:03:39",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Dodge and Burn on mid-tones for foreground drama",
+      "timestamp": "00:07:37",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Auto HDR applied to sky (three passes) for lightning texture",
+      "timestamp": "00:10:28",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Gaussian Blur + Luminosity blend to unify tonality",
+      "timestamp": "00:19:48",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Warp and Paint to extend storm and repaint only storm components",
+      "timestamp": "00:26:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Horizon straightening and region-based color adjustments",
+      "timestamp": "00:32:12",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T17:03:26.404751+00:00"
+}

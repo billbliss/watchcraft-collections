@@ -1,0 +1,172 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/Coast, how to warp, create sunlight and do tonal based color adjustments.mp4",
+  "title": "Coast: sky replacement, artificial sunlight, tonal color, and warping",
+  "date": {
+    "display": "June 19, 2022 (approx.)",
+    "iso": "2022-06-19",
+    "precision": "day",
+    "confidence": 0.75,
+    "basis": "Embedded MP4 creation_time, consistent with the Part 3 (2022) folder; may reflect export rather than recording date."
+  },
+  "locations": [
+    {
+      "name": "Oregon Coast (probable)",
+      "confidence": 0.7,
+      "basis": "Identified by the collection owner, but not independently confirmed by the transcript. Smith Rock State Park is mentioned only as a comparison."
+    }
+  ],
+  "summary": "An end-to-end Photoshop workflow that turns a 28 mm coastal frame into a more dramatic, wide-angle-feeling composition. The instructor replaces and rearranges the sky from alternate captures, processes the image in separate tonal zones, fabricates a believable setting sun and its reflected glow, repairs color by tonal range, reshapes the composition with Perspective Warp and Puppet Warp, and finishes with a restrained Auto HDR texture pass.",
+  "topics": [
+    "Adobe Camera Raw",
+    "Auto HDR",
+    "artificial sun",
+    "blur plus luminosity",
+    "clone paint",
+    "clone stamp",
+    "cloud repositioning",
+    "color grading",
+    "dynamic range",
+    "highlight dodge",
+    "History Brush",
+    "horizon straightening",
+    "LAB color",
+    "localized processing",
+    "Perspective Warp",
+    "Puppet Warp",
+    "reflected light",
+    "rule of trapezoids",
+    "selective color",
+    "sky replacement",
+    "tonal-based color adjustment",
+    "warp and blend",
+    "wide-angle simulation",
+    "zone processing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:34",
+      "title": "Source frame and baseline dynamic range",
+      "concepts": [
+        "shutter speed",
+        "dynamic range",
+        "Adobe Camera Raw"
+      ],
+      "description": "Reviews the coastal source frame, then establishes a neutral RAW conversion by opening shadows while controlling highlights and exposure."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:12:06",
+      "title": "Sky replacement and clone-paint blending",
+      "concepts": [
+        "sky replacement",
+        "Perspective Warp",
+        "clone stamp",
+        "History Brush",
+        "cloud repositioning"
+      ],
+      "description": "Chooses a stronger sky from another capture, explains three replacement scopes, levels the horizon without cropping, and clone-paints clouds and water while protecting the horizon transition."
+    },
+    {
+      "start": "00:12:06",
+      "end": "00:18:19",
+      "title": "Independent processing of tonal zones",
+      "concepts": [
+        "zone processing",
+        "color grading",
+        "Camera Calibration",
+        "History Brush"
+      ],
+      "description": "Separates sky, flat water, breaking water, and rocks so exposure, warmth, color, and luminosity can be adjusted independently."
+    },
+    {
+      "start": "00:18:19",
+      "end": "00:25:56",
+      "title": "Creating a sun that was not present",
+      "concepts": [
+        "artificial sun",
+        "blur plus luminosity",
+        "highlight dodge",
+        "warm glow",
+        "reflected light"
+      ],
+      "description": "Builds a fabricated setting sun in stages using extreme localized RAW adjustments, Gaussian blur, luminosity, Highlight Dodge, History Brush blending, atmospheric warmth, and a matching reflection in the water."
+    },
+    {
+      "start": "00:25:56",
+      "end": "00:28:18",
+      "title": "Tonal-based color repair",
+      "concepts": [
+        "tonal-based color adjustment",
+        "color grading",
+        "LAB color",
+        "selective color"
+      ],
+      "description": "Repairs inconsistent water and sun colors by rebuilding color separately across tonal ranges, then uses LAB or Selective Color to control blown yellow."
+    },
+    {
+      "start": "00:28:18",
+      "end": "00:30:56",
+      "title": "Simulating a wider lens with Perspective Warp",
+      "concepts": [
+        "Perspective Warp",
+        "rule of trapezoids",
+        "wide-angle simulation",
+        "leading lines"
+      ],
+      "description": "Divides the image into sky, land, and water bands, then stretches the periphery into trapezoids to make the 28 mm frame read more like a 14 mm composition."
+    },
+    {
+      "start": "00:30:56",
+      "end": "00:33:23",
+      "title": "Selective Puppet Warp and blending",
+      "concepts": [
+        "Puppet Warp",
+        "control points",
+        "warp and blend",
+        "History Brush"
+      ],
+      "description": "Demonstrates Puppet Warp control points and locked boundaries, including reshaping a cloud and painting only the warped element back into the unwarped image."
+    },
+    {
+      "start": "00:33:23",
+      "end": "00:35:48",
+      "title": "Restrained Auto HDR texture",
+      "concepts": [
+        "Auto HDR",
+        "texture enhancement",
+        "shadow fill",
+        "low-opacity blending"
+      ],
+      "description": "Creates an intentionally overprocessed RAW version, then borrows only small amounts at very low opacity to add wave texture or shadow detail while warning against excessive HDR."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Create a sun that was not present",
+      "timestamp": "00:18:19",
+      "confidence": 0.99
+    },
+    {
+      "technique": "Perspective Warp and rule of trapezoids",
+      "timestamp": "00:28:50",
+      "confidence": 0.99
+    },
+    {
+      "technique": "Puppet Warp with selective blend-back",
+      "timestamp": "00:30:56",
+      "confidence": 0.99
+    },
+    {
+      "technique": "Tonal-based color adjustment",
+      "timestamp": "00:25:56",
+      "confidence": 0.99
+    },
+    {
+      "technique": "Sky replacement using clone paint",
+      "timestamp": "00:02:34",
+      "confidence": 0.99
+    }
+  ]
+}

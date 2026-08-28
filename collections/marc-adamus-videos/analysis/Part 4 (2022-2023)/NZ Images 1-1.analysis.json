@@ -1,0 +1,360 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/NZ Images 1-1.mp4",
+  "title": "Layer separation and directional light in NZ landscape processing (NZ Images 1-1)",
+  "date": {
+    "display": "2022-11-11 (approximate)",
+    "iso": "2022-11-11T22:32:33.000000Z",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time provided; transcript does not independently confirm exact date"
+  },
+  "locations": [
+    {
+      "name": "New Zealand",
+      "confidence": 0.8,
+      "basis": "Transcript explicitly references “New Zealand” forest shots as a setting (e.g., [01:50:07.700])."
+    }
+  ],
+  "summary": "This tutorial-style video focuses on building depth in landscape imagery by explicitly separating multiple atmospheric layers (ridge lines, clouds, foreground and background), then adding directional light and glow to create a convincing sense of depth. The author demonstrates a mix of Photoshop techniques: separating unselectable ridges via targeted light/dark transitions, straightening horizons, optional sky replacement, and iterative color and luminosity adjustments. The workflow blends raw processing, clone-based repetition of adjustments, hazy/glowy effects, fog-like diffusion, and meticulous edge-fade work to preserve texture while enhancing depth. Several recurring concepts appear, including creating and painting light between layers, using dehaze and blur for atmospheric diffusion, selective color and HSL-based color correction, and multiple passes of color grading to achieve the desired tonal balance. The session also discusses practical shooting notes (e.g., focus stacking and telephoto layer behavior) and hints at how these techniques translate to forest and water scenes, with New Zealand as a recurring example landscape. ",
+  "topics": [
+    "layer separation",
+    "ridge separation",
+    "directional light",
+    "glow",
+    "edge fade",
+    "sky replacement",
+    "clone brush",
+    "clone paint",
+    "history brush",
+    "soft edge brush",
+    "raw processing",
+    "color grading",
+    "selective color",
+    "HSL",
+    "dehaze",
+    "fog",
+    "diffusion",
+    "dodge and burn",
+    "vignette",
+    "focus stacking",
+    "Canon focus stacking",
+    "distort + scale",
+    "perspective warp",
+    "geometry warp",
+    "lipofolie adjustments",
+    "long exposure blending",
+    "edge painting",
+    "luminosity mask"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:57",
+      "title": "Intro: why layer separation matters",
+      "concepts": [
+        "atmospheric layers",
+        "ridge lines",
+        "light between layers",
+        "depth separation"
+      ],
+      "description": "The video opens with a cloud-fall landscape example and explains the core idea: separating bright and dark layers to reveal depth. The speaker points out multiple ridgelines and emphasizes that creating light in the gaps between them is more important than lighting the surfaces themselves."
+    },
+    {
+      "start": "00:01:57",
+      "end": "00:04:51",
+      "title": "Baseline cleanup and compositional straightening",
+      "concepts": [
+        "black transition levels",
+        "directional light source",
+        "warp horizon",
+        "composition crop",
+        "sky replacement"
+      ],
+      "description": "The image is broken into clearer tonal layers, then the horizon is straightened with a warp so the scene sits level and the eye can move toward the light. A sky replacement is mentioned as optional, and the framing is cropped to establish the base composition."
+    },
+    {
+      "start": "00:04:51",
+      "end": "00:07:51",
+      "title": "Building glow with haze, dehaze, and warm grading",
+      "concepts": [
+        "haze",
+        "dehaze",
+        "glow",
+        "warm color grading",
+        "camera calibration",
+        "white lift"
+      ],
+      "description": "The speaker explains that the layer-separation technique begins after a few foundational color adjustments. By making the scene slightly hazier, then adding whites, warmth, and camera calibration tweaks, the light becomes a convincing directional glow."
+    },
+    {
+      "start": "00:07:51",
+      "end": "00:12:24",
+      "title": "History brush correction and color matching",
+      "concepts": [
+        "history brush",
+        "flare removal",
+        "cyan vs red correction",
+        "selective color",
+        "raw color grading"
+      ],
+      "description": "A finished adjustment is painted back selectively with the history brush, then distracting flare spots are corrected by pushing colors toward their opposites. The speaker demonstrates matching cloud colors and highlights so the repaired areas blend naturally with the rest of the image."
+    },
+    {
+      "start": "00:12:24",
+      "end": "00:16:12",
+      "title": "Setting up clone paint for repeated layer work",
+      "concepts": [
+        "clone paint",
+        "repeat RAW adjustment",
+        "warm blur",
+        "diffusion",
+        "ridge tracing"
+      ],
+      "description": "The workflow shifts to a repeatable clone-paint approach for making the same warm, hazy raw-style adjustment over and over between ridges. The speaker traces each unselectable edge first, accepting roughness because the edge will be softened in the next step."
+    },
+    {
+      "start": "00:16:12",
+      "end": "00:24:01",
+      "title": "Tracing, softening, and merging ridge edges",
+      "concepts": [
+        "soft edge brush",
+        "edge fade",
+        "layer isolation",
+        "diffusion",
+        "hidden ridge lines"
+      ],
+      "description": "Multiple mountain ridges are isolated one by one using a hard-edged trace followed by a soft erase or fade-back pass. The method deliberately starts messy, then blends each ridge into the surrounding atmosphere so the layers read as separate planes."
+    },
+    {
+      "start": "00:24:01",
+      "end": "00:29:31",
+      "title": "Luminosity pass and final light separation",
+      "concepts": [
+        "luminosity",
+        "whites adjustment",
+        "selective color",
+        "painting light",
+        "before/after"
+      ],
+      "description": "The speaker switches from haze to luminosity, adding bright light between the already softened layers. The resulting glow is painted into the scene and refined with selective color, producing strong separation and a clear before-and-after improvement."
+    },
+    {
+      "start": "00:29:31",
+      "end": "00:39:16",
+      "title": "Focus stacking and composition notes for the next landscape",
+      "concepts": [
+        "focus stacking",
+        "Canon focus stacking",
+        "alignment",
+        "auto-blend",
+        "distort + scale",
+        "perspective warp"
+      ],
+      "description": "The video briefly reviews focus-stacking behavior, including increments, alignment, and why Canon stacking can be easier to blend. It then moves to another landscape setup, where composition is adjusted with geometry and perspective tools before deeper processing begins."
+    },
+    {
+      "start": "00:39:16",
+      "end": "00:44:22",
+      "title": "Sky and mountain zoning: darker base, graded highlights",
+      "concepts": [
+        "zones",
+        "camera raw",
+        "highlight grading",
+        "color balance",
+        "dehaze",
+        "sky tint"
+      ],
+      "description": "The image is divided into zones, starting with the sky and mountains. The speaker darkens and grades the sky in multiple passes, balances the mountain blues, and uses dehaze to build a smooth, luminous sunrise look."
+    },
+    {
+      "start": "00:44:22",
+      "end": "00:49:00",
+      "title": "Foreground flowers and distraction control",
+      "concepts": [
+        "HSL",
+        "selective color",
+        "purple and magenta boost",
+        "dark blur",
+        "foreground cleanup"
+      ],
+      "description": "Attention shifts to the flower foreground, where the colors are intensified with HSL and selective color. Distracting rocks and bright details are muted with a dark blur so the flowers remain the visual subject."
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:53:07",
+      "title": "Middle-ground diffusion and mist buildup",
+      "concepts": [
+        "end of flat plane",
+        "fog",
+        "blur",
+        "dehaze",
+        "luminosity"
+      ],
+      "description": "The middle ground is treated as a flat plane that needs brightening and diffusion at its far edge. The speaker demonstrates blur, dehaze, and luminosity together to create misty depth and draw the eye into the center."
+    },
+    {
+      "start": "00:53:07",
+      "end": "00:57:49",
+      "title": "Mountain separation with dehaze and cloud masking",
+      "concepts": [
+        "vignette",
+        "ridge separation",
+        "dehaze plus warmth",
+        "cloud borrowing",
+        "mask blending"
+      ],
+      "description": "The mountain layers are refined further by applying warmth and dehaze to reveal individual ridges. A borrowed cloud is moved in to hide a distracting bright spot, and the blend is cleaned up with careful masking."
+    },
+    {
+      "start": "00:57:49",
+      "end": "01:01:04",
+      "title": "Shaping the foreground and holding the light",
+      "concepts": [
+        "sponge tool",
+        "saturation control",
+        "three-dimensionality",
+        "flower shading",
+        "light direction"
+      ],
+      "description": "The foreground bushes and flowers are shaped with saturation changes so they read as three-dimensional forms. The speaker keeps pushing light toward the direction of the sun while preserving the overall scene balance."
+    },
+    {
+      "start": "01:01:04",
+      "end": "01:11:56",
+      "title": "Directional light in forest and bird scenes",
+      "concepts": [
+        "directional side light",
+        "tree highlight painting",
+        "shadow color control",
+        "blur plus dehaze",
+        "wildlife lighting"
+      ],
+      "description": "The lesson broadens to forest and wildlife examples, showing the same side-light principle applied to trees and a bird portrait. The speaker combines haze, luminosity, selective color, and feather-aware brushing to make the subject look lit from one side."
+    },
+    {
+      "start": "01:11:56",
+      "end": "01:18:17",
+      "title": "Field notes on forest shots and light direction",
+      "concepts": [
+        "forest processing",
+        "background diffusion",
+        "light from one direction",
+        "shade workflow"
+      ],
+      "description": "The speaker steps back from detailed editing to summarize forest-shot strategy: keep foreground detail, diffuse the background, and use directional light to give depth. The discussion reinforces that side lighting is the key to strong two-dimensional processing."
+    },
+    {
+      "start": "01:18:17",
+      "end": "01:26:50",
+      "title": "Wide mountain scene: crop, warp, and depth setup",
+      "concepts": [
+        "geometry warp",
+        "perspective warp",
+        "trapezoid shaping",
+        "center emphasis",
+        "vignette"
+      ],
+      "description": "A wide mountain scene is corrected by shrinking and reshaping the composition, then restoring depth with a stronger center and reduced sides. The speaker prepares the image for atmospheric separation by fixing proportions and reinforcing the central focal area."
+    },
+    {
+      "start": "01:26:50",
+      "end": "01:36:58",
+      "title": "Mist, light, and blown-highlight recovery",
+      "concepts": [
+        "fog creation",
+        "blur + luminosity",
+        "highlight dodge",
+        "color grading",
+        "selective color whites"
+      ],
+      "description": "The center of the landscape is built up with fog, luminosity, and warm light, then refined with repeated color grading passes. When highlights blow out, the speaker shows how to recolor the whites and recover the look without losing the glow."
+    },
+    {
+      "start": "01:36:58",
+      "end": "01:44:54",
+      "title": "River lead-in and illuminated tree line",
+      "concepts": [
+        "leading river",
+        "mist over water",
+        "tree-top light",
+        "blue water grading",
+        "sun glow"
+      ],
+      "description": "The river and its surroundings are used as a leading path into the scene, with added mist and brightened tree tops to pull the eye inward. Strong blue grading in the water and a glowing sun treatment reinforce the directional flow."
+    },
+    {
+      "start": "01:44:54",
+      "end": "01:49:30",
+      "title": "Vignette and forest-edge framing",
+      "concepts": [
+        "custom vignette",
+        "vaseline-on-lens effect",
+        "center draw",
+        "foliage borrowing"
+      ],
+      "description": "A dark, cool vignette is used to keep the viewer inside the frame while the center remains luminous. The speaker borrows nearby foliage to improve a trunk edge and strengthen the framing around the central opening."
+    },
+    {
+      "start": "01:49:30",
+      "end": "02:00:52",
+      "title": "Final hardest scene and closing burnout",
+      "concepts": [
+        "dynamic range blending",
+        "manual exposure blend",
+        "hard edge brush",
+        "selection control",
+        "directional side light"
+      ],
+      "description": "The final landscape is treated as the hardest image of the session, requiring multiple exposures, manual blending, and repeated color work to recover greens and light. After attempting to build directional light and shadow balance, the speaker winds down and ends the video in a state of burnout."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Layer separation / ridgeline isolation to reveal depth between atmospheric planes",
+      "timestamp": "00:01:32.980",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Creating directional light and glow via targeted color grading and hazy light",
+      "timestamp": "00:06:41.320",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Warp horizon to straighten foreground/background alignment for stronger leading light",
+      "timestamp": "00:03:42.480",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Clone Paint workflow to repeat RAW adjustments across multiple layers (non-destructive iterations)",
+      "timestamp": "00:12:45.760",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Focus stacking explanation and practical use with Canon system (alignment/auto-blend)",
+      "timestamp": "01:32:24.000",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Distort + Scale to widen composition after initial crop",
+      "timestamp": "01:39:37.180",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Fog/mist creation using blur + luminosity and diffusion to imply depth",
+      "timestamp": "01:27:03.560",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Dodge & Burn and luminosity-driven color grading to center attention",
+      "timestamp": "01:48:10.500",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:52:32.597530+00:00",
+  "timeline_repair_model": "gpt-5.4-mini",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-21T18:22:13.911428+00:00"
+}

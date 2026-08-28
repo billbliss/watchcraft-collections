@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/AK Fall 2-3.mp4",
+  "title": "Aurora Multi-Exposure Blending and Post-Processing in Alaska Fall Landscape",
+  "date": {
+    "display": "Approx. 2025-09-18",
+    "iso": "2025-09-18",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "Embedded video creation_time indicates 2025-09-18; transcript references Alaska fall aurora workflows and processing steps that align with a late-summer/early-fall shooting season."
+  },
+  "locations": [
+    {
+      "name": "Alaska, USA (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly references Alaska and fall color season; filename/path includes AK Fall."
+    }
+  ],
+  "summary": "This instructional video walks through the full post-processing workflow for an aurora-focused landscape shot shot in Alaska during fall. The presenter covers planning two exposures (a bright landscape frame and a dark aurora frame), in-field decisions to manage grain, denoising with AI tools, color correction of the foreground, and a multi-shot sky blend using layered composites. The walkthrough advances from base exposure selection and noise control to careful sky layering with clone-stamp painting, selective color manipulations for aurora color separation, mid-tone dodging to recover river texture, and directional lighting on mountains and foliage to achieve a painterly, depth-rich final image. The session emphasizes camera stability (tripod use and avoiding movement for easier blending), sky-to-sky blending without duplicate stars, and the discipline of choosing when to rely on post-processing to craft light, color, and atmosphere rather than forcing in-camera perfection.",
+  "topics": [
+    "aurora photography",
+    "two-exposure strategy (bright landscape + dark aurora)",
+    "long exposures vs. short exposures for river/light on water",
+    "AI denoise in Lightroom (and Topaz) techniques",
+    "foreground color correction (removing green cast, blue tint)",
+    "color grading (midtones, whites, magenta/blue shifts)",
+    "sky layering and aurora integration across multiple frames",
+    "tripod-based alignment and auto-align vs manual masking",
+    "clone stamp for sky blending and seamless transitions",
+    "noise management and preserving detail during compositing",
+    "dynamic range management (highlights/shadows) in aurora scenes",
+    "mid-tone dodge for water texture and river highlights",
+    "blue luminance and selective color for sky separation",
+    "color separation (foreground vs. background) to create depth",
+    "composition decisions (4x5 crop, river, trees, mountains)",
+    "fog/haze considerations and avoidance of fake atmospheric effects",
+    "drone footage as supplementary material and workflow notes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:15:00",
+      "title": "Exposure strategy for aurora and baseline processing",
+      "concepts": [
+        "two-exposure plan",
+        "landscape-bright vs aurora-dark",
+        "grain management",
+        "long vs short exposures"
+      ],
+      "description": "Introduces the core two-exposure approach for aurora work: a bright landscape exposure to capture the river and scenery and a dark aurora exposure to preserve aurora detail. The speaker notes grain in long, dark frames and discusses the need to locate the bright long-exposure frame first to blend the aurora back in later."
+    },
+    {
+      "start": "01:15:00",
+      "end": "02:14:40",
+      "title": "Denoising workflow and AI tools",
+      "concepts": [
+        "AI denoise in Lightroom",
+        "Topaz denoise",
+        "noise reduction order"
+      ],
+      "description": "Demonstrates denoising the aurora/landscape frame using AI denoise (Lightroom AI Denoise, Topaz). Emphasizes applying denoise to reduce grain while preserving usable detail, and discusses not relying on luminance-only denoise in some cases."
+    },
+    {
+      "start": "02:14:40",
+      "end": "04:48:00",
+      "title": "Foreground color correction and initial composite preparation",
+      "concepts": [
+        "green cast removal",
+        "foreground color balance",
+        "initial color grading"
+      ],
+      "description": "Shows removing unwanted green cast from the foreground, painting a cooler foreground, and preparing the denoised image for aurora overlay. Includes adjusting foreground saturation and setting up for aurora insertion with initial color and light balancing."
+    },
+    {
+      "start": "04:48:00",
+      "end": "07:14:00",
+      "title": "Aurora color selection and initial sky layering",
+      "concepts": [
+        "select best aurora frame",
+        "color intuition",
+        "initial sky merge"
+      ],
+      "description": "Discusses choosing aurora frames with visually appealing swirl and color. Proceeds to begin layering the aurora onto the base image, acknowledging that extreme aurora is often too bright and can overwhelm other scene details."
+    },
+    {
+      "start": "07:14:00",
+      "end": "09:31:00",
+      "title": "Sky alignment and blending techniques",
+      "concepts": [
+        "tripod stability",
+        "overlay of two skies",
+        "clone stamp blending",
+        "avoid duplicate stars"
+      ],
+      "description": "Explains aligning two sky exposures captured with a tripod, then blending the skies using a clone-stamp workflow and careful masking to avoid duplicate stars and color inconsistencies. Emphasizes the benefit of keeping the camera fixed for easier alignment."
+    },
+    {
+      "start": "09:31:00",
+      "end": "12:25:00",
+      "title": "River and landscape integration in composites",
+      "concepts": [
+        "river highlights",
+        "mid-tone dodge",
+        "texture across layers",
+        "composition balance"
+      ],
+      "description": "Covers blending steps to ensure river highlights are retained, using mid-tone dodge for water texture, and addressing lighting across the river to maintain natural depth. Discusses limitations when the camera moved between shots and how post-processing solves some of these alignment challenges."
+    },
+    {
+      "start": "12:25:00",
+      "end": "16:15:00",
+      "title": "Advanced color separation and sky finalization",
+      "concepts": [
+        "blue-magenta color separation",
+        "selective color adjustments",
+        "4x5 composition decisions"
+      ],
+      "description": "Details color separation for foreground and sky using blue-magenta shifts, targeting mid-tones and clouds with selective color, and preparing a final crop (4x5) to balance sky, river, and mountains. Highlights the importance of color separation to create depth and reduce color bleed between layers."
+    },
+    {
+      "start": "16:15:00",
+      "end": "01:32:00",
+      "title": "Final pass on foreground, mountains, and atmosphere",
+      "concepts": [
+        "directional lighting",
+        "mountain highlights",
+        "fog/haze caution",
+        "vignetting"
+      ],
+      "description": "Concludes with painting directional light on foliage and mountains, adding subtle warmth and depth through curves, color grading, and targeted white adjustments. Includes cautions about overdoing haze or clarity and emphasizes preserving natural glacier color (and avoiding artificial reflections on ice). Ends with a discussion of final composite tweaks, cropping, and potential drone footage notes for additional layers."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Two-exposure aurora composition (bright landscape + dark aurora)",
+      "timestamp": "00:00:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "AI-based denoise workflow in Lightroom/Topaz",
+      "timestamp": "00:01:38",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Foreground color correction to remove green cast and balance color",
+      "timestamp": "02:00:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Aurora overlay with layered sky and color grading",
+      "timestamp": "04:48:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky alignment and seamless sky-blend using clone stamp",
+      "timestamp": "08:12:00",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Water texture restoration via mid-tone dodge within a multi-layer composite",
+      "timestamp": "01:31:44",
+      "confidence": 0.73
+    },
+    {
+      "technique": "Color separation and magenta/blue shifts for sky/aurora",
+      "timestamp": "01:13:24",
+      "confidence": 0.71
+    },
+    {
+      "technique": "Directional lighting and evening color grading on mountains and foliage",
+      "timestamp": "01:00:02",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:32:55.521605+00:00"
+}

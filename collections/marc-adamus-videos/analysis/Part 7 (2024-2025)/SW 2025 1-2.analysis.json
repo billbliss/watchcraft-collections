@@ -1,0 +1,266 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/SW 2025 1-2.mp4",
+  "title": "Stitching and Post-Processing Panoramas with PTGui and Photoshop (Southwest field to final composite)",
+  "date": {
+    "display": "November 2025",
+    "iso": "2025-11-10",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata"
+  },
+  "locations": [
+    {
+      "name": "Hanksville, Utah (probable)",
+      "confidence": 0.7,
+      "basis": "Explicit field-reference to Hanksville and desert wildflowers in the Southwest section of the talk (00:15:15–00:15:46) indicating a Southwest-US desert location."
+    },
+    {
+      "name": "Mono Lake, California, USA",
+      "confidence": 0.5,
+      "basis": "Mentions Mono Lake sand tufa during the night/morning pano workflow (01:50:03–01:50:16)"
+    },
+    {
+      "name": "New Zealand",
+      "confidence": 0.6,
+      "basis": "Speaker references New Zealand trip and landscape processing as a comparison/example (01:57:10–01:58:55)"
+    },
+    {
+      "name": "Norway",
+      "confidence": 0.5,
+      "basis": "Speaker mentions Norway in context of panos and trips (01:58:12–01:59:00)"
+    },
+    {
+      "name": "Pakistan",
+      "confidence": 0.5,
+      "basis": "Speaker notes shooting in Pakistan with a telephoto lens as context for drone work (01:54:21–01:54:28)"
+    },
+    {
+      "name": "Zion National Park, Utah",
+      "confidence": 0.5,
+      "basis": "Referenced as a location example for framing and processing discussion (01:12:34–01:12:39)"
+    },
+    {
+      "name": "Kofa, Arizona",
+      "confidence": 0.5,
+      "basis": "Mentions “Kofa” and sunset in the desert context (01:18:—01:19:00)"
+    }
+  ],
+  "summary": "This video is a hands-on, field-to-finish workflow for creating large panoramas from drone imagery, with emphasis on correcting stitching artifacts, choosing appropriate projections, and performing advanced post-processing. The presenter compares DJI’s native stitching to PTGui’s capabilities, demonstrates automatic exposure matching across images, and walks through assembling, saving, and post-processing a panorama in Photoshop. The session includes handling both wide-field desert canyon scenes and night/morning shots, discusses sky management (including the necessity of sky content for reliable pano stitching), focal stacking workflows (including manual sun-star fixes), and creative color grading techniques (including 50-150 color separation). The talk also covers practical tips about RAW vs JPEG pipelines, working with very large image sets, and the realities of processing in the field across diverse locations such as the American Southwest (Hanksville, Mono Lake, Zion, Kofa) and mentions of New Zealand, Norway, and Pakistan as trip contexts.",
+  "topics": [
+    "DJI stitching artifacts",
+    "Rectilinear distortion and horizon alignment",
+    "HDR/tonemapping differences DJI vs Lightroom",
+    "PTGui automatic exposure matching",
+    "RAW vs JPEG panorama pipelines",
+    "Panorama projection options (rectilinear, cylindrical, stereographic)",
+    "Panorama image alignment and 0472 panorama workflow",
+    "Exporting panoramas to TIFF and file management",
+    "Cropping and resizing for panorama aesthetics (rule of thirds)",
+    "Warping and perspective corrections in large panos",
+    "Post-processing: two-zone grading in Camera Raw for foreground vs sky",
+    "Sun-star management and flare control in panos",
+    "Sky and atmosphere: diffusion, haze, and diffusion for depth",
+    "50-150 color adjustment for color separation in landscapes",
+    "Clone painting to blend frames for seam-free horizons",
+    "Focus stacking workflow in Photoshop (load into stack, auto-align, auto-blend, content-aware fill)",
+    "Manual sun-star fixes during focus stacking blends",
+    "Long-exposure illusion via dodging and shadow dodging",
+    "Orton effect critique and modern softness preferences",
+    "Framing and leading lines in landscapes (mountains, canyons)",
+    "Tripod vs handheld considerations for stitching and comping",
+    "Sky presence as a prerequisite for successful sky panoramas in high-density sequences",
+    "360-degree panoramas and sky stitching challenges"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "Field stitching realities and distortion",
+      "concepts": [
+        "Drone stitching artifacts",
+        "Edge cropping and extra image space",
+        "Rectilinear distortion benefits and horizon cues"
+      ],
+      "description": "Introduction to DJI stitching limitations (edges cropped, extra content around stitched frames) and the rectilinear distortion that helps lines converge. Mention that Lightroom stitching can yield a curved horizon, illustrating why a rectilinear projection may be preferred in certain panos."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:11",
+      "title": "Panorama search and projection options",
+      "concepts": [
+        "Panorama folder navigation",
+        "Projection options in PTGui vs Lightroom",
+        "Rectilinear projection emphasis"
+      ],
+      "description": "The presenter locates 0472 panorama files, explains that PTGui provides more projection options (rectilinear, cylindrical, stereographic, etc.) and demonstrates choosing rectilinear to preserve leading lines toward the sun."
+    },
+    {
+      "start": "00:04:11",
+      "end": "00:06:31",
+      "title": "Initial PTGui alignment and exposure handling",
+      "concepts": [
+        "Image selection",
+        "Batch alignment",
+        "Exposure matching"
+      ],
+      "description": "In PTGui, the workflow begins with selecting the panorama set (0472 panorama) and aligning images. Demonstrates how PTGui pre-aligns and matches exposures across frames before stitching, contrasting with Lightroom’s more limited automatic exposure handling."
+    },
+    {
+      "start": "00:06:31",
+      "end": "00:06:31",
+      "title": "Panorama creation and file export",
+      "concepts": [
+        "Creating panorama",
+        "TIFF export"
+      ],
+      "description": "Demonstrates choosing the panorama output (TIFF) and where to save (card), as well as the speed of stitching once parameters are set."
+    },
+    {
+      "start": "00:06:31",
+      "end": "00:08:11",
+      "title": "From PTGui to Photoshop prep",
+      "concepts": [
+        "Stitch output",
+        "Cropping inside Photoshop"
+      ],
+      "description": "Back in Photoshop, the stitched panorama is opened, cropped to improve composition (rule of thirds), and image dimensions adjusted for more natural aspect ratio."
+    },
+    {
+      "start": "00:08:11",
+      "end": "00:12:25",
+      "title": "Two-zone post-processing workflow",
+      "concepts": [
+        "Camera Raw two-zone edits",
+        "Foreground vs sky adjustments",
+        "Exposure, whites, contrast"
+      ],
+      "description": "Describes breaking the image into foreground and sky zones in Camera Raw, performing opposite adjustments to foreground and sky, and addressing flare and sun-star behavior with layered edits."
+    },
+    {
+      "start": "00:12:25",
+      "end": "00:14:12",
+      "title": "Enhancing depth with diffusion and color grading",
+      "concepts": [
+        "Diffusion near sun",
+        "Color temperature/tint",
+        "Color grading layering"
+      ],
+      "description": "Explains diffusion around the sun area to create glow, followed by color grading and multiple gradient steps to harmonize foreground and sky while maintaining horizon integrity."
+    },
+    {
+      "start": "00:14:12",
+      "end": "00:20:12",
+      "title": "Framing, timing, and desert landscapes in the Southwest",
+      "concepts": [
+        "Seasonal timing",
+        "Hanksville desert wildflowers",
+        "Canyon lighting"
+      ],
+      "description": "Elaborates on timing opportunities (late August, early May) for the Southwest desert; discusses how light beams through canyons, desert wildflowers, and the impact of light direction on the final image."
+    },
+    {
+      "start": "00:20:12",
+      "end": "00:28:12",
+      "title": "Large panoramas, sky content, and control points",
+      "concepts": [
+        "Large panoramas",
+        "360 panoramas",
+        "Sky requirements",
+        "Control points in PTGui"
+      ],
+      "description": "Addresses challenges of stitching huge panoramas, the necessity of having sky/clouds for successful stitching, and notes on control-point work and potential limitations when sky data are insufficient."
+    },
+    {
+      "start": "00:28:12",
+      "end": "01:04:12",
+      "title": "Focus stacking and multi-shot composites",
+      "concepts": [
+        "Focus stacking workflow",
+        "40-50 image stacks",
+        "Content-aware fill and auto-blend"
+      ],
+      "description": "Discusses extensive focus stacking workflows, working with many RAW captures, and the interaction between stacking and sky; includes details on Photoshop scripts, auto-align, auto-blend, and using content-aware fill to fix gaps."
+    },
+    {
+      "start": "01:04:12",
+      "end": "01:32:12",
+      "title": "Color management, advanced color grading, and refinement",
+      "concepts": [
+        "50-150 adjustment",
+        "Selective color",
+        "Color grading layers",
+        "Vignetting and diffusion"
+      ],
+      "description": "Covers advanced color separation (50-150), selective color corrections, multiple color-grade passes, and the use of vignetting to guide viewer attention. Also addresses issues with magenta-green shifts and how to harmonize complex layers."
+    },
+    {
+      "start": "01:32:12",
+      "end": "02:12:12",
+      "title": "Moon shots, black & white processing, and final polish",
+      "concepts": [
+        "Moon in black and white",
+        "Dodge and burn",
+        "Orton technique critique",
+        "Tripod vs handheld",
+        "Final export decisions"
+      ],
+      "description": "Concludes with moon-shot processing in black and white using dodge/burn, discusses the controversial Orton effect, and emphasizes the speed and flexibility of processing with a tripod versus handheld. Ends with reflections on final exports and the importance of preserving natural look."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "PTGui auto-exposure matching during panorama stitching",
+      "timestamp": "00:01:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Rectilinear projection selection to preserve leading lines",
+      "timestamp": "00:05:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Automatic panorama creation and export as TIFF",
+      "timestamp": "00:06:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Two-zone post-processing in Camera Raw (foreground vs sky)",
+      "timestamp": "00:09:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "50-150 color adjustment for color separation",
+      "timestamp": "00:52:11",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Clone painting to blend two frames for a seamless horizon",
+      "timestamp": "00:41:26",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Photoshop focus-stacking workflow (load into stack, auto-align, auto-blend)",
+      "timestamp": "01:04:11",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual sun-star fixes with selective cloning and edge painting",
+      "timestamp": "02:05:42",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Long-exposure illusion via shadow dodge and color grading",
+      "timestamp": "01:25:26",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dodge and burn in black-and-white to sculpt moon/foreground",
+      "timestamp": "01:20:00",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:13:17.202388+00:00"
+}

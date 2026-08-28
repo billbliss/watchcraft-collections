@@ -1,0 +1,101 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Painted Desert 3.mp4",
+  "title": "Painted Desert Drone Sky Composite: Foreground DR Expansion & Horizon Alignment",
+  "date": {
+    "display": "September 1, 2023",
+    "iso": "2023-09-01",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata present in video file; transcript does not independently confirm exact date."
+  },
+  "locations": [
+    {
+      "name": "Badlands (zone in shot)",
+      "confidence": 0.45,
+      "basis": "Transcript mentions 'foreground stripe at Badlands' as a zone within the shot; no explicit shooting location given."
+    }
+  ],
+  "summary": "This segment analyzes a drone-based landscape workflow focused on blending a foreground captured with a constrained dynamic range with a sky shot that is expanded carefully to avoid drone-related artifacts. The presenter begins with foreground exposure and shadow detail preservation, explicitly suppressing highlights and avoiding sky considerations in the initial pass. He explains how drone footage limits dynamic range compared to large-format cameras, leading to a sky adjustment strategy that uses only the lower portion of the frame to avoid grain and banding. When alignment between the two frames is imperfect, the workaround shown is a minimal horizon correction—shifting the sky by a pixel or two—and patching with a clone/selection workflow to achieve a seamless composite.",
+  "topics": [
+    "drone photography",
+    "drone bracketing",
+    "photoshop",
+    "exposure blending",
+    "dynamic range",
+    "foreground processing",
+    "sky replacement",
+    "horizon alignment",
+    "clone stamp",
+    "quick selection tool",
+    "pixel-level adjustment",
+    "banding",
+    "grain",
+    "two-pixel shift",
+    "compositing",
+    "landscape editing",
+    "Badlands"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:54",
+      "title": "Foreground-first exposure and dynamic-range compression",
+      "concepts": [
+        "foreground",
+        "shadow detail",
+        "highlights suppression",
+        "dynamic range expansion",
+        "exposure control",
+        "basic color adjustments"
+      ],
+      "description": "The presenter treats the foreground as its own zone with the correct exposure to preserve shadow detail while deliberately suppressing highlights. The workflow described includes expanding the dynamic range, lifting blacks, and applying simple color tweaks (blue and camera calibration) before opening the image for further work. The sky is deliberately ignored in this pass to maximize foreground detail."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:03:01",
+      "title": "Sky integration considerations with drone footage",
+      "concepts": [
+        "sky region isolation",
+        "dynamic range of sky",
+        "drone grain",
+        "banding avoidance",
+        "restricting sky use to lower frame"
+      ],
+      "description": "The dialogue shifts to incorporating sky, noting that expanding the sky’s dynamic range in a drone shot can produce graininess and banding. To mitigate this, the sky is used only for the bottom portion of the frame rather than the full frame. The speaker mentions the misalignment between drone frames as an inevitable issue and demonstrates a practical approach to minimize its impact."
+    },
+    {
+      "start": "00:03:01",
+      "end": "00:03:42",
+      "title": "Horizon alignment and micro-adjustment with clone/selection",
+      "concepts": [
+        "pixel-level adjustment",
+        "two-pixel sky shift",
+        "clone tool",
+        "quick select tool",
+        "horizon patching"
+      ],
+      "description": "To address residual misalignment, the sky layer is moved down by a couple of pixels to hide stray halo or horizon inconsistencies. The technique is reinforced with a clone operation guided by a quick-select-based sky patch, described as a simple, efficient adjustment to achieve alignment without complex editing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Foreground dynamic-range expansion and highlight suppression (exposure blending)",
+      "timestamp": "00:01:14",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Sky expansion with restricted application to bottom frame to avoid grain/banding in drone footage",
+      "timestamp": "00:02:24",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Pixel-level horizon alignment with two-pixel sky shift and clone/selection patch",
+      "timestamp": "00:03:10",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:21:15.139712+00:00"
+}

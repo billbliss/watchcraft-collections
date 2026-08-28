@@ -1,0 +1,230 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/esdv images 2-1.mp4",
+  "title": "Post-Processing Sand Dunes: Visual Flow, Warps, and Sky Blending (Eastern Sierra Death Valley)",
+  "date": {
+    "display": "2022-02-28",
+    "iso": "2022-02-28",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "embedded_creation_time in metadata; transcript references to the date context of the session."
+  },
+  "locations": [
+    {
+      "name": "Eastern Sierra Death Valley",
+      "confidence": 0.85,
+      "basis": "Explicitly mentioned as the source of post-processing imagery in the transcript at 00:00:00."
+    },
+    {
+      "name": "Mount Tom",
+      "confidence": 0.8,
+      "basis": "Explicitly referenced as a subject in the Milky Way and sky-blending portions of the transcript (e.g., “Mount Tom shot”)."
+    },
+    {
+      "name": "Las Vegas (horizon reference)",
+      "confidence": 0.55,
+      "basis": "Mentioned as a horizon reference for light pollution, not asserted as a shooting location."
+    }
+  ],
+  "summary": "This tutorial-style video dissects how to process dune imagery and related landscapes in Photoshop and RAW, emphasizing a single “zone” workflow for dunes and a strong visual flow that steers the viewer toward light. The presenter covers foundational decisions (when to preserve a global, single-set adjustment versus multi-zone adjustments), how to create three-dimensionality through tonal and spatial transitions, and a suite of post-processing tools. Key demonstrations include perspective and puppet warps to correct tilt and reshape terrain, simulated wide-angle distortion, color management via selective color and color grading, and the use of non-destructive techniques (history brush, clone stamp, layer duplication) to blend multiple skies and foregrounds. The Milky Way two-shot and Mount Tom sequences illustrate sky-foreground blending, while a final sequence shows noise reduction (Topaz DeNoise AI) and a dramatic blur-plus-luminosity glow to heighten depth. The video also emphasizes process order, non-destructive editing habits, and deliberate edge blending when combining disparate exposures and skies.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Topaz DeNoise AI",
+    "Selective Color",
+    "Color Grading",
+    "Hue/Saturation",
+    "Luminosity",
+    "Blur",
+    "Sponge Tool",
+    "Dodge and Burn",
+    "History Brush",
+    "Clone Stamp",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Free Transform",
+    "Adaptive Wide Angle",
+    "Skies Blending",
+    "Sky Replacement",
+    "Milky Way",
+    "Mount Tom",
+    "Death Valley",
+    "Leading Lines",
+    "Dynamic Range",
+    "Color Balance",
+    "Luminosity Mask",
+    "Edge Blending",
+    "Non-destructive Editing",
+    "Versioning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:50",
+      "title": "Dune as One-Zone Subject and Visual Flow",
+      "concepts": [
+        "one-zone images",
+        "visual flow toward light",
+        "three-dimensional transitions",
+        "eye movement toward light"
+      ],
+      "description": "Introduction to dunes as one-zone images that respond to a single-wide adjustment. Emphasizes directing the viewer toward the light through three-dimensional transitions, either inward or outward, and discusses why dunes often behave like single-zone subjects for post-processing."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:09:20",
+      "title": "Global Adjustments and Edge Behavior",
+      "concepts": [
+        "global adjustments",
+        "shadow recovery",
+        "preserving highlight detail",
+        "dynamic range"
+      ],
+      "description": "Plan to perform broad, image-wide adjustments before more localized edits. Stresses preserving shadow detail while keeping highlights within one stop of blowing out, enabling better control over tonal transitions and color balance."
+    },
+    {
+      "start": "00:09:20",
+      "end": "00:16:20",
+      "title": "Warping Fundamentals: Perspective Warp to Puppet Warp",
+      "concepts": [
+        "perspective warp",
+        "three-zone constraint",
+        "maximum zones",
+        "warp types",
+        "puppet warp"
+      ],
+      "description": "Describes starting with a perspective warp (up to three boxes) to align shadows and correct tilt, then adds targeted warps to background areas (expanding canvas) and introduces puppet warp as a more dramatic reshaping tool. Emphasizes maintaining recognizability of dunes while achieving the desired composition."
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:18:40",
+      "title": "Distortion Tools: Simulating Wide Angles with RAW/Filter",
+      "concepts": [
+        "adaptive wide-angle distortion",
+        "distort tool",
+        "Camera Raw filter",
+        "edge vs center scaling"
+      ],
+      "description": "Demonstrates how to emulate wide-angle distortion using the Distort and Camera Raw Filter (adaptive wide-angle) and discusses edge stretching versus center scaling, with notes on maintaining content integrity for both wide and telephoto perspectives."
+    },
+    {
+      "start": "00:21:28",
+      "end": "00:26:10",
+      "title": "Color Management: Selective Color and Color Grading",
+      "concepts": [
+        "selective color",
+        "color grading",
+        "tonal adjustments",
+        "neutralizing color"
+      ],
+      "description": "Shows color corrections to fix problematic yellows and other areas by neutralizing color in RAW, then rebuilding color through targeted selective color and color grading to preserve a cohesive color palette across the image."
+    },
+    {
+      "start": "00:35:27",
+      "end": "01:04:32",
+      "title": "Milky Way Two-Shot Blend and Mount Tom Sky Integration",
+      "concepts": [
+        "sky blending",
+        "two-shot processing",
+        "sky clone stamp",
+        "sky replacement vs blend"
+      ],
+      "description": "Outlines blending two exposures (foreground and sky) for Milky Way shots, including selecting compatible foreground skies, maintaining horizon color consistency, and using clone-stamp/sky-blend techniques to integrate a secondary sky (Mount Tom) into the final composition."
+    },
+    {
+      "start": "01:04:32",
+      "end": "01:12:22",
+      "title": "Sky Integration Techniques: Sky Warps and Cloud Adjustments",
+      "concepts": [
+        "cloud warping",
+        "rule of trapezoids",
+        "cloud cloning",
+        "leading lines toward horizon"
+      ],
+      "description": "Details how to warp sky regions to create stronger leading lines toward the mountain, using trapezoid rules and puppet warp to shape clouds, followed by blending and edge-smoothing to ensure natural transitions."
+    },
+    {
+      "start": "01:12:22",
+      "end": "01:18:55",
+      "title": "Layered Lighting and Foreground Emphasis",
+      "concepts": [
+        "multi-layer lighting",
+        "bright/dark transitions",
+        "depth through lighting"
+      ],
+      "description": "Explains layering brighter foreground and darker background layers, then painting in glow and luminosity to heighten depth, followed by selective adjustments to keep blues balanced while emphasizing light direction."
+    },
+    {
+      "start": "01:26:50",
+      "end": "01:33:12",
+      "title": "Final Glow, Non-Destructive Saving, and Versioning",
+      "concepts": [
+        "blur plus luminosity",
+        "Topaz glow",
+        "non-destructive workflow",
+        "versioning"
+      ],
+      "description": "Culminates with a strong glow via blur plus luminosity, final color and edge refinements, and practical advice on saving multiple versions (versioned PSDs/TIFFs) to preserve different stages of editing and facilitate non-destructive revisits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "One-zone dune workflow and light-forward flow",
+      "timestamp": "00:00:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Perspective Warp with up to three boxes to correct tilt",
+      "timestamp": "00:10:23",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Puppet Warp for reshaping terrain while preserving subject",
+      "timestamp": "00:12:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adaptive Wide Angle distortion to emulate wide-field perspective",
+      "timestamp": "00:15:30",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Sky blending across two exposures (Milky Way foreground and sky)",
+      "timestamp": "00:39:44",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Topaz DeNoise AI for star/noise reduction before other edits",
+      "timestamp": "00:41:39",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Blur + Luminosity for magical glow and depth",
+      "timestamp": "01:26:50",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Selective Color and Color Grading to fix and unify color",
+      "timestamp": "00:21:50",
+      "confidence": 0.81
+    },
+    {
+      "technique": "Clone Stamp and History Brush for non-destructive blending",
+      "timestamp": "01:14:06",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Sponge Tool demonstrations for selective saturation on light sources",
+      "timestamp": "01:00:24",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Color Balance and tonal-based color adjustments across horizon",
+      "timestamp": "00:56:51",
+      "confidence": 0.77
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:58:56.312202+00:00"
+}

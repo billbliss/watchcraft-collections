@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Painted Deserts drone and wide angle canyon.mp4",
+  "title": "Painted Deserts: Image selection and post-processing workflow (landscape focus)",
+  "date": {
+    "display": "Unknown",
+    "iso": "",
+    "precision": "unknown",
+    "confidence": 0.5,
+    "basis": "Transcript provides no explicit date; embedded_creation_time is treated as approximate."
+  },
+  "locations": [],
+  "summary": "This landscape photography tutorial examines how to select a strong image from a desert canyon shoot and how to approach post-processing to shape light. The presenter discusses evaluating hundreds of shots, cropping for balance and triangular composition, and choosing framing with or without sky. The segment then covers late-day lighting considerations and a practical post-processing workflow: starting with a flat, low-contrast base to preserve dynamic range, then using targeted adjustments (exposure, shadows, blacks, whites, highlights, color temperature, and tint) to sculpt the final image and create a convincing glow. The speaker also notes the possibility of removing intrusive elements (e.g., a road) using cloning techniques, highlighting a mindset of light-driven edits rather than rote processing steps.",
+  "topics": [
+    "image selection",
+    "cropping",
+    "composition",
+    "triangles",
+    "symmetry",
+    "late-day light",
+    "diffuse light",
+    "soft light",
+    "golden hour",
+    "dynamic range",
+    "exposure",
+    "shadows",
+    "blacks",
+    "highlights",
+    "whites",
+    "color temperature",
+    "tint",
+    "post-processing",
+    "flattening",
+    "light shaping",
+    "clone out road",
+    "landscape photography",
+    "desert canyon"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:09",
+      "title": "Image selection process and composition evaluation",
+      "concepts": [
+        "image selection",
+        "cropping",
+        "composition",
+        "symmetry",
+        "triangles",
+        "framing"
+      ],
+      "description": "The speaker emphasizes that selecting the best image from many shots takes substantial time, describes considering crop and frame to improve balance, and discusses seeking symmetry and triangular motifs in the composition."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:02:36",
+      "title": "Lighting considerations at late day / golden-hour",
+      "concepts": [
+        "late-day light",
+        "soft diffuse light",
+        "glow",
+        "time of day"
+      ],
+      "description": "Discussion of enjoying soft, diffuse light at this time of day, how it makes the scene glow, and the impact of including sky versus tight framing for balance of light."
+    },
+    {
+      "start": "00:03:21",
+      "end": "00:04:46",
+      "title": "Initial exposure and dynamic range handling",
+      "concepts": [
+        "ISO 200",
+        "f/2.8",
+        "exposure",
+        "shadows",
+        "blacks",
+        "dynamic range"
+      ],
+      "description": "Describes a starter exposure around ISO 200 at f/2.8, noting a soft, flat dynamic range. The workflow involves lowering exposure, lifting shadows and blacks, and adjusting color temperature and tint to prepare for dynamic-range recovery."
+    },
+    {
+      "start": "00:04:46",
+      "end": "00:05:03",
+      "title": "Post-processing strategy: flatten then recover highlights",
+      "concepts": [
+        "flattening",
+        "highlights",
+        "whites",
+        "recover dynamic range",
+        "color temperature",
+        "tint"
+      ],
+      "description": "Outlines a common approach: intentionally flatten the image to gain control, then use whites and highlights selectively to restore dynamic range while keeping distractions (like bright road elements) from dominating the scene."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Image selection and cropping for symmetry and triangular composition",
+      "timestamp": "00:00:46",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Flattening the base image to enable controlled light shaping",
+      "timestamp": "00:04:29",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Recovering dynamic range with selective highlights/whites after flattening",
+      "timestamp": "00:04:46",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:09:35.804523+00:00"
+}

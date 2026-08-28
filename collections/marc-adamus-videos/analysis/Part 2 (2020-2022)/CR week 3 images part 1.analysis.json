@@ -1,0 +1,240 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/CR week 3 images part 1.mp4",
+  "title": "Three-Zone Post-Processing Workflow for Canadian Rockies Landscapes (Part 1)",
+  "date": {
+    "display": "January 2022",
+    "iso": "2022-01-20",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "embedded_creation_time metadata indicates 2022-01-20; transcript indicates this is Part 1 of a multi-video series focused on Canadian Rockies images (Part 2 folder path suggests 2020-2022 timeline)"
+  },
+  "locations": [
+    {
+      "name": "Castle Mountain, Alberta, Canada (probable)",
+      "confidence": 0.4,
+      "basis": "Transcript at 01:21:30 references 'Castle Mountain shots' as upcoming content; not explicit this video was shot there, but used for planning/continuation in the series."
+    },
+    {
+      "name": "Canadian Rockies region (probable)",
+      "confidence": 0.4,
+      "basis": "Transcript opening mentions 'Canadian Rockies images' as the subject of the review; not all shots are confirmed locations."
+    }
+  ],
+  "summary": "This video presents a practical, multi-zone workflow for editing Canadian Rockies landscape images in Photoshop, emphasizing perceptual dynamic range, per-zone adjustments, and iterative layering. The presenter demonstrates flattening a wide scene to a true-to-eye dynamic range, then treating foreground, mid-ground, and sky as separate zones to be adjusted with Camera Raw, the history brush, and targeted masking. The tutorial covers sky enhancements via whites, warmth, dehaze, color grading, and camera calibration, followed by careful sky replacement and perspective adjustments (including the rule of trapezoids and perspective warp). The narrator also discusses atmospheric rendering, depth via blur, selective light painting (including highlight dodge cautions), and the constant trade-off between global edits and localized refinements, interspersed with on-screen troubleshooting and reflections on workflow pace. The sequence culminates in a directional-light emphasis on the left side and a reminder that future videos will continue with Castle Mountain shots in the same processing framework.",
+  "topics": [
+    "camera raw",
+    "camera raw filter",
+    "color grading",
+    "color calibration",
+    "blue balance",
+    "warming and cooling",
+    "dynamic range",
+    "shadows",
+    "blacks",
+    "whites",
+    "exposure",
+    "dehaze",
+    "clarity",
+    "texture",
+    "noise reduction",
+    "sky replacement",
+    "perspective warp",
+    "rule of trapezoids",
+    "three-zone processing",
+    "foreground processing",
+    "midground processing",
+    "sky processing",
+    "cloning",
+    "history brush",
+    "masking",
+    "selection",
+    "edge refinement",
+    "long lens processing",
+    "Canadian Rockies",
+    "Castle Mountain",
+    "landscape photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:32",
+      "title": "Intro and workflow framing",
+      "concepts": [
+        "overview",
+        "90/10 processing split",
+        "scene selection"
+      ],
+      "description": "The presenter introduces the session’s goal: review a variety of Canadian Rockies images and explain the process. He emphasizes that approximately 90% of processing is done in post and only about 10% is decision-making on-site, with adjustments to start big and refine over time."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:04:03",
+      "title": "Zone concept and composition decisions",
+      "concepts": [
+        "zone identification",
+        "full peak in frame",
+        "space for light direction"
+      ],
+      "description": "The video explains identifying how many zones (foreground, middle ground, sky) exist in a shot and why it's important to keep the peak fully in frame and to leave more space where light originates."
+    },
+    {
+      "start": "00:04:18",
+      "end": "00:06:41",
+      "title": "Dynamic range flattening to match eye perception",
+      "concepts": [
+        "flattening dynamic range",
+        "true-to-eye",
+        "avoid clipping"
+      ],
+      "description": "The first processing pass aims to approximate what the eye sees by expanding the dynamic range so shadows remain visible and nothing in the sky or foreground is blown out. The presenter notes that starting with a dim, multi-zone frame preserves room to shape light later."
+    },
+    {
+      "start": "00:07:25",
+      "end": "00:11:35",
+      "title": "Per-zone RAW edits and history-brush technique",
+      "concepts": [
+        "RAW edits per zone",
+        "foreground/middle/sky",
+        "history brush as layers"
+      ],
+      "description": "The workflow returns to RAW to rework each zone separately. The foreground is brightened for texture, the middle ground kept simple, and a sky adjustment is prepared. The history brush is used to erase or reapply adjustments, simulating layer-like control without traditional layers."
+    },
+    {
+      "start": "00:12:15",
+      "end": "00:16:17",
+      "title": "Sky adjustments: exposure, warmth, and color grading",
+      "concepts": [
+        "exposure control",
+        "whites for glow",
+        "color grading",
+        "camera calibration"
+      ],
+      "description": "Sky adjustments begin with reducing exposure and restoring whites to reveal drama, then balancing warmth. A color grading step targets highlight colors, followed by camera calibration tweaks to balance blue tones in the ice."
+    },
+    {
+      "start": "00:16:17",
+      "end": "00:21:56",
+      "title": "Multi-pass sky coloration and masking",
+      "concepts": [
+        "tonal-based color adjustment",
+        "color-based adjustments",
+        "two-pass sky"
+      ],
+      "description": "A second sky pass uses tonal-based adjustments to preserve control over color while preventing color bleed. The sky is split into zones for precise enhancement, with painting via history brush to apply changes only where intended."
+    },
+    {
+      "start": "00:21:56",
+      "end": "00:34:53",
+      "title": "Sky integration and edge refinement (two-sky approach)",
+      "concepts": [
+        "sky blending",
+        "edge control",
+        "two-sky approach",
+        "perspective warp",
+        "trapezoids"
+      ],
+      "description": "The instructor details blending a new sky into the shot, including warping and trapezoid adjustments to fit a wide-angle composition. Edges are refined with hard and soft brushes, clone stamping, and careful cropping to maintain continuity between sky and mountains."
+    },
+    {
+      "start": "00:34:53",
+      "end": "00:50:43",
+      "title": "Detailed edge work and sky-edge continuity",
+      "concepts": [
+        "edge refinement",
+        "cloud alignment",
+        "masking"
+      ],
+      "description": "Continuing sky replacement with precise edge work, the presenter demonstrates aligning cloud patterns and ensuring consistent transitions at the sky/mountain boundary, including selective cloning and perspective tweaks."
+    },
+    {
+      "start": "01:02:18",
+      "end": "01:04:39",
+      "title": "Atmosphere and depth via blur and glow",
+      "concepts": [
+        "scene atmosphere",
+        "background blur",
+        "glow effect"
+      ],
+      "description": "Atmospheric rendering is introduced to create separation between background and foreground. Blur is applied to background, with tweaks to shadows and highlights to preserve depth and a believable glow."
+    },
+    {
+      "start": "01:13:42",
+      "end": "01:20:21",
+      "title": "Directional light shaping and final polish",
+      "concepts": [
+        "left-side light",
+        "highlight dodge cautions",
+        "selective color balance",
+        "final adjustments"
+      ],
+      "description": "A strong left-side directional light is painted into the scene to add three-dimensionality. The speaker discusses selective use of highlight dodge to warm highlights, cautions about blue colors, and refining shadows to maintain color integrity."
+    },
+    {
+      "start": "01:20:21",
+      "end": "01:21:30",
+      "title": "Wrap and preview of next steps",
+      "concepts": [
+        "wrap-up",
+        "series continuation",
+        "identical processing for subsequent shots"
+      ],
+      "description": "The video closes with a note that subsequent shots in the Castle Mountain segment will follow the same processing approach, suggesting continuity in the series."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Three-zone processing concept (foreground/middle ground/sky)",
+      "timestamp": "00:02:32",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Dynamic range flattening to true-to-eye look",
+      "timestamp": "00:04:18",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Camera Raw-based per-zone adjustments",
+      "timestamp": "00:07:25",
+      "confidence": 0.7
+    },
+    {
+      "technique": "History Brush as layer-like painting for zone edits",
+      "timestamp": "00:11:06",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky color grading with color wheels and calibration",
+      "timestamp": "00:13:54",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Two-pass sky editing (tonal + color-based)",
+      "timestamp": "00:16:45",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Perspective warp and rule of trapezoids for sky alignment",
+      "timestamp": "00:42:24",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cloning and edge refinement for seamless sky blends",
+      "timestamp": "00:46:17",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Directional light painting and highlight dodge cautions",
+      "timestamp": "01:13:42",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Atmospheric blur to create depth and glow",
+      "timestamp": "01:02:18",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:48:43.597603+00:00"
+}

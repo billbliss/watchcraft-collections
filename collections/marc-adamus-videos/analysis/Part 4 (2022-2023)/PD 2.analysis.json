@@ -1,0 +1,205 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/PD 2.mp4",
+  "title": "Painted Deserts: Zone-based RAW to Photoshop workflow, sky manipulation, and multi-zone composites (PD 2)",
+  "date": {
+    "display": "2023-03-23",
+    "iso": "2023-03-23",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [
+    {
+      "name": "Painted Deserts",
+      "confidence": 0.9,
+      "basis": "Transcript repeatedly references Painted Deserts as the area of interest and the video title/subject."
+    },
+    {
+      "name": "Mexican Hat",
+      "confidence": 0.7,
+      "basis": "Explicit mention at 00:00:06.120 as a spot visited or discussed."
+    },
+    {
+      "name": "Puria",
+      "confidence": 0.5,
+      "basis": "Explicit mention at 00:00:12.060 as a spot near Mexican Hat; not asserted as a definitive shooting location."
+    },
+    {
+      "name": "Castleton (Castleton at sunrise)",
+      "confidence": 0.85,
+      "basis": "Explicit mention at 01:19:16 indicating a location/theme discussed or shown."
+    }
+  ],
+  "summary": "The video is a comprehensive, technique-heavy walkthrough of landscape processing in Lightroom/Camera Raw and Photoshop, focused on the “zone” approach to editing desert and canyon imagery. The host demonstrates starting with a deliberately flat, high-dynamic-range look, then non-destructively developing light and color through a sequence of steps that emphasize whites for glow, selective color, and color grading. He illustrates moving from one-zone shots to more complex multi-zone composites, including sky replacement, cloud manipulation, and the layering of light and depth. The narrative covers practical editing workflows (history states, clone stamp, puppet and perspective warp, de-haze), strategies for guiding the viewer’s eye, and the philosophical stance that many “abstract” desert images require only modest processing compared with grand landscapes. Several concrete examples (including a Castleton sunrise reference) anchor the discussion, and the presenter repeatedly emphasizes time-efficient, zone-aware editing as a core skill for landscape images.",
+  "topics": [
+    "Painted Deserts",
+    "Photoshop",
+    "Lightroom",
+    "Camera Raw",
+    "Selective Color",
+    "Color Grading",
+    "Whites Technique",
+    "Dynamic Range",
+    "One-Zone Shots",
+    "Two-Zone Shots",
+    "Five-Zone Shots",
+    "History Brush",
+    "Clone Stamp",
+    "Puppet Warp",
+    "Perspective Warp",
+    "Sky Replacement",
+    "Cloud Manipulation",
+    "Auto HDR",
+    "Dehaze",
+    "Tone Mapping",
+    "Leading Lines",
+    "Rule of Thirds",
+    "Castleton Sunrise",
+    "Mexican Hat",
+    "Desert Landscape",
+    "Depth in Photography",
+    "Edge Control",
+    "Vignetting",
+    "Editing Workflow",
+    "Non-Destructive Editing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:20",
+      "title": "Intro and zone philosophy in Painted Deserts",
+      "concepts": [
+        "Painted Deserts",
+        "zone-based processing",
+        "composition quality",
+        "video preview"
+      ],
+      "description": "The host opens by referencing other Painted Deserts videos and emphasizes the zone-based processing approach, noting the area’s strong compositions and absence of dead spaces."
+    },
+    {
+      "start": "00:02:20",
+      "end": "00:04:58",
+      "title": "Initial RAW prep: dynamic range expansion and flat starting point",
+      "concepts": [
+        "dynamic range",
+        "flat image",
+        "exposure suppression",
+        "RAW prep"
+      ],
+      "description": "The video describes expanding the dynamic range to create a flat, boring starting point, then suppressing exposure to leave room for developing light and color later in the workflow."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:07:04",
+      "title": "Non-destructive history workflow into Photoshop",
+      "concepts": [
+        "history recording",
+        "Camera Raw filter",
+        "non-destructive editing"
+      ],
+      "description": "The presenter records the editing steps in Photoshop history so adjustments can be revisited nondestructively, with a commitment to using Photoshop for its history capabilities."
+    },
+    {
+      "start": "00:07:04",
+      "end": "00:11:22",
+      "title": "One-zone processing and minimal Photoshop usage",
+      "concepts": [
+        "one-zone shot",
+        "sliders in RAW",
+        "minimal Photoshop"
+      ],
+      "description": "The speaker prioritizes one-zone processing for easier edits, highlighting the Whites technique and minimal Photoshop steps for flat images rather than multi-layer manipulations."
+    },
+    {
+      "start": "00:11:22",
+      "end": "01:19:16",
+      "title": "Depth, depth cues, and light painting in multi-zone work",
+      "concepts": [
+        "blur for depth",
+        "level of blacks transition",
+        "side-light painting",
+        "lead-in composition"
+      ],
+      "description": "The discussion shifts to introducing depth through selective blurring, layered adjustments, and painting light along ridges. The host demonstrates how to separate foreground/background zones and use brushes and light to guide the viewer’s eye through the frame."
+    },
+    {
+      "start": "01:19:16",
+      "end": "01:23:17",
+      "title": "Sky manipulation, cloud layers, and final multi-zone composites",
+      "concepts": [
+        "sky replacement",
+        "cloud manipulation",
+        "multi-zone composites",
+        "tone mapping",
+        "final refinements"
+      ],
+      "description": "In the concluding portion, the host showcases five-zone (and multi-zone) composites, cloud layer placement, sky substitutions, tonal adjustments, and final refinements, culminating in a vivid, depth-filled landscape with intentional light directions."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion to create a flat starting image",
+      "timestamp": "00:03:29",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Whites replacement to create glow and drive color",
+      "timestamp": "00:05:37",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Non-destructive editing using History and Photoshop recording",
+      "timestamp": "00:06:31",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Background blur to imply depth via painting with a level of blacks transition",
+      "timestamp": "00:08:21",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Directional side-light painting with hard/soft edge brushes",
+      "timestamp": "00:09:23",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Sky replacement using clone stamp and blending modes",
+      "timestamp": "00:26:20",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Puppet Warp and Perspective Warp for selective warping",
+      "timestamp": "00:39:51",
+      "confidence": 0.81
+    },
+    {
+      "technique": "Auto HDR for cloud texture and texture enhancement",
+      "timestamp": "00:50:51",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Tonal-based color adjustments to fix sky inconsistencies",
+      "timestamp": "01:05:41",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Rule of trapezoids for extended wide-angle feel",
+      "timestamp": "01:08:11",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Dehaze and color balance to sculpt stormy skies",
+      "timestamp": "01:17:56",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Cloud cloning with color-bound blending to fake clouds",
+      "timestamp": "00:35:58",
+      "confidence": 0.74
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:00:08.863912+00:00"
+}

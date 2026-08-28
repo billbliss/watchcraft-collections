@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/AK Fall 2-2.mp4",
+  "title": "AK Fall 2-2: Layered Glacier River Editing in Photoshop from Aerial Footage",
+  "date": {
+    "display": "circa 2025",
+    "iso": "2025",
+    "precision": "year",
+    "confidence": 0.6,
+    "basis": "Embedded file creation time 2025-09-18 and folder naming hint at the 2024–2025 production window."
+  },
+  "locations": [
+    {
+      "name": "Alaska (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript repeatedly references Alaska and a Badlands analogue set in Alaska; the exact shooting location is not explicitly confirmed."
+    }
+  ],
+  "summary": "The video presents a field-to-desk workflow for transforming dramatic glacier-river imagery into polished landscape photographs using Photoshop. The speaker walks through a sequence of practical edits on aerial/frontal glacier river shots, starting with aggressive shadow recovery and controlled exposure to preserve subtle details in glacial depths, then progressively shaping tonal contrast and color to emphasize depth and atmosphere. A core emphasis is the separation of image layers—especially sky, midground, and foreground—to create directional light and three-dimensionality, aided by dehaze, clarity, texture, and selective color adjustments. The tutorial demonstrates hands-on techniques for cropping to create focal points, faking missing river detail with cloning when needed, and applying staged color grades to produce fall colors while keeping natural balance. A distinctive portion explains the beam-creation technique using dehaze and painting, and another section covers perspective correction (warping) to preserve natural edges while enhancing layer separation. Throughout, the presenter discusses practical constraints (time, equipment like the Pro 3 drone and its storage, shutter choices like F4 vs F11) and emphasizes the painterly quality of “rock abstracts” and layered formations that define the composition. The video also references broader workflow concepts such as HDR exposure tuning, tonal-based color adjustments, and the importance of intentional composition over simply accumulating visually striking elements. Overall, the content offers a compact, repeatable set of Photoshop techniques for turning highly textured glacier landscapes into cinematic, multi-layered images. ",
+  "topics": [
+    "Drone imagery (DJI Pro 3 / Pro 3 Cine)",
+    "Exposure control with Shadows, Blacks, Whites, and Exposure",
+    "Two-pass shadow detail restoration",
+    "White balance and color temperature adjustments",
+    "Color separation by zones (sky, foreground, midground)",
+    "Dehaze, Clarity, Texture for layer separation",
+    "Soft and hard brush techniques for edge refinement",
+    "Selective color and HSL adjustments for fall colors",
+    "Color grading and temperature shifts to create atmosphere",
+    "Cropping for focal point and composition",
+    "Cloning to reconstruct missing river detail",
+    "Beam creation technique using dehaze",
+    "Edge warping and horizon correction",
+    "Warping all images to reduce lens distortion",
+    "HDR and auto-HDR considerations",
+    "Foreground/midground/background separation in editing",
+    "Rock abstracts and painterly layering in mountains"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:12:10",
+      "title": "Initial tonal adjustments and shadow recovery",
+      "concepts": [
+        "shadow expansion",
+        "expanding shadows",
+        "reducing exposure",
+        "maintaining highlight control",
+        "early texture and pattern evaluation"
+      ],
+      "description": "Begins with basic tonal balancing on glacial river imagery, emphasizing shadow detail recovery and early decisions about how much to suppress highlights before pulling up luminosity. The presenter notes the natural whiteness versus darker areas and demonstrates two passes of shadow/black adjustments to set a flat base for subsequent edits."
+    },
+    {
+      "start": "00:12:10",
+      "end": "00:29:59",
+      "title": "Layer separation concept and sky/midground emphasis",
+      "concepts": [
+        "layer separation",
+        "dehaze to reveal layers",
+        "eraser/soft brush refinement",
+        "whites/clipping and texture",
+        "color temp and whites toward directionality"
+      ],
+      "description": "Proceedes to separate image layers, first by dehazing and then by selectively painting separation masks to create distinct sky, midground, and foreground layers. The technique emphasizes enhancing directional light from a specific side, adjusting whites and color temperature, and using brushes to refine edges for natural layering."
+    },
+    {
+      "start": "00:29:59",
+      "end": "01:12:20",
+      "title": "Color tuning, fall color, and foreground emphasis",
+      "concepts": [
+        "fall color adjustments",
+        "selective color",
+        "green/yellow balance",
+        "color temperature adjustments",
+        "color grading for natural look"
+      ],
+      "description": "Demonstrates mass and selective color techniques to introduce fall color while maintaining natural balance. The workflow includes greens/yellows adjustments, tint considerations, and painting fall tones into strategic regions to guide the viewer’s eye toward the river and light patterns."
+    },
+    {
+      "start": "01:12:20",
+      "end": "01:56:20",
+      "title": "Rock abstracts and canyon/rock glacier considerations",
+      "concepts": [
+        "rock abstracts",
+        "crop for abstract focal points",
+        "texture emphasis via whites",
+        "edge refinement in abstracts"
+      ],
+      "description": "Discusses using painterly rock patterns and abstract crops to highlight textures and layers. The presenter explains selecting strong abstract elements and refining texture with white adjustments to balance contrast and depth."
+    },
+    {
+      "start": "01:56:20",
+      "end": "02:22:40",
+      "title": "Atmosphere, beams, and atmospheric separation",
+      "concepts": [
+        "atmospheric layering",
+        "beam creation technique",
+        "cloud and fog manipulation",
+        "drone vantage considerations"
+      ],
+      "description": "Focuses on maximizing atmosphere by enhancing layer separation and introducing light beams. The beam creation technique is demonstrated with dehaze and painted beams, including guidance on angle, hardness, and erasing overlaps. Talks about using weather and fog to create natural separation and drama."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Shadow detail expansion via multi-pass exposure and shadow/black adjustments",
+      "timestamp": "00:01:36",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Two-pass layer separation with dehaze/clarity and edge erasing for depth",
+      "timestamp": "00:06:30",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Beam creation technique using dehaze and painting with a hard edge brush",
+      "timestamp": "00:38:14",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Warping/perspective correction and horizon realignment for natural edges",
+      "timestamp": "00:42:15",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Color grading through white balance, selective color, and HSL for fall tones",
+      "timestamp": "00:55:11",
+      "confidence": 0.66
+    },
+    {
+      "technique": "HDR and auto-HDR emphasis to bring out beams and atmosphere",
+      "timestamp": "00:55:11",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Sky separation and tonal-based color adjustments to balance sky and fog",
+      "timestamp": "00:49:44",
+      "confidence": 0.63
+    },
+    {
+      "technique": "Color-separation by zones to enhance directional light and depth",
+      "timestamp": "00:05:50",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Edge/edge-painting technique for seamless layer integration",
+      "timestamp": "00:07:26",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:27:11.892795+00:00"
+}

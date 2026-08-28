@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/SW 1-3.mp4",
+  "title": "Desert Twilight Cactus: Zone-Based RAW Processing, Sky Synthesis, and Light-Driven Photoshop Techniques (Part 6, 2024)",
+  "date": {
+    "display": "2024-11-05",
+    "iso": "2024-11-05T02:38:30.000000Z",
+    "precision": "day",
+    "confidence": 0.4,
+    "basis": "Embedded creation_time metadata; treated as approximate unless independently confirmed by transcript content."
+  },
+  "locations": [
+    {
+      "name": "Moab, Utah (probable)",
+      "confidence": 0.25,
+      "basis": "Transcript references Moab as another shoot in the same trip; not stated as the shooting location for this video."
+    },
+    {
+      "name": "Hot Creek (probable)",
+      "confidence": 0.25,
+      "basis": "Transcript mentions a Hot Creek sunrise/shot as part of the broader trip; not confirmed as the current video location."
+    }
+  ],
+  "summary": "This instructional video is a detailed, field-to-post workflow focused on twilight desert imagery featuring cacti and distant mountains. The presenter demonstrates a zone-based approach to RAW/Photoshop processing, starting with a crop and then isolating sky, middle ground, and foreground highlights to balance exposure. Core techniques include dynamic-range expansion with whites and shadows, careful color shifts, and selective-color work to illuminate cactus glow; a custom sky gradient and vignette are painted in, followed by horizon-focused lighting created with dodge/burn, luminosity, and iterative color grading. He then walks through horizon emphasis, dehazing caveats, and the deliberate use of Gaussian blur separations to push background planes back, culminating in sky replacement via clone-stamping and careful edge handling. The video also touches on focus-stacking notes, field planning (vertical vs. horizontal crops), and the nuanced use of tools like the history brush, clone stamp, content-aware fill, and selective-color (50-150) to sculpt mood and guide viewer attention toward the light source. Throughout, the emphasis is on building a narrative through light paths, composition decisions, and iterative, non-destructive edits with a strong preference for preserving color integrity while revealing hidden shadow detail.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "dodge and burn",
+    "shadow dodge",
+    "shadow burn",
+    "highlights",
+    "whites",
+    "blacks",
+    "dynamic range",
+    "zone-based editing",
+    "sky gradient",
+    "desaturation",
+    "vignette",
+    "history brush",
+    "gradient tool",
+    "selective color",
+    "50-150 adjustment",
+    "color grading",
+    "luminosity masking",
+    "sky replacement",
+    "clone stamp tool",
+    "clone painting",
+    "content-aware fill",
+    "Gaussian blur",
+    "separation of layers",
+    "dehaze",
+    "Orton effect",
+    "extended dynamic range",
+    "focus stacking",
+    "vertical vs horizontal composition",
+    "foreground glow",
+    "horizon emphasis"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:55",
+      "title": "Intro and crop-focused workflow",
+      "concepts": [
+        "crop",
+        "zone-based framing",
+        "initial shot evaluation"
+      ],
+      "description": "Opening remarks set the scene for twilight cactus shots and introduce cropping as the first step. The presenter begins to break the image into zones and notes the importance of cropping first to simplify the composition."
+    },
+    {
+      "start": "00:01:55",
+      "end": "00:04:00",
+      "title": "Zone-based editing and midtone adjustments",
+      "concepts": [
+        "zones (sky, middle ground, highlights)",
+        "dynamic range expansion",
+        "whites adjustment"
+      ],
+      "description": "The shot is split into sky, middle ground, and cactus-highlight zones. The middle ground is selectively expanded for dynamic range, with exposure and whites refined and a color shift applied to minimize unintended hue shifts."
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:04:53",
+      "title": "Sky adjustments and vignette technique",
+      "concepts": [
+        "custom gradient",
+        "saturation reduction",
+        "vignette",
+        "history brush"
+      ],
+      "description": "A custom gradient is applied to desaturate the sky; color balance and a subtle vignette are painted in with the history brush to guide attention toward the horizon."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:05:04",
+      "title": "Return to RAW for middle-ground lift",
+      "concepts": [
+        "whites adjustment",
+        "color grading"
+      ],
+      "description": "Back in RAW, the middle-ground whites are dialed in with a light color-grade tweak to refine the focal area without overpowering the overall palette."
+    },
+    {
+      "start": "00:05:04",
+      "end": "00:07:31",
+      "title": "Selective color and cactus glow",
+      "concepts": [
+        "selective color",
+        "whites",
+        "brush painting",
+        "cactus highlight"
+      ],
+      "description": "The instructor uses whites with selective color to add warmth to the cactus light. He paints in glow selectively, explaining how this avoids affecting nearby foliage and maintains a cohesive look."
+    },
+    {
+      "start": "00:07:31",
+      "end": "00:12:15",
+      "title": "Horizon emphasis and sky coloration strategy",
+      "concepts": [
+        "color grading",
+        "horizon glow",
+        "dodge/burn",
+        "dehaze"
+      ],
+      "description": "Further refinements push the horizon as a focal point. Dodge/burn and selective color are used to create a subtle glow, with dehaze noted as a tool that can be risky if overused."
+    },
+    {
+      "start": "00:12:15",
+      "end": "00:16:20",
+      "title": "Simulated light source and structured glow steps",
+      "concepts": [
+        "dodge burn",
+        "luminosity",
+        "color grading",
+        "gradient"
+      ],
+      "description": "A structured, four-step approach to simulate a light source: haze/contrast handling, luminosity adjustments, color grading, and then re-applying the combined effect to emphasize the light path."
+    },
+    {
+      "start": "00:16:20",
+      "end": "00:20:20",
+      "title": "50-150 selective color and background separation",
+      "concepts": [
+        "selective color",
+        "luminosity",
+        "background vs foreground"
+      ],
+      "description": "The presenter demonstrates selective color at the 50-150 level to intensify warm light on red rocks and to push depth cues, while maintaining separation between background mountains and the foreground via controlled luminosity."
+    },
+    {
+      "start": "00:20:20",
+      "end": "00:28:50",
+      "title": "Sky replacement and depth layering with edge care",
+      "concepts": [
+        "sky replacement",
+        "clone stamp",
+        "Gaussian blur",
+        "edge blending",
+        "horizon integrity"
+      ],
+      "description": "Sky blending is tackled with the clone stamp and careful layer separation. Gaussian blur is used to push background mountains back, and edge handling is emphasized to avoid obvious seams. Horizon integrity is preserved by limiting changes to high regions and avoiding horizon distortion."
+    },
+    {
+      "start": "00:28:50",
+      "end": "01:00:00",
+      "title": "Workflow discipline and field-to-PS strategy",
+      "concepts": [
+        "workflow discipline",
+        "field planning",
+        "vertical vs horizontal crop",
+        "sky planning"
+      ],
+      "description": "The presenter stresses field planning for composition, discusses vertical vs horizontal crops, and explains how in-camera decisions (like light direction and sky presence) influence post-processing choices. He also notes challenges with card transfers and file management during a long editing session."
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:21:00",
+      "title": "Retouching refinements and color-control philosophy",
+      "concepts": [
+        "color balance",
+        "tonal adjustments",
+        "color calibration",
+        "blue-gold filter",
+        "selective color"
+      ],
+      "description": "A deeper dive into tonal-based color adjustments, color calibration, and a blue-gold filter discussion. The technique emphasizes keeping skies recolored via tonal adjustments rather than direct color paints, plus the use of the 50-150 selective color approach to energize specific tonal ranges in the scene."
+    },
+    {
+      "start": "01:21:00",
+      "end": "01:48:39",
+      "title": "Final passes, black-and-white detours, and wrap",
+      "concepts": [
+        "Orton effect",
+        "black-and-white workflow",
+        "content-aware fill",
+        "clone painting",
+        "HDR-like processing",
+        "image sequencing"
+      ],
+      "description": "The final segments compare color-rich processing with selective black-and-white iterations, including a discussion on the Orton diffusion, and a demonstration of the clone-paint/history-paint approaches for multi-shot consistency. The wrap emphasizes choosing sky and composition strategically, preserving horizon lines, and the value of saving layered histories for future revisits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cropping to frame and zone-based image segmentation",
+      "timestamp": "00:01:55",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dynamic range expansion with whites and shadows; selective color application",
+      "timestamp": "00:02:44",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Shadow dodge on midtones and greens to reveal detail",
+      "timestamp": "00:03:32",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Custom sky gradient plus vignette with history brush",
+      "timestamp": "00:04:03",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Selective color on whites to warm cactus highlights",
+      "timestamp": "00:06:35",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Horizon glow via dodge/burn, dehaze, and color grading",
+      "timestamp": "00:12:36",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Structured simulated light: four-step glow workflow (dehaze, luminosity, color grading, reapplication)",
+      "timestamp": "00:16:24",
+      "confidence": 0.72
+    },
+    {
+      "technique": "50-150 selective color to rescue night-sky color and rock tones",
+      "timestamp": "01:44:07",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Sky replacement with clone stamp and horizon-edge blending",
+      "timestamp": "00:55:22",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Clone painting and history brush workflow (pre-2018 style reference)",
+      "timestamp": "01:05:25",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Content-aware fill to remove distractions",
+      "timestamp": "00:42:38",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Gaussian blur separation of layers to push background depth",
+      "timestamp": "00:25:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Orton-like diffusion for background mood",
+      "timestamp": "01:34:50",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:43:29.296047+00:00"
+}

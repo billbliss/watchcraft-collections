@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Technical Fundamentals 2025.mp4",
+  "title": "Foundations of Focus, Depth of Field, and Focus Stacking in Landscape Photography",
+  "date": {
+    "display": "2025-05-26",
+    "iso": "2025-05-26T11:29:15Z",
+    "precision": "day",
+    "confidence": 0.75,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [
+    {
+      "name": "fjord",
+      "confidence": 0.6,
+      "basis": "Explicit mention in transcript describing a shot taken in a fjord ("
+    },
+    {
+      "name": "fjord",
+      "confidence": 0.6,
+      "basis": "Explicit mention in transcript describing a shot taken in a fjord"
+    }
+  ],
+  "summary": "This video presents a practitioner-focused examination of technical foundations in photography, emphasizing how focus, depth of field, and exposure interact in landscape work. It covers the determinants of depth of field (optics size, focal length, and aperture), clarifies the meaning of minimum focus distance versus hyperfocal distance, and explains when and how to employ focus stacking (including bracketing and automatic vs. manual workflows). The instructor discusses equipment differences (Canon vs. Nikon/Sony) for stacking, practical workflow steps (loading, aligning, and blending in Helicon Focus or Photoshop), and the realities of dynamic range and exposure in the field. The latter sections delve into wide-angle composition, distortion-based rules (the big-to-small approach and a practical 45-degree guideline), and the dangers and trade-offs of stacking in challenging conditions. The presentation uses field examples and cautions against over-reliance on single-shot techniques, emphasizing practice, tripods when possible, and thoughtful exposure control.",
+  "topics": [
+    "focus",
+    "exposure",
+    "depth of field",
+    "hyperfocal distance",
+    "minimum focus distance",
+    "focus stacking",
+    "focus bracketing",
+    "Helicon Focus",
+    "Photoshop focus stack workflow",
+    "auto-align",
+    "dynamic range",
+    "highlight recovery",
+    "raw processing",
+    "tripod usage",
+    "Canon vs Nikon focus stacking",
+    "wide-angle distortion",
+    "big-to-small leading lines",
+    "45-degree composition rule",
+    "foreground-background separation",
+    "composition with foreground and background",
+    "stitching vs stacking",
+    "manual blending"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:14:00",
+      "title": "Foundations: Focus and Exposure",
+      "concepts": [
+        "focus",
+        "exposure",
+        "two foundational categories"
+      ],
+      "description": "Introduces the idea that a solid foundation in both focus and exposure is necessary before artistic decisions. Highlights that problems in focus or exposure hamper subsequent creative steps, and frames the discussion around the core questions: where to focus and which aperture to use."
+    },
+    {
+      "start": "01:14:00",
+      "end": "05:57:00",
+      "title": "Depth of Field and the Variables That Shape It",
+      "concepts": [
+        "depth of field",
+        "optics size",
+        "focal length",
+        "aperture",
+        "minimum focus distance",
+        "hyperfocal distance"
+      ],
+      "description": "Explains that depth of field is controlled by physical attributes of the lens and camera system. The speaker notes that smaller optics yield more depth of field, discusses how focal length and aperture influence DOF, and clarifies common misconceptions about minimum focus distance versus the hyperfocal distance."
+    },
+    {
+      "start": "06:32:00",
+      "end": "16:16:00",
+      "title": "Focus Stacking: When and How to Use It",
+      "concepts": [
+        "focus stacking",
+        "focus bracketing",
+        "Helicon Focus",
+        "Photoshop",
+        "step width",
+        "maximum shots",
+        "auto-align"
+      ],
+      "description": "Outlines the decision framework for using focus stacking. Addresses its benefits and pitfalls, including how to set overlap (step width) and how many shots may be required. Explains that stacking is not a universal fix and outlines situations where it excels (e.g., highly detailed, static subjects) and where it can fail (moving elements, complex textures). Distinguishes between auto-stack modes and manual approaches."
+    },
+    {
+      "start": "16:16:00",
+      "end": "22:12:00",
+      "title": "Stacking Workflow, Hardware Differences, and Alignment",
+      "concepts": [
+        "Canon vs Nikon/Sony performance",
+        "tripod necessity",
+        "load files into stack",
+        "auto-align",
+        "Helicon Focus",
+        "Photoshop alignment"
+      ],
+      "description": "Describes practical workflow steps for stacking, including importing files into stacks, ensuring alignment, and considerations around tripod use. Highlights notable performance differences among brands (Canon versus Nikon/Sony) and explains why tripods are often essential for reliable auto-alignment."
+    },
+    {
+      "start": "23:29:00",
+      "end": "28:58:00",
+      "title": "Manual Blending and Edge Handling in Focus Stacks",
+      "concepts": [
+        "manual blending",
+        "hard edge painting",
+        "edge alignment",
+        "blurred edges"
+      ],
+      "description": "Details techniques for manual blending when automated alignment is imperfect or when edge transitions require careful control. Demonstrates using hard-edge brushes to blend seams and discusses the trade-offs and limitations of this approach in complex scenes."
+    },
+    {
+      "start": "38:24:00",
+      "end": "46:59:00",
+      "title": "Exposure, Dynamic Range, and In-Camera Considerations",
+      "concepts": [
+        "dynamic range",
+        "exposure",
+        "highlight recovery",
+        "RAW processing",
+        "exposure latitude",
+        "ETTR vs proper exposure"
+      ],
+      "description": "Examines how much dynamic range a sensor provides and how to maximize recoverable detail in highlights and shadows. Discusses histogram reading, highlight alerts, RAW processing in Camera Raw/Lightroom, and cautions against over-extending exposure adjustments, emphasizing that a well-exposed single shot can often replace multi-shot HDR under practical field conditions."
+    },
+    {
+      "start": "47:31:00",
+      "end": "58:24:00",
+      "title": "Wide-Angle Composition: Distortion, 45-Degree Rule, and Leading Lines",
+      "concepts": [
+        "wide-angle distortion",
+        "45-degree rule",
+        "big-to-small",
+        "foreground-background separation",
+        "camera position",
+        "tilt and distance",
+        "composition with distortion"
+      ],
+      "description": "Covers how wide-angle lenses distort perspective and how to position yourself to exploit that distortion for strong leading lines and subject emphasis. Introduces a practical 45-degree guideline for achieving a pleasing big-to-small transition, including a visual, degrees-based approach to lens-to-subject geometry and tilt adjustments to maximize subject dominance within the frame."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Focus stacking with Helicon Focus",
+      "timestamp": "00:08:16",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual blending with hard-edge brush in Photoshop",
+      "timestamp": "00:23:29",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Automatic focus stacking workflow and tripod considerations",
+      "timestamp": "00:21:40",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Hyperfocal distance and focus planning without tape measures",
+      "timestamp": "00:34:02",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Big-to-small leading lines using 45-degree distortion with wide-angle",
+      "timestamp": "00:50:07",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:16:56.890842+00:00"
+}

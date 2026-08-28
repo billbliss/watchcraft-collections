@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Alaska Summer 1-5.mp4",
+  "title": "Alaska Summer – Advanced landscape post-processing: color grading, HDR notes, fog composites, and clone-paint workflows",
+  "date": {
+    "display": "2024-07-19",
+    "iso": "2024-07-19",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [
+    {
+      "name": "Mickhoff Island (explicit mention; probable shooting context)",
+      "confidence": 0.65,
+      "basis": "Explicit reference in transcript around 00:18:50–00:19:02: “Mickhoff island”"
+    },
+    {
+      "name": "Alaska (inferred from title/path)",
+      "confidence": 0.6,
+      "basis": "Video title 'Alaska Summer' and filename 'Alaska Summer 1-5.mp4' suggesting geographic context; transcript does not state location explicitly"
+    }
+  ],
+  "summary": "The video excerpt presents a landscape photographer detailing on-location shooting considerations and an extended post-processing workflow focused on dramatic color development, mid-ground light shaping, haze and fog management, and multi-shot compositing. Core techniques shown include additive color grading with multiple passes to enhance color, targeted mid-ground curve and color-temperature adjustments to steer the eye toward a light source, shoreline lighting treatment for three-dimensional feel, and selective de-emphasis or emphasis via whites and contrast. The presenter also discusses practical non-destructive editing strategies such as auto HDR analysis to identify dust, foreground-background blending across shots (including mountain overlay and sky replacement), and a thorough clone-paint workflow with versioning to preserve alternate states. Throughout, he emphasizes composition rules (symmetry and deliberate cropping) and the iterative nature of combining multiple exposures and textures to achieve a cohesive final image.",
+  "topics": [
+    "Alaska",
+    "Alaska Photography",
+    "fog",
+    "valley",
+    "island",
+    "Mickhoff Island",
+    "drone",
+    "drone photography",
+    "color grading",
+    "additive color grading",
+    "midtone curve",
+    "color temperature",
+    "tint",
+    "whites adjustment",
+    "dehaze",
+    "HDR",
+    "auto HDR",
+    "dust spots",
+    "sensor dust",
+    "focus stacking",
+    "foreground isolation",
+    "background clarity",
+    "sky replacement",
+    "clone stamp",
+    "clone painting",
+    "non-destructive editing",
+    "versioning",
+    "compositing",
+    "layer blending",
+    "transitions",
+    "composition",
+    "symmetry",
+    "cropping",
+    "workflow",
+    "post-processing",
+    "landscape processing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:05",
+      "title": "On-location setup and initial color notes",
+      "concepts": [
+        "tripod usage",
+        "camera height",
+        "color development",
+        "composition prep"
+      ],
+      "description": "Opening discussion highlights practical on-site setup (noting the 7-foot tripod use and the habit of shooting higher for better light) and introduces the emphasis on post-processing color development, including the notion that blown-out areas may be acceptable within the shot. The segment frames early intent around color as a driver of the final image."
+    },
+    {
+      "start": "00:04:06",
+      "end": "00:06:29",
+      "title": "Early color development workflow and additive grading",
+      "concepts": [
+        "additive color grading",
+        "multiple passes",
+        "color temperature",
+        "tint",
+        "midground lighting"
+      ],
+      "description": "The presenter explains an additive color grading approach, applying the tool in two passes to intensify color. They adjust color temperature and tint, and begin shaping middle-ground illumination to direct attention toward light coming from the right. The process includes iterative tweaking to achieve the desired purple/or morning tones and to balance the sky with the middle ground."
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "title": "Composition, shoreline treatment, and edge lighting",
+      "concepts": [
+        "three-dimensional shoreline",
+        "layered lighting",
+        "selective warmth",
+        "edge lighting"
+      ],
+      "description": "Discussion shifts to shoreline treatment and creating a three-dimensional feel by layering warmth in the shore area and adjusting contrast. The speaker emphasizes directing the eye with light, mid-ground warmth, and selective edge lighting, including notes on reducing excess mid-ground detail to preserve composition and depth."
+    },
+    {
+      "start": "00:09:31",
+      "end": "00:12:39",
+      "title": "Managing fog, foreground, and focus considerations",
+      "concepts": [
+        "fog management",
+        "focus decisions",
+        "foreground detail",
+        "background focus"
+      ],
+      "description": "The dialogue covers handling fog in the scene, exploring how foreground and background elements interact with depth. There is a focus-stacking discussion and a consideration of keeping the background in focus when not stacking, along with a note on how fog and foreground interplay affects overall sharpness and composition."
+    },
+    {
+      "start": "00:12:40",
+      "end": "00:17:15",
+      "title": "Sky and foreground blending; selective color adjustments",
+      "concepts": [
+        "gradient blending",
+        "sky replacement",
+        "inverse selection",
+        "layer masking"
+      ],
+      "description": "A sequence demonstrates isolating the sky and blending a desired sky with the foreground using inverse selections. They mention selectively applying the sky layer and adjusting layers to achieve a cohesive look, including edge refinements and color consistency across sky and terrain."
+    },
+    {
+      "start": "00:17:16",
+      "end": "00:20:04",
+      "title": "Shadow, haze, and final toning passes",
+      "concepts": [
+        "de-haze",
+        "haze control",
+        "final whites adjustments",
+        "tonal balance"
+      ],
+      "description": "The tutorial transitions into subtle haze control via de-haze and fine-tuning of whites to achieve cleaner separation and a more atmospheric look. The speaker notes the impact of white adjustments on the overall tonal balance and color feel of the scene."
+    },
+    {
+      "start": "00:20:05",
+      "end": "00:25:52",
+      "title": "Non-destructive editing and versioning with clone painting",
+      "concepts": [
+        "clone painting",
+        "non-destructive editing",
+        "versioning",
+        "history states"
+      ],
+      "description": "A substantial section covers a non-destructive workflow: saving multiple versions (or history states) of an image, then using clone painting to blend between states without permanently flattening the file. The host explains sampling across two versions, using opacity to blend, and the logic of “docking” different states for selective recombination, emphasizing non-destructive editing and future reversion."
+    },
+    {
+      "start": "00:25:53",
+      "end": "00:28:01",
+      "title": "Philosophy, final notes, and drone commentary",
+      "concepts": [
+        "composition philosophy",
+        "drone usage",
+        "framing balance"
+      ],
+      "description": "Concluding remarks touch on the photographer’s broader philosophy about composition (e.g., symmetry and strategic cropping) and reflect on equipment choices (including drone work) and the uniqueness of certain moments, underscoring the iterative, exploratory nature of landscape processing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Additive color grading with repeated passes to heighten color, then refine with white and tone curve adjustments",
+      "timestamp": "00:01:13",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Mid-ground curve adjustment plus color temperature and tint tweaks to direct light in the scene",
+      "timestamp": "00:01:49",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Three-dimensional shoreline emphasis through selective warmth and edge lighting",
+      "timestamp": "00:03:16",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Auto HDR workflow to inspect dust spots and push selective contrast (clarity/shadows/noise reduction)",
+      "timestamp": "00:05:06",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Fog-to-foreground compositing by overlaying mountains and adjusting opacity for seamless blend",
+      "timestamp": "00:10:36",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective color erase to create a clean montage path (erase tree line via color range) and reapply foreground mountains",
+      "timestamp": "00:12:25",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Sky replacement via inverse selection to blend a simpler sky with the foreground",
+      "timestamp": "00:14:11",
+      "confidence": 0.71
+    },
+    {
+      "technique": "De-haze and targeted haze adjustments to unify layers and enhance depth",
+      "timestamp": "00:16:06",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Non-destructive clone-paint workflow with versioning and sample-from-one-state-to-another blending",
+      "timestamp": "00:20:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone-stamp sampling across two saved states to blend with precise opacity (visual preview before applying)",
+      "timestamp": "00:23:48",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:37:24.074806+00:00"
+}

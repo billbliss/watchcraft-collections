@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ Winter 1-2.mp4",
+  "title": "Backlit scene color grading, highlight recovery, and focal-point emphasis (post-production tutorial)",
+  "date": {
+    "display": "June 17, 2025",
+    "iso": "2025-06-17T05:59:34.000Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; folder name indicates a 2024-2025 session window"
+  },
+  "locations": [],
+  "summary": "This video presents a focused post-production workflow for a backlit scene. The presenter identifies a blue cast and gaps, then outlines a sequence of local adjustments to remove the blue, brighten surrounding areas, and introduce light and color to achieve a rainforest-like look. The process emphasizes painting adjustments rather than applying diffuse effects, avoids adding haze or texture to walls, and uses a targeted brush approach to enhance a sun-star highlight as a focal point. The transcript documents a two-part adjustment strategy (blue removal, then light/color) followed by color fine-tuning (green/gold warmth) and a final focal-point boost. The overall takeaway is an iterative, non-destructive workflow focused on selective color, exposure, and focal emphasis rather than global corrections.",
+  "topics": [
+    "backlit scene post-production",
+    "blue color cast removal",
+    "local exposure adjustment",
+    "global vs. local color grading",
+    "green and gold color grading for rainforest look",
+    "painting adjustments with brush tool",
+    "targeted highlight recovery strategies",
+    "enhancing sun-star/focal point",
+    "avoidance of haze, diffusion, or texture addition",
+    "keeping color and light natural around edges",
+    "edge color bleed management",
+    "avoid darkening blown-out areas; brighten surrounding areas",
+    "iterative adjustment workflow (Adjustment 1, Adjustment 2)",
+    "non-destructive editing through selective painting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:08",
+      "title": "Scene assessment and initial blue-cast mitigation",
+      "concepts": [
+        "exposure assessment",
+        "identify blue cast",
+        "avoid adding wall texture",
+        "goal-oriented minimal intervention"
+      ],
+      "description": "The presenter notes a well-exposed shot but a visible blue cast and a gap that could be improved compositionally. The plan is to avoid introducing texture or haze while beginning a targeted blue-reduction pass. This establishes the decision to perform a gradual, selective correction rather than a broad, global adjustment."
+    },
+    {
+      "start": "00:01:08",
+      "end": "00:02:58",
+      "title": "Blue removal and first light/color pass",
+      "concepts": [
+        "blue reduction across the majority of the frame",
+        "beginning of light and color adjustments",
+        "avoidance of diffusion or haze",
+        "preparation for highlight and color balance"
+      ],
+      "description": "Adjustment number one focuses on reducing blue; adjustment number two introduces a light/color pass. The speaker emphasizes that the fix for a blown or biased area is to lift surrounding light rather than darken the area, and they describe applying brighter color shifts across the composition to normalize tonal relationships."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:25",
+      "title": "Green/gold color grading and brightness emphasis",
+      "concepts": [
+        "exposure increase",
+        "green-gold color grading",
+        "painting color into the mid-shot",
+        "definition of a rainforest-like palette"
+      ],
+      "description": "The workflow introduces a green-gold tint to evoke a canyon/rainforest ambiance. The adjustments are painted into the center of the frame to add warmth and light without introducing diffraction or diffuse effects. The presenter shows layering warmth and saturation to integrate the new color into the image and make highlights feel cohesive with surrounding tones."
+    },
+    {
+      "start": "00:03:25",
+      "end": "00:03:55",
+      "title": "Focal-point enhancement and final brush work",
+      "concepts": [
+        "enhancing sun-star highlights",
+        "brightening a chosen area for focal emphasis",
+        "brush-size control and practical workflow note"
+      ],
+      "description": "A final pass focuses on the sun-star area to create a more pronounced focal point. The speaker brightens a small region and adds warmth to that zone, then acknowledges a brush-size limitation and completes the focal-point enhancement. The conclusion highlights a concise, purposeful finish to the sequence."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Global blue-cast removal followed by a light-and-color pass",
+      "timestamp": "00:01:11",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Selective exposure increase and green/gold color grading",
+      "timestamp": "00:02:04",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Paint-on adjustments to center mid-shot and avoid haze",
+      "timestamp": "00:02:07",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Focal-point emphasis through targeted brightening of a sun-star",
+      "timestamp": "00:03:19",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:54:55.374739+00:00"
+}

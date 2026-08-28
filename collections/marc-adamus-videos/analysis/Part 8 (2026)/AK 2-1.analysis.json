@@ -1,0 +1,205 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/AK 2-1.mp4",
+  "title": "Alaska Workshop Part 8: Focus Stacking, Light Mastery, Beams, and Panorama in Photoshop (AK 2-1)",
+  "date": {
+    "display": "2026-07-27",
+    "iso": "2026-07-27",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time: 2026-07-27T02:51:39.000000Z; filename/path indicates 2026 production (Part 8 AK 2-1)"
+  },
+  "locations": [
+    {
+      "name": "Alaska (probable ice cave/glacier site)",
+      "confidence": 0.55,
+      "basis": "Transcript explicitly references an Alaska trip; visuals show glaciers/ice cave features; no exact site coordinates are provided."
+    }
+  ],
+  "summary": "This video presents a photographer’s hands-on walkthrough of a full Photoshop/RGB workflow centered on a distinctive, simplified toolset. It covers initial shot evaluation on an Alaska trip, focus-stacking to expand depth of field, and then a detailed post-production process that builds a convincing light source, colors, and depth through layered RAW adjustments, diffusion, color grading, and selective color. The instructor emphasizes practical constraints (e.g., focus-stack imperfections, glacier edges) and demonstrates a mix of time-saving history-based edits, painting with the history brush, clone-stamping for edge alignment, beam creation for architectural light, and panorama stitching with PT GUI, while cautioning about tool choices and the physics of light in landscape scenes like ice caves and glaciers.",
+  "topics": [
+    "PHOTOSHOP workflow philosophy",
+    "focus stacking",
+    "aperture planning (F9 vs F16)",
+    "stack file loading",
+    "auto-align layers",
+    "auto-blend layers",
+    "content-aware fill",
+    "focus stacking limitations",
+    "history brush",
+    "shadow dodge",
+    "mid-tone dodge",
+    "RAW adjustments (sky, shadows, warmth)",
+    "diffusion/haze",
+    "glow via luminosity",
+    "color grading",
+    "selective color",
+    "blue/mauve/greens color balance",
+    "clone stamp for edge cleanup",
+    "beams creation technique",
+    "hard-edged brush 60-70%",
+    "clone/erase side of beams",
+    "gradient lighting",
+    "panorama stitching in PT GUI",
+    "dynamic range matching",
+    "rule of trapezoids (panorama)",
+    "perspective distortion and puppets warp",
+    "mirroring for spheres",
+    "crop and composition",
+    "drone shot limitations",
+    "tripod vs handheld workflow"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:50",
+      "title": "Intro: workflow philosophy and toolset",
+      "concepts": [
+        "personal workflow",
+        "minimal RAW toolset (5-6 tools)",
+        "avoid traditional Photoshop complexity",
+        "vision-driven editing"
+      ],
+      "description": "The presenter lays out a philosophy of working with a small, fixed toolset and a clear visual goal, arguing for a simple, repeatable process rather than learning every Photoshop feature."
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:09:30",
+      "title": "Foundations of focus stacking and exposure decisions",
+      "concepts": [
+        "focus stacking",
+        "aperture decisions (F9 vs F16)",
+        "depth planning",
+        "three-stack practice"
+      ],
+      "description": "Discussion of focusing strategy, why smaller apertures yield more depth and how to choose exposures for stacking. The speaker emphasizes overlap between frames and explains why some aperture choices (e.g., F9) may fail to resolve all planes."
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:15:00",
+      "title": "Stack assembly workflow in Photoshop",
+      "concepts": [
+        "load files into stack",
+        "auto align layers",
+        "auto blend",
+        "content-aware fill"
+      ],
+      "description": "Instructions for bringing stack files into Photoshop, aligning and blending layers, and filling transparencies. The speaker notes limitations and how some elements (like the glacier) may still blur after stacking."
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:32:50",
+      "title": "Post-stack lighting and zone-based processing",
+      "concepts": [
+        "four zones: sky/middle ground/glacier/flowers",
+        "light source construction",
+        "RAW adjustments to sky",
+        "diffusion/haze to create glow",
+        "color grading and luminosity"
+      ],
+      "description": "Transition to shaping light and color, treating the scene as four processing zones, and using RAW adjustments plus diffusion to create a natural glow and directional lighting that emphasizes the cave opening."
+    },
+    {
+      "start": "01:16:51",
+      "end": "01:21:07",
+      "title": "Beam creation technique and color refinement",
+      "concepts": [
+        "beam creation technique",
+        "60-70% brush hardness",
+        "1000-1500 px brush",
+        "erasing one side with a larger soft brush",
+        "gradual color/temperature adjustments"
+      ],
+      "description": "Introduction to a specialized technique for creating light beams: precise brush hardness and size, painting beams, then erasing one side to sharpen and intensify, followed by color balancing to integrate beams with the scene."
+    },
+    {
+      "start": "01:21:07",
+      "end": "01:35:38",
+      "title": "Panorama, stitching, and final compositing",
+      "concepts": [
+        "PT GUI panorama",
+        "exposure matching via post-processing shifts",
+        "dynamic range handling",
+        "rule of trapezoids to unsquish top/bottom",
+        "perspective/puppet warp",
+        "mirroring and cropping"
+      ],
+      "description": "Discussion of assembling panoramas from multiple shots, adjusting exposure to match frames, addressing distortions with trapezoid rules, and using warp tools to create believable wide views; includes mirroring for sphere stitching and final crop decisions."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Focus stacking",
+      "timestamp": "00:02:24.700",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Loading files into stack; auto-align layers; auto-blend",
+      "timestamp": "00:09:00.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "History brush usage to apply previous steps",
+      "timestamp": "00:17:46.000",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Shadow/mid-tone dodging to sculpt lighting",
+      "timestamp": "00:16:27.000",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Diffusion/haze layering and glow composition",
+      "timestamp": "00:19:02.780",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Selective Color for targeted color adjustments",
+      "timestamp": "00:27:13.120",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Beams creation technique (high-contrast beams)",
+      "timestamp": "01:16:51.280",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Panorama stitching in PT GUI; exposure matching",
+      "timestamp": "01:25:07.720",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Rule of trapezoids for panorama unsquish",
+      "timestamp": "01:33:24.300",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Mirroring to stitch sphere-like panoramas",
+      "timestamp": "01:31:08.660",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Puppet warp adjustments for panorama warping",
+      "timestamp": "01:34:50.740",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color grading with selective highlights in the sky",
+      "timestamp": "01:08:45.860",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Blow out highlights to white (whites adjustment)",
+      "timestamp": "01:09:36.080",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Cloning and edge cleanup to align glacier edges",
+      "timestamp": "01:36:02.780",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:24:08.048655+00:00"
+}

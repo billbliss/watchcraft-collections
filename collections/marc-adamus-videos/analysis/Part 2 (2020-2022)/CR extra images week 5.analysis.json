@@ -1,0 +1,169 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/CR extra images week 5.mp4",
+  "title": "Layered Winter Landscape Processing: Dodge, Mist, Sky Replacement, and Depth with Atmosphere",
+  "date": {
+    "display": "February 4, 2022",
+    "iso": "2022-02-04",
+    "precision": "day",
+    "confidence": 0.72,
+    "basis": "embedded_creation_time (2022-02-04T04:30:46.000000Z) and transcript context"
+  },
+  "locations": [
+    {
+      "name": "Eastern Sierra / Death Valley (referenced in video as a related resource)",
+      "confidence": 0.55,
+      "basis": "Explicit mention of 'Eastern Sierra Death Valley video' as a reference; not asserted as the shooting location"
+    }
+  ],
+  "summary": "The video presents a practitioner’s walkthrough of a winter landscape image in Photoshop and Camera Raw, emphasizing non-destructive tonal control, color consistency, and depth through atmospheric effects. The workflow centers on creating a tonal foundation with dodge and burn (distinguishing mid-tone vs. shadow dodging), then refining the sky and distant mountains with selective color grading, mist, and texture adjustments in RAW. The presenter demonstrates multiple passes: painting in light from a left-side key, reducing sky blue saturation, re-saturating highlights, and building a consistent sky color to avoid color aberrations. Subsequent sections cover texture and water/ice detail, then move into depth separation via fog and atmospheric layering using a combination of dodge/shadow dodge, clone stamping across layered composites, and manual masking. The workflow also includes horizon-leading composition through perspective warp, a deliberate sky replacement workflow (with caution about stock skies), and an Orton-type softening technique to create a dreamlike glow. The speaker stresses the importance of guiding the viewer’s eye toward the source of light, maintaining three-dimensionality through atmospheric depth, and using iterative before/after checks and history brushes to refine selectively. The transcript demonstrates practical tool use (dodge/burn, history brush, clone stamp, layer masks, perspective warp, sky replacement, HDR techniques, and RAW adjustments) across a sequence of examples, including several notes on potential pitfalls (color shifts, sensor artifacts, over-application of clarity, and the risks of graduated filters).",
+  "topics": [
+    "Adobe Photoshop",
+    "Camera Raw",
+    "Dodge and Burn",
+    "Mid-tone Dodge",
+    "Shadow Dodge",
+    "History Brush",
+    "Clone Stamp",
+    "Layer Masks",
+    "Perspective Warp",
+    "Sky Replacement",
+    "HDR",
+    "Auto HDR",
+    "Orton Effect",
+    "Texture",
+    "Clarity",
+    "Whitewater",
+    "Mist / Fog",
+    "Atmospheric Perspective",
+    "Leading Lines",
+    "Depth Separation",
+    "Selective Color",
+    "Color Grading",
+    "Magenta Tones",
+    "Winter Landscape",
+    "Ice and Water Texture",
+    "Color Temperature",
+    "Sky Color Consistency",
+    "Non-destructive Editing",
+    "Three-Dimensionality"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:05:15",
+      "title": "Establishing tonal foundation with dodge/burn and left-side light",
+      "concepts": [
+        "Dodge and burn for tonal foundation",
+        "Mid-tone vs shadow dodge impacts on color saturation",
+        "Left-side illumination to set a directional light cue"
+      ],
+      "description": "The speaker avoids over-processing color early on to prevent sky noise from becoming color artifacts. They apply mid-tone dodge to brighten the left side without altering color, then use shadow dodge with color considerations, establishing a tonal base intended to be refined later in RAW. The left-side illumination is emphasized as the directional light source to guide subsequent color grading and depth. "
+    },
+    {
+      "start": "00:05:15",
+      "end": "00:12:53",
+      "title": "Sky color correction and selective highlights in RAW",
+      "concepts": [
+        "Selective sky adjustments",
+        "Blue reduction and warm highlight color",
+        "Harmonics of light to maintain color consistency"
+      ],
+      "description": "The process shifts to refining the sky only, reducing blue, then applying a color grade that lightens highlights on the right and preserves a uniform sky color. The narrator demonstrates applying a color grade to specific zones and discusses extending adjustments to the mountains to avoid color aberrations."
+    },
+    {
+      "start": "00:12:53",
+      "end": "00:22:20",
+      "title": "Texture, mist, and initial global tweaks in RAW; mist color control",
+      "concepts": [
+        "Texture and clarity on ice/mist",
+        "Global magenta wash and white balance",
+        "Mist color targeting and dehaze adjustments"
+      ],
+      "description": "The video shows adjusting texture and clarity on ice near the water, then using Camera Raw to push a magenta-tinted twilight feel. The mist is addressed individually for color and saturation, aiming for a subtly warmer, purple-tinged mist that remains cohesive with the sky."
+    },
+    {
+      "start": "00:22:20",
+      "end": "00:33:50",
+      "title": "Atmosphere-driven depth: fog, mid-ground mist, and mountain separation",
+      "concepts": [
+        "Fog/mist to create depth",
+        "Sierra Fall Colors technique reference",
+        "Sharp/soft edge brush usage for atmospheric separation"
+      ],
+      "description": "The instructor introduces fog and mist in the middle ground to separate layers and create perceived depth. They refer to a previously shared Sierra Fall Colors technique video and then demonstrate edge control (hard vs soft brushes) to separate mountains and emphasize spatial layering."
+    },
+    {
+      "start": "00:33:50",
+      "end": "01:01:22",
+      "title": "Sky replacement, multi-layer compositing, and perspective-leading lines",
+      "concepts": [
+        "Sky replacement workflow",
+        "Two-version approach (sky vs. no-sky) and layer blending",
+        "Perspective warp to create leading lines toward light"
+      ],
+      "description": "Discussion and application of sky replacement, including masking and painting the sky selectively onto the mountain silhouette. The presenter advocates using your own skies rather than stock ones, shows layering Sky+Mountain, and uses a perspective warp to craft strong leading lines directing the viewer toward the light source. They also demonstrate painting only the desired sky elements into the inverse selection to preserve mountains."
+    },
+    {
+      "start": "01:01:22",
+      "end": "01:02:43",
+      "title": "Final polish: fog, depth, and light balance; concluding notes",
+      "concepts": [
+        "Orton-esque glow (blur + luminosity)",
+        "Selective enhancements on fog and mid-ground",
+        "Guiding eye to light direction and viewer motion"
+      ],
+      "description": "The final passes cover a broad Orton-style glow by applying a broad blur with luminosity, reinforcing fog to diffuse the mid-ground and re-balance color toward the sunrise palette. The speaker emphasizes the central idea that lighting should guide the viewer's eye, with subtle hints of sunrise on certain mountains and reeds, and a careful use of fog to maintain depth without overwhelming the composition."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dodge and Burn for tonal foundation",
+      "timestamp": "00:00:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Sky color refinement and selective RAW grading",
+      "timestamp": "00:05:15",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Texture/clarity adjustments on ice and water",
+      "timestamp": "00:12:53",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Atmospheric fog/mist to create depth",
+      "timestamp": "00:22:20",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Perspective warp and leading lines",
+      "timestamp": "00:41:09",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sky replacement and multi-layer compositing",
+      "timestamp": "00:32:34",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Orton effect (blur + luminosity) for dreamy glow",
+      "timestamp": "00:43:40",
+      "confidence": 0.74
+    },
+    {
+      "technique": "Depth separation via fog and selective masking (clone-stamp workflow)",
+      "timestamp": "00:50:50",
+      "confidence": 0.77
+    },
+    {
+      "technique": "HDR/Auto HDR exploration for texture and lines",
+      "timestamp": "00:11:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:36:43.342224+00:00"
+}

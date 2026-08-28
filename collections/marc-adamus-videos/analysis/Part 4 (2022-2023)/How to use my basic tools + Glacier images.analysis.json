@@ -1,0 +1,163 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/How to use my basic tools + Glacier images.mp4",
+  "title": "Four-Zone, Brush-Based Landscape Processing in Photoshop/Camera Raw",
+  "date": {
+    "display": "2022-10-10",
+    "iso": "2022-10-10",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time from file metadata; transcript does not independently confirm exact date"
+  },
+  "locations": [],
+  "summary": "The video demonstrates a distinctive, painterly approach to landscape processing, framing a four-zone workflow that starts in RAW (Lightroom/ACR) and evolves through a hands-on Photoshop workflow. The presenter explains balancing dynamic range, extracting shadow detail, and using zone-specific painting with soft brushes, then applies color separation (Selective Color), mid-tone dodging, and dehazing to create depth. The workflow emphasizes a sequence of layer-based adjustments, history-state painting, and manual blending (including clone-stamp and perspective warps) to guide the viewer’s eye toward light sources. The content also covers advanced techniques such as sky replacement, cloud shaping, glow effects (blur plus luminosity), and final touch-ups aided by Topaz noise reduction, with an emphasis on maintaining natural, watercolor-like transitions rather than brute-force HDR appearance. The video showcases practical tips on avoiding over-selection, preserving detail, and ensuring coherent color and light across multiple zones in a single composition.",
+  "topics": [
+    "camera-raw",
+    "photoshop",
+    "lightroom",
+    "zone-based-processing",
+    "four-zone",
+    "history-brush",
+    "selective-color",
+    "color-grading",
+    "dodging",
+    "burning",
+    "clone-stamp",
+    "content-aware-fill",
+    "gaussian-blur",
+    "dehaze",
+    "topaz-denoise",
+    "noise-reduction",
+    "sky-replacement",
+    "cloud-manipulation",
+    "perspective-warp",
+    "warp",
+    "vignette",
+    "sun-star",
+    "leading-lines",
+    "landscape-processing",
+    "watercolor-like-blending",
+    "dynamic-range",
+    "masking",
+    "brush-work",
+    "layer-blending",
+    "edge-control",
+    "leading-eye-direction"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:10",
+      "title": "Intro: RAW baseline and zone concept",
+      "concepts": [
+        "dynamic range adjustments (exposure, blacks)",
+        "baseline in RAW before painting",
+        "zone-based processing"
+      ],
+      "description": "Begins with an overview of the workflow, stressing a personal system that replaces typical Photoshop behavior and establishing the four-zone framework and the rationale for starting with a flatter, darker baseline to preserve shadow detail."
+    },
+    {
+      "start": "00:06:10",
+      "end": "01:00:50",
+      "title": "Four-zone processing plan and initial sky/water adjustments",
+      "concepts": [
+        "zone identification (sky/water, mid-zone, fall colors)",
+        "global adjustments to establish light direction",
+        "initial painting into sky and water using history brush and masks"
+      ],
+      "description": "Introduces the four-zone shot, explains breaking the image into distinct zones, and demonstrates a first pass where the sky and water are adjusted together, then prepared for selective painting into the sky and water zones."
+    },
+    {
+      "start": "01:00:50",
+      "end": "01:16:50",
+      "title": "Color correction, tone control, and foundational color separation",
+      "concepts": [
+        "Selective Color adjustments",
+        "separating reds and yellows",
+        "tone-based color adjustments to fix color inconsistencies"
+      ],
+      "description": "Shows applying color separation to meadow greens/yellows, adjusting reds and yellows to reduce orange monotony, and using tone-based color adjustments to stabilize color across the scene before further painting."
+    },
+    {
+      "start": "01:16:50",
+      "end": "01:33:05",
+      "title": "Sky, clouds, warp-based composition, and final touch-ups",
+      "concepts": [
+        "sky replacement and cloud manipulation",
+        "warp/perspective tools to widen or reshape composition",
+        "final glow, vignette, HDR-like balancing, flare removal"
+      ],
+      "description": "Covers sky augmentation with cloud enhancement, cloud scaling and stretching via puppet/warp techniques, perspective adjustments, and final touches including glow via blur+luminosity, HDR-like global adjustments, and flare removal to finish the composition."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Four-zone zone-based painting workflow (sky/water, mid-zone, fall colors, and foreground/background balance)",
+      "timestamp": "00:04:50",
+      "confidence": 0.86
+    },
+    {
+      "technique": "History Brush as a painting-like application of RAW adjustments",
+      "timestamp": "00:09:29",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Selective Color color separation (reds vs yellows)",
+      "timestamp": "00:15:02",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Mid-tone dodge on water to enhance leading lines",
+      "timestamp": "00:19:11",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Dehaze for depth and distant mountain separation",
+      "timestamp": "00:26:37",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gaussian blur as a diffusion/vignette tool",
+      "timestamp": "00:21:28",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Topaz AI noise reduction for noise control while preserving detail",
+      "timestamp": "00:39:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky replacement and cloud manipulation with warps (perspective warp, trapezoids)",
+      "timestamp": "01:08:24",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Clone Stamp manual blending to align two exposures",
+      "timestamp": "00:49:05",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Content-Aware Fill as a flare-removal option",
+      "timestamp": "01:31:53",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Blur + luminosity to create sun glow and haze effects",
+      "timestamp": "01:21:22",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tonal-based color adjustments to fix cross-channel color issues after blends",
+      "timestamp": "01:17:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Perspective Warp and trapezoid-based warps for composition and leading lines",
+      "timestamp": "01:09:44",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:37:47.445073+00:00"
+}

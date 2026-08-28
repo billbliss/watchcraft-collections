@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/NZ 1-1 AP Abbreviated.mp4",
+  "title": "Dynamic Range, Transitions, and Layered Composition in Landscape Photography (Abbreviated Tutorial)",
+  "date": {
+    "display": "2024-11-08",
+    "iso": "2024-11-08",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; approximate unless transcript confirms exact shoot date"
+  },
+  "locations": [
+    {
+      "name": "Antarctica (Antarctica on a beach)",
+      "confidence": 0.9,
+      "basis": "Explicit in transcript: 'Antarctica on a beach' description of a shot"
+    },
+    {
+      "name": "Patagonia fjords",
+      "confidence": 0.9,
+      "basis": "Explicit in transcript: 'Patagonia fjords' described as a location example"
+    },
+    {
+      "name": "Pakistan mountains",
+      "confidence": 0.9,
+      "basis": "Explicit in transcript: 'Those mountains in Pakistan' described as a background in a shot"
+    },
+    {
+      "name": "Alaska",
+      "confidence": 0.9,
+      "basis": "Explicit in transcript: references to Alaska shots and settings"
+    }
+  ],
+  "summary": "The video presents a compact manifesto for landscape photography focused on how to read light, manage dynamic range, and choreograph the viewer’s gaze through deliberate transitions. It contrasts camera versus eye perception, argues against overreliance on histograms, and emphasizes highlight control, motion as a defining element, and spatial structure built from layers, leading lines, and deliberate depth cues. Throughout, the speaker interleaves field-tested structural concepts (dark-to-light, big-to-small, level of blacks), rules such as the Rule of Six, and practical field techniques (drone use, focus stacking, stitch panoramas) with a philosophy of minimal processing when images already read well. Examples span Alaska, Antarctica, Patagonia Fjords, and even high-altitude Pakistan mountains, illustrating how lighting direction, composition, and post-processing choices shape depth and visual flow in landscape work.",
+  "topics": [
+    "dynamic range",
+    "highlights",
+    "shadows",
+    "histogram",
+    "highlight alerts",
+    "bracketing",
+    "motion",
+    "visual flow",
+    "transitions",
+    "dark to light",
+    "big to small",
+    "level of blacks",
+    "layers",
+    "framing",
+    "leading lines",
+    "spacing",
+    "directional light",
+    "wide-angle foreground",
+    "drone photography",
+    "focus stacking",
+    "stitching",
+    "post-processing",
+    "less is more",
+    "exploration photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:03:21.000",
+      "title": "Camera vs Eye; Dynamic Range and Histogram Philosophy",
+      "concepts": [
+        "camera vs eye difference",
+        "dynamic range",
+        "highlights management",
+        "bracketing",
+        "histogram critique",
+        "highlight alerts",
+        "RAW vs processing"
+      ],
+      "description": "Sets up the core tension between how cameras perceive scenes and how our eyes do, foregrounding dynamic range, highlight control, and a critical view of histogram use. Emphasizes RAW data as the starting point and cautions about relying on histogram-based judgments."
+    },
+    {
+      "start": "00:04:50.000",
+      "end": "00:12:22.000",
+      "title": "Motion, Visual Flow, and Spatial Relationships",
+      "concepts": [
+        "motion as signature",
+        "visual flow",
+        "spatial relationships"
+      ],
+      "description": "Defines motion as a defining trademark of the photographer’s work, and explains how spatial relationships and perceived motion guide the viewer through a scene, contributing to three-dimensionality and depth."
+    },
+    {
+      "start": "00:12:22.000",
+      "end": "00:18:13.000",
+      "title": "Structure, Framing, and Rule of Six",
+      "concepts": [
+        "structure",
+        "layers",
+        "leading lines",
+        "framing vs layering",
+        "rule of six"
+      ],
+      "description": "Introduces the idea of framing via layers and leading lines, and presents the Rule of Six as a diagnostic for including only essential elements to preserve transitions and depth."
+    },
+    {
+      "start": "00:18:13.000",
+      "end": "00:37:39.000",
+      "title": "Lighting Direction, Transitions, and Processing Philosophy",
+      "concepts": [
+        "directional light",
+        "dark-to-light transition",
+        "big-to-small transition",
+        "level of blacks",
+        "processing approach",
+        "avoid overprocessing",
+        "drone applications",
+        "focus stacking",
+        "stitching"
+      ],
+      "description": "Outlines practical lighting strategies and transitions (dark-to-light, big-to-small) and offers a processing philosophy that favors minimal, selective adjustments. Describes drone-driven depth and scalability via focus stacking and panorama stitching, with examples from multiple locations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range management with emphasis on protecting highlights; avoid histogram reliance",
+      "timestamp": "00:01:26",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Use of highlight alerts to judge exposure rather than relying on the histogram",
+      "timestamp": "00:04:27",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Motion-based visual flow and three-dimensionality through transitions (dark-to-light; big-to-small; leading lines)",
+      "timestamp": "00:07:58",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Layered composition with emphasis on depth cues and the level of blacks",
+      "timestamp": "00:19:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Drone-driven depth and focus stacking for high-altitude captures",
+      "timestamp": "00:28:18",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Panorama stitching of ultra-wide shots (stitching 10mm views)",
+      "timestamp": "00:26:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Wide-angle foreground composition using big-to-small rule (45-degree principle)",
+      "timestamp": "00:31:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Less is more in post-processing; critical eye for over-editing",
+      "timestamp": "00:34:24",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:01:22.593301+00:00"
+}

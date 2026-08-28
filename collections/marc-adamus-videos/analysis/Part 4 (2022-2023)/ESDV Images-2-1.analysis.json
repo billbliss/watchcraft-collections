@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/ESDV Images-2-1.mp4",
+  "title": "Zone-based Post-Processing Workflow for a Lenticular Cloud Scene in Photoshop and Camera Raw",
+  "date": {
+    "display": "February 24, 2023",
+    "iso": "2023-02-24",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata indicates export date; transcript confirms processing workflow from a single shoot session around that period"
+  },
+  "locations": [],
+  "summary": "This educational video presents a practical, non-destructive post-processing workflow for landscape images, focusing on expanding dynamic range in RAW, maintaining shadows, and then using a zone-based approach in Camera Raw and Photoshop to shape directional light, add texture, manage color tonality with tonal-based color adjustments, and create depth through depth-separated halos, sky manipulation, and cloud cloning. The instructor emphasizes minimal use of direct color tools, reliance on whites, highlights, and selective color techniques, and demonstrates the importance of preserving light direction and layer separation across a multi-zone scene including dunes, trees, and cloud formations.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Lightroom",
+    "ACR",
+    "Dynamic Range",
+    "Whites adjustment",
+    "Highlights",
+    "Shadows",
+    "Exposure",
+    "Color Grading",
+    "Tone-based color",
+    "Tonal-based color",
+    "Selective Color",
+    "50-150",
+    "Mid-tone Dodge",
+    "Dehaze",
+    "Auto HDR",
+    "HSL",
+    "White balance",
+    "Halo",
+    "Depth separation",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Masking",
+    "Warp",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Rule of trapezoids",
+    "Orton effect",
+    "Vignette",
+    "Sky replacement",
+    "Cloud cloning",
+    "History states"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:05:27",
+      "title": "Intro: post-processing triad and initial RAW handling",
+      "concepts": [
+        "color vs. tonal color",
+        "dynamic range expansion",
+        "preventing highlight clipping",
+        "prepping for directional light shaping"
+      ],
+      "description": "The presenter lays out three post-processing objectives (color, light, atmosphere), advocates avoiding color tools for initial color work and explains tonal-based vs color-based color. The shot is opened in RAW with the goal of expanding dynamic range and dialing exposure down so highlights are controlled, creating a blank canvas for light shaping before moving into Photoshop."
+    },
+    {
+      "start": "00:05:27",
+      "end": "00:15:36",
+      "title": "Non-destructive editing workflow in Photoshop and history",
+      "concepts": [
+        "Photoshop history states",
+        "running edit dialogue",
+        "history brush",
+        "preserving multiple states"
+      ],
+      "description": "Discussion of keeping a running history of edits, increasing Photoshop's history depth, and using the history brush to selectively apply or revert brush strokes. Emphasizes saving multiple states for later comparison and adjustment."
+    },
+    {
+      "start": "00:15:36",
+      "end": "00:39:15",
+      "title": "Zone-based lighting and global-to-local transitions",
+      "concepts": [
+        "directional light from the side",
+        "three zones (global plus two localized areas)",
+        "tonal-based color adjustments",
+        "painting directional light"
+      ],
+      "description": "Moves from global adjustments to painting directional light and toning a specific zone using color grading. The workflow includes expanding DR again, applying a tonal-based color adjustment to a zone, and painting light to create a cohesive look across multiple zones."
+    },
+    {
+      "start": "00:39:15",
+      "end": "01:00:50",
+      "title": "Halo creation, depth separation, and cloud manipulation",
+      "concepts": [
+        "halo/intensity between layers",
+        "layer separation for depth",
+        "clone/paint clouds into the shot",
+        "edge refinement with history brush"
+      ],
+      "description": "Explains creating halos to separate layers, cloning cloud elements between shots, and refining layer edges to push foreground elements forward. Emphasizes iterative refinement using history brush and cloning while preserving overall light direction."
+    },
+    {
+      "start": "01:00:50",
+      "end": "01:13:25",
+      "title": "Advanced multi-zone processing and color-control techniques",
+      "concepts": [
+        "Orton effect",
+        "vignetting with diffuse repaint",
+        "Selective Color (50-150) adjustments",
+        "sky vs foreground color balance",
+        "five-zone workflow considerations"
+      ],
+      "description": "Describes a five-zone workflow for complex scenes, including diffusion of the middle ground, targeted color adjustments to the sky and foreground, and a deep dive into selective color using 50-150 to intensify background colors. Demonstrates balancing warm foreground with cooler sky while maintaining a coherent overall color story."
+    },
+    {
+      "start": "01:13:25",
+      "end": "01:15:11",
+      "title": "Closing notes and external references",
+      "concepts": [
+        "family of techniques",
+        "Dubai processing seminar reference",
+        "New England color scenario",
+        "tiny refinements via selective color and perception"
+      ],
+      "description": "Wrap-up and contextual notes, including references to external seminars and examples used to illustrate the versatility of the demonstrated techniques. Emphasizes that color work should be minimized and controlled through luminosity and tonal edits when possible."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion (RAW) to preserve shadows",
+      "timestamp": "00:01:11",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Non-destructive editing via Photoshop history and history brush",
+      "timestamp": "00:02:23",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Second-pass RAW adjustments with whites, warmth, and tint",
+      "timestamp": "00:04:33",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Zone-based directional light painting and color grading",
+      "timestamp": "00:07:30",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Auto HDR texture enhancement and selective painting",
+      "timestamp": "00:11:43",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective Color (50-150) for color pops in the background",
+      "timestamp": "01:08:02",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Orton effect and middle-ground diffusion",
+      "timestamp": "01:01:06",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:32:40.044311+00:00"
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Patagonia 1-2.mp4",
+  "title": "Patagonia Wave Editing: Leading Lines, Compositional Tension, and Two-Image Blending",
+  "date": {
+    "display": "April 14, 2024",
+    "iso": "2024-04-14T12:55:09.000000Z",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; transcript does not confirm actual production date"
+  },
+  "locations": [
+    {
+      "name": "Patagonia (probable)",
+      "confidence": 0.4,
+      "basis": "filename and folder context reference Patagonia; transcript contains no explicit shooting location"
+    }
+  ],
+  "summary": "This editing-focused segment guides the viewer through a landscape workflow centered on sea-wave imagery. The presenter outlines baseline exposure and color adjustments to keep tones subdued, then evaluates multiple wave samples to establish a clear leading line. They discuss testing composites from two RAW frames, noting alignment challenges caused by waves moving the tripod. The workflow introduces a clone-stamp-based test for alignment, emphasizes compositional tension by favoring odd-number focal structures, and concludes with cropping and background considerations to favor atmosphere over busy foreground. The transcript captures practical decision points rather than a full step-by-step tutorial.",
+  "topics": [
+    "leading lines",
+    "compositional tension",
+    "odd-number composition",
+    "clone stamp tool",
+    "alignment",
+    "two-image blending",
+    "raw adjustments",
+    "color grading",
+    "exposure control",
+    "wave photography",
+    "foreground-background separation",
+    "cropping",
+    "Patagonia (probable)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:25",
+      "title": "Initial exposure and color tweaks",
+      "concepts": [
+        "shadows",
+        "blacks",
+        "exposure",
+        "whites",
+        "cooler tones"
+      ],
+      "description": "Describes lifting shadows/blacks, slightly lowering exposure, adjusting whites, and cooling color tone to avoid brightness overload; serves as a baseline for later edits."
+    },
+    {
+      "start": "00:00:31",
+      "end": "00:01:00",
+      "title": "Wave selection and leading lines",
+      "concepts": [
+        "leading line",
+        "wave slope",
+        "foreground separation"
+      ],
+      "description": "Considers multiple wave shots and emphasizes creating a strong leading line to guide the viewer's eye; avoids cluttered foreground by limiting overlaid elements."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:01:52",
+      "title": "Two-shot RAW blending considerations",
+      "concepts": [
+        "blend two images",
+        "RAW adjustments",
+        "alignment challenges"
+      ],
+      "description": "Explores blending two RAW frames, with note that alignment may be compromised by tripod movement and wave-induced camera motion."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:02:37",
+      "title": "Testing blend with clone alignment",
+      "concepts": [
+        "clone stamp",
+        "alignment",
+        "test blend"
+      ],
+      "description": "Demonstrates using a clone-stamp approach to test how two images might blend; discusses techniques to align the blend within the scene."
+    },
+    {
+      "start": "00:02:45",
+      "end": "00:03:05",
+      "title": "Compositional tension and focal points",
+      "concepts": [
+        "compositional tension",
+        "odd vs even numbers",
+        "focal points"
+      ],
+      "description": "Introduces the idea that even-numbered focal points create tension; advocates for odd-numbered arrangements to keep the eye moving and avoid multiple equal focal points."
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:03:24",
+      "title": "Cropping and background considerations",
+      "concepts": [
+        "cropping",
+        "background",
+        "atmosphere"
+      ],
+      "description": "Considers how moving the background and cropping the bottom can enhance atmosphere; identifies preference for a strongest single shot."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Leading lines created by wave slope to guide viewer's eye",
+      "timestamp": "00:00:49",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Compositional tension: favor odd-number focal points",
+      "timestamp": "00:02:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone stamp tool with alignment test (Option-click / Ctrl-Tab)",
+      "timestamp": "00:02:22",
+      "confidence": 0.7
+    },
+    {
+      "technique": "RAW-based two-shot blending preview",
+      "timestamp": "00:01:34",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:22:01.060914+00:00"
+}

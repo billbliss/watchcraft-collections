@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/NZ 1-2 Basic tools and process.mp4",
+  "title": "Color vs. Black-and-White Landscape Processing: Basic Tools and Non-Destructive Workflow",
+  "date": {
+    "display": "November 8, 2024",
+    "iso": "2024-11-08",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [],
+  "summary": "The video contrasts color and black-and-white landscape processing and presents a concise, non-destructive workflow using Photoshop, Camera Raw (ACR/RAW) and a history-based system. The instructor crops to a 4x5 composition, then proceeds with zone-based edits (sky, trees, water) to guide the viewer’s eye, applying diffusion, dehaze, and selective brightness. A history-state approach replaces traditional layers, enabling rapid, brush-based adjustments that can be freely remixed. The middle ground receives atmosphere via fog-like effects (Gaussian blur), while foreground elements are toned and desaturated to balance color with tonal contrast. The sequence culminates in a full black-and-white conversion with dodge/burn work and creative refinements (sunbeams/clouds), followed by philosophy about practice and the roles of tools versus artistic intent.",
+  "topics": [
+    "Adobe Camera Raw",
+    "Photoshop",
+    "Dodge and Burn",
+    "Gaussian Blur",
+    "Dehaze",
+    "Vignette",
+    "Luminosity",
+    "Non-destructive editing",
+    "History Brush",
+    "Zone-based editing",
+    "4x5 crop",
+    "Landscape processing",
+    "Black and white",
+    "Color to Black & White",
+    "Fog in landscape",
+    "Tone adjustments"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.000",
+      "end": "00:02:20.000",
+      "title": "Color vs. Black & White Philosophy",
+      "concepts": [
+        "color vs B&W differences",
+        "perceived difficulty",
+        "goal-oriented decisions"
+      ],
+      "description": "The speaker frames the comparison between processing color and black-and-white, asserting B&W is simpler (primarily dodge/burn) and color introduces more variables related to light and color interactions."
+    },
+    {
+      "start": "00:05:58.960",
+      "end": "00:06:29.320",
+      "title": "Initial Color Processing & Crop Decision",
+      "concepts": [
+        "import to Photoshop/ACR",
+        "crop intent"
+      ],
+      "description": "The image is prepared for color processing, with an explicit plan to crop the frame and set the project in a color workflow before further adjustments."
+    },
+    {
+      "start": "00:06:29.320",
+      "end": "00:08:21.600",
+      "title": "Cropping & Zone Framing",
+      "concepts": [
+        "4x5 framing",
+        "edge composition",
+        "leading line balance"
+      ],
+      "description": "A deliberate crop to four-by-five is chosen to optimize composition, placing a tree on the edge and aligning mountain features to support the eye’s journey toward the waterfall."
+    },
+    {
+      "start": "00:08:21.600",
+      "end": "00:11:00.000",
+      "title": "Zone-based Editing & Middle-ground Diffusion",
+      "concepts": [
+        "sky/trees/water zones",
+        "diffusion",
+        "dehaze",
+        "local brightness"
+      ],
+      "description": "The shot is divided into three zones, with targeted diffusion and dehaze to push depth in the middle ground while protecting the sky and foreground from over-editing."
+    },
+    {
+      "start": "00:11:00.000",
+      "end": "00:12:36.400",
+      "title": "History Brush & Non-destructive Workflow",
+      "concepts": [
+        "history states",
+        "non-destructive edits",
+        "brush-based application"
+      ],
+      "description": "A non-destructive workflow is demonstrated using history states and a history brush, allowing rapid undo/redo and selective reapplication of adjustments without traditional layering."
+    },
+    {
+      "start": "00:14:59.100",
+      "end": "00:16:18.680",
+      "title": "Fogging with Gaussian Blur & Atmospheric Adjustments",
+      "concepts": [
+        "gaussian blur for fog",
+        "diffusion",
+        "opacity control"
+      ],
+      "description": "Gaussian blur is used to create atmospheric fog, with controlled opacity and edge handling to simulate depth and distance in the landscape."
+    },
+    {
+      "start": "00:16:18.680",
+      "end": "00:21:17.660",
+      "title": "Foreground Water & Rock Adjustments",
+      "concepts": [
+        "foreground desaturation",
+        "white adjustment",
+        "contrast control",
+        "local painting"
+      ],
+      "description": "Adjustments focus on the stream and rocks: desaturate the gray foreground, elevate the water with a whites lift, and paint adjustments locally to balance tonal contrast."
+    },
+    {
+      "start": "00:24:07.400",
+      "end": "00:29:01.580",
+      "title": "Sky, Vignette & Tone-based RAW Color Adjustments",
+      "concepts": [
+        "dark vignette",
+        "RAW tonal color adjustments",
+        "desaturation before color shift"
+      ],
+      "description": "A dark vignette is applied to draw the eye inward, followed by a tonal-based color adjustment in RAW to reintroduce light with saturation controlled to preserve color harmony."
+    },
+    {
+      "start": "00:29:01.580",
+      "end": "00:34:58.540",
+      "title": "Black & White Finalization & Creative Dodge/Burn",
+      "concepts": [
+        "desaturation in RGB",
+        "black-and-white dodge/burn",
+        "creative edits (sunbeams, clouds)"
+      ],
+      "description": "The process moves to a full black-and-white conversion (preserving RGB), then an extensive dodge/burn pass to sculpt light, add fog, and introduce creative elements such as sunbeams and clouds for mood."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Crop to 4x5 composition",
+      "timestamp": "00:06:29.320",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Zone-based editing (sky/trees/water)",
+      "timestamp": "00:08:21.600",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Non-destructive editing via history states / History Brush",
+      "timestamp": "00:11:00.340",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Diffusion + dehaze on middle ground",
+      "timestamp": "00:09:50.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Gaussian blur for fog/atmosphere",
+      "timestamp": "00:15:05.580",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mid-tone dodge to brighten trees",
+      "timestamp": "00:17:04.880",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Shadow dodge to enhance fog around waterfall",
+      "timestamp": "00:18:21.080",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Foreground color desaturation with whites adjustment",
+      "timestamp": "00:19:31.120",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Desaturation for black-and-white conversion (RGB preservation)",
+      "timestamp": "00:29:01.580",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Black-and-white dodge/burn pass",
+      "timestamp": "00:29:28.760",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Dark vignette to guide eye",
+      "timestamp": "00:24:07.400",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Tone-based color adjustment in RAW",
+      "timestamp": "00:25:23.200",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Creating sunbeams in the black-and-white edit",
+      "timestamp": "00:33:45.800",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:04:08.415262+00:00"
+}

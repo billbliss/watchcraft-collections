@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Select color.mp4",
+  "title": "Selective Color in Photoshop: Color Wheel, Luminosity, and Targeted Color Mapping",
+  "date": {
+    "display": "October 15, 2017 (approx.)",
+    "iso": "2017-10-15T17:07:45Z",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; not independently confirmed by transcript"
+  },
+  "locations": [],
+  "summary": "This tutorial-style clip demonstrates Photoshop's Selective Color adjustment for landscape editing: the instructor shows how to select a color range in an image and map that color to another hue using the color wheel, while controlling saturation and luminosity. The demonstration covers manipulating yellows and magentas to create red and spring-like greens, explains color-opposite relationships on the wheel, and discusses how to isolate tonal ranges (whites, blacks, neutrals) to target color changes without affecting the entire image. A practical before/after example emphasizes the tool's precision and potential to simplify color grading beyond other color tools.",
+  "topics": [
+    "Photoshop",
+    "Selective Color",
+    "Color Wheel",
+    "Hue",
+    "Saturation",
+    "Luminosity",
+    "Color Range",
+    "Reds",
+    "Magentas",
+    "Yellows",
+    "Greens",
+    "Whites",
+    "Blacks",
+    "Neutrals",
+    "Color mapping",
+    "Landscape editing",
+    "Color grading"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.540",
+      "end": "00:01:42.440",
+      "title": "Intro: selective color concept and scene setup",
+      "concepts": [
+        "Selective Color",
+        "Clarity in high-detail scenes",
+        "Cropping to simplify background"
+      ],
+      "description": "The instructor introduces the concept of selective color and the relationship between scene detail and clarity, then describes cropping the scene to a simple Aspen-background composition and pivots to the selective-color demonstration."
+    },
+    {
+      "start": "00:01:42.440",
+      "end": "00:04:26.960",
+      "title": "Color-range selection and color wheel basics",
+      "concepts": [
+        "Selective Color",
+        "Color range targeting",
+        "Color wheel orientation"
+      ],
+      "description": "Demonstrates that Selective Color can target any color in the image. Shows picking a color range (e.g., yellow) and explains how to use the color wheel to understand valid hue shifts and color-direction for transformations."
+    },
+    {
+      "start": "00:04:26.960",
+      "end": "00:06:57.500",
+      "title": "Hue mapping and polarity on the color wheel",
+      "concepts": [
+        "Hue shift",
+        "Color-wheel opposites",
+        "Green/Magenta and Red/Cyan relationships",
+        "Saturation adjustments"
+      ],
+      "description": "Explains how selecting a color and shifting toward its opposite on the color wheel enables mapping to new colors (e.g., yellow toward red/magenta). Demonstrates how to adjust saturation for that color to taste."
+    },
+    {
+      "start": "00:06:57.500",
+      "end": "00:10:36.000",
+      "title": "Targeting tonal ranges: luminosity, whites, blacks, and neutrals",
+      "concepts": [
+        "Luminosity",
+        "Blacks",
+        "Whites",
+        "Neutrals",
+        "Selective color on tonal ranges"
+      ],
+      "description": "Details how luminosity interacts with color changes, how blacks and whites can be adjusted to brighten or tint colors, and how to select whites or neutrals to affect specific areas (e.g., snow, sky) without altering the rest of the image."
+    },
+    {
+      "start": "00:10:36.000",
+      "end": "00:11:29.620",
+      "title": "Practical recap and dramatic color-push example",
+      "concepts": [
+        "Selective Color",
+        "Color-push demonstrations",
+        "Before/after evaluation"
+      ],
+      "description": "Recaps the power of selective color using a dramatic example that transforms magentas into reds and amplifies saturation; notes the technique's potential and relation to other color tools and workflows."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Selective Color adjustment: basic range selection and color mapping",
+      "timestamp": "00:02:34.800",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color wheel fundamentals and color-range mapping using opposites",
+      "timestamp": "00:04:47.080",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Luminosity and saturation tweaks in Selective Color",
+      "timestamp": "00:06:03.380",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Targeted tonal selection and whites/blacks/neutrals adjustments",
+      "timestamp": "00:07:26.360",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Extreme color-push demonstration: magentas to red with additive adjustments",
+      "timestamp": "00:09:43.440",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T17:00:57.393381+00:00"
+}

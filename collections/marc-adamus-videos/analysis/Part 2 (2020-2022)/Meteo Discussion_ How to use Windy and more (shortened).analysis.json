@@ -1,0 +1,174 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Meteo Discussion_ How to use Windy and more (shortened).mp4",
+  "title": "Windy, Models, and Satellites: A Landscape Photographer’s Real-Time Weather Toolkit",
+  "date": {
+    "display": "2022-06-11 (approx.)",
+    "iso": "2022-06-11",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; transcript content not independently dated"
+  },
+  "locations": [],
+  "summary": "The video presents a practical framework for landscape photographers to interpret weather data using the Windy app and corroborating sources. It emphasizes starting with model-presented forecasts (ECMWF/EC and GFS among others), understanding ensemble context, and then validating with satellite imagery to assess real-time conditions. The speaker highlights the role of topography (orography) in shaping low- vs. high-level clouds, explains how wind fields vary with altitude, and demonstrates how features like the jet stream, troughs/ridges, and downslope gaps influence light, beaming, and access to prime photography locations. Additional discussion covers coast-specific factors (swell, tides, visibility), air quality indices, and practical tips like consulting NOAA forecast discussions and using three-dimensional forecast overlays to pick flight paths for sunrise/sunset or dramatic atmospheric effects. The result is a workflow that blends data-driven planning with on-the-ground observation to maximize photographic opportunities while mitigating forecast uncertainty.",
+  "topics": [
+    "Windy app",
+    "ECMWF/EC model",
+    "GFS model",
+    "NAM model",
+    "ICON model",
+    "ensemble forecasting",
+    "MeteoBlue",
+    "visible satellite",
+    "infrared satellite",
+    "satellite interpretation",
+    "orography",
+    "orographic effects",
+    "low/mid/high clouds",
+    "jets and troughs",
+    "downslope gap",
+    "lenticular clouds",
+    "jet stream",
+    "CAPE index",
+    "dew point",
+    "freezing level",
+    "snow depth",
+    "visibility",
+    "PM2.5 air quality",
+    "radar precipitation",
+    "meteogram",
+    "coastal swell",
+    "tide",
+    "webcams",
+    "NOAA forecast discussion",
+    "three-dimensional forecast",
+    "altitude-specific forecasting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:24:32",
+      "title": "Model fundamentals and Windy workflow for scouting light",
+      "concepts": [
+        "Windy app",
+        "ECMWF/EC",
+        "GFS",
+        "ensemble forecasting",
+        "model agreement",
+        "NOAA forecast discussions"
+      ],
+      "description": "Introduces the idea that meteorology can be distilled into a core set of practices for scouting light and predicting conditions relevant to landscape photography. Emphasizes Windy as a hub for accessing major global models (EC/ECMWF and GFS) and explains the concept of ensemble forecasts and model interpretation. It also notes the value of NOAA forecast discussions for behind-the-scenes reasoning and the importance of model agreement for forecast confidence."
+    },
+    {
+      "start": "00:24:32",
+      "end": "00:39:12",
+      "title": "Satellite imagery as the truth test: visible and infrared",
+      "concepts": [
+        "MeteoBlue visible satellite",
+        "visible vs infrared satellites",
+        "cloud height inference",
+        "three-dimensional satellite observation"
+      ],
+      "description": "Describes using satellite data to verify what the models imply. The MeteoBlue visible satellite provides high-contrast detail to assess cloud presence and movement; infrared satellite helps differentiate cloud levels (low vs mid vs high) and remains usable at night. The speaker demonstrates loading motion and interpreting cloud evolution to anticipate sunrise/sunset lighting and to determine the correct driving direction for optimal light."
+    },
+    {
+      "start": "00:39:12",
+      "end": "01:00:22",
+      "title": "Orography and cloud dynamics: predicting light in mountains and on the coast",
+      "concepts": [
+        "orographics",
+        "downslope gap",
+        "lenticular wave clouds",
+        "cloud level forecasting",
+        "east vs west mountain-side lighting"
+      ],
+      "description": "Explores how terrain shapes wind and clouds at different elevations, making low clouds hard to forecast but high clouds more predictable. Introduces the concept of a downslope gap as a prime location for red-light beaming and discusses how mountain orientation and wind speed influence both weather and photography opportunities. Also covers the practical implications for coastal and mountain photography, including the impact of coast-derived fog and the distribution of low, mid, and high clouds."
+    },
+    {
+      "start": "01:00:22",
+      "end": "01:02:40",
+      "title": "Coastal photography factors: swell, tide, and wind waves",
+      "concepts": [
+        "coastal swell",
+        "tidal effects",
+        "wind waves",
+        "visibility at sea",
+        "NOAA overlays for coast"
+      ],
+      "description": "Highlights three critical coastal photography variables: swell (height and period), tide level, and wind-driven waves. Demonstrates how Windy’s overlays can quantify these factors and guide spot selection and timing. Emphasizes planning around tide states and wind-wave combinations to optimize shore-driven light and safety."
+    },
+    {
+      "start": "01:02:40",
+      "end": "01:05:49",
+      "title": "Forecast tools, verification, and supplemental data sources",
+      "concepts": [
+        "meteogram",
+        "altitude-specific forecasts",
+        "multi-model comparison",
+        "webcams collection",
+        "radar limitations",
+        "Cape Index",
+        "snow depth",
+        "freezing level",
+        "smoke and dust mass",
+        "air quality (PM2.5)"
+      ],
+      "description": "Wraps up with advanced features and overlays: meteograms, 3D forecasts at exact GPS coordinates, and cross-model comparisons. The speaker notes the importance of matching altitude to forecast data, recognizes radar’s uneven accuracy in mountainous terrain, and introduces Cape Index for convective potential, freezing level and snow depth for mountain planning, and air-quality indicators for glow and visibility. Ends by pointing to Windy’s broader data suite, including webcams for real-time situational awareness."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Multi-model forecast comparison and ensemble awareness",
+      "timestamp": "00:02:10",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Satellite-based real-time condition assessment (visible and infrared) for light planning",
+      "timestamp": "00:13:40",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Altitude-specific forecasting on Windy (surface to 30,000 ft) to interpret wind and clouds",
+      "timestamp": "00:09:37",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Orography-informed light and cloud behavior (orographics and downslope gap)",
+      "timestamp": "00:28:12",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Jet stream as a long-range predictor for trough/ridge patterns",
+      "timestamp": "00:43:46",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Coastal planning using swell, tide, and wind-wave overlays",
+      "timestamp": "01:00:22",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cape Index for convective potential and dew point considerations",
+      "timestamp": "00:49:07",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Altitude-matched forecast verification with meteograms",
+      "timestamp": "01:03:45",
+      "confidence": 0.76
+    },
+    {
+      "technique": "NOAA forecast discussions as a behind-the-scenes forecast refinement tool",
+      "timestamp": "00:06:15",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Three-dimensional wind fields for precise spot forecasting",
+      "timestamp": "01:02:57",
+      "confidence": 0.84
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:08:14.903647+00:00"
+}

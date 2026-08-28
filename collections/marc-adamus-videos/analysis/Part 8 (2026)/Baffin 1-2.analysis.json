@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Baffin 1-2.mp4",
+  "title": "Baffin Island Arctic Landscape: Composition critique, color toning, and panorama stitching workflow",
+  "date": {
+    "display": "2026-08-21",
+    "iso": "2026-08-21",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [
+    {
+      "name": "Baffin Island, Canadian Arctic",
+      "confidence": 0.85,
+      "basis": "explicit mention in transcript"
+    },
+    {
+      "name": "Alaska, Talkeetna Range (comparison)",
+      "confidence": 0.6,
+      "basis": "comparison reference in transcript"
+    }
+  ],
+  "summary": "The video presents a field-edited Arctic landscape workflow centered on evaluating shot quality, improving composition, applying tonal and color corrections, and building depth through controlled edits. It contrasts drone and handheld camera results, addresses blue color bias common to DJI footage, demonstrates a multi-pass RAW approach to highlight preservation and color balance, and culminates in a panorama stitching workflow with projection choices and a perspective warp to maintain natural geometry. Throughout, the presenter emphasizes establishing a strong background focal point, avoiding edge-cutoffs, and refining transitions from foreground to distant features to guide the viewer’s eye.",
+  "topics": [
+    "image_rotation_and_cropping",
+    "composition_focal_point",
+    "basic_tonal_adjustments (shadows, blacks, exposure, whites)",
+    "warmth_and_tint_adjustments",
+    "blue_color_balance_and_dji_bias",
+    "dehaze_and_color_grading",
+    "selective_color_manipulation (clouds/sky)",
+    "edge_and_frame_management",
+    "drone_vs_camera_shoot_quality",
+    "panorama_stitching_workflow",
+    "image_alignment_and_warp",
+    "projection_options (rectilinear vs cylindrical)",
+    "perspective_warp_for_panorama",
+    "RAW_processing_multiple_passes",
+    "highlight_preservation_and_shadow_recovery",
+    "depth_creation_through_layering",
+    "selective_blur_for_depth_emphasis",
+    "export_formats_for_panorama"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Shot evaluation and composition basics",
+      "concepts": [
+        "focal_point",
+        "composition",
+        "lighting"
+      ],
+      "description": "Evaluate light and subject presence; identify best shots that include a clear focal point, distinguishing between lighting quality and subject emphasis."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:04:32",
+      "title": "Color balance and tonal adjustments for pattern",
+      "concepts": [
+        "warmth",
+        "tint",
+        "whites_shadows_blacks_exposure"
+      ],
+      "description": "Apply warmth and tint, then perform whites/shadows/blacks/exposure adjustments to reveal patterns and depth in the scene, addressing color cast among Arctic images."
+    },
+    {
+      "start": "00:04:32",
+      "end": "00:07:46",
+      "title": "Composition refinement and edge considerations",
+      "concepts": [
+        "composition",
+        "focal_point_planning",
+        "edge_inclusion"
+      ],
+      "description": "Assess the need for background focal points and avoid cutting important edges (fjords, summits); discuss how composition decisions influence depth and viewer guidance."
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:31",
+      "title": "Panorama workflow: alignment, projection choices, and post-processing",
+      "concepts": [
+        "panorama_alignment",
+        "projection_choice",
+        "post_processing",
+        "TIFF_export"
+      ],
+      "description": "Demonstrates selecting a panorama folder, aligning images, choosing projection (rectilinear vs cylindrical), applying post-processing, and exporting as TIFF; emphasizes preserving geometry with perspective warp."
+    },
+    {
+      "start": "00:12:31",
+      "end": "00:16:49",
+      "title": "RAW-based refinement and selective color for depth",
+      "concepts": [
+        "multi_pass_raw_processing",
+        "highlights_shadows",
+        "selective_color",
+        "cloud_brightness"
+      ],
+      "description": "Shows multi-pass RAW adjustments to control highlights and shadows, along with selective color edits to clouds and sky to balance color and emphasize depth cues."
+    },
+    {
+      "start": "00:16:49",
+      "end": "00:17:02",
+      "title": "Final remarks",
+      "concepts": [
+        "final_assessment"
+      ],
+      "description": "Concluding assessment of the mountains and atmosphere, reinforcing the applied processing approach as a repeatable workflow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Panorama stitching workflow (Align Images, Warp, and Rectilinear projection)",
+      "timestamp": "00:10:14",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Perspective warp to correct distortion in a stitched panorama",
+      "timestamp": "00:12:11",
+      "confidence": 0.66
+    },
+    {
+      "technique": "RAW multi-pass processing with highlight preservation and color balance",
+      "timestamp": "00:13:06",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective color adjustments to clouds and sky",
+      "timestamp": "00:16:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:09:56.948030+00:00"
+}

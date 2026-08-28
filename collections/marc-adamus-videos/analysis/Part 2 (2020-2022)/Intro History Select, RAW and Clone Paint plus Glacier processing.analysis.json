@@ -1,0 +1,197 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Intro History Select, RAW and Clone Paint plus Glacier processing.mp4",
+  "title": "Manual Sky Stitching, Warp, and Color Grading in Photoshop: RAW-first Landscape Processing",
+  "date": {
+    "display": "October 4, 2021",
+    "iso": "2021-10-04",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata indicates 2021-10-04; transcript does not independently confirm a date."
+  },
+  "locations": [
+    {
+      "name": "Great Sand Dunes National Park",
+      "confidence": 0.85,
+      "basis": "Explicit mention in transcript: '70 mile an hour wind in great sand dunes national park' [01:47:56]."
+    }
+  ],
+  "summary": "This video provides an in-depth, practitioner-focused workflow for landscape post-processing where the author emphasizes starting in RAW to preserve dynamic range, then uses manual compositing and non-destructive tools in Photoshop to blend exposures, skies, and terrain. Key demonstrations include identifying and cloning out lens anomalies, flattening tonal range for controlled lighting, manual sky replacement with careful alignment, stitching and warping via perspective and puppet warp, and finishing with color grading, selective color management, and diffusion to enhance depth. The presenter also stresses decision-making practices (e.g., histogram reading, non-destructive history states, and multi-task project management) and references a field example near Great Sand Dunes National Park.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "RAW processing",
+    "Dynamic range",
+    "Selective Color",
+    "HSL",
+    "Color Calibration",
+    "Color Grading",
+    "Gaussian Blur",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Warp",
+    "Sky replacement",
+    "Manual panorama stitching",
+    "Non-destructive editing",
+    "Local color grading",
+    "Lens flare vs dust",
+    "Glacier processing",
+    "Great Sand Dunes National Park"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:50:54",
+      "title": "RAW exposure management and dynamic range foundations",
+      "concepts": [
+        "dynamic range",
+        "exposure control",
+        "highlights/shadows",
+        "Camera Raw vs Photoshop adjustments",
+        "bracketing",
+        "eye-true rendering"
+      ],
+      "description": "Introduces how sensor dynamic range and camera differences (Nikon/Sony vs Canon) influence shadow detail, and emphasizes using Camera Raw's dynamic range panel as the primary tool for expanding shadows and preserving highlights before any Photoshop edits. The speaker notes that certain cameras (e.g., Canon) may trail other brands in dynamic range and discusses the impact on noise at different stop ranges, then demonstrates flattening and adjusting tonal range to resemble what one would see in real life before re-lighting for emphasis."
+    },
+    {
+      "start": "01:09:12",
+      "end": "01:11:12",
+      "title": "Color grading, diffusion, and non-destructive finishing passes",
+      "concepts": [
+        "color grading",
+        "tone curves",
+        "Selective Color",
+        "HSL",
+        "Gaussian blur for diffusion",
+        "color balance",
+        "mid-tone adjustments",
+        "non-destructive history brush"
+      ],
+      "description": "Covers color grading workflows, including tonal-based color adjustments, selective color and HSL discussions, and the use of Gaussian blur to diffuse backgrounds for atmosphere. Emphasizes non-destructive edits via history brushes and clone/paint workflows, enabling iterative refinements and localized adjustments while preserving earlier states."
+    },
+    {
+      "start": "01:50:54",
+      "end": "02:59:48",
+      "title": "Lens artifacts and initial cleanups in RAW",
+      "concepts": [
+        "spot/dust on lens",
+        "flare vs lens spot",
+        "lens maintenance",
+        "preliminary cleanup"
+      ],
+      "description": "Discusses identifying a spot of gunk on the lens and differentiating it from flare, with guidance to clone or blend out such defects. Emphasizes that RAW processing focuses on preserving dynamic range first, followed by noise and texture considerations, before moving on to broader composition adjustments."
+    },
+    {
+      "start": "02:59:48",
+      "end": "04:53:00",
+      "title": "Flattening for composition control and color decisions",
+      "concepts": [
+        "flatten contrast",
+        "shadows/highlights",
+        "eye-direction lighting",
+        "bracketing",
+        "temperature and tint adjustments",
+        "calibration"
+      ],
+      "description": "Describes flattening the histogram after initial dynamic-range expansion to allow easier control of lighting direction and viewer eye movement. Includes discussion of exposure bracketing, subtle warming, and camera calibration tricks (e.g., blue saturation in calibration to create a glow without introducing banding)."
+    },
+    {
+      "start": "04:53:00",
+      "end": "07:15:00",
+      "title": "Manual sky replacement planning and alignment",
+      "concepts": [
+        "sky replacement",
+        "two-shot alignment",
+        "canvas expansion",
+        "non-automated stitching"
+      ],
+      "description": "Outlines the plan to replace the sky using a second shot, and to align and crop the canvas so the sky can be blended with the original. Emphasizes avoiding automated Photoshop merges and performing a manual stitch to preserve distortion characteristics and horizon alignment."
+    },
+    {
+      "start": "07:15:00",
+      "end": "09:40:00",
+      "title": "Sky replacement blending with clone painting and history-state control",
+      "concepts": [
+        "clone stamp",
+        "soft brush blending",
+        "non-destructive history states",
+        "alignment precision"
+      ],
+      "description": "Demonstrates cloning in a sky region from the second shot, using a soft brush to blend, and leveraging history states to undo or re-apply past steps. Shows the workflow for aligning, blending, and refining sky layers so that transitions appear seamless across the merged image."
+    },
+    {
+      "start": "09:40:00",
+      "end": "01:09:12",
+      "title": "Warping to extend perspective and enhance leading lines",
+      "concepts": [
+        "perspective warp",
+        "trapezoid distortion",
+        "leading lines",
+        "viewpoint realism"
+      ],
+      "description": "Introduces multiple warp tools, starting with perspective warp to reframe the scene with a three-area segmentation (sky, tree, foreground), using trapezoidal distortions to simulate a wider angle and stronger foreground lead-ins. Discusses the trade-off between warping and image quality, stressing that warps degrade pixel integrity and should be used judiciously."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "RAW dynamic range expansion in Camera Raw",
+      "timestamp": "00:01:20",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Lens dust/gunk identification and cloning out",
+      "timestamp": "00:02:10",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Flattening to true-to-eye dynamic range before edits",
+      "timestamp": "01:03:06",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Manual sky replacement and alignment (two-shot approach)",
+      "timestamp": "04:53:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Clone Stamp Tool for sky merging",
+      "timestamp": "01:24:59",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Perspective Warp for wider-look composition",
+      "timestamp": "01:28:56",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Puppet Warp for selective distortions",
+      "timestamp": "01:32:57",
+      "confidence": 0.65
+    },
+    {
+      "technique": "History Brush and non-destructive editing workflow",
+      "timestamp": "01:34:41",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Gaussian Blur for diffusion and depth enhancement",
+      "timestamp": "01:37:47",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Color grading with tonal-based color adjustments",
+      "timestamp": "01:57:42",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective Color and HSL color manipulation",
+      "timestamp": "01:10:03",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:03:19.461074+00:00"
+}

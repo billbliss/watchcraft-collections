@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 4-2.mp4",
+  "title": "New Zealand Landscape Photo Editing: Dynamic Range, Color Separation, Water Emphasis, and Focus Stacking (NZ 4-2)",
+  "date": {
+    "display": "December 2024",
+    "iso": "2024-12-09T00:02:15Z",
+    "precision": "day",
+    "confidence": 0.75,
+    "basis": "embedded_creation_time in video metadata"
+  },
+  "locations": [
+    {
+      "name": "New Zealand (probable field location)",
+      "confidence": 0.6,
+      "basis": "Transcript repeatedly references New Zealand settings; filename suggests NZ; explicit mentions of NZ landscapes and lichen"
+    }
+  ],
+  "summary": "This Zoom-into-field-to-post workflow video presents a landscape editing sequence in a New Zealand setting, focusing on expanding dynamic range, color management, and depth separation. The presenter guides decisions about frame composition, applies color controls (including a blue-primary/blue-gold style filter), isolates problematic reds, and uses dehaze, selective color, and greens/blues adjustments to separate background from foreground. Water and waterfalls are enhanced with mid-tone dodges, while mist and blue tones create depth. The tutorial covers a handheld two-shot focus stack, meticulous edge blending with a hard-edge brush, and extensive use of clone paint and other tools to manage rainbow artifacts, sky color, and foreground detail. It closes with perspective tweaks (warp), diffusion-like effects (Orton), and final color grading to unify mood and depth.",
+  "topics": [
+    "dynamic range expansion",
+    "shadow recovery",
+    "highlight suppression",
+    "blue primary / blue-gold color calibration",
+    "HSL color isolation (red/orange removal)",
+    "green and blue color adjustments",
+    "dehaze for depth separation",
+    "mid-tone dodge for water",
+    "water color separation with dodging",
+    "greens and whites adjustments",
+    "selective color on blacks/whites",
+    "foreground/background separation",
+    "Orton diffusion / blur",
+    "perspective warp",
+    "focus stacking (two-shot manual blend)",
+    "hard-edge brush for precise blending",
+    "clone stamp vs clone paint workflow",
+    "rainbow removal and clone smear",
+    "rule of trapezoids (composition)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:58",
+      "title": "Initial tonal planning and dynamic range",
+      "concepts": [
+        "dynamic range",
+        "shadow recovery",
+        "highlight control"
+      ],
+      "description": "The speaker emphasizes visualizing the scene, framing with trees, and expanding shadows while suppressing highlights to avoid blown-out areas. This sets the baseline for subsequent tonal and color work."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:09:04",
+      "title": "Blue primary / blue-gold color calibration and color isolation",
+      "concepts": [
+        "blue primary / blue-gold filter",
+        "greens and sky impact",
+        "HSL isolation (red/orange removal)"
+      ],
+      "description": "The presenter demonstrates the blue-gold (blue primary) adjustment to make greens and skies pop, notes a naming quirk in software, and isolates the red/orange NZ lichen using HSL to reduce distraction."
+    },
+    {
+      "start": "00:09:04",
+      "end": "00:16:43",
+      "title": "Background separation and mist enhancement",
+      "concepts": [
+        "dehaze",
+        "mid-tone dodge",
+        "greens and blues",
+        "whites adjustments"
+      ],
+      "description": "The workflow shifts to intensifying background brightness while keeping tree branches darker, dodging waterfalls, and enhancing blue tones in the river for depth. Dehaze and selective-color-based tweaks are introduced to push background separation."
+    },
+    {
+      "start": "00:16:43",
+      "end": "00:29:17",
+      "title": "Foreground/background balance and painterly color grading",
+      "concepts": [
+        "selective color on blacks/whites",
+        "greens and blues adjustments",
+        "sky blues",
+        "whites adjustments",
+        "digital painterly glow"
+      ],
+      "description": "Focus turns to brighter, less-saturated background elements and richer foreground contrast. The speaker refines greens/blues, brightens whites behind branches, adjusts blues to push depth, and cycles through multiple color-grade methods to achieve a painterly glow and a blue-toned sky."
+    },
+    {
+      "start": "00:20:38",
+      "end": "00:29:17",
+      "title": "Focus stacking workflow and edge blending",
+      "concepts": [
+        "manual focus stacking",
+        "overlap evaluation",
+        "hard-edge brush blending",
+        "blending modes"
+      ],
+      "description": "A focused discussion on combining two handheld shots to extend depth of field. The presenter examines overlap along the focus line, demonstrates sampling points, experiments with blending modes, and uses a hard-edge brush to align foreground and background elements without halos."
+    },
+    {
+      "start": "00:29:17",
+      "end": "01:22:46",
+      "title": "Rainbow editing, clone painting, and final polish",
+      "concepts": [
+        "rainbow management",
+        "clone stamp / clone paint",
+        "Orton diffusion",
+        "perspective warp",
+        "sky and water color grading"
+      ],
+      "description": "The bulk of the later session covers rainbow artifact management via remove tool limitations, clone painting and smear to blend rainbow regions, color grade refinement, and perspective warp to shape foreground waves. The instructor highlights the balance between preserving detail and achieving a cohesive, atmospheric final image, with cautious notes on avoiding over-processing and preserving natural transitions."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion with shadow recovery and highlight suppression",
+      "timestamp": "00:00:36",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blue primary / blue-gold filter for color control",
+      "timestamp": "00:01:20",
+      "confidence": 0.7
+    },
+    {
+      "technique": "HSL isolation to remove red/orange lichen (New Zealand scene)",
+      "timestamp": "00:02:16",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mid-tone dodge for water and waterfall visibility",
+      "timestamp": "00:05:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective color adjustments on blacks/whites for edge separation",
+      "timestamp": "00:07:03",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dehaze for depth separation and painterly glow",
+      "timestamp": "00:09:04",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Two-shot focus stacking workflow with manual blend and overlap checks",
+      "timestamp": "00:20:38",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Orton diffusion / blur for background softness",
+      "timestamp": "00:44:30",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Perspective Warp to adjust foreground waves and horizon",
+      "timestamp": "01:17:51",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Clone Stamp / Clone Paint workflow for background brightness",
+      "timestamp": "00:40:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Rainbow editing with clone smear and selective recoloring",
+      "timestamp": "01:12:39",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Rule of trapezoids for edge composition during cropping",
+      "timestamp": "00:29:29",
+      "confidence": 0.5
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:24:02.645934+00:00"
+}

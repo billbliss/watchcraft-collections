@@ -1,0 +1,151 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Panoramic Stitching Methods.mp4",
+  "title": "Panoramic Stitching Methods for Drones: Rectilinear, 360 Panos, and Post-Processing Workflows",
+  "date": {
+    "display": "Approx. 2026-08-21",
+    "iso": "2026-08-21",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded_creation_time metadata indicates 2026-08-21; transcript content references sunrises/sunsets on a single day and multiple drone panoramas, aligning with a production date around this time."
+  },
+  "locations": [
+    {
+      "name": "Tusk Peak (referenced location in video)",
+      "confidence": 0.65,
+      "basis": "Explicit mention in transcript: “take all of these files from the Tusk, which is that crazy peak that you just saw there. That was at sunrise. This, believe it or not, is sunset from the same exact day.”"
+    }
+  ],
+  "summary": "The video provides a practical, example-driven tour of drone panorama stitching across several software tools. It explains how lens choice and the number of shots affect field of view, distinguishes rectilinear from spherical (and panometric) stitching, and compares workflows using Lightroom, Photoshop, PTGui Pro, and PanoVolo. Viewers see hands-on demonstrations of wide-angle rectilinear stitching in PTGui Pro, free-panel and 360-degree panoramas, and techniques for handling exposure matching, warping, and edge alignment. The presenter also covers the unique challenges of 360 panos (including look-down limitations and mirroring to fix center alignment) and outlines a practical end-to-end pipeline from initial capture through post-processing to final stitching, including troubleshooting steps when PanoVolo crashes.",
+  "topics": [
+    "Panoramic drone stitching basics",
+    "9-shot field-of-view implications (Pro 3 vs Pro 4)",
+    "Rectilinear distortion necessity for wide panoramas",
+    "Distinctions among rectilinear, spherical, and panometric stitching",
+    "Wide-angle panel vs free panel vs DJI-wide stitching options",
+    "PTGui Pro features (exposure matching, multiple stitch types)",
+    "PanoVolo’s DJI-file sequencing capability",
+    "Lightroom/Photoshop exposure matching for panoramas",
+    "360 panoramas and mirroring to fix center alignment",
+    "Look-down considerations and bottom-edge distortion in 360s",
+    "Perspective warp and trapezoidal corrections in Photoshop",
+    "End-to-end post-processing workflow (Lightroom → PTGui → PanoVolo → Photoshop)",
+    "Handling blank frames and file-order issues during stitching",
+    "Export formats (TIFF/uncompressed) for panoramas"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:02:26.780",
+      "title": "Intro to panoramic drone stitching and lens field of view",
+      "concepts": [
+        "Pro 3 vs Pro 4 lens differences",
+        "9-shot pano FOV (Pro 4 ~130°, Pro 3 ~145°)",
+        "rectilinear distortion introduction"
+      ],
+      "description": "Begins with a high-level setup for drone panoramas, noting how different drone cameras yield different effective focal lengths when stitching 9 shots, and introducing the core issue of rectilinear distortion needed to keep horizons straight in wide-angle panoramas."
+    },
+    {
+      "start": "00:02:26.780",
+      "end": "00:04:20.180",
+      "title": "Rectilinear distortion and why it matters",
+      "concepts": [
+        "Rectilinear vs spherical distortion",
+        "edge-periphery distortion",
+        "horizon consistency"
+      ],
+      "description": "Explains why wide-angle rectilinear distortion is used to avoid horizon bending, and contrasts how telephoto and mid-range lenses behave versus wide-angle lenses on stitched panoramas."
+    },
+    {
+      "start": "00:04:20.180",
+      "end": "00:09:01.360",
+      "title": "Overview of stitching tools and options",
+      "concepts": [
+        "Lightroom, Photoshop, PTGui Pro, PanoVolo",
+        "differences in exposure handling and stitch types"
+      ],
+      "description": "Outlines available stitching ecosystems and their relative strengths, preparing the viewer for deeper demonstrations of specific tools and workflows."
+    },
+    {
+      "start": "00:09:01.360",
+      "end": "00:16:14.000",
+      "title": "Wide-angle pano with PTGui Pro and post-processing",
+      "concepts": [
+        "Rectilinear stitching in PTGui Pro",
+        "post-process exposure blending",
+        "field-of-view readout and adjustment",
+        "perspective Warp intro"
+      ],
+      "description": "Demonstrates opening a set of images in PTGui Pro, selecting rectilinear output, adjusting post-process exposure blending, and preparing the image for final processing with a rectilinear outcome."
+    },
+    {
+      "start": "00:16:14.000",
+      "end": "00:24:12.000",
+      "title": "Free pano and 360 panorama explorations",
+      "concepts": [
+        "Free panel vs 360 panel stitching",
+        "projection options (equirectangular, stereographic, etc.)",
+        "Sun/star images and cropping considerations"
+      ],
+      "description": "Compares free-panel (DJI) panos to wide-angle panels and previews 360-panorama decisions, including projection choices and how framing affects final output."
+    },
+    {
+      "start": "00:24:12.000",
+      "end": "00:30:29.700",
+      "title": "360 panorama processing and mirroring technique",
+      "concepts": [
+        "60-90 degree look-down issue in 360s",
+        "mirroring to fix center alignment",
+        "edge alignment without obvious warp"
+      ],
+      "description": "Goes into depth on the specific challenges of 360 panoramas, including the need to look down to avoid unusable portions, and introduces mirroring as a practical fix for center alignment when stitching results aren’t inherently balanced."
+    },
+    {
+      "start": "00:30:29.700",
+      "end": "00:38:51.000",
+      "title": "Post-processing workflow, troubleshooting, and wrap-up",
+      "concepts": [
+        "Batch exposure adjustments in Lightroom",
+        "DJI-file sequencing with PanoVolo",
+        "stitching with PTGui and Photoshop workflows",
+        "PanoVolo crash troubleshooting"
+      ],
+      "description": "Wraps up with an end-to-end workflow, detailing batch processing in Lightroom, sequencing in PanoVolo, and stitching in PTGui/Photoshop, plus debugging tips when PanoVolo fails to launch."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Rectilinear stitching via Wide Angle Panel",
+      "timestamp": "00:02:43.580",
+      "confidence": 0.78
+    },
+    {
+      "technique": "PanoVolo sequencing of DJI file order",
+      "timestamp": "00:06:05.080",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exposure matching in post-processing (Exposure plus Shift)",
+      "timestamp": "00:14:13.060",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Rectilinear projection choice in PTGui Pro",
+      "timestamp": "00:13:05.160",
+      "confidence": 0.75
+    },
+    {
+      "technique": "360 panorama mirroring to fix center and edge alignment",
+      "timestamp": "00:29:40.400",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Look-down mitigation in 360 panoramas (60-90 degree rule)",
+      "timestamp": "00:24:45.000",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:40:52.117371+00:00"
+}

@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Battle-Theil.mp4",
+  "title": "Battle-Theil.mp4: Diffusion, Sky Blending, and Warp Techniques in Photoshop (Landscape Editing Masterclass)",
+  "date": {
+    "display": "2019-08-13",
+    "iso": "2019-08-13",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "Embedded creation time in file metadata: 2019-08-13T18:50:19Z; transcript confirms techniques but not the production date."
+  },
+  "locations": [],
+  "summary": "This educational video presents an advanced, Photoshop-centered workflow for landscape editing that centers on seamless sky replacement, atmospheric diffusion, and precise geometric distortions to control focal length and perspective. The instructor walks through dust-spot removal, color grading with temperature, tint, blue calibration, and split toning to guide the viewer’s eye toward a light source. A key sequence shows moving the upper sky downward and blending it into the original sky with clone-stamp work and careful edge handling to avoid seams. The video then showcases a suite of warp-based tools (perspective warp, adaptive wide-angle distortions, puppet warp, and free transform) to reshape composition and simulate different focal lengths, followed by a painting phase that uses diffusion plus luminosity with hard-edge cloning and history brush to create atmospheric haze and glow. Dodge/burn and subtle exposure adjustments are demonstrated to enhance depth, with occasional notes about Instagram-style fads and the long arc of editing techniques across decades. The result is a multi-layer, painterly approach to making a highly atmospheric landscape that remains cohesive across sky and terrain.",
+  "topics": [
+    "clone stamp",
+    "alt-click",
+    "sky replacement",
+    "sky blending",
+    "rule of thirds",
+    "color temperature",
+    "tint",
+    "camera calibration",
+    "split toning",
+    "highlights",
+    "shadows",
+    "adjustment brushes",
+    "adaptive wide angle",
+    "fisheye distortion",
+    "crop",
+    "perspective warp",
+    "puppet warp",
+    "free transform",
+    "history brush",
+    "hard edge clone stamp",
+    "diffusion plus luminosity",
+    "gaussian blur",
+    "dodge",
+    "burn",
+    "graduated filter",
+    "image diffusion",
+    "diffusion glow",
+    "landscape editing",
+    "Photoshop workflow"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.800",
+      "end": "00:01:03.360",
+      "title": "Dust removal and composition framing",
+      "concepts": [
+        "dust spot clone",
+        "rule of thirds",
+        "lead the eye toward light"
+      ],
+      "description": "The video opens with addressing a dust spot on the lens and establishing a rule-of-thirds composition. The speaker notes the goal is to pull attention toward the light source and set up a baseline composition before more complex edits begin."
+    },
+    {
+      "start": "00:00:14.540",
+      "end": "00:01:39.920",
+      "title": "Color grading: temperature, tint, and split toning",
+      "concepts": [
+        "color temperature",
+        "tint",
+        "camera calibration (blue balance)",
+        "split toning",
+        "highlight/shadow separation"
+      ],
+      "description": "Color adjustments are made by warming the image, then balancing with a blue tint via camera calibration, followed by selective split-toning to shape how highlights and shadows carry color, aiming to control the overall mood and cloud/sky relationships."
+    },
+    {
+      "start": "00:02:00.440",
+      "end": "00:03:54.520",
+      "title": "Sky manipulation and edge blending with clone-stamp",
+      "concepts": [
+        "move sky downward",
+        "alt-click, drag",
+        "seamless blending",
+        "bleeding haze onto mountains"
+      ],
+      "description": "Upper sky is moved down to achieve a preferred balance and is blended with the original sky using clone-stamp techniques. The emphasis is on avoiding visible seams and letting a touch of haze bleed across mountain edges to unify the scene."
+    },
+    {
+      "start": "00:04:18.340",
+      "end": "00:10:04.080",
+      "title": "Focal-length experimentation and warp tools",
+      "concepts": [
+        "crop for focal length",
+        "adaptive wide-angle filter",
+        "fisheye distortion",
+        "perspective warp",
+        "manual distortion control"
+      ],
+      "description": "The editor discusses cropping and applying distortions to simulate different focal lengths, including exploring fisheye effects with adaptive wide-angle tools, and using perspective warp to remove unwanted elements (like an arm in frame). The section also touches on the breadth of warp options and their practical outcomes."
+    },
+    {
+      "start": "00:11:37.800",
+      "end": "00:21:14.780",
+      "title": "Diffusion plus luminosity: painting atmosphere and glow",
+      "concepts": [
+        "diffusion brush",
+        "hard-edge clone stamp",
+        "history brush",
+        "glow and luminosity",
+        "Gaussian blur",
+        "dodge and burn"
+      ],
+      "description": "The core atmospheric technique is introduced: diffusion plus luminosity. The artist paints atmospheric haze with a diffusion brush, builds glow through luminosity, and uses hard-edge cloning and the history brush to maintain control and avoid obvious seams. Layers of diffusion are built to emphasize near-to-far relationships, and additional steps (including lighter exposures and dodging/burning) refine the final glow and depth."
+    },
+    {
+      "start": "00:21:14.780",
+      "end": "00:22:32.000",
+      "title": "Final touches and commentary on trends",
+      "concepts": [
+        "dodge and burn",
+        "Instagram trend references",
+        "personal reflection on fads and longevity of process"
+      ],
+      "description": "The session culminates with subtle local adjustments (dodging/burning) and notes about recurring editing fads, including a nod to Instagram-style light effects and the cyclical nature of photo-editing trends across decades. The mentor affirms the value of the demonstrated approach while acknowledging subjective taste."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Diffusion plus luminosity for atmospheric glow",
+      "timestamp": "00:11:37.800",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Sky replacement/blending via clone-stamp with edge bleed",
+      "timestamp": "00:02:34.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Adaptive wide-angle distortion (fisheye) and focal-length experimentation",
+      "timestamp": "00:04:38.940",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Perspective warp to remove arm and reshape composition",
+      "timestamp": "00:05:48.600",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Puppet warp for localized terrain reshaping",
+      "timestamp": "00:07:43.960",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Hard-edge clone stamp and history brush for painting atmosphere",
+      "timestamp": "00:13:26.340",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Gaussian blur-based diffusion layers to build glow",
+      "timestamp": "00:20:37.520",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Dodge and burn for local contrast emphasis",
+      "timestamp": "00:21:19.040",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Graduated/contrasting tonal adjustments mentioned as a trend",
+      "timestamp": "00:21:58.080",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:32:16.986039+00:00"
+}

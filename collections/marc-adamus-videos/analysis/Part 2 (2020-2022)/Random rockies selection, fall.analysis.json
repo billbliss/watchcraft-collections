@@ -1,0 +1,91 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Random rockies selection, fall.mp4",
+  "title": "Expanding dynamic range and multi-shot blending in a sunrise landscape",
+  "date": {
+    "display": "October 1, 2021 (approx.)",
+    "iso": "2021-10-01",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time: 2021-10-01T18:26:43Z; transcript describes a fall sunrise landscape and lighting conditions"
+  },
+  "locations": [],
+  "summary": "The video presents a landscape photographer planning and executing a sunrise scene with backlit peaks. It covers working against light to preserve detail, managing a very long exposure that could smear movement, and pursuing a multi-shot blend to control moving elements such as trees and water. The workflow emphasizes evaluating camera and subject motion and atmospheric changes before blending, then proceeding with a dynamic-range-first processing approach: flattening the image, lifting shadows, and shaping light, followed by targeted color grading to evoke sunrise hues in highlights. The instructor also highlights applying a consistent base set of edits to subsequent shots to maintain uniformity across the composite.",
+  "topics": [
+    "long-exposure",
+    "exposure-blending",
+    "dynamic-range",
+    "multi-shot-blending",
+    "sunrise-color-grading",
+    "color-grading",
+    "camera-calibration",
+    "highlights",
+    "shadows",
+    "post-processing-workflow",
+    "landscape-photography",
+    "motion-in-landscape",
+    "exposure-stacking",
+    "post-processing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:03:56",
+      "title": "Framing, backlit exposure, and initial blend planning",
+      "concepts": [
+        "shooting into the light",
+        "sun behind peaks",
+        "framing composition",
+        "long exposure risk (184s)",
+        "initial blend planning"
+      ],
+      "description": "The speaker explains facing the scene to manage light when the sun rises behind peaks, noting that backlighting can block light on surrounding summits. A 184-second exposure is identified as an example of a long exposure that would smear moving elements, and the talk foregrounds the need to blend multiple shots to preserve detail across the scene, including the trees and other moving components."
+    },
+    {
+      "start": "01:03:56",
+      "end": "04:22:00",
+      "title": "Dynamic-range blending and movement assessment",
+      "concepts": [
+        "blend for moving elements",
+        "three questions before blending",
+        "camera movement vs subject movement vs light changes",
+        "planning additional exposures"
+      ],
+      "description": "The narrative shifts to how to determine the blend strategy by asking: did the camera move, what in the scene moved, and did lighting or atmosphere change? The goal is to decide what to merge from multiple exposures, with explicit mention of blending for trees and obtaining exposures where everything remains sharp before assembling the final composite."
+    },
+    {
+      "start": "04:22:00",
+      "end": "04:36:00",
+      "title": "Post-processing: dynamic-range expansion, color grading, and preset consistency",
+      "concepts": [
+        "expand dynamic range",
+        "flattening and detail recovery",
+        "color grading and sunrise hues",
+        "camera calibration to blues",
+        "highlight-focused adjustments",
+        "apply previous settings to subsequent shots"
+      ],
+      "description": "Processing steps are outlined after blending: expand the dynamic range and flatten to reveal detail, then adjust exposure while applying color work judiciously. Camera calibration is used to introduce blue tones, with color grading emphasizing sunrise hues in highlights. The workflow includes applying the same base settings to subsequent shots to keep consistency across the blend."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Long-exposure blending to manage movement (trees, water) across multiple frames",
+      "timestamp": "00:00:55",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective highlight-based sunrise color grading using color grading tools",
+      "timestamp": "00:03:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Copying/applying previous settings to subsequent shots for consistency",
+      "timestamp": "00:04:02",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:10:43.950858+00:00"
+}

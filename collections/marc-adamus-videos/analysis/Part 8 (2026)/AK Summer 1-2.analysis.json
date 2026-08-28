@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/AK Summer 1-2.mp4",
+  "title": "Post-Processing Workflow for Alaska Landscape Shots: Depth, Color, and Panoramas in Camera Raw/Photoshop",
+  "date": {
+    "display": "July 15, 2026 (approx. based on embedded export time)",
+    "iso": "2026-07-15",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time: 2026-07-15T05:05:58.000000Z"
+  },
+  "locations": [
+    {
+      "name": "Alaska (probable shooting location)",
+      "confidence": 0.75,
+      "basis": "Transcript repeatedly references an Alaska trip, Alaska landscapes, and Anchorage."
+    },
+    {
+      "name": "Saudi Arabia (mentioned as comparative example)",
+      "confidence": 0.25,
+      "basis": "Transcript mentions a Saudi Arabia shot as a reference point for depth and processing techniques."
+    }
+  ],
+  "summary": "The video presents a dense, technique-forward workflow for transforming Alaska landscape imagery through non-destructive RAW processing, compositing, and panorama construction. It foregrounds guiding principles such as creating depth via controlled darkening and light paths, extracting shadow detail, and accentuating color (rainbow/blue hues) with Camera Raw, selective color, and tonal-based color adjustments. The instructor repeatedly emphasizes non-destructive workflows (unlimited history, history states, multiple saved versions), zone-based processing (flowers, glacier, mountains, sky), and precision masking with brushes. It also covers advanced warping and stitching tools (distort+scale, perspective/puppet warp, clone painting) for panoramas, and documents practical workflow decisions around focus stacking vs. bracketing, tripod stability, and drone panoramas using PTGUI and PanoVolo, all set against Alaska trip footage and visuals.",
+  "topics": [
+    "Dark-to-light eye path: directing attention from light to subject through processing",
+    "Preserving shadow detail while darkening for tonality (avoid clipping shadows)",
+    "Starting RAW workflow in Camera Raw/Photoshop (Camera Raw filter)",
+    "Unlimited history in Photoshop to capture every edit state",
+    "Rainbow accentuation: using whites adjustment to enhance color and brightness",
+    "Balancing glacier/sky blues via blues, warmth, and saturation adjustments",
+    "History brush: painting adjustments from one history state into another with layer masking",
+    "Hard-edge masking for unselectable edges using 90% hard brush and 100% opacity",
+    "Fade techniques to conceal obvious edits and blend edges",
+    "Repeating adjustments (30% opacity passes) to build up effects non-destructively",
+    "De-haze and selective edge control to push depth and atmosphere",
+    "Zones concept: separating flowers, glacier, mountains, and sky for targeted processing",
+    "Selective color vs HSL for precise color shifts (blue flowers example)",
+    "Color grading with tonal-based color adjustments and iterative balancing",
+    "Sky replacement/overlay approaches and keeping horizon/edges coherent",
+    "Cloning/sky replacement using clone stamp for sky alignment in panoramas",
+    "Perspective warp vs puppet warp: warping techniques for refined composites",
+    "Panorama stitching workflows: PTGUI vs Lightroom vs PanoVolo, rectilinear vs fisheye options",
+    "Focus stacking workflow: load into stack, auto-align, and blend; distinguishing from bracketing",
+    "Non-destructive saving strategy: saving multiple versions to preserve options"
+  ],
+  "sections": [
+    {
+      "start": "00:01:15.000",
+      "end": "00:04:00.000",
+      "title": "Establishing depth and guiding the viewer's eye through light",
+      "concepts": [
+        "big-to-small depth",
+        "drawing the eye along the light path",
+        "planning depth by darkening to create a guided visual path"
+      ],
+      "description": "The speaker describes composing for depth by leveraging lighting differences (backlit peaks, brighter highlights) and a heavy-handed initial dark pass to establish a visual path from the light source into the mountains."
+    },
+    {
+      "start": "00:03:16.000",
+      "end": "00:04:50.000",
+      "title": "Non-destructive history workflow",
+      "concepts": [
+        "unlimited history in Photoshop",
+        "recording every brush stroke as a history state",
+        "painting adjustments by history state with the history brush"
+      ],
+      "description": "The presenter demonstrates enabling unlimited history in Photoshop and explains using history states to non-destructively apply and revert edits, then painting those states back into a composite image."
+    },
+    {
+      "start": "00:05:53.000",
+      "end": "00:10:03.000",
+      "title": "Camera Raw workflow and rainbow enhancement",
+      "concepts": [
+        "Camera Raw filter in Photoshop",
+        "white's adjustment as a luminosity tool",
+        "balancing rainbow visibility via whites, blues, warmth, and global saturation",
+        "painting the adjustment into the image with history state masking"
+      ],
+      "description": "Camera Raw is used to push global tonality, bring out the rainbow, and maintain color balance (glacier color) while preserving depth. The whites adjustment is demonstrated to recover contrast and saturation and is applied selectively using masking/history."
+    },
+    {
+      "start": "00:12:20.000",
+      "end": "00:16:45.000",
+      "title": "Depth control with haze, dehaze, and edge refinement",
+      "concepts": [
+        "de-haze for atmospheric depth",
+        "selective masking to apply haze to background layers",
+        "hard-edge brush for non-selectable mountains",
+        "edge refinement and feathering"
+      ],
+      "description": "The instructor uses de-haze to push background depth, then applies targeted haze via masks and hard-edge brush techniques, followed by careful edge erasing and feathering to maintain realism."
+    },
+    {
+      "start": "00:18:00.000",
+      "end": "00:22:40.000",
+      "title": "Layered adjustments and zone-based refinement",
+      "concepts": [
+        "zones: flowers, glacier, mountains, sky",
+        "global vs local adjustments and fades",
+        "layered workflow and non-destructive stacking",
+        "starting with a dark pass and progressively lifting midtones"
+      ],
+      "description": "A multi-zone approach is presented, with deliberate sequencing of adjustments per zone and fades to create coherent depth and mood across the image while preserving as much detail as possible."
+    },
+    {
+      "start": "00:32:21.000",
+      "end": "01:02:21.000",
+      "title": "Sky and color grading with tonal-based adjustments",
+      "concepts": [
+        "zone-based processing for sky and flowers",
+        "color grading using tonal-based color adjustments",
+        "color matching between sky and subject colors (blue/flower hues)"
+      ],
+      "description": "The section covers sky color grading, tonal-based color adjustments, and iterative color matching to ensure harmony between sky, flowers, and glacier tones, with emphasis on preserving natural look while enhancing mood."
+    },
+    {
+      "start": "01:33:38.000",
+      "end": "01:41:51.000",
+      "title": "Drone panorama workflow and stitching tools",
+      "concepts": [
+        "PTGUI vs PanoVolo for drone panoramas",
+        "rectilinear vs other projections",
+        "auto exposure matching and sky/foreground balance",
+        "drone file organization and import considerations"
+      ],
+      "description": "The presenter discusses the practicalities of drone panoramas, including stitch software choices (PTGUI generally preferred over Lightroom), the importance of exposure matching, and organizational tips for drone files to ensure clean stitching."
+    },
+    {
+      "start": "03:04:29.000",
+      "end": "03:07:57.000",
+      "title": "Non-destructive saving and versioning strategy",
+      "concepts": [
+        "saving multiple versions of the same composition",
+        "avoiding destructive editing by preserving unedited sources",
+        "using clone-paint and non-destructive blend methods to compare outcomes"
+      ],
+      "description": "A closing emphasis on non-destructive workflows: saving multiple versions, avoiding destructive edits, and using clone-paint and layering to maintain options for future adjustments."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Camera Raw filter in Photoshop",
+      "timestamp": "00:05:53",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Unlimited history and history brush usage",
+      "timestamp": "00:03:16",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Rainbow accentuation via whites adjustment and masking",
+      "timestamp": "00:07:18",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Blues balancing and warmth adjustments for color fidelity",
+      "timestamp": "00:08:21",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Hard-edge masking and 100% opacity painting for edge precision",
+      "timestamp": "00:14:24",
+      "confidence": 0.83
+    },
+    {
+      "technique": "De-haze for background depth and selective hazing",
+      "timestamp": "00:12:20",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Layered, zone-based processing with fades",
+      "timestamp": "00:18:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color vs HSL color management (blue flowers)",
+      "timestamp": "00:34:25",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective warp and Distort+Scale for warping panoramas",
+      "timestamp": "01:15:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Puppet warp for selective distortion control",
+      "timestamp": "01:17:57",
+      "confidence": 0.75
+    },
+    {
+      "technique": "PTGUI panorama stitching and frame organization",
+      "timestamp": "01:28:32",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Auto alignment and layering for focus stacks",
+      "timestamp": "01:11:54",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Focus stacking workflow (load into stack, align, blend)",
+      "timestamp": "01:50:00",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Non-destructive saving and versioning strategy (multiple saves)",
+      "timestamp": "03:04:29",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:42:13.757940+00:00"
+}

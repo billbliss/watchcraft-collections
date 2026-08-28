@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Baffin 1-1.mp4",
+  "title": "Two-Pass Texture Enhancement and Creative Dodge on Iceberg Imagery (Dehaze, Crop, Blur)",
+  "date": {
+    "display": "August 21, 2026",
+    "iso": "2026-08-21",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "embedded_creation_time in metadata; folder naming indicates 2026 session"
+  },
+  "locations": [],
+  "summary": "The video documents a hands-on editing session focused on ice/water imagery. The speaker describes processing a hole shot in two ways (unmodified and with heavy dehaze to reveal textures), then moves through cropping, applying dehaze again with added clarity and brightness, and experimentations on an iceberg top. A recurring theme is using dodging to shape shadows into an eye-like band and blending it into the composition. The session also demonstrates dirt removal from water using the blur tool, edge-blending with soft brushes, and reintroducing the original texture to avoid over-editing. The narrator discusses exposure and white adjustments, noting how dehaze can create striking, abstract results in otherwise ordinary frames.",
+  "topics": [
+    "Dehaze (heavy) for texture revelation",
+    "Two-pass processing (unmodified vs dehazed)",
+    "Cropping to isolate subject",
+    "White/Whites adjustment",
+    "Clarity and Brightness adjustments",
+    "Cropping then targeted dehaze on cropped area",
+    "Dodge (shadow dodging) for emphasis and eye-like band",
+    "Banding around subject created by dodging and fading",
+    "Soft brush with low opacity for edge blending",
+    "Hard edge brush for precision corrections",
+    "Blur tool for removing dirt in water",
+    "Painting back original texture after edits",
+    "Mid-tones vs. overall tonal adjustments",
+    "Exposure adjustments (lower exposure, raise whites)",
+    "Blue/tonal even-out for color balance",
+    "Texture preservation vs. abstraction in editing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:20",
+      "title": "Two-pass processing of hole texture",
+      "concepts": [
+        "two-pass workflow",
+        "initial unedited view of hole texture",
+        "heavy dehaze as texture emphasis"
+      ],
+      "description": "Intro discusses processing the hole shot in two ways: maintain the original look and apply a strong dehaze to pull out surrounding textures."
+    },
+    {
+      "start": "00:02:11",
+      "end": "00:02:38",
+      "title": "Cropping and targeted dehaze with clarity/brightness",
+      "concepts": [
+        "crop",
+        "dehaze",
+        "clarity",
+        "brightness"
+      ],
+      "description": "A cropped frame is treated with dehaze and then increased clarity and brightness for a more defined texture."
+    },
+    {
+      "start": "00:03:46",
+      "end": "00:04:23",
+      "title": "Dodging shadows to create emphasis and a band",
+      "concepts": [
+        "dodging shadows",
+        "band around subject",
+        "fade-in of effect"
+      ],
+      "description": "The speaker describes dodging shadows to form a visual band, later fading the effect toward the bottom of the composition."
+    },
+    {
+      "start": "00:04:31",
+      "end": "00:05:42",
+      "title": "Removing water dirt with blur and careful blending",
+      "concepts": [
+        "blur tool",
+        "erase dirt",
+        "soft edge/blending",
+        "opacity blending"
+      ],
+      "description": "Dirt in the water is removed using the blur tool at an appropriate strength, then edges are softened and blended with the surrounding area; the original texture is painted back as needed."
+    },
+    {
+      "start": "00:05:57",
+      "end": "00:08:26",
+      "title": "Finishing touches: exposure notes, color and final texture decisions",
+      "concepts": [
+        "exposure",
+        "white/whites adjustments",
+        "color blues",
+        "hard edge brush",
+        "reintroducing texture"
+      ],
+      "description": "The session concludes with refinements such as adjusting exposure and white levels, balancing blues, applying hard-edge corrections, and reintroducing original textures to avoid over-editing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Heavy dehaze to reveal textures",
+      "timestamp": "00:00:33",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Crop before applying dehaze and tonal adjustments",
+      "timestamp": "00:02:23",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Dodging shadows to create emphasis and eye-like band",
+      "timestamp": "00:03:46",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Fade/dodge around subject with low-opacity fill",
+      "timestamp": "00:03:56",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Blur-based dirt removal with 100% painting",
+      "timestamp": "00:04:31",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Edge blending with soft brush",
+      "timestamp": "00:05:12",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Reintroducing original texture after edits",
+      "timestamp": "00:05:37",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Hard edge brush for selective correction",
+      "timestamp": "00:06:00",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:07:15.305564+00:00"
+}

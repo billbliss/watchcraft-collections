@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/PNW 2-1.mp4",
+  "title": "Five-zone RAW workflow and brush-based history painting for landscape processing (PNW 2-1)",
+  "date": {
+    "display": "2024-06-23",
+    "iso": "2024-06-23T13:46:06.000000Z",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "embedded_creation_time in metadata"
+  },
+  "locations": [
+    {
+      "name": "Mexico",
+      "confidence": 0.9,
+      "basis": "Explicitly described in transcript as the scene used to illustrate the processing system: 'shot from last week's trip in Mexico' (00:00:05–00:01:02)"
+    },
+    {
+      "name": "Pacific Northwest",
+      "confidence": 0.6,
+      "basis": "Transcript frames the video as processing Pacific Northwest images; file path includes PN W and title references 'Pacific Northwest' (00:00:00; 00:00:00–00:00:15)"
+    }
+  ],
+  "summary": "This tutorial-style landscape processing session centers on a multi-zone RAW workflow designed to guide the viewer from a flat, high-contrast RAW capture toward a cohesive, light-directed composition. The host uses a Mexico drone shot as a practical example to demonstrate flattening dynamic range, suppressing highlights, expanding shadow detail, and establishing a five-zone structure (sky, water reflection, mountains, middle ground, foreground). He emphasizes non-destructive edits via Camera Raw and Photoshop history states, demonstrates painting adjustments with the history brush, crops for composition, and sky/water color grading through tonal-based color adjustments. The narrative blends technical steps with an artistic philosophy—leading the eye from large to small elements, creating light paths, and maintaining smooth tonal transitions—culminating in finishing touches like vignettes, micro-adjustments to flowers, and considerations for print-reproduction.",
+  "topics": [
+    "Mavic 3 Pro",
+    "drone photography",
+    "dynamic range",
+    "RAW processing",
+    "Camera Raw",
+    "Photoshop history states",
+    "history brush",
+    "zone-based editing",
+    "five-zone workflow",
+    "leading the eye",
+    "path of light",
+    "sky Whites adjustment",
+    "anti-crepuscular ray",
+    "auto HDR",
+    "color grading",
+    "tonal-based color adjustments",
+    "selective color",
+    "color balance",
+    "dodge and burn",
+    "vignette",
+    "cropping",
+    "focus stacking",
+    "clone tool",
+    "minimalism",
+    "printing calibration",
+    "histograms critique",
+    "exposure vs shadows",
+    "halo-free color transitions",
+    "depth in landscape"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:04:54.000",
+      "title": "Intro and example shot selection",
+      "concepts": [
+        "Pacific Northwest focus",
+        "Mexico example shot",
+        "flattening for RAW baseline",
+        "expose for sky"
+      ],
+      "description": "The video opens by framing the objective: processing Pacific Northwest images. A Mexico drone shot is used as a teaching example to illustrate the initial philosophy—start by flattening the image to manage dynamic range and highlight suppression before shaping light in subsequent steps."
+    },
+    {
+      "start": "00:04:55.000",
+      "end": "00:15:10.000",
+      "title": "Leading eye and five-zone philosophy",
+      "concepts": [
+        "leading the eye from large to small",
+        "level of blacks concept",
+        "depth via dark-to-light transitions",
+        "distance cues in landscape"
+      ],
+      "description": "The presenter introduces the artistic rationale: create a path of light to the distant mountain and move the viewer’s eye through the scene. He introduces the idea of level of blacks and the need for a smooth, continuous transition to imply depth in multi-element landscapes."
+    },
+    {
+      "start": "00:15:11.000",
+      "end": "00:26:04.000",
+      "title": "RAW-first multi-zone workflow and history-tools",
+      "concepts": [
+        "five-zone image segmentation",
+        "Camera Raw filter workflow",
+        "history states",
+        "history brush",
+        "zone-by-zone processing"
+      ],
+      "description": "The workflow is framed around processing in RAW with a five-zone model (sky, water/reflection, mountain, middle ground, foreground). The host emphasizes working in RAW, expanding shadows, and recording adjustments to Photoshop’s history states, then painting those changes back with the history brush for non-destructive compositing."
+    },
+    {
+      "start": "00:26:05.000",
+      "end": "00:37:50.000",
+      "title": "Sky and mid-ground color grading with tonal adjustments",
+      "concepts": [
+        "Whites adjustment for skies",
+        "color temperature and tint in skies",
+        "anti-crepuscular rays",
+        "color grading of water and horizon",
+        "tonal-based color adjustments"
+      ],
+      "description": "This section concentrates on sky and horizon treatment. The Whites tool is used to brighten the sky, then color temperature and tint are adjusted to craft the sky color. An anti-crepuscular ray is noted, and the water is color-graded in tandem with the horizon using tonal-based color adjustments to affect only selected tonal ranges."
+    },
+    {
+      "start": "00:37:51.000",
+      "end": "01:00:16.000",
+      "title": "Finishing touches, cropping, and final considerations",
+      "concepts": [
+        "five-zone refinement",
+        "crop for depth of field (non-standard ratios)",
+        "mountain-third composition",
+        "shadow dodging and diffusion",
+        "print and calibration notes"
+      ],
+      "description": "The final section covers refining each zone, selective color work to pop flowers, and careful color balance to preserve separation between sky, water, and mountain. The presenter discusses the mountain-as-a-third composition rule, minimalism in cloud usage, shadow dodging to create depth, and practical notes about printing calibration and color profiles before concluding with a break."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Zone-based multi-zone RAW processing with history-driven painting",
+      "timestamp": "00:14:10",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Use of Photoshop history states and history brush for non-destructive blending",
+      "timestamp": "00:16:04",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Sky treatment via Whites adjustment and color temperature/tint (avoiding HSL for skies)",
+      "timestamp": "00:21:39",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Auto HDR preset application to enhance sky beams (anti-crepuscular rays)",
+      "timestamp": "00:29:59",
+      "confidence": 0.73
+    },
+    {
+      "technique": "Selective color and color balance to isolate and enhance foreground flowers",
+      "timestamp": "00:55:11",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Dodge/burn style light manipulation to brighten horizon and add diffusion",
+      "timestamp": "00:59:28",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Cropping for depth of field and mountain-third composition",
+      "timestamp": "00:50:32",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Clone-based focus blend for foreground alignment (simple focus-stacking approach)",
+      "timestamp": "00:49:30",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:10:13.382812+00:00"
+}

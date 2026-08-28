@@ -1,0 +1,198 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Icefield tele AK 1-1.mp4",
+  "title": "Icefield Telephoto Post-Processing: Layered Composition, Sky Handling, and Color Grading (Photoshop/Camera Raw)",
+  "date": {
+    "display": "2025-07-29",
+    "iso": "2025-07-29",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata in video file; approximate date of export"
+  },
+  "locations": [],
+  "summary": "This tutorial-style video analyzes a telephoto icefield photograph and demonstrates a practical post‑processing workflow in Photoshop and Camera Raw. The presenter emphasizes core compositional structures—layers, leading lines, and framing—and then walks through: preparing the image with a crop, creating a directional light feel, and dealing with wind-blown capture; deciding between sky removal and sky replacement with sample skies; blending sky using clone sampling and history states; targeted dodging to steer the viewer toward light, followed by a controlled sequence of whites, color temperature, and color grading to achieve a sunset-like result. The workflow stresses keeping edits minimal and non-destructive, using history states to remix steps, and applying tonal-based color adjustments to preserve color integrity while enhancing mood. Practical notes cover shutter speed choices in windy conditions, the limitations of in-camera stabilization across brands, and the philosophy of learning a small toolkit well rather than mastering every Photoshop tool.",
+  "topics": [
+    "Telephoto landscape composition",
+    "Layered composition",
+    "Focal point and framing",
+    "Directional light and light source positioning",
+    "Leading lines",
+    "Wind and shutter speed effects on sharpness",
+    "Cropping before editing",
+    "Sky removal vs sky replacement",
+    "Clone Stamp for sky blending",
+    "History brush and history states",
+    "Dodging and burning to direct viewer attention",
+    "Mid-tone dodging and shadow dodging",
+    "Whites adjustment and color temperature pairing",
+    "Color grading in Camera Raw/Photoshop",
+    "Highlights, midtones, and shadows control in RAW",
+    "Tonality-based color adjustment",
+    "Dehaze cautions and color preservation",
+    "Multi-pass RAW color grading",
+    "Apply Previous Settings for consistency",
+    "Workflow discipline: use a concise toolset",
+    "Practice philosophy and efficiency in editing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "02:03:04",
+      "title": "Composition fundamentals: layers, focal points, and3-part structure",
+      "concepts": [
+        "layers",
+        "leading lines",
+        "framing",
+        "focal point",
+        "directional structure"
+      ],
+      "description": "The presenter identifies three fundamental compositional structures (layers, leading lines, framing) and explains how a layered shot with a clear focal point guides the eye through the scene. He notes that if a scene lacks a strong focal point or light-based cue, it can feel flat and 2D. An example scene is referenced where a helicopter intrudes but can be cropped or cloned out."
+    },
+    {
+      "start": "02:03:04",
+      "end": "05:20:00",
+      "title": "Lighting decisions and motion reality in the field",
+      "concepts": [
+        "directional light source",
+        "light from the sky",
+        "90-degree light angle",
+        "wind impact on stability",
+        "shutter speed considerations",
+        "camera stabilization"
+      ],
+      "description": "The discussion shifts to directional lighting and why the light source location matters for composition. The speaker addresses wind-induced blur, explains that 1/1000s is often the practical limit in strong winds, compares stabilization across brands, and stresses that shot sharpness depends on shutter speed, wind gusts, and lens stabilization."
+    },
+    {
+      "start": "05:20:00",
+      "end": "08:25:00",
+      "title": "Preprocessing plan: recording workflow and crop",
+      "concepts": [
+        "recording edits with history",
+        "base adjustments (exposure, whites, color temperature)",
+        "crop first"
+      ],
+      "description": "The video outlines a two-step preprocessing plan: first, crop to alter shape/form and set up the workflow, then perform baseline exposure/white balance adjustments without heavy color-grading. The workflow is recorded in Photoshop via the History tool to document every operation, with a note that cropping is the initial change to the image."
+    },
+    {
+      "start": "08:25:00",
+      "end": "12:12:00",
+      "title": "Sky handling options: remove vs replace, and initial sky blending",
+      "concepts": [
+        "remove tool sky isolation",
+        "sampled sky replacement",
+        "clone stamp sky transfer",
+        "apply previous settings for consistency"
+      ],
+      "description": "Two approaches to the sky are demonstrated: (1) use the remove tool to isolate and thin out the existing sky, then potentially replace it; (2) sample a different sky and blend it into the top of the image using the clone stamp and careful layering. The presenter shows applying previous settings to maintain consistency across similar shots and discusses the risk of introducing haziness or misalignment when blending."
+    },
+    {
+      "start": "12:12:00",
+      "end": "16:00:00",
+      "title": "Directed eye flow: mid-tone and shadow dodging for emphasis",
+      "concepts": [
+        "mid-tone dodge",
+        "shadow dodge",
+        "leading eye toward light source",
+        "local adjustments"
+      ],
+      "description": "This section demonstrates subtle dodging techniques to direct the viewer’s gaze toward a light source. Small mid-tone and shadow dodges are applied, followed by iterative refinements to avoid overdoing the effect and to preserve natural color while nudging attention toward the intended focal area."
+    },
+    {
+      "start": "16:00:00",
+      "end": "20:10:00",
+      "title": "Sunset-style color shaping and cautions with dehaze",
+      "concepts": [
+        "whites step sequence",
+        "color temperature pairing",
+        "dehaze caveat",
+        "color preservation"
+      ],
+      "description": "The presenter walks through a three-step whites/color-temperature sequence to achieve a sunset-like glow. He cautions that dehaze can dramatically increase contrast and disrupt color, so tonal-based color adjustments are used to rebuild color after dehazing. The process emphasizes balancing exposure, white, and color temperature to preserve color fidelity."
+    },
+    {
+      "start": "20:10:00",
+      "end": "21:50:00",
+      "title": "RAW color grading: iterative passes and tonal controls",
+      "concepts": [
+        "highlights",
+        "mid-tones",
+        "shadows",
+        "color grading workflow",
+        "multiple passes"
+      ],
+      "description": "Color grading in Camera Raw/Lightroom is shown as an iterative process with separate controls for highlights, mid-tones, and shadows, plus tonal/blend settings. The workflow includes returning to RAW for additional passes to refine the color and contrast while preserving the integrity of the foreground and sky."
+    },
+    {
+      "start": "21:50:00",
+      "end": "26:04:00",
+      "title": "Workflow philosophy, finishing touches, and practice guidance",
+      "concepts": [
+        "history brush workflow",
+        "selective adjustments",
+        "limited toolset",
+        "practice and repetition"
+      ],
+      "description": "The closing sections emphasize a practical, minimal-tool approach: a handful of tools executed cleanly can yield compelling results without overcomplicating the edit. The speaker highlights the importance of practice to know when to stop, how bright a region should be before adding color grading, and the value of sticking to a small, mastered toolkit. The video ends with a succinct recap and encouragement to practice."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Layered composition and focal point guidance in telephoto landscapes",
+      "timestamp": "00:00:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Setting up directional light to steer the viewer (light source positioning)",
+      "timestamp": "03:28:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Managing wind-related sharpness with shutter speed and stabilization awareness",
+      "timestamp": "04:56:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Cropping first to adjust shape/form before edits",
+      "timestamp": "07:57:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky removal and sky replacement options (sample skies)",
+      "timestamp": "08:56:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sky blending using Clone Stamp and applying previous settings for consistency",
+      "timestamp": "10:28:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Mid-tone and shadow dodging to direct eye flow",
+      "timestamp": "12:52:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Three-step whites-exposure-temperature workflow for color control",
+      "timestamp": "13:50:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Multi-pass RAW color grading with highlights/midtones/shadows",
+      "timestamp": "19:22:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History brush and history states to remix edits",
+      "timestamp": "20:55:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Practice-oriented workflow: using a small, mastered toolset",
+      "timestamp": "24:50:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:41:03.603487+00:00"
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Patagonia 2-6.mp4",
+  "title": "Patagonia Waterfall Composite: Sky Replacement, Tonal Grading, and Edge Polish (Two-Shot Workflow)",
+  "date": {
+    "display": "April 19, 2025",
+    "iso": "2025-04-19",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation/export time in metadata; folder indicates 2024–2025 production window; transcript does not state an exact shooting date."
+  },
+  "locations": [],
+  "summary": "This editing walkthrough documents a two-shot composite in which a sky image, captured from the same location and focal length as the waterfall shot, is swapped into the base frame. The presenter demonstrates cloning the sky, careful edge handling with fades, and a sequence of tonal and color adjustments to emphasize fall colors while preserving blue shadows. The workflow includes atmospheric touches (fog/spray), selective color work, large-brush corrections for perspective distortion from a wide-angle lens, and final tweaks guided by the “rule of trapezoids” for sky alignment. The narration emphasizes non-destructive adjustments, masking discipline, and deliberate layering to create a cohesive, natural-looking final image.",
+  "topics": [
+    "sky replacement",
+    "clone stamp tool",
+    "inverse selection",
+    "edge fade/feathering",
+    "crop and composition",
+    "two-shot composite",
+    "wide-angle distortion/perspective",
+    "shadows blacks exposure whites",
+    "color grading",
+    "color temperature",
+    "HSL adjustments (caution about global edits)",
+    "local adjustments/masks",
+    "fog/diffusion effects",
+    "desaturation for atmospheric spray",
+    "sky hue and sunset tint",
+    "high-contrast brushwork",
+    "blend modes (normal, lighter color)",
+    "edge blending",
+    "tree repositioning with masking",
+    "heavy brush use on large scales",
+    "rule of trapezoids for sky perspective",
+    "Bridge asset management",
+    "manual edge blending of complex edges"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.100",
+      "end": "00:02:03.300",
+      "title": "Sky replacement setup and initial composite",
+      "concepts": [
+        "sky replacement",
+        "clone stamp tool",
+        "edge fade",
+        "inverse selection",
+        "crop for composition"
+      ],
+      "description": "The shooter identifies a waterfall shot and selects a sky to accompany it, noting the sky should match the same time/place to maintain lighting coherence. The sky is introduced via the clone stamp method with attention to avoiding dark clouds behind the peak and applying a fade to prevent edge artifacts. A crop is performed to frame the final composition."
+    },
+    {
+      "start": "00:03:32.260",
+      "end": "00:05:58.540",
+      "title": "Global tonal and color grading foundations",
+      "concepts": [
+        "shadows/blacks/exposure/whites",
+        "color temperature",
+        "HSL caution",
+        "local vs global adjustments"
+      ],
+      "description": "The workflow moves to tonal shaping: shadows and blacks are lowered, whites raised, and exposure adjusted to heighten the fall colors. The presenter emphasizes not overusing global HSL adjustments and begins mid-ground color work to separate the ridge from the foreground."
+    },
+    {
+      "start": "00:06:34.800",
+      "end": "00:08:58.700",
+      "title": "Atmospheric refinement: fog, diffusion, and sky toning",
+      "concepts": [
+        "fog/diffusion",
+        "cloud repositioning",
+        "desaturation",
+        "sky hue/sunset tint"
+      ],
+      "description": "Clouds are borrowed and diffused to create a subtle fog effect around the waterfall, with selective desaturation to maintain natural contrast. A light sunset tint is applied to the sky while preserving blues in the shadows, aiming to enhance depth without overpowering the mountains."
+    },
+    {
+      "start": "00:10:47.220",
+      "end": "00:13:50.660",
+      "title": "Edge blending, perspective tweaks, and final polish",
+      "concepts": [
+        "large brush edits",
+        "blend modes (only lighter color)",
+        "tree repositioning",
+        "rule of trapezoids",
+        "final sky polish"
+      ],
+      "description": "The final pass covers edge blending using large brushes, with a focus on masking and selective application to avoid obvious edits. Trees on the periphery are nudged inward with precision fades and a lighter-color blending mode to maintain realism. The presenter introduces the rule of trapezoids for configuring a wider-angle sky that angles toward the light, concluding with a refined sky and composite."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sky replacement using clone stamp and edge fade",
+      "timestamp": "00:00:52.880",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Inverse selection and feathered edge handling while cloning",
+      "timestamp": "00:01:30.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Global tonal adjustment: shadows/blacks down, whites up, exposure down",
+      "timestamp": "00:03:32.260",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color grading: mid-tone emphasis with cautious HSL handling",
+      "timestamp": "00:04:12.880",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Localized mid-ground color refinement",
+      "timestamp": "00:04:56.080",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Atmospheric fog via cloud diffusion and desaturation",
+      "timestamp": "00:06:40.460",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky tint: subtle sunset hue and luminosity on highlights",
+      "timestamp": "00:07:55.740",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Edge blending with large brush and lighten blend mode",
+      "timestamp": "00:10:52.320",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Manual tree repositioning with masking and fade",
+      "timestamp": "00:11:04.920",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Rule of trapezoids for sky perspective",
+      "timestamp": "00:13:23.520",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:11:30.741960+00:00"
+}

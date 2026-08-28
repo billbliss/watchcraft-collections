@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 2-6.mp4",
+  "title": "Coastal Wave Blending and Sunset Light in a Multi‑Shot Composite (New Zealand setting reference)",
+  "date": {
+    "display": "July 12, 2025",
+    "iso": "2025-07-12",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata indicates an export date; video is listed under Part 7 (2024-2025)."
+  },
+  "locations": [
+    {
+      "name": "New Zealand (mentioned as a possible tropical setting, not confirmed as filming location)",
+      "confidence": 0.55,
+      "basis": "Speaker speculates the scene could resemble a tropical New Zealand locale near the end of the transcript (16:55–17:24)."
+    }
+  ],
+  "summary": "This tutorial-style walkthrough shows how to build a coastal composite by selecting two water-focused shots, aligning them around a shared wave/rock motif, and painting one shot into the other to preserve a distinctive swirl and edge sharpness. The workflow emphasizes exposure matching with a water buffer, masking and brush-based blending to fuse elements, and then shaping tonality before introducing light. The latter section demonstrates creating a sunset-inspired glow using Camera Raw, adding reflected light on wet rocks, and employing dodge and diffusion to control foreground brightness without washing out the sky. Throughout, the presenter reinforces planning the composition around a leading swirl and edge details, while using subtle color and light tweaks to unify the final image. The result is a cohesive coastal scene with a clear foreground primary shot, a detailed secondary contribution, and a warm, sunset-driven background that remains visually balanced.",
+  "topics": [
+    "shot selection",
+    "exposure matching",
+    "composition planning around swirl",
+    "multi-shot alignment",
+    "using water as alignment buffer",
+    "masking and painting in secondary shot",
+    "edge detail preservation (rock edges)",
+    "wave splash insertion",
+    "foreground vs background blending",
+    "tonal shaping before light painting",
+    "mid-tone dodging on water",
+    "vignette application for light focus",
+    "drawing light with dodge tool",
+    "Camera Raw color bleeding (sunset)",
+    "reflected light on wet rocks",
+    "diffusion and blacks/shadows adjustments",
+    "color balance (reducing yellow cast)",
+    "luminosity adjustments",
+    "edge refinement via cloning",
+    "final glow and atmospheric haze",
+    "refined minor corrections"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:12",
+      "title": "Shot selection and initial alignment",
+      "concepts": [
+        "choose primary and secondary water shots",
+        "assess wind impact and shot stability",
+        "identify swirl/leading line as compositional anchors",
+        "check exposure and composition across candidates",
+        "set a dark baseline to preserve shadow detail"
+      ],
+      "description": "The presenter selects candidate coastal shots, notes wind-induced shakiness in a background shot, and designates a sharp foreground rock with a visible swirl as the primary image. They discuss applying prior settings to additional shots and recognizing that exact exposure alignment isn’t mandatory when a water buffer exists; emphasis is placed on the swirl as a key compositional element and on the leading line to guide the viewer’s eye."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:12:49",
+      "title": "Masking, alignment and painting in the secondary shot",
+      "concepts": [
+        "align areas by matching wave/rock features",
+        "preserve sharp rock edges while blending",
+        "paint in the secondary shot to retain swirl and edge details",
+        "manage misalignment in mid-ground and water areas",
+        "selectively refine distant splashes"
+      ],
+      "description": "Allocation shifts toward aligning the two shots so the wave and rock features line up, then painting in portions of the secondary shot to extend the swirl and maintain edge clarity. The artist notes that exact cross-shot alignment isn’t necessary everywhere—only the salient edges—and demonstrates handling mismatches in mid-ground while keeping distant splashes under control."
+    },
+    {
+      "start": "00:12:49",
+      "end": "00:17:24",
+      "title": "Light shaping, sunset integration and final refinements",
+      "concepts": [
+        "tonal shaping before painting light",
+        "apply vignette to guide light placement",
+        "draw light with mid-tone dodging on water",
+        "bleed sunset color using Camera Raw",
+        "add reflected light on wet surfaces",
+        "diffusion and selective color balancing",
+        "shadow dodges to protect sky while brightening foreground",
+        "final warm glow and subtle atmospheric haze"
+      ],
+      "description": "The final phase focuses on creating a controlled lighting window through tonal shaping, then layering light and color to evoke a fiery sunset. The workflow includes using mid-tone dodge for light placement on water, applying a vignette to center attention, bleeding sunset hues via Camera Raw, and adding warm reflected light on wet rocks. The author stresses avoiding over-brightening the sky and emphasizes the importance of diffusion, shadow-dodging, and selective color tweaks to achieve a cohesive final image."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Layer alignment and multi-shot blending (coastal) with a primary sharp shot and a secondary background",
+      "timestamp": "00:03:04.880",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Painting in the secondary shot to preserve swirl and edge details",
+      "timestamp": "00:04:01.060",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Tonality shaping before light painting to create a proper lighting window",
+      "timestamp": "00:07:12.540",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Mid-tone dodging to introduce light on water",
+      "timestamp": "00:07:50.460",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Bleeding sunset color into the composite using Camera Raw",
+      "timestamp": "00:08:05.260",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Adding and refining reflected light on wet rocks",
+      "timestamp": "00:09:12.120",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Shadow dodge and diffusion to manage foreground brightness without washing the sky",
+      "timestamp": "00:13:15.580",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Selective color and toning adjustments to reduce yellow cast and balance sunset hues",
+      "timestamp": "00:13:49.960",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Edge refinements using cloning to preserve sharp wave edges",
+      "timestamp": "00:12:11.540",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:13:04.978382+00:00"
+}

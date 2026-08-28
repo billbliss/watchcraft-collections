@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Saudi 1-3 Manual blending + directional light .mp4",
+  "title": "Manual blending with trapezoidal warp and horizon correction for cave-frame pair (Saudi 1-3)",
+  "date": {
+    "display": "January 28, 2024",
+    "iso": "2024-01-28",
+    "precision": "day",
+    "confidence": 0.75,
+    "basis": "embedded_creation_time in source metadata; transcript content does not confirm date"
+  },
+  "locations": [
+    {
+      "name": "cave environment (probable)",
+      "confidence": 0.5,
+      "basis": "Transcript references \"type of cave environment here\" around 00:01:46"
+    }
+  ],
+  "summary": "The video demonstrates a manual two-frame blending workflow for a cave interior scene when automatic stitching tools fail or produce distorted results. The presenter notes that Photoshop alone may not stitch the pair, suggesting manual warping and alignment to control perspective distortion. Color and exposure differences caused by sunlight entering the lens are addressed by reducing red and yellow and lowering luminance to harmonize the two frames. A horizon tilt is corrected before applying a trapezoidal-warp approach to align the frames, using an overlay technique to compare alignment. With the warp set (around a 25-degree edge distortion common to wide-angle lenses), the top and bottom portions are blended by hand using typical brush/erase tools to create a seamless composite.",
+  "topics": [
+    "Photoshop",
+    "manual blending",
+    "image stitching",
+    "trapezoid distortion",
+    "horizon straightening",
+    "perspective warp",
+    "overlay layers",
+    "wide-angle lens",
+    "edge warp",
+    "color correction",
+    "red adjustment",
+    "yellow adjustment",
+    "luminance adjustment",
+    "exposure balancing",
+    "brush tool",
+    "eraser tool",
+    "non-destructive editing",
+    "cave environment",
+    "scene alignment"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:35",
+      "title": "Initial assessment: stitching feasibility, color differences, and sun-induced color shifts",
+      "concepts": [
+        "stitching feasibility",
+        "Photoshop vs PTGui",
+        "warping as an alternative",
+        "color and exposure differences due to sun entering the lens"
+      ],
+      "description": "The speaker notes that Photoshop will not stitch the frames, mentions PtGui as an option but emphasizes distortion control via warping and manual alignment, and discusses how sun-induced color changes require downstream adjustments to match two otherwise similar exposures (noting red and yellow hues and overall luminance differences)."
+    },
+    {
+      "start": "00:01:35",
+      "end": "00:02:52",
+      "title": "Horizon correction and trapezoid distortion awareness",
+      "concepts": [
+        "horizon tilt",
+        "straighten horizon",
+        "rule of trapezoids",
+        "overlay technique for alignment"
+      ],
+      "description": "The presenter identifies a horizon tilt caused by shifting and explains straightening the horizon before warping. He introduces the idea of trapezoidal distortion as a key alignment issue and discusses using an overlay between layers to preview alignment while working with the two frames."
+    },
+    {
+      "start": "00:02:52",
+      "end": "00:04:16",
+      "title": "Warp implementation, edge correction, and manual blending workflow",
+      "concepts": [
+        "edge distortion 25-degree warp",
+        "overlay for alignment",
+        "top/bottom alignment strategy",
+        "image size adjustment (slightly taller)",
+        "manual blending with brush and eraser"
+      ],
+      "description": "The workflow moves from comparing alignments with an overlay to applying a trapezoidal warp (approximately 25 degrees on the edges for wide-angle distortion). The top and bottom sections are aligned separately, the image size is adjusted, and a straightforward manual blend is performed. The narrator demonstrates erasing mistakes and repainting to refine the seam, illustrating a hands-on, non-automatic approach to build the final composite."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Horizon straightening and trapezoidal-aware warping for wide-angle frame alignment",
+      "timestamp": "00:01:52",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Overlay layers to preview and guide alignment between frames",
+      "timestamp": "00:02:23",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Estimating edge warp around 25 degrees for wide-angle distortion",
+      "timestamp": "00:02:31",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Color matching across frames by reducing red and yellow and lowering luminance",
+      "timestamp": "00:01:10",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Manual blending with brush and eraser to finalize seam",
+      "timestamp": "00:03:58",
+      "confidence": 0.79
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:25:39.015220+00:00"
+}

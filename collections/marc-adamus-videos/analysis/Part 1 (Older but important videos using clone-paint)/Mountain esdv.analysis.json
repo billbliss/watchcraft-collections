@@ -1,0 +1,199 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Mountain esdv.mp4",
+  "title": "Long-lens Sierra processing: atmosphere layering, perspective warp, and color grading",
+  "date": {
+    "display": "2018-02-23 (approximate export date from metadata)",
+    "iso": "2018-02-23T21:53:03Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time provided in metadata; transcript does not independently confirm the shoot date."
+  },
+  "locations": [
+    {
+      "name": "Mount Whitney (explicit mention)",
+      "confidence": 0.6,
+      "basis": "Transcript references 'Mount Whitney shot' as a notable subject; speaker discusses near-miss during travel."
+    },
+    {
+      "name": "Augurberry Point",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly says 'Augurberry Point' as the location centered in discussion."
+    },
+    {
+      "name": "LeConte Pinnacles",
+      "confidence": 0.7,
+      "basis": "Transcript explicitly mentions 'the Le Cant Pinnacles' as a dramatic area; transformation discussion occurs there."
+    },
+    {
+      "name": "North Palisade, Sierra Crest",
+      "confidence": 0.65,
+      "basis": "Transcript lists 'North Palisade' among Sierra Crest locations for shooting context."
+    },
+    {
+      "name": "Cerro Torre (Patagonia)",
+      "confidence": 0.4,
+      "basis": "Speaker performs puppet-warp and jokes about creating Cerro Torre; used as a demonstration rather than a literal capture."
+    },
+    {
+      "name": "Patagonia (region)",
+      "confidence": 0.5,
+      "basis": "Transcript references Patagonia trips and processing context, not necessarily a single shooting location."
+    },
+    {
+      "name": "Mammoth (California) area",
+      "confidence": 0.45,
+      "basis": "Transcript mentions Mammoth context (storms, location discussions) but not a confirmed shoot site."
+    }
+  ],
+  "summary": "The video presents a landscape photographer’s workflow for a long-lens mountain scene, focusing on post-processing decisions to reveal dramatic atmosphere and peak detail. It opens with aggressive color and mood testing (saturation, contrast, dehaze, split toning) and quickly moves into atmospheric manipulation by borrowing and repositioning clouds, adding texture, and rebalancing light. The practitioner then demonstrates light-building techniques in Camera Raw, followed by edge reduction with dark blur to direct the viewer’s eye toward the peak. A major portion showcases perspective-changing tools (Perspective Warp and Puppet Warp) to reshape peaks and nearby clouds, including a Cerro Torre reference, illustrating how multi-layer atmosphere can be engineered for impact. The session concludes with refined color grading (split-toning, half-color), diffusion, and noise-management steps, interwoven with reflective notes on long-lens strategy, composition, and the role of atmosphere at multiple levels in creating a compelling Sierra Nevada image.",
+  "topics": [
+    "long-lens photography",
+    "atmosphere at multiple levels",
+    "cloud cloning",
+    "cloud relocation",
+    "perspective warp",
+    "puppet warp",
+    "clone stamp",
+    "healing brush",
+    "dodging and burning",
+    "camera raw",
+    "dehaze",
+    "split toning",
+    "half-color",
+    "Orton effect",
+    "noise reduction",
+    "diffusion",
+    "gaussian blur",
+    "color grading",
+    "curves adjustment",
+    "texture brush",
+    "edge management",
+    "landscape processing",
+    "Sierra Nevada",
+    "Mount Whitney",
+    "LeConte Pinnacles",
+    "Augurberry Point",
+    "Cerro Torre",
+    "Patagonia",
+    "Mammoth"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:03:58.080",
+      "title": "Initial color grading and atmosphere shaping",
+      "concepts": [
+        "color saturation control",
+        "contrast adjustment",
+        "split toning",
+        "dehaze",
+        "texture and mood setup"
+      ],
+      "description": "Opening segment tests aggressive color reduction followed by selective saturation, contrast tweaks, and early split-toning/dehaze experiments to establish overall mood."
+    },
+    {
+      "start": "00:03:58.080",
+      "end": "00:08:12.000",
+      "title": "Cloud relocation and atmosphere painting",
+      "concepts": [
+        "cloud selection",
+        "cloud cloning",
+        "texture brush",
+        "manual cloud painting"
+      ],
+      "description": "Borrowing and moving sky textures, then painting additional texture to blend with surroundings; clouds are repositioned to frame peaks."
+    },
+    {
+      "start": "00:08:12.000",
+      "end": "00:12:56.540",
+      "title": "Light build and tonal balancing in Camera Raw",
+      "concepts": [
+        "brightness",
+        "de-haze",
+        "curves",
+        "warmth",
+        "highlights"
+      ],
+      "description": "Multiple Camera Raw passes to brighten and warm the scene, with curve-driven adjustments and de-haze to shape light on the mountain and clouds."
+    },
+    {
+      "start": "00:12:56.540",
+      "end": "00:16:41.040",
+      "title": "Dark blur and edge control",
+      "concepts": [
+        "Gaussian blur",
+        "edge suppression",
+        "diffusion"
+      ],
+      "description": "Applying dark blur to mute peripheral edges, sharpening attention on the peak and exploring diffusion techniques to control local contrast."
+    },
+    {
+      "start": "00:16:41.040",
+      "end": "00:34:34.700",
+      "title": "Perspective Warp, Puppet Warp, and peak sculpting",
+      "concepts": [
+        "Perspective Warp",
+        "Puppet Warp",
+        "peak sculpting",
+        "multi-level atmosphere"
+      ],
+      "description": "Prominent demonstration of Warp tools to reshape peaks and surrounding clouds; includes constructing Cerro Torre as a demonstration of dramatic peak creation and layering atmosphere."
+    },
+    {
+      "start": "00:34:34.700",
+      "end": "00:48:54.820",
+      "title": "Final color grading, noise management, and editorial notes",
+      "concepts": [
+        "split-toning",
+        "half-color",
+        "noise reduction",
+        "diffusion",
+        "Orton-like glow",
+        "color temperature",
+        "tint"
+      ],
+      "description": "Final polish with split-toning and diffusion; balancing noise reduction with warmth and color direction, and closing reflections on long-lens processing strategy and multi-layer atmosphere."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cloud relocation and texture painting",
+      "timestamp": "00:03:58.00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective Warp for composition control",
+      "timestamp": "00:05:16.00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Puppet Warp to reshape peaks (Cerro Torre)",
+      "timestamp": "00:15:31.00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Dark blur edge reduction to guide gaze",
+      "timestamp": "00:10:54.00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Camera Raw light build, dehaze, and curves",
+      "timestamp": "00:08:48.00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Half-color / split-toning color grading",
+      "timestamp": "00:12:56.00",
+      "confidence": 0.81
+    },
+    {
+      "technique": "Noise reduction and diffusion balancing",
+      "timestamp": "00:25:41.00",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:10:58.564343+00:00"
+}

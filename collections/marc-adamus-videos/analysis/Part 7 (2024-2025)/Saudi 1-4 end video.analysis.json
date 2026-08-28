@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Saudi 1-4 end video.mp4",
+  "title": "Layered Landscape Post-Processing: Directional Light, Beams, and HDR in Lightroom/Photoshop",
+  "date": {
+    "display": "2024–2025 (video context)",
+    "iso": "",
+    "precision": "unknown",
+    "confidence": 0.4,
+    "basis": "Folder name 'Part 7 (2024-2025)'; embedded_creation_time indicates an export date in 2026, while the session context points to 2024–2025 travel footage."
+  },
+  "locations": [
+    {
+      "name": "Alaska",
+      "confidence": 0.65,
+      "basis": "Explicit line in transcript: 'This is Alaska' at 00:00:00; context references an Alaska shoot."
+    },
+    {
+      "name": "Saudi Arabia",
+      "confidence": 0.45,
+      "basis": "Transcript opens with 'Saudi Arabia. Telephoto time.'; later notes 'This is Alaska,' indicating Saudi Arabia is mentioned but not definitively identified as the filming location."
+    }
+  ],
+  "summary": "This video documents a field-to-post workflow for dramatic, multi-layer landscape imagery. The presenter walks through techniques to recover dynamic range, sculpt dimensionality with directional light, and build complex composites from foreground and background layers. Core methods include dodging to create directional light, selective color and white balance adjustments, and tonal-based color adjustments, all while acknowledging the challenges of processing in bright daylight. The workflow emphasizes shooting for unseen layers, careful cropping for pano-format scenes, and organizing shots into foreground/background zones. When possible, the instructor demonstrates beam creation using dehaze and targeted painting, discusses the use of camera calibration (Blue-Gold), and covers focus stacking attempts, edge separation, and flare management. The session also touches on practical constraints (tripod stability, shot alignment) and the occasional need for AI-based denoising and HDR-like processing to achieve a dramatic, multi-layer landscape.",
+  "topics": [
+    "HDR/dynamic range expansion",
+    "Directional light and dodging",
+    "White balance and color temperature adjustments",
+    "Color grading under bright daylight",
+    "Layer-based processing: foreground vs background",
+    "Two-zone processing workflow",
+    "Shooting for unseen layers and edge separation",
+    "Foreground/background cropping and composition",
+    "Beams technique using dehaze with painting",
+    "Brush settings: 60 and 1000",
+    "Painting beams and erasing the opposite side",
+    "Blue-Gold camera calibration",
+    "Tone-based color adjustments",
+    "High-dynamic-range focusing: focus stacking concepts",
+    "Panorama cropping and format considerations",
+    "Edge sharpening and hard/soft brush use",
+    "Flare management and mitigation",
+    "Dehaze, warmth, and color transitions",
+    "AI denoise and reliance on internet resources",
+    "Sun-centered composition and symmetry in landscape"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:14",
+      "title": "Live workflow setup and directional lighting introduction",
+      "concepts": [
+        "Bridge crash recovery and import of final review files",
+        "directional light concept and dodging to add depth"
+      ],
+      "description": "The video opens with technical setup (Bridge restart) and introduces the central technique of creating directional light by dodging to enhance three-dimensionality in the scene."
+    },
+    {
+      "start": "00:04:14",
+      "end": "00:07:25",
+      "title": "Bright daylight constraints and initial color considerations",
+      "concepts": [
+        "color temperature adjustments",
+        "color mixer vs. color temperature approach",
+        "bright-light color grading challenges"
+      ],
+      "description": "Discussion of how color grading can be compromised by harsh daylight, and how to preserve consistent color with temperature tweaks, while noting the difficulty of color judgment under strong illumination."
+    },
+    {
+      "start": "00:07:25",
+      "end": "00:12:30",
+      "title": "Layered processing strategy: foreground vs background",
+      "concepts": [
+        "two-zone processing",
+        "foreground adjustments and background adjustments",
+        "dehaze, clarity, and brightness for depth"
+      ],
+      "description": "Introduces the core layering approach, separating foreground from background and applying distinct processing to each to maintain dimensionality and separation in the final image."
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:20",
+      "title": "Shooting for layers and composition optimization",
+      "concepts": [
+        "edge separation around mountains and trees",
+        "framing decisions and pano cropping",
+        "planning for layers that may not be obvious in-camera"
+      ],
+      "description": "Emphasizes selecting shots that reveal hidden layers, achieving edge separation, and planning crops that showcase stacked landscape elements."
+    },
+    {
+      "start": "00:17:20",
+      "end": "00:21:10",
+      "title": "Focus stacking workflow and field constraints",
+      "concepts": [
+        "start/end file selection for stacks",
+        "focus increments and overlap",
+        "tripod stability and stacking failures"
+      ],
+      "description": "Outlines a focus stacking workflow, including selecting files for stacking, ensuring overlap, and noting how tripod movement can derail the process."
+    },
+    {
+      "start": "00:24:01",
+      "end": "00:28:54",
+      "title": "HDR-like adjustments and flare management",
+      "concepts": [
+        "auto HDR-like processing with clarity/shadows/details",
+        "flare management and initial beam techniques",
+        "dust and haze considerations"
+      ],
+      "description": "Describes an HDR-esque approach to bring out dynamic range, then addresses flare control and beam creation to emphasize light-driven storytelling under difficult lighting conditions."
+    },
+    {
+      "start": "00:28:54",
+      "end": "00:34:50",
+      "title": "Edge separation and beam refinement",
+      "concepts": [
+        "dehaze + warmth for edge separation",
+        "hard edge brush vs soft brush",
+        "painting and erasing beams for natural look"
+      ],
+      "description": "Focuses on refining edges to reveal tower and landscape geometry, using targeted dehaze-based adjustments and precise brush work to strengthen the beams without overdoing color."
+    },
+    {
+      "start": "00:34:50",
+      "end": "00:44:03",
+      "title": "Closing reflections: layering as landscape storytelling",
+      "concepts": [
+        "value of unseen layers",
+        "revisiting strong layered shots",
+        "compositional balance and format considerations"
+      ],
+      "description": "Wrap-up reflecting on the centrality of layered processing to landscape storytelling, with final notes on selecting strong layered compositions and format choices (e.g., panoramas)."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dodging to create directional light for 3D separation",
+      "timestamp": "00:01:50",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Beam creation using dehaze and painting with brush (60/1000 brush sizes)",
+      "timestamp": "00:26:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Layered foreground/background processing with zone-specific adjustments",
+      "timestamp": "00:06:44",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Focus stacking workflow (start/end selection, stacking, tripod caution)",
+      "timestamp": "00:17:25",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Auto HDR-style processing: clarity, shadows, and detail edits",
+      "timestamp": "00:24:29",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Flare management and beam painting to preserve light direction",
+      "timestamp": "00:25:29",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Blue-Gold camera calibration for color pop",
+      "timestamp": "00:18:08",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Edge separation and edge-clarity work using dehaze + warmth",
+      "timestamp": "00:28:53",
+      "confidence": 0.66
+    },
+    {
+      "technique": "Panoramic/crop strategy to emphasize layered composition",
+      "timestamp": "00:36:02",
+      "confidence": 0.58
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:43:27.525497+00:00"
+}

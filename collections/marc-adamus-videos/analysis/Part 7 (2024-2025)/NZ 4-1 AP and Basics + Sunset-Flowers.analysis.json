@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 4-1 AP and Basics + Sunset-Flowers.mp4",
+  "title": "Layered Landscape Mastery: Lighting, Depth, and Zone-Based Post-Processing in NZ 4-1 AP and Basics + Sunset-Flowers",
+  "date": {
+    "display": "Dec 2024 (approx.)",
+    "iso": "2024-12-07",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation time in metadata indicates 2024-12-07T22:15:00Z; transcript confirms shooting-and-processing discussion during this period."
+  },
+  "locations": [
+    {
+      "name": "Pakistan (K2)",
+      "confidence": 0.6,
+      "basis": "Transcript line references Pakistan and K2 as a notable location for a shot."
+    },
+    {
+      "name": "New Zealand",
+      "confidence": 0.6,
+      "basis": "Transcript explicitly states 'this is a New Zealand shot'."
+    },
+    {
+      "name": "Mexico",
+      "confidence": 0.6,
+      "basis": "Transcript mentions Mexican landscapes and peaks."
+    },
+    {
+      "name": "Antarctica",
+      "confidence": 0.55,
+      "basis": "Transcript describes an Antarctica scene and waves of clouds."
+    },
+    {
+      "name": "Alaska",
+      "confidence": 0.55,
+      "basis": "Transcript discusses Alaska as a study in contrast."
+    }
+  ],
+  "summary": "The video presents a landscape photography workflow that emphasizes creating depth through controlled lighting and careful composition, then executing a zone-based, history-driven post-processing approach. The speaker argues for a single light source, exclusion of peripheral distractions, and a three-dimensional eye path driven by blacks and light. He demonstrates layered compositions using drones and telephoto lenses to build depth, discusses how fog, mist, and weather shape transitions, and contrasts wide-angle versus telephoto perspectives. The processing segment guides viewers through RAW adjustments, zone-based editing in Photoshop, and color grading with blue/gold filters, highlight grading, and selective color to separate flowers and mountains. Throughout, the instructor advocates a painting-with-history mindset—painting with the history panel as a stand-in for traditional layers—to rapidly refine tonal balance, color consistency, and focal emphasis.",
+  "topics": [
+    "Single light source",
+    "Exclusion of peripheral distractions",
+    "Three-dimensional depth in photography",
+    "One-light vs multi-light scene design",
+    "Layered landscape composition",
+    "Layer spacing and subject proximity",
+    "Perimeter lighting and avoiding bright edges",
+    "Level blacks as depth cue",
+    "Dominant transitions: black level, light, warmth",
+    "Framing and leading lines",
+    "Wide-angle vs telephoto lens effects",
+    "Drone-based telephoto framing",
+    "Big-to-small transition (focus stacking context)",
+    "Fog and atmospheric depth in landscape",
+    "Exposure planning: highlights-first approach",
+    "Raw processing vs Photoshop workflow",
+    "Dynamic range controls (LR/ACR equivalent)",
+    "Zone-based editing in Photoshop",
+    "White adjustments and sky recovery",
+    "Blue-Gold filter in color grading",
+    "Highlight grading and luminosity control",
+    "Selective Color vs HSL for color separation",
+    "Color wheel color theory (complementary adjustments)",
+    "History panel as painting tool for edits",
+    "Vision-driven color coherence across foreground and background",
+    "Path of light directing viewer’s eye",
+    "Rapid reaction and memorization of landscape structures",
+    "Breathing room for periphery and avoiding distraction"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "03:50:00",
+      "title": "Lighting philosophy and scene exclusion",
+      "concepts": [
+        "single light source",
+        "scene simplification",
+        "eye path to light",
+        "3D impression in landscape"
+      ],
+      "description": "The speaker advocates using one light source where possible, avoiding conflicting lighting, and shaping the scene so the eye is drawn along a clear light path. He emphasizes landscape as a puzzle of many elements where exclusion of distractions is crucial to cohesion."
+    },
+    {
+      "start": "03:50:00",
+      "end": "11:58:00",
+      "title": "Layered composition, spacing, and transitions",
+      "concepts": [
+        "layered structure",
+        "spacing between subjects",
+        "perimeter management",
+        "dominant transitions",
+        "level blacks"
+      ],
+      "description": "Discussion of building depth via layers (mountains, trees, foreground) and tactically spacing subjects to avoid overlap. Emphasizes keeping periphery free of bright distractions and using blacks to create depth."
+    },
+    {
+      "start": "11:58:00",
+      "end": "18:31:00",
+      "title": "Lenses, framing, and drone-based layering",
+      "concepts": [
+        "telephoto vs wide-angle",
+        "drone framing",
+        "leading lines",
+        "big-to-small transitions",
+        "edge distortion"
+      ],
+      "description": "Explains using telephoto from a drone to create layered framing, with attention to spacing so key subjects don’t touch and to avoid peripheral distractions. Highlights how wide-angle framing naturally creates big-to-small transitions and leading-line dynamics."
+    },
+    {
+      "start": "38:00:00",
+      "end": "51:45:00",
+      "title": "RAW-to-Photoshop: zone-based editing and dynamic range",
+      "concepts": [
+        "dynamic range panel",
+        "zones",
+        "Whites adjustment",
+        "sky recovery",
+        "highlight grading",
+        "blue/gold filter",
+        "history brush"
+      ],
+      "description": "Covers converting to Photoshop after RAW processing, assigning zones for localized edits, and using whites to recover sky while preserving foreground detail. Demonstrates blue/gold filter and highlight grading to begin color balance and mood, then uses the history brush to paint changes in."
+    },
+    {
+      "start": "51:45:00",
+      "end": "59:50:00",
+      "title": "Advanced color grading: selective color and color harmony",
+      "concepts": [
+        "Selective Color vs HSL",
+        "color wheel theory",
+        "50-150 adjustments",
+        "foreground flower color separation",
+        "color consistency across tones"
+      ],
+      "description": "Shows sophisticated color grading, including selective color adjustments to separate floral tones, balancing hues via color-wheel-based adjustments, and ensuring color coherence between sky, foliage, and mountains."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Single-light source and controlled directional lighting to create depth in landscape",
+      "timestamp": "00:55:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Layered composition with spacing to avoid overlap and guide eye",
+      "timestamp": "04:15:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Drone-assisted telephoto framing to achieve layered landscapes",
+      "timestamp": "05:55:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Maintaining level blacks as a depth cue (contrast management)",
+      "timestamp": "07:21:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Wide-angle leading lines and perspective distortion for transitions",
+      "timestamp": "16:40:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Fog/mist to enhance depth and transitions",
+      "timestamp": "16:00:00",
+      "confidence": 0.6
+    },
+    {
+      "technique": "RAW-to-Photoshop workflow with zone-based editing and history painting",
+      "timestamp": "39:30:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Blue-Gold filter and highlight grading for sunset mood",
+      "timestamp": "46:00:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective Color (and 50-150 adjustments) to isolate flowers",
+      "timestamp": "56:40:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "History panel as a painting-like replacement for layers (recording adjustments)",
+      "timestamp": "41:40:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:17:04.318105+00:00"
+}

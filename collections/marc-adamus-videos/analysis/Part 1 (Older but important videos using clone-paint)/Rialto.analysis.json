@@ -1,0 +1,211 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Rialto.mp4",
+  "title": "Rialto Beach composite: clone-paint blending, warp extension, and multi-stage color grading",
+  "date": {
+    "display": "2019-06-23 (approx.)",
+    "iso": "2019-06-23",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "embedded_creation_time in metadata; transcript does not independently confirm exact date."
+  },
+  "locations": [
+    {
+      "name": "Rialto Beach sea arch, Rialto Beach, Olympic National Park, Washington (probable)",
+      "confidence": 0.55,
+      "basis": "Filename Rialto.mp4 in the source path and discussion of coastal arch/sea stacks; transcript does not explicitly name the location."
+    }
+  ],
+  "summary": "This video demonstrates an advanced coastal landscape post-processing workflow centered on cloning to blend two different background compositions, then expanding the scene with warp tools, and layering dynamic color and light to simulate a dramatic sunset. The presenter walks through multi-stage adjustments: from initial clone-blend and perspective extension to sky and light treatment, HDR-like texture work, noise management, and meticulous color grading. The narrative also contrasts a field marine-layer scenario with post-processing results, showcases both color and black-and-white approaches, and emphasizes gradual, iterative shaping of light, depth, and texture to guide the viewer’s eye through the scene.",
+  "topics": [
+    "clone stamp",
+    "clone-paint",
+    "perspective warp",
+    "puppet warp",
+    "history brush",
+    "inverse history brush",
+    "dehaze",
+    "camera raw filter",
+    "HDR",
+    "noise reduction",
+    "reduce noise",
+    "split toning",
+    "camera calibration",
+    "LAB color",
+    "color calibration",
+    "blue color grading",
+    "color balance",
+    "mid-tone dodge",
+    "water luminosity",
+    "diffusion",
+    "soft blur",
+    "highlight dodge",
+    "shadow dodge",
+    "three-dimensional shading",
+    "marine layer",
+    "foreground shading",
+    "sea stack",
+    "rock texture",
+    "ghosting",
+    "black and white processing",
+    "color recolor"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:18",
+      "title": "Background blend with clone-stamp alignment",
+      "concepts": [
+        "Clone Stamp Tool",
+        "background blending",
+        "composition merge",
+        "preview vs final result"
+      ],
+      "description": "Demonstrates using the clone stamp to move and seamlessly blend a different background into the image. The presenter notes the difficulty of predicting the exact starting point and emphasizes previewing multiple iterations to assess whether two compositions merge convincingly."
+    },
+    {
+      "start": "00:02:18",
+      "end": "00:02:38",
+      "title": "Extending the frame with warp tools",
+      "concepts": [
+        "Perspective Warp",
+        "four-square expansion",
+        "cropping strategy",
+        "overlay preview"
+      ],
+      "description": "Introduces widening the scene by applying perspective warp (described as using four squares to pull out corners) and then cropping the top. This is followed by a quick mention of puppet warp to adjust structural alignment."
+    },
+    {
+      "start": "00:03:18",
+      "end": "00:07:54",
+      "title": "Lighting direction and sky adjustments",
+      "concepts": [
+        "dehaze",
+        "sky adjustment",
+        "sunset lighting",
+        "two-step adjustments",
+        "dynamic range"
+      ],
+      "description": "Shifts the image toward sunset lighting as a design choice rather than just color. The dehaze tool is used to recover sky detail, with planned adjustments to shadows and highlights. The presenter notes the need for two versions of the sky treatment to manage a bright spot and maintain believable lighting direction."
+    },
+    {
+      "start": "00:07:54",
+      "end": "00:13:46",
+      "title": "HDR-like texture and dynamic range expansion",
+      "concepts": [
+        "Camera Raw adjustments",
+        "dynamic range enhancement",
+        "split toning",
+        "color calibration",
+        "HDR-like texture"
+      ],
+      "description": "Returns to Camera Raw for expanded dynamic range, desaturation tweaks, and a plan to push whites and blues. The speaker describes applying an HDR-like texture to water via multiple passes and references Photomatix-like tonemapping, but stresses incremental application to avoid overdoing the effect."
+    },
+    {
+      "start": "00:13:46",
+      "end": "00:21:00",
+      "title": "Noise control and edge handling",
+      "concepts": [
+        "noise reduction",
+        "history brush",
+        "inverse history brush",
+        "non-destructive edits",
+        "sky noise management"
+      ],
+      "description": "Focuses on reducing noise—especially in bright sky areas—while preserving necessary detail on the water. Includes techniques like using history/inverse history brushes to revert selective noise reductions and addressing edge halos caused by prior adjustments."
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:29:40",
+      "title": "Color grading and diffusion to simulate sunlit atmosphere",
+      "concepts": [
+        "color balance",
+        "split toning",
+        "LAB color space",
+        "diffusion/blur",
+        "dodging and burning for light"
+      ],
+      "description": "Explains layering color toward the light source with careful diffusion and dodge/burn work. The workflow includes LAB workflow, RGB tweaks, and split-toning to simulate warm sunset light while maintaining believable shadows, followed by refinements to foreground and waves."
+    },
+    {
+      "start": "00:29:40",
+      "end": "00:37:59",
+      "title": "Foreground integration and final balancing (and marine-layer caveat)",
+      "concepts": [
+        "foreground painting",
+        "dynamic range balancing",
+        "marine layer",
+        "final color balancing",
+        "contrast shaping"
+      ],
+      "description": "Describes merging darker foreground with a lighter sky to maintain an eye path through the frame. The presenter discusses the marine layer’s role in enabling the scene and demonstrates additional color work to harmonize foreground with the background, concluding with a strong, balanced result."
+    },
+    {
+      "start": "00:37:59",
+      "end": "00:46:00",
+      "title": "Black-and-white workflow and post-processing practice",
+      "concepts": [
+        "dodge and burn only",
+        "black-and-white practice",
+        "tonal shaping",
+        "visual learning"
+      ],
+      "description": "Demonstrates a black-and-white pass using only dodge and burn tools to create depth and tonal separation. The instructor uses this segment to teach tonal shaping skills in a simplified palette and discusses how color can later be reintroduced if desired."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Clone Stamp background blending",
+      "timestamp": "00:00:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective Warp to extend composition",
+      "timestamp": "00:02:18",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Puppet Warp for symmetry adjustments",
+      "timestamp": "00:02:33",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Dehaze and sky optimization for sunset mood",
+      "timestamp": "00:03:41",
+      "confidence": 0.7
+    },
+    {
+      "technique": "HDR-like texture via multiple Camera Raw passes",
+      "timestamp": "00:08:24",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Noise reduction with history/inverse history brush",
+      "timestamp": "00:10:29",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Split toning and LAB color calibration",
+      "timestamp": "00:14:05",
+      "confidence": 0.69
+    },
+    {
+      "technique": "Mid-tone dodge for water luminosity",
+      "timestamp": "00:16:23",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Diffuse light to simulate sun from corner",
+      "timestamp": "00:14:55",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Dodge and burn as a tonal shaping core workflow",
+      "timestamp": "00:39:38",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:23:31.168626+00:00"
+}

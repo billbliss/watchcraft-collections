@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Alaska Winter 2-1.mp4",
+  "title": "Alaska Winter 2-1: Non-destructive winter landscape post-processing in Photoshop and Camera Raw",
+  "date": {
+    "display": "March 6, 2026 (approx.)",
+    "iso": "2026-03-06T20:31:55Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [
+    {
+      "name": "Alaska (probable, inferred from filename/path)",
+      "confidence": 0.6,
+      "basis": "Filename and folder indicate Alaska winter project; transcript contains no explicit shooting location."
+    }
+  ],
+  "summary": "The video presents a hands-on workflow for post-processing winter landscape photography, focusing on snowy scenes, in-camera RAW adjustments, and Photoshop techniques. The instructor emphasizes non-destructive methods, highlights proper exposure for snow, and demonstrates how to recover shadow detail, remove unwanted elements, and craft depth and mood through color grading, fog/distance effects, and careful framing. Key techniques include camera raw whites/shadows adjustments, the clone stamp and healing tools for object removal, the history paint workflow for non-destructive edits, sky-to-foreground color grading with luminosity masking, fog layering to enhance depth, and deliberate cropping and vignette usage to guide the viewer’s eye toward the light source. The session also covers practical tips for consistency of grain, edge handling, and the role of framing in winter imagery, culminating in a mindset of keeping edits simple and print-focused.\"",
+  "topics": [
+    "Snow exposure management in high-contrast scenes",
+    "Bracketing versus exposure balancing in snowy landscapes",
+    "Camera Raw: whites, exposure, shadows, and blacks adjustments",
+    "Non-destructive editing: history paint workflow in Photoshop",
+    "Clone Stamp, Healing Brush, and Remove Tool for removing subjects",
+    "Color grading: color temperature, luminosity, and selective color",
+    "Sky foreground balance and the use of color grading for mood",
+    "Three-zone processing: foreground texture, lighting beam, and sky",
+    "Edge framing, composition, and cropping decisions",
+    "Fog layering, dehaze, and depth with mist effects",
+    "Focus stacking and bracketed shots for dynamic range",
+    "Vignettes and localized adjustments to guide viewer attention"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:25",
+      "title": "Snow exposure decisions and bracket cautions",
+      "concepts": [
+        "Snow brightness management",
+        "Exposure decisions in bright snow",
+        "Bracketed shots vs single exposure"
+      ],
+      "description": "Intro to how bright snow can fool bracketed exposure; emphasis on finding a proper middle ground to preserve highlights and recover shadows in Camera Raw."
+    },
+    {
+      "start": "00:02:25",
+      "end": "00:04:18",
+      "title": "Camera Raw: revealing shadow detail and highlight control",
+      "concepts": [
+        "Highlight control",
+        "Shadow recovery",
+        "Stops of exposure adjustment"
+      ],
+      "description": "Discussion of exposing for snow scenes, pulling down shadows, and recovering detail with 1.9 stops (up to ~3.0) without introducing excessive noise."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:06:11",
+      "title": "Horizon and depth in forest composition",
+      "concepts": [
+        "Tree layering on the horizon",
+        "Depth through multiple horizon lines",
+        "Foreground vs background layering"
+      ],
+      "description": "Guidance on placing trees at varying depths on the horizon to create perceived depth and avoid flat compositions."
+    },
+    {
+      "start": "00:07:41",
+      "end": "00:09:50",
+      "title": "Framing corrections and edge avoidance",
+      "concepts": [
+        "Frame continuity",
+        "Avoiding edge cuts",
+        "Positioning and minor moves to fix composition"
+      ],
+      "description": "Notes on ensuring the frame doesn’t cut important elements and how small adjustments (move/zoom) can resolve compositional issues."
+    },
+    {
+      "start": "00:09:50",
+      "end": "00:12:15",
+      "title": "Removing subjects: clone stamp and rotation fixes",
+      "concepts": [
+        "Clone Stamp tool",
+        "Rotation to align slope",
+        "Edge-aware edits"
+      ],
+      "description": "Demonstrates removing a person by rotating to align slopes and using clone stamping to seamlessly fill gaps, preserving natural grain and texture."
+    },
+    {
+      "start": "00:14:56",
+      "end": "00:16:49",
+      "title": "History Paint: non-destructive post-processing workflow",
+      "concepts": [
+        "History brush",
+        "Non-destructive editing",
+        "Layer-minimal workflow"
+      ],
+      "description": "Introduces History Paint as a faster, non-destructive method to adjust multiple zones without using many layers, including how to remix edits later."
+    },
+    {
+      "start": "00:17:46",
+      "end": "00:25:12",
+      "title": "Sky and foreground color grading: whites, color balance, and painting",
+      "concepts": [
+        "Whites adjustment in RAW",
+        "Color temperature and tint",
+        "Painting warmth with history brush",
+        "Luminosity and color grading"
+      ],
+      "description": "A deep dive into sky adjustments and painting warmth into the scene, using whites, color grading, and luminosity adjustments to balance foreground and sky."
+    },
+    {
+      "start": "00:26:10",
+      "end": "00:31:20",
+      "title": "Three-zone processing and composition refinement",
+      "concepts": [
+        "Foreground texture",
+        "Sky vs. foreground adjustments",
+        "Edge handling and cropping"
+      ],
+      "description": "Breakdown of treating image as three zones and using targeted edits (texture/clarity for foreground, sky color grading) plus cropping decisions to enhance composition."
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:51",
+      "title": "Vignette, highlights, and focal emphasis",
+      "concepts": [
+        "Vignette techniques",
+        "Selective highlight control",
+        "Guiding eye toward light source"
+      ],
+      "description": "Demonstrates applying a controlled vignette and refining highlights to direct attention toward light-rich areas, including painting the vignette back in for balance."
+    },
+    {
+      "start": "01:06:50",
+      "end": "01:10:14",
+      "title": "Fog layering for depth: dehaze, blur, and layering",
+      "concepts": [
+        "Fog/mist to push distance",
+        "Dehaze with subtle blur",
+        "Layered depth with selective masking"
+      ],
+      "description": "Shows how to simulate or enhance fog and distance by layering dehaze and blur, then painting the effect into distant parts for added depth."
+    },
+    {
+      "start": "01:12:27",
+      "end": "01:13:34",
+      "title": "Wrap-up and viewer takeaway",
+      "concepts": [
+        "Workflow simplicity",
+        "Core tool set (RAW + 5 tools)",
+        "Printing mindset (photos over video)"
+      ],
+      "description": "Wraps up with emphasis on a small, repeatable toolset (primarily RAW-based adjustments and a handful of Photoshop tools) and the notion that photography emphasizes print-ready results."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Camera Raw Whites adjustment to preserve sky detail and recover shadows",
+      "timestamp": "00:02:03",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Clone Stamp with rotation to align slopes and remove a person",
+      "timestamp": "00:09:18",
+      "confidence": 0.85
+    },
+    {
+      "technique": "History Paint: non-destructive post-processing workflow",
+      "timestamp": "00:14:56",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Color grading with luminosity masks and selective color",
+      "timestamp": "00:23:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Fog layering using dehaze and blur for depth",
+      "timestamp": "01:07:15",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Vignette creation and painting in for edge control",
+      "timestamp": "00:31:19",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:56:40.201644+00:00"
+}

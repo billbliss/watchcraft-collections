@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Quick process Coast and Smith 1-3.mp4",
+  "title": "Manual Blending, Perspective Warp, and Sunrise Color Grading in Landscape Post-Processing",
+  "date": {
+    "display": "2023-06-09 (approx)",
+    "iso": "2023-06-09T13:03:27Z",
+    "precision": "unknown",
+    "confidence": 0.4,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [],
+  "summary": "This tutorial-style video presents two manual approaches to correcting mistakes and blending exposures after a focus stack in landscape photography. The workflow emphasizes perspective adjustment using perspective warp and the rule of trapezoids, edge alignment via edge-colored cloning with a very small brush, puppet warp for composition control, and iterative color/tonal grading to simulate a sunrise. The presenter demonstrates RAW adjustments, selective masking, shadow dodging, and staged color grading (warmth, blues, and Orton-style glow), along with notes on plugin usage (Topaz) and creating HDR-like results through layered processing. The process is shown as a practical, field-editable workflow with attention to horizon alignment, edge seamlessness, and guiding the viewer’s eye toward the light source.",
+  "topics": [
+    "focus stacking",
+    "manual blending",
+    "perspective warp",
+    "rule of trapezoids",
+    "crop tool",
+    "clone stamp tool",
+    "90% brush",
+    "puppet warp",
+    "color grading",
+    "RAW adjustments",
+    "shadow dodge",
+    "dehaze",
+    "Orton effect",
+    "Topaz",
+    "HDR-like blend",
+    "dynamic range",
+    "selection and inverse",
+    "masking",
+    "edge blending"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:36",
+      "title": "Intro: two manual blending methods and focus-stacking premise",
+      "concepts": [
+        "manual blending",
+        "focus stack premise",
+        "exposure adjustment"
+      ],
+      "description": "Sets up the premise of correcting mistakes by blending two shots and references a previously explained focus stack process."
+    },
+    {
+      "start": "00:02:36",
+      "end": "00:04:29",
+      "title": "Perspective Warp and framing with trapezoids",
+      "concepts": [
+        "perspective warp",
+        "rule of trapezoids",
+        "crop tool"
+      ],
+      "description": "Introduces perspective warp as a primary transform and explains using trapezoids to widen the scene; discusses cropping to expand the frame."
+    },
+    {
+      "start": "00:04:29",
+      "end": "00:07:40",
+      "title": "Manual edge blending and alignment",
+      "concepts": [
+        "clone blending",
+        "90% brush",
+        "edge seam",
+        "opacity control"
+      ],
+      "description": "Demonstrates aligning two shots by cloning with a small, hard edge and careful edge work to hide seams."
+    },
+    {
+      "start": "00:07:40",
+      "end": "00:12:29",
+      "title": "Warping, color matching, and initial processing",
+      "concepts": [
+        "puppet warp",
+        "color matching",
+        "RAW adjustments",
+        "shadow dodge"
+      ],
+      "description": "Covers local warping and color-matching across exposures, plus initial processing decisions to harmonize the two inputs."
+    },
+    {
+      "start": "00:12:29",
+      "end": "00:18:50",
+      "title": "Sunrise color grading and light shaping",
+      "concepts": [
+        "warmth",
+        "color balance",
+        "highlights/shadows",
+        "Orton effect",
+        "dehaze"
+      ],
+      "description": "Details iterative warming and cool balancing to simulate a sunrise, including glow and tonal adjustments."
+    },
+    {
+      "start": "00:18:50",
+      "end": "00:34:00",
+      "title": "Workflow acceleration, sky cleanup, and HDR-like blends",
+      "concepts": [
+        "Topaz plugin",
+        "HDR blending",
+        "distort/scale in Camera Raw",
+        "selection-based adjustments"
+      ],
+      "description": "Discusses faster processing, standalone Topaz usage, and creating HDR-like sky/foreground blends through selective layering and adjustments."
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:06",
+      "title": "Final tweaks, tilting compensation, and composition notes",
+      "concepts": [
+        "tilt correction",
+        "perspective warp",
+        "final crop",
+        "foreground-sky balance"
+      ],
+      "description": "Addresses final corrections for tilt, crop decisions, and broader composition considerations given equipment constraints."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Perspective Warp and trapezoid rule",
+      "timestamp": "00:01:45",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Rule of trapezoids for perspective widening",
+      "timestamp": "00:01:52",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone stamping with a 90% brush at 100% opacity",
+      "timestamp": "00:05:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Puppet Warp for composition alignment",
+      "timestamp": "00:07:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Shadow dodge and RAW color adjustments",
+      "timestamp": "00:09:05",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Orton-style glow via dehaze and color grading",
+      "timestamp": "00:16:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Topaz usage for sky cleanup (standalone)",
+      "timestamp": "00:27:13",
+      "confidence": 0.7
+    },
+    {
+      "technique": "HDR-like blending and dynamic range exploration",
+      "timestamp": "00:34:36",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:24:45.908390+00:00"
+}

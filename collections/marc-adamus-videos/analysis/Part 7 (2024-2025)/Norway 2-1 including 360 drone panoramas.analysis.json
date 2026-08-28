@@ -1,0 +1,192 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Norway 2-1 including 360 drone panoramas.mp4",
+  "title": "Focus Stacking to Panorama: History‑driven Photoshop and PT GUI Workflow for Norway Drone Panoramas",
+  "date": {
+    "display": "October 21, 2025",
+    "iso": "2025-10-21",
+    "precision": "day",
+    "confidence": 0.58,
+    "basis": "Embedded file creation_time: 2025-10-21T17:11:23Z"
+  },
+  "locations": [
+    {
+      "name": "Norway",
+      "confidence": 0.75,
+      "basis": "Explicit mentions of Norway in the transcript (e.g., \"the second highest waterfall in Norway\"; file path and video title reference Norway)."
+    },
+    {
+      "name": "Martel-fossen, Norway",
+      "confidence": 0.6,
+      "basis": "Transcript explicitly identifies a waterfall as \"the second highest waterfall in Norway\" and later names the site as Martelfossin; combined with Norway context."
+    }
+  ],
+  "summary": "The video presents a photographer’s distinctive, history‑based workflow for landscape editing that blends Camera Raw, Photoshop, and niche pano tools to craft dramatic Norway drone panoramas. It emphasizes handling raw exposure and highlight/shadow recovery in Camera Raw, then recording a history‑driven sequence in Photoshop to remix adjustments without traditional layers or selections. The producer demonstrates zone‑based editing, sky and water enhancements via whites, color grading, and selective color, and then moves to drone panorama techniques using PT GUI for stitching with different projections (rectilinear, stereographic). The workflow covers both 2‑shot and 360 panoramas, with practical fixes for stitching misalignments, puppet warp for edge corrections, and manual blending when needed. Throughout, the instructor foregrounds directional lighting, composition rules (space for the light source, avoid aligning focal points), and the need to balance dynamic range while preserving snow, water, and mountain detail.",
+  "topics": [
+    "Focus stacking",
+    "Camera Raw workflow (ACR) vs Lightroom",
+    "High dynamic range and shadow detail recovery",
+    "History-based editing in Photoshop",
+    "History brush usage",
+    "Using few Photoshop tools (six‑tool workflow) without layers",
+    "Focus stack, crop, warp, blend, and stitch (five core edits)",
+    "Adaptive Wide Angle filter for perspective tweaks",
+    "Perspective Warp",
+    "Rule of trapezoids (perspective broadening)",
+    "Zooming and cropping for composition control",
+    "Zone-based editing (sky, water, mountains, fall color as separate zones)",
+    "Color Mixer for fall color enhancement",
+    "Selective Color and color separation",
+    "Color grading and color balance adjustments",
+    "Whites adjustment as a sky/foreground driver",
+    "Mid-tone Dodge and Shadow Dodge for water and rocks",
+    "Dehaze and diffusion concepts for sun glow",
+    "Gaussian blur for background diffusion",
+    "Blue-Gold filter (camera calibration) in color grading",
+    "Auto HDR style processing for texture and detail",
+    "PT GUI panorama stitching and projections (rectilinear, stereographic)",
+    "Exposure balancing across panoramas",
+    "360 vs multi-shot panoramas and center alignment fixes",
+    "Clone Stamp and puppet warp for edge corrections",
+    "Manual blending in Photoshop for panoramas"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:03:50.000",
+      "title": "Philosophy, RAW prep, and the history‑driven workflow",
+      "concepts": [
+        "Introduction to the photographer's unique, history‑driven Photoshop method",
+        "Preference for minimal tools and no traditional layers or masks",
+        "ACR (Camera Raw) workflow contrasted with Lightroom",
+        "Focus on preventing blown highlights and preserving shadow detail",
+        "Decision to open in Photoshop to record a history‑based sequence"
+      ],
+      "description": "The presenter outlines a personal, history‑based Photoshop system (evolved from clone painting/history painting) that uses a handful of tools and avoids layers/selections. He emphasizes starting in Camera Raw to recover shadows and protect highlights before moving to Photoshop to document history steps for later remixing. The section also notes the workflow’s philosophy: it’s not about making the image look perfect at this stage, but about preserving dynamic range and setting up later edits."
+    },
+    {
+      "start": "00:03:50.000",
+      "end": "00:14:00.000",
+      "title": "Zone analysis and initial color/contrast adjustments",
+      "concepts": [
+        "Five focus‑change operations (focus stack, crop, warp, blend, stitch)",
+        "Early suggestion of perspective tweaking (adaptive wide angle) and baseline cropping",
+        "Division of the image into zones (sky, water, mountains, fall color) for targeted edits",
+        "Initial color and tonal tweaks to reveal fall color with minimal manipulation"
+      ],
+      "description": "The section introduces the workflow order: address form‑altering edits first (focus stack, crop, warp, blend, stitch) and consider perspective adjustments with adaptive wide angle. The zones concept is defined and applied to isolate sky, water, mountains, and fall color for precise edits, while keeping the process lightweight and auditable."
+    },
+    {
+      "start": "00:14:00.000",
+      "end": "01:01:24.000",
+      "title": "Drone pano capture, PT GUI stitching, and multi‑shot panoramas",
+      "concepts": [
+        "Capture strategies for drone panoramas (2‑shot, multiple frames) and open discussion of 360 panoramas",
+        "PT GUI as the primary stitching tool with projection controls (rectilinear, stereographic)",
+        "Balancing exposures across frames and preparing a TIFF for stitching",
+        "Handling stitching edge cases and the center alignment issue with 360 panoramas",
+        "Exporting and bringing stitched panoramas into Photoshop for final touch‑ups"
+      ],
+      "description": "This section covers the practical aspects of drone panorama work: using PT GUI (noting its cost and capabilities) to stitch wide frames with projection control, balancing exposure across frames, and saving as TIFFs. The presenter explains the center misalignment problem common in 360 panos and demonstrates a Photoshop‑based fix (then moving back to PT GUI for final results). The workflow also shows converting stitched results into Photoshop for further adjustments and preparation for final delivery."
+    },
+    {
+      "start": "01:01:24.000",
+      "end": "01:46:53.000",
+      "title": "Post‑processing in Photoshop: puppet warp, dodging, color, and final polish",
+      "concepts": [
+        "Photoshop post‑processing of stitched panoramas (crop, scale, and edge corrections)",
+        "Use of puppet warp for clean edge removal and scene alignment",
+        "Mid‑tone dodge and shadow dodge to reveal water and foreground detail",
+        "Raw/Camera Raw style adjustments (whites, shadows, exposure, color balance, grading)",
+        "Selective color, color separation, and saturation adjustments for fall color",
+        "Sky control: blue/gold filter, exposure, and color grading",
+        "Diffusion techniques around the sun: blur, dehaze, and luminosity interactions",
+        "Gaussian blur for background diffusion and depth cueing",
+        "Manual vs automatic blending for 360 panoramas",
+        "Compositional framing and space for the light source to guide viewer attention",
+        "Snow patch consistency and non‑uniform lighting considerations"
+      ],
+      "description": "In this substantial processing pass, the host demonstrates a comprehensive Photoshop workflow for panoramas: aligning stitched layers, repairing seams with the clone stamp, and using puppet warp to fix misalignments. He then applies a sequence of tonal and color operations (whites, shadows, color balance, grading, and selective color) to emphasize the light source and create a cohesive relationship between sky, mountains, water, and foreground. The section culminates with diffusion techniques around the sun, intentional light shaping, and careful handling of foreground snow to avoid patchy lighting, along with a reminder about composition rules for space and focal points."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Focus stacking and RAW exposure control",
+      "timestamp": "00:01:05",
+      "confidence": 0.82
+    },
+    {
+      "technique": "History-based Photoshop workflow (no layers) and history brush",
+      "timestamp": "00:02:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adaptive Wide Angle filter for perspective distortion",
+      "timestamp": "00:04:33",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective Warp and rule of trapezoids",
+      "timestamp": "00:05:15",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Zone-based editing (sky, water, mountains, fall color)",
+      "timestamp": "00:06:36",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Water adjustments with mid‑tone dodge",
+      "timestamp": "00:10:47",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Whites adjustment and color grading for sky",
+      "timestamp": "00:12:20",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Color grading with color balance and secondary whites",
+      "timestamp": "00:13:26",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Puppet warp for edge corrections in stitched pano",
+      "timestamp": "00:21:23",
+      "confidence": 0.78
+    },
+    {
+      "technique": "PT GUI panorama stitching with rectilinear and stereographic projections",
+      "timestamp": "00:16:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual stitching fix and Photoshop cloning (center alignment)",
+      "timestamp": "01:02:17",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Auto HDR style processing (texture emphasis in sky)",
+      "timestamp": "01:27:48",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blue‑Gold filter (camera calibration) and color balance across sky",
+      "timestamp": "01:26:31",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Gaussian blur for background diffusion to imply depth",
+      "timestamp": "01:35:16",
+      "confidence": 0.74
+    },
+    {
+      "technique": "Sun diffusion diffusion via dehaze, blur, luminosity layering",
+      "timestamp": "01:32:04",
+      "confidence": 0.76
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:02:15.321922+00:00"
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Baffin 1-4.mp4",
+  "title": "Field-based Sky Replacement and Distort+Scale Wide-Angle Lookup in Baffin Island Landscape",
+  "date": {
+    "display": "August 21, 2026",
+    "iso": "2026-08-21",
+    "precision": "day",
+    "confidence": 0.52,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [
+    {
+      "name": "Baffin Island, Canada",
+      "confidence": 0.6,
+      "basis": "explicit mention in transcript: 'considering we're in Baffin Island' and observed jet trail over a lake"
+    }
+  ],
+  "summary": "The video presents a field-driven landscape post-processing workflow centered on sky replacement and perspective correction to achieve a wide-angle look. The host describes planning and visualizing the final composite in the field, selecting a background sky and foreground elements, rotating and flipping the sky to match side lighting, and blending with controlled opacity and saturation. Foreground cleanup uses a 90% hard-edge brush to refine rocks and preserve a usable original element as a fallback. The tutorial covers a three-blend sky insertion, then applies Distort + Scale for a trapezoidal warp that emulates wide-angle distortion, guided by the horizon and 'rule of trapezoids' rather than conventional two-by-three crops. Water depth is enhanced with mid-tone dodging, and final decisions keep the sky blue with minimal dodging or vignette unless warranted. The speaker also emphasizes the importance of visualizing the composition in the field and notes timing and light-direction considerations unique to the Baffin Island environment.",
+  "topics": [
+    "Perspective blending in the field",
+    "Foreground cleanup with a 90% hard-edge brush",
+    "Rock retention and original-element reuse in compositing",
+    "Sky replacement workflow: quick-select, rotate/flip, and color adjustments",
+    "Lighting-consistent sky integration (same afternoon side light)",
+    "Sky saturation and opacity adjustments during blending",
+    "Three-blend sky insertion technique",
+    "Distort + Scale: Photoshop-based adaptive wide-angle correction",
+    "Rule of trapezoids: avoiding two-by-three crops and using 4x5/4x5-square formats",
+    "Horizon alignment with trapezoidal warp",
+    "Mid-tone dodging to enhance water depth and glow",
+    "Water brightening and depth cues through dodging",
+    "Jet-trail and water-spot cleanup during final polish",
+    "Field-to-post workflow mindset: visualizing final result in the field"
+  ],
+  "sections": [
+    {
+      "start": "00:00:36",
+      "end": "00:01:54",
+      "title": "Field planning and perspective blending",
+      "concepts": [
+        "initial blend planning",
+        "background versus foreground decisions",
+        "discussion of perspective blending in the field"
+      ],
+      "description": "The presenter notes the workflow goal and begins setting up the composite, mentioning the need to blend perspective in the field and selecting a background with significant foreground action to carry the shot."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:02:25",
+      "title": "Foreground cleanup and rock adjustment",
+      "concepts": [
+        "foreground cleanup",
+        "90 percent hard-edge brush usage",
+        "reintegrating the original rock if needed"
+      ],
+      "description": "Fore- ground cleanup is described, including sharpening rock edges and the option to reintroduce the original rock if the cleanup removes too much detail, using a hard-edge brush with high certainty."
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:04:11",
+      "title": "Sky replacement workflow and lighting match",
+      "concepts": [
+        "sky selection and sizing",
+        "rotate and horizontal flip for side-light consistency",
+        "quick-select for sky isolation",
+        "painting, blending, and saturation adjustments"
+      ],
+      "description": "Sky is selected and inserted into the scene, rotated/flip-paired to match afternoon side-light. The sky is painted in with measured opacity, saturation tweaks, and subtle blending to merge with the background."
+    },
+    {
+      "start": "00:04:25",
+      "end": "00:06:46",
+      "title": "Distort + Scale and trapezoidal warp for a wide-angle look",
+      "concepts": [
+        "Distort + Scale",
+        "rule of trapezoids",
+        "horizon placement and cropping philosophy",
+        "avoid two-by-three vertical crops"
+      ],
+      "description": "The method emphasizes Distort + Scale as a way to simulate wide-angle distortion. The speaker discusses using a trapezoidal warp to mimic lens distortion, notes the horizon should be centered, and rejects 2x3 crops in favor of 4x5 formats for the composition."
+    },
+    {
+      "start": "00:06:52",
+      "end": "00:07:15",
+      "title": "Spot cleanup and jet-trail removal",
+      "concepts": [
+        "remove tool use",
+        "water spot removal",
+        "jet-trail cleanup over the lake"
+      ],
+      "description": "Small blemishes and an unexpected jet trail are removed from the frame, illustrating in-field cleanup steps that refine the final composite."
+    },
+    {
+      "start": "00:07:15",
+      "end": "00:07:56",
+      "title": "Mid-tone dodging to enhance water depth",
+      "concepts": [
+        "mid-tone dodging",
+        "brightening water to create depth",
+        "natural-looking glow without color shifts"
+      ],
+      "description": "Mid-tone dodging is used to brighten the lake’s mid-tones, which adds depth to the water without altering its color."
+    },
+    {
+      "start": "00:07:56",
+      "end": "00:08:52",
+      "title": "Final color stance and light considerations",
+      "concepts": [
+        "keep sky blue",
+        "avoid sunrise/sunset color grading",
+        "recognize diminishing light and its impact on the shot"
+      ],
+      "description": "The sky remains blue to avoid a dramatic color shift; the speaker notes that additional effects like a vignette or minor dodging could be added, but stresses restraint due to changing light conditions."
+    },
+    {
+      "start": "00:08:52",
+      "end": "00:09:00",
+      "title": "Sun star shot and conclusion",
+      "concepts": [
+        "sun star emphasis",
+        "quick wrap-up"
+      ],
+      "description": "A brief nod to a sun-star treatment is mentioned as a potential finish, followed by a short closing remark."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sky replacement with lighting matching via rotation/flip",
+      "timestamp": "00:02:33",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Distort + Scale for wide-angle look",
+      "timestamp": "00:04:43",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Rule of trapezoids and cropping decisions (4x5 preferred)",
+      "timestamp": "00:05:29",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mid-tone dodging to enhance water depth",
+      "timestamp": "00:07:31",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Foreground cleanup with 90% hard-edge brush",
+      "timestamp": "00:01:54",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:14:54.356672+00:00"
+}

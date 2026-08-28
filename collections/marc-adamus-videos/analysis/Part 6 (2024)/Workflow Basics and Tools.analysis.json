@@ -1,0 +1,225 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Workflow Basics and Tools.mp4",
+  "title": "Workflow Basics and Tools: Non-layer Post-Processing for Landscape Imagery in Photoshop",
+  "date": {
+    "display": "October 17, 2024 (approx.)",
+    "iso": "2024-10-17",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "Embedded file creation_time metadata indicates 2024-10-17T11:57:41Z; transcript reinforces techniques typical of contemporary Photoshop versions."
+  },
+  "locations": [
+    {
+      "name": "Himalayas or Karakoram region (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly references the Himalayas or Karakoram as the source location for the image."
+    }
+  ],
+  "summary": "The presenter walks through a landscape-post workflow in Photoshop that minimizes layering in favor of a fast, paint-on-canvas approach. Starting from a pre-processed image, they emphasize Camera Raw Filter as a primary access point to raw-style adjustments without returning to Lightroom, advocate for a limited toolset for speed, and demonstrate selective color, color grading, and masking to shape tonal values and atmosphere. The talk covers practical tricks for focus stacking with Photoshop’s Load Files Into Stack, selective color masking for targeted color edits, and the use of warps to alter form—with cautions about distortion. The session also includes workflow organization: using history states, the history brush, and versioning saves to preserve different iterations. Overall, the video serves as a compact, repeatable toolkit (roughly 10–12 core tools) presented as a fast, hands-on system rather than a comprehensive tutorial on every available Photoshop feature.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw Filter",
+    "Dynamic Range",
+    "Shadows Whites Blacks",
+    "Color Grading",
+    "Temperature",
+    "Tint",
+    "Selective Color",
+    "Masking",
+    "Color Balance",
+    "HSL",
+    "Selective Color Masking",
+    "Focus Stacking",
+    "Load Files Into Stack",
+    "Helicon Focus (mentioned as alternative)",
+    "Gaussian Blur",
+    "Unsharp Mask",
+    "Dehaze",
+    "Dodge",
+    "Burn",
+    "Sponge",
+    "History Brush",
+    "History States",
+    "Clone Stamp",
+    "Healing Brush",
+    "Warp Tools",
+    "Puppet Warp",
+    "Perspective Warp",
+    "Free Transform",
+    "Adaptive Wide-Angle Filter",
+    "Performance Settings"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:12:00",
+      "title": "Intro and no-layer workflow philosophy",
+      "concepts": [
+        "Starting from an already processed image",
+        "Preference for a layer-minimal, painterly approach",
+        "Camera Raw Filter as a quick entry point; avoidance of Lightroom for speed",
+        "Only rare use of layers (e.g., focus stacking)"
+      ],
+      "description": "The presenter explains a fast, layer-light workflow in Photoshop, using a Himalayas/Karakoram-origin image as the example. They propose editing with a paint-on-canvas mindset, preferring to apply adjustments directly rather than on many separate layers and explaining how Camera Raw Filter provides raw-tools access without leaving Photoshop."
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "title": "Raw processing, Camera Raw integration, and dynamic range controls",
+      "concepts": [
+        "Returning to raw adjustments via Camera Raw Filter",
+        "Why Lightroom is not used here",
+        "Dynamic range concepts: shadows, whites, blacks; avoiding heavy overall contrast",
+        "Exposure vs. tonal adjustments; 3-stop shadow recovery caveats for certain gear"
+      ],
+      "description": "The speaker demonstrates invoking Camera Raw Filter from within Photoshop to adjust the image as if editing a raw file, highlighting the speed advantage and noting that Lightroom is slower for this workflow. They discuss the dynamic range panel (the light panel) for shadows and highlights, emphasizing shadows/whites/blacks over contrast in typical landscape edits, and explain constraints related to equipment."
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "title": "Color grading, masking, and selective color fundamentals",
+      "concepts": [
+        "Color temperature and tint as primary color controls",
+        "Selective Color as a foundational tool; masking capabilities",
+        "Color grading as a tonal-color coupling tool",
+        "Preserving luminosity while adjusting color palettes"
+      ],
+      "description": "This section delves into color control hierarchy, stressing temperature/tint for base color balance, and elevates selective color as a powerful yet complex masking-aware tool. The presenter demonstrates how to target specific colors and tonal regions to adjust mood without introducing global artifacts."
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:30:00",
+      "title": "Selective color masking and deep-dive into color tools",
+      "concepts": [
+        "Masking with selective color to affect blacks, whites, shadows, and highlights",
+        "Relative vs absolute color adjustments to control banding",
+        "Preserving luminosity and maintaining color relationships"
+      ],
+      "description": "The video emphasizes using selective color as a masking tool to selectively colorize or desaturate particular tonal ranges. Relative adjustments help avoid hard banding, and masking is highlighted as a key capability to constrain edits to specific areas like the sky or foliage."
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:39:00",
+      "title": "Layers, history-based editing, and non-destructive iteration",
+      "concepts": [
+        "Introduction to history states (default 1000) for non-destructive editing",
+        "History brush as a primary painting tool to apply prior adjustments",
+        "Check-marked steps and selective application across the image",
+        "Versions and saving: creating parallel files for comparison"
+      ],
+      "description": "The presenter outlines a history-driven workflow: enabling many history states, using the history brush to apply past edits selectively, and saving multiple versions to compare progress later. This section also covers how to safely apply or erase adjustments while preserving the ability to revert."
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:00",
+      "title": "Focus stacking and array of practical filters",
+      "concepts": [
+        "Load files into stack to enable focus stacking",
+        "Helicon Focus as a potential alternative",
+        "Alignment and auto-blend steps; transparent fill for non-overlapping areas"
+      ],
+      "description": "Discussion centers on constructing focus stacks in Photoshop, with mention of external tools like Helicon Focus as a possible alternative. The workflow includes saving, auto-aligning, and auto-blending while ensuring transparency fill to handle blank regions."
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:43:16",
+      "title": "Workflow consolidation and closing notes",
+      "concepts": [
+        "Core tool count: roughly 10–12 tools used consistently",
+        "System setup: increasing history states for non-destructive exploration",
+        "Wrap-up and a hint at more to come"
+      ],
+      "description": "The speaker recaps the essential toolkit (about 10–12 tools) and emphasizes configuring Photoshop for high history-state capacity. The closing notes preview further training and tomorrow’s continuation."
+    },
+    {
+      "start": "00:43:16",
+      "end": "00:43:16",
+      "title": "End",
+      "concepts": [
+        "Conclusion of the workflow basics segment"
+      ],
+      "description": "Final line declaring the conclusion of the workflow basics portion."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Camera Raw Filter as primary non-layer raw editor",
+      "timestamp": "00:02:03",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Dynamic Range / Light Panel adjustments (Shadows, Whites, Blacks; Temperature and Tint)",
+      "timestamp": "00:03:52",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Color grading workflow via color temperature/tint and selective color",
+      "timestamp": "00:05:00",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Selective Color with masking and horizon-specific edits",
+      "timestamp": "00:13:44",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Masking-based color edits and tonal targeting (HSL to Selective Color masking technique)",
+      "timestamp": "00:16:09",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Focus stacking using Load Files Into Stack; auto-align/auto-blend",
+      "timestamp": "00:18:33",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gaussian Blur diffusion to simulate distance and glow",
+      "timestamp": "00:22:03",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Dodge, Burn, and Sponge tools for local contrast and saturation",
+      "timestamp": "00:24:33",
+      "confidence": 0.81
+    },
+    {
+      "technique": "Warp tools (Puppet Warp, Perspective Warp) for compositional adjustment",
+      "timestamp": "00:27:53",
+      "confidence": 0.87
+    },
+    {
+      "technique": "History states and history brush for non-destructive, iterative edits",
+      "timestamp": "00:31:50",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Saving multiple versions to compare progress (versioning workflow)",
+      "timestamp": "00:38:40",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Performance setup: History States to 1000 for deep iteration",
+      "timestamp": "00:31:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Clone Stamp and Healing Brush for object removal/retouching",
+      "timestamp": "00:24:31",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Adaptive Camera Wide-Angle Filter for perspective distortion preview",
+      "timestamp": "00:20:23",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective Color masking as a non-destructive masking tool",
+      "timestamp": "00:17:04",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T23:46:09.984507+00:00"
+}

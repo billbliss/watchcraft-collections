@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Aerial transistions.mp4",
+  "title": "Aerial Transitions: Clone-Paint Layer Workflow for Subtle Landscape Edits",
+  "date": {
+    "display": "March 21, 2019",
+    "iso": "2019-03-21",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata"
+  },
+  "locations": [],
+  "summary": "The video demonstrates a Photoshop-based clone-paint workflow on a high-contrast landscape image (mountain and cloud scene). The author starts with a global Gaussian blur to smooth extreme tonal Separation, then uses a History Brush to reintroduce darker tones in the background. A dedicated clone-paint layer is created and populated with multiple adjustments, particularly highlight-focused split-toning, which are selectively brushed onto the image to shape warmth, diffusion, and edge diffusion. The process emphasizes guiding the viewer’s eye by deliberate edge treatment, building light and color transitions, and finally reintroducing some of the original tonal information to balance the edit.",
+  "topics": [
+    "Photoshop",
+    "Clone Paint",
+    "Gaussian Blur",
+    "History Brush",
+    "Split Tone",
+    "Highlights",
+    "Whites",
+    "Edge Control",
+    "Selective Brush",
+    "Layering",
+    "Landscape Editing",
+    "Aerial Photography",
+    "Color Grading",
+    "Local Adjustments",
+    "Light Building"
+  ],
+  "sections": [
+    {
+      "start": "00:00:51.740",
+      "end": "00:01:18.740",
+      "title": "Global smoothing with Gaussian Blur",
+      "concepts": [
+        "Gaussian Blur",
+        "Opacity",
+        "Global adjustment"
+      ],
+      "description": "Apply a 220-pixel radius Gaussian blur at 30% opacity across the entire image to reduce high-contrast harshness and create smoother tonal transitions."
+    },
+    {
+      "start": "00:01:18.740",
+      "end": "00:01:28.220",
+      "title": "Selective darks restoration with History Brush",
+      "concepts": [
+        "History Brush",
+        "Darks",
+        "Background emphasis"
+      ],
+      "description": "Reintroduce darker tones in background areas behind the mountain using the History Brush; no selection was needed."
+    },
+    {
+      "start": "00:01:28.220",
+      "end": "00:01:55.760",
+      "title": "Clone Paint layer setup with multiple adjustments",
+      "concepts": [
+        "Clone Paint",
+        "Adjustment layers",
+        "Split Tone",
+        "Highlights",
+        "Whites"
+      ],
+      "description": "Create a Clone Paint layer and generate four additional adjustments to control tone and color in a modular, brushable way."
+    },
+    {
+      "start": "00:01:55.760",
+      "end": "00:02:01.420",
+      "title": "Selective brushing and mixing of clone-paint adjustments",
+      "concepts": [
+        "Brush On",
+        "Selective Application",
+        "Mixing"
+      ],
+      "description": "Choose which adjustments to brush onto the image and blend them, enabling a progressive evolution of the edit."
+    },
+    {
+      "start": "00:02:01.420",
+      "end": "00:02:11.800",
+      "title": "Warmth, diffusion, and darkness tuning",
+      "concepts": [
+        "Warmth",
+        "Diffusion",
+        "Darkness"
+      ],
+      "description": "Brush in adjustments to add warmth and diffusion and selectively influence darkness in targeted areas."
+    },
+    {
+      "start": "00:02:11.800",
+      "end": "00:02:27.480",
+      "title": "Edge control for viewer guidance",
+      "concepts": [
+        "Edge Control",
+        "Composition",
+        "Attention guiding"
+      ],
+      "description": "Alternate between edge control and softer edges; diffusion around edges helps focus viewer attention on the subject."
+    },
+    {
+      "start": "00:02:27.480",
+      "end": "00:02:44.540",
+      "title": "Building light and color transitions",
+      "concepts": [
+        "Light Building",
+        "Color Transitions",
+        "Selective application"
+      ],
+      "description": "Continue building light and color transitions across the image with selective application to certain areas."
+    },
+    {
+      "start": "00:02:44.540",
+      "end": "00:02:50.620",
+      "title": "Final balance with original tones",
+      "concepts": [
+        "Original layer",
+        "Balance",
+        "Final touch"
+      ],
+      "description": "Finish by reintroducing a portion of the original tonal information to balance the edits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gaussian Blur on entire image",
+      "timestamp": "00:00:51.740",
+      "confidence": 0.85
+    },
+    {
+      "technique": "History Brush to restore darks in background",
+      "timestamp": "00:01:18.740",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Paint layer with multiple adjustments",
+      "timestamp": "00:01:28.220",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Split-toning adjustments on highlights",
+      "timestamp": "00:01:35.600",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective brushing of clone-paint adjustments",
+      "timestamp": "00:01:55.760",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Edge control strategy to guide viewer",
+      "timestamp": "00:02:11.800",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Building light and color transitions",
+      "timestamp": "00:02:27.480",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Reintroduction of the original tones for balance",
+      "timestamp": "00:02:44.540",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T14:21:09.605486+00:00"
+}

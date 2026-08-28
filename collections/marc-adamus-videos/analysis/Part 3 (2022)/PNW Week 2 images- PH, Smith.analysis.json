@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/PNW Week 2 images- PH, Smith.mp4",
+  "title": "Directional Lighting, Sky Warp, and Multi-Zone Compositing in Photoshop: A PNW Week 2 Landscape Workflow",
+  "date": {
+    "display": "June 13, 2022 (approximate)",
+    "iso": "2022-06-13",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "Embedded MP4 creation_time metadata indicates 2022-06-13T18:50:30Z; transcript does not independently confirm a date."
+  },
+  "locations": [
+    {
+      "name": "Painted Hills (probable subject of discussion, not confirmed as shooting location)",
+      "confidence": 0.4,
+      "basis": "Transcript references 'the painted hills' during image evaluation, but does not explicitly confirm the shooting location."
+    },
+    {
+      "name": "Painted Deserts (probable reference for trip discussion)",
+      "confidence": 0.4,
+      "basis": "Transcript mentions a Painted Deserts trip while discussing Photoshop workflows; not stated as shooting location."
+    }
+  ],
+  "summary": "This video presents a comprehensive post-processing workflow for landscape imagery, focused on building a cohesive composite through image selection, multi-zone lighting, and sky manipulations. The presenter emphasizes choosing frames with strong bottom-layer detail and balanced light, then creating three-dimensionality in long-lens scenes by introducing directional light and isolating zones (foreground, mid-ground, hills, and rainbow sky). Techniques span RAW adjustments, content-aware layering via history brushes, warmth and color grading, and selective masking (hard/soft brushes, clone-stamp-based warps) to integrate elements like a flaming sunrise, cloud structures, fog, and reflections. A notable portion covers sky replacement and color correction using Topaz, chromatic aberration removal, and a final glow with blur+luminosity for a dreamy finish. Throughout, the emphasis is on preserving dynamic range, guiding the viewer’s eye toward light sources, and balancing multiple layers to maintain a natural yet enhanced landscape read.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Topaz DeNoise",
+    "Topaz",
+    "Clone Stamp Tool",
+    "Clone Paint",
+    "Warp Tool",
+    "Perspective Warp",
+    "Highlight Dodge",
+    "Sponge Tool",
+    "Blur + Luminosity",
+    "Orton Effect",
+    "Selective Color",
+    "Color Grading",
+    "Color Temperature",
+    "Curves",
+    "Fog",
+    "Chromatic Aberration",
+    "Chromatic Aberration Removal",
+    "History Brush",
+    "Soft Brush",
+    "Hard Edge Brush",
+    "Dodge & Burn",
+    "Focus Stacking",
+    "Rainbow",
+    "Sky Replacement",
+    "Reflection",
+    "Four-Zone Workflow",
+    "Directional Lighting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:04:04.000",
+      "title": "Image selection and composition evaluation",
+      "concepts": [
+        "image selection",
+        "composition assessment",
+        "rule of six (presenter's terminology)",
+        "blending candidates"
+      ],
+      "description": "The presenter describes selecting images based on lighting, atmosphere, and how frames can be blended to achieve a desired result. Emphasis on choosing frames that balance bottom-dominant detail with overall composition, using a 'rule of six' heuristic to identify frames with strong bottom information and cohesive lines and colors."
+    },
+    {
+      "start": "00:04:04.000",
+      "end": "00:07:15.000",
+      "title": "Global exposure and dynamic range balancing",
+      "concepts": [
+        "dynamic range expansion",
+        "shadows and blacks lifting",
+        "preventing blown highlights",
+        "beginning state for processing"
+      ],
+      "description": "After selecting a candidate, the process moves to global adjustments: expand dynamic range, lift shadows, reduce overall exposure to prevent highlights from blowing out, and establish a baseline where highlights are controlled and the image is ready for further processing."
+    },
+    {
+      "start": "00:07:15.000",
+      "end": "00:15:10.000",
+      "title": "Directional lighting and two-zone shaping",
+      "concepts": [
+        "directional light",
+        "two-zone landscape",
+        "shaping light across hills",
+        "long-lens considerations"
+      ],
+      "description": "The speaker explains adding directional light to a long-lens scene to create focal points and depth, with a two-zone approach (one area darker/cooler, another brighter/warmer). The right-side light direction is emphasized while the left side receives lighter diffusion."
+    },
+    {
+      "start": "00:15:10.000",
+      "end": "00:21:50.000",
+      "title": "Layer-based warmth and contrast adjustments",
+      "concepts": [
+        "warming via color adjustments",
+        "history brush",
+        "exposure to zero with white addition",
+        "local contrast and texture",
+        "foreground-background cohesion"
+      ],
+      "description": "Local warmth is introduced on foreground layers using white to create contrast, followed by selective warmth and saturation adjustments. The history brush is used to apply and blend changes gradually to maintain natural transitions and enhance three-dimensionality."
+    },
+    {
+      "start": "00:22:00.000",
+      "end": "01:02:00.000",
+      "title": "Rainbow workflow and four-zone composition",
+      "concepts": [
+        "four-zone approach (sky, background hills, shadows, grasses)",
+        "sky warmth and global saturation",
+        "highlight dodge for rainbow",
+        "global adjustments and RAW vs Photoshop workflow",
+        "Topaz sky processing",
+        "cloud manipulation via clone paint"
+      ],
+      "description": "The rainbow scene is treated as a four-zone composite, with careful handling of sky warmth, global saturation, and rainbow brightness. The highlight dodge tool is used to enhance the rainbow, while Topaz is used to reduce noise in the sky. The rainbow and sky are blended with a cloned sky and cloud extensions, including cloud warping and cloud cloning to extend the horizon and maintain natural texture."
+    },
+    {
+      "start": "01:00:00.000",
+      "end": "01:21:11.800",
+      "title": "Sky replacement, chromatic aberration correction, and reflection work",
+      "concepts": [
+        "sky replacement",
+        "Topaz sky denoise",
+        "chromatic aberration removal",
+        "reflection alignment and warp",
+        "horizon and reflection realism"
+      ],
+      "description": "The sky is replaced and refined using Topaz denoise, followed by chromatic aberration corrections to adjacent foreground elements. The reflection is warped and blended with clone-paint techniques, ensuring the reflection matches the mountains while remaining a subtle, realistic element. This section also covers non-destructive blending using history brushes and opacity controls to preserve edge integrity."
+    },
+    {
+      "start": "01:21:11.800",
+      "end": "01:21:11.800",
+      "title": "Closing philosophy and recap",
+      "concepts": [
+        "got it",
+        "future topics"
+      ],
+      "description": "Brief closing remarks summarize the philosophy behind the processing approach, including a nod to future topics (coast workflows) and the guiding question: 'could the scene have happened this way?'"
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Directional lighting to create three-dimensionality in long-lens landscapes",
+      "timestamp": "00:05:36.020",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Global dynamic-range expansion and highlight control",
+      "timestamp": "00:04:25.260",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective warm/cool adjustments using color temperature and hue/saturation",
+      "timestamp": "00:07:27.460",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History Brush method to apply and blend adjustments selectively",
+      "timestamp": "00:08:57.360",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blur + Luminosity (Orton-like) global glow",
+      "timestamp": "01:21:23.540",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky replacement with Topaz denoise and selective color refinement",
+      "timestamp": "01:02:05.940",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Chromatic aberration removal via selective color adjustments",
+      "timestamp": "01:07:22.400",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Fog application and controlled diffusion for mid-ground realism",
+      "timestamp": "01:14:00.280",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Reflection warping and manual alignment using clone stamp",
+      "timestamp": "01:54:16.500",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cloning-based warps to extend clouds and adjust horizon",
+      "timestamp": "01:29:47.320",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Focus stacking discussion and practical limitations for wide-angle lenses",
+      "timestamp": "00:47:40.000",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T20:08:24.064138+00:00"
+}

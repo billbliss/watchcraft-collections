@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "video": "Part 3 (2022)/Torres Del Paine and tonal based color adjustment.mp4",
+  "title": "Torres Del Paine and tonal-based color adjustment (Part 3, 2022) — Photoshop landscape workflow",
+  "date": {
+    "display": "2022-04-17",
+    "iso": "2022-04-17",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time indicates export date; transcript provides no corroborating shooting date"
+  },
+  "locations": [],
+  "summary": "This instructional video presents a practical Photoshop workflow for turning a landscape sequence into a cohesive image through sky-focused selection, multi-plane focus considerations, and advanced tonal/color grading. The presenter guides sky assessment and crop decisions, discusses focus stacking ambiguities and manual blending when frames have misaligned planes, builds directional light and zone-based tonal structure, and progressively strongens color and atmosphere with blur, luminosity, and selective color adjustments. The sequence culminates in perspective widening, cloud augmentation, and a tonal-based color adjustment to unify colors across disparate regions. The transcript emphasizes non-destructive layering, iterative passes, and careful masking-by-painting rather than heavy masking, with attention to keeping eye flow toward the light source and preserving depth cues in mountains and water.",
+  "topics": [
+    "Photoshop",
+    "tonal-based color adjustment",
+    "color grading",
+    "dynamic range",
+    "focus stacking",
+    "clone stamp",
+    "blur plus luminosity",
+    "selective color",
+    "color balance",
+    "50-150 adjustment",
+    "two-zone shot",
+    "three-zone shot",
+    "atmospheric haze",
+    "perspective warp",
+    "rule of trapezoids",
+    "distort + scale",
+    "sky editing",
+    "landscape editing",
+    "water ripples",
+    "leading lines",
+    "cloud augmentation",
+    "edge blending",
+    "non-destructive editing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:14",
+      "title": "Sky assessment and initial crop",
+      "concepts": [
+        "sky selection",
+        "crop framing",
+        "compositional planning around sky"
+      ],
+      "description": "Identify the best sky in the sequence and choose a starting crop, with a preference for wider 4x5 framing to emphasize the sky and its color as a compositional driver."
+    },
+    {
+      "start": "00:01:26",
+      "end": "00:04:16",
+      "title": "Focus stack planning and frame selection",
+      "concepts": [
+        "focus stacking",
+        "background vs foreground frames",
+        "frame loading considerations"
+      ],
+      "description": "The speaker recalls a potential focus-stack approach and contemplates whether the sequence supports stacking; notes that different frames may be sharp at different planes, affecting future blending decisions."
+    },
+    {
+      "start": "00:04:27",
+      "end": "00:06:33",
+      "title": "Manual focus blending and edge-aware merging",
+      "concepts": [
+        "manual blend",
+        "clone stamp",
+        "edge preservation",
+        "plane alignment"
+      ],
+      "description": "When automated stacking is impractical, a manual blend is performed by aligning a focal point and cloning from that edge to merge foreground and background, using a harder brush to preserve edge integrity along water."
+    },
+    {
+      "start": "00:06:41",
+      "end": "00:12:59",
+      "title": "Lighting direction planning and initial zone thinking",
+      "concepts": [
+        "directional light",
+        "zone-based planning",
+        "dynamic-range expansion"
+      ],
+      "description": "The presenter emphasizes developing directional light from the side and shading features toward that light; introduces the concept of viewing the scene in zones (sky/reflective zones, mountains, foreground) to structure subsequent edits."
+    },
+    {
+      "start": "00:12:59",
+      "end": "00:17:16",
+      "title": "Two-zone and three-zone color planning and initial grading",
+      "concepts": [
+        "two-zone vs three-zone",
+        "selective color",
+        "color balance",
+        "exposure adjustments"
+      ],
+      "description": "The shot is framed as multiple zones (sky+reflection, mountains, and fall-colors) with early color and tonal adjustments to unify these regions while retaining the directional light cue."
+    },
+    {
+      "start": "00:18:06",
+      "end": "00:23:12",
+      "title": "Blur + luminosity haze layering and atmosphere separation",
+      "concepts": [
+        "blur + luminosity",
+        "clone-paint reuse",
+        "soft diffusion",
+        "layer separation"
+      ],
+      "description": "A blur plus luminosity workflow is introduced to create atmospheric haze; a clone-paint approach is prepared to reuse the adjustment across multiple areas and layers for consistent diffusion."
+    },
+    {
+      "start": "00:23:12",
+      "end": "00:30:12",
+      "title": "Layer separation of mountains and edge refinement",
+      "concepts": [
+        "separating layers",
+        "edge refinement",
+        "masking and erasing edges"
+      ],
+      "description": "Manual separation of mountain layers is performed to establish depth; edges are carefully erased and refined to ensure clear separation between layers (e.g., towers named Fortaleza and others) and to maintain believable depth cues."
+    },
+    {
+      "start": "00:30:25",
+      "end": "00:37:44",
+      "title": "Enhancing horn lighting and aggressive color sculpting",
+      "concepts": [
+        "highlights on peaks",
+        "50-150 adjustments",
+        "selective color on yellows/reds",
+        "masking to affect only illuminated areas"
+      ],
+      "description": "The horn peaks are given intensified lighting through targeted adjustments; the workflow uses 50-150 and selective color to selectively illuminate only the illuminated portions, while preserving surrounding context."
+    },
+    {
+      "start": "00:37:44",
+      "end": "00:43:12",
+      "title": "Perspective widening and cloud augmentation",
+      "concepts": [
+        "rule of trapezoids",
+        "perspective warp",
+        "cloud replacement"
+      ],
+      "description": "A wide-angle illusion is pursued via perspective warp (rule of trapezoids) and selective distortion plus scale; a larger cloud is duplicated and inserted to push the eye toward the light source."
+    },
+    {
+      "start": "00:43:12",
+      "end": "00:57:59",
+      "title": "Tonality stabilization via tonal-based color adjustment",
+      "concepts": [
+        "tonal-based color adjustment",
+        "saturation reduction",
+        "color temperature control",
+        "highlights/shadows balancing"
+      ],
+      "description": "The core tonal-based color-adjustment technique is demonstrated: reduce overall saturation, cool shadows, restore neutral blues/greys in distant shadows, reapply highlights incrementally, and refine colors across zones to achieve a cohesive, natural look."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sky selection and cropping for landscape sequencing (4x5 frame)",
+      "timestamp": "00:00:30",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Manual focus stacking and edge-aligned blending using clone stamp",
+      "timestamp": "00:04:55",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Blur plus luminosity to create atmospheric haze",
+      "timestamp": "00:18:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Zone-based dynamic range expansion (two-zone/three-zone)",
+      "timestamp": "00:12:59",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective color and color balance to sculpt light on vegetation",
+      "timestamp": "00:15:30",
+      "confidence": 0.75
+    },
+    {
+      "technique": "50-150 adjustment for localized light distribution",
+      "timestamp": "00:30:31",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Perspective warp and rule of trapezoids to widen image",
+      "timestamp": "00:39:24",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Cloud augmentation by duplicating and re-entering clouds",
+      "timestamp": "00:43:12",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T20:19:38.287947+00:00"
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Patagonia 4-2.mp4",
+  "title": "Patagonia 4-2: Multi-image blending and sky replacement in Photoshop",
+  "date": {
+    "display": "May 13, 2025",
+    "iso": "2025-05-13",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time metadata; transcript provides no explicit date"
+  },
+  "locations": [],
+  "summary": "A practical Photoshop workflow demonstration focused on blending three landscape shots with differing exposures and content into a single cohesive image, followed by a sky replacement and targeted color/tonal adjustments. The presenter walks through matching dynamic range, aligning water across shots, masking and blending with careful opacity control, correcting wide-angle distortion via resampling, and preparing a large sky layer with perspective warp. The sequence culminates in edge-conscious sky insertion, mid-tone dodging to emphasize symmetry, a 4x5 crop, subtle vignette, and finishing touches such as a blue-gold water treatment and a painterly waterfall detail painted at micron-scale brush sizes to achieve a natural look.",
+  "topics": [
+    "three-image blending",
+    "dynamic range expansion",
+    "exposure adjustment",
+    "water alignment across shots",
+    "edge matching for blends",
+    "opacity-based blending",
+    "selection masking",
+    "distortion and resampling",
+    "perspective warp",
+    "sky replacement",
+    "sky resizing to fit landscape",
+    "inverse selection techniques",
+    "edge darkening to avoid cut-and-paste",
+    "mid-tone dodging",
+    "crop to 4x5",
+    "tonal based color adjustments",
+    "vignette application",
+    "blue-gold filter (camera calibration) for water",
+    "water detail painting",
+    "brush size discipline for realism"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:54:00",
+      "title": "Three-shot blend overview and initial exposure match",
+      "concepts": [
+        "three-image blend",
+        "dynamic range",
+        "exposure adjustment",
+        "alignment planning"
+      ],
+      "description": "Introduction to the problem: there are three source images on the page with varied content and exposure. The goal is to blend them into one cohesive landscape by first matching their dynamic range and planning alignment, noting differences in sharpness across lenses and frames."
+    },
+    {
+      "start": "00:54:00",
+      "end": "02:16:38",
+      "title": "Water alignment and initial selection for blending",
+      "concepts": [
+        "water-region tracing",
+        "alignment point",
+        "edge consistency",
+        "selective masking"
+      ],
+      "description": "The speaker begins aligning the water areas between shots, tracing whitewater to guide where to align and blend. They acknowledge color shifts (one image being bluer) and emphasize moving only the water regions to create a coherent blend while leaving other content intact."
+    },
+    {
+      "start": "02:16:38",
+      "end": "04:59:00",
+      "title": "Opacity blending and edge refinement",
+      "concepts": [
+        "opacity blending",
+        "edge fades",
+        "resampling",
+        "distortion correction"
+      ],
+      "description": "Blending continues with near-full opacity on the water areas, adjusting opacities to blend edges smoothly. The speaker notes the need to resample certain bottom areas to improve alignment and acknowledges distortion typical of wide-angle lenses."
+    },
+    {
+      "start": "04:59:00",
+      "end": "07:13:00",
+      "title": "Mid-blend refinement and edge control",
+      "concepts": [
+        "hard-edge brush",
+        "selection cleanup",
+        "detail preservation",
+        "edge integrity"
+      ],
+      "description": "Further refinement of the blend includes ensuring sharp edges don’t reveal edits, using hard-edge brushes at appropriate opacity, and keeping the blend believable through careful edge handling and occasional resampling adjustments."
+    },
+    {
+      "start": "07:13:00",
+      "end": "12:20:00",
+      "title": "Sky preparation for replacement",
+      "concepts": [
+        "sky selection",
+        "luminosity mask",
+        "color matching",
+        "wide-angle sky prep"
+      ],
+      "description": "The workflow shifts to the sky. The presenter selects and preps a sky to replace the original, emphasizing consistent lighting direction and avoiding bright peaks that could betray a composite; notes that a wide-angle sky requires distortion considerations and a suitable selection approach."
+    },
+    {
+      "start": "12:20:00",
+      "end": "15:00:00",
+      "title": "Sky replacement and edge integration",
+      "concepts": [
+        "perspective warp",
+        "sky resizing",
+        "edge darkening",
+        "inverse selection"
+      ],
+      "description": "The sky layer is warped and resized to fit the landscape. The presenter demonstrates moving the original landscape behind the new sky using an active inverse selection strategy, ensuring the dark edge remains prominent to prevent a cut-and-paste look and preserving mid-area detail for balance."
+    },
+    {
+      "start": "15:00:00",
+      "end": "18:21:00",
+      "title": "Color grading, crop, and fine-detail painting",
+      "concepts": [
+        "tonal adjustment",
+        "vignette",
+        "blue-gold filter",
+        "waterfall painting",
+        "brush-size discipline"
+      ],
+      "description": "Final touches include gentle tonal adjustments, a subtle vignette, and a blue-gold-like treatment for water. The instructor crops to a 4x5 composition, then describes painting a natural-looking waterfall with extremely small brush sizes (down to 4 pixels) and multiple illuminated channels to avoid an HDR look, emphasizing symmetry and detail in the water and rock features."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Match dynamic range across three shots by adjusting exposure",
+      "timestamp": "00:54:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Water-alignment by tracing and selecting water regions for blending",
+      "timestamp": "02:13:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Opacity-based blending and edge fading to integrate layers",
+      "timestamp": "03:33:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Bottom-area resampling to improve blend alignment and reduce distortion",
+      "timestamp": "04:10:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Perspective Warp to shape a wide-angle sky",
+      "timestamp": "08:56:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Resize sky to fit landscape using layer scaling and alignment",
+      "timestamp": "10:15:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Edge-darkening and careful inverse selection to avoid cut-and-paste look",
+      "timestamp": "12:29:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mid-tone dodging to emphasize symmetry and fall colors",
+      "timestamp": "13:20:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "4x5 crop and subtle tonal adjustments for final presentation",
+      "timestamp": "14:18:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Blue-gold color treatment for water (camera calibration reference)",
+      "timestamp": "15:50:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Fine waterfall painting with small brush (4 pixels) and multi-channel illumination",
+      "timestamp": "17:09:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:17:19.935989+00:00"
+}

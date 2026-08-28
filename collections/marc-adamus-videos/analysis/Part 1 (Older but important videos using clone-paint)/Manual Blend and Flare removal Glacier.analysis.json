@@ -1,0 +1,309 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Manual Blend and Flare removal Glacier.mp4",
+  "title": "Manual Blend and Flare Removal: Glacier Scene - Perspective Warp, Hard-Edge Painting, and Sky Integration in Photoshop",
+  "date": {
+    "display": "October 8, 2021",
+    "iso": "2021-10-08",
+    "precision": "day",
+    "confidence": 0.58,
+    "basis": "Embedded MP4 creation_time metadata; transcript does not independently confirm exact date"
+  },
+  "locations": [
+    {
+      "name": "New Zealand rainforest (example images)",
+      "confidence": 0.85,
+      "basis": "Explicitly referenced in transcript: two 11mm rainforest images from New Zealand used in a manual blending example"
+    },
+    {
+      "name": "Grand Canyon (example/reference)",
+      "confidence": 0.6,
+      "basis": "Explicitly referenced as a prior video example illustrating alignment and blending challenges; not stated as the shot in this clip"
+    }
+  ],
+  "summary": "This video excerpt walks through a complex Photoshop workflow for manually blending two disparate landscape frames to create a seamless glacier/scan-style scene with flare management. The presenter emphasizes that perfect alignment is unattainable in manual blending, so the process relies on geometric warping (perspective and trapezoid shaping) to bring elements into a comparable frame, followed by careful painting with a hard-edge brush to hide misalignments. The workflow covers color matching (saturation, luminance, hue shifts), selective sky choices, and compositing of a single, cohesive sky. It also demonstrates a multi-zone approach to tonal adjustments, the use of Camera Raw and selective color for color grading, and finishing touches such as mid-tone dodge for water luminosity, a Vaseline-like vignette, and a guided crop to a 2:3 aspect. Throughout, the emphasis is on iterative, zone-based edits, re-timing adjustments, and the role of subjective aesthetic decisions when merging incompatible source imagery.",
+  "topics": [
+    "manual blending",
+    "photoshop",
+    "perspective warp",
+    "trapezoid warp",
+    "left-half realignment",
+    "hard edge brush",
+    "clone stamp (visualization)",
+    "color matching",
+    "hue shift",
+    "saturation",
+    "luminance",
+    "sky replacement",
+    "sky blending",
+    "two-shot panorama",
+    "crop 2x3",
+    "camera raw filter",
+    "dynamic range",
+    "exposure adjustment",
+    "selective color",
+    "zone-based editing",
+    "mid-tone dodge",
+    "water luminosity",
+    "vaseline vignette",
+    "history brush",
+    "lasso tool",
+    "green cast paint",
+    "stitching challenges",
+    "New Zealand rainforest (example)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:22",
+      "title": "Why Manual Blending Is So Hard",
+      "concepts": [
+        "manual blending",
+        "shot-to-shot mismatch",
+        "alignment constraints",
+        "hand drawing compositing"
+      ],
+      "description": "Introduces the challenge of manually blending two very different landscape frames and explains why the images must be brought close to alignment before painting."
+    },
+    {
+      "start": "00:02:22",
+      "end": "00:05:09",
+      "title": "Match Color and Prepare the Geometry",
+      "concepts": [
+        "color matching",
+        "red saturation",
+        "luminance",
+        "hue shift",
+        "scan-like compositing",
+        "canvas alignment"
+      ],
+      "description": "Uses color adjustments to bring the two shots closer together visually, then evaluates the geometry needed to make the frames workable for blending."
+    },
+    {
+      "start": "00:05:09",
+      "end": "00:07:15",
+      "title": "Warp the Left Side into a Trapezoid",
+      "concepts": [
+        "perspective warp",
+        "trapezoid warp",
+        "peripheral distortion",
+        "left-half realignment"
+      ],
+      "description": "Applies perspective warping and trapezoidal shaping to stretch the left side of the frame so the horizon and foreground relationships can align better between images."
+    },
+    {
+      "start": "00:07:15",
+      "end": "00:10:20",
+      "title": "Blend the Seam with a Hard-Edge Brush",
+      "concepts": [
+        "hard edge brush",
+        "seam masking",
+        "progressively smaller brush",
+        "dark areas",
+        "misalignment hiding"
+      ],
+      "description": "Paints across the overlap using hard edges and brush-size changes to hide the seam and make the two source shots read as one continuous scene."
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:13:18",
+      "title": "Choose a Sky and Rough in the Replacement",
+      "concepts": [
+        "sky replacement",
+        "sky selection",
+        "flying droplets",
+        "sunrise sky",
+        "cropping"
+      ],
+      "description": "Selects the better sky source, begins blending it into the composite, and trims the composition down to focus on the strongest portion of the scene."
+    },
+    {
+      "start": "00:13:18",
+      "end": "00:15:40",
+      "title": "Crop Back to a Normal Composition",
+      "concepts": [
+        "crop 2x3",
+        "reframing",
+        "panorama reduction",
+        "perspective warp"
+      ],
+      "description": "Repositions the wide panorama into a more conventional two-by-three frame and rewarps the image to keep the water and horizon relationships stable."
+    },
+    {
+      "start": "00:15:40",
+      "end": "00:17:09",
+      "title": "Work the Scene in Tonal Zones",
+      "concepts": [
+        "zone-based editing",
+        "multi-pass adjustments",
+        "tone separation",
+        "zone identification"
+      ],
+      "description": "Breaks the image into tonal zones and explains the iterative workflow of adjusting one zone, then revisiting it after neighboring areas are refined."
+    },
+    {
+      "start": "00:17:09",
+      "end": "00:20:42",
+      "title": "Camera Raw Corrections and Color Cleanup",
+      "concepts": [
+        "camera raw filter",
+        "exposure adjustment",
+        "dynamic range",
+        "temperature",
+        "HSL",
+        "green saturation"
+      ],
+      "description": "Uses Camera Raw to lower exposure, expand dynamic range, cool the color temperature, and remove unwanted green contamination from the rocks and midground."
+    },
+    {
+      "start": "00:20:42",
+      "end": "00:23:59",
+      "title": "Rebuild Color with Selective Color and Lasso Masks",
+      "concepts": [
+        "selective color",
+        "yellow highlights",
+        "orange color grading",
+        "lasso tool",
+        "history brush",
+        "tone masking"
+      ],
+      "description": "Rebuilds color selectively for the highlights and sun-star area, then uses lasso-based masking and history-brush painting to control where the warmer color lands."
+    },
+    {
+      "start": "00:23:59",
+      "end": "00:26:02",
+      "title": "Restore Greens and Dodge the Water",
+      "concepts": [
+        "green cast paint",
+        "tree color recovery",
+        "mid-tone dodge",
+        "water luminosity"
+      ],
+      "description": "Adds back a green cast to tree areas for depth and uses mid-tone dodge to brighten water and emphasize splash detail without disturbing the rest of the composite."
+    },
+    {
+      "start": "00:26:02",
+      "end": "00:29:18",
+      "title": "Darken and Refine the Sky Blend",
+      "concepts": [
+        "sky blending",
+        "darkening sky",
+        "cyan adjustment",
+        "hard-edge selection",
+        "horizon protection"
+      ],
+      "description": "Tones down the sky, adjusts its color balance, and blends it carefully into the scene while protecting the bright horizon line and nearby landscape."
+    },
+    {
+      "start": "00:29:18",
+      "end": "00:31:47",
+      "title": "Add a Vaseline-Style Vignette",
+      "concepts": [
+        "vaseline vignette",
+        "history brush",
+        "blurred edges",
+        "edge darkening",
+        "focus control"
+      ],
+      "description": "Creates a custom vignette by darkening and cooling the edges, then painting the original image back in with history brush work to concentrate attention toward the center."
+    },
+    {
+      "start": "00:31:47",
+      "end": "00:33:04",
+      "title": "Finish with Selective Blur and Glow",
+      "concepts": [
+        "Gaussian blur",
+        "selective painting",
+        "depth suggestion",
+        "glow enhancement"
+      ],
+      "description": "Paints a brighter blurred version into selected areas to increase perceived depth and glow, especially around the center and sunlit regions."
+    },
+    {
+      "start": "00:33:04",
+      "end": "00:35:22",
+      "title": "Wrap-Up and Key Takeaways",
+      "concepts": [
+        "aperture bracketing",
+        "sun star",
+        "manual blend recap",
+        "zone system",
+        "tonal-based color adjustment"
+      ],
+      "description": "Summarizes the main lessons: expose for the sky and sun star, warp and hand-blend incompatible frames, work by zones, and rebuild color tonally when the sources differ too much."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual image blending using warp to align disparate shots (perspective warp + trapezoidal shaping)",
+      "timestamp": "00:05:09",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Warping left side to a trapezoid to align horizon relationships between frames",
+      "timestamp": "00:14:09",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Hard-edge brush painting to mask seams and blend overlapping areas",
+      "timestamp": "00:07:21",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Color matching for red hues and overall tone after alignment (saturation, luminance, hue shift)",
+      "timestamp": "00:03:01",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Sky selection and replacement decisions with gradual blending and cropping",
+      "timestamp": "00:11:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cropping to a 2x3 aspect and re-positioning into a standard composition",
+      "timestamp": "00:13:18",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Camera Raw Filter workflow: exposure, dynamic range, color temperature, and selective color for color grading",
+      "timestamp": "00:16:59",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Zone-based multi-pass editing (identify one zone, adjust, then revisit zones iteratively)",
+      "timestamp": "00:15:54",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Mid-tone dodge to enhance water luminosity",
+      "timestamp": "00:26:02",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Vaseline-on-the-lens style vignette to direct viewer attention and control edge falloff",
+      "timestamp": "00:30:31",
+      "confidence": 0.79
+    },
+    {
+      "technique": "History brush usage to revert or reapply prior edits while maintaining a high-resolution workflow",
+      "timestamp": "00:19:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color adjustments to isolate and recolor specific yellows and highlights",
+      "timestamp": "00:21:21",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Lasso-based isolation and careful repainting to blend sky and landscape regions with controlled color bleed",
+      "timestamp": "00:22:55",
+      "confidence": 0.76
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:03:53.818083+00:00",
+  "timeline_repair_model": "gpt-5.4-mini",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-21T18:21:10.918739+00:00"
+}

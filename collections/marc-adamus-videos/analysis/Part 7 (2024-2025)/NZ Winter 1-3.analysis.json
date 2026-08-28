@@ -1,0 +1,179 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ Winter 1-3.mp4",
+  "title": "Photoshop Post-Processing of a Coastal Landscape: Layered Compositing, Light Separation, and Sky Drama",
+  "date": {
+    "display": "June 17, 2025",
+    "iso": "2025-06-17",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; export/creation timestamp; transcript does not confirm shooting date"
+  },
+  "locations": [
+    {
+      "name": "coastal shoreline with sea stacks (inferred)",
+      "confidence": 0.6,
+      "basis": "Transcript repeatedly identifies a coastal scene with waves, cliffs and rocks; no explicit shooting location is named"
+    }
+  ],
+  "summary": "This video presents a Photoshop-based landscape post-production workflow focused on turning a telephoto coastal capture into a three-layer composite with a dramatic sky. The instructor guides image selection from multiple shore frames, uses cloning and healing brushes to place rocks, waves, and birds, then builds a three-zone workflow (light on rocks, layer separation, sky drama) using whites, selective color, mid-tone dodge, de-haze, and color grading. The session emphasizes non-destructive editing, saving multiple versions, and achieving directional light with careful edge handling and beam effects to enhance atmosphere.",
+  "topics": [
+    "coastal scene discovery and shot selection",
+    "bird selection and framing from a sequence",
+    "primary shot identification at telephoto focal length (~300mm)",
+    "clone painting to place rocks and wave elements",
+    "healing brush for birds and foreground elements",
+    "wave/rock texture rematching and water texture blending",
+    "three-layer separation: light on rocks, separation of layers, drama in the sky",
+    "Whites adjustment and tonal tweaks for dynamic range",
+    "50-150 selective color adjustment on rocks (color and whites) with painting",
+    "opacity-based blending and layer painting for rock illumination",
+    "mid-tone dodge to introduce directional light",
+    "shadow dodge/burn to recover shadow detail",
+    "de-haze and tonal color grading for sky and background",
+    "drama in the sky and multi-pass highlight regrades",
+    "beams technique and feathered edge creation",
+    "non-destructive workflow with multiple saved versions"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "title": "Shot scouting and primary selection",
+      "concepts": [
+        "coastal scene",
+        "opening and pooling shots",
+        "selecting a primary cliff/wave shot",
+        "telephoto framing (~300mm)"
+      ],
+      "description": "Identify usable frames from the coastal sequence, open preferred images, and set aside the rest. This section centers on choosing the main cliff/wave shot with strong layered composition to anchor the final composite."
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:04:55",
+      "title": "Initial comp and element placement",
+      "concepts": [
+        "reusing previous settings",
+        "opening additional frames for placement",
+        "prepping for layering the primary shot"
+      ],
+      "description": "Open and apply prior adjustments to additional frames, begin positioning elements (rocks, cliffs) with cloning-paint work to start forming the composite structure."
+    },
+    {
+      "start": "00:04:55",
+      "end": "00:06:34",
+      "title": "Bird repositioning and prep for integration",
+      "concepts": [
+        "bird selection",
+        "healing brush to relocate birds",
+        "edge consideration"
+      ],
+      "description": "Identify a suitable bird shot, then use the healing brush to relocate or clean up small elements while preserving edges for a natural blend."
+    },
+    {
+      "start": "00:06:34",
+      "end": "00:11:15",
+      "title": "Water texture remix and layering prep",
+      "concepts": [
+        "water texture blending",
+        "wave placement across shots",
+        "preparation for layer separation"
+      ],
+      "description": "Blend water textures from multiple frames, align waves with existing layers, and prepare the scene for the three-layer separation that follows."
+    },
+    {
+      "start": "00:11:15",
+      "end": "00:12:28",
+      "title": "Three-layer separation concept (rocks, layers, sky)",
+      "concepts": [
+        "light on rocks",
+        "layer separation",
+        "drama in the sky"
+      ],
+      "description": "Outline the three-zone approach: emphasize light on rock faces, ensure natural separation between layers with telephoto advantages, and prepare for dramatic sky work."
+    },
+    {
+      "start": "00:12:28",
+      "end": "00:15:30",
+      "title": "Dramatic sky and tonal color grading (initial)",
+      "concepts": [
+        "tonal-based color adjustment",
+        "reducing saturation in favor of blue on neutral grays",
+        "beginning highlights/whites adjustments"
+      ],
+      "description": "Apply tonal adjustments to establish mood, introduce blue on neutral grays, and start broader highlight shaping to enhance the sky drama."
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:16:41",
+      "title": "Non-destructive workflow and versioning",
+      "concepts": [
+        "saving multiple versions",
+        "non-destructive editing",
+        "keeping options for later comparison"
+      ],
+      "description": "Demonstrate saving separate versions of the artwork to compare dramatic vs. natural looks and preserve the original pixels for non-destructive edits."
+    },
+    {
+      "start": "00:16:41",
+      "end": "00:19:14",
+      "title": "Beams and atmospheric effects",
+      "concepts": [
+        "beams creation",
+        "de-haze and saturation tweaks",
+        "edge feathering and brush sizing"
+      ],
+      "description": "Explore adding atmospheric beams through careful brushwork, de-hazing, and selective saturation adjustments. The segment covers creating clean, feathered lines and balancing sky-ground contrast for a convincing atmospheric effect."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Clone painting to place cliff and wave elements",
+      "timestamp": "00:04:19",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Healing brush to reposition birds and edges",
+      "timestamp": "00:05:09",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Mid-tone dodge to add directional light",
+      "timestamp": "00:07:15",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Shadow dodge/burn for shadow detail balance",
+      "timestamp": "00:11:21",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Whites adjustment + selective color (50-150) on rocks",
+      "timestamp": "00:08:50",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Three-layer separation: rocks, layers, sky",
+      "timestamp": "00:08:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "De-haze and tonal color grading for dramatic sky",
+      "timestamp": "00:14:29",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Beams creation with feathered edges and de-haze",
+      "timestamp": "00:18:36",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Non-destructive workflow with multiple saved versions",
+      "timestamp": "00:15:25",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:57:31.837854+00:00"
+}

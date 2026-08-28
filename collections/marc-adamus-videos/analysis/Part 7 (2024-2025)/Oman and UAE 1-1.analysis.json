@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Oman and UAE 1-1.mp4",
+  "title": "Saudi Desert Tree: Focus Stack, HDR Layering, and Light-Bleed Color Grading in Post-Processing",
+  "date": {
+    "display": "2024–2025 (production context from folder name; embedded creation time is 2026 export)",
+    "iso": "2024-2025",
+    "precision": "year",
+    "confidence": 0.5,
+    "basis": "Folder name indicates Part 7 (2024-2025); transcript and content reference Saudi desert scenes; embedded_creation_time suggests later export."
+  },
+  "locations": [
+    {
+      "name": "Saudi Arabia",
+      "confidence": 0.65,
+      "basis": "Explicit mention in transcript: 'So you thought we had the best shot in Saudi with that tree' [timestamp ~00:01:29]."
+    }
+  ],
+  "summary": "This video is a practitioner-led post-processing walkthrough of a desert-tree landscape shot in a Saudi location, focusing on building depth through a focus-stack HDR workflow, deliberate layer separation, and color/lighting decisions that preserve sky and dune details while isolating a focal tree. The instructor discusses frame selection, composition rules (notably tree placement relative to the horizon), and a suite of techniques to reveal layered depth: auto HDR for layer separation, manual layer painting with a hard-edged brush, dodging and burning to accent the trunk, and subtle light bleeding to guide the viewer’s eye. Color grading centers on color separation via opposite hues, warmth adjustments, and selective color nuance, with additional tips on avoiding artifacts, preserving sky color, and cropping for strong focal points. Throughout, examples emphasize single-tree emphasis, light direction, and the challenge of balancing complex backgrounds with a simple, readable foreground.",
+  "topics": [
+    "frame selection and composition for depth",
+    "layered depth in desert scenes",
+    "focus stacking in post-processing",
+    "focus-stack workflow overview",
+    "HDR-based layer separation",
+    "auto HDR for layer separation",
+    "manual layer separation with hard-edge brush",
+    "soft-edge brush for edge refinement",
+    "foreground-background separation strategies",
+    "horizon rule for trees (keep below/above horizon)",
+    "single-tree vs. two-tree compositions",
+    "shadow detail preservation with whites adjustment",
+    "vignetting to emphasize subject",
+    "beams and sun-star considerations",
+    "beam creation technique",
+    "bleeding light from the side to create focal points",
+    "adaptive wide-angle filter for cropping/distortion",
+    "opposite-color color grading (orange vs blue)",
+    "green/yellow color adjustments and luminosity",
+    "global saturation and warmth management",
+    "dodge/burn on trunk and key edges",
+    "color separation by hue and luminosity",
+    "lens-correction avoidance as a stylistic choice"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:11:58",
+      "title": "Frame selection and initial composition",
+      "concepts": [
+        "scene framing",
+        "foreground clutter management",
+        "layered depth via composition"
+      ],
+      "description": "The speaker selects frames, notes foreground elements (including a goat in one frame that is discarded), and discusses how different frame parts contribute to the eventual layered depth. Emphasis on choosing a tree and composition that will reveal layers when processed."
+    },
+    {
+      "start": "00:11:58",
+      "end": "00:21:00",
+      "title": "Focus stack introduction and mid-tone planning",
+      "concepts": [
+        "focus stack",
+        "planning mid-tone range",
+        "anticipating layer separation"
+      ],
+      "description": "Introduction to the focus stack as a key element of the shot. The presenter outlines the expectation that multiple exposure layers will reveal depth, with a plan to extract usable information from mid-tones before deeper processing."
+    },
+    {
+      "start": "00:21:58",
+      "end": "00:28:46",
+      "title": "HDR-based layer separation and automated workflow",
+      "concepts": [
+        "auto HDR to separate layers",
+        "foreground and tree preservation",
+        "background layer extraction"
+      ],
+      "description": "The workflow shifts to automatic HDR processing to tease apart layers, followed by discussion of preserving the foreground and the tree while isolating the distant layers. The speaker notes time-saving approaches and the balance between automation and manual refinement."
+    },
+    {
+      "start": "00:28:46",
+      "end": "00:36:00",
+      "title": "Composition rules and horizon guidance",
+      "concepts": [
+        "horizon placement",
+        "single-tree vs multi-tree framing",
+        "simplified background for clarity"
+      ],
+      "description": "The instructor articulates composition decisions, including the rule about keeping trees completely above or below the horizon and cropping toward a simplistic background to allow the tree to be the focal anchor. The discussion weighs two-tree versus single-tree arrangements and their impact on viewer focus."
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "title": "Targeted local adjustments: trunk emphasis and edge work",
+      "concepts": [
+        "dodge/burn on trunks",
+        "darkening and clarifying foreground",
+        "edge refinement and artifact avoidance"
+      ],
+      "description": "A sequence of precise, small-area dodges on the trunk and nearby edges is shown to create a stronger three-dimensional read. The presenter stresses careful edge handling to avoid visible seams and to preserve layer separation integrity."
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "title": "Beams creation and light articulation",
+      "concepts": [
+        "beam creation technique",
+        "auto HDR for beams",
+        "selective painting to preserve sun/sky"
+      ],
+      "description": "Focus shifts to enhancing light beams and beams-behavior around the sun. The technique includes painting beams with a hard brush at high opacity, refining with a soft brush, and selectively applying auto HDR to brighten or pull beams without over-saturating the sky."
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:56:00",
+      "title": "Color-grading and color-separation strategies",
+      "concepts": [
+        "opposite-color separation",
+        "warmth and saturation management",
+        "selective color adjustments"
+      ],
+      "description": "The presenter dives into color separation by hue, using opposite colors (e.g., orange vs blue) to distinguish dunes from sky, and discusses how to modulate warmth and saturation to preserve natural color while emphasizing the scene’s mood."
+    },
+    {
+      "start": "00:56:00",
+      "end": "01:05:35",
+      "title": "Final polish: sky, clouds, and directional light emphasis",
+      "concepts": [
+        "bleeding light from the side",
+        "global and local contrast tweaks",
+        "final crop and framing decisions"
+      ],
+      "description": "The closing section covers final global adjustments to the sky and clouds, additional light bleeding to create a strong focal point, and final cropping decisions. The instructor emphasizes directional light as the key driver of three-dimensionality and mood, and ends with reflections on workflow efficiency and the variability of desert scenes."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Focus stacking for depth of field",
+      "timestamp": "00:11:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "HDR layering and auto HDR separation",
+      "timestamp": "00:03:40",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Manual layer separation with hard-edge brush",
+      "timestamp": "00:05:21",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Edge refinement with soft brush to erase seams",
+      "timestamp": "00:07:02",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dodging and burning to emphasize trunk edges",
+      "timestamp": "00:15:16",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Beam creation technique for light shafts",
+      "timestamp": "00:29:29",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Opposite-color color grading for color separation",
+      "timestamp": "00:39:24",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Adaptive Wide Angle filter for composition drama",
+      "timestamp": "00:13:28",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Side-light bleed to guide viewer focus",
+      "timestamp": "01:02:08",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:03:04.304293+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Drone Pano Saudi.mp4",
+  "title": "Drone Pano Saudi — Exposure-Locked Panorama Workflow and Pre-Stitch RAW Preparation",
+  "date": {
+    "display": "2024-01-25 (approx.)",
+    "iso": "2024-01-25T07:32:09Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata treated as approximate unless independently confirmed by transcript"
+  },
+  "locations": [],
+  "summary": "The video segment presents a practical aerial panorama workflow focusing on exposure control during panel capture, the advantages of automatic panel mode on Air and Pro drones (and the absence of this feature on Minis), and a batch RAW-edit-before-stitch approach. The speaker advocates opening all frames in Camera Raw, extracting maximum shadow detail, and narrowing the overall exposure range prior to stitching in either Photoshop or PT GUI. He also covers the workflow of batch-opening in Camera Raw and Bridge, troubleshooting image selection commands, and notes a limitation: adjusting sky luminance with HSL can cause banding, so sky adjustments should be approached with care to preserve detail in the final stitch.",
+  "topics": [
+    "Photoshop",
+    "PT GUI",
+    "Camera Raw",
+    "Adobe Bridge",
+    "Panorama",
+    "Aerial photography",
+    "Exposure lock",
+    "Automatic panel mode",
+    "Air series",
+    "Pro series",
+    "Mini series",
+    "Stitching",
+    "Shadow detail",
+    "Dynamic range",
+    "HSL",
+    "Sky banding",
+    "9-shot pano"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:01:11.220",
+      "title": "Exposure lock and automatic panel mode across drone lineups",
+      "concepts": [
+        "Exposure lock for pano capture",
+        "Automatic panel mode vs manual/mono",
+        "Drone model differences (Air/Pro vs Minis)"
+      ],
+      "description": "The speaker notes that Air and Pro drones have a feature to lock exposure when capturing a panoramic panel, while Minis do not. Automatic panel mode is highlighted as advantageous for consistent overlap and speed, contrasting with slower manual approaches. This establishes the baseline workflow for capturing a multi-shot panorama with consistent exposure."
+    },
+    {
+      "start": "00:01:11.220",
+      "end": "00:02:21.700",
+      "title": "Pre-stitch RAW adjustments to maximize shadow detail",
+      "concepts": [
+        "Batch processing in Camera Raw",
+        "Shadow recovery",
+        "Reducing dynamic range before stitching"
+      ],
+      "description": "Before stitching, frames are opened in Camera Raw and batch-adjusted to recover shadow detail and reduce the overall exposure range. The aim is to flatten tonal differences across frames so that blending during the stitch has a consistent tonal baseline."
+    },
+    {
+      "start": "00:02:38.240",
+      "end": "00:03:36.720",
+      "title": "Batch opening, selection, and workflow in Bridge/Photoshop",
+      "concepts": [
+        "Batch selection (Command A / Ctrl A)",
+        "Opening multiple files for processing",
+        "Bridge as a workflow aid"
+      ],
+      "description": "The presenter demonstrates selecting all images and attempting to open them for processing, with on-screen navigation through menu actions and keyboard commands. The segment emphasizes batch access to the set of images that will be stitched."
+    },
+    {
+      "start": "00:03:36.720",
+      "end": "00:03:59.140",
+      "title": "Sky adjustments and limitations of HSL for skies",
+      "concepts": [
+        "HSL adjustments",
+        "Luminance vs banding",
+        "Sky detail preservation"
+      ],
+      "description": "A cautionary note is given: adjusting sky luminance with HSL can introduce banding. The implication is to minimize horizon-wide luminance edits and focus on preserving detail in the stitched panorama, acknowledging a practical limitation of certain post-processing adjustments."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Exposure lock for panel panoramas on Air/Pro drones",
+      "timestamp": "00:00:00.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Automatic panel mode for consistent overlap and speed",
+      "timestamp": "00:00:47.000",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Batch opening and RAW adjustments to maximize shadow detail",
+      "timestamp": "00:01:28.400",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Batch processing in Camera Raw to flatten tonal range before stitching",
+      "timestamp": "00:01:44.440",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Avoiding HSL luminance edits on skies due to banding",
+      "timestamp": "00:03:50.000",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:09:02.963218+00:00"
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/AK Fall 1-1.mp4",
+  "title": "Post-processing a landscape with selective color and layered depth in Photoshop (windy scene workflow)",
+  "date": {
+    "display": "September 5, 2025",
+    "iso": "2025-09-05",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in video metadata"
+  },
+  "locations": [],
+  "summary": "This video walk-through documents a landscape post-processing workflow focused on creating depth and color separation through non-destructive editing in Photoshop. The presenter begins with framing and crop decisions suited to wind, then builds a baseline by suppressing highlights and extracting shadow detail to form a controllable canvas. He demonstrates a background-first approach using Camera Raw adjustments, then introduces selective color and precise masking to separate foreground, mid-ground, and distant elements. Key techniques include color separation via Selective Color and 50-150 adjustments, hard- and soft-edged masking for layer isolation, content-aware removal of distractions, and a disciplined, non-destructive save strategy that preserves multiple versions. The session emphasizes iterative, partial adjustments (dodge/burn, saturation, hue shifts) and emphasizes that most changes are local and layered rather than global, culminating in a scene with a clearly defined focal point and believable depth.",
+  "topics": [
+    "framing and vertical crop strategy",
+    "wind considerations in composition",
+    "crop vs focus stacking decision",
+    "framing with natural frames (trees) and color accents",
+    "directional lighting and local light balancing",
+    "global tonal adjustments (highlights/shadows)",
+    "non-destructive editing and history states in Photoshop",
+    "importing and documenting edits via history",
+    "background-first workflow in RAW processing",
+    "White’s adjustment in Camera Raw",
+    "color balance: temperature and tint",
+    "selective color concepts and color separation",
+    "50-150 color adjustment technique",
+    "foreground vs mid-ground vs background masking",
+    "hard-edge vs soft-edge masking techniques",
+    "color separation for depth (greens vs reds)",
+    "building depth with layer separation and haze",
+    "beams of light and light shaping in post",
+    "content-aware removal of distractions (pipeline)",
+    "saving multiple versions for non-destructive editing",
+    "final refinements and philosophy: less is more"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:39",
+      "title": "Framing and crop strategy under wind",
+      "concepts": [
+        "framing",
+        "vertical composition",
+        "crop strategy",
+        "wind considerations",
+        "frame within frame"
+      ],
+      "description": "The speaker suggests shooting wider and cropping to create a vertical composition that keeps critical elements in focus, noting that wind makes focus stacking impractical for the scene and comparing different frame options to identify a composition with tree framing and red accents."
+    },
+    {
+      "start": "00:01:39",
+      "end": "00:04:07",
+      "title": "Initial tonal setup and non-destructive baseline",
+      "concepts": [
+        "directional light",
+        "shadow detail extraction",
+        "highlight suppression",
+        "baseline created in Photoshop",
+        "extended history states"
+      ],
+      "description": "The presenter outlines darkening the overall image and suppressing highlights to reveal shadow detail, then importing into Photoshop to begin recording a full history of edits with an expanded history states setting, framing the workflow as non-destructive from the outset."
+    },
+    {
+      "start": "00:04:07",
+      "end": "00:16:04",
+      "title": "Background-first adjustments and selective color introduction",
+      "concepts": [
+        "White’s adjustment",
+        "Camera Raw adjustments",
+        "global brightness/exposure",
+        "color temperature and tint",
+        "introduction to selective color"
+      ],
+      "description": "The workflow shifts to RAW-based adjustments, starting with a large White’s adjustment to influence the background, then modifying color balance and exposure, and finally introducing selective color concepts as a preface to local color control."
+    },
+    {
+      "start": "00:16:04",
+      "end": "00:33:52",
+      "title": "Color separation, masking, and depth creation",
+      "concepts": [
+        "color separation (reds/greens)",
+        "50-150 adjustment",
+        "foreground/mid-ground masking",
+        "hard-edge and soft-edge brushes",
+        "layer separation for depth"
+      ],
+      "description": "A core portion shows color separation to push reds and greens apart, using the 50-150 rule to make a color pop. The speaker demonstrates masking techniques (hard-edge for precise edges, soft-edge for gradual blends) to isolate foreground, mid-ground, and mountains, creating perceived depth and layered lighting effects."
+    },
+    {
+      "start": "00:33:52",
+      "end": "00:46:16",
+      "title": "Finishing, non-destructive save strategy, and philosophy",
+      "concepts": [
+        "dodging and burning",
+        "final tonal tweaks",
+        "non-destructive saving and versioning",
+        "light direction and micro-adjustments",
+        "workflow efficiency"
+      ],
+      "description": "The closing section emphasizes finishing touches (dodging/burning, light steering, minor hue/tint tweaks) and the importance of saving multiple non-destructive versions to revisit decisions later. The presenter reinforces a philosophy of incremental, non-destructive edits and speed-oriented post-processing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Non-destructive history-based editing in Photoshop (History States and History Brush)",
+      "timestamp": "00:03:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Background-first tuning with White's adjustment in Camera Raw (global to local balance)",
+      "timestamp": "00:04:45",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective Color with color-separation approach (50-150 method)",
+      "timestamp": "00:10:32",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Masking for depth separation (hard/soft brushes to isolate layers)",
+      "timestamp": "00:18:40",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Content-aware removal of distracting elements (pipeline)",
+      "timestamp": "00:25:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Versioned saving approach for non-destructive workflow",
+      "timestamp": "00:29:41",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:15:18.585441+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/Recap Coastal wildflowers and waves.mp4",
+  "title": "Recap: Coastal Wildflowers and Waves — Wave Blending and Color Grading in Photoshop",
+  "date": {
+    "display": "approx 2021-05-30 (export date)",
+    "iso": "2021-05-30",
+    "precision": "unknown",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; export date approximation; transcript does not independently confirm exact date"
+  },
+  "locations": [],
+  "summary": "The video presents a concise workflow for building a coastal-wave composite by evaluating multiple wave frames, adjusting exposure and color so the pieces read as one scene, and then blending elements from different images. It covers: selecting a base image and dialing in exposure (dynamic range, whites) and color balance (warmer tint with a blue accent); preparing a second image and placing it for side-by-side comparison; using the Clone Stamp tool to paint in detail from an alternate frame while sampling from the other image via Control-Tab; erasing edits with the History brush to refine edges; applying the same adjustments to additional frames and then fine-tuning hue, luminance, and saturation to maintain consistency across images. The result is a cohesive coastal composite built from multiple wave captures rather than a single shot.",
+  "topics": [
+    "Photoshop",
+    "Clone Stamp Tool",
+    "Clone Painting",
+    "History Brush",
+    "Dynamic Range",
+    "White Balance",
+    "Color Temperature",
+    "Tint",
+    "Blue Shift",
+    "Layer Blending",
+    "Two-Image Composite",
+    "Side-by-Side Preview",
+    "Previous Settings/Presets",
+    "Hue",
+    "Saturation",
+    "Luminance",
+    "Photographic Blending",
+    "Landscape Education"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Base image: exposure and color grading",
+      "concepts": [
+        "shutter speed considerations",
+        "dynamic range adjustment",
+        "whites adjustment",
+        "warming tint",
+        "blue tint assessment"
+      ],
+      "description": "The presenter evaluates a wave image for a piece with strong splash and flat other areas, then adjusts dynamic range, whites, warmth, and tint, experimenting with a blue shift to influence the overall mood before establishing a base image."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:04",
+      "title": "Side-by-side comparison and clone-based blending",
+      "concepts": [
+        "two-image comparison",
+        "alignment of layers",
+        "Clone Stamp tool",
+        "soft brush",
+        "sampling from alternate image"
+      ],
+      "description": "Two wave captures are opened with previous settings, displayed side by side, and blended using Clone Painting. The operator samples from the other image (via option-click and then Control-Tab to switch samples) and paints it onto the current image, allowing the waves to align and blend across frames."
+    },
+    {
+      "start": "00:03:17",
+      "end": "00:03:22",
+      "title": "Selective erasing with History",
+      "concepts": [
+        "History brush",
+        "selective erase",
+        "refining composites"
+      ],
+      "description": "If edits are unsatisfactory, theHistory function is used to erase only portions of the composite, preserving preferred elements (e.g., a rock) while removing undesired areas."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:04:55",
+      "title": "Cross-frame matching: applying previous settings and fine-tuning",
+      "concepts": [
+        "reusing previous conversions",
+        "luminance adjustments",
+        "orange hue adjustments",
+        "saturation tweaks",
+        "hue shifts for color harmony"
+      ],
+      "description": "A new splash image is brought in and subjected to the same base adjustments; when lighting differs, additional tuning is applied to improve match, including increasing luminosity in the orange range and subtle hue shifts toward rosy tones to align with the rest of the composite."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Clone painting to blend waves from multiple frames by sampling from an alternate image with the Clone Stamp tool and Control-Tab",
+      "timestamp": "00:01:46.440",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Global color and exposure adjustments to balance wave images (dynamic range, whites, warmth, tint, and blue shift)",
+      "timestamp": "00:00:30.320",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Apply previous conversions/settings to new frames and perform targeted hue/orange/luminance adjustments to match across frames",
+      "timestamp": "00:04:13.300",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Selective edit erasure using the History panel/History brush to refine composites",
+      "timestamp": "00:03:17.340",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T19:11:46.067871+00:00"
+}

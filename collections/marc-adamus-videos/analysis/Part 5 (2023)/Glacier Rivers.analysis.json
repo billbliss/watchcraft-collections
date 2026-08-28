@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Glacier Rivers.mp4",
+  "title": "Glacier Rivers: Abstract Pattern Editing in Alaska",
+  "date": {
+    "display": "2023-08-22",
+    "iso": "2023-08-22T18:38:32Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time suggests export date; transcript supports Alaska as location but not shooting date."
+  },
+  "locations": [
+    {
+      "name": "Alaska",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly mentions Alaska in relation to glacial rivers; not necessarily shooting location."
+    }
+  ],
+  "summary": "This video demonstrates a practical workflow for turning glacial-river photography into abstract, pattern-driven compositions. It begins with scene evaluation to identify crisscrossing braided channels and depth-based color cues (shallow blue water vs. deeper muddy water and dark sandbars). The editing sequence prioritizes dynamic-range expansion by lifting blacks/shadows, restoring highlights with whites, then adjusting color temperature and tint to create mood. Texture and clarity are added, followed by a curves-based contrast lift; saturation is tuned to taste. The presenter shows applying the same edits across multiple frames with presets, Auto Apply, and Apply Previous Settings to extract multiple compositions from a single location. In later segments, attention shifts to shallow-sand patterns, autofocus considerations, and targeted HSL color sculpting (blue luminance, orange/yellow luminance, and magenta hues) to reveal striking gold-and-blue abstractions. The result is a library of high-contrast, geometric river abstracts grounded in the underlying water-depth and sand textures.",
+  "topics": [
+    "Alaska",
+    "glacial rivers",
+    "abstract patterns",
+    "color grading",
+    "dynamic range",
+    "shadows",
+    "blacks",
+    "whites",
+    "color temperature",
+    "tint",
+    "texture",
+    "clarity",
+    "curves",
+    "saturation",
+    "preset",
+    "auto apply",
+    "apply previous settings",
+    "region-based editing",
+    "HSL",
+    "blue luminance",
+    "orange luminance",
+    "yellow luminance",
+    "sand patterns",
+    "autofocus",
+    "focus"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:00:53.260",
+      "title": "Scene assessment: identifying crisscross river patterns",
+      "concepts": [
+        "composition",
+        "pattern recognition",
+        "braided rivers"
+      ],
+      "description": "The presenter explains looking for crisscrossing patterns and depth-based color cues (shallow blue water, muddy deeper water, dark sandbars) to select compelling shots."
+    },
+    {
+      "start": "00:01:00.000",
+      "end": "00:01:23.360",
+      "title": "Exposure management and initial color tweaks",
+      "concepts": [
+        "dynamic range",
+        "shadows",
+        "blacks",
+        "whites",
+        "color temperature",
+        "tint"
+      ],
+      "description": "Lifts blacks/shadows to expand dynamic range, restores exposure with whites, then warms color temperature and nudges tint toward purple."
+    },
+    {
+      "start": "00:01:23.360",
+      "end": "00:01:55.600",
+      "title": "Texture, clarity, and curves for contrast",
+      "concepts": [
+        "texture",
+        "clarity",
+        "curves",
+        "saturation"
+      ],
+      "description": "Adds texture/clarity and uses curves to boost contrast, then explores slight saturation adjustments to emphasize river patterns."
+    },
+    {
+      "start": "00:02:20.100",
+      "end": "00:03:13.140",
+      "title": "Applying adjustments across areas with presets",
+      "concepts": [
+        "auto apply",
+        "apply previous settings",
+        "region selection"
+      ],
+      "description": "Demonstrates applying the same preset to other river patterns and using Apply Previous Settings to replicate edits across frames, with per-area color-temperature tweaks."
+    },
+    {
+      "start": "00:03:32.020",
+      "end": "00:09:23.880",
+      "title": "Sand patterns, autofocus, and final HSL refinement",
+      "concepts": [
+        "sand textures",
+        "autofocus",
+        "focus",
+        "HSL adjustments",
+        "blue luminance",
+        "orange luminance",
+        "yellow luminance"
+      ],
+      "description": "Explores shallow-sand abstractions, notes autofocus misses on very shallow textures, then uses HSL to tailor blue/orange/yellow tones—creating striking gold-and-blue sand abstractions and highlighting the value of presets for rapid multi-shot editing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion by lifting shadows and blacks, then restoring highlights with whites",
+      "timestamp": "00:01:00.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Color temperature and tint adjustments to shift mood, with subtle purple tint",
+      "timestamp": "00:01:12.400",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Texture and clarity boost followed by curves-based contrast enhancement",
+      "timestamp": "00:01:30.820",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Presets and Auto Apply / Apply Previous Settings to propagate edits across multiple frames",
+      "timestamp": "00:02:33.940",
+      "confidence": 0.88
+    },
+    {
+      "technique": "HSL-based color shaping for sand patterns (blue luminance, orange/yellow luminance)",
+      "timestamp": "00:08:53.880",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Autofocus considerations on shallow textures and focus management",
+      "timestamp": "00:04:09.620",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:10:32.312797+00:00"
+}

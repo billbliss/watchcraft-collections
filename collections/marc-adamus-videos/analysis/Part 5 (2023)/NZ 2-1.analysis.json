@@ -1,0 +1,244 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/NZ 2-1.mp4",
+  "title": "NZ rainforest processing tutorial: zone-based depth, separation, and sky-beam techniques in Photoshop (Part 5, NZ 2-1)",
+  "date": {
+    "display": "2023-12-09",
+    "iso": "2023-12-09T03:57:34Z",
+    "precision": "day",
+    "confidence": 0.5,
+    "basis": "embedded_creation_time metadata; approximate date inferred from transcript context"
+  },
+  "locations": [
+    {
+      "name": "Mount Madeline, Fiordland, New Zealand",
+      "confidence": 0.75,
+      "basis": "explicit mention of Mount Madeline and Fiordland in transcript (01:09:09)"
+    },
+    {
+      "name": "Milford Sound, Fiordland, New Zealand",
+      "confidence": 0.6,
+      "basis": "explicit mention of Milford in transcript (01:03:39)"
+    },
+    {
+      "name": "Fiordland National Park, New Zealand",
+      "confidence": 0.8,
+      "basis": "explicit reference to Fiordland (01:39:51)"
+    },
+    {
+      "name": "Mount Reineer (Fiordland, New Zealand)",
+      "confidence": 0.6,
+      "basis": "explicit mention of Mount Reineer (01:54:06)"
+    },
+    {
+      "name": "Tutoko / Tutico (Fiordland, New Zealand)",
+      "confidence": 0.4,
+      "basis": "explicit mention of Tutico/Tutoko in context of lenticular cloud (01:18:01)"
+    },
+    {
+      "name": "New Zealand",
+      "confidence": 0.9,
+      "basis": "opening line: \"This is the first New Zealand video on the second trip\" (00:00:00)"
+    }
+  ],
+  "summary": "This tutorial-style video is a landscape photography processing guide focusing on a New Zealand rainforest scene. The presenter outlines a philosophy-heavy workflow (artistic philosophy, compositional rules, and how to move the eye through a frame), then demonstrates a zone-based approach to raw and Photoshop processing. Core moves include extracting shadow detail, controlling global exposure and blacks, applying selective saturation and color adjustments, and building depth via diffuse light, fog, and layer separation. Distinctive techniques cover perspective corrections (perspective warp and puppet warp), multiple-stage masking and history-based editing, creation of light beams through blur and clone-paint workflows, aggressive sky work with auto HDR-like tonemapping and manual sky blending, and careful final cropping to emphasize a focal peak. The session also emphasizes avoiding over-precise selections for natural blending, maintaining depth by separating layers, and plotting a directional light path to guide the eye to the light source and subject. The narrative touches on field considerations (Milford/Fiordland context) and on how to judge when to crop or warp, and when to preserve a scene’s natural relationships between foreground, middle ground, and background.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Perspective Warp",
+    "Puppet Warp",
+    "History Brush",
+    "Dodge and Burn",
+    "Gaussian Blur",
+    "Clone Stamp",
+    "Selective Color",
+    "HSL",
+    "Color Grading",
+    "Dehaze",
+    "Clipping Mask",
+    "Blacks",
+    "Whites",
+    "Dynamic Range",
+    "Layer Separation",
+    "Zone-based Processing",
+    "Leading Lines",
+    "Rule of Six",
+    "Depth in Landscape",
+    "Atmospheric Diffusion",
+    "Foreground-Background Separation",
+    "Sky Replacement",
+    "Auto HDR",
+    "Lenticular Cloud",
+    "Beam Creation",
+    "Milford Sound",
+    "Fiordland",
+    "Mount Madeline",
+    "New Zealand",
+    "Foreground Lighting",
+    "Vignetting",
+    "Color Temperature",
+    "Toning",
+    "Dodge Tool",
+    "Burn Tool",
+    "High Dynamic Range (HDR)",
+    "Cloning/Cloning Stamp",
+    "Photoshop History"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:11:00",
+      "title": "Intro to artistic philosophy and base tools",
+      "concepts": [
+        "artistic philosophy",
+        "eye movement through frames",
+        "depth and three-dimensionality",
+        "base tools"
+      ],
+      "description": "The narrator introduces the process and points to a companion ‘Artistic Philosophy’ video and a compositional rules sheet, emphasizing the 'why' behind processing and how it affects depth, movement of the eye, and scene simplification."
+    },
+    {
+      "start": "01:11:00",
+      "end": "04:08:00",
+      "title": "Composition, framing, and the rule of six",
+      "concepts": [
+        "leading lines",
+        "framing",
+        "layers",
+        "composition simplification",
+        "crop considerations"
+      ],
+      "description": "Discussion of compositional structure and how to crop to enhance eye flow. The speaker advocates evaluating the frame as six parts, removing distracting areas, and ensuring all zones contribute to the overall flow."
+    },
+    {
+      "start": "04:08:00",
+      "end": "06:07:00",
+      "title": "Initial RAW processing strategy (shadow detail, exposure, dehaze)",
+      "concepts": [
+        "shadow extraction",
+        "global exposure control",
+        "dehaze",
+        "dynamic range"
+      ],
+      "description": "First processing pass focuses on extracting shadow detail, suppressing overall exposure, and applying light dehaze to set a baseline that preserves mood while keeping highlights controlled."
+    },
+    {
+      "start": "06:07:00",
+      "end": "07:59:00",
+      "title": "Photoshop workflow setup and historical states",
+      "concepts": [
+        "History Brush",
+        "history states",
+        "performance preferences",
+        "structural edits"
+      ],
+      "description": "The workflow describes enabling thousands of history states for recording, then using Photoshop to adjust the form of the image (warp/crop) before deeper processing."
+    },
+    {
+      "start": "08:00:00",
+      "end": "12:14:00",
+      "title": "Foreground/background separation and initial color work",
+      "concepts": [
+        "zone-based adjustments",
+        "level of blacks",
+        "whites adjustment",
+        "selective color"
+      ],
+      "description": "A cornerstone segment about breaking the image into zones so foreground and background can be optimized separately. Includes lowering the exposure to foreground whites and using selective color to push ferns forward without altering the background."
+    },
+    {
+      "start": "12:14:00",
+      "end": "16:11:00",
+      "title": "Light diffusion behind trunks and overall atmosphere",
+      "concepts": [
+        "diffusion",
+        "diffuse light behind trees",
+        "shadow detail",
+        "color grading"
+      ],
+      "description": "Techniques to diffuse light behind tree trunks, brighten/mist the mid-ground, and balance blacks/whites to create separation and depth, with discussion of color warmth and selective diffusion for background enhancement."
+    },
+    {
+      "start": "16:11:00",
+      "end": "21:50:00",
+      "title": "Beams creation and multi-layer separation",
+      "concepts": [
+        "beams via blur",
+        "clone-paint workflows",
+        "layer separation",
+        "hard vs soft brushes"
+      ],
+      "description": "An in-depth walkthrough of creating light beams using Gaussian blur, clone-painting from a blurred layer, and meticulous hard/soft brush work to separate beams from surrounding clouds, including cautions about edge control and alignment."
+    },
+    {
+      "start": "21:50:00",
+      "end": "27:20:00",
+      "title": "HDR-like tonemapping, sky work, and final balance",
+      "concepts": [
+        "auto HDR",
+        "color grading",
+        "sky blending",
+        "tone-mapping"
+      ],
+      "description": "Discussion of leveraging HDR-like tonemapping and color grade to bring out clouds and sky shapes, including manual sky blending between shots and final color balancing to ensure consistent tonality and mood."
+    },
+    {
+      "start": "27:20:00",
+      "end": "01:54:22",
+      "title": "Final composition choices, cropping, and lens-warp considerations",
+      "concepts": [
+        "crop decisions",
+        "rule of thirds/space",
+        "perspective warp vs puppet warp",
+        "lens distortion",
+        "final color decisions"
+      ],
+      "description": "The closing segments cover final cropping choices to emphasize lenticular clouds and peak composition, discussion of perspective warp vs puppet warp for controlling distortion, and final color decisions (blues versus golds, tonal shifts, and edge softening) before concluding the session."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Zone-based processing (foreground vs background) in Camera Raw/Photoshop",
+      "timestamp": "04:08:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Extract/shadow recovery and selective whites for foreground emphasis",
+      "timestamp": "12:14:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Perspective Warp and Puppet Warp for structural adjustments",
+      "timestamp": "08:00:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Beams creation using Gaussian blur, clone-paint, and masking",
+      "timestamp": "16:11:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "High-dynamic-range-like tonemapping with auto HDR and targeted color grading",
+      "timestamp": "21:50:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Manual sky blending and cloud separation for depth",
+      "timestamp": "24:00:00",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Layer separation and masking for depth in rainforest scenes",
+      "timestamp": "21:50:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selective color and color grading for foreground separation",
+      "timestamp": "12:14:00",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:20:16.642958+00:00"
+}

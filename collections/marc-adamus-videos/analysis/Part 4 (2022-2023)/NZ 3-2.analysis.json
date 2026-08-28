@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/NZ 3-2.mp4",
+  "title": "Fog, reflection, and directional-light post-processing for a New Zealand landscape (Part 4)",
+  "date": {
+    "display": "2022-12-03",
+    "iso": "2022-12-03",
+    "precision": "day",
+    "confidence": 0.8,
+    "basis": "Embedded creation time in metadata; transcript references suggest a weather/lighting setup around sunrise."
+  },
+  "locations": [
+    {
+      "name": "Mount Cook, New Zealand (probable)",
+      "confidence": 0.6,
+      "basis": "Explicit mention of Mount Cook as a framing target and direction in the shot (transcript at ~00:42:58); file path indicates NZ footage."
+    }
+  ],
+  "summary": "The video presents a guided, studio‑style walkthrough of a multi-step landscape post‑processing workflow focused on a foggy, sunrise scene captured in New Zealand. It covers fog layering from a prior shot, creating a convincing reflection, color-grading and selective-color corrections for flowers, and a detailed focus-stacking approach. The instructor then digresses into directional-light techniques to sculpt depth, employs Orton-style glow and Vaseline-on-the-lens effects to blend fog with the scene, and emphasizes careful masking, selection, and layer management to preserve foreground subjects while enhancing the overall atmosphere.",
+  "topics": [
+    "fog overlay",
+    "fog layering",
+    "sky replacement",
+    "reflection (in-water)",
+    "focus stacking",
+    "in-camera focus stacking",
+    "content-aware fill",
+    "selection color",
+    "selective color",
+    "color grading",
+    "color balance",
+    "tonal adjustment",
+    "dehaze",
+    "dynamic range",
+    "Orton effect",
+    "Vaseline on lens",
+    "diffuse glow",
+    "directional light",
+    "leading lines",
+    "crop composition",
+    "Mount Cook",
+    "Aoraki",
+    "New Zealand landscape",
+    "sensor cleaning",
+    "Nikon/Sony/Canon (camera discussion)",
+    "in-camera vs post-processing",
+    "photography workflow",
+    "fog and sunrise"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "02:22:00",
+      "title": "Fog overlay and sky/foreground integration",
+      "concepts": [
+        "fog",
+        "overlay",
+        "clouds",
+        "color matching",
+        "blending modes"
+      ],
+      "description": "The narrator explains correcting tilt, notes absence of morning fog, and proposes borrowing fog from a previous shot. They adjust size and color, emphasize that fog can’t move if it intersects foreground elements (e.g., flowers), and begin aligning the fog layer with the current frame."
+    },
+    {
+      "start": "02:22:00",
+      "end": "04:01:00",
+      "title": "Fog relocation and reflection groundwork",
+      "concepts": [
+        "fog expansion",
+        "cloud scaling",
+        "reflection planning"
+      ],
+      "description": "Clouds are enlarged and positioned to span the frame; a reflection plan is introduced for the fog layer, including how highlights influence final appearance and separation from the foreground."
+    },
+    {
+      "start": "04:01:00",
+      "end": "12:12:00",
+      "title": "Color and highlight refinement across the scene",
+      "concepts": [
+        "color grading",
+        "highlights",
+        "luminosity",
+        "blue/magenta balance",
+        "foreground adjustment"
+      ],
+      "description": "The workflow moves through improving peak highlights on the mountains, dialing color toward warm sunrise tones, and applying a multistage color grade. The instructor notes the need to limit blue in the highlights, then explores selective color and magenta/blue interactions to preserve flower hues while warming the sky."
+    },
+    {
+      "start": "12:12:00",
+      "end": "18:11:00",
+      "title": "Focus stacking workflow and stacking decisions",
+      "concepts": [
+        "focus stacking",
+        "alignment",
+        "photomerge",
+        "layers",
+        "in-camera vs post"
+      ],
+      "description": "The speaker delves into how many frames to stack, discusses the f/22 halves rule for focus distribution, explains the importance of foreground shots, and demonstrates alignment and blending steps. Emphasis is placed on content-aware fill and saving state before stacking."
+    },
+    {
+      "start": "18:11:00",
+      "end": "37:00:00",
+      "title": "Directional light, color toning, and edge diffusion",
+      "concepts": [
+        "directional light",
+        "Orton effect",
+        "Vaseline on lens",
+        "dehaze",
+        "color balance",
+        "tonal adjustments"
+      ],
+      "description": "A key section on injecting directional light to sculpt three-dimensionality, applying a soft Orton-like glow, and using a Vaseline-on-the-lens analogy. The workflow includes dehazing, selective color/composition refinements, and painting or layering to diffuse edges and maintain focus attention on the light source."
+    },
+    {
+      "start": "39:01:00",
+      "end": "50:24:00",
+      "title": "Composition-finalization and crop decisions",
+      "concepts": [
+        "crop",
+        "leading lines",
+        "composition",
+        "layer separation",
+        "rule of six"
+      ],
+      "description": "The final steps emphasize cropping to emphasize the strongest angle, ensuring space on the light source side, and referencing the rule of six as a compositional principle. The section closes with remarks on keeping fog cohesive with the background and the importance of layer separation for directional-light edits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Borrowing fog from another shot to recreate atmospheric fog in the scene",
+      "timestamp": "00:00:08",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Creating a reflection by flipping the fog layer and adjusting opacity",
+      "timestamp": "00:03:06",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Color grading to introduce warm sunrise highlights in the sky and mountains",
+      "timestamp": "00:05:22",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Selective Color to preserve foreground flower color while adjusting sky",
+      "timestamp": "00:07:46",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Explaining the opposite-color relationships in selective color (color theory)",
+      "timestamp": "00:08:11",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Focus stacking workflow with the f/22 halves rule and foreground/ background balance",
+      "timestamp": "00:14:23",
+      "confidence": 0.86
+    },
+    {
+      "technique": "In-camera focus stacking vs post-processing stacking and the need for alignment",
+      "timestamp": "00:17:45",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Content-aware fill usage during stacking to remove artifacts",
+      "timestamp": "00:17:50",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Vaseline-on-the-lens concept for softer background and edge diffusion",
+      "timestamp": "00:32:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Orton-style glow and vignette to blend fog with scene",
+      "timestamp": "00:30:55",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Directional light as a defining feature for 3D look in telephoto landscapes",
+      "timestamp": "00:18:58",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Dehaze and selective brightness control to clean up the sky and foreground",
+      "timestamp": "00:23:24",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Tonality-based color adjustment to target sky/fog mid-tones and luminosity",
+      "timestamp": "00:28:11",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Painting with light via hard-edge selection to create directional beams",
+      "timestamp": "00:25:10",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Edge diffusion and a Vaseline-like multi-layer blend to emphasize depth",
+      "timestamp": "00:32:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Final crop and composition decisions guided by leading lines toward the light",
+      "timestamp": "00:45:14",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Rule-of-six and focal-point considerations for dynamic landscape framing",
+      "timestamp": "00:39:49",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:45:39.712359+00:00"
+}

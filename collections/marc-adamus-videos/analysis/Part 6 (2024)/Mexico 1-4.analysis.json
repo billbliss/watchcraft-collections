@@ -1,0 +1,211 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Mexico 1-4.mp4",
+  "title": "Dynamic-range panorama weaving and sky-driven color grading in drone post-processing",
+  "date": {
+    "display": "2024-06-06",
+    "iso": "2024-06-06T14:54:06Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata"
+  },
+  "locations": [],
+  "summary": "The video is a practical studio-style walkthrough of post-processing drone panoramas, focusing on expanding dynamic range, stitching multiple exposures into a seamless panorama, and then sculpting light and color to emphasize sky, architecture, and foreground subjects. The presenter discusses RAW processing, exposure management to protect highlights, and manual warp-based alignment to preserve straight lines while avoiding distortion. He demonstrates sky-specific edits (whites adjustments in RAW, gradient color grading, selective color tuning, and occasional blur) and then moves to painting light across the scene—behind a tower, across palm trees, and along beams—to create depth and a three-dimensional feel. The workflow also covers edge cleanups, flower/foreground refinements, brush-based blends (soft vs. hard brushes), clone-like edits, and final touches with dehaze, Orton/blur diffusion, and selective emphasis to direct the viewer’s eye. Throughout, the emphasis is on iterative, brush-based adjustments rather than automated selections, with caveats about exposure, weather conditions, and file handling evident in the narration.",
+  "topics": [
+    "dynamic range",
+    "RAW processing",
+    "photoshop",
+    "panorama stitching",
+    "perspective warp",
+    "warp tool",
+    "overlap",
+    "DJI overlap",
+    "photomerge",
+    "edge straightening",
+    "gradient color grading",
+    "color theory",
+    "HSL",
+    "selective color",
+    "whites adjustment",
+    "beams and light",
+    "diffusion",
+    "Orton effect",
+    "dehaze",
+    "blur",
+    "HDR-like adjustments",
+    "foreground detailing",
+    "brush work",
+    "soft brush",
+    "hard brush",
+    "clone/patch removal",
+    "vignette",
+    "adaptive wide-angle filter",
+    "fisheye illusion",
+    "landscape editing",
+    "mountain/palm foreground cues",
+    "workflow notes",
+    "beams of light"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:12",
+      "title": "Dynamic range expansion and RAW exposure management; panorama prep",
+      "concepts": [
+        "dynamic range",
+        "exposure adjustment",
+        "highlight preservation",
+        "RAW workflow",
+        "drone imagery",
+        "baseline processing"
+      ],
+      "description": "The presenter expands the dynamic range across files while dropping exposure slightly to keep highlights in check, noting drone DR improvements and underexposure considerations. This sets up the subsequent panorama workflow and prepares the frames for merging."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:06:21",
+      "title": "Panorama stitching and distortion control; warp-based alignment",
+      "concepts": [
+        "photo merge",
+        "panorama stitching",
+        "distortion control",
+        "warp tools",
+        "overlap considerations",
+        "DJI crop behavior"
+      ],
+      "description": "Discussion of merging multiple exposures into a panorama, critique of overlap (DJI’s typical ~30% overlap), and the use of warps to influence distortion and alignment, with emphasis on consistent warping across shots."
+    },
+    {
+      "start": "00:06:21",
+      "end": "00:12:12",
+      "title": "Sky emphasis and edge handling; initial sky edits",
+      "concepts": [
+        "selective edge preservation",
+        "sky detail restoration",
+        "soft/hard brush blending",
+        "sky blur technique",
+        "dynamic range considerations"
+      ],
+      "description": "The shot with challenging upper edges prompts the use of a blur strategy for the sky, followed by careful edge work to keep lines straight and avoid distorting beams or trunks. The presenter emphasizes controlled warping and edge fidelity during sky manipulation."
+    },
+    {
+      "start": "00:12:12",
+      "end": "00:16:58",
+      "title": "Lighting emphasis and color control via RAW and HSL",
+      "concepts": [
+        "dynamic range-first workflow",
+        "RAW whites adjustment",
+        "hues and luminance for palms",
+        "color grading gradient",
+        "color theory application"
+      ],
+      "description": "A focus on pulling detail from the sky and beams through RAW whites adjustments, followed by targeted HSL adjustments for palm trees and a staged color gradient to shape the overall mood without disturbing the sky’s integrity."
+    },
+    {
+      "start": "00:16:58",
+      "end": "00:23:39",
+      "title": "Orton/dehaze approach and HDR consideration for beams",
+      "concepts": [
+        "Orton effect",
+        "dehaze",
+        "diffusion",
+        "HDR-like glow",
+        "beams and luminosity"
+      ],
+      "description": "The presenter debates Orton vs dehaze diffusion for background luminosity, demonstrates subtle HDR-like beam enhancement, and discusses managing background glow while preserving foreground clarity."
+    },
+    {
+      "start": "00:23:39",
+      "end": "00:31:00",
+      "title": "Perspective warp and foreground cleanups; composition refinements",
+      "concepts": [
+        "perspective warp",
+        "crop to horizontal",
+        "edge preservation",
+        "removing distractions",
+        "gradient emphasis on light"
+      ],
+      "description": "Perspective warping and targeted crops are used to align the composition, with manual edge work to remove stray elements and to guide the viewer’s eye toward light sources and strong lines."
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:50:02",
+      "title": "Final touches: RAW profile quirks, brush-based refinements, and punchy sky",
+      "concepts": [
+        "RAW profile inconsistencies",
+        "exposure matching across files",
+        "brush-based blending (soft vs hard)",
+        "gradient overlays",
+        "local contrast and clarity",
+        "beams and sun-like highlights",
+        "final color grading and vignetting"
+      ],
+      "description": "The sequence covers matching exposures across frames, handling odd RAW profiles, and using deliberate brush work to blend gradients, pop specific features (beams, tower sides), and finalize the image with careful color grading, brightness shifts, and a subtle vignette."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Panorama stitching with manual warp for distortion control",
+      "timestamp": "00:02:02",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective warp and horizon alignment to preserve beams",
+      "timestamp": "00:05:01",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Sky blur to aid dynamic range and sky representation",
+      "timestamp": "00:06:39",
+      "confidence": 0.65
+    },
+    {
+      "technique": "RAW whites adjustment as a signature sky enhancement",
+      "timestamp": "00:09:41",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gradient color grading following color theory",
+      "timestamp": "00:25:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "HSL adjustments for palm trees to lift subject brightness",
+      "timestamp": "00:14:39",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Orton effect vs dehaze with diffusion for background glow",
+      "timestamp": "00:16:16",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective warp and edge-cleanup for foreground elements",
+      "timestamp": "00:23:39",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Adaptive wide-angle filter, fisheye approach to widen scenes",
+      "timestamp": "00:29:09",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Brush-based localized painting and gradient blending",
+      "timestamp": "00:40:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Final highlight control and selective color adjustments",
+      "timestamp": "00:46:19",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Cloning/patch removal of distracting foreground elements",
+      "timestamp": "00:26:43",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:52:17.173346+00:00"
+}

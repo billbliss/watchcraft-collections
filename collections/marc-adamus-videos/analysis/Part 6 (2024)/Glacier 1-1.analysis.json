@@ -1,0 +1,125 @@
+{
+  "schema_version": 2,
+  "video": "Part 6 (2024)/Glacier 1-1.mp4",
+  "title": "Aurora Nightscape Editing in Photoshop: Zone-based, history-driven workflow (Glacier 1-1)",
+  "date": {
+    "display": "September 18, 2024",
+    "iso": "2024-09-18",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata"
+  },
+  "locations": [
+    {
+      "name": "Chief Mountain",
+      "confidence": 0.8,
+      "basis": "explicit mention in transcript: “this shot of chief mountain… fog this morning” (approx. 00:49:15)"
+    }
+  ],
+  "summary": "This educational video walks through a non-destructive, history-driven workflow for processing aurora-night landscape photographs in Photoshop and Camera Raw. The presenter demonstrates how to preserve detail in shadows while avoiding blown highlights, then breaks the image into zones (aurora, mountains, water) to apply targeted adjustments with adjustable history states and a history brush. The video covers fast, iterative processing—using Camera Raw for sky work, color grading, and diffusion, followed by careful edge work (dehaze-based separation of mountain layers) and light-driven compositing to guide the viewer’s eye toward the aurora. Practical topics include denoising strategies at high ISO, the pitfalls of histogram reliance, 4x5 framing, and the balance between sky enhancement and foreground fidelity. Throughout, the emphasis is on speed, precision, and non-destructive editing that can be revisited by remixing previous states.",
+  "topics": [
+    "Aurora photography",
+    "Night photography",
+    "Photoshop",
+    "Camera Raw Filter",
+    "History states",
+    "History brush",
+    "Zone-based editing",
+    "Layer-based editing",
+    "Whites adjustment",
+    "Color grading",
+    "Dehaze",
+    "Orton effect",
+    "Selective color",
+    "Dodge and burn",
+    "Noise reduction",
+    "4x5 crop",
+    "Focus stacking (mentioned)",
+    "Edge separation",
+    "Gradient and lighting control"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:36:00",
+      "title": "Exposure planning and initial dynamic-range checks",
+      "concepts": [
+        "Proper exposure philosophy for night aurora shots",
+        "Avoiding overexposure and grain in night photography",
+        "Identifying when to expand dynamic range and when not to",
+        "Initial steps: open in Photoshop and prepare for history-based edits"
+      ],
+      "description": "The section introduces the basic premise: night aurora shots should not look good straight from the camera; they should be underexposed to protect highlights and preserve shadow detail. The speaker demonstrates deciding whether the dynamic range needs expansion and describes two key goals to record in history: prevent any area from blowing out and avoid excessive shadow lift. It also covers the decision to crop/warp prior to heavy processing and notes a customized history setting (thousand states) to support fine-grained, adjustable edits."
+    },
+    {
+      "start": "01:36:00",
+      "end": "04:55:00",
+      "title": "Non-destructive, history-based workflow and zone planning",
+      "concepts": [
+        "Using history to simulate layers and adjustments",
+        "Setting up multiple adjustable zones (aurora vs mountains)",
+        "Recording adjustments as individual history states for later remix"
+      ],
+      "description": "This section focuses on converting edits into a non-destructive workflow by using history rather than traditional layers. The presenter explains zoning the image into aurora and mountain areas to enable independent adjustments that won’t cascade undesirably across the frame. The workflow emphasizes recording every stroke and adjustment as an individual history state, enabling precise remixing later and avoiding the pitfalls of cumulative layer edits."
+    },
+    {
+      "start": "04:55:00",
+      "end": "01:00:37:00",
+      "title": "Aurora enhancement, sky work, and finishing touches",
+      "concepts": [
+        "Camera Raw-based sky adjustments for aurora",
+        "White/temperature adjustments to exaggerate aurora",
+        "Color grading, diffusion, and diffusion strategies",
+        "Edge separation, dehaze, and gradient lighting to guide eye toward the light source",
+        "Denoise considerations and high-ISO caveats",
+        "Final remixing and framing decisions"
+      ],
+      "description": "In this final stretch, the workflow shifts to active sky and foreground integration. The presenter demonstrates applying Camera Raw Filter to boost the aurora ( Whites and color temperature adjustments ), followed by careful color grading to keep saturation controlled as the sky becomes luminous. A recurring technique—brighten and diffuse on the horizon—creates three-dimensional depth, while selective color and color grading preserve sky color without destroying foreground tones. The edge separation technique using dehaze helps distinguish multiple mountain layers, and dodging/burning is introduced to introduce subtle lighting and depth. The section also addresses practical challenges like high-ISO denoise and the importance of remixing previous states to refine the composition, including framing choices such as 4x5 crops and horizon emphasis. The overall takeaway is a layered, gallery-ready result built from iterative, non-destructive steps rather than single, heavy-handed edits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Zone-based, history-driven edits with a history brush to blend aurora and mountain zones",
+      "timestamp": "00:04:55",
+      "confidence": 0.88
+    },
+    {
+      "technique": "History brush to apply a recorded state to targeted areas",
+      "timestamp": "00:08:18",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Camera Raw Filter for aurora adjustments ( Whites, color temperature, and diffusion )",
+      "timestamp": "00:07:02",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Orton-like glow using mist, dehaze, and repeated color grading",
+      "timestamp": "00:11:02",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Edge separation of mountain layers via dehaze and targeted masking",
+      "timestamp": "00:42:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mid-tone dodge to simulate a light source and add diffusion behind foreground",
+      "timestamp": "00:51:26",
+      "confidence": 0.86
+    },
+    {
+      "technique": "4x5 framing and crop decisions to maximize composition and horizon emphasis",
+      "timestamp": "00:35:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Denoise strategy for high ISO night work and AI denoise considerations",
+      "timestamp": "00:15:03",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:46:29.526765+00:00"
+}

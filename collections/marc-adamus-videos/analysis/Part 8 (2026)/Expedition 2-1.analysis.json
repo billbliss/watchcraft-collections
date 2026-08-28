@@ -1,0 +1,234 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Expedition 2-1.mp4",
+  "title": "Drone Panorama Post-Processing in Patagonia Fjords: Stitching, Layering, and Tonal Depth",
+  "date": {
+    "display": "May 25, 2026 (approximate creation date)",
+    "iso": "2026-05-25",
+    "precision": "day",
+    "confidence": 0.65,
+    "basis": "Embedded creation_time in metadata (2026-05-25T14:53:51Z) and folder naming (Part 8 (2026)); transcript references Patagonia Fjords context"
+  },
+  "locations": [
+    {
+      "name": "Patagonia Fjords (explicit mention)",
+      "confidence": 0.75,
+      "basis": "Transcript explicitly references 'Patagonia Fjords' in discussion of the best sky and trip context (around 01:00:08)"
+    }
+  ],
+  "summary": "This video presents a hands-on post-processing workflow for drone-derived panoramas gathered in a fjord landscape, with emphasis on stitching, depth separation, and color grading. The host walks through choosing between free-panorama and 360 formats, preparing a multi-image pano (noting a 24-image set and a 100 MP vs 25 MP option), and stitching in PT GUI. After stitching, the instructor demonstrates flattening, trapezoid warping to correct perspective, and cropping for four-by-five compositions. A multi-zone approach is used to sculpt depth: background mountains, middle ground, and foreground water are selectively edited with exposure, shadows, whites, and color temperature. The tutorial emphasizes directional lighting to guide the viewer’s eye, sky treatment (dehaze, luminosity, tonal adjustments), and the use of tonal-based color adjustments to maintain color consistency across layers. Throughout, there are cautions about brush size, edge selection (including the “selecting the unselectable” technique), and keeping the sky busy yet unobtrusive to preserve mountain form. The narration ends with reflections on a standout sky and a reminder to get close to subject matter (trees) to enable more compelling post-processing results.",
+  "topics": [
+    "glacial river abstracts",
+    "fjords and fog composition",
+    "drone panorama types: free pano vs 360",
+    "image resolution: 100MP vs 25MP modes",
+    "stitching panoramas: 24-image sets",
+    "PT GUI panorama workflow",
+    "top/bottom stretching for panorama alignment",
+    "flattening and trapezoid warp for natural perspective",
+    "four-by-five cropping",
+    "background/midground/foreground depth separation",
+    "dehaze and luminosity for sun focal points",
+    "tonal-based color adjustments",
+    "selective color and color grading workflow",
+    "selecting the unselectable and hard-edge brush technique",
+    "sky and light grading, edge management, and cloud handling",
+    "symmetric composition and cropping decisions",
+    "edge-cropping and S-curve composition",
+    "drone proximity and composition cautions"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:15",
+      "title": "Intro and trip notes; glacial river abstracts",
+      "concepts": [
+        "glacial river abstracts",
+        "trip notes",
+        "initial framing"
+      ],
+      "description": "Opening remarks emphasize quick notes to remember for the trip and set expectations for the fjord imagery, with an opening nod to glacial river abstractions as a compositional motif."
+    },
+    {
+      "start": "00:02:15",
+      "end": "00:03:44",
+      "title": "Pano format decision: free pano vs 360; camera mode",
+      "concepts": [
+        "free pano",
+        "360 pano",
+        "image resolution option",
+        "camera mode"
+      ],
+      "description": "Discussion of whether the shot was a free panorama or a 360, plus a check of using 100 MP vs 25 MP modes, illustrating decisions that influence post-processing workflow."
+    },
+    {
+      "start": "00:03:44",
+      "end": "00:05:10",
+      "title": "Stitching prep: multi-image pano prep and alignment",
+      "concepts": [
+        "multi-image panorama",
+        "alignment tool",
+        "24-image stitch",
+        "stitching prep"
+      ],
+      "description": "Notes on assembling a large pano (388? 24 images referenced), selecting the best alignment tool, and planning the stitch with top/bottom balance in mind."
+    },
+    {
+      "start": "00:05:10",
+      "end": "00:06:12",
+      "title": "Exporting and initial panorama assembly in PT GUI",
+      "concepts": [
+        "PT GUI",
+        "save to desktop",
+        "create panorama",
+        "TIFF export"
+      ],
+      "description": "Post-assembly workflow: flattening, saving the stitched panorama, and ensuring the TIFF is used for high-quality output; emphasis on file organization for speed."
+    },
+    {
+      "start": "00:06:12",
+      "end": "00:07:50",
+      "title": "Perspective correction: warp, trapezoid; cropping strategy",
+      "concepts": [
+        "flatten",
+        "warp bottom/top",
+        "trapezoid warp",
+        "recrop"
+      ],
+      "description": "Demonstrates perspective correction by warping the panorama with trapezoid geometry and recropping to achieve a natural look and usable framing."
+    },
+    {
+      "start": "00:07:50",
+      "end": "00:13:30",
+      "title": "Light and focal point optimization; sky-centric composition",
+      "concepts": [
+        "sun focal point",
+        "rule of thirds",
+        "exposure balance",
+        "dynamic range"
+      ],
+      "description": "Reviews how light sources and focal points guide composition, noting the importance of a strong sky-to-mountain relationship and the eye’s movement toward the sun-lit region."
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:20",
+      "title": "Two-zone and three-zone processing concept; color intensity planning",
+      "concepts": [
+        "multi-zone editing",
+        "left/right zones",
+        "two-zone vs three-zone",
+        "color intensity"
+      ],
+      "description": "Introduces the concept of dividing a scene into multiple zones and processing left/right (two-zone) or three-zone panels to control exposure, contrast, and color with intent."
+    },
+    {
+      "start": "00:18:20",
+      "end": "00:23:40",
+      "title": "Color enhancements: selective color, yellows, oranges; fall palette exploration",
+      "concepts": [
+        "selective color",
+        "orange/yellow adjustments",
+        "fall palette",
+        "color grading"
+      ],
+      "description": "Walkthrough of enhancing colors (orange, yellows) and exploring fall-like color shifts to emphasize river-to-sky transitions and surface textures."
+    },
+    {
+      "start": "00:23:40",
+      "end": "00:31:20",
+      "title": "Symmetry and compositional decisions; four-by-five crop philosophy",
+      "concepts": [
+        "symmetry",
+        "four-by-five crop",
+        "central mountain emphasis",
+        "edge management"
+      ],
+      "description": "Highlights symmetrical composition, cropping to a four-by-five frame, and strategies to emphasize a central peak while maintaining edge clarity."
+    },
+    {
+      "start": "00:31:20",
+      "end": "00:37:58",
+      "title": "Background separation; blue depth layer via unselectable selection",
+      "concepts": [
+        "background layer",
+        "blue depth",
+        "selection of unselectable",
+        "hard-edge brush"
+      ],
+      "description": "Demonstrates separating background mountains from the foreground using a blue-toned depth layer, including the challenging 'selecting the unselectable' technique with a hard-edge brush to mask/paint edges."
+    },
+    {
+      "start": "00:37:58",
+      "end": "01:01:05",
+      "title": "Sky treatment and tonal-based color adjustments; dehaze and focal emphasis",
+      "concepts": [
+        "dehaze",
+        "luminosity mask",
+        "tonal-based color adjustments",
+        "sky emphasis"
+      ],
+      "description": "Explains sky treatment via dehaze and luminosity adjustments, then introduces tonal-based color adjustments to harmonize highlights/shadows; focuses on making the sun area a strong focal point."
+    },
+    {
+      "start": "01:01:05",
+      "end": "01:01:56",
+      "title": "Final reflections: standout sky and near-term shooting opportunities",
+      "concepts": [
+        "best sky",
+        "Patagonia Fjords",
+        "close-to-tree shots"
+      ],
+      "description": "Wrap-up reflections on the best sky of the trip, and notes about proximity to trees for future shots to enable stronger post-processing results."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Stitching and assembling a multi-image panorama in PT GUI",
+      "timestamp": "00:03:19",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Top/bottom stretching and alignment choices for free panoramas",
+      "timestamp": "00:03:33",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Two-zone vs three-zone processing approach for depth control",
+      "timestamp": "00:15:40",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Background separation using a blue-depth layer and 'selecting the unselectable'",
+      "timestamp": "00:26:31",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Dehaze + luminosity for sun focal point and color emphasis",
+      "timestamp": "00:13:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tonality-based color adjustments to harmonize color across layers",
+      "timestamp": "00:40:36",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Edge management and cropping for depth via trapezoid warp",
+      "timestamp": "00:05:40",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Selective color and color grading workflow for sunset palette",
+      "timestamp": "00:16:36",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Four-by-five crop philosophy and subject emphasis",
+      "timestamp": "00:19:28",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:30:32.811531+00:00"
+}

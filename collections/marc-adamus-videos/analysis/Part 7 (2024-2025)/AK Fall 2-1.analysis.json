@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/AK Fall 2-1.mp4",
+  "title": "Beams, Rainbows, and Depth: Post-Processing a Mountain Lightscape (AK Fall 2-1)",
+  "date": {
+    "display": "2025-09-16",
+    "iso": "2025-09-16T13:56:02Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [],
+  "summary": "This video presents a studio-style walkthrough of assembling and post-processing a dramatic landscape image built around sunbeams and a distant mountain. The presenter discusses shot selection, cropping to isolate the core elements, expanding dynamic range, then building the image in a zone-based workflow using brushes to apply local adjustments. Key steps include whites-driven light restoration, color calibration to enhance fall colors, and color separation in the foreground, followed by depth layering with dehaze, meticulous cloning to remove distractions, and a panoramic crop for a two-rainbow scene. The guide also contrasts manual blending with AI-based tools and emphasizes atmosphere and timing as essential ingredients, concluding with final color grading and edge refinements. The content blends practical Photoshop/Camera Raw techniques with field photography considerations and on-set decision-making about framing and light.",
+  "topics": [
+    "frame selection",
+    "crop to isolate subject",
+    "dynamic range expansion (RAW/Camera)",
+    "panorama crop",
+    "2x1 crop / rule of thirds",
+    "zone-based adjustments",
+    "brush masking",
+    "history brush",
+    "whites adjustment",
+    "shadows/blacks/exposure",
+    "color temperature and tint",
+    "blue-gold filter / camera calibration",
+    "HSL adjustments",
+    "selective color",
+    "color separation",
+    "dehaze",
+    "layer separation",
+    "clone stamp / manual blend",
+    "content-aware AI removal critique",
+    "dodging and brightness adjustments",
+    "global vs. local color edits",
+    "foreground/background ordering",
+    "drone vs ground imagery context",
+    "atmosphere as a driver of processing"
+  ],
+  "sections": [
+    {
+      "start": "00:04:27.000",
+      "end": "00:08:20.000",
+      "title": "Frame selection and dynamic range expansion",
+      "concepts": [
+        "frame/beam separation from mountain",
+        "crop to isolate core elements",
+        "expand dynamic range in RAW"
+      ],
+      "description": "Identify the strongest beam separated from the mountain, crop to emphasize the key elements (beam, opening in sky, mountain, and trees), and begin expanding the tonal range to reveal detail in shadows and highlights."
+    },
+    {
+      "start": "00:05:58.000",
+      "end": "00:12:54.000",
+      "title": "Zone-based painting workflow",
+      "concepts": [
+        "zone-based editing",
+        "brush-based adjustments",
+        "history brush usage",
+        "multi-zone contrast and color balancing"
+      ],
+      "description": "Develop a workflow that targets multiple tonal zones with localized adjustments. Use brushes to apply different corrections to each zone and utilize the history brush to revert or refine as needed, maintaining control over the final balance."
+    },
+    {
+      "start": "00:16:42.000",
+      "end": "00:19:32.000",
+      "title": "Rainbows framing and panoramic framing",
+      "concepts": [
+        "rainbow framing",
+        "panorama cropping",
+        "exposure adjustment for sky/rainbows"
+      ],
+      "description": "Discusses the framing effect of two rainbows and the choice to crop and adjust the sky to amplify the rainbow highlights, emphasizing compositional strategies for expansive scenes."
+    },
+    {
+      "start": "00:23:59.000",
+      "end": "00:25:50.000",
+      "title": "Manual blend and foreground removal",
+      "concepts": [
+        "clone stamp",
+        "two-shot alignment",
+        "hard-edge brush",
+        "manual layering to remove foreground clutter"
+      ],
+      "description": "Demonstrates aligning two shots with the same focal length and using a hard-edge brush/clone stamp to merge layers, removing distracting elements (foreground bush) for a believable composite."
+    },
+    {
+      "start": "00:26:22.000",
+      "end": "01:03:41.000",
+      "title": "Color separation, dehaze, depth layering, and sky foreground balance",
+      "concepts": [
+        "color separation (foreground)",
+        "selective color",
+        "global saturation adjustments",
+        "dehaze for depth",
+        "layer separation",
+        "global vs. local color grading",
+        "sky color grading and luminance",
+        "foreground brightness and contrast control"
+      ],
+      "description": "Explains color separation in fall foliage to create distinct color planes, followed by depth-building through dehaze and layered adjustments. Demonstrates selective color to modulate greens/yellows, then uses dehaze and selective brightening to push the background further away while maintaining foreground impact. Ends with targeted sky adjustments (color grading and luminance) and careful foreground balancing to preserve contrast."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion and initial crop",
+      "timestamp": "00:04:30",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Zone-based painting workflow with history brush",
+      "timestamp": "00:06:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blue-Gold filter and camera calibration for fall color",
+      "timestamp": "00:11:20",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Panorama crop (2x1) and rainbow framing",
+      "timestamp": "00:17:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color separation and selective color adjustments",
+      "timestamp": "00:26:30",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Dehaze and depth layering for atmospheric separation",
+      "timestamp": "00:28:57",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Manual blend using clone stamp to remove foreground distractions",
+      "timestamp": "00:24:06",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Final sky and foreground color grading with luminance shifts",
+      "timestamp": "00:45:58",
+      "confidence": 0.76
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-27T23:20:13.171213+00:00"
+}

@@ -1,0 +1,253 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/Coalmine above.mp4",
+  "title": "Coal Mine Canyon post-processing: dynamic range expansion, sky fusion, and clone-smear sky replacement",
+  "date": {
+    "display": "2018-04-09 (approx)",
+    "iso": "2018-04-09T17:30:03Z",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "Embedded video creation_time metadata; no corroborating timestamp in transcript"
+  },
+  "locations": [
+    {
+      "name": "Coal Mine Canyon (explicit mention in transcript)",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly references \"Coal Mine Canyon\" as a subject/place of interest"
+    },
+    {
+      "name": "Crater Lake (comparison)",
+      "confidence": 0.5,
+      "basis": "Transcript compares the compositional challenge to Crater Lake; not claimed as the shooting location"
+    },
+    {
+      "name": "Torowe (Toroweap/Torowe) (mentioned as a comparison)",
+      "confidence": 0.25,
+      "basis": "Transcript references a place named Torowe as a comparative example; exact location uncertain"
+    }
+  ],
+  "summary": "The video presents a landscape post-processing workflow focused on a Coal Mine Canyon scene. The speaker outlines a multi-pass approach to managing dynamic range, starts with preserving sky and shadow detail, and then iterates color and light with two RAW passes. Key moves include darkening the sky to retain color, painting in light on canyon features, and employing a sequence of color adjustments (split toning, selective color on reds) before more aggressive enhancements. A standout portion is a manual, paint-by-hand technique to introduce warm light onto rock faces, followed by diffusion and luminosity adjustments to unify tonality. The workflow includes a clone-smear sky replacement to add depth and three-dimensionality, blending sky color into edge regions, and finishing touches with dehaze, HDR tone-mapping, grain management, and targeted cleanup. Throughout, the instructor emphasizes preserving edge behavior, creating a fusion between land and sky, and iterating toward a cohesive, high-contrast landscape with strong atmospheric feel.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Split Toning",
+    "Selective Color",
+    "Curves",
+    "Gaussian Blur",
+    "Clone Stamp Tool",
+    "Clone Smear",
+    "Luminance Noise Reduction",
+    "LAB color",
+    "Dodge Tool",
+    "HDR Tone Mapping",
+    "Dehaze",
+    "Diffusion",
+    "Dark Blur",
+    "Healing Stamp",
+    "Content-Aware Fill",
+    "Edge Lighting",
+    "Sky Merge",
+    "Dynamic Range",
+    "Color Grading",
+    "Two-pass RAW workflow",
+    "Color matching"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:41",
+      "title": "Composition and initial dynamic range planning",
+      "concepts": [
+        "composition",
+        "leading lines",
+        "dynamic range planning",
+        "shadow vs blacks"
+      ],
+      "description": "Framing discussion of Coal Mine Canyon with a lead-in bowl shape and pillars; introduces intent to expand dynamic range by managing shadows and highlights."
+    },
+    {
+      "start": "00:01:41",
+      "end": "00:03:21",
+      "title": "Shadow detail retention and sky darkening strategy",
+      "concepts": [
+        "shadows vs blacks",
+        "keep sky dark",
+        "no color work yet"
+      ],
+      "description": "Advocates expanding dynamic range using blacks or shadows, preferring shadows to preserve detail; plans to keep the sky very dark to hold color before other edits."
+    },
+    {
+      "start": "00:03:21",
+      "end": "00:05:13",
+      "title": "Two-pass RAW processing and initial color direction",
+      "concepts": [
+        "two versions",
+        "RAW processing",
+        "contrast",
+        "tone adjustments",
+        "split tone"
+      ],
+      "description": "Mentions creating two versions of the image and performing RAW adjustments (contrast, overall exposure) and introducing a split tone approach for color control."
+    },
+    {
+      "start": "00:05:13",
+      "end": "00:09:14",
+      "title": "Edge light painting and horizon glow planning",
+      "concepts": [
+        "edge lighting",
+        "glow",
+        "vignette",
+        "diffuse sky"
+      ],
+      "description": "Outlines painting light on key features, adding glow to reduce harsh horizon lines, and aiming for a diffuse sky to merge land and sky."
+    },
+    {
+      "start": "00:09:14",
+      "end": "00:12:20",
+      "title": "Critical area sharpening and horizon integration rationale",
+      "concepts": [
+        "sharpness",
+        "tripods",
+        "detail",
+        "color consistency"
+      ],
+      "description": "Discusses the importance of a strong, well-blended area and how horizon-sky integration affects perceived depth and scale."
+    },
+    {
+      "start": "00:12:20",
+      "end": "00:15:00",
+      "title": "Color grading refinements: dehaze, split tone, and color matching",
+      "concepts": [
+        "dehaze",
+        "split tone",
+        "selective color",
+        "red adjustments"
+      ],
+      "description": "Delves into dehaze for sky pop, split toning to shape highlight color, and selective color tweaks to push reds warmer and more yellow."
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:41",
+      "title": "Hand-painted light and edge shaping on canyon walls",
+      "concepts": [
+        "painting light",
+        "edge lighting",
+        "manual shaping"
+      ],
+      "description": "Demonstrates meticulous, hand-painted light on rock faces to sculpt tone and emphasize three-dimensional forms."
+    },
+    {
+      "start": "00:18:41",
+      "end": "00:23:04",
+      "title": "Global diffusion, luminosity boosts, and sun highlight refinement",
+      "concepts": [
+        "neutral diffusion",
+        "luminosity",
+        "RGB/LAB dodging"
+      ],
+      "description": "Applies global diffusion to tie textures together; uses multiple diffusion passes and targeted luminosity boosts to enhance sun-lit regions."
+    },
+    {
+      "start": "00:23:04",
+      "end": "00:26:01",
+      "title": "Final polish: color passes, HDR mapping, and artifact cleanup",
+      "concepts": [
+        "HDR tone mapping",
+        "grain management",
+        "healing stamp",
+        "clone-smear cleanup"
+      ],
+      "description": "Performs final colorizing in RAW, auto HDR tone mapping, luminance/grain balancing, and artifact removal via healing/clone tools."
+    },
+    {
+      "start": "00:26:01",
+      "end": "00:26:45",
+      "title": "Closing discussion: down-below view and wrap-up",
+      "concepts": [
+        "down-below composition",
+        "final remarks"
+      ],
+      "description": "Mentions a secondary Coal Mine view and wraps up the session with candid remarks about shooting and processing choices."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion via blacks/shadows, then a highlight-reducing curve pass",
+      "timestamp": "00:00:30",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Preserving edge and color by darkening the sky for depth",
+      "timestamp": "00:00:46",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Two-pass RAW workflow with global contrast and tonal adjustments",
+      "timestamp": "00:03:21",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Split toning to shape highlight color and mood",
+      "timestamp": "00:04:59",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Selective color on reds to warm tones",
+      "timestamp": "00:04:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Painting light and glow on canyon features; edge highlights",
+      "timestamp": "00:05:57",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Gaussian blur diffusion around the light to soften edges",
+      "timestamp": "00:07:32",
+      "confidence": 0.82
+    },
+    {
+      "technique": "LAB-based sun dodge for selective brightening of sun highlights",
+      "timestamp": "00:08:35",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Clone-smear sky replacement to harmonize sky color with ground",
+      "timestamp": "00:10:13",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Edge-blend sky into the horizon to create perceived depth",
+      "timestamp": "00:12:20",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Camera Raw dehaze and selective color split tone for atmospheric color",
+      "timestamp": "00:13:21",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Global diffusion and dark blur to unify textures and remove distractions",
+      "timestamp": "00:19:46",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Neutral blur with staged luminosity boosts for overall brightness",
+      "timestamp": "00:19:46",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Healing Stamp / Content-Aware Fill for artifact cleanup",
+      "timestamp": "00:23:52",
+      "confidence": 0.7
+    },
+    {
+      "technique": "HDR auto tone mapping and luminance reduction for consistent grain",
+      "timestamp": "00:21:44",
+      "confidence": 0.73
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T15:34:42.024601+00:00"
+}

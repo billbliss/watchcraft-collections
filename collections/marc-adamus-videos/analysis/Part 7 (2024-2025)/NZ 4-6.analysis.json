@@ -1,0 +1,169 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 4-6.mp4",
+  "title": "Two-Wave Compositions and Rainbow-Driven Post-Processing: Field Craft and Photoshop Techniques from a New Zealand Landscape Shoot",
+  "date": {
+    "display": "2024-12-16",
+    "iso": "2024-12-16",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [
+    {
+      "name": "Tekapo, New Zealand",
+      "confidence": 0.75,
+      "basis": "explicit mention in transcript: \"Tekapo\" (01:24:21.260) indicating a previous shot location"
+    },
+    {
+      "name": "New Zealand (probable)",
+      "confidence": 0.5,
+      "basis": "directory/file path indicates NZ work: \"NZ 4-6.mp4\" within folder \"Part 7 (2024-2025)\""
+    }
+  ],
+  "summary": "The video offers a field-guided exploration of composing multi-subject landscape scenes (flowers, waves, rainbow) and a detailed, hands-on post-processing flow in Photoshop. It emphasizes precise spacing between primary subjects, horizon alignment via warp tools, and a layered approach to color and light. The instructor demonstrates when focus-stacking is impractical in the field, how to isolate and enhance a rainbow, and how to sculpt light and atmosphere through Dodge/Burn, color grading, and masking techniques, all while discussing practical trade-offs and time-management on location in New Zealand.",
+  "topics": [
+    "subject spacing: flowers vs waves (close but not touching)",
+    "two-wave composition as primary subject",
+    "focus stacking: feasibility and field limitations",
+    "horizon alignment using perspective warp",
+    "crop strategy: 4x5 aspect ratio for depth",
+    "rule of trapezoids and warp: subtle perspective correction",
+    "cloud and horizon editing with warp tools (perspective/puppet warp)",
+    "clone stamping and clone painting for edge repair",
+    "remove tool vs clone for removing distractions",
+    "mid-tone burn and white adjustments to shape light",
+    "dodge tool and sponge tool for saturation control",
+    "color separation using selective color and HSL debates",
+    "camera calibration and color grading (calibration, whites, shadows, magenta/blue balance)",
+    "auto HDR in Camera Raw for dynamic range management",
+    "dehaze and clarity as controlled enhancements",
+    "rainbow balancing: left/right side adjustments and waveform composition",
+    "warp-based cloud repositioning and horizon management",
+    "wind and depth-of-field considerations for telephoto capture",
+    "directional lighting as a driver of depth in telephoto landscape",
+    "leading lines and focal-point emphasis through light and composition",
+    "avoid altering the sky in post where possible"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:39",
+      "title": "Field composition and subject spacing",
+      "concepts": [
+        "spacing between primary subjects",
+        "flowers and waves must stay apart but close",
+        "avoid touching subjects to reduce distraction"
+      ],
+      "description": "Intro emphasizes the critical rule of clean, obvious spacing between primary subjects (flowers vs waves) to prevent distractions and to enable successful focus-stacks later."
+    },
+    {
+      "start": "00:02:39",
+      "end": "00:05:41",
+      "title": "Two-wave composition and horizon alignment",
+      "concepts": [
+        "two waves as primary subjects",
+        "keep elements close without touching",
+        "horizon tilt addressed with perspective tools"
+      ],
+      "description": "Illustrates why two waves can outperform single-wave frames and introduces horizon correction as a foundational step."
+    },
+    {
+      "start": "00:05:41",
+      "end": "01:12:22",
+      "title": "Initial post-processing decisions and horizon correction",
+      "concepts": [
+        "perspective warp to fix horizon",
+        "crop and align rock/flower edges",
+        "burn/dodge to sculpt rocks and rainbow",
+        "early rainbow emphasis"
+      ],
+      "description": "Demonstrates early-stage edits: straightening horizon, shaping light with dodge/burn, and initial rainbow adjustments to set the tonal direction."
+    },
+    {
+      "start": "01:12:22",
+      "end": "01:34:12",
+      "title": "Advanced color, masking, and warping",
+      "concepts": [
+        "warp tools (perspective, trapezoid)",
+        "cloud reposition",
+        "color separation (selective color, HSL)",
+        "color calibration",
+        "clone-based repair"
+      ],
+      "description": "Dives into more complex edits: warping for geometric corrections, moving clouds, separating colors for depth, and repairing artifacts with cloning."
+    },
+    {
+      "start": "01:34:12",
+      "end": "01:46:45",
+      "title": "Rainbow processing and final touches",
+      "concepts": [
+        "balancing rainbow across sides",
+        "HDR-like tonal manipulation",
+        "grass/foreground color separation",
+        "crop decisions and leading lines"
+      ],
+      "description": "Focuses on balancing rainbow, managing dynamic range with multipass adjustments, color-separating grasses, and making final crop/leading-line choices."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Perspective Warp to fix horizon and geometry",
+      "timestamp": "00:05:35",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Puppet Warp for targeted composition corrections",
+      "timestamp": "01:10:54",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Clone Stamp / Clone Paint to repair edges and remove distractions",
+      "timestamp": "01:02:53",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dark Blur to reduce bright highlights while preserving edge detail",
+      "timestamp": "00:10:34",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Mid-tone Dodge / Burn to sculpt and shape light",
+      "timestamp": "00:21:21",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Color separation using Selective Color and HSL considerations",
+      "timestamp": "00:24:54",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Auto HDR workflow in Camera Raw for dynamic range",
+      "timestamp": "01:16:00",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Warp with trapezoids to balance planes without distorting subject",
+      "timestamp": "01:17:46",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sponge tool for selective saturation enhancement",
+      "timestamp": "00:09:23",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Dodge/Burn emphasis on rainbow highlights",
+      "timestamp": "00:07:54",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color calibration and precise white/tonal adjustments to pull saturation",
+      "timestamp": "01:20:27",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:53:44.343029+00:00"
+}

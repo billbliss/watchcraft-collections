@@ -1,0 +1,356 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/AK Winter 1-1.mp4",
+  "title": "Layer separation and multi-zone blending in a winter Alaska landscape (Photoshop-based workflow)",
+  "date": {
+    "display": "January 9, 2023 (approximate)",
+    "iso": "2023-01-09T19:13:03.000000Z",
+    "precision": "unknown",
+    "confidence": 0.45,
+    "basis": "Embedded creation time in metadata; transcript does not independently confirm exact date"
+  },
+  "locations": [
+    {
+      "name": "Alaska",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly references Alaska in winter: \"this place was like, who takes shots from 7,000 feet in Alaska in winter?\""
+    }
+  ],
+  "summary": "This educational video presents a hands-on post-processing workflow for a highly layered winter landscape. The speaker advocates a four-zone approach (mountains, sky, ice/reflection, sun/star) to manage dynamic range, then demonstrates a sequence of manual blending, warping, and color/atmosphere adjustments in Photoshop and Camera Raw. Key techniques include expanding shadow detail, using perspective and puppet warps to widen or reshape elements, creating and integrating sun stars, clone-painting for atmosphere and depth separation, top-light tricks to simulate directional lighting, and tonal-based color adjustments to correct color balance. The tutor emphasizes iterative refinement, history-based editing, sky replacement by non-AI methods, and the philosophical focus on separating layers to achieve perceived depth rather than simply applying automatic enhancements.",
+  "topics": [
+    "Alaska",
+    "Winter landscape",
+    "Photoshop",
+    "Camera Raw",
+    "Adaptive Wide Angle",
+    "Distort+Scale",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Gaussian Blur",
+    "Orton Effect",
+    "Sun Star",
+    "Top Light",
+    "Topaz Sharpen",
+    "Topaz DeNoise",
+    "Selective Color",
+    "Tonal Based Color Adjustment",
+    "Color Grading",
+    "Dynamic Range Expansion",
+    "Layer separation",
+    "Manual blending",
+    "Leading lines",
+    "Sky replacement",
+    "Fog layering",
+    "Four-zone processing",
+    "Beams of light",
+    "Sun/star composition",
+    "Snow machine photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:10",
+      "title": "Choosing the strongest winter composition",
+      "concepts": [
+        "image selection",
+        "leading lines",
+        "reflection",
+        "fog",
+        "horizontal vs vertical crop"
+      ],
+      "description": "The speaker compares multiple Alaska winter frames and chooses the strongest composition based on reflections, fog, and leading lines before opening the preferred shot for processing."
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:05:12",
+      "title": "Four-zone workflow and initial dynamic range expansion",
+      "concepts": [
+        "four-zone processing",
+        "mountains",
+        "sky",
+        "ice reflection",
+        "sun star",
+        "dynamic range expansion",
+        "shadow detail"
+      ],
+      "description": "The image is broken into four editing zones, then the first RAW pass expands dynamic range, restores shadow detail, and controls highlights to establish a clean base for later blending."
+    },
+    {
+      "start": "00:05:12",
+      "end": "00:10:14",
+      "title": "Manual blending as a technical winter workflow",
+      "concepts": [
+        "clone stamp",
+        "manual blending",
+        "low detail edges",
+        "dark edges",
+        "selectable edges",
+        "winter ice"
+      ],
+      "description": "Using two similar frames, the tutor demonstrates how to manually blend background and ice elements, emphasizing that winter scenes are especially suited to technical, seam-free compositing."
+    },
+    {
+      "start": "00:10:14",
+      "end": "00:18:35",
+      "title": "Widening perspective with Photoshop warps",
+      "concepts": [
+        "cropping",
+        "Adaptive Wide Angle",
+        "Camera Raw distort+scale",
+        "Perspective Warp",
+        "rule of trapezoids",
+        "Puppet Warp"
+      ],
+      "description": "The video shows three ways to simulate a wider lens: Adaptive Wide Angle, Camera Raw distort/scale, and manual perspective and puppet warps for targeted reshaping."
+    },
+    {
+      "start": "00:18:35",
+      "end": "00:23:44",
+      "title": "Adding and integrating the sun star",
+      "concepts": [
+        "sun star",
+        "layer alignment",
+        "history brush",
+        "lighter color blending mode",
+        "camera calibration"
+      ],
+      "description": "The speaker pulls in a sun-star layer, matches its color and tone, places it into the scene, and cleans up the blend so the sun source sits naturally in the composition."
+    },
+    {
+      "start": "00:23:44",
+      "end": "00:30:29",
+      "title": "Shaping light across mountains, sky, and foreground",
+      "concepts": [
+        "history brush",
+        "RAW adjustments",
+        "warm glow",
+        "sky treatment",
+        "foreground darkening",
+        "layer-specific blending"
+      ],
+      "description": "Separate RAW adjustments are made for the mountains, sky, and foreground, then painted back with the history brush to build a directional lighting structure."
+    },
+    {
+      "start": "00:30:29",
+      "end": "00:41:57",
+      "title": "Atmospheric separation with blur and clone paint",
+      "concepts": [
+        "Gaussian blur",
+        "clone paint",
+        "haze",
+        "soft brush",
+        "layer separation",
+        "ridge lines",
+        "diffuse blur"
+      ],
+      "description": "A brighter, warmer blur layer is created and painted selectively to separate mountain planes, add haze, and make distant layers recede while closer ridges remain crisp."
+    },
+    {
+      "start": "00:41:57",
+      "end": "00:43:29",
+      "title": "Orton glow and tonal color corrections",
+      "concepts": [
+        "Orton effect",
+        "selective color",
+        "color balance",
+        "warm glow",
+        "soft diffusion"
+      ],
+      "description": "The edit is softened with an Orton-style glow and then color-tuned so the overall winter scene keeps a cohesive warm-cool balance."
+    },
+    {
+      "start": "00:43:29",
+      "end": "00:51:34",
+      "title": "A simpler one-zone twilight example",
+      "concepts": [
+        "one-zone shot",
+        "clone out distraction",
+        "warmth",
+        "blue shadows",
+        "vignette",
+        "healing brush"
+      ],
+      "description": "The speaker switches to an easier twilight frame to show how a single-zone image can be corrected with a few consistent RAW moves, plus minor cleanup and tonal balancing."
+    },
+    {
+      "start": "00:51:34",
+      "end": "01:04:35",
+      "title": "Sky replacement and directional light in a layered landscape",
+      "concepts": [
+        "sky replacement",
+        "warping sky",
+        "clone stamp",
+        "vignette",
+        "directional light",
+        "leading eye"
+      ],
+      "description": "A sky is borrowed from another frame, warped to match perspective, and blended into the scene before a vignette and local brightening steer attention toward the light source."
+    },
+    {
+      "start": "01:04:35",
+      "end": "01:08:15",
+      "title": "Creating a simulated top light",
+      "concepts": [
+        "top light",
+        "dehaze",
+        "whites",
+        "simulated sun",
+        "beam enhancement"
+      ],
+      "description": "The tutor builds a synthetic light source at the top of the frame, then uses it to amplify beams and simplify the scene into a more readable light path."
+    },
+    {
+      "start": "01:08:15",
+      "end": "01:10:16",
+      "title": "Assessing the next multi-zone subject",
+      "concepts": [
+        "composition review",
+        "layers",
+        "fog",
+        "subject placement"
+      ],
+      "description": "The video briefly reviews another layered scene and identifies the compositional separation needed before moving on to the next example."
+    },
+    {
+      "start": "01:10:16",
+      "end": "01:22:42",
+      "title": "Moose scene: tonal color fixing and zone-by-zone blending",
+      "concepts": [
+        "moose",
+        "tonal-based color adjustment",
+        "selective color",
+        "camera raw",
+        "fog layers",
+        "noise reduction"
+      ],
+      "description": "A moose landscape is processed in multiple zones, with tonal color correction, selective brightening, and repeated blending to keep the subject readable while preserving depth and atmosphere."
+    },
+    {
+      "start": "01:22:42",
+      "end": "01:29:59",
+      "title": "Noise cleanup and Topaz sharpening",
+      "concepts": [
+        "Topaz DeNoise",
+        "Topaz Sharpen",
+        "detail restoration",
+        "motion blur",
+        "noise management"
+      ],
+      "description": "The speaker shows how Topaz tools can recover detail and control noise in difficult captures, especially when focus or motion blur has softened the image."
+    },
+    {
+      "start": "01:29:59",
+      "end": "01:35:23",
+      "title": "Building another layered landscape with a replacement sky",
+      "concepts": [
+        "crop",
+        "sky replacement",
+        "bit depth",
+        "clone stamp",
+        "horizon cleanup"
+      ],
+      "description": "A new shot is cropped, given a replacement sky, and tidied at the horizon so the composition can support further depth-building edits."
+    },
+    {
+      "start": "01:35:23",
+      "end": "01:50:45",
+      "title": "Final depth pass: clone paint, blur, vignette, and color balance",
+      "concepts": [
+        "clone paint",
+        "layer separation",
+        "fog layering",
+        "luminosity",
+        "blur",
+        "vignette",
+        "horizon glow",
+        "color balance"
+      ],
+      "description": "The final section intensively separates background layers with clone paint and blur, then refines luminosity, vignette, and color to pull the eye into the scene's middle depth."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Four-zone processing (mountains, sky, ice/reflection, sun star) to structure edits",
+      "timestamp": "00:03:37",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Dynamic range expansion and shadow-detail extraction",
+      "timestamp": "00:03:59",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Manual background blending using the clone stamp with three blending cues (low detail, dark, selectable)",
+      "timestamp": "00:06:22",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Zone-based workflow allowing separate processing of mountains, sky, ice, and sun-star",
+      "timestamp": "00:03:55",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Adaptive Wide Angle filter in Photoshop to simulate ultra-wide perspective with periphery distortion",
+      "timestamp": "00:11:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Camera Raw Distort + Scale for wide-angle-like distortion; horizon-centering prep",
+      "timestamp": "00:12:21",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Perspective Warp: three-piece rule (rule of trapezoids) to widen angles",
+      "timestamp": "00:15:03",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Puppet Warp for targeted local distortion while preserving other areas",
+      "timestamp": "00:16:53",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Top Light: creating a simulated light source at image top to drive composition and transitions",
+      "timestamp": "01:06:26",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Sun Star creation and subtle sky/beam integration",
+      "timestamp": "01:21:46",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Clone Paint: a multi-layer, fast-growing glow layer that is painted and erased to create atmospheric separation",
+      "timestamp": "01:34:34",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Orton-style glow and selective blurring to smooth and unify depth planes",
+      "timestamp": "01:42:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tonality-based color adjustment to fix color shifts (tonal-based color adjustment)",
+      "timestamp": "01:13:09",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Selective Color and RAW color grading to achieve consistent sky color",
+      "timestamp": "01:18:55",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Topaz Sharpen for detail restoration and noise management",
+      "timestamp": "01:28:30",
+      "confidence": 0.79
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:23:11.845419+00:00",
+  "timeline_repair_model": "gpt-5.4-mini",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-21T18:21:54.788189+00:00"
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/MW Moon Blend.mp4",
+  "title": "Milky Way and Moon Blend: RAW to Photoshop Composite with Advanced Local Adjustments",
+  "date": {
+    "display": "2020-10-22",
+    "iso": "2020-10-22T00:00:00Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time in metadata; transcript references a late-October RAW update context (Oct 20) implying production around Oct 2020."
+  },
+  "locations": [],
+  "summary": "This video walks through creating a Milky Way and Moon composite by first preparing a night sky shot with foreground using a recent RAW workflow update, then combining two separate exposures in Photoshop to place the Moon into a Milky Way scene. The presenter discusses highlight control, expanding shadows, and a natural night look, then demonstrates RAW edits (including a newly touted color grading tool) before moving to a two-shot blend: selecting, aligning, and compositing sky elements with precise edge work via clone stamping, followed by history-brush-driven edits, blur-plus-luminosity depth tricks, and color and light refinements to emphasize the galactic core while preserving grain in the sky. Throughout, the emphasis is on believable lighting, depth, and color consistency between the two images, with attention to star sharpness, horizon glow, and horizon-to-sky transitions.",
+  "topics": [
+    "ACR 13.0",
+    "Color Grading Tool",
+    "Color Mixer",
+    "HSL",
+    "Camera Calibration",
+    "Noise Reduction",
+    "Dehaze",
+    "Cloning Stamp Tool",
+    "History Brush",
+    "Blur + Luminosity",
+    "Selective Color",
+    "Dodge (Highlights)",
+    "Sky Composite",
+    "Moon Blend",
+    "Milky Way Core",
+    "Milky Way Processing",
+    "Two-Exposure Blend",
+    "Gradient Tool",
+    "Sky Edge Refinement",
+    "Moon Insertion",
+    "Foreground Detail Management",
+    "Texture vs Noise",
+    "Depth Perception"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:19",
+      "title": "Scene setup and exposure planning",
+      "concepts": [
+        "highlight control",
+        "edge light bleed",
+        "natural night light level",
+        "Milky Way foreground-background planning"
+      ],
+      "description": "Intro to composing Milky Way and Moon shots with attention to keeping highlights controlled to prevent edge glow around foreground trees; plan to expand foreground shadows and lower overall exposure to achieve a believable night scene."
+    },
+    {
+      "start": "00:04:19",
+      "end": "00:07:30",
+      "title": "RAW workflow and update context in Photoshop prep",
+      "concepts": [
+        "ACR 13.0 update",
+        "color grading tool",
+        "color mixer",
+        "previous settings/snapshots",
+        "RAW layout changes"
+      ],
+      "description": "Discussion of the evolving RAW workflow (ACR 13.0) with new color grading controls and tools, and how these settings relate to preparing the sky/Milky Way for later compositing in Photoshop."
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:15:55",
+      "title": "Two-shot exposure planning and initial compositing mindset",
+      "concepts": [
+        "two-shot exposure comparison",
+        "ISO/time differences",
+        "sky selection for blending",
+        "Moon plan for later merge"
+      ],
+      "description": "Notes on two distinct exposures (Milky Way exposure around 6400 ISO in 15 s vs an earlier, darker Milky Way with 2000 ISO) and the plan to blend the Moon from the later shot into the earlier, darker sky for a cohesive composite."
+    },
+    {
+      "start": "00:15:55",
+      "end": "00:23:52",
+      "title": "Initial sky blend and edge work with clone tool",
+      "concepts": [
+        "selection of sky vs foreground",
+        "clone stamp tool for sky blend",
+        "edge refinement",
+        "horizon handling"
+      ],
+      "description": "In Photoshop, the sky from one image is blended into the other using the Clone Stamp tool with careful edge handling (100% opacity, inverse selection) and minor manual fixes to the edges around the trees to maintain a natural night look."
+    },
+    {
+      "start": "00:23:52",
+      "end": "00:28:33",
+      "title": "Depth enhancement and color coordination refinements",
+      "concepts": [
+        "blur + luminosity for depth",
+        "selective color adjustments (blue)",
+        "highlight dodge",
+        "noise management",
+        "history brush usage"
+      ],
+      "description": "Further refinements to emphasize depth, including blurred backgrounds, horizon glow adjustments, blue tone balancing to harmonize sky colors, highlight dodging to brighten the Galactic Core, and a careful approach to noise/grain preservation in the sky."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dehaze to enhance Milky Way visibility",
+      "timestamp": "00:05:12",
+      "confidence": 0.9
+    },
+    {
+      "technique": "RAW color grading tool (Color Grading/Color Mixer) in ACR 13.0",
+      "timestamp": "00:02:07",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Two-image sky blending plan and Moon-insertion strategy",
+      "timestamp": "00:07:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clone Stamp Tool for sky/background blending",
+      "timestamp": "00:11:31",
+      "confidence": 0.9
+    },
+    {
+      "technique": "History Brush to apply future state adjustments",
+      "timestamp": "00:16:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blur + Luminosity to increase depth and glow separation",
+      "timestamp": "00:19:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective Color / blue channel adjustment to match horizon tones",
+      "timestamp": "00:18:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dodge highlights to intensify Milky Way core",
+      "timestamp": "00:19:26",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Noise reduction with grain preservation in the sky",
+      "timestamp": "00:08:36",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T16:13:11.395507+00:00"
+}

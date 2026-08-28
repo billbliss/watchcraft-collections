@@ -1,0 +1,146 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/Patagonia 1-4.mp4",
+  "title": "Edge refinement and color grading in a landscape edit (Patagonia series)",
+  "date": {
+    "display": "April 2025 (approx.)",
+    "iso": "2025-04-06",
+    "precision": "day",
+    "confidence": 0.45,
+    "basis": "embedded_creation_time in metadata suggests an export timestamp; transcript contains no explicit date."
+  },
+  "locations": [],
+  "summary": "This video presents a step-by-step post-production workflow for a landscape image, focusing on darkening the foreground, expanding dynamic range, and then progressively revealing a brighter mountain behind with targeted color grading. The narrator explains selective lighting behind the mountain, edge refinement to keep edges flawless, and precise masking to prevent edits from creeping onto adjacent elements. The workflow also covers enhancing distant elements with blue tint to convey depth, bringing out fine detail in waterfalls with ultra-small brushes, and careful sky treatment to avoid over-contrasting the peaks. The transcript captures practical decisions about brush sizes, masking, and how to balance whites, blacks, and shadows to achieve a crisp, print-ready look.",
+  "topics": [
+    "crop and framing",
+    "dehaze",
+    "color grading",
+    "white slider technique",
+    "selective color (neutrals)",
+    "blue shift for distance",
+    "shadow dodge",
+    "edge refinement",
+    "masking and edge guides",
+    "magnetic lasso as guide (edge separation)",
+    "4-pixel brush for micro-details",
+    "tone and exposure management",
+    "sky haze for clean skies",
+    "high-detail waterfall enhancement"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "title": "Initial framing, darken base, and prep",
+      "concepts": [
+        "frame composition",
+        "cropping",
+        "darkening foreground to manage dynamic range",
+        "setting up for subsequent tonal edits"
+      ],
+      "description": "The session opens with adjusting composition by moving foliage into frame and cropping, followed by making the foreground notably dark to preserve dynamic range before introducing light back into the scene."
+    },
+    {
+      "start": "00:02:31",
+      "end": "00:04:13",
+      "title": "Edge-based isolation and targeted adjustments",
+      "concepts": [
+        "selecting and isolating the mountain behind",
+        "edge perfection",
+        "preliminary use of edge guides and masking"
+      ],
+      "description": "Focus shifts to brightening the area behind the mountain and crafting a precise edge to prevent spillover. The editor discusses refining the edge and the idea of using guides (e.g., magnetic lasso) as a temporary aid to achieve clean separations."
+    },
+    {
+      "start": "00:04:14",
+      "end": "00:07:12",
+      "title": "Color grading to separate planes and deepen depth",
+      "concepts": [
+        "color grading tool for back lighting",
+        "warmth placement",
+        "enhancing top of the mountain and horizon",
+        "blue neutrality in distant elements"
+      ],
+      "description": "With the edge refined, the workflow concentrates on adding warmth behind the mountain, then pushing a color grade to emphasize depth. The speaker emphasizes placing warmth centrally and behind the peak to create separation, while also introducing a blue bias to distant terrain."
+    },
+    {
+      "start": "00:07:13",
+      "end": "00:09:37",
+      "title": "Fine-tuning depth with selective color and blue adjustments",
+      "concepts": [
+        "selective color for neutrals",
+        "adding blue to distant areas",
+        "maintaining separation between planes"
+      ],
+      "description": "The editor uses selective color to heighten neutral separations and reinforces the blue hue in distant terrain, explaining the atmospheric reasons for the blue cast on far hills as distance increases."
+    },
+    {
+      "start": "00:09:38",
+      "end": "00:11:21",
+      "title": "Detail enhancement of waterfalls and mid-tones",
+      "concepts": [
+        "tiny brush for waterfalls",
+        "shadow dodge",
+        "maintaining broad tonal balance"
+      ],
+      "description": "A remarkably small brush (as small as four pixels) is deployed to accentuate waterfalls, followed by selective shadow dodging to push the waterfall and surrounding details forward while keeping mid-tones balanced."
+    },
+    {
+      "start": "00:11:22",
+      "end": "00:13:50",
+      "title": "Light distribution behind the tree and sky considerations",
+      "concepts": [
+        "isolating and brightening back-lit areas",
+        "whites as a control for light",
+        "preserving a smooth sky behind peaks"
+      ],
+      "description": "Attention returns to areas behind trees to maintain light separation, with emphasis on whites to drive brightness and a hazy sky treatment behind peaks to avoid texture clashes with the mountains."
+    },
+    {
+      "start": "00:13:51",
+      "end": "00:14:04",
+      "title": "Final considerations and potential future adjustments",
+      "concepts": [
+        "sky smoothness",
+        "potential for additional back layers",
+        "avoidance of over-processing on branches"
+      ],
+      "description": "The speaker contemplates additional work behind the scene and reiterates the importance of a smooth sky behind high-contrast elements to preserve separation and avoid sky-to-peak texture conflicts."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Global tonal adjustments with dehaze and blue bias",
+      "timestamp": "00:00:39",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Edge refinement and precise masking (edge isolation, masking guides)",
+      "timestamp": "00:03:48",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Selective color and neutral separation to enhance depth",
+      "timestamp": "00:06:41",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Micro-detail enhancement of waterfalls with a tiny brush",
+      "timestamp": "00:08:46",
+      "confidence": 0.74
+    },
+    {
+      "technique": "Shadow dodge in mid-tones and highlights to push depth",
+      "timestamp": "00:08:04",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sky handling through haziness behind peaks to preserve smooth skies",
+      "timestamp": "00:13:12",
+      "confidence": 0.71
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:09:39.242204+00:00"
+}

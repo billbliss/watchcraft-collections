@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/PD 3-1.mp4",
+  "title": "Post-processing landscapes from Painted Desert trip: single-zone to multi-zone, panorama, and color-work",
+  "date": {
+    "display": "2025-12-10",
+    "iso": "2025-12-10",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata"
+  },
+  "locations": [
+    {
+      "name": "Painted Desert (explicit in video title)",
+      "confidence": 0.6,
+      "basis": "Video title and opening narration reference Painted Desert Trip 3"
+    },
+    {
+      "name": "Henry Mountains",
+      "confidence": 0.65,
+      "basis": "Explicit mention: “the Henry Mountains… from here” at ~00:04:05"
+    },
+    {
+      "name": "Fisher Towers",
+      "confidence": 0.75,
+      "basis": "Explicit appearance/mention: “Fisher Towers” discussion around 00:41:00"
+    }
+  ],
+  "summary": "This video documents a practical, on-location post-processing workflow for landscape and abstract shots, starting with single-zone images and moving through compositional cropping, tonal adjustments, selective color and color grading, and then advancing to multi-zone processing, dodge/burn, and sky/foreground separation. It includes a hands-on panorama workflow (using PTGui) and a variety of Photoshop/Lightroom techniques (histories, clone-paint, gradient-based edits, and wide-angle filter effects) to emphasize directional light, depth, and layered composition. The presenter emphasizes non-destructive editing, scene-by-scene decisions, and the difference between processing a one-zone shot versus a three-zone (or more) composition, with concrete examples from desert canyon locations.",
+  "topics": [
+    "single-zone processing",
+    "two-zone vs three-zone processing",
+    "rule of six composition",
+    "crop-first vs crop-last workflow",
+    "shadows Blacks Whites exposure adjustments",
+    "color temperature and tint adjustments",
+    "selective color adjustments (Selective Color)",
+    "hue/saturation/lightness (HSL) adjustments",
+    "color grading tool and multiple passes",
+    "dodge and burn (directional light)",
+    "gradient and gradient-based sky edits",
+    "clone stamp and history brush (non-destructive edits)",
+    "saving and managing layered states (PSD/TIFF)",
+    "panorama stitching (PTGui workflow)",
+    "stitching vs rectilinear distortion handling",
+    "wide-angle adaptive filter (Photoshop)",
+    "100 MP vs 25 MP workflow considerations",
+    "drone twilight habits and exposure-to-the-right principle",
+    "leading lines and rule-of-six in landscape planning",
+    "layer separation to create depth (level of blacks)",
+    "color balance in multi-zone edits",
+    "tone-mapping for panorama processing",
+    "color grading hierarchies and tonal adjustments",
+    "post-processing order and non-destructive rollback workflows",
+    "image composition in canyons (three-zone landscapes)",
+    "archival-state management for complex edits",
+    "exposure compensation and clipped highlights handling"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:04:30.000",
+      "title": "Overview: from single-zone images to post-processing plan",
+      "concepts": [
+        "single-zone shots",
+        "post-processing plan",
+        "suite of tools mentioned (Lightroom/Photoshop)"
+      ],
+      "description": "The host frames the trip as a set of single-zone images with minimal post-processing, then pivots to techniques like panorama stitching and basic tonal tweaks. He distinguishes one-zone images (which can be processed quickly) from multi-zone scenes requiring more careful blending and directional lighting."
+    },
+    {
+      "start": "00:04:55.000",
+      "end": "00:06:59.000",
+      "title": "Cropping strategy and rule-of-six composition",
+      "concepts": [
+        "crop discipline",
+        "rule of six",
+        "mountain composition",
+        "foreground/background balance"
+      ],
+      "description": "Demonstrates cropping to remove empty space, positioning mountains as a third of the frame, and ensuring six zones contain something of interest. Emphasizes starting/ending crops early, and using focal length to achieve the desired thirds composition."
+    },
+    {
+      "start": "00:07:50.000",
+      "end": "00:13:13.000",
+      "title": "Directional light and initial tonal refinements",
+      "concepts": [
+        "directional light",
+        "burn tool usage",
+        "whites/shadows/blacks/exposure adjustments",
+        "color temperature/tint tweaks"
+      ],
+      "description": "Shows how to bias light toward the side where illumination comes from, using the burn tool to emphasize peaks, then applying a whites-dominant contrast step that preserves sky quality while enhancing foreground."
+    },
+    {
+      "start": "00:13:13.000",
+      "end": "00:19:28.000",
+      "title": "Selective color, sky treatment, and color grading passes",
+      "concepts": [
+        "selective color adjustments",
+        "color grading",
+        "sky vs. foreground separation",
+        "history brush usage"
+      ],
+      "description": "Introduces selective color to fix specific ridges, then strong, staged color grading for both sky and land, including using the history brush to apply precise adjustments to selected regions. Highlights the need to adjust color temperature/tint before applying color grading for a natural look."
+    },
+    {
+      "start": "00:21:48.000",
+      "end": "01:13:20.000",
+      "title": "Twilight and multiple-zone processing concepts (Fisher Towers and more)",
+      "concepts": [
+        "twilight processing",
+        "multi-zone nudges",
+        "layer separation",
+        "color balance",
+        "zonal dodging/burning",
+        "gradient-based sky edits"
+      ],
+      "description": "Discusses twilight shots, the challenges of underexposure, and introduces multi-zone processing to manage foreground, towers, and sky separately. Illustrates how to dodge/burn and selectively color the different zones to achieve depth and directional lighting, with emphasis on maintaining consistency across zones."
+    },
+    {
+      "start": "01:14:36.000",
+      "end": "01:19:07.000",
+      "title": "Panorama creation workflow and multi-shot stitching",
+      "concepts": [
+        "panorama workflow",
+        "PTGui usage",
+        "rectilinear vs warp handling",
+        "alignment of multiple frames"
+      ],
+      "description": "Walks through selecting multiple frames, loading into PTGui, stitching into a panorama, and recommending rectilinear distortion for landscape panoramas. Emphasizes saving intermediate layers and maintaining non-destructive workflow while assembling a multi-shot panorama."
+    },
+    {
+      "start": "01:19:07.000",
+      "end": "01:24:28.000",
+      "title": "Post-stitch processing and ongoing refinement",
+      "concepts": [
+        "tone-mapping",
+        "color balance",
+        "foreground sky separation",
+        "crop/trim decisions"
+      ],
+      "description": "Covers post-stitch refinements: tone-mapping, selective color, and color grading to harmonize the panorama, plus considerations for cropping the final composition to foregrounds with layered depth."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Single-zone landscape processing vs multi-zone workflow (conceptual differentiation)",
+      "timestamp": "00:01:08.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Panorama stitching workflow (PTGui/lightroom integration)",
+      "timestamp": "01:14:36.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "High-contrast tonal adjustment (shadows/blacks at low exposure, whites up)",
+      "timestamp": "00:02:30.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Directional lighting emphasis with burn-tool adjustments",
+      "timestamp": "00:08:01.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective color adjustment (Selective Color in color workflows)",
+      "timestamp": "00:10:55.000",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Color grading and iterative passes",
+      "timestamp": "00:13:11.000",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Wide-angle adaptive filter for distortion and eye-drawing emphasis",
+      "timestamp": "00:18:11.000",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Dodge and burn day: multiple passes and gradient use",
+      "timestamp": "00:38:37.000",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Clone stamp/history brush for non-destructive fixes and layer-state management",
+      "timestamp": "01:09:20.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Non-destructive workflow: saving multiple layer states (PSD/TIFF) for rollback",
+      "timestamp": "01:07:59.000",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T01:22:48.410547+00:00"
+}

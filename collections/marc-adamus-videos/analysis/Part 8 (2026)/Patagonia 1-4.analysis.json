@@ -1,0 +1,179 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Patagonia 1-4.mp4",
+  "title": "Patagonia island tree: multi-shot exposure blending, edge refinement, and selective color editing (documented workflow)",
+  "date": {
+    "display": "April 10, 2026",
+    "iso": "2026-04-10",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata in source file"
+  },
+  "locations": [
+    {
+      "name": "Patagonia region (probable)",
+      "confidence": 0.4,
+      "basis": "Filename path includes 'Patagonia'; transcript references 'Fitzroy' (a notable Patagonia location) and 'Iceland' as folder labels; no explicit confirmation of shooting location"
+    }
+  ],
+  "summary": "This video documents a landscape editing workflow centered on a sunlit island tree, with the presenter comparing a better-lit frame to an earlier take and then executing a two-exposure composite: a dark sky and bright foreground. The process includes selecting the exposures, blending them, painting the original tree back into the composite, and refining the edge with brushes. The workflow also covers isolating the tree with selective color adjustments, applying dehaze and warmth for mood, and using targeted color grading to separate foreground and background. Throughout, the speaker emphasizes careful edge work, opacity control, and minimal processing to preserve a natural look, while discussing composition and crop rules (rule of thirds) and noting equipment and file organization cues.",
+  "topics": [
+    "Light quality assessment",
+    "Natural sunlight and cloud movement",
+    "Beam of light on water",
+    "File organization and folder references",
+    "Exposure bracketing (AEB)",
+    "Two-shot / three-shot AEB",
+    "Exposure blending strategy (sky vs foreground)",
+    "Subject framing and rule of thirds",
+    "Cropping and composition decisions",
+    "Shadow and highlight management",
+    "Sky-to-foreground blending workflow",
+    "Layer masking and brush-based edge refinement",
+    "Hard vs soft brush edge control",
+    "Opacity and edge feathering",
+    "Dodge/Burn concept references",
+    "Selective Color adjustment (blacks channel)",
+    "Isolating foreground elements from background",
+    "Dehaze adjustment",
+    "Color grading: blue/gold palette",
+    "Radiant warmth and selective lighting",
+    "Selective color-based color separation",
+    "Background blur and mist-like separation",
+    "Edge reapplication of original elements",
+    "Luminosity/contrast adjustments for separation",
+    "Telephoto and port-side shooting notes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:51",
+      "title": "Light evaluation and shot comparison",
+      "concepts": [
+        "Assessing light quality",
+        "Comparison with prior footage",
+        "Natural sunlight and cloud-driven exposure"
+      ],
+      "description": "The presenter notes that the current frame has superior light compared with the previous video, highlighting the sunlight illuminating the area behind the tree and a beam on the water, which signals more dynamic potential for post-processing."
+    },
+    {
+      "start": "00:00:51",
+      "end": "00:01:54",
+      "title": "File context and on-site notes",
+      "concepts": [
+        "Folder labels and file references",
+        "Subject cataloging (Fitzroy, Iceland)",
+        "Battery status and field notes"
+      ],
+      "description": "Reference to file organization, including a 'Fitzroy' shot and folder mention 'Iceland'. The dialogue briefly documents battery status, providing a sense of on-site workflow and gear management."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:03:28",
+      "title": "Composition decisions and cropping discussion",
+      "concepts": [
+        "Rule of thirds",
+        "Framing around bushes",
+        "Gathering desired composition early"
+      ],
+      "description": "Discussion of cropping strategy and composition in the moment, acknowledging the importance of aligning key elements (e.g., bushes and the tree on the island) within a pleasing frame."
+    },
+    {
+      "start": "00:04:07",
+      "end": "00:05:58",
+      "title": "Two-exposure planning for sky and foreground",
+      "concepts": [
+        "Exposure planning",
+        "Sky exposure vs foreground exposure",
+        "AEB terminology and bracket considerations"
+      ],
+      "description": "The speaker identifies the sky as overexposed in some frames and discusses using separate exposures (sky vs. foreground) to control different areas, including references to AEB/bracketing approaches."
+    },
+    {
+      "start": "00:05:58",
+      "end": "00:07:41",
+      "title": "Initial blending approach and radiant light",
+      "concepts": [
+        "Blending exposures",
+        "Paint-in of sky and mountain tops",
+        "Radiant light emanating from the sun location"
+      ],
+      "description": "Demonstrates painting in the sky and top of the mountain from the sky-exposure layer to achieve a radiant light effect on the island, creating the sense of sunlit atmosphere in the composite."
+    },
+    {
+      "start": "00:07:41",
+      "end": "00:11:07",
+      "title": "Edge refinement and tree reintroduction",
+      "concepts": [
+        "Masking edges",
+        "Opacity control",
+        "Reapplying the original tree",
+        "Edge feathering"
+      ],
+      "description": "Explains careful reintroduction of the original tree on the island by painting with high-precision brushes, refining the edge, using fades to blend, and ensuring seamless transitions at 80–90% opacity before final refinements."
+    },
+    {
+      "start": "00:11:07",
+      "end": "00:14:36",
+      "title": "Selective color and local color isolation",
+      "concepts": [
+        "Selective Color adjustments",
+        "Isolating blacks to darken tree tops",
+        "Maintaining background integrity",
+        "Targeted color corrections for contrast"
+      ],
+      "description": "Describes using selective color to isolate the tree top from the background, then applying targeted darkening to the tree while preserving the surrounding water and sky; discusses maintaining harmony with color balance."
+    },
+    {
+      "start": "00:14:36",
+      "end": "00:16:14",
+      "title": "Telephoto notes and final processing remarks",
+      "concepts": [
+        "Telephoto selections",
+        "Missed opportunities and further processing",
+        "Additional notes on processing restraint"
+      ],
+      "description": "Notes about telephoto shots from earlier in the sequence, with a reminder to avoid over-processing and to favor natural-looking adjustments; closes with reflections on various shots and processing limits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Exposure blending of sky and foreground using two-shot AEB",
+      "timestamp": "00:04:07",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Edge refinement and masking to reintroduce original tree",
+      "timestamp": "00:07:41",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Selective Color adjustment to isolate and enhance tree top",
+      "timestamp": "00:09:06",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Dehaze and cool/warm color grading to separate background and mood",
+      "timestamp": "00:12:24",
+      "confidence": 0.74
+    },
+    {
+      "technique": "Radiant light painting from the sky into the foreground",
+      "timestamp": "00:05:58",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Opacity and edge feathering to blend edges without visible seams",
+      "timestamp": "00:08:17",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective darkening of tree blacks to preserve contrast",
+      "timestamp": "00:09:41",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:44:30.814865+00:00"
+}

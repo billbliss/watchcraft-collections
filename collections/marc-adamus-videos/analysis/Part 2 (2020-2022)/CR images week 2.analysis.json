@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "video": "Part 2 (2020-2022)/CR images week 2.mp4",
+  "title": "Multi-zone, light-driven landscape post-processing in Photoshop (Part 2 CR images week 2)",
+  "date": {
+    "display": "2022-01-12",
+    "iso": "2022-01-12",
+    "precision": "day",
+    "confidence": 0.55,
+    "basis": "embedded_creation_time in source metadata"
+  },
+  "locations": [],
+  "summary": "The video demonstrates a practical, artistically driven post-processing workflow for winter landscape images using a pared-down toolset in Photoshop and Camera Raw. Central ideas include (1) choosing and prioritizing images quickly, (2) treating a scene as multiple zones (sky, mid-ground, foreground) to preserve detail across extreme tonal ranges, (3) building up an image through iterative RAW adjustments and selective color work, and (4) using a small set of tools in a fluid, painterly workflow rather than a traditional layered or plugin-heavy approach. The presenter emphasizes entering an artistic state rather than becoming overwhelmed by technical options, and shows how to combine RAW edits, selective painting, fog/diffusion, and perspective warps to craft a cohesive, three- to four-zone composition with a strong focal point and atmospheric depth. Throughout, he contrasts a minimal-tool philosophy with ambitious image-building steps, including sky restoration, hard-edged light on mountains, and fog/drift to create mood and depth.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "RAW adjustments",
+    "Dynamic Range panel",
+    "Exposure",
+    "Highlights",
+    "Shadows",
+    "Whites",
+    "Blacks",
+    "Color Grading",
+    "HSL",
+    "Camera Calibration",
+    "Selective Color",
+    "Fog",
+    "Diffusion",
+    "Blur",
+    "Luminosity",
+    "Dodge",
+    "Clone Stamp Tool",
+    "History Brush",
+    "Smart Objects",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Warp",
+    "Rule of trapezoids",
+    "Leading lines",
+    "Chromatic Aberration",
+    "Defringe",
+    "Noise Reduction",
+    "Focus stacking critique",
+    "Saving formats (TIFF/PSD)",
+    "Layer-less workflow",
+    "Fog painting",
+    "Three-zone processing",
+    "Multi-zone photography",
+    "Abstract landscape"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:32",
+      "title": "Image selection and zone concept",
+      "concepts": [
+        "image selection is time-consuming",
+        "first images are often chosen quickly during recording",
+        "zone-based processing introduction: one-zone vs three-zone"
+      ],
+      "description": "The presenter notes the need to quickly pick usable images and introduces the idea that some shots are best processed as distinct zones (sky, mid-ground, foreground) to manage tonal contrast."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:12:54",
+      "title": "Philosophy and core toolset (minimal Photoshop workflow)",
+      "concepts": [
+        "focus on artistic flow over technical mastery",
+        "few core tools in Photoshop/RAW",
+        "avoid excessive layering and plugin use",
+        "focus on a few reliable techniques"
+      ],
+      "description": "He argues for a painterly approach and a limited toolset, describing how he learned to work without relying on layers, and emphasizes staying in an artistic state rather than chasing every new technique."
+    },
+    {
+      "start": "00:12:54",
+      "end": "00:21:25",
+      "title": "Three-zone editing concept and initial sky treatment",
+      "concepts": [
+        "three-zone shot analysis (sky, trees, foreground)",
+        "dark sky to drive eye toward light",
+        "initial RAW adjustments to restore natural dynamic range"
+      ],
+      "description": "The workflow is framed around a three-zone composition. The sky is darkened to push light upward, and dynamic range is adjusted to resemble the eye’s view while preserving detail in trees and foreground."
+    },
+    {
+      "start": "00:21:25",
+      "end": "00:31:25",
+      "title": "History-driven edits and selective painting workflow",
+      "concepts": [
+        "History Brush tool for selective edits",
+        "non-layer painting across the image",
+        "limits of focus stacking dislike",
+        "forward-looking use of RAW vs Photoshop for adjustments"
+      ],
+      "description": "The video demonstrates using the History Brush to selectively apply earlier edits, effectively painting adjustments onto the image without creating many layers. The presenter notes a dislike for focus stacking and emphasizes a fluid, history-driven approach to painting light and color."
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:06",
+      "title": "Perspective Warp and composition refinements",
+      "concepts": [
+        "Perspective Warp as a starting point for composition",
+        "Rule of trapezoids to widen perspective",
+        "leading lines and cloud convergence toward the focal point"
+      ],
+      "description": "A shift in emphasis toward composition tools—perspective warp, trapezoid-based warping, and leading lines—to improve cloud convergence on the mountain and to align the shot with a stronger compositional framework."
+    },
+    {
+      "start": "00:46:06",
+      "end": "01:13:06",
+      "title": "Color control, light on the mountain, and atmospheric fog in multi-zone processing",
+      "concepts": [
+        "color grading and camera calibration for cohesive sky tones",
+        "selective color adjustments",
+        "fog/diffusion painting to add atmosphere",
+        "clone-painting across images to composite light",
+        "final touch workflow (raw vs. Photoshop) with multiple passes"
+      ],
+      "description": "This section covers crafting light on the mountain through painting with light and iterative color work, employing color grading, selective color, and camera calibration to achieve consistent skies. Fog and diffusion are painted in for depth, with cross-image painting (clone-paint) and multiple RAW/PS passes to unify tone and atmosphere. The section culminates with a multi-pass approach to a four-zone-like result, balancing sky, mid-ground, and foreground light and texture."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range expansion and tonal balancing in RAW (exposure, highlights, shadows, whites, blacks)",
+      "timestamp": "00:08:34",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Color grading with highlights targeting and camera calibration to shape sky tones",
+      "timestamp": "00:18:40",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Selective color adjustments and color balance to refine mountain hues",
+      "timestamp": "00:58:14",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Blur plus luminosity technique to create haze and depth in middle ground",
+      "timestamp": "00:28:20",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Perspective Warp and trapezoid rule to adjust horizon and cloud convergence",
+      "timestamp": "00:44:20",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Clone Paint and See-through cloning to combine elements from two images",
+      "timestamp": "00:36:16",
+      "confidence": 0.89
+    },
+    {
+      "technique": "History Brush workflow for non-destructive painting of adjustments",
+      "timestamp": "00:21:25",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Fog painting with luminosity and selective application to add atmospheric depth",
+      "timestamp": "01:07:16",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Selective color, color grading passes to reconstruct color in a tonal-based way",
+      "timestamp": "01:03:48",
+      "confidence": 0.8
+    },
+    {
+      "technique": "diffuse and sharpen balance with localized luminosity adjustments",
+      "timestamp": "01:04:18",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Defringe and noise management for chromatic aberration",
+      "timestamp": "00:33:57",
+      "confidence": 0.66
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T18:42:15.089464+00:00"
+}

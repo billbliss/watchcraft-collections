@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Aurora quick adjustments-fix.mp4",
+  "title": "Aurora Foreground Toning, Sky Expansion, and Focus-Stacked Mastery: A Pragmatic Photoshop Walkthrough",
+  "date": {
+    "display": "March 11, 2026 (approx.)",
+    "iso": "2026-03-11",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded media metadata: embedded_creation_time 2026-03-11T21:46:16Z; relative_video_path indicates production context. Transcript corroborates the 2026 focus of the session."
+  },
+  "locations": [
+    {
+      "name": "Mount Marcus Baker",
+      "confidence": 0.85,
+      "basis": "Explicit identification in transcript: 'That's Mount Marcus Baker' [00:29:29]."
+    }
+  ],
+  "summary": "The video presents a practical, step-by-step color and light correction workflow aimed at turning a moonlit, aurora-lit foreground into a natural, cohesive scene. The instructor shows tonal-based color adjustments to remove color casts, multi-pass color grading focused on highlights, and targeted luminosity boosts for the foreground. They discuss selective masking to emphasize mountain features, beam light enhancements, and careful edge handling to avoid bleeding. A significant portion covers RAW dynamic range expansion for the sky, cloud texture work, and artifact removal, followed by a focused discussion on focus stacking—comparing manual versus autofocus and diagnosing misfocus in helicopter shots. Throughout, the emphasis is on preserving the aurora’s glow while keeping the foreground believable under moonlight, with practical tips on opacity control, remixing middle ground, and cropping decisions for a natural nightscape result.",
+  "topics": [
+    "tonal-based color adjustment",
+    "foreground color cast correction",
+    "saturation reduction to minimize color inaccuracies",
+    "cool blue shift for neutral gray",
+    "luminosity adjustments for foreground",
+    "multi-pass color grading",
+    "highlights-only color grading",
+    "beam color grading and warm/cool balance",
+    "opacity control for localized adjustments",
+    "edge-safe selection and feathering",
+    "remix of middle ground for continuity",
+    "mountain-specific adjustments with masking",
+    "shadow and texture adjustments on the mountain",
+    "sky dynamic range expansion in RAW (shadows/blacks/whites)",
+    "cloud texture refinement and halo cleanup",
+    "clone smear for removing artifacts",
+    "dehaze and subtle sky contrast adjustments",
+    "vignette considerations in night shots",
+    "focus stacking workflow (manual vs autofocus)",
+    "alignment and blending of foreground/background in focus stacks",
+    "fieldcraft considerations for connector pieces between foreground and background",
+    "foreground cropping and composition decisions",
+    "artifact management in aurora photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:13",
+      "title": "Foreground tonal correction and neutral gray balancing",
+      "concepts": [
+        "tonal-based color adjustment",
+        "saturation reduction to remove color cast",
+        "shift toward cool blue",
+        "aim for neutral gray",
+        "prepare foreground luminosity"
+      ],
+      "description": "Begin with a tonal-based color adjustment on the foreground to address small color inconsistencies (purple, green, cyan, red). Saturation is reduced (roughly -60 to -80), a cool blue bias is introduced to approach a neutral gray, and luminosity is increased to brighten the foreground."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:03:32",
+      "title": "Iterative color grading and highlight emphasis",
+      "concepts": [
+        "multi-pass color grading",
+        "restrict adjustments to highlights",
+        "balance color cast between cool and warm tones",
+        "adjust sky tone to not be overly blue",
+        "consider subtle green cast for moonlit scene"
+      ],
+      "description": "Perform multiple color grading passes, starting with conservative highlight-focused changes and then refining balance between cool and warm tones. The sky is kept from becoming overly blue, and a gentle green cast can be added selectively to match aurora/moonlight interaction."
+    },
+    {
+      "start": "00:03:32",
+      "end": "00:06:15",
+      "title": "Targeted foreground refinements and light-beam emphasis",
+      "concepts": [
+        "local color cast corrections",
+        "selective tonal shifts around beams",
+        "opacity-based application and edge awareness",
+        "finalize foreground glow without contaminating sky"
+      ],
+      "description": "Focus on tightening color accuracy in the foreground, make selective adjustments to light beams (warmth and brightness) and apply these with low opacity in precise regions to preserve the sky and avoid edge bleed."
+    },
+    {
+      "start": "00:06:15",
+      "end": "00:11:20",
+      "title": "Remix workflow and middle-ground cohesion",
+      "concepts": [
+        "remix of middle ground",
+        "rebalancing brightness across layers",
+        "coupling foreground and middle ground with a smooth transition",
+        "crop decisions in the field imagery"
+      ],
+      "description": "After initial adjustments, remix operations optimize the middle ground to maintain a cohesive narrative flow from foreground to aurora. They discuss cropping and ensuring the middle ground remains connected to both foreground and background elements."
+    },
+    {
+      "start": "00:11:20",
+      "end": "00:12:56",
+      "title": "Focus stacking introduction and manual alignment",
+      "concepts": [
+        "focus stacking overview",
+        "manual focus stack vs auto-align/blend",
+        "alignment points and deliberate drawing",
+        "single-shot vs stacked results"
+      ],
+      "description": "Introduction to manual focus stacking: selecting a clear alignment point between foreground and background, drawing in the stack by hand rather than using automated scripts, and validating focus across frames to preserve depth."
+    },
+    {
+      "start": "00:12:56",
+      "end": "00:14:55",
+      "title": "Sky expansion, dynamic range, and cloud texture work",
+      "concepts": [
+        "RAW dynamic range expansion (shadows/blacks/whites)",
+        "selective color and blues adjustment",
+        "halo and cloud texture restoration",
+        "saturation control for specific sky regions",
+        "clone smear for artifact removal"
+      ],
+      "description": "Skies are expanded using shadow and black increases with whites lifted to reveal aurora color and sunrise hints. Cloud texture is built with selective color, subtle dehazing, and targeted cloning to remove spots and improve halo integrity."
+    },
+    {
+      "start": "00:14:55",
+      "end": "00:21:04",
+      "title": "Foreground glow refinement and halo emphasis",
+      "concepts": [
+        "intensifying the ice halo and aurora highlights",
+        "color grading with controlled luminance on selected regions",
+        "low-opacity local adjustments to avoid halo bleeding",
+        "edge handling for a natural night scene"
+      ],
+      "description": "The foreground glow is intensified with careful color grading and luminance boosts, focusing on the edge where the ice halo interacts with the aurora while maintaining overall scene balance."
+    },
+    {
+      "start": "00:21:04",
+      "end": "00:29:11",
+      "title": "Fine-tuning, dehaze, and field craft considerations",
+      "concepts": [
+        "dehaze for halo pop",
+        "mid-tone dodge/shadow dodge",
+        "foreground edge management and vignette options",
+        "field-craft decisions for aurora-first storytelling"
+      ],
+      "description": "Additional refinements include subtle dehaze to pop the halo, dodging/shadow tools to sculpt light on peaks, and vignette options to keep attention on the aurora while respecting night-shot aesthetics."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Tonal-based color adjustment on foreground with saturation reduction and cool-blue bias",
+      "timestamp": "00:00:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Multi-pass color grading with highlight-limited application",
+      "timestamp": "00:01:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Opacity-controlled localized adjustments for light-beam enhancement",
+      "timestamp": "00:02:11",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Masking and edge-safe selection to isolate the mountain",
+      "timestamp": "00:04:32",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Remix workflow to re-balance middle ground after initial pass",
+      "timestamp": "00:06:15",
+      "confidence": 0.7
+    },
+    {
+      "technique": "RAW dynamic range expansion (shadows/blacks/whites) to expand sky",
+      "timestamp": "00:12:05",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Clone smear for removing small cloud/artifact spots",
+      "timestamp": "00:14:31",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Focus stacking: manual assembly and alignment to combine foreground/background",
+      "timestamp": "00:11:20",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Autofocus troubleshooting and understanding focus consistency in stacked shots",
+      "timestamp": "00:27:28",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Edge cropping and cropping decisions for connector between foreground and background",
+      "timestamp": "00:33:32",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:05:11.910285+00:00"
+}

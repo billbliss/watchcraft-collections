@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/Drone Pano, San Juan.mp4",
+  "title": "DJI Nine-Image Panorama Stitching, Sky Blending, and Depth Enhancement (San Juan Drone Pano)",
+  "date": {
+    "display": "November 1, 2022",
+    "iso": "2022-11-01",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in metadata; transcript does not independently confirm shoot date; video folder suggests 2022-2023 window."
+  },
+  "locations": [],
+  "summary": "This video walks through assembling a drone panorama shot from nine images stitched by DJI, then compares that result with stitching in Photoshop. The presenter demonstrates how to correct distortion with perspective warp, crop the edges, and, when the drone-only pano is compromised, blend a single sky shot into the panorama. The workflow covers resizing the sky, color and exposure matching using Camera Raw and selective color, and refining with history and clone tools. Further refinements include a glow-driven depth boost with blur plus luminosity, dehaze, and color grading to create a cool-to-warm transition that guides the viewer toward the sun. The presenter also explains the “rule of trapezoids” for warping skies, cautions about not warping the landscape, and discusses export options (TIFF, 16-bit) and potential cloud-coverage expansions for clouds. Overall, it’s a practical, post-production-heavy workflow for turning a DJI pano into a more dynamic, depth-rich image with a strong center focal point.",
+  "topics": [
+    "DJI",
+    "panorama",
+    "drone",
+    "nine-image",
+    "Pano stitching",
+    "DJI Stitch",
+    "Photoshop",
+    "perspective warp",
+    "three-box warp",
+    "crop",
+    "sky replacement",
+    "color grading",
+    "dehaze",
+    "Orton effect",
+    "blur plus luminosity",
+    "history brush",
+    "clone stamp",
+    "RAW",
+    "TIFF",
+    "16-bit",
+    "DNG",
+    "sky blending",
+    "leading lines",
+    "rule of trapezoids",
+    "cloud expansion",
+    "foreground exposure",
+    "color balance",
+    "Selective Color",
+    "camera raw"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:05:00",
+      "title": "Nine-image pano creation and stitching overview",
+      "concepts": [
+        "pano",
+        "DJI Stitch",
+        "Photoshop Stitch",
+        "distortion",
+        "stitching",
+        "panorama"
+      ],
+      "description": "The presenter shows the single pano file produced by stitching nine images with DJI, notes the 200 MP result, and points out that the files live in a DJI-subfolder labeled panorama. He compares the DJI-produced stitch to a potential Photoshop stitch and mentions distortion behavior (center-flow) and file width (7200 px)."
+    },
+    {
+      "start": "00:03:45",
+      "end": "00:07:04",
+      "title": "Single-shot sky integration and foreground matching",
+      "concepts": [
+        "sky replacement",
+        "image resizing",
+        "color correction",
+        "foreground exposure",
+        "blend"
+      ],
+      "description": "With the drone's failure to produce a full dark pano, the speaker processes a single sky shot, scales it to 7,500 px to align with the pano, and begins color/foreground adjustments to make the sky blend look natural with the existing landscape."
+    },
+    {
+      "start": "00:07:04",
+      "end": "00:11:24",
+      "title": "Masking and refinements to sky blend",
+      "concepts": [
+        "history brush",
+        "clone stamp",
+        "masking",
+        "TIFF",
+        "16-bit"
+      ],
+      "description": "Uses the History Brush to constrain edits to the sky, then switches to the Clone Stamp for fine-tuning. The sky is saved as an uncompressed TIFF (with 16-bit depth) to facilitate later composite work and color refinement."
+    },
+    {
+      "start": "00:11:24",
+      "end": "00:19:11",
+      "title": "Depth and glow with blur plus luminosity and color grading",
+      "concepts": [
+        "dehaze",
+        "blur plus luminosity",
+        "Orton effect",
+        "color grading",
+        "lead-in to sun"
+      ],
+      "description": "Demonstrates dehaze as a quick distance cue and applies blur plus luminosity to simulate glow from the sun. Color grading follows to establish a warm highlight and cooler shadows, boosting depth and guiding the viewer’s eye toward the sun and canyon center."
+    },
+    {
+      "start": "00:22:08",
+      "end": "00:24:38",
+      "title": "Rule of trapezoids for sky leading lines",
+      "concepts": [
+        "rule of trapezoids",
+        "sky warp",
+        "leading lines",
+        "RAW color correction"
+      ],
+      "description": "Introduces trapezoid warping as a tool to angle the sky and create leading lines, with a caution that excessive warp on the sky is acceptable, but landscape distortion is not print-friendly. Reassesses sky color after warp."
+    },
+    {
+      "start": "00:29:34",
+      "end": "00:33:39",
+      "title": "Final tweaks and export workflow",
+      "concepts": [
+        "cloud expansion",
+        "clone tool",
+        "RAW adjustments",
+        "TIFF export",
+        "crop"
+      ],
+      "description": "Explores potential cloud expansion by enlarging the sky (e.g., to 12,000 px) and repositioning clouds with the clone stamp, followed by re-processing the sky for contrast and color balance. Concludes with saving the final image as TIFF and considering tighter crops as an alternate end product."
+    },
+    {
+      "start": "00:33:50",
+      "end": "00:35:57",
+      "title": "Closing notes and broader takeaways",
+      "concepts": [
+        "drone reliability",
+        "shoot strategy",
+        "post-processing workflow"
+      ],
+      "description": "Wraps with reflections on the drone’s reliability during the morning shoot and reiterates practical tips for pano work and post-processing to maximize edge-to-edge detail and depth in a finished panorama."
+    },
+    {
+      "start": "01:05:00",
+      "end": "02:36:34",
+      "title": "Perspective warp and edge corrections",
+      "concepts": [
+        "perspective warp",
+        "three-box method",
+        "distortion correction",
+        "cropping"
+      ],
+      "description": "Describes using Photoshop Perspective Warp split into three boxes (vertical or horizontal) to correct distortion and adjust the bottom edge with cropping. The goal is to fill the bottom space more effectively while maintaining overall compositional balance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Nine-image panorama stitched by DJI and 200 MP output; comparison with Photoshop stitching",
+      "timestamp": "00:00:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Perspective Warp with three boxes to correct distortion",
+      "timestamp": "00:01:05",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Sizing a single shot to match pano width (7500 px) and color-correcting sky",
+      "timestamp": "00:03:45",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History Brush and Clone Stamp for precise sky masking and refinement",
+      "timestamp": "00:07:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blur plus luminosity and dehaze to create depth and sun glow",
+      "timestamp": "00:12:21",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Orton-like glow via selective painting and luminosity adjustments",
+      "timestamp": "00:13:09",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Rule of trapezoids for sky leading lines and warp limits on landscape",
+      "timestamp": "00:22:08",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Color grading to achieve cool-to-warm transition; targeted local adjustments",
+      "timestamp": "00:19:34",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Export workflow: uncompressed TIFF, 16-bit depth; RAW-to-TIFF bridging",
+      "timestamp": "00:07:48",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Sky expansion concept and cloud cloning (non-final) for composition",
+      "timestamp": "00:29:46",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:27:57.455824+00:00"
+}

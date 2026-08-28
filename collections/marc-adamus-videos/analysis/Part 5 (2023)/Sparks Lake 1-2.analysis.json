@@ -1,0 +1,159 @@
+{
+  "schema_version": 2,
+  "video": "Part 5 (2023)/Sparks Lake 1-2.mp4",
+  "title": "Focus stacking workflow and zone-based post-processing of a twilight flower scene",
+  "date": {
+    "display": "June 8, 2023",
+    "iso": "2023-06-08",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time"
+  },
+  "locations": [],
+  "summary": "This educational video presents a practical focus-stacking workflow followed by multi-zone post-processing to extract depth and mood from a twilight landscape featuring foreground flowers and a distant mountain. The speaker explains how to identify the start and end of a focus stack, the importance of consistent focus steps, and prerequisites for reliable alignment ( tripod use or a camera that supports focus stacking, plus stable conditions). The workflow then shifts to loading the focused frames into a stack, aligning, and blending them in Photoshop (with a nod to Helicon as an alternative). After stacking, the video demonstrates flattening and cropping, followed by zone-based editing: enhancing the mountain and sky, enriching the mid-ground with a mist via mid-tone dodging, and carefully guiding attention toward the center of the composition. The session also covers advanced refinements such as puppet warp for cloud shaping, selective color and RAW adjustments (clarity, texture, auto-HDR), and selective color nudges to pop magenta flowers. Finishing touches include a cautious vignette and brightness adjustments to avoid blowing out highlights, all while maintaining awareness of environmental factors that affect final results.",
+  "topics": [
+    "Focus stacking",
+    "Stacking in Photoshop",
+    "Auto alignment",
+    "Auto blend layers",
+    "Layer stack",
+    "Load files",
+    "Helicon",
+    "Aperture choice",
+    "Depth of field",
+    "Overlap of focus planes",
+    "Puppet Warp",
+    "History Brush",
+    "Selective Color",
+    "Magenta flowers",
+    "RAW processing",
+    "Clarity",
+    "Texture",
+    "Auto HDR",
+    "Sponge tool",
+    "Mid-tone dodge",
+    "Vignette",
+    "Center brightness",
+    "Color temperature",
+    "Tint",
+    "Reflection warp",
+    "Local color adjustments",
+    "Color management"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:04",
+      "title": "Focus stack planning and start/end identification",
+      "concepts": [
+        "focus stack start/end determination",
+        "frame selection after capture",
+        "alignment considerations"
+      ],
+      "description": "Introduces the challenge of identifying when a focus stack begins and ends, highlighting how post-process review can complicate file selection. Notes that alignment reliability depends on stabilizing factors like tripod use and minimal wind."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:03:43",
+      "title": "Loading, aligning, and blending focus-stack frames",
+      "concepts": [
+        "load into stack",
+        "auto alignment",
+        "auto blend layers",
+        "alternative tools"
+      ],
+      "description": "Demonstrates loading multiple frames into a stack, selecting each as a layer, and performing auto-alignment followed by auto-blend layers. Mentions that reliable alignment requires the right shooting setup and conditions; references Helicon as an alternative workflow."
+    },
+    {
+      "start": "00:04:43",
+      "end": "00:07:58",
+      "title": "Aperture choices, depth overlap, and lens considerations",
+      "concepts": [
+        "aperture impact on depth of field",
+        "overlap between focus planes",
+        "lens familiarity"
+      ],
+      "description": "Discusses how aperture and focal length influence the number of shots needed for focus stacking and the required overlap between focus planes. Emphasizes experience with lenses and how close subjects can dramatically change optimal f-stop values."
+    },
+    {
+      "start": "00:08:21",
+      "end": "00:15:28",
+      "title": "Initial post-processing and zone-based workflow",
+      "concepts": [
+        "flatten/crop",
+        "mid-tone dodge for mist",
+        "zone-based processing"
+      ],
+      "description": "After stacking, the image is flattened and cropped for composition. The presenter uses mid-tone dodging to introduce depth in the midground and outlines a plan to process distinct zones (mountain, sky, midground, foreground) separately to control local contrast and color."
+    },
+    {
+      "start": "00:15:28",
+      "end": "00:18:11",
+      "title": "Cloud and cloud-reflection adjustments (Puppet Warp & History Brush)",
+      "concepts": [
+        "puppet warp",
+        "cloud shaping",
+        "history brush"
+      ],
+      "description": "Introduces puppet warp to bend cloud shapes selectively, then applies the history brush to retain only the edited area. Highlights the care needed to avoid over-warping and to blend edits with the surrounding area."
+    },
+    {
+      "start": "00:18:11",
+      "end": "00:24:58",
+      "title": "Color, brightness, and final finishing touches",
+      "concepts": [
+        "vignette",
+        "center brightness",
+        "sponge tool",
+        "selective color",
+        "RAW refinements"
+      ],
+      "description": "Covers finishing adjustments including vignette and subtle center-brightness boosts to draw the eye, selective color work to smooth magenta flowers, and RAW refinements (clarity, texture, auto-HDR). The sponge tool is demonstrated for saturating warm colors, with cautions about color shifts and blowouts as edits progress toward the image’s limits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Load files into stack and auto-align/auto-blend in Photoshop",
+      "timestamp": "00:02:42",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Zone-based local adjustments (mountain, sky, midground, foreground)",
+      "timestamp": "00:10:36",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Mid-tone dodging to add atmospheric mist",
+      "timestamp": "00:09:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective Color for magenta flowers",
+      "timestamp": "00:13:01",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Raw processing: clarity, texture, auto-HDR",
+      "timestamp": "00:13:58",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Puppet Warp for cloud shaping",
+      "timestamp": "00:15:34",
+      "confidence": 0.92
+    },
+    {
+      "technique": "History Brush for selective re-application after warp",
+      "timestamp": "00:17:13",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Applying vignette and center-brightness to guide eye",
+      "timestamp": "00:19:02",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T22:28:27.136065+00:00"
+}

@@ -1,0 +1,213 @@
+{
+  "schema_version": 2,
+  "video": "Part 7 (2024-2025)/NZ 4-3.mp4",
+  "title": "NZ 4-3 Helicopter Shoot: Dynamic Range, Layered Photoshop Processing, and Rainbow Blending",
+  "date": {
+    "display": "2024-12-10",
+    "iso": "2024-12-10T00:00:00Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time in file metadata; video path indicates 2024–2025 NZ set"
+  },
+  "locations": [
+    {
+      "name": "New Zealand",
+      "confidence": 0.8,
+      "basis": "Transcript repeatedly references New Zealand locations and context"
+    },
+    {
+      "name": "Milford Sound (referenced shots, not explicitly confirmed as shooting location)",
+      "confidence": 0.5,
+      "basis": "Transcript mentions Milford Sound in the context of yesterday's shots and rainbow discussion"
+    }
+  ],
+  "summary": "This video presents a landscape post-processing workflow focused on a helicopter-shot scene in New Zealand. The instructor walks through building dynamic range in Camera Raw, handling shadows and highlights, and using perspective warp (the “rule of trapezoids”) to simulate distortion from a wide-angle lens. The session emphasizes layer separation via dehaze, hard/soft brush edge work, and repeated adjustments to reveal depth, followed by targeted color toning and color-consistency repair. It also covers blending multiple frames to enhance beam light and foreground grasses, aligning shots with clone stamping, and sky/rainbow enhancement through selective whites, dehazing, and saturation techniques. The discussion includes field considerations such as foreground selection, minimizing mid-process cropping, and the discipline of not over-processing intense skies, with emphasis on how light and weather shape the final composition.",
+  "topics": [
+    "Camera Raw processing",
+    "Dynamic range expansion",
+    "Shadow detail extraction",
+    "Highlight recovery vs. clipping",
+    "Histogram interpretation in RAW workflows",
+    "Perspective warp and the rule of trapezoids",
+    "dehaze to separate layered elements",
+    "Edge brush technique (hard edge then soft edge)",
+    "Layer separation and 3D depth in landscapes",
+    "White and mid-tone adjustments",
+    "Mid-tone dodge and tonal color adjustments",
+    "Color grading and tonal-based color adjustments",
+    "Desaturation for color inconsistency repair and rebuild color",
+    "Warmth and balance in color grading",
+    "Dodge and burn for beam emphasis",
+    "Clone Stamp for alignment and edge blending",
+    "Blending multiple shots for beam-rich compositions",
+    "Foreground composition and grasses as focal elements",
+    "Rainbow extraction and enhancement",
+    "Sky processing with whites/dehaze and glow",
+    "Horizon alignment and tilting/orientation corrections",
+    "Rule of trapezoids applied to wide-frame scenes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:12",
+      "title": "Intro: RAW goals and exposure philosophy",
+      "concepts": [
+        "dynamic range",
+        "shadow recovery",
+        "histogram interpretation"
+      ],
+      "description": "The presenter introduces the helicopter-shot image and explains two RAW-processing goals: darken the overall image to preserve light areas and extract necessary shadow detail; cautions that histograms are not reliable indicators for shadows and emphasizes avoiding excessive blacks that would produce an HDR-like look."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:04:03",
+      "title": "Perspective warp and pre-emptive distortion correction",
+      "concepts": [
+        "perspective warp",
+        "rule of trapezoids",
+        "distortion simulation"
+      ],
+      "description": "A brief on correcting or simulating distortion by applying perspective warp. The host introduces the rule of trapezoids to mimic wide-angle distortion when the helicopter was far, guiding how to warp top/bottom or sides accordingly."
+    },
+    {
+      "start": "00:04:03",
+      "end": "00:05:57",
+      "title": "Dehaze and edge-based separation of layers",
+      "concepts": [
+        "dehaze",
+        "layer separation",
+        "edge selection"
+      ],
+      "description": "The workflow returns to RAW to perform a dehaze pass, using a brush (about 90% on the edge) to accentuate layer separation—mirroring mountain layering and depth in the scene."
+    },
+    {
+      "start": "00:05:57",
+      "end": "00:06:09",
+      "title": "Hard edge to soft edge brush workflow for depth",
+      "concepts": [
+        "hard edge brush",
+        "soft edge brush",
+        "fade-in"
+      ],
+      "description": "A two-step brush approach is shown: start with a hard edge to place the adjustment, then switch to a soft edge brush with a larger size to erase and fade the effect for natural integration."
+    },
+    {
+      "start": "00:06:09",
+      "end": "00:08:12",
+      "title": "Recreating the same adjustment and multi-pass refinement",
+      "concepts": [
+        "history brush reuse",
+        "repeat adjustment",
+        "layered refinement"
+      ],
+      "description": "The presenter demonstrates reapplying the same adjustment by reloading the last filter and refining with a fresh hard edge and another soft-edge pass to improve layer separation and depth."
+    },
+    {
+      "start": "00:08:12",
+      "end": "00:12:34",
+      "title": "Whites, warmth, and mid-tone dodge on beams",
+      "concepts": [
+        "whites adjustment",
+        "beams enhancement",
+        "brush size importance",
+        "mid-tone dodge"
+      ],
+      "description": "A sequence focusing on brightening the light beams on the lake, warming selectively in the mid areas, and using dodge techniques to emphasize light without over-saturating or introducing color shifts."
+    },
+    {
+      "start": "00:12:34",
+      "end": "00:14:12",
+      "title": "Color inconsistency repair via desaturation and rebuild",
+      "concepts": [
+        "color inconsistency",
+        "desaturation to grayscale",
+        "rebuild color with tonal control"
+      ],
+      "description": "The instructor explains color inconsistencies caused by artifacts or light. The fix is to desaturate and render a grayscale base, then rebuild color using tonal adjustments and color grading to preserve natural transitions."
+    },
+    {
+      "start": "00:14:12",
+      "end": "00:16:59",
+      "title": "River light shaping and curvature to add depth",
+      "concepts": [
+        "lighting on water",
+        "curve-based shading",
+        "luminosity adjustments"
+      ],
+      "description": "Shaping light across the river with targeted brightness and curvature to create depth, followed by subtle adjustments to preserve three-dimensional feel without overexposing surrounding areas."
+    },
+    {
+      "start": "00:18:59",
+      "end": "01:00:00",
+      "title": "Foreground grasses and multi-shot blending strategy",
+      "concepts": [
+        "foreground selection",
+        "best foreground",
+        "blending strategy",
+        "beam planning"
+      ],
+      "description": "Discussion of foreground grasses as focal points, choosing the strongest foreground, and using multiple shots to blend beams. Emphasis on staying in one place to keep alignment consistent and prevent foreground changes that disrupt blending."
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:00",
+      "title": "Rainbow processing and final sky treatment",
+      "concepts": [
+        "rainbow extraction",
+        "sponge tool for saturation",
+        "dehaze and final crop"
+      ],
+      "description": "The rainbow is teased out through selective whites, saturation via sponge, and careful color adjustments. The sky is dehazed and brightened, followed by tonal corrections and a final crop to guide the eye toward the rainbow and waterfalls."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Camera Raw processing with global and local adjustments",
+      "timestamp": "00:00:56",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Perspective warp with rule of trapezoids to simulate wide-angle distortion",
+      "timestamp": "00:03:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dehaze to reveal layered depth and separate mountains",
+      "timestamp": "00:04:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Edge-based brush workflow: hard edge then soft edge erasing to create depth",
+      "timestamp": "00:04:52",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Desaturation to grayscale, then tonal color rebuild to fix color inconsistencies",
+      "timestamp": "00:13:24",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Mid-tone dodge and selective color grading to emphasize beams",
+      "timestamp": "00:34:22",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Clone Stamp alignment and edge-blending to stack and align multiple beams",
+      "timestamp": "00:26:32",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Rainbow extraction and enhancement using whites, sponge tool, and careful color grading",
+      "timestamp": "00:44:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Wide-frame sky processing with dehaze, glow, and targeted color grading",
+      "timestamp": "00:57:19",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T00:41:21.595262+00:00"
+}

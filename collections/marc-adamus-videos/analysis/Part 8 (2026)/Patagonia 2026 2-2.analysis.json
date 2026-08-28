@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Patagonia 2026 2-2.mp4",
+  "title": "Patagonia Fjords: Layered Lighting, Edge Masking, and Water Brightening in Post",
+  "date": {
+    "display": "April 17, 2026",
+    "iso": "2026-04-17",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded MP4 creation_time: 2026-04-17T11:34:49.000000Z"
+  },
+  "locations": [
+    {
+      "name": "Patagonia fjords (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript explicitly mentions 'the fjords'; folder path references Patagonia; inference treated as probable location"
+    }
+  ],
+  "summary": "This short post-production walkthrough analyzes a fjord landscape shot from Patagonia, focusing on tonal control, selective masking, and light direction to build depth. The presenter adjusts shadows, blacks, and whites; avoids color-temperature tweaks to preserve blues; crops and tightens composition; then uses masking and brush work to push light across the frame, separately illuminate the peak, and brighten the water for dimensional separation. A hard-edge brush is demonstrated to cleanly separate layers, followed by a targeted water-brightening pass and a concluding remix that tightens the overall effect. The workflow emphasizes creating three-dimensionality with one-side light, local adjustments, and selective masking rather than radical global edits.",
+  "topics": [
+    "exposure adjustment (shadows, blacks, whites)",
+    "cropping and framing decision",
+    "avoidance of color-temperature changes in this shot",
+    "reducing yellow color cast",
+    "local white-point adjustments on the peak",
+    "creating directional light from the right",
+    "temperature and blues saturation management",
+    "masking and painting to separate layers",
+    "hard-edge brush for edge separation",
+    "edge refinement and corrective painting",
+    "water brightness emphasis with selection/mask",
+    "soft masking and fade to blend edges",
+    "one-side vignette to emphasize subject",
+    "layer-specific adjustments for dimensionality",
+    "remix/final pass with lighter edits"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:11:59",
+      "title": "Initial framing and broad tonal assumptions",
+      "concepts": [
+        "scene framing in fjord landscape",
+        "early tonal direction (shadows, blacks, whites)",
+        "observing light interaction with cloud and water"
+      ],
+      "description": "Opening notes describe the scene in the fjords, a brief moment of curved cloud light, and the decision to bring the camera for a closer look. The presenter sets initial exposure moves: raise blacks, lower exposure, and lightly lift whites to establish a dark frame against the water line, while noting no color-temperature tweak yet to preserve blues."
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:36:20",
+      "title": "Composition and preliminary color/stage adjustments",
+      "concepts": [
+        "compose for the water line",
+        "avoid yellow cast early; preserve blues",
+        "very light crop consideration"
+      ],
+      "description": "Discussion of preserving a broad frame versus cropping in; minor crop adjustment to shift space to the right and open up the composition. He confirms not adjusting color temperature at this stage to maintain blues and overall mood, while ensuring the horizon-water interaction remains a strong leading line."
+    },
+    {
+      "start": "00:36:20",
+      "end": "01:50:00",
+      "title": "Targeted darkening behind the peak and tonal isolation",
+      "concepts": [
+        "secondary whites adjustment",
+        "local tonal control around the mountain",
+        "elimination of yellow cast in the mid/sky area",
+        "local luminance tweaks on the mountain",
+        "one-side vignette on the left"
+      ],
+      "description": "A secondary whites adjustment is applied behind the peak to darken that region and make the peak pop. The yellow color is reduced to avoid warm cast, and a subtle luminance lift is applied only to the mountain to increase separation. A targeted vignette is applied on the left to heighten the perceived depth and guide the eye toward the peak."
+    },
+    {
+      "start": "01:50:00",
+      "end": "02:59:00",
+      "title": "Introducing directional light from the right to create depth",
+      "concepts": [
+        "light entry from the right",
+        "localized white balance adjustments",
+        "maintaining overall blue balance while emphasizing directionality"
+      ],
+      "description": "Light is simulated entering from the right side of the frame. The editor uses whites adjustments (temperature) without heavy color grading to push a sense of directional light that adds dimensionality, illustrating how a single brush stroke can reveal the light source and depth across the mid-tones and sky."
+    },
+    {
+      "start": "02:59:00",
+      "end": "03:31:00",
+      "title": "Edge masking and layer separation with hard and soft brushes",
+      "concepts": [
+        "hard-edge brush for precise edge separation",
+        "100% opacity masking",
+        "gradual refinement after initial pass",
+        "returning to a prior state to refine"
+      ],
+      "description": "A hard-edge brush is used at full opacity to trace the edge and isolate layers. The presenter emphasizes that perfection isn’t required in the initial pass, as subsequent refinements will correct the edge. He then revisits the image by painting back to the pre-adjustment state with a softer brush to perfect the separation and reduce obvious artifacts."
+    },
+    {
+      "start": "04:00:00",
+      "end": "05:58:00",
+      "title": "Water brightness and final masking for layer separation",
+      "concepts": [
+        "critical water brightness for scene separation",
+        "selection or hard-edge masking for water",
+        "fade to blend brightness naturally",
+        "three-dimensionality through directional light and water highlights"
+      ],
+      "description": "The water is identified as the most crucial element for depth. The editor brightens the water with a precise selection or masking approach, then uses a fade to ensure the glow feels natural rather than overpowering. The result enhances the water as a bright focal point, reinforcing the depth created by the directional lighting and the separated layers."
+    },
+    {
+      "start": "05:58:00",
+      "end": "06:15:22",
+      "title": "Remix and final pass: a lighter, cohesive finish",
+      "concepts": [
+        "revisit the composition with a lighter pass",
+        "minimalist final adjustments",
+        "emphasis on readability and speed of editing"
+      ],
+      "description": "The final segment frames a concise remix: the presenter trims the edits to a lighter, cohesive finish, underscoring that the shot is not overly complex to process and demonstrating a quick wrap-up approach that preserves the established three-dimensional look while reducing excess adjustments."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Directional lighting from the right created with selective whites/temperature adjustments",
+      "timestamp": "01:54:00",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Edge separation using a hard-edge brush to delineate layers, followed by refinement",
+      "timestamp": "02:57:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Targeted water brightness via masking/selection and controlled fades",
+      "timestamp": "04:01:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Local darkening behind the peak with secondary whites and hue control",
+      "timestamp": "01:06:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:50:41.512372+00:00"
+}

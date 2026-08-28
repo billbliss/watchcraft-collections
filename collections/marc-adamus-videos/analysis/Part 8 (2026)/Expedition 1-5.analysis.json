@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Expedition 1-5.mp4",
+  "title": "Post-Processing a Twilight Landscape: Multi-Exposure Blending, Layered Composition, and Light-Driven Color Grading",
+  "date": {
+    "display": "May 13, 2026",
+    "iso": "2026-05-13T08:40:32.000000Z",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded_creation_time metadata; approximate publication/creation timestamp"
+  },
+  "locations": [],
+  "summary": "This video lesson walks through a landscape post-production workflow focused on drone- or wide-shot scenes captured at twilight. The presenter discusses the limits of drone dynamic range, advocates bracketed exposures, and blends multiple files to preserve foreground detail while preventing sky blowout. The workflow is organized around four conceptual layers (foreground, middle ground, sky, sun beams) and uses a blur-based vignette, edge refinements, and light-painting techniques to connect the light source to the subject. The tutorial also covers color and tonal adjustments (dehaze, warmth, whites, selective color), beam adjustments, and a strong emphasis on directional lighting in post, including a black-and-white dodge/burn demonstration. Throughout, the guidance stresses careful edge handling, luminosity separation, and composition tricks such as cropping and framing to guide the eye toward the light source.",
+  "topics": [
+    "Drone dynamic range",
+    "Bracketing and exposure merging",
+    "Foreground/sky separation in multi-exposure composites",
+    "Clone Stamp / clone paint for exposure blending",
+    "Four-layer composition (foreground, middle ground, sky, sun beams)",
+    "Blur vignette vs traditional vignette",
+    "Edge blending with inverse selection, blur, and brightness",
+    "Beams creation and erasure with brushes",
+    "Dehaze, warmth, whites adjustments",
+    "Color grading and selective color on foliage",
+    "Luminosity masking and diffusion layer for depth",
+    "Stroke-based background separation and luminosity",
+    "Dodge and burn in black-and-white workflow",
+    "Composition choices: framing, cropping, and focal balance",
+    "Light-source emphasis and direction in post-processing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:11",
+      "title": "Dynamic range, drone limits, and exposure strategy",
+      "concepts": [
+        "drone dynamic range",
+        "2.0 stops DR for drones vs cameras",
+        "sky vs foreground exposure balance"
+      ],
+      "description": "Introduces the challenge of limited drone dynamic range and the need to plan exposures (2x or cropping) to preserve foreground detail while avoiding blown highlights in the sky."
+    },
+    {
+      "start": "00:02:11",
+      "end": "00:04:01",
+      "title": "Foreground-sky blending and multi-file merging plan",
+      "concepts": [
+        "foreground within 2.0 stops of DR",
+        "merging skies from alternative exposures",
+        "four-layer compositing concept"
+      ],
+      "description": "Describes selecting the closest exposure for the foreground, then bringing in a different sky exposure. Lays groundwork for a multi-file merge and notes alignment considerations."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:08:12",
+      "title": "Four-layer structure and initial vignette approach",
+      "concepts": [
+        "foreground/middle ground/sky/sun beams layers",
+        "dark blur vignette",
+        "painting back original through the vignette"
+      ],
+      "description": "Outlines a four-layer workflow and demonstrates creating a dark blur vignette, then selectively painting the original image back into the vignette to restore focus on the subjects."
+    },
+    {
+      "start": "00:08:12",
+      "end": "00:12:12",
+      "title": "Edge refinement, beam consideration, and sky color control",
+      "concepts": [
+        "edge blending with inverse selection",
+        "soft vs hard edge brush for light",
+        "beam creation and erasure techniques"
+      ],
+      "description": "Details edge work around the light source, introduces the idea of crafting or erasing beams with brush work, and discusses adjusting the sky to support the intended light direction."
+    },
+    {
+      "start": "00:12:12",
+      "end": "00:21:21",
+      "title": "Twilight color grading and subject-light cohesion",
+      "concepts": [
+        "dehaze, warmth, and whites adjustments",
+        "color grading and selective color to trees",
+        "luminosity-guided painting to direct the eye"
+      ],
+      "description": "Focuses on intensifying light where the sun is, balancing sky and foreground with tonal shifts, and applying selective color passes to accent highlights on foliage while maintaining overall cohesion."
+    },
+    {
+      "start": "00:21:21",
+      "end": "00:32:48",
+      "title": "Black-and-white workflow and composition decisions",
+      "concepts": [
+        "desaturation preserved in RGB for dodge/burn",
+        "classic dodge and burn to shape light",
+        "composition considerations and framing balance"
+      ],
+      "description": "Demonstrates a black-and-white approach using desaturation to enable dodge and burn, then discusses how to direct emphasis toward the light source and balance composition through cropping and point of view."
+    },
+    {
+      "start": "00:32:48",
+      "end": "00:33:26",
+      "title": "Wrap-up and viewer collaboration",
+      "concepts": [
+        "final tweaks",
+        "invitation for more shots",
+        "acknowledgement of viewer contributions"
+      ],
+      "description": "Concludes with final remarks on the craft, noting the potential for additional shots and collaboration."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Drone exposure strategy and bracket merging (2.0 stops DR vs camera DR)",
+      "timestamp": "00:01:16",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Foreground/sky blending using multi-file merge and clone-paint",
+      "timestamp": "00:02:43",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Clone Stamp / clone paint to merge two files precisely",
+      "timestamp": "00:02:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Four-layer compositing: foreground, middle ground, sky, beams",
+      "timestamp": "00:04:01",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Blur vignette that melts edges; painting back the original image (60% to 100%)",
+      "timestamp": "00:04:10",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Edge refinement using inverse selection plus blur and brightness",
+      "timestamp": "00:05:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Beams with brush control: harsh edge, 70 hardness, erasure with large brush",
+      "timestamp": "00:08:44",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color and luminance adjustments on trees (50-150) for highlight pops",
+      "timestamp": "00:09:49",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dodge and burn in black and white by desaturating to RGB, enabling precise light control",
+      "timestamp": "00:18:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Luminosity-based diffusion layer to separate background and reveal depth",
+      "timestamp": "00:26:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Stroke-based background separation for depth cues and guiding eye flow",
+      "timestamp": "00:25:59",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T03:26:17.854748+00:00"
+}

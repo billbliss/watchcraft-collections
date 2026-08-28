@@ -1,0 +1,235 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/AK Summer 1-3.mp4",
+  "title": "Alaska ice-cave focus stacking, sky blending, and simulated light in Photoshop (AK Summer)",
+  "date": {
+    "display": "2026-07-15 (approx.)",
+    "iso": "2026-07-15",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time in metadata; transcript references AK summer scenery and August lighting conditions, suggesting a late-summer Alaska trip."
+  },
+  "locations": [
+    {
+      "name": "Alaska (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript and filename indicate AK summer environment; mentions glaciers, trees, and the name Devil's Thumb as a landmark, but exact shooting site is not explicitly identified."
+    },
+    {
+      "name": "Devil's Thumb vicinity (Alaska)",
+      "confidence": 0.55,
+      "basis": "Explicit mention in transcript: \"Once the light left devil's thumb\" suggesting a geographic landmark near the shoot; not confirmed as the shoot location."
+    }
+  ],
+  "summary": "This video presents a hands-on Photoshop workflow for high-dynamic-range landscape work in Alaska—centered on ice-cave imagery and glacier scenery. The speaker advocates starting from a blank canvas to sculpt light, uses focus stacking with RAW data, and demonstrates careful sky replacement and color grading across multiple exposures. Key techniques include maintaining tripod stability for stacking, pre-stack dynamic-range extraction, auto-align/auto-blend of layers, texture-driven adjustments, fog and atmosphere via Orton-style diffusion, blue-luminance separation to texture layers, and a simulated light source to guide the viewer’s eye. Throughout, the presenter emphasizes composition (rule of odds, leading lines), practical considerations (camera movement, card speed, and file formats), and the iterative nature of editing as an undoing-and-rebuilding process rather than a single linear sequence.",
+  "topics": [
+    "10mm lens advantage for ice-cave geometry",
+    "ice-cave foreground and arch control",
+    "focus stacking fundamentals",
+    "pre-stack dynamic-range extraction from RAW",
+    "tripod stabilization for stacking and exposure blending",
+    "loading and stacking RAW frames in Photoshop",
+    "adaptive wide-angle distortion and warping",
+    "sky blending across multiple shots with color matching",
+    "horizon integrity and inverse masking in sky blends",
+    "50-150 color/tonal adjustment technique",
+    "two-pass highlight retone for sky and mountains",
+    "auto-align and content-aware fill for stack composites",
+    "fog work using blue-luminance separation and Orton-style blur",
+    "color grading sequencing and layering (mid-tone dodge, luminance control)",
+    "simulated light source (diffusion, luminosity, and diffusion-based glow)",
+    "rule of odds and composition decisions (three trees)",
+    "cropping strategies (4x5 vs wider crops)",
+    "posterior critique of sky and foreground balance",
+    "file management and media performance (CFexpress vs SD)",
+    "the philosophy of light, color, and atmosphere as limiting factors in landscape photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:24",
+      "title": "Gear context and optical setup for ice-cave shots",
+      "concepts": [
+        "10 mm lens for wide, cathedral-like cave geometry",
+        "flare considerations in ice caves",
+        "foreground emphasis using wide-angle lines"
+      ],
+      "description": "Introduces the practical impact of using a very wide lens (10 mm) on ice-cave shots and how it helps bend ceiling lines toward a strong foreground. Sets the stage for the emphasis on strong lines, minimal flare, and foreground dominance."
+    },
+    {
+      "start": "00:01:03",
+      "end": "00:03:33",
+      "title": "Philosophy of processing as an undoing journey",
+      "concepts": [
+        "non-static image shaping",
+        "retaining dynamic range",
+        "blank canvas approach to light shaping"
+      ],
+      "description": "Articulates a processing philosophy: start by removing excess light and contrast to rebuild light flow intentionally, emphasizing that effective tonal control comes from the ability to re-create light rather than simply adjusting existing tones."
+    },
+    {
+      "start": "00:03:33",
+      "end": "00:04:54",
+      "title": "Tripod discipline and stack readiness",
+      "concepts": [
+        "lockdown vs no-tripod middle ground",
+        "focus stacking prerequisites",
+        "avoidance of movement for stacking results"
+      ],
+      "description": "Highlights tripod discipline as essential for reliable stacking and exposure blending. Warns that even slight movement ruins focus stacking and exposure alignments."
+    },
+    {
+      "start": "00:04:25",
+      "end": "00:06:13",
+      "title": "Initial RAW processing and stack assembly",
+      "concepts": [
+        "load frames into a stack",
+        "texture/clarity/saturation warmth adjustments prior to stacking",
+        "pre-stack dynamic range extraction"
+      ],
+      "description": "Describes loading frames into a Photoshop stack, applying initial global adjustments, and performing RAW-range extraction before stacking to preserve maximum dynamic range."
+    },
+    {
+      "start": "00:07:01",
+      "end": "00:08:11",
+      "title": "Focus stack scale and multi-shot composition awareness",
+      "concepts": [
+        "large stacks (30 frames) vs smaller sets",
+        "focus-stacking viability across frames",
+        "workflow evaluation of stack quality"
+      ],
+      "description": "Discusses the scale of focus stacks and evaluates when a large 30-shot stack may be overkill, stressing the importance of cleaner, more controlled stacks."
+    },
+    {
+      "start": "00:11:01",
+      "end": "00:12:58",
+      "title": "Sky blending fundamentals and horizon handling",
+      "concepts": [
+        "apply previous settings to sky",
+        "color-temperature matching",
+        "avoiding horizon touch during blend"
+      ],
+      "description": "Details the process of blending skies from multiple exposures, including matching color temperature and ensuring the horizon line is not directly touched to prevent seams and color mismatches."
+    },
+    {
+      "start": "00:12:58",
+      "end": "00:14:11",
+      "title": "Horizon alignment and horizon-safe masking",
+      "concepts": [
+        "inverse selection",
+        "protecting horizon during sky blend",
+        "foreground continuity considerations"
+      ],
+      "description": "Emphasizes protecting the horizon during sky blending and using inverse selections to prevent artifacts at the seam line."
+    },
+    {
+      "start": "00:16:34",
+      "end": "00:21:14",
+      "title": "Color, tonal, and luminosity layering across sky and mountains",
+      "concepts": [
+        "50-150 adjustment concept",
+        "multi-layer color grading",
+        "mountain light enhancement"
+      ],
+      "description": "Introduces a repeatable color-tonal workflow to pull out mountain light, expand color separation across layers, and apply targeted color grading to preserve realism while enhancing dramatic lighting."
+    },
+    {
+      "start": "00:22:49",
+      "end": "00:23:38",
+      "title": "Layer alignment and content-aware stacking",
+      "concepts": [
+        "auto-align layers",
+        "auto-blend content-aware fill",
+        "masking and edge handling"
+      ],
+      "description": "Demonstrates Photoshop’s automatic alignment and content-aware fill for seamless composites, noting how properly separated layers stack cleanly with minimal masking."
+    },
+    {
+      "start": "00:25:01",
+      "end": "00:25:56",
+      "title": "Perspective changes and foreground cleanups",
+      "concepts": [
+        "remove sticks by perspective shifts",
+        "field-captured multiple angles to reduce obstructions"
+      ],
+      "description": "Discusses removing intrusive foreground elements (like a stick) by shifting perspective and taking multiple shots to blend later."
+    },
+    {
+      "start": "00:28:37",
+      "end": "00:31:06",
+      "title": "Fog diffusion and blue-luminance separation for layering",
+      "concepts": [
+        "Orton-style diffusion",
+        "blue-luminance-based layer separation",
+        "fog layering across depth planes"
+      ],
+      "description": "Shows diffusion-based softening (Orton effect) and blue-luminance separation to create layered fog that adds depth without destroying underlying textures."
+    },
+    {
+      "start": "00:39:06",
+      "end": "00:42:46",
+      "title": "Simulated light source and atmospheric finishing touches",
+      "concepts": [
+        "diffusion-driven light simulation",
+        "luminosity-based glow",
+        "color grading for final mood"
+      ],
+      "description": "Introduces a simulated light source technique using diffusion and luminosity to guide viewer focus, followed by layered color grading to unify sky and foreground lighting."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Wide-angle lens emphasis on ice-cave geometry and strong foreground",
+      "timestamp": "00:00:11",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Tripod lockdown vs movement cautions for stack integrity",
+      "timestamp": "00:03:16",
+      "confidence": 0.75
+    },
+    {
+      "technique": "RAW dynamic range extraction before stacking",
+      "timestamp": "00:05:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Loading frames and stacking in Photoshop; initial texture/clarity adjustments",
+      "timestamp": "00:04:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sky blending with previous settings and color-matching; horizon management",
+      "timestamp": "00:11:53",
+      "confidence": 0.8
+    },
+    {
+      "technique": "50-150 color/tonal adjustments and multi-layer grading",
+      "timestamp": "00:17:21",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Orton-style diffusion for fog",
+      "timestamp": "00:28:37",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Blue-luminance separation to create fog layers",
+      "timestamp": "00:30:52",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Auto-align layers and content-aware fill for stack composites",
+      "timestamp": "00:22:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Simulated light source using diffusion and luminosity",
+      "timestamp": "00:39:06",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:46:01.015502+00:00"
+}

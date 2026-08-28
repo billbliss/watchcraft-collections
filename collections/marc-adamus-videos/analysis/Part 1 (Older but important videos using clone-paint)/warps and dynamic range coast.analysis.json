@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/warps and dynamic range coast.mp4",
+  "title": "Dynamic Range Extraction and Photoshop Warping: Coastline Coulda-Shoulda Leading Lines",
+  "date": {
+    "display": "June 2019",
+    "iso": "2019-06-12",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded creation_time metadata (2019-06-12T17:49:03.000000Z) with transcript content indicating production around that period."
+  },
+  "locations": [],
+  "summary": "This two-part landscape workflow video combines practical exposure and dynamic-range discussion with hands-on Photoshop warping techniques. The presenter explains camera-specific dynamic-range capabilities (in stops) and field exposure strategies to minimize clipping and noise, including the rationale for bracketing as a margin-of-error tool. The second half demonstrates perspective-based warping in Photoshop (Perspective Warp, Free Transform, and later Puppet Warp) to sculpt strong leading lines, adjust composition toward a preferred 2x3 crop, and maintain horizon integrity. The transcript emphasizes keeping sun/highlight areas intact, avoiding over-stretching high-detail regions like rainforest textures, and balancing ethical considerations when warping imagery.",
+  "topics": [
+    "Photoshop",
+    "Perspective Warp",
+    "Puppet Warp",
+    "Free Transform",
+    "Crop Tool",
+    "Dynamic Range",
+    "Shadow Recovery",
+    "Highlight Recovery",
+    "Exposure",
+    "Bracketing",
+    "Noise",
+    "Canon 5D Mark III",
+    "Canon 5D Mark IV",
+    "Sony a7R III",
+    "Nikon D850",
+    "2x3 composition",
+    "Leading Lines",
+    "Horizon Correction",
+    "In-Camera Distortion",
+    "Camera Raw",
+    "Image Integrity",
+    "Coastal Photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:42",
+      "title": "Dynamic range overview and exposure strategy",
+      "concepts": [
+        "dynamic range",
+        "shadow recovery",
+        "highlights clipping",
+        "exposure",
+        "stops of dynamic range",
+        "noise and grain",
+        "bracketing rationale"
+      ],
+      "description": "An introductory discussion of how much dynamic range cameras provide (in stops) across common models, and the practical effects of pulling shadows and mitigating clipped highlights. The speaker compares older and newer bodies, explains a baseline around 2.2–3.8 stops of shadow detail, and emphasizes exposing for the moment when highlights begin to blow out. The topic covers when to bracket to preserve detail while avoiding excessive noise, and why a single-shot exposure is desirable when possible."
+    },
+    {
+      "start": "00:06:42",
+      "end": "00:18:33",
+      "title": "Warping and perspective adjustments in Photoshop",
+      "concepts": [
+        "Perspective Warp",
+        "Free Transform",
+        "Crop to 2x3",
+        "Puppet Warp",
+        "Leading lines",
+        "Horizon and sun handling",
+        "Ethics of distortion"
+      ],
+      "description": "A sequence of warp-based techniques to improve composition: cropping for stronger waves, applying perspective warp to stretch foreground waves while preserving the horizon, and using puppet warp for localized adjustments (with a caution about over-editing and the irreversible nature of many warp changes). The workflow shows setting up separate zones for sun/flare and horizon, creating dramatic leading lines toward the peak, and gradually refining the image through multiple warp passes before final cropping back to a 2x3 ratio. It also touches on in-camera distortion versus post-processing corrections and ethical considerations about image fidelity."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dynamic range assessment and shadow/highlight recovery strategy",
+      "timestamp": "00:00:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Shadow lift versus exposure increase (single-shot dynamic range workflow)",
+      "timestamp": "00:02:12",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Margin-of-error and bracketing rationale",
+      "timestamp": "00:04:39",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Exposure targeting for sun/bright highlights",
+      "timestamp": "00:06:17",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Perspective Warp for broad-stroke composition changes",
+      "timestamp": "00:09:44",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Puppet Warp for localized cloud and feature adjustments",
+      "timestamp": "00:12:39",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Crop to 2x3 framing to accommodate warping",
+      "timestamp": "00:15:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Horizon and sun/flare handling through selective warping",
+      "timestamp": "00:17:28",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T17:17:52.785023+00:00"
+}

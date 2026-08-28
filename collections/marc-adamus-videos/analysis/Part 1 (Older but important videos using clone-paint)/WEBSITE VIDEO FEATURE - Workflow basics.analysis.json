@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "video": "Part 1 (Older but important videos using clone-paint)/WEBSITE VIDEO FEATURE - Workflow basics.mp4",
+  "title": "Workflow basics: Mark Adamus’s minimal-tool, clone-painting landscape post-processing",
+  "date": {
+    "display": "March 20, 2020",
+    "iso": "2020-03-20",
+    "precision": "day",
+    "confidence": 0.75,
+    "basis": "embedded_creation_time in file metadata"
+  },
+  "locations": [
+    {
+      "name": "Fitzroy, Great Mountain",
+      "confidence": 0.75,
+      "basis": "Explicit mention in transcript"
+    }
+  ],
+  "summary": "In this tutorial, Mark Adamus outlines his core approach to post-processing landscape images, advocating a ‘less is more’ philosophy and a focused toolset. He explains his philosophy of predicting results before acting, then demonstrates a streamlined RAW/ACR workflow followed by Photoshop-based refinement. A central feature is his clone-painting workflow (which he notes he invented in 2005) used to blend textures and colors non-destructively, supplemented by focus stacking, sky-water composites, and atmospheric adjustments. The video covers practical steps—from dynamic-range adjustments in RAW, through Bridge/Camera Raw syncing, to Photoshop techniques like auto-align/auto-blend for focus stacks, perspective and puppet warps, and diffusion-based luminosity—culminating in a guided emphasis on lighting direction, color balance, and the viewer’s eye path. Throughout, Adamus emphasizes field discipline, non-destructive editing, and the importance of creating cohesive transitions rather than heavy-handed, pixel-level alterations.",
+  "topics": [
+    "Clone stamping",
+    "Clone painting",
+    "Photoshop",
+    "Camera Raw",
+    "ACR",
+    "Lightroom",
+    "focus stacking",
+    "auto-align",
+    "auto-blend",
+    "sky replacement",
+    "water texture",
+    "diffusion",
+    "luminosity",
+    "Gaussian blur",
+    "diffusion+luminosity",
+    "perspective warp",
+    "puppet warp",
+    "dodge",
+    "burn",
+    "sponge",
+    "HSL",
+    "Selective color",
+    "split toning",
+    "color calibration",
+    "non-destructive editing",
+    "dynamic range",
+    "pre-sunset light",
+    "leading lines",
+    "directional light",
+    "landscape photography",
+    "workflow basics",
+    "Mark Adamus",
+    "Fitzroy"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:54",
+      "title": "Introduction & workflow philosophy",
+      "concepts": [
+        "less is more",
+        "core post-production methodology",
+        "predict result before action"
+      ],
+      "description": "Marks out his core stance on workflow basics, emphasizing a lean toolset and focusing on outcome over trial-and-error."
+    },
+    {
+      "start": "00:03:54",
+      "end": "00:07:04",
+      "title": "Tool discipline and core adjustments",
+      "concepts": [
+        "avoid over-building toolset",
+        "ten-tools max in Photoshop",
+        "three core adjustments (luminosity, color, lighting)"
+      ],
+      "description": "Outlines a disciplined approach to software tools, keeping the workflow simple and artistically focused."
+    },
+    {
+      "start": "00:07:04",
+      "end": "00:08:22",
+      "title": "Field authenticity: weather and composition choices",
+      "concepts": [
+        "avoid adding elements that weren’t present",
+        "conditioning light with natural atmosphere",
+        "documenting an avalanche event in field"
+      ],
+      "description": "Discusses maintaining authenticity of subjects while using post adjustments for atmosphere, and notes a real avalanche observed during shooting."
+    },
+    {
+      "start": "00:08:22",
+      "end": "00:12:50",
+      "title": "Permanent subjects & post-placement of atmosphere",
+      "concepts": [
+        "subjects are real; light/color/atmosphere manipulated in post",
+        "avoid replacing permanent elements",
+        "field-to-final-image consistency"
+      ],
+      "description": "Explains that light, color and atmosphere are adjusted in post without moving permanent subjects, illustrating the balance between in-field capture and post-processing."
+    },
+    {
+      "start": "00:12:50",
+      "end": "00:27:00",
+      "title": "RAW workflow basics & early adjustments",
+      "concepts": [
+        "dynamic range panel",
+        "exposure/shadows/blacks/highlights",
+        "color temperature & tint",
+        "curves vs panometric",
+        "selective color vs HSL vs calibration"
+      ],
+      "description": "Describes starting a RAW file in a way that looks true to the eye, using dynamic range controls and color/tone adjustments before moving to more targeted color work."
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:32",
+      "title": "Bridge/Camera Raw workflow & cross-file consistency",
+      "concepts": [
+        "sync previous conversions across multiple RAW files",
+        "viewing and selecting multiple images",
+        "compositional decisions in-field affecting post"
+      ],
+      "description": "Shows how to apply a previous conversion to a batch of RAW files and explains compositional decisions that influence later processing and synchronization."
+    },
+    {
+      "start": "00:34:32",
+      "end": "01:04:57",
+      "title": "Focus stacking workflow (load into stack → align → blend)",
+      "concepts": [
+        "load files into stack",
+        "auto-align layers",
+        "auto-blend layers with seamless tones/colors",
+        "edge loss and post-crop considerations"
+      ],
+      "description": "Demonstrates the core focus-stacking process in Photoshop, including stacking, auto-alignment, and seamless blending, as well as handling edge loss and planning for crop/excess sky."
+    },
+    {
+      "start": "01:04:57",
+      "end": "01:41:53",
+      "title": "Clone painting system & non-destructive composite work",
+      "concepts": [
+        "clone painting system (invented 2005)",
+        "two-image compositing with aligned clone stamps",
+        "diffusion+luminosity for haze",
+        "warps (perspective/puppet)",
+        "dodge/burn/sponge tools & history brush"
+      ],
+      "description": "Details the central clone-painting workflow, its history in Adamus’s practice, and how it’s used to blend sky, water and foreground while maintaining a cohesive look. Covers non-destructive layering, distillation of edits via history brush, and enhancements like diffusion and luminosity passes."
+    },
+    {
+      "start": "01:41:53",
+      "end": "01:45:10",
+      "title": "Artistic philosophy & final guidance",
+      "concepts": [
+        "less is more; mastery of a small toolset",
+        "attention to transitions (cool-to-warm, light-to-dark)",
+        "directional light guiding the viewer’s eye"
+      ],
+      "description": "Concludes with high-level guidance on maintaining a painterly feel, and the importance of transitions and directional lighting to guide the viewer’s gaze."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Clone painting system (invented 2005)",
+      "timestamp": "01:41:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Focus stacking with load-files-into-stack, auto-align, auto-blend",
+      "timestamp": "00:34:32",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Sky replacement using multi-image blending (two skies from different shots)",
+      "timestamp": "01:22:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Diffusion+luminosity for haze and glow (Gaussian blur overlays)",
+      "timestamp": "01:14:26",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective warp and Puppet Warp for selective shape changes",
+      "timestamp": "00:56:38",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective color, HSL, and color calibration tradeoffs",
+      "timestamp": "00:21:12",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T17:59:55.811193+00:00"
+}

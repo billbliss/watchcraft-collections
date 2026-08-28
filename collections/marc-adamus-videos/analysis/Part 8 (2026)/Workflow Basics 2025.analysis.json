@@ -1,0 +1,212 @@
+{
+  "schema_version": 2,
+  "video": "Part 8 (2026)/Workflow Basics 2025.mp4",
+  "title": "Workflow Basics 2025: Core RAW-to-Photoshop Techniques for Landscape Post-Processing",
+  "date": {
+    "display": "May 26, 2025",
+    "iso": "2025-05-26",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "Embedded_creation_time metadata indicates 2025-05-26; transcript references content released in 2025."
+  },
+  "locations": [
+    {
+      "name": "Patagonia (probable travel region mentioned as context)",
+      "confidence": 0.6,
+      "basis": "Transcript: “since I've been in Patagonia it's two and a half months ago” used as context for shooting or travel experience."
+    },
+    {
+      "name": "Alaska (probable shoot location referenced)",
+      "confidence": 0.6,
+      "basis": "Transcript: “spot in Alaska to go shoot fall colors” used as example for lens/warp considerations."
+    },
+    {
+      "name": "Cerro Torre",
+      "confidence": 0.9,
+      "basis": "Explicit mention: “turn this into Cerro Torre” as a location/example within the discussion."
+    }
+  ],
+  "summary": "This video presents a landscape photographer’s foundational post-processing workflow using RAW in Camera Raw and Photoshop, with comparisons to Bridge and Lightroom, and a philosophy grounded in building a light source and fluid transitions through a scene. It covers RAW extraction of dynamic range, color and tonal adjustments, and a spectrum of Photoshop tools—from traditional adjustments (color balance, selective color) to advanced warping (Adaptive Wide Angle, Perspective Warp, Puppet Warp) and diffusion effects (Gaussian blur/Orton). The instructor emphasizes a non-destructive approach (layers, multiple saved versions, history painting) and two original techniques for painting adjustments (history paint and clone paint). Throughout, the emphasis is on understanding tool behavior, balancing color with tonal decisions, and practicing speed while maintaining image integrity without overreliance on any single “magic” tool.",
+  "topics": [
+    "RAW vs ACR workflow",
+    "Bridge/ACR vs Lightroom parallels",
+    "Dynamic range extraction in RAW",
+    "Shadows/highlights control",
+    "Color temperature and tint adjustments",
+    "Vibrance vs saturation",
+    "Unsharp Mask, Clarity, Dehaze (usage cautions)",
+    "Color grading concepts",
+    "HSL vs Selective Color",
+    "Color Balance vs RAW color controls",
+    "Selective Color color theory and workflow",
+    "Black and White conversion with Dodge & Burn",
+    "Early diffusion (Orton) and Gaussian blur",
+    "Blue/Gold color filter concepts",
+    "Warp tools: Adaptive Wide Angle",
+    "Warp tools: Perspective Warp",
+    "Warp tools: Puppet Warp",
+    "Rule of trapezoids (wide-angle distortion concept)",
+    "Non-destructive editing and layers",
+    "History Brush and History States",
+    "Clone Paint technique",
+    "History-based remixing and versioning",
+    "AI tools in Photoshop (defringe, remove) and cautions",
+    "Workflow philosophy: create light, transition, and avoid histogram obsession"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:04:48.000",
+      "title": "Intro: Tools and basic workflow",
+      "concepts": [
+        "workflow",
+        "tool-agnostic approach",
+        "opening RAW files",
+        "flattened RAW vs layered edits"
+      ],
+      "description": "Opening remarks about tool choice versus mastery, and the workflow context—opening a RAW in Photoshop and imagining it in Lightroom/Bridge to set expectations."
+    },
+    {
+      "start": "00:04:48.000",
+      "end": "00:12:21.000",
+      "title": "RAW entry and cross-ecosystem workflow",
+      "concepts": [
+        "ACR vs Lightroom parallels",
+        "browsing/processing RAW",
+        "dynamic range awareness"
+      ],
+      "description": "Discussion of how ACR sits between Lightroom and Photoshop, and why the presenter treats ACR as the quick RAW processor before moving edits into Photoshop; emphasis on not relying solely on previews load times and organizational systems."
+    },
+    {
+      "start": "00:12:21.000",
+      "end": "00:18:00.000",
+      "title": "Color and tonal strategies in RAW vs Photoshop",
+      "concepts": [
+        "dynamic range as RAW advantage",
+        "color temperature/tint",
+        "Vibrance vs saturation",
+        "early discussion of color grading vs HSL/Selective Color"
+      ],
+      "description": "Explains how color decisions tie to light adjustments, introduces the idea that color grading and tonal changes operate on both color and luminance—with a preference toward selective color in certain scenarios and a caution about HSL in flat gradients."
+    },
+    {
+      "start": "00:18:06.000",
+      "end": "00:22:07.000",
+      "title": "Tool landscape and cautions",
+      "concepts": [
+        "AI tools vs legacy tools",
+        "defringe/chromatic aberration",
+        "old vs new filter tools",
+        "blue/gold filter concept"
+      ],
+      "description": "Survey of tools including AI-based tools, legacy Photoshop filters, and color filters, with cautions about relying on dated techniques and the practical benefits of newer AI-assisted approaches."
+    },
+    {
+      "start": "00:22:07.000",
+      "end": "01:12:04.000",
+      "title": "Non-destructive workflow and history-based painting",
+      "concepts": [
+        "non-destructive editing",
+        "history states",
+        "history brush",
+        "clone paint",
+        "versioning"
+      ],
+      "description": "Deep dive into non-destructive editing. Introduces history states, the history brush, and the evolution from clone-based workflows to a history-paint-based approach, including saving multiple versions and how to remix edits later."
+    },
+    {
+      "start": "00:31:08.000",
+      "end": "00:39:12.000",
+      "title": "Warping tools overview",
+      "concepts": [
+        "Adaptive Wide Angle",
+        "Perspective Warp",
+        "Rule of trapezoids"
+      ],
+      "description": "Demonstrates how warp tools bend perspective and space, including using adaptive wide angle to simulate extreme focal lengths and the rule of trapezoids to mimic wide-angle distortion."
+    },
+    {
+      "start": "00:39:12.000",
+      "end": "00:52:50.000",
+      "title": "Diffusion, color adjustments, and selective color depth",
+      "concepts": [
+        "Gaussian blur/Orton-like diffusion",
+        "Color Balance vs Selective Color",
+        "Black&White basics with dodge/burn",
+        "Selective Color depth and color separation"
+      ],
+      "description": "Covers diffusion-based softening techniques, color adjustments that preserve or alter mood, and a detailed walkthrough of selective color for targeted color manipulation and color separation effects."
+    },
+    {
+      "start": "01:00:06.000",
+      "end": "01:12:04.000",
+      "title": "Two core painting tools: History Paint and Clone Paint",
+      "concepts": [
+        "History Paint",
+        "Clone Paint",
+        "non-destructive remixing"
+      ],
+      "description": "Introduces two user-created painting workflows. History Paint leverages historical states for painting edits, while Clone Paint represents the narrator’s unique, earlier-created technique for painting edits across layers and history states."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Adaptive Wide Angle filter",
+      "timestamp": "00:31:08",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Perspective Warp",
+      "timestamp": "00:32:54",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Puppet Warp",
+      "timestamp": "00:35:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gaussian Blur / Orton-like diffusion",
+      "timestamp": "00:39:35",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Blue/Gold color filter as color contrast tool",
+      "timestamp": "00:20:05",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Color Grading in Camera Raw (tonal-based color adjustment)",
+      "timestamp": "00:15:28",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Selective Color (color isolation and color separation)",
+      "timestamp": "00:47:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Black and White workflow with Dodge/Burn while maintaining RGB",
+      "timestamp": "00:53:58",
+      "confidence": 0.8
+    },
+    {
+      "technique": "History Brush / History Paint (non-destructive painting)",
+      "timestamp": "01:08:13",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Clone Paint (invented workflow for painting edits)",
+      "timestamp": "01:00:10",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Non-destructive versioning (save multiple image states)",
+      "timestamp": "01:18:34",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T04:04:07.348536+00:00"
+}

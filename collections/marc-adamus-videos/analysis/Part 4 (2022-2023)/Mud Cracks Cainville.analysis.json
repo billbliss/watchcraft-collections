@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "video": "Part 4 (2022-2023)/Mud Cracks Cainville.mp4",
+  "title": "Mud Cracks Cainville: A multi-zone Photoshop workflow for abstract color separation and sky integration",
+  "date": {
+    "display": "2022-11-03",
+    "iso": "2022-11-03",
+    "precision": "day",
+    "confidence": 0.6,
+    "basis": "embedded_creation_time metadata; export/date inferred from file metadata"
+  },
+  "locations": [],
+  "summary": "The video presents a studio-based post-processing workflow focused on mud-crack textures, emphasizing color separation and dramatic light to create three-dimensional form. It covers a sequence of focal steps: pushing extreme color separation through saturation and RAW passes, cropping and perspective adjustments to frame mountains without heavy warping, shading and highlighting to sculpture foreground geometry, sky replacement and integration, and a multi-pass tonal workflow that culminates in an HDR-like look and Orton-style glow. The presenter repeatedly stresses non-destructive editing through history states, and treats the image as three interconnected zones (foreground, sky, and peak) that are refined iteratively before final color grading and emphasis on light direction.",
+  "topics": [
+    "Photoshop",
+    "Camera Raw",
+    "Selective Color",
+    "Color Grading",
+    "Dodge and Burn",
+    "Saturation Adjustment",
+    "Sky Replacement",
+    "Clone Stamp",
+    "Perspective Warp",
+    "Rule of Trapezoids",
+    "Foreground Lighting",
+    "Three-Zone Composition",
+    "Auto HDR",
+    "Orton Effect",
+    "Dehaze",
+    "Tonality-based Color Adjustment",
+    "Color Mixer",
+    "Cloning Sky",
+    "Focus Stack",
+    "Masking",
+    "History Brush",
+    "Blur + Luminosity",
+    "Vignette",
+    "Dynamic Range"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:01:21.680",
+      "title": "Initial color separation and abstraction",
+      "concepts": [
+        "extreme saturation",
+        "color separation",
+        "dual-pass RAW processing",
+        "selective color adjustments"
+      ],
+      "description": "The speaker explains pushing saturation to the maximum to force color separation in an otherwise abstract pattern, then reopening in RAW and repeating the process to deepen separation. They begin to introduce targeted tweaks (reds/yellows to blues, slight cyan shifts) to create a more pronounced, abstract texture and suggest lightening/bleaching edges via dodge and burn."
+    },
+    {
+      "start": "00:03:00.400",
+      "end": "00:05:40.960",
+      "title": "Composition decisions and baseline adjustments",
+      "concepts": [
+        "dynamic range awareness",
+        "cropping for composition",
+        "placing mountains high in frame",
+        "perspective warp",
+        "rule of trapezoids"
+      ],
+      "description": "The workflow moves from opening the image to expanding its dynamic range, with a focus on not blowing out shadows. The speaker discusses cropping to position a mountain higher in the frame to stretch its perceived size without warping, and introduces a light distortion plan using perspective warp and a mild trapezoidal stretch to widen the angle."
+    },
+    {
+      "start": "00:05:40.960",
+      "end": "00:12:53.120",
+      "title": "Foreground shading, three-zone plan, and initial sky prep",
+      "concepts": [
+        "foreground shading",
+        "edge lighting",
+        "three-zone framework (foreground, sky, peak)",
+        "history brush / non-destructive edits"
+      ],
+      "description": "This phase covers deepening foreground contrast by darkening shadows and building light on the foreground with controlled brushwork, then setting up three zones (foreground, sky, peak) for later refinement. The narrator hints at later sky manipulation and the option to blend elements from a different shot using non-destructive history controls and selective masking."
+    },
+    {
+      "start": "00:12:53.120",
+      "end": "00:27:21.300",
+      "title": "Sky integration, HDR-like toning, and final refinements",
+      "concepts": [
+        "sky replacement",
+        "auto HDR technique",
+        "tonal-based color adjustment",
+        "dehaze",
+        "Orton effect",
+        "vignette and global warmth",
+        "three-pass refinement"
+      ],
+      "description": "The sky is brought into the composition and directional lighting is established to shape the overall mood. A multi-pass approach is used: Auto HDR-like processing to increase texture and contrast, tonal-based color adjustments to set base hues for highlights and shadows, selective color painting to simulate warm sunset tones, dehaze to imply atmospheric glow, and an Orton-like blur-luminosity treatment to simulate glow. The process emphasizes rebalancing the three zones (foreground, sky, peak) through iterative passes and careful masking to avoid overdoing color. Final touches include a vignette and subtle warmth to guide the viewer’s eye toward the light source."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Extreme saturation-based color separation",
+      "timestamp": "00:00:00.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dual-pass RAW processing for separation",
+      "timestamp": "00:00:23.040",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Selective color adjustments on blues, cyan, reds, and yellows",
+      "timestamp": "00:01:01.700",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Dodge and burn for foreground/edge emphasis",
+      "timestamp": "00:01:21.680",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Perspective warp and rule of trapezoids to adjust framing",
+      "timestamp": "00:05:08.360",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sky replacement and edge blending via clone-stamp move",
+      "timestamp": "00:13:29.720",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Auto HDR technique with a defined preset",
+      "timestamp": "00:16:03.200",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Tonality-based color adjustment for sky and highlights",
+      "timestamp": "00:17:13.160",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dehaze and glow (Orton-like) on foreground and background",
+      "timestamp": "00:19:54.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Three-zone iterative refinement (foreground, sky, peak)",
+      "timestamp": "00:14:18.880",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Cloning sky and blending with subtle edge transitions",
+      "timestamp": "00:13:50.060",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 1,
+  "analysis_created_at": "2026-08-18T21:42:33.730787+00:00"
+}

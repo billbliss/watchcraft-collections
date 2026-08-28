@@ -1,0 +1,2451 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "official-ptgui-tutorial",
+  "title": "Official PTGUI Tutorial",
+  "topic_scope": "collection",
+  "topic_normalization": null,
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "Official PTGUI Tutorial",
+    "children": [
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-o2jadksotwy-youtube-c6bafffb"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-o38yf9wvr3q-youtube-7e030147"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-scaus4vlclc-youtube-e6a5f24c"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-ytzhqxih3jw-youtube-7eb7f04a"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-xuuzipxzscm-youtube-0496db8c"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-fjvhttuhp1s-youtube-67b6837b"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-qtgkazi8inw-youtube-c4959da3"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-o5lvhl-zvaq-youtube-a7e6e2cd"
+      },
+      {
+        "type": "video",
+        "item_id": "video-official-ptgui-tutorial-gznuigozcvc-youtube-e66598d5"
+      }
+    ]
+  },
+  "topics": {
+    "topic-32-bit-hdr-images-and-linear-workflow-d34c2f6e": {
+      "topic_id": "topic-32-bit-hdr-images-and-linear-workflow-d34c2f6e",
+      "canonical_key": "32-bit hdr images and linear workflow",
+      "label": "32-bit HDR images and linear workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-360x180-degree-panorama-7c7e7e1b": {
+      "topic_id": "topic-360x180-degree-panorama-7c7e7e1b",
+      "canonical_key": "360x180 degree panorama",
+      "label": "360x180 degree panorama",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-90-degrees-apart-489312d7": {
+      "topic_id": "topic-90-degrees-apart-489312d7",
+      "canonical_key": "90 degrees apart",
+      "label": "90 degrees apart",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-adding-holes-and-patches-in-patch-editor-8e159828": {
+      "topic_id": "topic-adding-holes-and-patches-in-patch-editor-8e159828",
+      "canonical_key": "adding holes and patches in patch editor",
+      "label": "adding holes and patches in Patch Editor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-advanced-mode-to-reveal-hidden-ui-tabs-8d2cf9b2": {
+      "topic_id": "topic-advanced-mode-to-reveal-hidden-ui-tabs-8d2cf9b2",
+      "canonical_key": "advanced mode to reveal hidden ui tabs",
+      "label": "Advanced mode to reveal hidden UI tabs",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-advanced-options-88a55b99": {
+      "topic_id": "topic-advanced-options-88a55b99",
+      "canonical_key": "advanced options",
+      "label": "Advanced options",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-align-images-auto-stitching-and-panorama-editor--28062ec5": {
+      "topic_id": "topic-align-images-auto-stitching-and-panorama-editor--28062ec5",
+      "canonical_key": "align images auto-stitching and panorama editor launch",
+      "label": "Align Images auto-stitching and Panorama Editor launch",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-align-images-button-225b4a58": {
+      "topic_id": "topic-align-images-button-225b4a58",
+      "canonical_key": "align images button",
+      "label": "Align Images button",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-align-images-workflow-with-masking-1d6b1313": {
+      "topic_id": "topic-align-images-workflow-with-masking-1d6b1313",
+      "canonical_key": "align images workflow with masking",
+      "label": "Align Images workflow with masking",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-auto-reload-of-patched-images-in-ptgui-90b897f9": {
+      "topic_id": "topic-auto-reload-of-patched-images-in-ptgui-90b897f9",
+      "canonical_key": "auto reload of patched images in ptgui",
+      "label": "auto reload of patched images in PTGui",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-automatic-control-point-generation-sift-like-con-c803becb": {
+      "topic_id": "topic-automatic-control-point-generation-sift-like-con-c803becb",
+      "canonical_key": "automatic control point generation (sift-like concept)",
+      "label": "Automatic control point generation (SIFT-like concept)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-averaging-errors-06f40837": {
+      "topic_id": "topic-averaging-errors-06f40837",
+      "canonical_key": "averaging errors",
+      "label": "averaging errors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-blended-vs-unblended-panorama-views-9e572936": {
+      "topic_id": "topic-blended-vs-unblended-panorama-views-9e572936",
+      "canonical_key": "blended vs unblended panorama views",
+      "label": "Blended vs unblended panorama views",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-blending-controls-feather-interpolator-default-o-14d5087f": {
+      "topic_id": "topic-blending-controls-feather-interpolator-default-o-14d5087f",
+      "canonical_key": "blending controls: feather, interpolator (default often fine)",
+      "label": "Blending controls: Feather, Interpolator (default often fine)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-blending-for-seamless-transitions-73c07d7c": {
+      "topic_id": "topic-blending-for-seamless-transitions-73c07d7c",
+      "canonical_key": "blending for seamless transitions",
+      "label": "Blending for seamless transitions",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-bracketed-exposure-strategy-for-hdr-panoramas-4ec65300": {
+      "topic_id": "topic-bracketed-exposure-strategy-for-hdr-panoramas-4ec65300",
+      "canonical_key": "bracketed exposure strategy for hdr panoramas",
+      "label": "bracketed exposure strategy for HDR panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-bubble-level-7f57c23b": {
+      "topic_id": "topic-bubble-level-7f57c23b",
+      "canonical_key": "bubble level",
+      "label": "bubble level",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-calibration-of-panoramic-head-1a3e29be": {
+      "topic_id": "topic-calibration-of-panoramic-head-1a3e29be",
+      "canonical_key": "calibration of panoramic head",
+      "label": "Calibration of panoramic head",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-camera-and-lens-compatibility-a84bf949": {
+      "topic_id": "topic-camera-and-lens-compatibility-a84bf949",
+      "canonical_key": "camera and lens compatibility",
+      "label": "Camera and lens compatibility",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-comparing-masked-vs-unmasked-results-77196e62": {
+      "topic_id": "topic-comparing-masked-vs-unmasked-results-77196e62",
+      "canonical_key": "comparing masked vs unmasked results",
+      "label": "Comparing masked vs unmasked results",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-control-point-distance-metric-and-diagnostics-eea29dff": {
+      "topic_id": "topic-control-point-distance-metric-and-diagnostics-eea29dff",
+      "canonical_key": "control point distance metric and diagnostics",
+      "label": "Control point distance metric and diagnostics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-control-points-e32c4704": {
+      "topic_id": "topic-control-points-e32c4704",
+      "canonical_key": "control points",
+      "label": "control points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-control-points-and-image-alignment-across-bracke-73665f50": {
+      "topic_id": "topic-control-points-and-image-alignment-across-bracke-73665f50",
+      "canonical_key": "control points and image alignment across brackets",
+      "label": "control points and image alignment across brackets",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-control-points-basics-ccef68cf": {
+      "topic_id": "topic-control-points-basics-ccef68cf",
+      "canonical_key": "control points basics",
+      "label": "Control points basics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-control-points-generator-workflow-367c6672": {
+      "topic_id": "topic-control-points-generator-workflow-367c6672",
+      "canonical_key": "control points generator workflow",
+      "label": "Control Points Generator workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-control-points-tab-d90c7404": {
+      "topic_id": "topic-control-points-tab-d90c7404",
+      "canonical_key": "control points tab",
+      "label": "control points tab",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-control-points-table-usage-edcea96c": {
+      "topic_id": "topic-control-points-table-usage-edcea96c",
+      "canonical_key": "control points table usage",
+      "label": "Control Points Table usage",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-copy-mask-and-paste-mask-across-images-e3d0f3e0": {
+      "topic_id": "topic-copy-mask-and-paste-mask-across-images-e3d0f3e0",
+      "canonical_key": "copy mask and paste mask across images",
+      "label": "Copy Mask and Paste Mask across images",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-counterexample-cologne-cathedral-top-6dd67092": {
+      "topic_id": "topic-counterexample-cologne-cathedral-top-6dd67092",
+      "canonical_key": "counterexample: cologne cathedral top",
+      "label": "Counterexample: Cologne Cathedral top",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-create-panorama-export-e76f0369": {
+      "topic_id": "topic-create-panorama-export-e76f0369",
+      "canonical_key": "create panorama export",
+      "label": "Create Panorama export",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-create-panorama-tab-100-size-optimization-possib-97d465c7": {
+      "topic_id": "topic-create-panorama-tab-100-size-optimization-possib-97d465c7",
+      "canonical_key": "create panorama tab: 100% size optimization, possible magnified outputs",
+      "label": "Create Panorama tab: 100% size optimization, possible magnified outputs",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cropping-circle-and-full-frame-circular-fisheye--4d3bd053": {
+      "topic_id": "topic-cropping-circle-and-full-frame-circular-fisheye--4d3bd053",
+      "canonical_key": "cropping circle and full-frame circular fisheye considerations",
+      "label": "Cropping circle and full-frame circular fisheye considerations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cross-platform-mac-and-windows-78754895": {
+      "topic_id": "topic-cross-platform-mac-and-windows-78754895",
+      "canonical_key": "cross-platform (mac and windows)",
+      "label": "Cross-platform (Mac and Windows)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-d-ghosting-considerations-for-hdr-in-ptgui-77ce71c6": {
+      "topic_id": "topic-d-ghosting-considerations-for-hdr-in-ptgui-77ce71c6",
+      "canonical_key": "d-ghosting considerations for hdr in ptgui",
+      "label": "D-ghosting considerations for HDR in PTGui",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-default-interpolator-and-other-rendering-options-55bd8e2a": {
+      "topic_id": "topic-default-interpolator-and-other-rendering-options-55bd8e2a",
+      "canonical_key": "default interpolator and other rendering options in ptgui",
+      "label": "default interpolator and other rendering options in PTGui",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-delete-worst-control-points-feature-208b21dc": {
+      "topic_id": "topic-delete-worst-control-points-feature-208b21dc",
+      "canonical_key": "delete worst control points feature",
+      "label": "Delete Worst Control Points feature",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-detail-viewer-8826a364": {
+      "topic_id": "topic-detail-viewer-8826a364",
+      "canonical_key": "detail viewer",
+      "label": "Detail Viewer",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-detail-viewer-controls-in-ptgui-054577f0": {
+      "topic_id": "topic-detail-viewer-controls-in-ptgui-054577f0",
+      "canonical_key": "detail viewer controls in ptgui",
+      "label": "Detail Viewer controls in PTGui",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-detail-viewer-for-high-resolution-inspection-cd26fdee": {
+      "topic_id": "topic-detail-viewer-for-high-resolution-inspection-cd26fdee",
+      "canonical_key": "detail viewer for high-resolution inspection",
+      "label": "Detail Viewer for high-resolution inspection",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-display-brightness-and-tone-mapping-not-applied--859c7dda": {
+      "topic_id": "topic-display-brightness-and-tone-mapping-not-applied--859c7dda",
+      "canonical_key": "display brightness and tone mapping (not applied in this tutorial)",
+      "label": "Display brightness and tone mapping (not applied in this tutorial)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-distortion-compensation-based-on-lens-sensor-0ec7ea27": {
+      "topic_id": "topic-distortion-compensation-based-on-lens-sensor-0ec7ea27",
+      "canonical_key": "distortion compensation based on lens/sensor",
+      "label": "Distortion compensation based on lens/sensor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-edge-wrapping-and-seams-1a3bb621": {
+      "topic_id": "topic-edge-wrapping-and-seams-1a3bb621",
+      "canonical_key": "edge wrapping and seams",
+      "label": "edge wrapping and seams",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-edit-mask-workflow-4d4b489b": {
+      "topic_id": "topic-edit-mask-workflow-4d4b489b",
+      "canonical_key": "edit mask workflow",
+      "label": "Edit Mask workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-equirectangular-projection-9c85e2c0": {
+      "topic_id": "topic-equirectangular-projection-9c85e2c0",
+      "canonical_key": "equirectangular projection",
+      "label": "equirectangular projection",
+      "aliases": [],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-exif-data-use-for-lens-and-image-circle-ba30ab75": {
+      "topic_id": "topic-exif-data-use-for-lens-and-image-circle-ba30ab75",
+      "canonical_key": "exif data use for lens and image circle",
+      "label": "EXIF data use for lens and image circle",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-exif-based-camera-lens-inference-full-frame-sens-cac7495f": {
+      "topic_id": "topic-exif-based-camera-lens-inference-full-frame-sens-cac7495f",
+      "canonical_key": "exif-based camera/lens inference (full-frame sensor, 24mm lens)",
+      "label": "EXIF-based camera/lens inference (full-frame sensor, 24mm lens)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-export-options-full-panorama-individual-layers-b-19b684c4": {
+      "topic_id": "topic-export-options-full-panorama-individual-layers-b-19b684c4",
+      "canonical_key": "export options: full panorama, individual layers, blend planes",
+      "label": "export options: full panorama, individual layers, blend planes",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-exposure-offset-e300cb8c": {
+      "topic_id": "topic-exposure-offset-e300cb8c",
+      "canonical_key": "exposure offset",
+      "label": "exposure offset",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-field-of-view-controls-vertical-and-horizontal-a-dffae1bd": {
+      "topic_id": "topic-field-of-view-controls-vertical-and-horizontal-a-dffae1bd",
+      "canonical_key": "field of view controls (vertical and horizontal) and grid for manual levelling",
+      "label": "Field of view controls (vertical and horizontal) and grid for manual levelling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-flat-approximately-flat-area-requirement-68a7ea37": {
+      "topic_id": "topic-flat-approximately-flat-area-requirement-68a7ea37",
+      "canonical_key": "flat/approximately flat area requirement",
+      "label": "Flat/approximately flat area requirement",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-floor-only-mapping-for-seamless-joins-3f9274d5": {
+      "topic_id": "topic-floor-only-mapping-for-seamless-joins-3f9274d5",
+      "canonical_key": "floor-only mapping for seamless joins",
+      "label": "Floor-only mapping for seamless joins",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-four-image-tunnel-setup-for-360-panorama-b19f852d": {
+      "topic_id": "topic-four-image-tunnel-setup-for-360-panorama-b19f852d",
+      "canonical_key": "four-image tunnel setup for 360 panorama",
+      "label": "Four-image tunnel setup for 360 panorama",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-gap-filling-in-panoramas-175d9560": {
+      "topic_id": "topic-gap-filling-in-panoramas-175d9560",
+      "canonical_key": "gap filling in panoramas",
+      "label": "gap filling in panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-generate-control-points-here-area-based-generati-76af7509": {
+      "topic_id": "topic-generate-control-points-here-area-based-generati-76af7509",
+      "canonical_key": "generate control points here (area-based generation)",
+      "label": "Generate Control Points Here (area-based generation)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-generating-control-points-only-between-two-selec-67b9e440": {
+      "topic_id": "topic-generating-control-points-only-between-two-selec-67b9e440",
+      "canonical_key": "generating control points only between two selected images",
+      "label": "Generating control points only between two selected images",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-generative-ai-patching-in-ptgui-workflow-f95ae607": {
+      "topic_id": "topic-generative-ai-patching-in-ptgui-workflow-f95ae607",
+      "canonical_key": "generative ai patching in ptgui workflow",
+      "label": "generative AI patching in PTGui workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-gigapixel-panoramas-and-gpu-acceleration-85959400": {
+      "topic_id": "topic-gigapixel-panoramas-and-gpu-acceleration-85959400",
+      "canonical_key": "gigapixel panoramas and gpu acceleration",
+      "label": "Gigapixel panoramas and GPU acceleration",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-global-vs-local-photo-edits-7cfa5ed0": {
+      "topic_id": "topic-global-vs-local-photo-edits-7cfa5ed0",
+      "canonical_key": "global vs local photo edits",
+      "label": "global vs local photo edits",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-green-patch-mask-for-proper-blending-0f67d9d2": {
+      "topic_id": "topic-green-patch-mask-for-proper-blending-0f67d9d2",
+      "canonical_key": "green patch mask for proper blending",
+      "label": "green patch mask for proper blending",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-hdr-high-dynamic-range-fundamentals-19e37534": {
+      "topic_id": "topic-hdr-high-dynamic-range-fundamentals-19e37534",
+      "canonical_key": "hdr (high dynamic range) fundamentals",
+      "label": "HDR (high dynamic range) fundamentals",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-hdr-bracketing-as-an-advanced-topic-869c60a8": {
+      "topic_id": "topic-hdr-bracketing-as-an-advanced-topic-869c60a8",
+      "canonical_key": "hdr bracketing as an advanced topic",
+      "label": "HDR bracketing as an advanced topic",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-horizon-as-exception-08b9a7c6": {
+      "topic_id": "topic-horizon-as-exception-08b9a7c6",
+      "canonical_key": "horizon as exception",
+      "label": "horizon as exception",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-horizontal-line-control-points-89c4bd47": {
+      "topic_id": "topic-horizontal-line-control-points-89c4bd47",
+      "canonical_key": "horizontal line control points",
+      "label": "horizontal line control points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-identifying-and-deleting-mispoints-25a85eb8": {
+      "topic_id": "topic-identifying-and-deleting-mispoints-25a85eb8",
+      "canonical_key": "identifying and deleting mispoints",
+      "label": "Identifying and deleting mispoints",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-image-layout-determination-503402be": {
+      "topic_id": "topic-image-layout-determination-503402be",
+      "canonical_key": "image layout determination",
+      "label": "Image layout determination",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-image-overlap-10-20-90bc0fba": {
+      "topic_id": "topic-image-overlap-10-20-90bc0fba",
+      "canonical_key": "image overlap (10–20%)",
+      "label": "Image overlap (10–20%)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-image-parameters-tab-b86fd5ce": {
+      "topic_id": "topic-image-parameters-tab-b86fd5ce",
+      "canonical_key": "image parameters tab",
+      "label": "Image Parameters tab",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-images-capture-precedes-stitching-03467ffb": {
+      "topic_id": "topic-images-capture-precedes-stitching-03467ffb",
+      "canonical_key": "images capture precedes stitching",
+      "label": "Images capture precedes stitching",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-importing-images-via-drag-and-drop-using-exif-da-890355f3": {
+      "topic_id": "topic-importing-images-via-drag-and-drop-using-exif-da-890355f3",
+      "canonical_key": "importing images via drag-and-drop using exif data",
+      "label": "Importing images via drag-and-drop using EXIF data",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-included-images-list-and-how-deselecting-images--9b756227": {
+      "topic_id": "topic-included-images-list-and-how-deselecting-images--9b756227",
+      "canonical_key": "included images list and how deselecting images excludes them from the panorama",
+      "label": "Included images list and how deselecting images excludes them from the panorama",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-jpeg-and-tiff-formats-82928dd4": {
+      "topic_id": "topic-jpeg-and-tiff-formats-82928dd4",
+      "canonical_key": "jpeg and tiff formats",
+      "label": "JPEG and TIFF formats",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-keyboard-shortcuts-for-masking-r-g-e-f-d-cmd-ctr-485550c0": {
+      "topic_id": "topic-keyboard-shortcuts-for-masking-r-g-e-f-d-cmd-ctr-485550c0",
+      "canonical_key": "keyboard shortcuts for masking: r, g, e, f, d, cmd/ctrl, alt, k, l",
+      "label": "Keyboard shortcuts for masking: R, G, E, F, D, Cmd/Ctrl, Alt, K, L",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-keyboard-shortcuts-ctrl-e-cmd-e-to-open-panorama-b1f66128": {
+      "topic_id": "topic-keyboard-shortcuts-ctrl-e-cmd-e-to-open-panorama-b1f66128",
+      "canonical_key": "keyboard shortcuts: ctrl+e / cmd+e to open panorama editor",
+      "label": "Keyboard shortcuts: Ctrl+E / Cmd+E to open Panorama Editor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-left-right-edge-continuity-0cdc02b4": {
+      "topic_id": "topic-left-right-edge-continuity-0cdc02b4",
+      "canonical_key": "left/right edge continuity",
+      "label": "left/right edge continuity",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-lens-distortion-handling-by-ptgui-18e73da1": {
+      "topic_id": "topic-lens-distortion-handling-by-ptgui-18e73da1",
+      "canonical_key": "lens distortion handling by ptgui",
+      "label": "Lens distortion handling by PTGui",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-leveling-the-panorama-2fbc1a8f": {
+      "topic_id": "topic-leveling-the-panorama-2fbc1a8f",
+      "canonical_key": "leveling the panorama",
+      "label": "leveling the panorama",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-levelling-c879c12a": {
+      "topic_id": "topic-levelling-c879c12a",
+      "canonical_key": "levelling",
+      "label": "levelling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-levelling-by-right-click-and-drag-undo-with-ctrl-24395a31": {
+      "topic_id": "topic-levelling-by-right-click-and-drag-undo-with-ctrl-24395a31",
+      "canonical_key": "levelling by right-click and drag; undo with ctrl+z",
+      "label": "Levelling by right-click and drag; undo with Ctrl+Z",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-levels-vs-clarity-shadow-filters-3e8844e8": {
+      "topic_id": "topic-levels-vs-clarity-shadow-filters-3e8844e8",
+      "canonical_key": "levels vs clarity/shadow filters",
+      "label": "levels vs clarity/shadow filters",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linking-bracketed-exposures-in-ptgui-to-fix-yaw--ff0be8ab": {
+      "topic_id": "topic-linking-bracketed-exposures-in-ptgui-to-fix-yaw--ff0be8ab",
+      "canonical_key": "linking bracketed exposures in ptgui to fix yaw/pitch/roll",
+      "label": "linking bracketed exposures in PTGui to fix yaw/pitch/roll",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linking-unlinking-image-panels-ae468358": {
+      "topic_id": "topic-linking-unlinking-image-panels-ae468358",
+      "canonical_key": "linking/unlinking image panels",
+      "label": "Linking/unlinking image panels",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-little-planet-projection-44c56438": {
+      "topic_id": "topic-little-planet-projection-44c56438",
+      "canonical_key": "little planet projection",
+      "label": "Little Planet projection",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-m-mode-bracketing-and-automatic-exposure-control-fa0e193d": {
+      "topic_id": "topic-m-mode-bracketing-and-automatic-exposure-control-fa0e193d",
+      "canonical_key": "m-mode bracketing and automatic exposure control",
+      "label": "M-mode bracketing and automatic exposure control",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-magnifier-customization-in-control-points-editor-fe93224f": {
+      "topic_id": "topic-magnifier-customization-in-control-points-editor-fe93224f",
+      "canonical_key": "magnifier customization in control points editor",
+      "label": "Magnifier customization in Control Points Editor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-manual-adjustment-of-control-points-mouse-arrow--535a1e6d": {
+      "topic_id": "topic-manual-adjustment-of-control-points-mouse-arrow--535a1e6d",
+      "canonical_key": "manual adjustment of control points (mouse/arrow keys)",
+      "label": "Manual adjustment of control points (mouse/arrow keys)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-manual-shooting-mode-and-consistency-8a6bef85": {
+      "topic_id": "topic-manual-shooting-mode-and-consistency-8a6bef85",
+      "canonical_key": "manual shooting mode and consistency",
+      "label": "Manual shooting mode and consistency",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-mask-painting-red-green-erase-5abdd25b": {
+      "topic_id": "topic-mask-painting-red-green-erase-5abdd25b",
+      "canonical_key": "mask painting: red/green/erase",
+      "label": "Mask painting: red/green/erase",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-mask-tab-interface-285e4575": {
+      "topic_id": "topic-mask-tab-interface-285e4575",
+      "canonical_key": "mask tab interface",
+      "label": "Mask tab interface",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-mask-tools-fill-and-polygon-drawing-8acd53e4": {
+      "topic_id": "topic-mask-tools-fill-and-polygon-drawing-8acd53e4",
+      "canonical_key": "mask tools: fill and polygon drawing",
+      "label": "Mask tools: fill and polygon drawing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-masking-effect-on-control-point-generation-f13c959d": {
+      "topic_id": "topic-masking-effect-on-control-point-generation-f13c959d",
+      "canonical_key": "masking effect on control point generation",
+      "label": "Masking effect on control point generation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-masking-non-ground-areas-a2090efb": {
+      "topic_id": "topic-masking-non-ground-areas-a2090efb",
+      "canonical_key": "masking non-ground areas",
+      "label": "Masking non-ground areas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-masking-stationary-scene-elements-logo-tripod-ac-81ff3814": {
+      "topic_id": "topic-masking-stationary-scene-elements-logo-tripod-ac-81ff3814",
+      "canonical_key": "masking stationary scene elements (logo, tripod) across images",
+      "label": "Masking stationary scene elements (logo, tripod) across images",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-masking-to-influence-control-point-generation-139cc778": {
+      "topic_id": "topic-masking-to-influence-control-point-generation-139cc778",
+      "canonical_key": "masking to influence control point generation",
+      "label": "Masking to influence control point generation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-monopod-impact-on-level-1dc5a417": {
+      "topic_id": "topic-monopod-impact-on-level-1dc5a417",
+      "canonical_key": "monopod impact on level",
+      "label": "monopod impact on level",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-multi-select-editing-6251ed3d": {
+      "topic_id": "topic-multi-select-editing-6251ed3d",
+      "canonical_key": "multi-select editing",
+      "label": "multi-select editing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-nadir-426a3d96": {
+      "topic_id": "topic-nadir-426a3d96",
+      "canonical_key": "nadir",
+      "label": "nadir",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-nadir-and-zenith-patching-in-spherical-panoramas-d0ca7f7a": {
+      "topic_id": "topic-nadir-and-zenith-patching-in-spherical-panoramas-d0ca7f7a",
+      "canonical_key": "nadir and zenith patching in spherical panoramas",
+      "label": "nadir and zenith patching in spherical panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-no-parallax-point-concept-b9130f8a": {
+      "topic_id": "topic-no-parallax-point-concept-b9130f8a",
+      "canonical_key": "no-parallax point concept",
+      "label": "No-parallax point concept",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-nodal-no-parallax-point-concept-e7811c21": {
+      "topic_id": "topic-nodal-no-parallax-point-concept-e7811c21",
+      "canonical_key": "nodal/no-parallax point concept",
+      "label": "Nodal/no-parallax point concept",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-normal-vs-line-type-control-points-e7c70258": {
+      "topic_id": "topic-normal-vs-line-type-control-points-e7c70258",
+      "canonical_key": "normal vs. line-type control points",
+      "label": "Normal vs. line-type control points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-numerical-transform-for-precise-pan-tilt-shifts-308dd665": {
+      "topic_id": "topic-numerical-transform-for-precise-pan-tilt-shifts-308dd665",
+      "canonical_key": "numerical transform for precise pan/tilt shifts",
+      "label": "Numerical Transform for precise pan/tilt shifts",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-offset-viewpoints-and-panoramic-tripod-head-f9425ffd": {
+      "topic_id": "topic-offset-viewpoints-and-panoramic-tripod-head-f9425ffd",
+      "canonical_key": "offset viewpoints and panoramic tripod head",
+      "label": "Offset viewpoints and panoramic tripod head",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-optimization-of-panorama-from-control-points-67eeed61": {
+      "topic_id": "topic-optimization-of-panorama-from-control-points-67eeed61",
+      "canonical_key": "optimization of panorama from control points",
+      "label": "Optimization of panorama from control points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-optimizer-23732d00": {
+      "topic_id": "topic-optimizer-23732d00",
+      "canonical_key": "optimizer",
+      "label": "optimizer",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-optimizer-tab-7d806e45": {
+      "topic_id": "topic-optimizer-tab-7d806e45",
+      "canonical_key": "optimizer tab",
+      "label": "Optimizer tab",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-output-formats-32-bit-panoramas-openexr-radiance-9f9fff5e": {
+      "topic_id": "topic-output-formats-32-bit-panoramas-openexr-radiance-9f9fff5e",
+      "canonical_key": "output formats: 32-bit panoramas, openexr, radiance; ldr outputs",
+      "label": "output formats: 32-bit panoramas, OpenEXR, Radiance; LDR outputs",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-output-formats-jpeg-vs-photoshop-with-layers-ps--792b4e18": {
+      "topic_id": "topic-output-formats-jpeg-vs-photoshop-with-layers-ps--792b4e18",
+      "canonical_key": "output formats: jpeg vs photoshop with layers (ps format preserves layers)",
+      "label": "Output formats: JPEG vs Photoshop with layers (PS format preserves layers)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-output-projections-and-file-types-ad1aeba7": {
+      "topic_id": "topic-output-projections-and-file-types-ad1aeba7",
+      "canonical_key": "output projections and file types",
+      "label": "Output projections and file types",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-overall-hdr-vs-non-hdr-post-processing-strategie-13e46123": {
+      "topic_id": "topic-overall-hdr-vs-non-hdr-post-processing-strategie-13e46123",
+      "canonical_key": "overall hdr vs non-hdr post-processing strategies in panoramic photography",
+      "label": "overall HDR vs non-HDR post-processing strategies in panoramic photography",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-panorama-editor-bb53676d": {
+      "topic_id": "topic-panorama-editor-bb53676d",
+      "canonical_key": "panorama editor",
+      "label": "Panorama Editor",
+      "aliases": [],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-panorama-editor-edit-panorama-vs-edit-panorama-m-5af93ce7": {
+      "topic_id": "topic-panorama-editor-edit-panorama-vs-edit-panorama-m-5af93ce7",
+      "canonical_key": "panorama editor: edit panorama vs edit panorama modes",
+      "label": "Panorama Editor: Edit Panorama vs Edit Panorama modes",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-panorama-tools-gui-origin-d81539b5": {
+      "topic_id": "topic-panorama-tools-gui-origin-d81539b5",
+      "canonical_key": "panorama tools gui origin",
+      "label": "Panorama Tools GUI origin",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-panoramic-tripod-head-vs-regular-head-7fd07917": {
+      "topic_id": "topic-panoramic-tripod-head-vs-regular-head-7fd07917",
+      "canonical_key": "panoramic tripod head vs regular head",
+      "label": "Panoramic tripod head vs regular head",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-parallax-as-a-key-challenge-01ffceed": {
+      "topic_id": "topic-parallax-as-a-key-challenge-01ffceed",
+      "canonical_key": "parallax as a key challenge",
+      "label": "Parallax as a key challenge",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-patch-editor-cut-mode-vs-patch-mode-7225e09f": {
+      "topic_id": "topic-patch-editor-cut-mode-vs-patch-mode-7225e09f",
+      "canonical_key": "patch editor cut mode vs patch mode",
+      "label": "Patch Editor Cut mode vs Patch mode",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-patch-image-formats-tiff-jpeg-2000-openexr-24a2aa98": {
+      "topic_id": "topic-patch-image-formats-tiff-jpeg-2000-openexr-24a2aa98",
+      "canonical_key": "patch image formats: tiff, jpeg 2000, openexr",
+      "label": "patch image formats: TIFF, JPEG 2000, OpenEXR",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-patch-image-storage-beside-project-file-b06a6263": {
+      "topic_id": "topic-patch-image-storage-beside-project-file-b06a6263",
+      "canonical_key": "patch image storage beside project file",
+      "label": "patch image storage beside project file",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-patch-tool-in-ptgui-pro-39c5e399": {
+      "topic_id": "topic-patch-tool-in-ptgui-pro-39c5e399",
+      "canonical_key": "patch tool in ptgui pro",
+      "label": "Patch Tool in PTGui Pro",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-photoshop-handling-of-32-bit-hdr-panoramas-and-e-9b8edfc7": {
+      "topic_id": "topic-photoshop-handling-of-32-bit-hdr-panoramas-and-e-9b8edfc7",
+      "canonical_key": "photoshop handling of 32-bit hdr panoramas and exposure slider",
+      "label": "Photoshop handling of 32-bit HDR panoramas and exposure slider",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-photoshop-integration-with-ptgui-patch-tool-09e14915": {
+      "topic_id": "topic-photoshop-integration-with-ptgui-patch-tool-09e14915",
+      "canonical_key": "photoshop integration with ptgui patch tool",
+      "label": "Photoshop integration with PTGui Patch Tool",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-pitch-4502846f": {
+      "topic_id": "topic-pitch-4502846f",
+      "canonical_key": "pitch",
+      "label": "pitch",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-pitch-yaw-roll-adjustments-cd70156c": {
+      "topic_id": "topic-pitch-yaw-roll-adjustments-cd70156c",
+      "canonical_key": "pitch/yaw/roll adjustments",
+      "label": "pitch/yaw/roll adjustments",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-positional-parameters-7ebaa80b": {
+      "topic_id": "topic-positional-parameters-7ebaa80b",
+      "canonical_key": "positional parameters",
+      "label": "positional parameters",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-practical-masking-tips-mask-before-generating-cp-3b6315e4": {
+      "topic_id": "topic-practical-masking-tips-mask-before-generating-cp-3b6315e4",
+      "canonical_key": "practical masking tips (mask before generating cps)",
+      "label": "Practical masking tips (mask before generating CPs)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-practical-tips-tripod-head-calibration-and-seam--0f6e02f0": {
+      "topic_id": "topic-practical-tips-tripod-head-calibration-and-seam--0f6e02f0",
+      "canonical_key": "practical tips: tripod head calibration and seam minimization",
+      "label": "Practical tips: tripod head calibration and seam minimization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-presentation-web-viewer-for-spherical-images-06e7e6d5": {
+      "topic_id": "topic-presentation-web-viewer-for-spherical-images-06e7e6d5",
+      "canonical_key": "presentation/web viewer for spherical images",
+      "label": "Presentation/web viewer for spherical images",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-preview-tool-1968e204": {
+      "topic_id": "topic-preview-tool-1968e204",
+      "canonical_key": "preview tool",
+      "label": "Preview tool",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-pro-edition-ui-features-and-limitations-6cacc4f8": {
+      "topic_id": "topic-pro-edition-ui-features-and-limitations-6cacc4f8",
+      "canonical_key": "pro edition ui features and limitations",
+      "label": "Pro edition UI features and limitations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-project-optimization-1d115f5a": {
+      "topic_id": "topic-project-optimization-1d115f5a",
+      "canonical_key": "project optimization",
+      "label": "project optimization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-projection-options-cylindrical-equirectangular-f-e1ebb95f": {
+      "topic_id": "topic-projection-options-cylindrical-equirectangular-f-e1ebb95f",
+      "canonical_key": "projection options: cylindrical, equirectangular, fisheye, straight",
+      "label": "Projection options: cylindrical, equirectangular, fisheye, straight",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-projection-selection-for-partial-panoramas-8edc7c40": {
+      "topic_id": "topic-projection-selection-for-partial-panoramas-8edc7c40",
+      "canonical_key": "projection selection for partial panoramas",
+      "label": "projection selection for partial panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-background-56b198fa": {
+      "topic_id": "topic-ptgui-background-56b198fa",
+      "canonical_key": "ptgui background",
+      "label": "PTGui background",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-built-in-blender-and-stitcher-ca7b4618": {
+      "topic_id": "topic-ptgui-built-in-blender-and-stitcher-ca7b4618",
+      "canonical_key": "ptgui built-in blender and stitcher",
+      "label": "PTGui built-in blender and stitcher",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-hdr-tone-mapping-controls-and-adjustments-50d5d203": {
+      "topic_id": "topic-ptgui-hdr-tone-mapping-controls-and-adjustments-50d5d203",
+      "canonical_key": "ptgui hdr tone-mapping controls and adjustments",
+      "label": "PTGui HDR tone-mapping controls and adjustments",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-hdr-workflow-merge-planes-before-tone-mapp-9cefba4f": {
+      "topic_id": "topic-ptgui-hdr-workflow-merge-planes-before-tone-mapp-9cefba4f",
+      "canonical_key": "ptgui hdr workflow: merge planes before tone-mapping",
+      "label": "PTGui HDR workflow: merge planes before tone-mapping",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-pro-masking-feature-f1346cbb": {
+      "topic_id": "topic-ptgui-pro-masking-feature-f1346cbb",
+      "canonical_key": "ptgui pro masking feature",
+      "label": "PTGui Pro masking feature",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-pro-patch-editor-ebcb3e25": {
+      "topic_id": "topic-ptgui-pro-patch-editor-ebcb3e25",
+      "canonical_key": "ptgui pro patch editor",
+      "label": "PTGui Pro Patch Editor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-pro-requirement-for-viewpoint-correction-554c5001": {
+      "topic_id": "topic-ptgui-pro-requirement-for-viewpoint-correction-554c5001",
+      "canonical_key": "ptgui pro requirement for viewpoint correction",
+      "label": "PTGui Pro requirement for Viewpoint Correction",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-ui-left-side-tab-layout-and-help-texts-f4da5ece": {
+      "topic_id": "topic-ptgui-ui-left-side-tab-layout-and-help-texts-f4da5ece",
+      "canonical_key": "ptgui ui: left-side tab layout and help texts",
+      "label": "PTGui UI: left-side tab layout and help texts",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-viewer-5c078819": {
+      "topic_id": "topic-ptgui-viewer-5c078819",
+      "canonical_key": "ptgui viewer",
+      "label": "PTGui Viewer",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ptgui-vs-ptgui-pro-feature-differences-viewpoint-c8d2ff62": {
+      "topic_id": "topic-ptgui-vs-ptgui-pro-feature-differences-viewpoint-c8d2ff62",
+      "canonical_key": "ptgui vs ptgui pro feature differences (viewpoint correction, exposure/vignetting/white balance correction, masking, hdr, tone mapping, batch stitching)",
+      "label": "PTGui vs PTGui Pro feature differences (viewpoint correction, exposure/vignetting/white balance correction, masking, HDR, tone mapping, batch stitching)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-publish-to-website-974131c2": {
+      "topic_id": "topic-publish-to-website-974131c2",
+      "canonical_key": "publish to website",
+      "label": "Publish to Website",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-raw-vs-jpeg-for-stitching-quality-062c8de9": {
+      "topic_id": "topic-raw-vs-jpeg-for-stitching-quality-062c8de9",
+      "canonical_key": "raw vs jpeg for stitching quality",
+      "label": "RAW vs JPEG for stitching quality",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rectangular-area-selection-with-shift-drag-for-g-8c404f74": {
+      "topic_id": "topic-rectangular-area-selection-with-shift-drag-for-g-8c404f74",
+      "canonical_key": "rectangular area selection with shift-drag for grouping points",
+      "label": "Rectangular area selection with SHIFT-drag for grouping points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-removing-objects-tripods-from-panoramas-306a726b": {
+      "topic_id": "topic-removing-objects-tripods-from-panoramas-306a726b",
+      "canonical_key": "removing objects (tripods) from panoramas",
+      "label": "removing objects (tripods) from panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-roll-acfe1fec": {
+      "topic_id": "topic-roll-acfe1fec",
+      "canonical_key": "roll",
+      "label": "roll",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rotating-around-the-lens-front-vs-camera-body-e49efc6b": {
+      "topic_id": "topic-rotating-around-the-lens-front-vs-camera-body-e49efc6b",
+      "canonical_key": "rotating around the lens front vs camera body",
+      "label": "Rotating around the lens front vs camera body",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-saving-and-loading-masks-c7ae397e": {
+      "topic_id": "topic-saving-and-loading-masks-c7ae397e",
+      "canonical_key": "saving and loading masks",
+      "label": "Saving and loading masks",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-seam-blending-and-red-seam-visualization-f176f2ea": {
+      "topic_id": "topic-seam-blending-and-red-seam-visualization-f176f2ea",
+      "canonical_key": "seam blending and red seam visualization",
+      "label": "seam blending and red seam visualization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-seam-refinement-without-photoshop-0d930870": {
+      "topic_id": "topic-seam-refinement-without-photoshop-0d930870",
+      "canonical_key": "seam refinement without photoshop",
+      "label": "seam refinement without Photoshop",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-seam-visualization-seams-shown-as-red-lines-1f5ea768": {
+      "topic_id": "topic-seam-visualization-seams-shown-as-red-lines-1f5ea768",
+      "canonical_key": "seam visualization (seams shown as red lines)",
+      "label": "Seam visualization (seams shown as red lines)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-shadow-highlight-adjustments-and-banding-risk-49901341": {
+      "topic_id": "topic-shadow-highlight-adjustments-and-banding-risk-49901341",
+      "canonical_key": "shadow/highlight adjustments and banding risk",
+      "label": "Shadow/highlight adjustments and banding risk",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-show-seams-mode-97270a66": {
+      "topic_id": "topic-show-seams-mode-97270a66",
+      "canonical_key": "show seams mode",
+      "label": "Show Seams mode",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-single-image-mode-vs-double-image-mode-06d79824": {
+      "topic_id": "topic-single-image-mode-vs-double-image-mode-06d79824",
+      "canonical_key": "single image mode vs double image mode",
+      "label": "Single image mode vs double image mode",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-snapshot-panel-overview-058b44cd": {
+      "topic_id": "topic-snapshot-panel-overview-058b44cd",
+      "canonical_key": "snapshot panel overview",
+      "label": "Snapshot panel overview",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-source-images-tab-mask-operations-0e0b2610": {
+      "topic_id": "topic-source-images-tab-mask-operations-0e0b2610",
+      "canonical_key": "source images tab mask operations",
+      "label": "Source Images tab mask operations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-spherical-panorama-f5939a62": {
+      "topic_id": "topic-spherical-panorama-f5939a62",
+      "canonical_key": "spherical panorama",
+      "label": "spherical panorama",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-staying-near-the-no-parallax-point-for-better-au-18054490": {
+      "topic_id": "topic-staying-near-the-no-parallax-point-for-better-au-18054490",
+      "canonical_key": "staying near the no-parallax point for better automatic cp generation",
+      "label": "Staying near the no-parallax point for better automatic CP generation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-stitching-as-the-core-capability-b096664a": {
+      "topic_id": "topic-stitching-as-the-core-capability-b096664a",
+      "canonical_key": "stitching as the core capability",
+      "label": "Stitching as the core capability",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-stitching-dark-medium-light-exposure-planes-as-s-d9e4a946": {
+      "topic_id": "topic-stitching-dark-medium-light-exposure-planes-as-s-d9e4a946",
+      "canonical_key": "stitching dark/medium/light exposure planes as separate panoramas",
+      "label": "stitching dark/medium/light exposure planes as separate panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-straighten-panorama-f52a172c": {
+      "topic_id": "topic-straighten-panorama-f52a172c",
+      "canonical_key": "straighten panorama",
+      "label": "straighten panorama",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-three-step-panorama-workflow-b163e640": {
+      "topic_id": "topic-three-step-panorama-workflow-b163e640",
+      "canonical_key": "three-step panorama workflow",
+      "label": "Three-step panorama workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-tone-mapping-in-ptgui-c01b59d5": {
+      "topic_id": "topic-tone-mapping-in-ptgui-c01b59d5",
+      "canonical_key": "tone mapping in ptgui",
+      "label": "tone mapping in PTGui",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-tools-menu-reveal-panorama-editor-and-control-po-2e4b5ed6": {
+      "topic_id": "topic-tools-menu-reveal-panorama-editor-and-control-po-2e4b5ed6",
+      "canonical_key": "tools menu: reveal panorama editor and control points table",
+      "label": "Tools menu: reveal Panorama Editor and Control Points Table",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-top-and-bottom-edge-points-268bceff": {
+      "topic_id": "topic-top-and-bottom-edge-points-268bceff",
+      "canonical_key": "top and bottom edge points",
+      "label": "top and bottom edge points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-top-bottom-edge-editing-cautions-e86bd8a3": {
+      "topic_id": "topic-top-bottom-edge-editing-cautions-e86bd8a3",
+      "canonical_key": "top/bottom edge editing cautions",
+      "label": "top/bottom edge editing cautions",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-tripod-use-static-scene-and-vibration-free-captu-368a2c54": {
+      "topic_id": "topic-tripod-use-static-scene-and-vibration-free-captu-368a2c54",
+      "canonical_key": "tripod use, static scene, and vibration-free capture",
+      "label": "tripod use, static scene, and vibration-free capture",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-true-hdr-vs-exposure-fusion-workflows-in-ptgui-76f50715": {
+      "topic_id": "topic-true-hdr-vs-exposure-fusion-workflows-in-ptgui-76f50715",
+      "canonical_key": "true hdr vs exposure fusion workflows in ptgui",
+      "label": "true HDR vs exposure fusion workflows in PTGui",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-two-image-masking-cbb316d8": {
+      "topic_id": "topic-two-image-masking-cbb316d8",
+      "canonical_key": "two-image masking",
+      "label": "Two-image masking",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-unblended-vs-blended-visible-seams-in-panorama-9d547f90": {
+      "topic_id": "topic-unblended-vs-blended-visible-seams-in-panorama-9d547f90",
+      "canonical_key": "unblended vs blended/visible seams in panorama",
+      "label": "Unblended vs blended/visible seams in panorama",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-using-the-optimizer-to-assess-results-c564bcc4": {
+      "topic_id": "topic-using-the-optimizer-to-assess-results-c564bcc4",
+      "canonical_key": "using the optimizer to assess results",
+      "label": "Using the Optimizer to assess results",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vertex-editing-and-edge-handling-in-patch-editor-4d46c2ac": {
+      "topic_id": "topic-vertex-editing-and-edge-handling-in-patch-editor-4d46c2ac",
+      "canonical_key": "vertex editing and edge handling in patch editor",
+      "label": "vertex editing and edge handling in Patch Editor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vertical-line-control-points-9a74021c": {
+      "topic_id": "topic-vertical-line-control-points-9a74021c",
+      "canonical_key": "vertical line control points",
+      "label": "vertical line control points",
+      "aliases": [],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-viewpoint-correction-92d41331": {
+      "topic_id": "topic-viewpoint-correction-92d41331",
+      "canonical_key": "viewpoint correction",
+      "label": "Viewpoint Correction",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-viewpoint-correction-concept-2a36e1cc": {
+      "topic_id": "topic-viewpoint-correction-concept-2a36e1cc",
+      "canonical_key": "viewpoint correction concept",
+      "label": "Viewpoint Correction concept",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-workflow-pacing-quick-general-stitching-followed-86b2e984": {
+      "topic_id": "topic-workflow-pacing-quick-general-stitching-followed-86b2e984",
+      "canonical_key": "workflow pacing: quick general stitching followed by deeper editor exploration",
+      "label": "Workflow pacing: quick general stitching followed by deeper editor exploration",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-yaw-61e52bb1": {
+      "topic_id": "topic-yaw-61e52bb1",
+      "canonical_key": "yaw",
+      "label": "yaw",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-yellow-trimming-lines-to-crop-panoramas-b791842d": {
+      "topic_id": "topic-yellow-trimming-lines-to-crop-panoramas-b791842d",
+      "canonical_key": "yellow trimming lines to crop panoramas",
+      "label": "Yellow trimming lines to crop panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-zenith-nadir-brightness-considerations-in-hdr-pa-48cb9950": {
+      "topic_id": "topic-zenith-nadir-brightness-considerations-in-hdr-pa-48cb9950",
+      "canonical_key": "zenith/nadir brightness considerations in hdr panoramas",
+      "label": "zenith/nadir brightness considerations in HDR panoramas",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-zero-overlap-blender-for-seams-b0d4ea5f": {
+      "topic_id": "topic-zero-overlap-blender-for-seams-b0d4ea5f",
+      "canonical_key": "zero overlap blender for seams",
+      "label": "zero overlap blender for seams",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    }
+  },
+  "topic_families": {},
+  "items": {
+    "video-official-ptgui-tutorial-fjvhttuhp1s-youtube-67b6837b": {
+      "item_id": "video-official-ptgui-tutorial-fjvhttuhp1s-youtube-67b6837b",
+      "title": "Masking in PTGui Pro: painting, filling, and transferring masks across source images",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "fJVhttuhP1s",
+          "url": "https://www.youtube.com/watch?v=fJVhttuhP1s"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/fJVhttuhP1s.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui tutorial explains masking as a Pro-level feature that defines which pixels from source images participate in the final panorama. It demonstrates selecting two overlapped images, using Edit Mask to isolate a specific area (a logo) so it is either fully included or excluded, and viewing seam placement with Show Seams. The video then covers painting the mask with red (exclude), green (include), and erase, plus using the fill tool and polygon drawing to quick-fill regions. It shows how masking affects seam position, how to zoom and adjust pencil size, and how to link/unlink images for synchronized masking. Finally, it demonstrates transferring masks between images, copying and pasting masks across multiple images, and saving/loading mask files for reuse. The examples center on how masking can remove a logo from a panorama and how the same mask can be applied consistently across a set of images.",
+      "date": {
+        "display": "March 1, 2019",
+        "iso": "2019-03-01",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-ptgui-pro-masking-feature-f1346cbb",
+        "topic-mask-tab-interface-285e4575",
+        "topic-show-seams-mode-97270a66",
+        "topic-edit-mask-workflow-4d4b489b",
+        "topic-two-image-masking-cbb316d8",
+        "topic-single-image-mode-vs-double-image-mode-06d79824",
+        "topic-mask-painting-red-green-erase-5abdd25b",
+        "topic-mask-tools-fill-and-polygon-drawing-8acd53e4",
+        "topic-keyboard-shortcuts-for-masking-r-g-e-f-d-cmd-ctr-485550c0",
+        "topic-linking-unlinking-image-panels-ae468358",
+        "topic-copy-mask-and-paste-mask-across-images-e3d0f3e0",
+        "topic-source-images-tab-mask-operations-0e0b2610",
+        "topic-saving-and-loading-masks-c7ae397e",
+        "topic-masking-stationary-scene-elements-logo-tripod-ac-81ff3814"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-ptgui-pro-masking-feature-f1346cbb": [
+          0
+        ],
+        "topic-show-seams-mode-97270a66": [
+          0
+        ],
+        "topic-edit-mask-workflow-4d4b489b": [
+          1
+        ],
+        "topic-two-image-masking-cbb316d8": [
+          1
+        ],
+        "topic-single-image-mode-vs-double-image-mode-06d79824": [
+          2
+        ],
+        "topic-mask-painting-red-green-erase-5abdd25b": [
+          1,
+          2
+        ],
+        "topic-linking-unlinking-image-panels-ae468358": [
+          4
+        ],
+        "topic-copy-mask-and-paste-mask-across-images-e3d0f3e0": [
+          4
+        ],
+        "topic-saving-and-loading-masks-c7ae397e": [
+          4
+        ]
+      },
+      "chapter_count": 5
+    },
+    "video-official-ptgui-tutorial-gznuigozcvc-youtube-e66598d5": {
+      "item_id": "video-official-ptgui-tutorial-gznuigozcvc-youtube-e66598d5",
+      "title": "PTGui Patch Tool Tutorial: Patching nadir/zenith and object removal in PTGui Pro",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "gznuIgozCVc",
+          "url": "https://www.youtube.com/watch?v=gznuIgozCVc"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/gznuIgozCVc.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui Patch Tool tutorial demonstrates how to fill gaps and remove unwanted objects in spherical panoramas using PTGui Pro. It covers two patching workflows: editing patch images externally with Photoshop or AI tools and using PTGui Pro's integrated Patch Editor. The example panorama is a fisheye shot from Iceland’s Geysir area, used to show handling nadir/zenith gaps, tone mapping, and seamless blending. The video explains patch image formats (TIFF, JPEG 2000, OpenEXR, JPEG), where patch images are saved, and how patches are incorporated into the project as dedicated sources with masks. It then walks through both workflows—external editor patching followed by automatic project reload, and a fully PTGui-centric Patch Editor approach—highlighting cut versus patch modes, hole creation, dragging patches, vertex edits, and seam visualization to achieve seamless blending.",
+      "date": {
+        "display": "January 31, 2025",
+        "iso": "2025-01-31",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [
+        {
+          "name": "Geysir, Iceland",
+          "confidence": 0.9,
+          "basis": "Explicit in transcript: \"images were taken at the geyser in Iceland, at Geysir\""
+        }
+      ],
+      "topic_ids": [
+        "topic-patch-tool-in-ptgui-pro-39c5e399",
+        "topic-gap-filling-in-panoramas-175d9560",
+        "topic-removing-objects-tripods-from-panoramas-306a726b",
+        "topic-photoshop-integration-with-ptgui-patch-tool-09e14915",
+        "topic-generative-ai-patching-in-ptgui-workflow-f95ae607",
+        "topic-ptgui-pro-patch-editor-ebcb3e25",
+        "topic-nadir-and-zenith-patching-in-spherical-panoramas-d0ca7f7a",
+        "topic-tone-mapping-in-ptgui-c01b59d5",
+        "topic-detail-viewer-controls-in-ptgui-054577f0",
+        "topic-snapshot-panel-overview-058b44cd",
+        "topic-patch-image-formats-tiff-jpeg-2000-openexr-24a2aa98",
+        "topic-patch-image-storage-beside-project-file-b06a6263",
+        "topic-green-patch-mask-for-proper-blending-0f67d9d2",
+        "topic-seam-blending-and-red-seam-visualization-f176f2ea",
+        "topic-zero-overlap-blender-for-seams-b0d4ea5f",
+        "topic-patch-editor-cut-mode-vs-patch-mode-7225e09f",
+        "topic-adding-holes-and-patches-in-patch-editor-8e159828",
+        "topic-vertex-editing-and-edge-handling-in-patch-editor-4d46c2ac",
+        "topic-auto-reload-of-patched-images-in-ptgui-90b897f9",
+        "topic-seam-refinement-without-photoshop-0d930870"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-patch-tool-in-ptgui-pro-39c5e399": [
+          0
+        ],
+        "topic-ptgui-pro-patch-editor-ebcb3e25": [
+          0,
+          2
+        ],
+        "topic-nadir-and-zenith-patching-in-spherical-panoramas-d0ca7f7a": [
+          0
+        ],
+        "topic-zero-overlap-blender-for-seams-b0d4ea5f": [
+          3
+        ]
+      },
+      "chapter_count": 4
+    },
+    "video-official-ptgui-tutorial-o2jadksotwy-youtube-c6bafffb": {
+      "item_id": "video-official-ptgui-tutorial-o2jadksotwy-youtube-c6bafffb",
+      "title": "PTGui Tutorial Part 1: Introduction — Panorama Basics, Workflow, and Parallax",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "O2JaDKSOtwY",
+          "url": "https://www.youtube.com/watch?v=O2JaDKSOtwY"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/O2JaDKSOtwY.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This opening PTGui tutorial frames what the software does, how panoramas are created, and the practical considerations when capturing images for stitching. It explains PTGui’s evolution from Panorama Tools, its built-in blender and stitcher, cross-platform availability, and the ability to output multiple projections (including Little Planet) and even gigapixel panoramas with GPU acceleration. The video then outlines the three-step panorama workflow (capture, stitch, present), how PTGui handles image layout, distortion, and blending, and discusses parallax as a core challenge. It ends with concrete shooting guidelines: use a panoramic tripod head, calibrate it, shoot manually with consistent exposure, prefer RAW for processing, and maintain adequate overlap while noting HDR considerations and lens correction responsibilities.",
+      "date": {
+        "display": "January 15, 2019",
+        "iso": "2019-01-15",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-ptgui-background-56b198fa",
+        "topic-panorama-tools-gui-origin-d81539b5",
+        "topic-ptgui-built-in-blender-and-stitcher-ca7b4618",
+        "topic-cross-platform-mac-and-windows-78754895",
+        "topic-camera-and-lens-compatibility-a84bf949",
+        "topic-output-projections-and-file-types-ad1aeba7",
+        "topic-little-planet-projection-44c56438",
+        "topic-gigapixel-panoramas-and-gpu-acceleration-85959400",
+        "topic-three-step-panorama-workflow-b163e640",
+        "topic-images-capture-precedes-stitching-03467ffb",
+        "topic-stitching-as-the-core-capability-b096664a",
+        "topic-presentation-web-viewer-for-spherical-images-06e7e6d5",
+        "topic-image-layout-determination-503402be",
+        "topic-distortion-compensation-based-on-lens-sensor-0ec7ea27",
+        "topic-blending-for-seamless-transitions-73c07d7c",
+        "topic-parallax-as-a-key-challenge-01ffceed",
+        "topic-nodal-no-parallax-point-concept-e7811c21",
+        "topic-panoramic-tripod-head-vs-regular-head-7fd07917",
+        "topic-calibration-of-panoramic-head-1a3e29be",
+        "topic-manual-shooting-mode-and-consistency-8a6bef85",
+        "topic-raw-vs-jpeg-for-stitching-quality-062c8de9",
+        "topic-lens-distortion-handling-by-ptgui-18e73da1",
+        "topic-shadow-highlight-adjustments-and-banding-risk-49901341",
+        "topic-image-overlap-10-20-90bc0fba",
+        "topic-hdr-bracketing-as-an-advanced-topic-869c60a8"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-ptgui-background-56b198fa": [
+          0
+        ],
+        "topic-panorama-tools-gui-origin-d81539b5": [
+          0
+        ],
+        "topic-cross-platform-mac-and-windows-78754895": [
+          0
+        ],
+        "topic-output-projections-and-file-types-ad1aeba7": [
+          0
+        ],
+        "topic-little-planet-projection-44c56438": [
+          0
+        ],
+        "topic-gigapixel-panoramas-and-gpu-acceleration-85959400": [
+          0
+        ],
+        "topic-three-step-panorama-workflow-b163e640": [
+          1
+        ],
+        "topic-presentation-web-viewer-for-spherical-images-06e7e6d5": [
+          1
+        ],
+        "topic-distortion-compensation-based-on-lens-sensor-0ec7ea27": [
+          2
+        ],
+        "topic-blending-for-seamless-transitions-73c07d7c": [
+          2
+        ],
+        "topic-nodal-no-parallax-point-concept-e7811c21": [
+          3
+        ],
+        "topic-shadow-highlight-adjustments-and-banding-risk-49901341": [
+          4
+        ]
+      },
+      "chapter_count": 5
+    },
+    "video-official-ptgui-tutorial-o38yf9wvr3q-youtube-7e030147": {
+      "item_id": "video-official-ptgui-tutorial-o38yf9wvr3q-youtube-7e030147",
+      "title": "PTGui Tutorial Part 2 — Main Window, Panorama Editor, and Create Panorama",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "O38yF9wVR3Q",
+          "url": "https://www.youtube.com/watch?v=O38yF9wVR3Q"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/O38yF9wVR3Q.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui tutorial (Pro edition highlighted) introduces the main window user interface, contrasts PTGui with PTGui Pro, and demonstrates a quick panorama build from a set of images. It covers dragging images, using EXIF data for camera/lens inference, automatically aligning images, and opening the Panorama Editor. The video then walks through editing modes, levelling, and projection options, followed by trimming and viewing seams. It finishes with the Create Panorama tab, including output size optimization, export formats (JPEG vs Photoshop with layers), and common blending controls (Feather, Interpolator) along with how including or excluding images affects the final panorama. Tone mapping is noted as a separate topic for future tutorials.",
+      "date": {
+        "display": "January 15, 2019",
+        "iso": "2019-01-15",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-ptgui-vs-ptgui-pro-feature-differences-viewpoint-c8d2ff62",
+        "topic-pro-edition-ui-features-and-limitations-6cacc4f8",
+        "topic-advanced-mode-to-reveal-hidden-ui-tabs-8d2cf9b2",
+        "topic-ptgui-ui-left-side-tab-layout-and-help-texts-f4da5ece",
+        "topic-tools-menu-reveal-panorama-editor-and-control-po-2e4b5ed6",
+        "topic-importing-images-via-drag-and-drop-using-exif-da-890355f3",
+        "topic-exif-based-camera-lens-inference-full-frame-sens-cac7495f",
+        "topic-align-images-auto-stitching-and-panorama-editor--28062ec5",
+        "topic-panorama-editor-edit-panorama-vs-edit-panorama-m-5af93ce7",
+        "topic-levelling-by-right-click-and-drag-undo-with-ctrl-24395a31",
+        "topic-projection-options-cylindrical-equirectangular-f-e1ebb95f",
+        "topic-detail-viewer-for-high-resolution-inspection-cd26fdee",
+        "topic-seam-visualization-seams-shown-as-red-lines-1f5ea768",
+        "topic-blended-vs-unblended-panorama-views-9e572936",
+        "topic-yellow-trimming-lines-to-crop-panoramas-b791842d",
+        "topic-display-brightness-and-tone-mapping-not-applied--859c7dda",
+        "topic-numerical-transform-for-precise-pan-tilt-shifts-308dd665",
+        "topic-field-of-view-controls-vertical-and-horizontal-a-dffae1bd",
+        "topic-create-panorama-tab-100-size-optimization-possib-97d465c7",
+        "topic-output-formats-jpeg-vs-photoshop-with-layers-ps--792b4e18",
+        "topic-blending-controls-feather-interpolator-default-o-14d5087f",
+        "topic-included-images-list-and-how-deselecting-images--9b756227",
+        "topic-keyboard-shortcuts-ctrl-e-cmd-e-to-open-panorama-b1f66128",
+        "topic-workflow-pacing-quick-general-stitching-followed-86b2e984"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-ptgui-vs-ptgui-pro-feature-differences-viewpoint-c8d2ff62": [
+          0
+        ],
+        "topic-exif-based-camera-lens-inference-full-frame-sens-cac7495f": [
+          2
+        ],
+        "topic-projection-options-cylindrical-equirectangular-f-e1ebb95f": [
+          3
+        ],
+        "topic-detail-viewer-for-high-resolution-inspection-cd26fdee": [
+          3
+        ]
+      },
+      "chapter_count": 7
+    },
+    "video-official-ptgui-tutorial-o5lvhl-zvaq-youtube-a7e6e2cd": {
+      "item_id": "video-official-ptgui-tutorial-o5lvhl-zvaq-youtube-a7e6e2cd",
+      "title": "Levelling a panorama with vertical line control points in PTGui",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "O5LvhL-zVAQ",
+          "url": "https://www.youtube.com/watch?v=O5LvhL-zVAQ"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/O5LvhL-zVAQ.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui tutorial (Part 8: Levelling) explains how to ensure a panorama is truly level when tripod leveling or Viewpoint Correction alone isn’t enough. It introduces a dedicated control-point type, the vertical line, placed on a real vertical feature in a single image to provide PTGui with a reliable vertical reference. The video demonstrates switching the control-point type from Normal to Vertical Line, placing at least two vertical-line points on a vertical edge (often top and bottom) and adding multiple points around the image to average out errors. It also covers using the Panorama Editor’s straightening tool, explains that straightening relies on yaw/pitch/roll, and shows how the optimizer uses vertical-line points to achieve a beautifully levelled equirectangular panorama. The session concludes with cautions about horizontal-line control points, which warp in the equirectangular projection, and notes a horizon exception where such a line might be appropriate.",
+      "date": {
+        "display": "June 29, 2019",
+        "iso": "2019-06-29",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-levelling-c879c12a",
+        "topic-viewpoint-correction-92d41331",
+        "topic-nadir-426a3d96",
+        "topic-vertical-line-control-points-9a74021c",
+        "topic-horizontal-line-control-points-89c4bd47",
+        "topic-panorama-editor-bb53676d",
+        "topic-straighten-panorama-f52a172c",
+        "topic-optimizer-23732d00",
+        "topic-yaw-61e52bb1",
+        "topic-pitch-4502846f",
+        "topic-roll-acfe1fec",
+        "topic-control-points-tab-d90c7404",
+        "topic-monopod-impact-on-level-1dc5a417",
+        "topic-equirectangular-projection-9c85e2c0",
+        "topic-horizon-as-exception-08b9a7c6",
+        "topic-top-and-bottom-edge-points-268bceff",
+        "topic-90-degrees-apart-489312d7",
+        "topic-averaging-errors-06f40837"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-levelling-c879c12a": [
+          0,
+          1,
+          5
+        ],
+        "topic-viewpoint-correction-92d41331": [
+          1
+        ],
+        "topic-nadir-426a3d96": [
+          1
+        ],
+        "topic-vertical-line-control-points-9a74021c": [
+          2,
+          6
+        ],
+        "topic-horizontal-line-control-points-89c4bd47": [
+          8
+        ],
+        "topic-panorama-editor-bb53676d": [
+          4
+        ],
+        "topic-straighten-panorama-f52a172c": [
+          4
+        ],
+        "topic-optimizer-23732d00": [
+          7
+        ],
+        "topic-yaw-61e52bb1": [
+          4
+        ],
+        "topic-pitch-4502846f": [
+          4
+        ],
+        "topic-roll-acfe1fec": [
+          4
+        ],
+        "topic-control-points-tab-d90c7404": [
+          6
+        ],
+        "topic-equirectangular-projection-9c85e2c0": [
+          8
+        ],
+        "topic-horizon-as-exception-08b9a7c6": [
+          9
+        ],
+        "topic-top-and-bottom-edge-points-268bceff": [
+          6
+        ],
+        "topic-90-degrees-apart-489312d7": [
+          6
+        ],
+        "topic-averaging-errors-06f40837": [
+          6
+        ]
+      },
+      "chapter_count": 10
+    },
+    "video-official-ptgui-tutorial-qtgkazi8inw-youtube-c4959da3": {
+      "item_id": "video-official-ptgui-tutorial-qtgkazi8inw-youtube-c4959da3",
+      "title": "PTGui Viewpoint Correction: Masking for Offset Images, Floor-Only Alignment, and a Cologne Cathedral Counterexample",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "qtgkaZI8inw",
+          "url": "https://www.youtube.com/watch?v=qtgkaZI8inw"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/qtgkaZI8inw.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui Pro tutorial explains Viewpoint Correction, a feature used to integrate images captured from offset viewpoints (not at the no-parallax point) into a single panorama. The presenter emphasizes that the mapped area must be approximately flat, and demonstrates the workflow: enable Viewpoint Correction, mask everything not on the ground surface, then run Align Images and the Optimizer to verify results. A practical example shows masking the floor so only the flat surface is used, yielding a clean floor join; a counterexample (top of Cologne Cathedral) demonstrates the problems that arise when masking is not applied. The lesson underscores staying reasonably close to the no-parallax point to improve automatic control point generation and keep image deformation manageable.",
+      "date": {
+        "display": "March 1, 2019",
+        "iso": "2019-03-01",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [
+        {
+          "name": "Cologne Cathedral (top) – demonstration counterexample",
+          "confidence": 0.85,
+          "basis": "Explicit mention: 'This was taken from the top of the Cologne cathedral' in transcript."
+        },
+        {
+          "name": "Tunnel panorama scene (demonstration context)",
+          "confidence": 0.55,
+          "basis": "Transcript references a tunnel panorama used to illustrate the technique; no explicit shooting location given."
+        }
+      ],
+      "topic_ids": [
+        "topic-viewpoint-correction-concept-2a36e1cc",
+        "topic-ptgui-pro-requirement-for-viewpoint-correction-554c5001",
+        "topic-no-parallax-point-concept-b9130f8a",
+        "topic-rotating-around-the-lens-front-vs-camera-body-e49efc6b",
+        "topic-offset-viewpoints-and-panoramic-tripod-head-f9425ffd",
+        "topic-masking-non-ground-areas-a2090efb",
+        "topic-flat-approximately-flat-area-requirement-68a7ea37",
+        "topic-masking-effect-on-control-point-generation-f13c959d",
+        "topic-align-images-workflow-with-masking-1d6b1313",
+        "topic-using-the-optimizer-to-assess-results-c564bcc4",
+        "topic-floor-only-mapping-for-seamless-joins-3f9274d5",
+        "topic-comparing-masked-vs-unmasked-results-77196e62",
+        "topic-staying-near-the-no-parallax-point-for-better-au-18054490",
+        "topic-counterexample-cologne-cathedral-top-6dd67092",
+        "topic-practical-masking-tips-mask-before-generating-cp-3b6315e4"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-masking-non-ground-areas-a2090efb": [
+          1,
+          2
+        ],
+        "topic-flat-approximately-flat-area-requirement-68a7ea37": [
+          0,
+          1,
+          3
+        ],
+        "topic-floor-only-mapping-for-seamless-joins-3f9274d5": [
+          1
+        ],
+        "topic-counterexample-cologne-cathedral-top-6dd67092": [
+          3
+        ]
+      },
+      "chapter_count": 4
+    },
+    "video-official-ptgui-tutorial-scaus4vlclc-youtube-e6a5f24c": {
+      "item_id": "video-official-ptgui-tutorial-scaus4vlclc-youtube-e6a5f24c",
+      "title": "PTGui Control Points Tutorial: Automatic Generation, Manual Refinement, and Masking for a 360 Panorama",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "sCAuS4vLCLc",
+          "url": "https://www.youtube.com/watch?v=sCAuS4vLCLc"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/sCAuS4vLCLc.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui tutorial explains the concept of control points, how automatic point generation works (in spirit similar to SIFT but not using SIFT in PTGui), and why manual refinement is sometimes necessary. The instructor demonstrates building a fresh project for a fully spherical 360° panorama from four tunnel images, showing how PTGui identifies corresponding points, the role of the cropping circle, and how to inspect, add, move, or delete control points. A control-point table is used to diagnose errors, after which the video covers optimization, removing outliers with the Delete Worst Control Points feature, and achieving a seam-free result with a well-calibrated tripod head. The session also introduces UI aids such as magnification, rectangular selection for group edits, masking to guide where points are generated, and generating points only between selected image pairs or within a masked region.",
+      "date": {
+        "display": "January 16, 2019",
+        "iso": "2019-01-16",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [
+        {
+          "name": "Tunnel (explicit; photographed in a tunnel as stated in transcript)",
+          "confidence": 1.0,
+          "basis": "Transcript line: 'I've taken the photos in a tunnel' (00:03:14–00:03:17)"
+        }
+      ],
+      "topic_ids": [
+        "topic-control-points-basics-ccef68cf",
+        "topic-normal-vs-line-type-control-points-e7c70258",
+        "topic-automatic-control-point-generation-sift-like-con-c803becb",
+        "topic-exif-data-use-for-lens-and-image-circle-ba30ab75",
+        "topic-cropping-circle-and-full-frame-circular-fisheye--4d3bd053",
+        "topic-four-image-tunnel-setup-for-360-panorama-b19f852d",
+        "topic-control-points-generator-workflow-367c6672",
+        "topic-manual-adjustment-of-control-points-mouse-arrow--535a1e6d",
+        "topic-control-points-table-usage-edcea96c",
+        "topic-control-point-distance-metric-and-diagnostics-eea29dff",
+        "topic-identifying-and-deleting-mispoints-25a85eb8",
+        "topic-optimization-of-panorama-from-control-points-67eeed61",
+        "topic-delete-worst-control-points-feature-208b21dc",
+        "topic-masking-to-influence-control-point-generation-139cc778",
+        "topic-generate-control-points-here-area-based-generati-76af7509",
+        "topic-rectangular-area-selection-with-shift-drag-for-g-8c404f74",
+        "topic-generating-control-points-only-between-two-selec-67b9e440",
+        "topic-unblended-vs-blended-visible-seams-in-panorama-9d547f90",
+        "topic-magnifier-customization-in-control-points-editor-fe93224f",
+        "topic-practical-tips-tripod-head-calibration-and-seam--0f6e02f0"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-normal-vs-line-type-control-points-e7c70258": [
+          0
+        ],
+        "topic-automatic-control-point-generation-sift-like-con-c803becb": [
+          0
+        ],
+        "topic-manual-adjustment-of-control-points-mouse-arrow--535a1e6d": [
+          2
+        ],
+        "topic-delete-worst-control-points-feature-208b21dc": [
+          2
+        ],
+        "topic-generate-control-points-here-area-based-generati-76af7509": [
+          2
+        ]
+      },
+      "chapter_count": 3
+    },
+    "video-official-ptgui-tutorial-xuuzipxzscm-youtube-0496db8c": {
+      "item_id": "video-official-ptgui-tutorial-xuuzipxzscm-youtube-0496db8c",
+      "title": "PTGui Tutorial Part 5: HDR Panorama Stitching",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "xuuZipXZscM",
+          "url": "https://www.youtube.com/watch?v=xuuZipXZscM"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/xuuZipXZscM.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui tutorial segment explains HDR panorama workflows in the Pro edition, detailing the theory of high dynamic range, the practical capture workflow for bracketed images, and how PTGui stitches and tone-maps multiple exposures into a single panorama. It compares true HDR merging with exposure fusion, demonstrates linking bracketed exposures to preserve alignment, and covers output options (32‑bit panoramas, layer exports, and tone-mapping in PTGui versus Photoshop). The speaker emphasizes rigid capture practices (tripod, static scene, fixed aperture/ISO), and shows how to export and review HDR results, including 32-bit workflows in Photoshop.",
+      "date": {
+        "display": "January 28, 2019",
+        "iso": "2019-01-28",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-hdr-high-dynamic-range-fundamentals-19e37534",
+        "topic-32-bit-hdr-images-and-linear-workflow-d34c2f6e",
+        "topic-bracketed-exposure-strategy-for-hdr-panoramas-4ec65300",
+        "topic-m-mode-bracketing-and-automatic-exposure-control-fa0e193d",
+        "topic-tripod-use-static-scene-and-vibration-free-captu-368a2c54",
+        "topic-linking-bracketed-exposures-in-ptgui-to-fix-yaw--ff0be8ab",
+        "topic-control-points-and-image-alignment-across-bracke-73665f50",
+        "topic-stitching-dark-medium-light-exposure-planes-as-s-d9e4a946",
+        "topic-true-hdr-vs-exposure-fusion-workflows-in-ptgui-76f50715",
+        "topic-ptgui-hdr-workflow-merge-planes-before-tone-mapp-9cefba4f",
+        "topic-ptgui-hdr-tone-mapping-controls-and-adjustments-50d5d203",
+        "topic-output-formats-32-bit-panoramas-openexr-radiance-9f9fff5e",
+        "topic-export-options-full-panorama-individual-layers-b-19b684c4",
+        "topic-d-ghosting-considerations-for-hdr-in-ptgui-77ce71c6",
+        "topic-default-interpolator-and-other-rendering-options-55bd8e2a",
+        "topic-photoshop-handling-of-32-bit-hdr-panoramas-and-e-9b8edfc7",
+        "topic-zenith-nadir-brightness-considerations-in-hdr-pa-48cb9950",
+        "topic-overall-hdr-vs-non-hdr-post-processing-strategie-13e46123"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-linking-bracketed-exposures-in-ptgui-to-fix-yaw--ff0be8ab": [
+          1
+        ],
+        "topic-stitching-dark-medium-light-exposure-planes-as-s-d9e4a946": [
+          1,
+          2
+        ],
+        "topic-zenith-nadir-brightness-considerations-in-hdr-pa-48cb9950": [
+          3
+        ]
+      },
+      "chapter_count": 4
+    },
+    "video-official-ptgui-tutorial-ytzhqxih3jw-youtube-7eb7f04a": {
+      "item_id": "video-official-ptgui-tutorial-ytzhqxih3jw-youtube-7eb7f04a",
+      "title": "PTGui tutorial part 4: Editing and viewing spherical panoramas — technique timeline and topics",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "YTzHqxIh3jw",
+          "url": "https://www.youtube.com/watch?v=YTzHqxIh3jw"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/YTzHqxIh3jw.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PTGui Part 4 tutorial demonstrates viewing and editing spherical panoramas using the equirectangular projection, starting from an auto-aligned panorama and progressing through leveling, edge behavior, and viewing options. The video explains the Align Images workflow (control points, optimization, and projection choice), manual and bubble-level leveling concepts via the Panorama Editor, and the geometric implications of the equirectangular format (pole and edge wrapping). It also covers preview pathways (Preview, Detail Viewer, and interactive viewers), export options (Create Panorama as JPEG/TIFF and website publishing), and an overview of the Image Parameters and Optimizer tabs, with notes about future tutorials such as cube-face editing and vertical-line control points.",
+      "date": {
+        "display": "January 16, 2019",
+        "iso": "2019-01-16",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-equirectangular-projection-9c85e2c0",
+        "topic-spherical-panorama-f5939a62",
+        "topic-360x180-degree-panorama-7c7e7e1b",
+        "topic-align-images-button-225b4a58",
+        "topic-control-points-e32c4704",
+        "topic-project-optimization-1d115f5a",
+        "topic-projection-selection-for-partial-panoramas-8edc7c40",
+        "topic-leveling-the-panorama-2fbc1a8f",
+        "topic-bubble-level-7f57c23b",
+        "topic-panorama-editor-bb53676d",
+        "topic-pitch-yaw-roll-adjustments-cd70156c",
+        "topic-vertical-line-control-points-9a74021c",
+        "topic-edge-wrapping-and-seams-1a3bb621",
+        "topic-top-bottom-edge-editing-cautions-e86bd8a3",
+        "topic-left-right-edge-continuity-0cdc02b4",
+        "topic-global-vs-local-photo-edits-7cfa5ed0",
+        "topic-levels-vs-clarity-shadow-filters-3e8844e8",
+        "topic-preview-tool-1968e204",
+        "topic-detail-viewer-8826a364",
+        "topic-ptgui-viewer-5c078819",
+        "topic-create-panorama-export-e76f0369",
+        "topic-jpeg-and-tiff-formats-82928dd4",
+        "topic-publish-to-website-974131c2",
+        "topic-image-parameters-tab-b86fd5ce",
+        "topic-positional-parameters-7ebaa80b",
+        "topic-exposure-offset-e300cb8c",
+        "topic-multi-select-editing-6251ed3d",
+        "topic-optimizer-tab-7d806e45",
+        "topic-advanced-options-88a55b99"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-equirectangular-projection-9c85e2c0": [
+          0,
+          4
+        ],
+        "topic-spherical-panorama-f5939a62": [
+          0
+        ],
+        "topic-align-images-button-225b4a58": [
+          1
+        ],
+        "topic-control-points-e32c4704": [
+          1,
+          3
+        ],
+        "topic-leveling-the-panorama-2fbc1a8f": [
+          2
+        ],
+        "topic-bubble-level-7f57c23b": [
+          2
+        ],
+        "topic-panorama-editor-bb53676d": [
+          2
+        ],
+        "topic-pitch-yaw-roll-adjustments-cd70156c": [
+          3
+        ],
+        "topic-vertical-line-control-points-9a74021c": [
+          3
+        ],
+        "topic-top-bottom-edge-editing-cautions-e86bd8a3": [
+          4,
+          5
+        ],
+        "topic-left-right-edge-continuity-0cdc02b4": [
+          5
+        ],
+        "topic-levels-vs-clarity-shadow-filters-3e8844e8": [
+          5
+        ],
+        "topic-preview-tool-1968e204": [
+          6,
+          7
+        ],
+        "topic-detail-viewer-8826a364": [
+          6
+        ],
+        "topic-ptgui-viewer-5c078819": [
+          6
+        ],
+        "topic-create-panorama-export-e76f0369": [
+          7
+        ],
+        "topic-jpeg-and-tiff-formats-82928dd4": [
+          3
+        ],
+        "topic-publish-to-website-974131c2": [
+          7
+        ],
+        "topic-image-parameters-tab-b86fd5ce": [
+          8
+        ],
+        "topic-positional-parameters-7ebaa80b": [
+          8
+        ],
+        "topic-exposure-offset-e300cb8c": [
+          8
+        ],
+        "topic-multi-select-editing-6251ed3d": [
+          8
+        ],
+        "topic-optimizer-tab-7d806e45": [
+          8
+        ],
+        "topic-advanced-options-88a55b99": [
+          8
+        ]
+      },
+      "chapter_count": 9
+    }
+  },
+  "stats": {
+    "video_count": 9,
+    "topic_count": 180,
+    "topic_family_count": 0
+  },
+  "description": "A Watchcraft collection of public instructional videos.",
+  "source": {
+    "type": "youtube-playlist",
+    "playlist_id": "PLiaof7dM5yj6642MO1xaVz_R_2LR4kk3H",
+    "url": "https://www.youtube.com/playlist?list=PLiaof7dM5yj6642MO1xaVz_R_2LR4kk3H"
+  },
+  "revision": 1,
+  "content_hash": "8f45b171f7bb4500936508e11d1e90cd1a876a951a6529ed04e81597f06d113a"
+}

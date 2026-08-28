@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "video": "O5LvhL-zVAQ.youtube",
+  "title": "Levelling a panorama with vertical line control points in PTGui",
+  "date": {
+    "display": "June 29, 2019",
+    "iso": "2019-06-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PTGui tutorial (Part 8: Levelling) explains how to ensure a panorama is truly level when tripod leveling or Viewpoint Correction alone isn’t enough. It introduces a dedicated control-point type, the vertical line, placed on a real vertical feature in a single image to provide PTGui with a reliable vertical reference. The video demonstrates switching the control-point type from Normal to Vertical Line, placing at least two vertical-line points on a vertical edge (often top and bottom) and adding multiple points around the image to average out errors. It also covers using the Panorama Editor’s straightening tool, explains that straightening relies on yaw/pitch/roll, and shows how the optimizer uses vertical-line points to achieve a beautifully levelled equirectangular panorama. The session concludes with cautions about horizontal-line control points, which warp in the equirectangular projection, and notes a horizon exception where such a line might be appropriate.",
+  "topics": [
+    "levelling",
+    "Viewpoint Correction",
+    "nadir",
+    "vertical line control points",
+    "horizontal line control points",
+    "Panorama Editor",
+    "straighten panorama",
+    "optimizer",
+    "yaw",
+    "pitch",
+    "roll",
+    "control points tab",
+    "monopod impact on level",
+    "equirectangular projection",
+    "horizon as exception",
+    "top and bottom edge points",
+    "90 degrees apart",
+    "averaging errors"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:00:24",
+      "title": "What levelling means for a panorama",
+      "concepts": [
+        "levelling",
+        "upright panorama",
+        "real-world verticality"
+      ],
+      "description": "Definition of levelling: ensuring the generated panorama appears straight and upright as in reality."
+    },
+    {
+      "start": "00:00:24",
+      "end": "00:00:46",
+      "title": "When levelling can be avoided or is compromised",
+      "concepts": [
+        "tripod pre-leveling",
+        "nadir level",
+        "Viewpoint Correction",
+        "panoramic tripod head level"
+      ],
+      "description": "Notes that careful tripod leveling avoids levelling work but Viewpoint Correction or an unlevelled tripod head may still require extra clues for levelling."
+    },
+    {
+      "start": "00:00:49",
+      "end": "00:01:28",
+      "title": "Introducing vertical line control points",
+      "concepts": [
+        "vertical line control points",
+        "control point types",
+        "true verticality reference"
+      ],
+      "description": "PTGui introduces a new control-point type called 'vertical line', placed twice in the same image to anchor a truly vertical feature."
+    },
+    {
+      "start": "00:01:28",
+      "end": "00:01:33",
+      "title": "Important cautions about vertical references",
+      "concepts": [
+        "truly vertical features",
+        "misleading verticals"
+      ],
+      "description": "Advises selecting reliable vertical features; avoid street signs or lamp posts that may appear vertical but aren’t truly vertical."
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:02:09",
+      "title": "Panorama Editor context and straightening concept",
+      "concepts": [
+        "Panorama Editor",
+        "straighten panorama",
+        "yaw/pitch/roll"
+      ],
+      "description": "Preview of the Panorama Editor and the straightening function, which relies on yaw, pitch, and roll rather than control points."
+    },
+    {
+      "start": "00:02:13",
+      "end": "00:02:28",
+      "title": "Counterexample: monopod levelling challenges",
+      "concepts": [
+        "monopod",
+        "unlevelled shoots",
+        "verification of level"
+      ],
+      "description": "Demonstrates a case where a monopod was not levelled and straightening alone would not suffice without vertical-line clues."
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:03:21",
+      "title": "Placing vertical line control points (procedural)",
+      "concepts": [
+        "Control Points tab",
+        "Vertical Line mode",
+        "top and bottom edges",
+        "multiple points and distribution"
+      ],
+      "description": "Steps to switch the control-point type to 'Vertical Line', select the same image in both panels, and place two points on the same vertical line (top and bottom) plus additional points for averaging errors; aim for diverse placement (about 90 degrees apart)."
+    },
+    {
+      "start": "00:03:36",
+      "end": "00:04:01",
+      "title": "Optimizer in action with vertical-line clues",
+      "concepts": [
+        "optimizer",
+        "level panorama",
+        "layered refinement"
+      ],
+      "description": "Re-run the optimizer with vertical-line control points; initial leveling may improve slightly, followed by a second pass to achieve a beautifully level panorama."
+    },
+    {
+      "start": "00:04:05",
+      "end": "00:04:39",
+      "title": "Horizontal line controls: limitations in equirectangular projection",
+      "concepts": [
+        "horizontal line control points",
+        "equirectangular projection",
+        "line curvature"
+      ],
+      "description": "Explains why horizontal-line points are less suitable because PTGui performs levelling on the final panorama in the equirectangular projection, causing horizontal lines to warp into curves."
+    },
+    {
+      "start": "00:04:47",
+      "end": "00:05:09",
+      "title": "Practical guidance and horizon exception",
+      "concepts": [
+        "horizon as exception",
+        "prefer vertical-line points",
+        "summary of guidance"
+      ],
+      "description": "Notes an exception where a horizontal line could be the horizon, but generally vertical-line control points are preferred; closes with a nod to the next tutorial."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Vertical line control points to enforce true verticality",
+      "timestamp": "00:02:53",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Optimizer integration of vertical-line points to achieve level panorama",
+      "timestamp": "00:03:44",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Understanding limitations of horizontal line control points in equirectangular projection",
+      "timestamp": "00:04:05",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:11:22.127890+00:00"
+}

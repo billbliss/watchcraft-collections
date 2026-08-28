@@ -1,0 +1,324 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "DaVinci Resolve",
+    "collection_id": "davinci-resolve",
+    "description": "A Watchcraft collection of public instructional videos.",
+    "source": {
+      "type": "youtube-playlist",
+      "playlist_id": "PLMjJB3eZp5V0Xa6-wCUdpLimsZwTvwt4Q",
+      "url": "https://www.youtube.com/playlist?list=PLMjJB3eZp5V0Xa6-wCUdpLimsZwTvwt4Q"
+    }
+  },
+  "sources": {
+    "RtvG4TBbdD4.youtube": {
+      "source_id": "youtube:RtvG4TBbdD4",
+      "type": "youtube",
+      "video_id": "RtvG4TBbdD4",
+      "url": "https://www.youtube.com/watch?v=RtvG4TBbdD4",
+      "title": "Apple Immersive Video Editing: Fusion VFX + VR180 Export in DaVinci Resolve 20",
+      "publisher": "Hugh Hou",
+      "publisher_url": "https://www.youtube.com/@hughhou",
+      "thumbnail_url": "https://i.ytimg.com/vi/RtvG4TBbdD4/hqdefault.jpg",
+      "duration_seconds": 1326,
+      "published_at": "2025-09-16T08:30:07-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "- Introduction"
+        },
+        {
+          "start_seconds": 120,
+          "title": "- Fusion updates on Immersive Video Editing"
+        },
+        {
+          "start_seconds": 154,
+          "title": "- 360 View on Immersive"
+        },
+        {
+          "start_seconds": 183,
+          "title": "- How to Set Up Apple Vision Pro in Fusion Compositing"
+        },
+        {
+          "start_seconds": 268,
+          "title": "- How to Mix 360 Video with Apple Immersive Video in 180"
+        },
+        {
+          "start_seconds": 414,
+          "title": "- Combine 360 Photos with Immersive Video"
+        },
+        {
+          "start_seconds": 445,
+          "title": "- Mix VR180 with Apple Immersive Video"
+        },
+        {
+          "start_seconds": 547,
+          "title": "- How to Do Paint Fixes in Immersive Video"
+        },
+        {
+          "start_seconds": 810,
+          "title": "- How to Add Graphics in Immersive 3D in Fusion"
+        },
+        {
+          "start_seconds": 991,
+          "title": "- NEW World Pose as VisionOS Effect"
+        },
+        {
+          "start_seconds": 1074,
+          "title": "- Immersive EXR with ILPD metadata"
+        },
+        {
+          "start_seconds": 1121,
+          "title": "- URSA Cine Immersive: VR180 Export"
+        }
+      ],
+      "position": 1,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "0dm_zYf09rQ.youtube": {
+      "source_id": "youtube:0dm_zYf09rQ",
+      "type": "youtube",
+      "video_id": "0dm_zYf09rQ",
+      "url": "https://www.youtube.com/watch?v=0dm_zYf09rQ",
+      "title": "Beginner’s Guide to URSA Cine Immersive for Apple Vision Pro + Pro Tips",
+      "publisher": "Hugh Hou",
+      "publisher_url": "https://www.youtube.com/@hughhou",
+      "thumbnail_url": "https://i.ytimg.com/vi/0dm_zYf09rQ/hqdefault.jpg",
+      "duration_seconds": 2354,
+      "published_at": "2025-08-11T08:30:07-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "- Intro & Overview"
+        },
+        {
+          "start_seconds": 63,
+          "title": "- Camera Setup & Best Practices"
+        },
+        {
+          "start_seconds": 111,
+          "title": "- URSA Cine Immersive IRIS"
+        },
+        {
+          "start_seconds": 156,
+          "title": "- Flicker consideration"
+        },
+        {
+          "start_seconds": 258,
+          "title": "- False Color Shortcut"
+        },
+        {
+          "start_seconds": 411,
+          "title": "- Video I/O"
+        },
+        {
+          "start_seconds": 486,
+          "title": "- Timecode consideration"
+        },
+        {
+          "start_seconds": 543,
+          "title": "- Best URSA Cine Camera Settings"
+        },
+        {
+          "start_seconds": 627,
+          "title": "- Leveling the URSA Cine Immersive (the right way)"
+        },
+        {
+          "start_seconds": 684,
+          "title": "- How to turn off lens mask on URSA Cine Immersive"
+        },
+        {
+          "start_seconds": 741,
+          "title": "- How to offload media from URSA Cine Immersive"
+        },
+        {
+          "start_seconds": 870,
+          "title": "- AIVU Editing in DaVinci Resolve 20.1"
+        },
+        {
+          "start_seconds": 1282,
+          "title": "- How to Insert 3D Text, Logos & Graphics into Apple Immersive Video"
+        },
+        {
+          "start_seconds": 1388,
+          "title": "- What's new in Fusion"
+        },
+        {
+          "start_seconds": 1467,
+          "title": "- Color Grade inside Apple Vision Pro"
+        },
+        {
+          "start_seconds": 1730,
+          "title": "- Mixing ASAF in Fairlight"
+        },
+        {
+          "start_seconds": 2046,
+          "title": "- Final Export & Delivery"
+        }
+      ],
+      "position": 2,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "D33F1tktokg.youtube": {
+      "source_id": "youtube:D33F1tktokg",
+      "type": "youtube",
+      "video_id": "D33F1tktokg",
+      "url": "https://www.youtube.com/watch?v=D33F1tktokg",
+      "title": "10 BEST AI Updates in Davinci Resolve Studio",
+      "publisher": "Greg Edits Video",
+      "publisher_url": "https://www.youtube.com/@GregEditsVideo",
+      "thumbnail_url": "https://i.ytimg.com/vi/D33F1tktokg/hqdefault.jpg",
+      "duration_seconds": 1033,
+      "published_at": "2025-10-20T07:00:16-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "AI has transformed editing"
+        },
+        {
+          "start_seconds": 24,
+          "title": "Mask images in seconds"
+        },
+        {
+          "start_seconds": 114,
+          "title": "Accelerate your workflow with transcriptions"
+        },
+        {
+          "start_seconds": 226,
+          "title": "Add subtitles automatically"
+        },
+        {
+          "start_seconds": 292,
+          "title": "Fix filming mistakes with Voice Convert"
+        },
+        {
+          "start_seconds": 443,
+          "title": "Remove background noise"
+        },
+        {
+          "start_seconds": 509,
+          "title": "Adjust instruments audio levels"
+        },
+        {
+          "start_seconds": 565,
+          "title": "Retime music length the easy way"
+        },
+        {
+          "start_seconds": 639,
+          "title": "Time clips to music beats"
+        },
+        {
+          "start_seconds": 699,
+          "title": "Let AI cut your A roll"
+        },
+        {
+          "start_seconds": 853,
+          "title": "Fix jump cuts"
+        },
+        {
+          "start_seconds": 948,
+          "title": "Smooth slow motion"
+        }
+      ],
+      "position": 3,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "MCDVcQIA3UM.youtube": {
+      "source_id": "youtube:MCDVcQIA3UM",
+      "type": "youtube",
+      "video_id": "MCDVcQIA3UM",
+      "url": "https://www.youtube.com/watch?v=MCDVcQIA3UM",
+      "title": "Introduction to DaVinci Resolve - [Full Course] for Beginners (2026)",
+      "publisher": "Casey Faris",
+      "publisher_url": "https://www.youtube.com/@CaseyFaris",
+      "thumbnail_url": "https://i.ytimg.com/vi/MCDVcQIA3UM/hqdefault.jpg",
+      "duration_seconds": 18655,
+      "published_at": "2025-07-25T07:00:36-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "- INTRO"
+        },
+        {
+          "start_seconds": 84,
+          "title": "- What is Resolve?"
+        },
+        {
+          "start_seconds": 567,
+          "title": "- The Media Page"
+        },
+        {
+          "start_seconds": 1737,
+          "title": "- The Edit Page"
+        },
+        {
+          "start_seconds": 5444,
+          "title": "- The Cut Page"
+        },
+        {
+          "start_seconds": 6194,
+          "title": "- The Fusion Page"
+        },
+        {
+          "start_seconds": 10220,
+          "title": "- The Color Page"
+        },
+        {
+          "start_seconds": 15415,
+          "title": "- The Fairlight Page"
+        },
+        {
+          "start_seconds": 17580,
+          "title": "- The Deliver Page"
+        },
+        {
+          "start_seconds": 18342,
+          "title": "- How to Learn Resolve the BEST WAY"
+        }
+      ],
+      "position": 4,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "-MrHvGoq9lY.youtube": {
+      "source_id": "youtube:-MrHvGoq9lY",
+      "type": "youtube",
+      "video_id": "-MrHvGoq9lY",
+      "url": "https://www.youtube.com/watch?v=-MrHvGoq9lY",
+      "title": "In Depth DaVinci Resolve Video Editing Tutorial - Mac & PC 2026",
+      "publisher": "Content Creators",
+      "publisher_url": "https://www.youtube.com/@MrPaulXavier",
+      "thumbnail_url": "https://i.ytimg.com/vi/-MrHvGoq9lY/hqdefault.jpg",
+      "duration_seconds": 6680,
+      "published_at": "2025-05-28T06:22:39-07:00",
+      "chapters": [],
+      "position": 5,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    }
+  }
+}

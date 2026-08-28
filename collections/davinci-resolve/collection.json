@@ -1,0 +1,1626 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "davinci-resolve",
+  "title": "DaVinci Resolve",
+  "topic_scope": "collection",
+  "topic_normalization": null,
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "DaVinci Resolve",
+    "children": [
+      {
+        "type": "video",
+        "item_id": "video-davinci-resolve-rtvg4tbbdd4-youtube-fece7937"
+      },
+      {
+        "type": "video",
+        "item_id": "video-davinci-resolve-0dm-zyf09rq-youtube-16f4e5da"
+      },
+      {
+        "type": "video",
+        "item_id": "video-davinci-resolve-d33f1tktokg-youtube-a8a0801e"
+      },
+      {
+        "type": "video",
+        "item_id": "video-davinci-resolve-mcdvcqia3um-youtube-1c8cfec2"
+      },
+      {
+        "type": "video",
+        "item_id": "video-davinci-resolve-mrhvgoq9ly-youtube-d3a1bf6c"
+      }
+    ]
+  },
+  "topics": {
+    "topic-10g-ethernet-data-port-for-dit-and-resolve-integ-4ce62055": {
+      "topic_id": "topic-10g-ethernet-data-port-for-dit-and-resolve-integ-4ce62055",
+      "canonical_key": "10g ethernet data port for dit and resolve integration",
+      "label": "10G Ethernet data port for DIT and Resolve integration",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3d-depth-preview-3d-combiner-and-anaglyph-workfl-1388da04": {
+      "topic_id": "topic-3d-depth-preview-3d-combiner-and-anaglyph-workfl-1388da04",
+      "canonical_key": "3d depth preview: 3d combiner and anaglyph workflow",
+      "label": "3D depth preview: 3D Combiner and Anaglyph workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3d-paint-fixes-clone-brush-in-immersive-space-c7ec9e61": {
+      "topic_id": "topic-3d-paint-fixes-clone-brush-in-immersive-space-c7ec9e61",
+      "canonical_key": "3d paint fixes: clone brush in immersive space",
+      "label": "3D paint fixes: Clone brush in Immersive space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-advanced-text-animation-using-keyframes-and-curv-2c13fe95": {
+      "topic_id": "topic-advanced-text-animation-using-keyframes-and-curv-2c13fe95",
+      "canonical_key": "advanced text animation using keyframes and curve adjustments",
+      "label": "Advanced text animation using keyframes and curve adjustments",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-music-editor-to-adjust-track-length-and-timin-369d3a75": {
+      "topic_id": "topic-ai-music-editor-to-adjust-track-length-and-timin-369d3a75",
+      "canonical_key": "ai music editor to adjust track length and timing",
+      "label": "AI music editor to adjust track length and timing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-music-remixer-to-mute-or-reduce-instruments-d-7711129b": {
+      "topic_id": "topic-ai-music-remixer-to-mute-or-reduce-instruments-d-7711129b",
+      "canonical_key": "ai music remixer to mute or reduce instruments (drums, etc.)",
+      "label": "AI music remixer to mute or reduce instruments (drums, etc.)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-transcription-and-timeline-navigation-4cd26023": {
+      "topic_id": "topic-ai-transcription-and-timeline-navigation-4cd26023",
+      "canonical_key": "ai transcription and timeline navigation",
+      "label": "AI transcription and timeline navigation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-voice-conversion-to-mimic-a-client-s-voice-081a4d47": {
+      "topic_id": "topic-ai-voice-conversion-to-mimic-a-client-s-voice-081a4d47",
+      "canonical_key": "ai voice conversion to mimic a client’s voice",
+      "label": "AI voice conversion to mimic a client’s voice",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-voice-isolation-to-remove-background-noise-5ba1648f": {
+      "topic_id": "topic-ai-voice-isolation-to-remove-background-noise-5ba1648f",
+      "canonical_key": "ai voice isolation to remove background noise",
+      "label": "AI voice isolation to remove background noise",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ai-voice-training-for-voice-cloning-eba2549b": {
+      "topic_id": "topic-ai-voice-training-for-voice-cloning-eba2549b",
+      "canonical_key": "ai voice training for voice cloning",
+      "label": "AI voice training for voice cloning",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-aivu-delivery-options-vision-pro-preview-vision--e783b056": {
+      "topic_id": "topic-aivu-delivery-options-vision-pro-preview-vision--e783b056",
+      "canonical_key": "aivu delivery options: vision pro preview, vision pro bundle, asaf, vr180",
+      "label": "AIVU delivery options: Vision Pro Preview, Vision Pro Bundle, ASAF, VR180",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ambisonics-1st-3rd-order-headlock-monitoring-wit-68e89a38": {
+      "topic_id": "topic-ambisonics-1st-3rd-order-headlock-monitoring-wit-68e89a38",
+      "canonical_key": "ambisonics: 1st/3rd order, headlock monitoring with airpods",
+      "label": "Ambisonics: 1st/3rd order, headlock monitoring with AirPods",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-anchoring-a-story-anchor-technique-and-clip-sequ-5379576d": {
+      "topic_id": "topic-anchoring-a-story-anchor-technique-and-clip-sequ-5379576d",
+      "canonical_key": "anchoring a story (anchor technique) and clip sequencing",
+      "label": "Anchoring a story (anchor technique) and clip sequencing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-animated-subtitles-word-by-word-animation-c153ee21": {
+      "topic_id": "topic-animated-subtitles-word-by-word-animation-c153ee21",
+      "canonical_key": "animated subtitles (word-by-word animation)",
+      "label": "Animated subtitles (word-by-word animation)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-apple-vision-pro-integration-cd0ea2c5": {
+      "topic_id": "topic-apple-vision-pro-integration-cd0ea2c5",
+      "canonical_key": "apple vision pro integration",
+      "label": "Apple Vision Pro integration",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-archiving-and-multi-version-renders-archive-time-c7538953": {
+      "topic_id": "topic-archiving-and-multi-version-renders-archive-time-c7538953",
+      "canonical_key": "archiving and multi-version renders (archive timeline)",
+      "label": "Archiving and multi-version renders (archive timeline)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-asaf-apple-spatial-audio-format-in-fairlight-429de69e": {
+      "topic_id": "topic-asaf-apple-spatial-audio-format-in-fairlight-429de69e",
+      "canonical_key": "asaf (apple spatial audio format) in fairlight",
+      "label": "ASAF (Apple Spatial Audio Format) in Fairlight",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-audio-normalization-true-peak-and-fairlight-comp-45fdb719": {
+      "topic_id": "topic-audio-normalization-true-peak-and-fairlight-comp-45fdb719",
+      "canonical_key": "audio normalization (true peak) and fairlight compressor",
+      "label": "Audio normalization (true peak) and Fairlight compressor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-audio-syncing-and-autosync-by-waveform-611ecee2": {
+      "topic_id": "topic-audio-syncing-and-autosync-by-waveform-611ecee2",
+      "canonical_key": "audio syncing and autosync by waveform",
+      "label": "Audio syncing and autosync by waveform",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-background-replacement-and-motion-tracking-557765c4": {
+      "topic_id": "topic-background-replacement-and-motion-tracking-557765c4",
+      "canonical_key": "background replacement and motion tracking",
+      "label": "Background replacement and motion tracking",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-background-replacement-behind-a-talking-head-0ad14201": {
+      "topic_id": "topic-background-replacement-behind-a-talking-head-0ad14201",
+      "canonical_key": "background replacement behind a talking head",
+      "label": "Background replacement behind a talking head",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-be-mindful-of-artifacts-and-head-position-change-3c15d00a": {
+      "topic_id": "topic-be-mindful-of-artifacts-and-head-position-change-3c15d00a",
+      "canonical_key": "be mindful of artifacts and head-position changes with ai transitions",
+      "label": "Be mindful of artifacts and head-position changes with AI transitions",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-blade-tool-command-b-and-timeline-trimming-327d4f38": {
+      "topic_id": "topic-blade-tool-command-b-and-timeline-trimming-327d4f38",
+      "canonical_key": "blade tool (command+b) and timeline trimming",
+      "label": "Blade tool (Command+B) and timeline trimming",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-building-a-simple-fusion-shot-fog-via-fast-noise-8c2ace2c": {
+      "topic_id": "topic-building-a-simple-fusion-shot-fog-via-fast-noise-8c2ace2c",
+      "canonical_key": "building a simple fusion shot (fog via fast noise, masking, color grading)",
+      "label": "Building a simple Fusion shot (fog via fast noise, masking, color grading)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-built-in-nd-filters-2-4-6-8-stops-1b373616": {
+      "topic_id": "topic-built-in-nd-filters-2-4-6-8-stops-1b373616",
+      "canonical_key": "built-in nd filters (2, 4, 6, 8 stops)",
+      "label": "Built-in ND filters (2, 4, 6, 8 stops)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-b-roll-insertion-and-layering-order-7df182b3": {
+      "topic_id": "topic-b-roll-insertion-and-layering-order-7df182b3",
+      "canonical_key": "b‑roll insertion and layering order",
+      "label": "B‑roll insertion and layering order",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-camera-vs-external-audio-synchronization-and-syn-41a1159b": {
+      "topic_id": "topic-camera-vs-external-audio-synchronization-and-syn-41a1159b",
+      "canonical_key": "camera vs. external audio synchronization and syncing indicators",
+      "label": "Camera vs. external audio synchronization and syncing indicators",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-captions-manual-in-free-version-and-auto-caption-6359d270": {
+      "topic_id": "topic-captions-manual-in-free-version-and-auto-caption-6359d270",
+      "canonical_key": "captions: manual in free version and auto-caption in studio, plus customization",
+      "label": "Captions: manual in free version and auto-caption in Studio, plus customization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-color-grading-with-luts-sony-lut-and-color-wheel-1079943c": {
+      "topic_id": "topic-color-grading-with-luts-sony-lut-and-color-wheel-1079943c",
+      "canonical_key": "color grading with luts (sony lut) and color wheels (lift/gamma/gain/offset)",
+      "label": "Color grading with LUTs (Sony LUT) and Color Wheels (Lift/Gamma/Gain/Offset)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-color-management-for-vision-pro-davinci-wide-gam-f193a691": {
+      "topic_id": "topic-color-management-for-vision-pro-davinci-wide-gam-f193a691",
+      "canonical_key": "color management for vision pro: davinci wide gamut, p3 d65, st2084",
+      "label": "Color management for Vision Pro: DaVinci Wide Gamut, P3 D65, ST2084",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-color-management-overview-input-color-space-colo-7d13913a": {
+      "topic_id": "topic-color-management-overview-input-color-space-colo-7d13913a",
+      "canonical_key": "color management overview (input color space, color science, hdr vs log wheels)",
+      "label": "Color management overview (input color space, color science, HDR vs log wheels)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-color-pipeline-cst-from-sdr-rec-709-to-p3-d65-hd-8b08814a": {
+      "topic_id": "topic-color-pipeline-cst-from-sdr-rec-709-to-p3-d65-hd-8b08814a",
+      "canonical_key": "color pipeline: cst from sdr/rec.709 to p3-d65 hdr for vision pro",
+      "label": "Color pipeline: CST from SDR/Rec.709 to P3-D65 HDR for Vision Pro",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cool-camera-outputs-sdi-a-b-4k-monitoring-98dbbd4d": {
+      "topic_id": "topic-cool-camera-outputs-sdi-a-b-4k-monitoring-98dbbd4d",
+      "canonical_key": "cool camera outputs: sdi a/b, 4k monitoring",
+      "label": "COOL camera outputs: SDI A/B, 4K monitoring",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-copying-color-grades-between-shots-middle-click--15ceadaa": {
+      "topic_id": "topic-copying-color-grades-between-shots-middle-click--15ceadaa",
+      "canonical_key": "copying color grades between shots (middle-click scroll technique)",
+      "label": "Copying color grades between shots (middle-click scroll technique)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-copying-transcription-text-into-the-timeline-for-848fdf50": {
+      "topic_id": "topic-copying-transcription-text-into-the-timeline-for-848fdf50",
+      "canonical_key": "copying transcription text into the timeline for scripting",
+      "label": "Copying transcription text into the timeline for scripting",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-create-subtitles-from-audio-automatic-subtitles-c7561965": {
+      "topic_id": "topic-create-subtitles-from-audio-automatic-subtitles-c7561965",
+      "canonical_key": "create subtitles from audio (automatic subtitles)",
+      "label": "Create subtitles from audio (automatic subtitles)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-crossfade-option-for-ripple-deletion-when-needed-b8f94f65": {
+      "topic_id": "topic-crossfade-option-for-ripple-deletion-when-needed-b8f94f65",
+      "canonical_key": "crossfade option for ripple deletion (when needed)",
+      "label": "Crossfade option for ripple deletion (when needed)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-curves-custom-and-hue-area-based-corrections-08ce1acc": {
+      "topic_id": "topic-curves-custom-and-hue-area-based-corrections-08ce1acc",
+      "canonical_key": "curves (custom and hue/area-based corrections)",
+      "label": "Curves (custom and hue/area-based corrections)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-davinci-resolve-20-1-immersive-workflow-setup-bbb57063": {
+      "topic_id": "topic-davinci-resolve-20-1-immersive-workflow-setup-bbb57063",
+      "canonical_key": "davinci resolve 20.1 immersive workflow setup",
+      "label": "DaVinci Resolve 20.1 Immersive workflow setup",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-davinci-resolve-20-2-immersive-updates-2bd10ab7": {
+      "topic_id": "topic-davinci-resolve-20-2-immersive-updates-2bd10ab7",
+      "canonical_key": "davinci resolve 20.2 immersive updates",
+      "label": "DaVinci Resolve 20.2 immersive updates",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-deliver-page-basics-codecs-h-264-h-265-prores-dn-26ab218e": {
+      "topic_id": "topic-deliver-page-basics-codecs-h-264-h-265-prores-dn-26ab218e",
+      "canonical_key": "deliver page basics (codecs: h.264/h.265/prores/dnxhr, container formats, upscaling to ultra hd)",
+      "label": "Deliver page basics (codecs: H.264/H.265/ProRes/DNxHR, container formats, upscaling to Ultra HD)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-delivery-export-render-settings-subtitles-export-8b49177a": {
+      "topic_id": "topic-delivery-export-render-settings-subtitles-export-8b49177a",
+      "canonical_key": "delivery/export: render settings, subtitles export/burn-in, and file naming",
+      "label": "Delivery/export: render settings, subtitles export/burn-in, and file naming",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-direct-camera-mount-inside-davinci-resolve-1b406e7f": {
+      "topic_id": "topic-direct-camera-mount-inside-davinci-resolve-1b406e7f",
+      "canonical_key": "direct camera mount inside davinci resolve",
+      "label": "Direct camera mount inside DaVinci Resolve",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-distort-back-to-lens-space-and-merging-5a8d1a40": {
+      "topic_id": "topic-distort-back-to-lens-space-and-merging-5a8d1a40",
+      "canonical_key": "distort back to lens space and merging",
+      "label": "Distort back to lens space and merging",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-duplicate-clip-workflow-option-alt-drag-for-comp-c8ce7178": {
+      "topic_id": "topic-duplicate-clip-workflow-option-alt-drag-for-comp-c8ce7178",
+      "canonical_key": "duplicate clip workflow (option/alt drag) for composites",
+      "label": "Duplicate clip workflow (Option/Alt drag) for composites",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-edge-blend-and-visionos-metadata-workflow-7183baa7": {
+      "topic_id": "topic-edge-blend-and-visionos-metadata-workflow-7183baa7",
+      "canonical_key": "edge blend and visionos metadata workflow",
+      "label": "Edge Blend and visionOS metadata workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-editing-fundamentals-timeline-playhead-insert-ap-eaf740a1": {
+      "topic_id": "topic-editing-fundamentals-timeline-playhead-insert-ap-eaf740a1",
+      "canonical_key": "editing fundamentals (timeline, playhead, insert/append, overwrite, replace)",
+      "label": "Editing fundamentals (timeline, playhead, insert/append, overwrite, replace)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-fairlight-basics-timeline-tracks-mixers-dynamics-1e448acc": {
+      "topic_id": "topic-fairlight-basics-timeline-tracks-mixers-dynamics-1e448acc",
+      "canonical_key": "fairlight basics (timeline, tracks, mixers, dynamics, eq, effects)",
+      "label": "Fairlight basics (timeline, tracks, mixers, dynamics, EQ, effects)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-fairlight-presets-for-rapid-project-setup-efe3e56c": {
+      "topic_id": "topic-fairlight-presets-for-rapid-project-setup-efe3e56c",
+      "canonical_key": "fairlight presets for rapid project setup",
+      "label": "Fairlight presets for rapid project setup",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-false-color-vs-histogram-for-exposure-702fb421": {
+      "topic_id": "topic-false-color-vs-histogram-for-exposure-702fb421",
+      "canonical_key": "false color vs histogram for exposure",
+      "label": "False Color vs histogram for exposure",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-final-vr180-delivery-considerations-and-platform-1aaef369": {
+      "topic_id": "topic-final-vr180-delivery-considerations-and-platform-1aaef369",
+      "canonical_key": "final vr180 delivery considerations and platforms",
+      "label": "Final VR180 delivery considerations and platforms",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-fixed-iris-f-4-5-and-exposure-control-5622dff8": {
+      "topic_id": "topic-fixed-iris-f-4-5-and-exposure-control-5622dff8",
+      "canonical_key": "fixed iris (f/4.5) and exposure control",
+      "label": "Fixed iris (f/4.5) and exposure control",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-folder-based-import-to-preserve-structure-ac84f001": {
+      "topic_id": "topic-folder-based-import-to-preserve-structure-ac84f001",
+      "canonical_key": "folder-based import to preserve structure",
+      "label": "Folder-based import to preserve structure",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-frame-rate-90-frames-per-second-for-apple-immers-d452296c": {
+      "topic_id": "topic-frame-rate-90-frames-per-second-for-apple-immers-d452296c",
+      "canonical_key": "frame rate: 90 frames per second for apple immersive video",
+      "label": "Frame rate: 90 frames per second for Apple Immersive Video",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-fusion-basics-media-in-out-nodes-merge-masks-fas-db61d444": {
+      "topic_id": "topic-fusion-basics-media-in-out-nodes-merge-masks-fas-db61d444",
+      "canonical_key": "fusion basics (media in/out, nodes, merge, masks, fast noise, tracking)",
+      "label": "Fusion basics (Media In/Out, nodes, Merge, masks, fast noise, tracking)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-fusion-page-mediain-panomap-and-immersive-workfl-60c83238": {
+      "topic_id": "topic-fusion-page-mediain-panomap-and-immersive-workfl-60c83238",
+      "canonical_key": "fusion page: mediain, panomap, and immersive workflow",
+      "label": "Fusion page: MediaIn, Panomap, and Immersive workflow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-fusion-updates-for-removing-lenses-objects-in-ur-fd59a0d5": {
+      "topic_id": "topic-fusion-updates-for-removing-lenses-objects-in-ur-fd59a0d5",
+      "canonical_key": "fusion updates for removing lenses/objects in ursa immersive",
+      "label": "Fusion updates for removing lenses/objects in URSA Immersive",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-fusion-vs-color-vs-editing-understanding-where-s-3b816872": {
+      "topic_id": "topic-fusion-vs-color-vs-editing-understanding-where-s-3b816872",
+      "canonical_key": "fusion vs color vs editing: understanding where specialized tools fit in the pipeline",
+      "label": "Fusion vs color vs editing: understanding where specialized tools fit in the pipeline",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ground-control-philosophy-practical-hands-on-pra-6bdd350b": {
+      "topic_id": "topic-ground-control-philosophy-practical-hands-on-pra-6bdd350b",
+      "canonical_key": "ground control philosophy: practical hands-on practice with resolve (free version accessible)",
+      "label": "Ground Control philosophy: practical hands-on practice with Resolve (free version accessible)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-hardware-and-peripherals-color-panels-keyboards--e7bb5754": {
+      "topic_id": "topic-hardware-and-peripherals-color-panels-keyboards--e7bb5754",
+      "canonical_key": "hardware and peripherals (color panels, keyboards) as optional but beneficial tools",
+      "label": "Hardware and peripherals (color panels, keyboards) as optional but beneficial tools",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-hfr-button-mapping-for-false-color-076fadee": {
+      "topic_id": "topic-hfr-button-mapping-for-false-color-076fadee",
+      "canonical_key": "hfr button mapping for false color",
+      "label": "HFR button mapping for False Color",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-horizon-leveling-with-rulers-and-guides-7c44eb9a": {
+      "topic_id": "topic-horizon-leveling-with-rulers-and-guides-7c44eb9a",
+      "canonical_key": "horizon leveling with rulers and guides",
+      "label": "Horizon leveling with rulers and guides",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-hover-scrub-and-media-preview-metadata-panel-3df53f4b": {
+      "topic_id": "topic-hover-scrub-and-media-preview-metadata-panel-3df53f4b",
+      "canonical_key": "hover scrub and media preview, metadata panel",
+      "label": "Hover scrub and media preview, metadata panel",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-immersive-patcher-for-180-deg-distortion-removal-20c7f3e1": {
+      "topic_id": "topic-immersive-patcher-for-180-deg-distortion-removal-20c7f3e1",
+      "canonical_key": "immersive patcher for 180 deg distortion removal",
+      "label": "Immersive Patcher for 180 deg distortion removal",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-immersive-timeline-8160x7200-or-4080x3600-proxy-2bc6c3d4": {
+      "topic_id": "topic-immersive-timeline-8160x7200-or-4080x3600-proxy-2bc6c3d4",
+      "canonical_key": "immersive timeline: 8160x7200 (or 4080x3600 proxy)",
+      "label": "Immersive timeline: 8160x7200 (or 4080x3600 proxy)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-immersive-view-lens-space-and-3d-viewport-tools-f6161be5": {
+      "topic_id": "topic-immersive-view-lens-space-and-3d-viewport-tools-f6161be5",
+      "canonical_key": "immersive view, lens space, and 3d viewport tools",
+      "label": "Immersive View, Lens Space, and 3D viewport tools",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-import-media-into-the-media-pool-c4b7f80f": {
+      "topic_id": "topic-import-media-into-the-media-pool-c4b7f80f",
+      "canonical_key": "import media into the media pool",
+      "label": "Import media into the Media Pool",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-importing-media-and-building-a-media-pool-0756d80d": {
+      "topic_id": "topic-importing-media-and-building-a-media-pool-0756d80d",
+      "canonical_key": "importing media and building a media pool",
+      "label": "Importing media and building a media pool",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-inserting-branding-and-motion-graphics-in-immers-a538156f": {
+      "topic_id": "topic-inserting-branding-and-motion-graphics-in-immers-a538156f",
+      "canonical_key": "inserting branding and motion graphics in immersive 3d",
+      "label": "Inserting branding and motion graphics in immersive 3D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-inspector-use-transform-rotation-opacity-and-aud-12f81c50": {
+      "topic_id": "topic-inspector-use-transform-rotation-opacity-and-aud-12f81c50",
+      "canonical_key": "inspector use: transform, rotation, opacity, and audio levels",
+      "label": "Inspector use: transform, rotation, opacity, and audio levels",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-intro-text-titles-and-logo-overlays-including-te-b2ee28ed": {
+      "topic_id": "topic-intro-text-titles-and-logo-overlays-including-te-b2ee28ed",
+      "canonical_key": "intro text, titles, and logo overlays (including templates)",
+      "label": "Intro text, titles, and logo overlays (including templates)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-intro-outro-voice-and-sponsor-integration-contex-c3e75b3f": {
+      "topic_id": "topic-intro-outro-voice-and-sponsor-integration-contex-c3e75b3f",
+      "canonical_key": "intro/outro voice and sponsor integration (contextual to the video)",
+      "label": "Intro/outro voice and sponsor integration (contextual to the video)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-keyboard-shortcuts-for-editing-q-w-s-backslash-j-fa0f79df": {
+      "topic_id": "topic-keyboard-shortcuts-for-editing-q-w-s-backslash-j-fa0f79df",
+      "canonical_key": "keyboard shortcuts for editing (q, w, s, backslash, j/k/l) and custom presets",
+      "label": "Keyboard shortcuts for editing (Q, W, S, Backslash, J/K/L) and custom presets",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-keyword-search-in-transcription-e-g-wheelchair-t-47e18e50": {
+      "topic_id": "topic-keyword-search-in-transcription-e-g-wheelchair-t-47e18e50",
+      "canonical_key": "keyword search in transcription (e.g., 'wheelchair') to locate clips",
+      "label": "Keyword search in transcription (e.g., 'wheelchair') to locate clips",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-led-screen-flicker-considerations-on-set-2527b59c": {
+      "topic_id": "topic-led-screen-flicker-considerations-on-set-2527b59c",
+      "canonical_key": "led screen flicker considerations on set",
+      "label": "LED screen flicker considerations on set",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-left-and-right-eye-stereo-fixes-and-timelines-0e863421": {
+      "topic_id": "topic-left-and-right-eye-stereo-fixes-and-timelines-0e863421",
+      "canonical_key": "left and right eye stereo fixes and timelines",
+      "label": "Left and right eye stereo fixes and timelines",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-magic-mask-fusion-for-masking-and-rotoscoping-1ef405fc": {
+      "topic_id": "topic-magic-mask-fusion-for-masking-and-rotoscoping-1ef405fc",
+      "canonical_key": "magic mask (fusion) for masking and rotoscoping",
+      "label": "Magic Mask (Fusion) for masking and rotoscoping",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-magic-mask-paid-feature-and-advanced-masking-wor-df336191": {
+      "topic_id": "topic-magic-mask-paid-feature-and-advanced-masking-wor-df336191",
+      "canonical_key": "magic mask (paid feature) and advanced masking workflows",
+      "label": "Magic Mask (paid feature) and advanced masking workflows",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-masking-with-pen-tool-and-alpha-output-for-backg-97abbc3e": {
+      "topic_id": "topic-masking-with-pen-tool-and-alpha-output-for-backg-97abbc3e",
+      "canonical_key": "masking with pen tool and alpha output for background replacement",
+      "label": "Masking with Pen Tool and Alpha Output for background replacement",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-media-management-basics-bins-folders-master-bin-9f4de23f": {
+      "topic_id": "topic-media-management-basics-bins-folders-master-bin-9f4de23f",
+      "canonical_key": "media management basics (bins, folders, master bin)",
+      "label": "Media management basics (bins, folders, master bin)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-metadata-groups-and-tagging-for-organization-178d58a1": {
+      "topic_id": "topic-metadata-groups-and-tagging-for-organization-178d58a1",
+      "canonical_key": "metadata groups and tagging for organization",
+      "label": "Metadata groups and tagging for organization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-monoscopic-360-to-apple-immersive-180-conversion-9c88f9b2": {
+      "topic_id": "topic-monoscopic-360-to-apple-immersive-180-conversion-9c88f9b2",
+      "canonical_key": "monoscopic 360 to apple immersive 180 conversion with panomap",
+      "label": "Monoscopic 360 to Apple Immersive 180 conversion with Panomap",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-multi-clip-cloning-ghost-subject-effects-658282b6": {
+      "topic_id": "topic-multi-clip-cloning-ghost-subject-effects-658282b6",
+      "canonical_key": "multi-clip cloning/ghost subject effects",
+      "label": "Multi-clip cloning/ghost subject effects",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-music-import-editing-fades-and-track-organizatio-20fd1854": {
+      "topic_id": "topic-music-import-editing-fades-and-track-organizatio-20fd1854",
+      "canonical_key": "music import, editing, fades, and track organization",
+      "label": "Music import, editing, fades, and track organization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ntsc-vs-pal-60hz-vs-50hz-shutter-settings-9b48ee1d": {
+      "topic_id": "topic-ntsc-vs-pal-60hz-vs-50hz-shutter-settings-9b48ee1d",
+      "canonical_key": "ntsc vs pal: 60hz vs 50hz shutter settings",
+      "label": "NTSC vs PAL: 60Hz vs 50Hz shutter settings",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-on-set-monitoring-cross-checking-left-right-eyes-281584a6": {
+      "topic_id": "topic-on-set-monitoring-cross-checking-left-right-eyes-281584a6",
+      "canonical_key": "on-set monitoring: cross-checking left/right eyes",
+      "label": "On-set monitoring: cross-checking left/right eyes",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-overall-workflow-organize-media-edit-story-color-a7719c1f": {
+      "topic_id": "topic-overall-workflow-organize-media-edit-story-color-a7719c1f",
+      "canonical_key": "overall workflow: organize media → edit/story → color → fusion → fairlight → deliver",
+      "label": "Overall workflow: organize media → edit/story → color → Fusion → Fairlight → deliver",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-primaries-color-wheels-lift-gamma-gain-offset-te-27516015": {
+      "topic_id": "topic-primaries-color-wheels-lift-gamma-gain-offset-te-27516015",
+      "canonical_key": "primaries color wheels (lift, gamma, gain, offset; temperature, tint; master wheel)",
+      "label": "Primaries color wheels (lift, gamma, gain, offset; temperature, tint; master wheel)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-project-frame-rate-and-vertical-timeline-setup-t-eb7efdec": {
+      "topic_id": "topic-project-frame-rate-and-vertical-timeline-setup-t-eb7efdec",
+      "canonical_key": "project frame rate and vertical timeline setup (tiktok/youtube shorts)",
+      "label": "Project frame rate and vertical timeline setup (TikTok/YouTube Shorts)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-project-manager-and-creating-a-new-project-d9afc54f": {
+      "topic_id": "topic-project-manager-and-creating-a-new-project-d9afc54f",
+      "canonical_key": "project manager and creating a new project",
+      "label": "Project manager and creating a new project",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-project-setup-and-project-libraries-local-networ-6fe2ddf3": {
+      "topic_id": "topic-project-setup-and-project-libraries-local-networ-6fe2ddf3",
+      "canonical_key": "project setup and project libraries (local, network, cloud)",
+      "label": "Project setup and project libraries (local, network, cloud)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-real-world-tips-like-don-t-over-stylize-color-sh-504e1264": {
+      "topic_id": "topic-real-world-tips-like-don-t-over-stylize-color-sh-504e1264",
+      "canonical_key": "real-world tips like “don’t over-stylize; color should reflect the shoot”",
+      "label": "Real-world tips like “don’t over-stylize; color should reflect the shoot”",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-resolve-pages-and-workflow-media-cut-edit-fusion-35b76d2b": {
+      "topic_id": "topic-resolve-pages-and-workflow-media-cut-edit-fusion-35b76d2b",
+      "canonical_key": "resolve pages and workflow (media, cut, edit, fusion, color, fairlight, deliver)",
+      "label": "Resolve pages and workflow (Media, Cut, Edit, Fusion, Color, Fairlight, Deliver)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-retiming-and-speed-changes-change-speed-to-50-2c178128": {
+      "topic_id": "topic-retiming-and-speed-changes-change-speed-to-50-2c178128",
+      "canonical_key": "retiming and speed changes (change speed to 50%)",
+      "label": "Retiming and speed changes (Change Speed to 50%)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ripple-delete-silence-to-remove-gaps-in-a-roll-b20c2614": {
+      "topic_id": "topic-ripple-delete-silence-to-remove-gaps-in-a-roll-b20c2614",
+      "canonical_key": "ripple delete silence to remove gaps in a-roll",
+      "label": "Ripple Delete Silence to remove gaps in A-roll",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-secondary-corrections-windows-masks-qualifiers-t-f1abc0dc": {
+      "topic_id": "topic-secondary-corrections-windows-masks-qualifiers-t-f1abc0dc",
+      "canonical_key": "secondary corrections (windows/masks, qualifiers, tracking)",
+      "label": "Secondary corrections (windows/masks, qualifiers, tracking)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-shutter-angle-as-a-lighting-matching-tool-6a5cad37": {
+      "topic_id": "topic-shutter-angle-as-a-lighting-matching-tool-6a5cad37",
+      "canonical_key": "shutter angle as a lighting-matching tool",
+      "label": "Shutter angle as a lighting-matching tool",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-shutter-angle-vs-exposure-9e9bd106": {
+      "topic_id": "topic-shutter-angle-vs-exposure-9e9bd106",
+      "canonical_key": "shutter angle vs exposure",
+      "label": "Shutter angle vs exposure",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-smart-bins-and-keyword-tagging-for-organizing-fo-3ecb749e": {
+      "topic_id": "topic-smart-bins-and-keyword-tagging-for-organizing-fo-3ecb749e",
+      "canonical_key": "smart bins and keyword tagging for organizing footage",
+      "label": "Smart bins and keyword tagging for organizing footage",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-smooth-cut-transitions-to-bridge-cuts-with-ai-ge-058c62cc": {
+      "topic_id": "topic-smooth-cut-transitions-to-bridge-cuts-with-ai-ge-058c62cc",
+      "canonical_key": "smooth cut transitions to bridge cuts with ai-generated frames",
+      "label": "Smooth Cut transitions to bridge cuts with AI-generated frames",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-sound-design-workflow-ambience-dialog-music-effe-435b509f": {
+      "topic_id": "topic-sound-design-workflow-ambience-dialog-music-effe-435b509f",
+      "canonical_key": "sound design workflow (ambience, dialog, music, effects, buses)",
+      "label": "Sound design workflow (ambience, dialog, music, effects, buses)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-sound-design-timing-sound-effects-sfx-and-balanc-72870be1": {
+      "topic_id": "topic-sound-design-timing-sound-effects-sfx-and-balanc-72870be1",
+      "canonical_key": "sound design: timing sound effects (sfx) and balancing with music",
+      "label": "Sound design: timing sound effects (SFX) and balancing with music",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-source-viewer-vs-timeline-viewer-and-source-tape-87e3091b": {
+      "topic_id": "topic-source-viewer-vs-timeline-viewer-and-source-tape-87e3091b",
+      "canonical_key": "source viewer vs timeline viewer and source tape mode",
+      "label": "Source viewer vs timeline viewer and source tape mode",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-speed-warp-ai-for-retiming-video-with-optical-fl-018ed32f": {
+      "topic_id": "topic-speed-warp-ai-for-retiming-video-with-optical-fl-018ed32f",
+      "canonical_key": "speed warp ai for retiming video with optical flow",
+      "label": "Speed Warp AI for retiming video with optical flow",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-speed-warp-vs-faster-option-tradeoffs-in-renderi-584b7158": {
+      "topic_id": "topic-speed-warp-vs-faster-option-tradeoffs-in-renderi-584b7158",
+      "canonical_key": "speed warp vs. faster option: tradeoffs in rendering and quality",
+      "label": "Speed warp vs. faster option: tradeoffs in rendering and quality",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-subtitle-styling-inspector-captions-and-track-op-97411abc": {
+      "topic_id": "topic-subtitle-styling-inspector-captions-and-track-op-97411abc",
+      "canonical_key": "subtitle styling: inspector captions and track options",
+      "label": "Subtitle styling: inspector captions and track options",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-sunshade-usage-for-outdoor-shoots-c093225a": {
+      "topic_id": "topic-sunshade-usage-for-outdoor-shoots-c093225a",
+      "canonical_key": "sunshade usage for outdoor shoots",
+      "label": "Sunshade usage for outdoor shoots",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-system-requirements-and-free-vs-studio-licensing-62120b00": {
+      "topic_id": "topic-system-requirements-and-free-vs-studio-licensing-62120b00",
+      "canonical_key": "system requirements and free vs studio licensing",
+      "label": "System requirements and free vs Studio licensing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-text-graphics-in-lens-space-and-3d-convergence-df03494a": {
+      "topic_id": "topic-text-graphics-in-lens-space-and-3d-convergence-df03494a",
+      "canonical_key": "text/graphics in lens space and 3d convergence",
+      "label": "Text/graphics in lens space and 3D convergence",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-time-aligning-footage-to-music-beats-with-show-m-6e8cc2c8": {
+      "topic_id": "topic-time-aligning-footage-to-music-beats-with-show-m-6e8cc2c8",
+      "canonical_key": "time-aligning footage to music beats with show music beats",
+      "label": "Time-aligning footage to music beats with Show Music Beats",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-timecode-external-sources-tentacle-sync-e-hollyl-57957390": {
+      "topic_id": "topic-timecode-external-sources-tentacle-sync-e-hollyl-57957390",
+      "canonical_key": "timecode: external sources (tentacle sync e, hollyland lark max 2, saramonic tc-neo)",
+      "label": "Timecode: external sources (Tentacle Sync E, Hollyland Lark Max 2, Saramonic TC-NEO)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-timeline-navigation-and-playback-shortcuts-space-4449a6e9": {
+      "topic_id": "topic-timeline-navigation-and-playback-shortcuts-space-4449a6e9",
+      "canonical_key": "timeline navigation and playback shortcuts (space, l, k, j)",
+      "label": "Timeline navigation and playback shortcuts (Space, L, K, J)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-tracking-forward-to-stabilize-a-mask-cfcb11dd": {
+      "topic_id": "topic-tracking-forward-to-stabilize-a-mask-cfcb11dd",
+      "canonical_key": "tracking forward to stabilize a mask",
+      "label": "Tracking forward to stabilize a mask",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-tracking-in-fusion-and-color-page-to-follow-subj-af15c3ca": {
+      "topic_id": "topic-tracking-in-fusion-and-color-page-to-follow-subj-af15c3ca",
+      "canonical_key": "tracking in fusion and color page to follow subjects",
+      "label": "Tracking in Fusion and color page to follow subjects",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-transitions-push-glitch-and-template-based-with--b312c998": {
+      "topic_id": "topic-transitions-push-glitch-and-template-based-with--b312c998",
+      "canonical_key": "transitions (push, glitch, and template-based) with motion blur and easing",
+      "label": "Transitions (Push, Glitch, and template-based) with motion blur and easing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-trimming-ripple-trim-and-edge-trimming-in-out-10ffcc99": {
+      "topic_id": "topic-trimming-ripple-trim-and-edge-trimming-in-out-10ffcc99",
+      "canonical_key": "trimming, ripple trim, and edge trimming (in/out)",
+      "label": "Trimming, ripple trim, and edge trimming (in/out)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-two-lcd-screens-dp-vs-ac-monitor-415e377f": {
+      "topic_id": "topic-two-lcd-screens-dp-vs-ac-monitor-415e377f",
+      "canonical_key": "two lcd screens: dp vs ac monitor",
+      "label": "Two LCD screens: DP vs AC monitor",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-two-eye-immersion-setup-for-vr180-with-canon-r5c-95d066ba": {
+      "topic_id": "topic-two-eye-immersion-setup-for-vr180-with-canon-r5c-95d066ba",
+      "canonical_key": "two-eye immersion setup for vr180 with canon/r5c and qoocam",
+      "label": "Two-eye immersion setup for VR180 with Canon/R5C and Qoocam",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ursa-cine-immersive-canon-eos-vr-compatibility-57055a55": {
+      "topic_id": "topic-ursa-cine-immersive-canon-eos-vr-compatibility-57055a55",
+      "canonical_key": "ursa cine immersive + canon eos vr compatibility",
+      "label": "URSA Cine Immersive + Canon EOS VR compatibility",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ursa-cine-immersive-camera-a1e86996": {
+      "topic_id": "topic-ursa-cine-immersive-camera-a1e86996",
+      "canonical_key": "ursa cine immersive camera",
+      "label": "URSA Cine Immersive camera",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-using-camera-metadata-to-map-360-to-lens-space-a413d0d9": {
+      "topic_id": "topic-using-camera-metadata-to-map-360-to-lens-space-a413d0d9",
+      "canonical_key": "using camera metadata to map 360 to lens space",
+      "label": "Using camera metadata to map 360 to lens space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-using-fusion-page-with-magic-mask-and-onscreen-p-1f53f6ad": {
+      "topic_id": "topic-using-fusion-page-with-magic-mask-and-onscreen-p-1f53f6ad",
+      "canonical_key": "using fusion page with magic mask and onscreen picker",
+      "label": "Using Fusion page with Magic Mask and onscreen picker",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-using-stills-and-galleries-for-color-matching-an-9c5423f2": {
+      "topic_id": "topic-using-stills-and-galleries-for-color-matching-an-9c5423f2",
+      "canonical_key": "using stills and galleries for color matching and mood consistency",
+      "label": "Using stills and galleries for color matching and mood consistency",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-using-stills-for-color-matching-gallery-stills-74ae48a5": {
+      "topic_id": "topic-using-stills-for-color-matching-gallery-stills-74ae48a5",
+      "canonical_key": "using stills for color matching (gallery/stills)",
+      "label": "Using stills for color matching (gallery/stills)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-verification-best-practices-using-vision-pro-for-8c4f57ed": {
+      "topic_id": "topic-verification-best-practices-using-vision-pro-for-8c4f57ed",
+      "canonical_key": "verification best practices using vision pro for stereo checks",
+      "label": "Verification best practices using Vision Pro for stereo checks",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vision-pro-live-preview-and-streaming-from-resol-bf2d5c1b": {
+      "topic_id": "topic-vision-pro-live-preview-and-streaming-from-resol-bf2d5c1b",
+      "canonical_key": "vision pro live preview and streaming from resolve",
+      "label": "Vision Pro live preview and streaming from Resolve",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vision-pro-utility-and-multi-head-streaming-45a96204": {
+      "topic_id": "topic-vision-pro-utility-and-multi-head-streaming-45a96204",
+      "canonical_key": "vision pro utility and multi-head streaming",
+      "label": "Vision Pro Utility and multi-head streaming",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vr180-export-workflow-in-delivery-42983ea5": {
+      "topic_id": "topic-vr180-export-workflow-in-delivery-42983ea5",
+      "canonical_key": "vr180 export workflow in delivery",
+      "label": "VR180 export workflow in Delivery",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vr180-per-eye-resolution-8640x8640-and-16k-total-1e802bba": {
+      "topic_id": "topic-vr180-per-eye-resolution-8640x8640-and-16k-total-1e802bba",
+      "canonical_key": "vr180 per-eye resolution: 8640x8640 and 16k total",
+      "label": "VR180 per-eye resolution: 8640x8640 and 16K total",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-white-balance-adjustments-6c7349c8": {
+      "topic_id": "topic-white-balance-adjustments-6c7349c8",
+      "canonical_key": "white balance adjustments",
+      "label": "White balance adjustments",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-working-with-color-management-and-scope-reading--730358e5": {
+      "topic_id": "topic-working-with-color-management-and-scope-reading--730358e5",
+      "canonical_key": "working with color management and scope reading (waveform, parade, histogram, vector)",
+      "label": "Working with color management and scope reading (Waveform, Parade, Histogram, Vector)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-world-pose-for-post-level-adjustments-e62a0abf": {
+      "topic_id": "topic-world-pose-for-post-level-adjustments-e62a0abf",
+      "canonical_key": "world pose for post-level adjustments",
+      "label": "World Pose for post-level adjustments",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    }
+  },
+  "topic_families": {},
+  "items": {
+    "video-davinci-resolve-mrhvgoq9ly-youtube-d3a1bf6c": {
+      "item_id": "video-davinci-resolve-mrhvgoq9ly-youtube-d3a1bf6c",
+      "title": "DaVinci Resolve: Level One Edit & Advanced Techniques for Social Video (Mac & PC)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "-MrHvGoq9lY",
+          "url": "https://www.youtube.com/watch?v=-MrHvGoq9lY"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/-MrHvGoq9lY.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This in-depth tutorial switches between DaVinci Resolve’s UI and hands‑on editing, guiding a beginner from a basic Resolve layout and media import to a complete Level One edit and an outline of an Advanced Edit. It covers importing media (including folder-based import), setting up project settings (timeline resolution and vertical formats for social platforms), fundamental timeline editing (blade tool, trim, and basic inspector adjustments), color grading with LUTs (notably a Sony LUT) and color wheels, audio shaping (normalization and compressor), B‑roll insertion and multi‑track layering, transitions (Push, glitch, and other effects), intro text and logo overlays, masking and tracking for background replacement, cloning/ghosting effects, and the process of exporting with options for captions. The video also demonstrates practical workflow tips for social media content, like vertical timelines, punch-ins, and template-based text—culminating in an advanced edit preview before a final render.",
+      "date": {
+        "display": "May 28, 2025",
+        "iso": "2025-05-28",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-import-media-into-the-media-pool-c4b7f80f",
+        "topic-folder-based-import-to-preserve-structure-ac84f001",
+        "topic-project-frame-rate-and-vertical-timeline-setup-t-eb7efdec",
+        "topic-timeline-navigation-and-playback-shortcuts-space-4449a6e9",
+        "topic-blade-tool-command-b-and-timeline-trimming-327d4f38",
+        "topic-inspector-use-transform-rotation-opacity-and-aud-12f81c50",
+        "topic-color-grading-with-luts-sony-lut-and-color-wheel-1079943c",
+        "topic-white-balance-adjustments-6c7349c8",
+        "topic-audio-normalization-true-peak-and-fairlight-comp-45fdb719",
+        "topic-b-roll-insertion-and-layering-order-7df182b3",
+        "topic-retiming-and-speed-changes-change-speed-to-50-2c178128",
+        "topic-masking-with-pen-tool-and-alpha-output-for-backg-97abbc3e",
+        "topic-background-replacement-and-motion-tracking-557765c4",
+        "topic-multi-clip-cloning-ghost-subject-effects-658282b6",
+        "topic-transitions-push-glitch-and-template-based-with--b312c998",
+        "topic-intro-text-titles-and-logo-overlays-including-te-b2ee28ed",
+        "topic-captions-manual-in-free-version-and-auto-caption-6359d270",
+        "topic-music-import-editing-fades-and-track-organizatio-20fd1854",
+        "topic-delivery-export-render-settings-subtitles-export-8b49177a",
+        "topic-advanced-text-animation-using-keyframes-and-curv-2c13fe95",
+        "topic-sound-design-timing-sound-effects-sfx-and-balanc-72870be1",
+        "topic-intro-outro-voice-and-sponsor-integration-contex-c3e75b3f"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-import-media-into-the-media-pool-c4b7f80f": [
+          1
+        ],
+        "topic-folder-based-import-to-preserve-structure-ac84f001": [
+          1
+        ],
+        "topic-project-frame-rate-and-vertical-timeline-setup-t-eb7efdec": [
+          1
+        ],
+        "topic-color-grading-with-luts-sony-lut-and-color-wheel-1079943c": [
+          2,
+          3
+        ],
+        "topic-white-balance-adjustments-6c7349c8": [
+          2,
+          3
+        ],
+        "topic-audio-normalization-true-peak-and-fairlight-comp-45fdb719": [
+          2
+        ],
+        "topic-retiming-and-speed-changes-change-speed-to-50-2c178128": [
+          3
+        ],
+        "topic-masking-with-pen-tool-and-alpha-output-for-backg-97abbc3e": [
+          4
+        ],
+        "topic-background-replacement-and-motion-tracking-557765c4": [
+          5
+        ],
+        "topic-intro-outro-voice-and-sponsor-integration-contex-c3e75b3f": [
+          0,
+          4
+        ]
+      },
+      "chapter_count": 6
+    },
+    "video-davinci-resolve-0dm-zyf09rq-youtube-16f4e5da": {
+      "item_id": "video-davinci-resolve-0dm-zyf09rq-youtube-16f4e5da",
+      "title": "URSA Cine Immersive to Apple Vision Pro: Beginner's Guide, On-Set Tips, and Resolve 20.1 Immersive Workflow",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "0dm_zYf09rQ",
+          "url": "https://www.youtube.com/watch?v=0dm_zYf09rQ"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/0dm_zYf09rQ.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video guides beginners through the Blackmagic URSA Cine Immersive workflow for Apple Vision Pro, from hardware setup and on-set tips to a complete post workflow in DaVinci Resolve 20.1. It covers camera settings (iris, built‑in NDs, frame rate, shutter angle, and flicker considerations), on-set monitoring and I/O (SDI, timecode, 10G data port), and offloading. The tutorial then dives into immersive editing in Resolve: enabling the Immersive workflow, resolution and proxy choices based on hardware, color management tailored for Vision Pro, and importing Blackmagic RAW. It expands into advanced tools like Edge Blend, Lens Space/LatLong, text graphics in lens space, Fusion tools for removing unwanted elements, and an ASAF-based Ambisonic workflow with head-tracking monitoring using AirPods. Finally, it covers Vision Pro delivery options (AIVU previews, Vision Pro Bundle, ASAF, VR180) and how to stream to multiple Vision Pros, framing the workflow as a practical, end-to-end pipeline from unboxing to a finished immersive video.",
+      "date": {
+        "display": "August 11, 2025",
+        "iso": "2025-08-11",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [
+        {
+          "name": "Mill Creek Park (explicit example for lens flare)",
+          "confidence": 0.65,
+          "basis": "Transcript mentions: 'Mill Creek Park — our latest release — we had lens flare showing up on one lens but not the other here' (00:05:22.480). Context indicates use as an example, not necessarily shooting location."
+        },
+        {
+          "name": "England (probable travel/shoot location)",
+          "confidence": 0.6,
+          "basis": "Transcript: 'I’m heading to England in two weeks with this camera, so I’ll set it to 50Hz' (00:03:03.840–00:03:10.880). Indicates a planned trip/location relative to shooting, labeled here as probable."
+        }
+      ],
+      "topic_ids": [
+        "topic-ursa-cine-immersive-camera-a1e86996",
+        "topic-apple-vision-pro-integration-cd0ea2c5",
+        "topic-two-lcd-screens-dp-vs-ac-monitor-415e377f",
+        "topic-sunshade-usage-for-outdoor-shoots-c093225a",
+        "topic-fixed-iris-f-4-5-and-exposure-control-5622dff8",
+        "topic-built-in-nd-filters-2-4-6-8-stops-1b373616",
+        "topic-frame-rate-90-frames-per-second-for-apple-immers-d452296c",
+        "topic-ntsc-vs-pal-60hz-vs-50hz-shutter-settings-9b48ee1d",
+        "topic-shutter-angle-vs-exposure-9e9bd106",
+        "topic-led-screen-flicker-considerations-on-set-2527b59c",
+        "topic-shutter-angle-as-a-lighting-matching-tool-6a5cad37",
+        "topic-false-color-vs-histogram-for-exposure-702fb421",
+        "topic-hfr-button-mapping-for-false-color-076fadee",
+        "topic-on-set-monitoring-cross-checking-left-right-eyes-281584a6",
+        "topic-cool-camera-outputs-sdi-a-b-4k-monitoring-98dbbd4d",
+        "topic-timecode-external-sources-tentacle-sync-e-hollyl-57957390",
+        "topic-10g-ethernet-data-port-for-dit-and-resolve-integ-4ce62055",
+        "topic-direct-camera-mount-inside-davinci-resolve-1b406e7f",
+        "topic-davinci-resolve-20-1-immersive-workflow-setup-bbb57063",
+        "topic-immersive-timeline-8160x7200-or-4080x3600-proxy-2bc6c3d4",
+        "topic-color-management-for-vision-pro-davinci-wide-gam-f193a691",
+        "topic-edge-blend-and-visionos-metadata-workflow-7183baa7",
+        "topic-immersive-view-lens-space-and-3d-viewport-tools-f6161be5",
+        "topic-text-graphics-in-lens-space-and-3d-convergence-df03494a",
+        "topic-fusion-updates-for-removing-lenses-objects-in-ur-fd59a0d5",
+        "topic-asaf-apple-spatial-audio-format-in-fairlight-429de69e",
+        "topic-ambisonics-1st-3rd-order-headlock-monitoring-wit-68e89a38",
+        "topic-fairlight-presets-for-rapid-project-setup-efe3e56c",
+        "topic-aivu-delivery-options-vision-pro-preview-vision--e783b056",
+        "topic-vision-pro-utility-and-multi-head-streaming-45a96204"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-fixed-iris-f-4-5-and-exposure-control-5622dff8": [
+          2,
+          3,
+          4
+        ],
+        "topic-text-graphics-in-lens-space-and-3d-convergence-df03494a": [
+          12
+        ],
+        "topic-asaf-apple-spatial-audio-format-in-fairlight-429de69e": [
+          15
+        ],
+        "topic-ambisonics-1st-3rd-order-headlock-monitoring-wit-68e89a38": [
+          15
+        ]
+      },
+      "chapter_count": 17
+    },
+    "video-davinci-resolve-d33f1tktokg-youtube-a8a0801e": {
+      "item_id": "video-davinci-resolve-d33f1tktokg-youtube-a8a0801e",
+      "title": "DaVinci Resolve Studio: 10 AI Tools Demonstrated with Timed Techniques",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "D33F1tktokg",
+          "url": "https://www.youtube.com/watch?v=D33F1tktokg"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/D33F1tktokg.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video showcases ten AI-enabled features directly built into DaVinci Resolve Studio, demonstrated in a practical editing workflow. The presenter traverses a workflow from masking and background composite using the Magic Mask (with a Fusion-based setup) to speed up heavy rotoscoping tasks, through AI-powered transcription and keyword-driven editing for efficient referencing, and into automated subtitling. The guide then covers voice-based tools for post-production, including AI voice training for voice conversion and AI voice isolation to clean dialogue, followed by several music-centric AI features for editing and timing. Additional acceleration comes from AI-powered ripple delete for silences, a Smooth Cut transition to bridge gaps, and AI-driven speed warp for retiming video. Across these sections, the video emphasizes saving hours of manual work and enabling rapid iteration when edits require last-minute changes or alignment to music and beats. The transcript anchors each section to exact DaVinci Resolve actions and settings, providing a concrete, timestamped map of the tools demonstrated.",
+      "date": {
+        "display": "October 20, 2025",
+        "iso": "2025-10-20",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-magic-mask-fusion-for-masking-and-rotoscoping-1ef405fc",
+        "topic-using-fusion-page-with-magic-mask-and-onscreen-p-1f53f6ad",
+        "topic-tracking-forward-to-stabilize-a-mask-cfcb11dd",
+        "topic-background-replacement-behind-a-talking-head-0ad14201",
+        "topic-duplicate-clip-workflow-option-alt-drag-for-comp-c8ce7178",
+        "topic-ai-transcription-and-timeline-navigation-4cd26023",
+        "topic-keyword-search-in-transcription-e-g-wheelchair-t-47e18e50",
+        "topic-copying-transcription-text-into-the-timeline-for-848fdf50",
+        "topic-create-subtitles-from-audio-automatic-subtitles-c7561965",
+        "topic-subtitle-styling-inspector-captions-and-track-op-97411abc",
+        "topic-animated-subtitles-word-by-word-animation-c153ee21",
+        "topic-ai-voice-training-for-voice-cloning-eba2549b",
+        "topic-ai-voice-conversion-to-mimic-a-client-s-voice-081a4d47",
+        "topic-ai-voice-isolation-to-remove-background-noise-5ba1648f",
+        "topic-ai-music-remixer-to-mute-or-reduce-instruments-d-7711129b",
+        "topic-ai-music-editor-to-adjust-track-length-and-timin-369d3a75",
+        "topic-time-aligning-footage-to-music-beats-with-show-m-6e8cc2c8",
+        "topic-ripple-delete-silence-to-remove-gaps-in-a-roll-b20c2614",
+        "topic-crossfade-option-for-ripple-deletion-when-needed-b8f94f65",
+        "topic-smooth-cut-transitions-to-bridge-cuts-with-ai-ge-058c62cc",
+        "topic-speed-warp-ai-for-retiming-video-with-optical-fl-018ed32f",
+        "topic-speed-warp-vs-faster-option-tradeoffs-in-renderi-584b7158",
+        "topic-be-mindful-of-artifacts-and-head-position-change-3c15d00a"
+      ],
+      "family_ids": [],
+      "topic_sections": {},
+      "chapter_count": 12
+    },
+    "video-davinci-resolve-mcdvcqia3um-youtube-1c8cfec2": {
+      "item_id": "video-davinci-resolve-mcdvcqia3um-youtube-1c8cfec2",
+      "title": "Introduction to DaVinci Resolve: Media Management, Editing, Fusion, Color, and Fairlight (Comprehensive Beginner Course)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "MCDVcQIA3UM",
+          "url": "https://www.youtube.com/watch?v=MCDVcQIA3UM"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/MCDVcQIA3UM.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This YouTube tutorial by Casey Faris presents a compact, hands-on tour of DaVinci Resolve geared to beginners, covering the full post-production workflow inside a single application. The video introduces Resolve’s modular pages (Media, Cut, Edit, Fusion, Color, Fairlight, Deliver), demonstrates essential media management (project libraries, metadata, bins, smart bins, and keyword tagging), walks through importing and organizing footage, and shows fundamental editing techniques (timeline assembly, trimming, in/out points, and anchor-style storytelling). It then moves into Fusion for node-based compositing, color grading with primary wheels, curves, and color management, advanced color-science concepts (log vs HDR wheels and scopes), and finally the Fairlight audio environment (multitrack mixing, buses, dynamics, EQ, and effects). A practical through-line runs from media management and timeline assembly to basic color correction, simple VFX (fog and masking) in Fusion, and basic audio design, concluding with deliverables and archiving. The course emphasizes practical, bite-sized steps and demonstrates how Resolve’s free version can cover 90% of users’ needs, while also noting the Studio edition’s extras (AI tools, more effects, and higher-end features).",
+      "date": {
+        "display": "July 25, 2025",
+        "iso": "2025-07-25",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-resolve-pages-and-workflow-media-cut-edit-fusion-35b76d2b",
+        "topic-system-requirements-and-free-vs-studio-licensing-62120b00",
+        "topic-project-setup-and-project-libraries-local-networ-6fe2ddf3",
+        "topic-project-manager-and-creating-a-new-project-d9afc54f",
+        "topic-media-management-basics-bins-folders-master-bin-9f4de23f",
+        "topic-hover-scrub-and-media-preview-metadata-panel-3df53f4b",
+        "topic-smart-bins-and-keyword-tagging-for-organizing-fo-3ecb749e",
+        "topic-importing-media-and-building-a-media-pool-0756d80d",
+        "topic-metadata-groups-and-tagging-for-organization-178d58a1",
+        "topic-audio-syncing-and-autosync-by-waveform-611ecee2",
+        "topic-camera-vs-external-audio-synchronization-and-syn-41a1159b",
+        "topic-source-viewer-vs-timeline-viewer-and-source-tape-87e3091b",
+        "topic-editing-fundamentals-timeline-playhead-insert-ap-eaf740a1",
+        "topic-anchoring-a-story-anchor-technique-and-clip-sequ-5379576d",
+        "topic-trimming-ripple-trim-and-edge-trimming-in-out-10ffcc99",
+        "topic-keyboard-shortcuts-for-editing-q-w-s-backslash-j-fa0f79df",
+        "topic-copying-color-grades-between-shots-middle-click--15ceadaa",
+        "topic-using-stills-for-color-matching-gallery-stills-74ae48a5",
+        "topic-color-management-overview-input-color-space-colo-7d13913a",
+        "topic-primaries-color-wheels-lift-gamma-gain-offset-te-27516015",
+        "topic-curves-custom-and-hue-area-based-corrections-08ce1acc",
+        "topic-secondary-corrections-windows-masks-qualifiers-t-f1abc0dc",
+        "topic-fusion-basics-media-in-out-nodes-merge-masks-fas-db61d444",
+        "topic-building-a-simple-fusion-shot-fog-via-fast-noise-8c2ace2c",
+        "topic-tracking-in-fusion-and-color-page-to-follow-subj-af15c3ca",
+        "topic-magic-mask-paid-feature-and-advanced-masking-wor-df336191",
+        "topic-fairlight-basics-timeline-tracks-mixers-dynamics-1e448acc",
+        "topic-sound-design-workflow-ambience-dialog-music-effe-435b509f",
+        "topic-deliver-page-basics-codecs-h-264-h-265-prores-dn-26ab218e",
+        "topic-archiving-and-multi-version-renders-archive-time-c7538953",
+        "topic-working-with-color-management-and-scope-reading--730358e5",
+        "topic-using-stills-and-galleries-for-color-matching-an-9c5423f2",
+        "topic-overall-workflow-organize-media-edit-story-color-a7719c1f",
+        "topic-ground-control-philosophy-practical-hands-on-pra-6bdd350b",
+        "topic-fusion-vs-color-vs-editing-understanding-where-s-3b816872",
+        "topic-hardware-and-peripherals-color-panels-keyboards--e7bb5754",
+        "topic-real-world-tips-like-don-t-over-stylize-color-sh-504e1264"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-trimming-ripple-trim-and-edge-trimming-in-out-10ffcc99": [
+          3,
+          4,
+          5
+        ],
+        "topic-keyboard-shortcuts-for-editing-q-w-s-backslash-j-fa0f79df": [
+          3,
+          5
+        ],
+        "topic-using-stills-for-color-matching-gallery-stills-74ae48a5": [
+          5,
+          6
+        ],
+        "topic-secondary-corrections-windows-masks-qualifiers-t-f1abc0dc": [
+          5,
+          6
+        ],
+        "topic-fusion-basics-media-in-out-nodes-merge-masks-fas-db61d444": [
+          4,
+          5
+        ],
+        "topic-deliver-page-basics-codecs-h-264-h-265-prores-dn-26ab218e": [
+          8,
+          9
+        ]
+      },
+      "chapter_count": 10
+    },
+    "video-davinci-resolve-rtvg4tbbdd4-youtube-fece7937": {
+      "item_id": "video-davinci-resolve-rtvg4tbbdd4-youtube-fece7937",
+      "title": "DaVinci Resolve 20.2 Immersive Video Workflows: VR180 Export, Apple Immersive, and Fusion 3D FX in Depth",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "RtvG4TBbdD4",
+          "url": "https://www.youtube.com/watch?v=RtvG4TBbdD4"
+        }
+      ],
+      "transcript": {},
+      "analysis": {
+        "path": "analysis/RtvG4TBbdD4.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This in-depth tutorial surveys DaVinci Resolve 20.2’s leap into immersive video, covering cross-camera workflows (URSA Cine Immersive with Canon VR), VR180 export, and Fusion-driven 3D VFX. It demonstrates converting 360 footage to Apple Immersive 180 lens space via Panomap with camera metadata, ingesting mixed- stereo sources, previewing in the Apple Vision Pro, rotoscoping and paint fixes in 3D, and assembling logos and motion graphics directly into immersive space. The guide also reviews horizon leveling, World Pose post-fixes, and the VR180 delivery options (including high per-eye resolutions) that enable production-quality immersive storytelling on platforms like YouTube VR and Meta Quest.",
+      "date": {
+        "display": "September 16, 2025",
+        "iso": "2025-09-16",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-davinci-resolve-20-2-immersive-updates-2bd10ab7",
+        "topic-ursa-cine-immersive-canon-eos-vr-compatibility-57055a55",
+        "topic-vr180-export-workflow-in-delivery-42983ea5",
+        "topic-monoscopic-360-to-apple-immersive-180-conversion-9c88f9b2",
+        "topic-using-camera-metadata-to-map-360-to-lens-space-a413d0d9",
+        "topic-two-eye-immersion-setup-for-vr180-with-canon-r5c-95d066ba",
+        "topic-fusion-page-mediain-panomap-and-immersive-workfl-60c83238",
+        "topic-vision-pro-live-preview-and-streaming-from-resol-bf2d5c1b",
+        "topic-immersive-patcher-for-180-deg-distortion-removal-20c7f3e1",
+        "topic-3d-paint-fixes-clone-brush-in-immersive-space-c7ec9e61",
+        "topic-distort-back-to-lens-space-and-merging-5a8d1a40",
+        "topic-left-and-right-eye-stereo-fixes-and-timelines-0e863421",
+        "topic-3d-depth-preview-3d-combiner-and-anaglyph-workfl-1388da04",
+        "topic-world-pose-for-post-level-adjustments-e62a0abf",
+        "topic-horizon-leveling-with-rulers-and-guides-7c44eb9a",
+        "topic-vr180-per-eye-resolution-8640x8640-and-16k-total-1e802bba",
+        "topic-color-pipeline-cst-from-sdr-rec-709-to-p3-d65-hd-8b08814a",
+        "topic-inserting-branding-and-motion-graphics-in-immers-a538156f",
+        "topic-verification-best-practices-using-vision-pro-for-8c4f57ed",
+        "topic-final-vr180-delivery-considerations-and-platform-1aaef369"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-davinci-resolve-20-2-immersive-updates-2bd10ab7": [
+          0
+        ],
+        "topic-color-pipeline-cst-from-sdr-rec-709-to-p3-d65-hd-8b08814a": [
+          8
+        ]
+      },
+      "chapter_count": 12
+    }
+  },
+  "stats": {
+    "video_count": 5,
+    "topic_count": 132,
+    "topic_family_count": 0
+  },
+  "description": "A Watchcraft collection of public instructional videos.",
+  "source": {
+    "type": "youtube-playlist",
+    "playlist_id": "PLMjJB3eZp5V0Xa6-wCUdpLimsZwTvwt4Q",
+    "url": "https://www.youtube.com/playlist?list=PLMjJB3eZp5V0Xa6-wCUdpLimsZwTvwt4Q"
+  },
+  "revision": 1,
+  "content_hash": "7c0e88d0609329f8626e00586cadaa842470f6854dd47afae519cb1cd32aeea5"
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "video": "xuuZipXZscM.youtube",
+  "title": "PTGui Tutorial Part 5: HDR Panorama Stitching",
+  "date": {
+    "display": "January 28, 2019",
+    "iso": "2019-01-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PTGui tutorial segment explains HDR panorama workflows in the Pro edition, detailing the theory of high dynamic range, the practical capture workflow for bracketed images, and how PTGui stitches and tone-maps multiple exposures into a single panorama. It compares true HDR merging with exposure fusion, demonstrates linking bracketed exposures to preserve alignment, and covers output options (32‑bit panoramas, layer exports, and tone-mapping in PTGui versus Photoshop). The speaker emphasizes rigid capture practices (tripod, static scene, fixed aperture/ISO), and shows how to export and review HDR results, including 32-bit workflows in Photoshop.",
+  "topics": [
+    "HDR (high dynamic range) fundamentals",
+    "32-bit HDR images and linear workflow",
+    "bracketed exposure strategy for HDR panoramas",
+    "M-mode bracketing and automatic exposure control",
+    "tripod use, static scene, and vibration-free capture",
+    "linking bracketed exposures in PTGui to fix yaw/pitch/roll",
+    "control points and image alignment across brackets",
+    "stitching dark/medium/light exposure planes as separate panoramas",
+    "true HDR vs exposure fusion workflows in PTGui",
+    "PTGui HDR workflow: merge planes before tone-mapping",
+    "PTGui HDR tone-mapping controls and adjustments",
+    "output formats: 32-bit panoramas, OpenEXR, Radiance; LDR outputs",
+    "export options: full panorama, individual layers, blend planes",
+    "D-ghosting considerations for HDR in PTGui",
+    "default interpolator and other rendering options in PTGui",
+    "Photoshop handling of 32-bit HDR panoramas and exposure slider",
+    "zenith/nadir brightness considerations in HDR panoramas",
+    "overall HDR vs non-HDR post-processing strategies in panoramic photography"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:36",
+      "title": "HDR theory and core concepts",
+      "concepts": [
+        "HDR definition (high dynamic range)",
+        "32-bit per channel linear formats",
+        "tone mapping to display 32-bit data on standard displays",
+        "dynamic range challenges: highlights vs shadows",
+        "bracketing to capture detail in both bright and dark areas"
+      ],
+      "description": "The video opens with an overview of HDR concepts as they pertain to panoramic photography, defining 32-bit linear HDR files and the need for tone mapping to render scenes with extreme brightness contrasts. It explains why multiple exposures are bracketed and how a single JPEG cannot preserve true brightness levels, setting the stage for PTGui's HDR workflow."
+    },
+    {
+      "start": "00:04:41",
+      "end": "00:09:04",
+      "title": "HDR capture workflow and PTGui linking",
+      "concepts": [
+        "consistently bracketed exposures in M (manual) mode",
+        "fixing aperture and ISO while varying exposure time",
+        "tripod stability and static scene requirements",
+        "timer/remote shutter and disabling stabilization",
+        "linking bracketed images to preserve spatial alignment across exposures",
+        "difference between linked vs unlinked HDR processing in PTGui"
+      ],
+      "description": "This section covers the capture workflow, emphasizing consistent bracketing across viewing directions, TROUBLESTS with alignment, and the practical steps to ensure sharp panorama data. It introduces PTGui’s linking feature, which associates bracketed images so yaw/pitch/roll are preserved across the stack, improving control point generation and final stitching."
+    },
+    {
+      "start": "00:09:05",
+      "end": "00:12:55",
+      "title": "PTGui HDR processing: merging, options, and outputs",
+      "concepts": [
+        "choosing between True HDR and Exposure Fusion in PTGui",
+        "alignment of bracketed stacks and linking behavior during processing",
+        "HDR tab vs Exposure Fusion tab: parameter differences",
+        "tone mapping within PTGui for HDR panoramas",
+        "export formats and options in HDR mode (32-bit vs LDR)",
+        "how PTGui merges dark/medium/light planes before full panorama"
+      ],
+      "description": "The core processing workflow is demonstrated: selecting HDR mode, deciding between true HDR and exposure fusion, and how PTGui handles the stacked exposures. The presenter explains that PTGui merges the separate exposure planes first and then tones them, and demonstrates how to access and adjust HDR-specific controls to influence brightness, contrast, and saturation within the panorama."
+    },
+    {
+      "start": "00:12:55",
+      "end": "00:14:26",
+      "title": "Output formats, review, and Photoshop integration",
+      "concepts": [
+        "32-bit panorama export (OpenEXR, Radiance)",
+        "LDR vs HDR export choices (TIFF/JPEG, bit depth)",
+        "exporting individual layers vs full panorama and blend planes",
+        "using 32-bit panoramas in Photoshop (exposure slider)",
+        "limitations of tone mapping for zenith/nadir areas and workflow recommendations"
+      ],
+      "description": "This closing section shows the practical outputs: exporting 32-bit HDR panoramas in formats like OpenEXR or Radiance, or standard LDR formats, and notes on how Photoshop can preview 32-bit data with exposure adjustments. The presenter again cautions about maintaining control over challenging zones like zenith and nadir during post-processing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Linking bracketed exposures in PTGui to lock alignment across shots",
+      "timestamp": "00:07:25",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Stitching by merging dark/medium/light exposure planes first, then tone-mapping",
+      "timestamp": "00:08:32",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Choosing between True HDR and Exposure Fusion in PTGui HDR workflow",
+      "timestamp": "00:07:19",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exporting 32-bit HDR panoramas (OpenEXR/Radiance) and 8/16-bit LDR options",
+      "timestamp": "00:10:41",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Tone mapping decisions within PTGui HDR tab vs Photoshop processing",
+      "timestamp": "00:12:35",
+      "confidence": 0.79
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:13:12.208520+00:00"
+}

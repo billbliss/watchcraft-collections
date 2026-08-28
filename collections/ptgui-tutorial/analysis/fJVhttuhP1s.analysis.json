@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "video": "fJVhttuhP1s.youtube",
+  "title": "Masking in PTGui Pro: painting, filling, and transferring masks across source images",
+  "date": {
+    "display": "March 1, 2019",
+    "iso": "2019-03-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PTGui tutorial explains masking as a Pro-level feature that defines which pixels from source images participate in the final panorama. It demonstrates selecting two overlapped images, using Edit Mask to isolate a specific area (a logo) so it is either fully included or excluded, and viewing seam placement with Show Seams. The video then covers painting the mask with red (exclude), green (include), and erase, plus using the fill tool and polygon drawing to quick-fill regions. It shows how masking affects seam position, how to zoom and adjust pencil size, and how to link/unlink images for synchronized masking. Finally, it demonstrates transferring masks between images, copying and pasting masks across multiple images, and saving/loading mask files for reuse. The examples center on how masking can remove a logo from a panorama and how the same mask can be applied consistently across a set of images.",
+  "topics": [
+    "PTGui Pro masking feature",
+    "Mask tab interface",
+    "Show Seams mode",
+    "Edit Mask workflow",
+    "Two-image masking",
+    "Single image mode vs double image mode",
+    "Mask painting: red/green/erase",
+    "Mask tools: fill and polygon drawing",
+    "Keyboard shortcuts for masking: R, G, E, F, D, Cmd/Ctrl, Alt, K, L",
+    "Linking/unlinking image panels",
+    "Copy Mask and Paste Mask across images",
+    "Source Images tab mask operations",
+    "Saving and loading masks",
+    "Masking stationary scene elements (logo, tripod) across images"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:23",
+      "title": "Masking concept and Pro requirement",
+      "concepts": [
+        "Definition of masking: include/exclude parts of a source image",
+        "Masking is a PTGui Pro feature",
+        "Show Seams mode visualizes where seams are placed"
+      ],
+      "description": "The video introduces masking as a Pro feature and explains that masks tell the blender which parts of a source image to include or exclude. It also mentions Show Seams for visualizing where image transitions will occur."
+    },
+    {
+      "start": "00:01:23",
+      "end": "00:02:59",
+      "title": "Mask editing with two overlapping images (Edit Mask)",
+      "concepts": [
+        "Edit Mask workflow",
+        "Two-image selection",
+        "Logo example in overlap",
+        "Effect of mask on seams"
+      ],
+      "description": "An example uses a logo placed in one image within the overlapping region. The presenter right-clicks the area of interest, selects the two images, and chooses Edit Mask to switch to the Mask tab, preparing to adjust how the logo is treated in the blend."
+    },
+    {
+      "start": "00:02:59",
+      "end": "00:04:57",
+      "title": "Mask painting modes and live preview",
+      "concepts": [
+        "Single image mode vs double image mode",
+        "Paint modes: red, green, erase",
+        "Live cross-image feedback"
+      ],
+      "description": "The section covers painting masks in red (exclude) or green (include) and using erase to remove a mask. It shows how masking affects the panorama by indicating which areas are included or excluded and notes a live cross-image cue to identify affected regions."
+    },
+    {
+      "start": "00:04:57",
+      "end": "00:05:31",
+      "title": "Pencil size, zoom, and mode navigation",
+      "concepts": [
+        "Pencil size adjustments (K/L)",
+        "Zooming behavior and its relation to brush size",
+        "Mode switching cues in UI"
+      ],
+      "description": "This section highlights adjusting the brush size with keyboard shortcuts and how zooming preserves brush scale relative to the window, enabling precise masking edits."
+    },
+    {
+      "start": "00:05:31",
+      "end": "00:07:03",
+      "title": "Linking, transferring, and saving masks across images",
+      "concepts": [
+        "Linking vs. unlinking images",
+        "Copy Mask and Paste Mask across images",
+        "Saving and loading masks to/from files",
+        "Masking consistency across a set of images"
+      ],
+      "description": "The video demonstrates linking image panels for synchronized masking, transferring masks between images, and copying/pasting masks across multiple images. It also shows how to save a mask to a file and load it into another project, which is useful for masking elements that appear identically (e.g., tripod) across frames."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Edit Mask workflow to constrain a region between two overlapping images",
+      "timestamp": "00:01:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Mask painting with red/green/erase to control inclusion and exclusion and observe seam movement",
+      "timestamp": "00:02:22",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Copy and paste masks across multiple images to reuse a consistent mask; save/load mask files",
+      "timestamp": "00:06:14",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Link/unlink image panels to synchronize masking and transfer masks across images",
+      "timestamp": "00:05:41",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:08:16.304635+00:00"
+}

@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "video": "O2JaDKSOtwY.youtube",
+  "title": "PTGui Tutorial Part 1: Introduction — Panorama Basics, Workflow, and Parallax",
+  "date": {
+    "display": "January 15, 2019",
+    "iso": "2019-01-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This opening PTGui tutorial frames what the software does, how panoramas are created, and the practical considerations when capturing images for stitching. It explains PTGui’s evolution from Panorama Tools, its built-in blender and stitcher, cross-platform availability, and the ability to output multiple projections (including Little Planet) and even gigapixel panoramas with GPU acceleration. The video then outlines the three-step panorama workflow (capture, stitch, present), how PTGui handles image layout, distortion, and blending, and discusses parallax as a core challenge. It ends with concrete shooting guidelines: use a panoramic tripod head, calibrate it, shoot manually with consistent exposure, prefer RAW for processing, and maintain adequate overlap while noting HDR considerations and lens correction responsibilities.",
+  "topics": [
+    "PTGui background",
+    "Panorama Tools GUI origin",
+    "PTGui built-in blender and stitcher",
+    "Cross-platform (Mac and Windows)",
+    "Camera and lens compatibility",
+    "Output projections and file types",
+    "Little Planet projection",
+    "Gigapixel panoramas and GPU acceleration",
+    "Three-step panorama workflow",
+    "Images capture precedes stitching",
+    "Stitching as the core capability",
+    "Presentation/web viewer for spherical images",
+    "Image layout determination",
+    "Distortion compensation based on lens/sensor",
+    "Blending for seamless transitions",
+    "Parallax as a key challenge",
+    "Nodal/no-parallax point concept",
+    "Panoramic tripod head vs regular head",
+    "Calibration of panoramic head",
+    "Manual shooting mode and consistency",
+    "RAW vs JPEG for stitching quality",
+    "Lens distortion handling by PTGui",
+    "Shadow/highlight adjustments and banding risk",
+    "Image overlap (10–20%)",
+    "HDR bracketing as an advanced topic"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04.600",
+      "end": "00:01:22.520",
+      "title": "PTGui overview and capabilities",
+      "concepts": [
+        "PTGui origins as GUI for Panorama Tools",
+        "Current built-in blender and stitcher",
+        "Cross-platform availability (Mac/Windows)",
+        "Camera and lens agnostic usage",
+        "Ability to scan photos and stitch",
+        "Single-row and multi-row stitching",
+        "Multiple projections and output formats",
+        "Gigapixel panoramas with GPU acceleration",
+        "Automated workflow and full manual control",
+        "HDR support and built-in tone mapper"
+      ],
+      "description": "Introduces PTGui as the successor to Panorama Tools, highlighting its built-in blending/stitching, cross-platform nature, compatibility with any camera/lens, and capabilities from simple to fully spherical panoramas, including advanced outputs like Little Planet and gigapixel scales."
+    },
+    {
+      "start": "00:01:25.320",
+      "end": "00:01:58.860",
+      "title": "Three-step panorama workflow",
+      "concepts": [
+        "Three-step process: create images, stitch, present",
+        "Flat panoramas for printing or web posting",
+        "Fully spherical panoramas require an interactive viewer",
+        "PTGui’s role in presenting spherical images via a web viewer"
+      ],
+      "description": "Outlines the core workflow for panoramas: first capture images, then stitch them into a seamless panorama, and finally present or publish the result (including interactive spherical viewers for full panoramas)."
+    },
+    {
+      "start": "00:02:05.020",
+      "end": "00:02:21.870",
+      "title": "How PTGui works: layout, distortion, blending",
+      "concepts": [
+        "Determining image layout relative to each other",
+        "Distorting images to compensate for lens and sensor",
+        "Blending across transitions to achieve seamless output"
+      ],
+      "description": "Summarizes the core computational stages PTGui performs: establishing relative image geometry, correcting distortions from hardware, and blending images for a cohesive panorama."
+    },
+    {
+      "start": "00:02:29.000",
+      "end": "00:04:14.340",
+      "title": "Parallax challenges and nodal point",
+      "concepts": [
+        "Parallax as apparent positional shift between distant objects",
+        "No-parallax point / nodal point concept",
+        "Demonstration: left (panoramic head) vs right (regular head) for nodal-point rotation",
+        "Parallax impact when stitching near and far elements",
+        "Recommendation to use a panoramic tripod head for reducing parallax",
+        "Scenario where a blender can hide some parallax in chaotic scenes"
+      ],
+      "description": "Defines parallax as a problem in panoramic stitching and explains the no-parallax point. It contrasts motion with a panoramic head versus a regular head and demonstrates how parallax can degrade stitching quality, especially in architecture or close subjects."
+    },
+    {
+      "start": "00:04:30.000",
+      "end": "00:06:01.240",
+      "title": "Shooting and processing guidelines",
+      "concepts": [
+        "Calibrate and carefully set up the panoramic head (links to other tutorials)",
+        "Shoot in manual mode with constant aperture, shutter, ISO, white balance",
+        "PTGui can compensate minor exposure variation, but consistency yields best results",
+        "RAW vs JPEG: better quality from RAW development",
+        "RAW development options: exposure, brightness, contrast, color, white balance",
+        "Optional noise reduction and sharpening",
+        "Chromatic aberration correction in RAW",
+        "Do not correct geometric distortion in post; let PTGui handle it",
+        "Caution with shadow/highlight corrections due to potential banding during blending",
+        "Ensure about 10–20% overlap between frames for reliable alignment",
+        "HDR bracketed exposures can be used, but covered in a separate tutorial"
+      ],
+      "description": "Provides practical shooting and preprocessing guidance to optimize stitching results: manual exposure control, preferred RAW workflow, lens corrections should be left to PTGui, overlap guidance, and notes on high dynamic range considerations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Nodal/no-parallax point concept and its importance for parallax-free stitching",
+      "timestamp": "00:02:55.110",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Demonstration comparing panoramic tripod head versus regular tripod head",
+      "timestamp": "00:03:10.460",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Manual exposure control and constant shooting values for stitching",
+      "timestamp": "00:04:43.060",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Do not correct geometric distortion in post; rely on PTGui's distortion handling",
+      "timestamp": "00:05:24.320",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Overlap guidance for stitching (10–20% between frames)",
+      "timestamp": "00:05:45.440",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:09:50.879400+00:00"
+}

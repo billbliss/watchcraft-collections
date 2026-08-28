@@ -1,0 +1,24 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "davinci-resolve",
+  "title": "davinci-resolve",
+  "topic_scope": "collection",
+  "topic_normalization": null,
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "davinci-resolve",
+    "children": []
+  },
+  "topics": {},
+  "topic_families": {},
+  "items": {},
+  "stats": {
+    "video_count": 0,
+    "topic_count": 0,
+    "topic_family_count": 0
+  },
+  "revision": 1,
+  "content_hash": "d3c2d2304a3e716214a5770df0f610033079f70c20588384e707f3016e03cc1e"
+}

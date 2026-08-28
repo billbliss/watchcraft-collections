@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "video": "YTzHqxIh3jw.youtube",
+  "title": "PTGui tutorial part 4: Editing and viewing spherical panoramas — technique timeline and topics",
+  "date": {
+    "display": "January 16, 2019",
+    "iso": "2019-01-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PTGui Part 4 tutorial demonstrates viewing and editing spherical panoramas using the equirectangular projection, starting from an auto-aligned panorama and progressing through leveling, edge behavior, and viewing options. The video explains the Align Images workflow (control points, optimization, and projection choice), manual and bubble-level leveling concepts via the Panorama Editor, and the geometric implications of the equirectangular format (pole and edge wrapping). It also covers preview pathways (Preview, Detail Viewer, and interactive viewers), export options (Create Panorama as JPEG/TIFF and website publishing), and an overview of the Image Parameters and Optimizer tabs, with notes about future tutorials such as cube-face editing and vertical-line control points.",
+  "topics": [
+    "equirectangular projection",
+    "spherical panorama",
+    "360x180 degree panorama",
+    "Align Images button",
+    "control points",
+    "project optimization",
+    "projection selection for partial panoramas",
+    "leveling the panorama",
+    "bubble level",
+    "Panorama Editor",
+    "pitch/yaw/roll adjustments",
+    "vertical line control points",
+    "edge wrapping and seams",
+    "top/bottom edge editing cautions",
+    "left/right edge continuity",
+    "global vs local photo edits",
+    "levels vs clarity/shadow filters",
+    "Preview tool",
+    "Detail Viewer",
+    "PTGui Viewer",
+    "Create Panorama export",
+    "JPEG and TIFF formats",
+    "Publish to Website",
+    "Image Parameters tab",
+    "positional parameters",
+    "exposure offset",
+    "multi-select editing",
+    "Optimizer tab",
+    "Advanced options"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:01",
+      "title": "Intro and equirectangular projection overview",
+      "concepts": [
+        "equirectangular projection",
+        "spherical panorama",
+        "360x180 degrees",
+        "projection basics"
+      ],
+      "description": "Introduction to the video and the equirectangular projection, described as the projection used to display and store a fully spherical 360 by 180 degree panorama."
+    },
+    {
+      "start": "00:01:01",
+      "end": "00:01:38",
+      "title": "Align Images workflow and auto-setup",
+      "concepts": [
+        "Align Images button",
+        "control points",
+        "optimization",
+        "projection selection",
+        "leveling"
+      ],
+      "description": "Overview of the Align Images button, which generates control points, optimizes the project, deletes the worst control points, fits the panorama, selects a projection (equirectangular for this case), and attempts to level the panorama."
+    },
+    {
+      "start": "00:01:38",
+      "end": "00:02:25",
+      "title": "Panorama leveling and tripod setup",
+      "concepts": [
+        "bubble level",
+        "tripod leveling",
+        "Panorama Editor"
+      ],
+      "description": "Discussion of leveling results when the tripod was leveled with a bubble level, and the option to use the Panorama Editor to level the panorama if the tripod wasn't leveled."
+    },
+    {
+      "start": "00:02:25",
+      "end": "00:02:50",
+      "title": "Manual leveling and control point types",
+      "concepts": [
+        "pitch",
+        "yaw",
+        "roll",
+        "vertical line control points"
+      ],
+      "description": "Explanation of manual leveling by dragging to adjust pitch and yaw, and rolling with right-mouse dragging; mention that vertical line type control points offer precise leveling in a separate tutorial."
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:04:40",
+      "title": "Equirectangular projection properties and seam behavior",
+      "concepts": [
+        "equirectangular properties",
+        "pole distortion",
+        "edge wrapping",
+        "top/bottom seams"
+      ],
+      "description": "Explanation of why the equirectangular view is used and how the North/South Poles become edges in the image; discussion of how the left/right edges wrap and become a continuous image, with implications for editing near the edges."
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:06:14",
+      "title": "Editing cautions for equirectangular images",
+      "concepts": [
+        "edge continuity",
+        "top/bottom editing cautions",
+        "left/right edge continuity",
+        "global vs local filters"
+      ],
+      "description": "Advice on avoiding visible discontinuities when editing or applying local filters near the image edges, and noting that global adjustments (levels, brightness) apply consistently, while local filters can create seams."
+    },
+    {
+      "start": "00:06:14",
+      "end": "00:07:56",
+      "title": "Preview and viewing options",
+      "concepts": [
+        "Preview",
+        "Detail Viewer",
+        "PTGui Viewer",
+        "grid visibility"
+      ],
+      "description": "Introduction to multiple preview modalities: a quick Preview tab, a Detail Viewer for full-resolution inspection (zenith/nadir), and an interactive Panorama Viewer with consistent grid display."
+    },
+    {
+      "start": "00:07:56",
+      "end": "00:09:54",
+      "title": "Export, web viewing, and quick previews",
+      "concepts": [
+        "Create Panorama",
+        "JPEG/TIFF export",
+        "interactive viewer",
+        "Publish to Website"
+      ],
+      "description": "Overview of exporting the panorama as a non-interactive JPEG/TIFF, using a separate viewer for interactivity, and using PTGui's Publish to Website for a quick interactive web page."
+    },
+    {
+      "start": "00:09:54",
+      "end": "00:10:34",
+      "title": "Image Parameters and Optimizer overview",
+      "concepts": [
+        "Image Parameters",
+        "positional parameters",
+        "exposure offset",
+        "multi-select editing",
+        "Optimizer",
+        "Advanced options"
+      ],
+      "description": "Brief look at the Image Parameters tab (positioned per-image settings and exposure offset, including multi-select edits) and the Optimizer tab, with mention of the Advanced button and help texts accessed via SHIFT."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Align Images workflow: control point generation, optimization, projection selection (equirectangular for a full panorama)",
+      "timestamp": "00:00:45-00:01:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Panorama leveling and alignment using a bubble level and Panorama Editor",
+      "timestamp": "00:01:01-00:01:38",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Understanding the equirectangular projection and its edge behavior",
+      "timestamp": "00:01:55-00:03:21",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Manual leveling: pitch/yaw/roll adjustments with drag",
+      "timestamp": "00:01:42-00:01:38",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Edge and seam cautions when editing equirectangular images (top/bottom and left/right)",
+      "timestamp": "00:04:40-00:05:59",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Preview and interactive viewing options (Preview, Detail Viewer, PTGui Viewer)",
+      "timestamp": "00:06:33-00:07:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Export to panorma formats and website publishing workflow",
+      "timestamp": "00:08:02-00:08:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Image Parameters adjustments and multi-select editing",
+      "timestamp": "00:08:58-00:09:41",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Optimizer overview and access to Advanced options",
+      "timestamp": "00:09:57-00:10:07",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:13:57.833214+00:00"
+}

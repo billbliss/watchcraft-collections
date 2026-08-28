@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "video": "MCDVcQIA3UM.youtube",
+  "title": "Introduction to DaVinci Resolve: Media Management, Editing, Fusion, Color, and Fairlight (Comprehensive Beginner Course)",
+  "date": {
+    "display": "July 25, 2025",
+    "iso": "2025-07-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This YouTube tutorial by Casey Faris presents a compact, hands-on tour of DaVinci Resolve geared to beginners, covering the full post-production workflow inside a single application. The video introduces Resolve’s modular pages (Media, Cut, Edit, Fusion, Color, Fairlight, Deliver), demonstrates essential media management (project libraries, metadata, bins, smart bins, and keyword tagging), walks through importing and organizing footage, and shows fundamental editing techniques (timeline assembly, trimming, in/out points, and anchor-style storytelling). It then moves into Fusion for node-based compositing, color grading with primary wheels, curves, and color management, advanced color-science concepts (log vs HDR wheels and scopes), and finally the Fairlight audio environment (multitrack mixing, buses, dynamics, EQ, and effects). A practical through-line runs from media management and timeline assembly to basic color correction, simple VFX (fog and masking) in Fusion, and basic audio design, concluding with deliverables and archiving. The course emphasizes practical, bite-sized steps and demonstrates how Resolve’s free version can cover 90% of users’ needs, while also noting the Studio edition’s extras (AI tools, more effects, and higher-end features).",
+  "topics": [
+    "Resolve pages and workflow (Media, Cut, Edit, Fusion, Color, Fairlight, Deliver)",
+    "System requirements and free vs Studio licensing",
+    "Project setup and project libraries (local, network, cloud)",
+    "Project manager and creating a new project",
+    "Media management basics (bins, folders, master bin)",
+    "Hover scrub and media preview, metadata panel",
+    "Smart bins and keyword tagging for organizing footage",
+    "Importing media and building a media pool",
+    "Metadata groups and tagging for organization",
+    "Audio syncing and autosync by waveform",
+    "Camera vs. external audio synchronization and syncing indicators",
+    "Source viewer vs timeline viewer and source tape mode",
+    "Editing fundamentals (timeline, playhead, insert/append, overwrite, replace)",
+    "Anchoring a story (anchor technique) and clip sequencing",
+    "Trimming, ripple trim, and edge trimming (in/out)",
+    "Keyboard shortcuts for editing (Q, W, S, Backslash, J/K/L) and custom presets",
+    "Copying color grades between shots (middle-click scroll technique)",
+    "Using stills for color matching (gallery/stills)",
+    "Color management overview (input color space, color science, HDR vs log wheels)",
+    "Primaries color wheels (lift, gamma, gain, offset; temperature, tint; master wheel)",
+    "Curves (custom and hue/area-based corrections)",
+    "Secondary corrections (windows/masks, qualifiers, tracking)",
+    "Fusion basics (Media In/Out, nodes, Merge, masks, fast noise, tracking)",
+    "Building a simple Fusion shot (fog via fast noise, masking, color grading)",
+    "Tracking in Fusion and color page to follow subjects",
+    "Magic Mask (paid feature) and advanced masking workflows",
+    "Fairlight basics (timeline, tracks, mixers, dynamics, EQ, effects)",
+    "Sound design workflow (ambience, dialog, music, effects, buses)",
+    "Deliver page basics (codecs: H.264/H.265/ProRes/DNxHR, container formats, upscaling to Ultra HD)",
+    "Archiving and multi-version renders (archive timeline)",
+    "Working with color management and scope reading (Waveform, Parade, Histogram, Vector)",
+    "Using stills and galleries for color matching and mood consistency",
+    "Overall workflow: organize media → edit/story → color → Fusion → Fairlight → deliver",
+    "Ground Control philosophy: practical hands-on practice with Resolve (free version accessible)",
+    "Fusion vs color vs editing: understanding where specialized tools fit in the pipeline",
+    "Hardware and peripherals (color panels, keyboards) as optional but beneficial tools",
+    "Real-world tips like “don’t over-stylize; color should reflect the shoot”"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:24",
+      "title": "- INTRO",
+      "concepts": [
+        "Course aims to teach Resolve from media management to final delivery",
+        "Resolve as an all-in-one post workflow",
+        "Free vs Studio licensing considerations"
+      ],
+      "description": "The video opens by framing the course as a comprehensive, beginner-friendly introduction to Resolve, emphasizing that the free version covers the core workflow and that the course intends to empower users to create, color grade, composite, and deliver content."
+    },
+    {
+      "start": "00:01:24",
+      "end": "00:09:27",
+      "title": "- What is Resolve?",
+      "concepts": [
+        "Course aims to teach Resolve from media management to final delivery",
+        "Resolve as an all-in-one post workflow",
+        "Free vs Studio licensing considerations",
+        "Cut page",
+        "Edit page",
+        "Color page",
+        "Fusion page",
+        "Fairlight page",
+        "Deliver page"
+      ],
+      "description": "The presenter explains Resolve’s modular page design and how each page serves a distinct post workflow function, highlighting that the software scales from free to Studio with added features."
+    },
+    {
+      "start": "00:09:27",
+      "end": "00:28:57",
+      "title": "- The Media Page",
+      "concepts": [
+        "Project manager and libraries",
+        "New project creation",
+        "Media storage and library structure",
+        "Importing media into the media pool",
+        "Bins and organization",
+        "Metadata panel and “All Groups” view",
+        "Keywords and smart bins",
+        "Metadata exploration and inspection",
+        "Smart bins and keyword-driven organization",
+        "AI-assisted tagging (paid features)",
+        "Audio sync workflows (autosync by waveform)",
+        "Synchronizing camera and external audio",
+        "Timeline assembly",
+        "Anchor technique for storytelling",
+        "Trimming and ripple trim"
+      ],
+      "description": "A tour of initial setup: opening the project manager, creating a new Resolve project, and outlining how libraries, media locations, and the media pool work. The section covers importing media, creating bins, and tagging with metadata and keywords to improve organization."
+    },
+    {
+      "start": "00:28:57",
+      "end": "01:30:44",
+      "title": "- The Edit Page",
+      "concepts": [
+        "Metadata exploration and inspection",
+        "Smart bins and keyword-driven organization",
+        "AI-assisted tagging (paid features)",
+        "Audio sync workflows (autosync by waveform)",
+        "Synchronizing camera and external audio",
+        "Timeline assembly",
+        "Anchor technique for storytelling",
+        "Trimming and ripple trim",
+        "Blade tool and cutting on the playhead",
+        "In/Out points and clip previews",
+        "Source tape mode and timeline preview",
+        "Keyboard shortcuts (Q, W, S, Backslash)",
+        "Ripple trim, insert/append modes",
+        "Custom keyboard shortcut presets",
+        "Editing practice with a demo bin"
+      ],
+      "description": "The video shifts to editing fundamentals: assembling a timeline, the anchor technique (starting with a key shot and layering other takes), trimming with edge adjustments, using the blade tool for cuts, and managing in/out points. It also introduces the Source Tape mode and how to preview media on the timeline."
+    },
+    {
+      "start": "01:30:44",
+      "end": "01:43:14",
+      "title": "- The Cut Page",
+      "concepts": [
+        "Keyboard shortcuts (Q, W, S, Backslash)",
+        "Ripple trim, insert/append modes",
+        "Custom keyboard shortcut presets",
+        "Editing practice with a demo bin",
+        "Cut page as a speed-focused alternative",
+        "Fusion basics: nodes, Media In/Out, and Merge",
+        "Fog/soft cloud effects using Fast Noise",
+        "Masks and soft edges (polygon, ellipse, gradient)",
+        "Tracking and stabilizing motion in Fusion",
+        "Text and shapes as graphics elements",
+        "Magical Mask (paid feature) introduction",
+        "How Fusion integrates back into the Edit page"
+      ],
+      "description": "A block focused on speed, editing efficiency, and customizing shortcuts. The presenter shows practical shortcuts, demonstrates ripple trimming, and introduces the Cut page as a faster editing workflow for certain uses."
+    },
+    {
+      "start": "01:43:14",
+      "end": "02:50:20",
+      "title": "- The Fusion Page",
+      "concepts": [
+        "Fusion basics: nodes, Media In/Out, and Merge",
+        "Fog/soft cloud effects using Fast Noise",
+        "Masks and soft edges (polygon, ellipse, gradient)",
+        "Tracking and stabilizing motion in Fusion",
+        "Text and shapes as graphics elements",
+        "Magical Mask (paid feature) introduction",
+        "How Fusion integrates back into the Edit page",
+        "Color management foundations (input color space, color science)",
+        "DaVinci color management setup (YRGB, YCbCr, HDR)",
+        "Primary wheels (lift/gamma/gain/offset) and master wheel",
+        "Saturation, temperature, tint, and contrast controls",
+        "Curves and secondary corrections (Windows, Qualifier)",
+        "Scopes: waveform, parade, histogram, vectors; reading data vs eye IQ",
+        "Matching shots across a timeline using a hero shot and stills"
+      ],
+      "description": "This section dives into Fusion, detailing node-based compositing, using Fast Noise to create fog, applying masks to limit effects, tracking and stabilizing movement, and integrating graphics (titles, shapes) back into the Edit timeline. It also introduces the idea of using Magic Mask (a paid feature) for advanced isolation and explains how Fusion results feed back into the Edit page."
+    },
+    {
+      "start": "02:50:20",
+      "end": "04:16:55",
+      "title": "- The Color Page",
+      "concepts": [
+        "Color management foundations (input color space, color science)",
+        "DaVinci color management setup (YRGB, YCbCr, HDR)",
+        "Primary wheels (lift/gamma/gain/offset) and master wheel",
+        "Saturation, temperature, tint, and contrast controls",
+        "Curves and secondary corrections (Windows, Qualifier)",
+        "Scopes: waveform, parade, histogram, vectors; reading data vs eye IQ",
+        "Matching shots across a timeline using a hero shot and stills"
+      ],
+      "description": "A comprehensive look at the Color page: enabling color management, selecting a color space per camera, and understanding primary wheels, curves, and secondary corrections. The section emphasizes reading scopes (waveform and parade) to gauge exposure and color balance, and introduces a hero still for color-matching across shots."
+    },
+    {
+      "start": "04:16:55",
+      "end": "04:53:00",
+      "title": "- The Fairlight Page",
+      "concepts": [
+        "Fairlight timeline and multi-track editing",
+        "Dialogue workflow and bus routing",
+        "Dynamics, equalization (EQ), compression",
+        "Automation and track-level effects",
+        "Using buses for grouped effects and mastering",
+        "Sound design: ambience and SFX layering"
+      ],
+      "description": "The Fairlight section demonstrates the dedicated audio workspace, including multi-track editing, routing to buses, applying dynamics and EQ, and basic sound design techniques such as ambience layering and FX processing to create a finished audio mix that complements the visuals."
+    },
+    {
+      "start": "04:53:00",
+      "end": "05:05:42",
+      "title": "- The Deliver Page",
+      "concepts": [
+        "Render formats and codecs (H.264, H.265, ProRes, DNxHR)",
+        "Single clip vs. multiple clips rendering",
+        "Upres to Ultra HD for YouTube and archival considerations",
+        "Archival rendering and multi-version deliverables",
+        "Course wrap-up and next-step suggestions"
+      ],
+      "description": "The Deliver page walkthrough covers how to render a project, choose codecs and containers, and how to create multiple render targets for different purposes (web, archival, etc.). The video closes with encouragement to practice the workflow and suggestions for continuing with advanced training and Fusion/Color courses."
+    },
+    {
+      "start": "05:05:42",
+      "end": "05:10:55",
+      "title": "- How to Learn Resolve the BEST WAY",
+      "concepts": [
+        "Render formats and codecs (H.264, H.265, ProRes, DNxHR)",
+        "Single clip vs. multiple clips rendering",
+        "Upres to Ultra HD for YouTube and archival considerations",
+        "Archival rendering and multi-version deliverables",
+        "Course wrap-up and next-step suggestions"
+      ],
+      "description": "The Deliver page walkthrough covers how to render a project, choose codecs and containers, and how to create multiple render targets for different purposes (web, archival, etc.). The video closes with encouragement to practice the workflow and suggestions for continuing with advanced training and Fusion/Color courses."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Anchor technique for editing a scene (build a timeline from a wide shot and layer closer shots)",
+      "timestamp": "00:56:00",
+      "confidence": 0.55
+    },
+    {
+      "technique": "Autosync audio by waveform and replace camera audio with external mics",
+      "timestamp": "00:26:50",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Ripple trim to close gaps automatically",
+      "timestamp": "00:36:15",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Smart bins and keyword-driven organization for large media libraries",
+      "timestamp": "00:23:50",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Node-based Fusion compositing with masks and tracking",
+      "timestamp": "01:45:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Color management workflow: enabling DaVinci color management and per-camera input color space",
+      "timestamp": "02:56:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Tracking in color page to attach edits to moving subjects (eyes, lips)",
+      "timestamp": "04:03:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Use of stills to quickly match color grades across shots",
+      "timestamp": "03:50:00",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:55:37.437163+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

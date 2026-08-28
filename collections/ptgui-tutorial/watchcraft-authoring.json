@@ -1,0 +1,196 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "Official PTGUI Tutorial",
+    "collection_id": "official-ptgui-tutorial",
+    "description": "A Watchcraft collection of public instructional videos.",
+    "source": {
+      "type": "youtube-playlist",
+      "playlist_id": "PLiaof7dM5yj6642MO1xaVz_R_2LR4kk3H",
+      "url": "https://www.youtube.com/playlist?list=PLiaof7dM5yj6642MO1xaVz_R_2LR4kk3H"
+    }
+  },
+  "sources": {
+    "O2JaDKSOtwY.youtube": {
+      "source_id": "youtube:O2JaDKSOtwY",
+      "type": "youtube",
+      "video_id": "O2JaDKSOtwY",
+      "url": "https://www.youtube.com/watch?v=O2JaDKSOtwY",
+      "title": "PTGui tutorial part 1: Introduction",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/O2JaDKSOtwY/hqdefault.jpg",
+      "duration_seconds": 367,
+      "published_at": "2019-01-15T05:41:50-08:00",
+      "chapters": [],
+      "position": 1,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "O38yF9wVR3Q.youtube": {
+      "source_id": "youtube:O38yF9wVR3Q",
+      "type": "youtube",
+      "video_id": "O38yF9wVR3Q",
+      "url": "https://www.youtube.com/watch?v=O38yF9wVR3Q",
+      "title": "PTGui tutorial part 2: Using PTGui",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/O38yF9wVR3Q/hqdefault.jpg",
+      "duration_seconds": 498,
+      "published_at": "2019-01-15T14:23:52-08:00",
+      "chapters": [],
+      "position": 2,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "sCAuS4vLCLc.youtube": {
+      "source_id": "youtube:sCAuS4vLCLc",
+      "type": "youtube",
+      "video_id": "sCAuS4vLCLc",
+      "url": "https://www.youtube.com/watch?v=sCAuS4vLCLc",
+      "title": "PTGui tutorial part 3: Control points",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/sCAuS4vLCLc/hqdefault.jpg",
+      "duration_seconds": 587,
+      "published_at": "2019-01-16T04:57:56-08:00",
+      "chapters": [],
+      "position": 3,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "YTzHqxIh3jw.youtube": {
+      "source_id": "youtube:YTzHqxIh3jw",
+      "type": "youtube",
+      "video_id": "YTzHqxIh3jw",
+      "url": "https://www.youtube.com/watch?v=YTzHqxIh3jw",
+      "title": "PTGui tutorial part 4: Editing and viewing spherical panoramas",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/YTzHqxIh3jw/hqdefault.jpg",
+      "duration_seconds": 637,
+      "published_at": "2019-01-16T13:26:15-08:00",
+      "chapters": [],
+      "position": 4,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "xuuZipXZscM.youtube": {
+      "source_id": "youtube:xuuZipXZscM",
+      "type": "youtube",
+      "video_id": "xuuZipXZscM",
+      "url": "https://www.youtube.com/watch?v=xuuZipXZscM",
+      "title": "PTGui tutorial part 5: stitching HDR panoramas",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/xuuZipXZscM/hqdefault.jpg",
+      "duration_seconds": 867,
+      "published_at": "2019-01-28T04:29:36-08:00",
+      "chapters": [],
+      "position": 5,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "fJVhttuhP1s.youtube": {
+      "source_id": "youtube:fJVhttuhP1s",
+      "type": "youtube",
+      "video_id": "fJVhttuhP1s",
+      "url": "https://www.youtube.com/watch?v=fJVhttuhP1s",
+      "title": "PTGui tutorial part 6: masks",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/fJVhttuhP1s/hqdefault.jpg",
+      "duration_seconds": 427,
+      "published_at": "2019-03-01T08:35:59-08:00",
+      "chapters": [],
+      "position": 6,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "qtgkaZI8inw.youtube": {
+      "source_id": "youtube:qtgkaZI8inw",
+      "type": "youtube",
+      "video_id": "qtgkaZI8inw",
+      "url": "https://www.youtube.com/watch?v=qtgkaZI8inw",
+      "title": "PTGui tutorial part 7: Viewpoint Correction",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/qtgkaZI8inw/hqdefault.jpg",
+      "duration_seconds": 336,
+      "published_at": "2019-03-01T08:36:23-08:00",
+      "chapters": [],
+      "position": 7,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "O5LvhL-zVAQ.youtube": {
+      "source_id": "youtube:O5LvhL-zVAQ",
+      "type": "youtube",
+      "video_id": "O5LvhL-zVAQ",
+      "url": "https://www.youtube.com/watch?v=O5LvhL-zVAQ",
+      "title": "PTGui tutorial part 8: Levelling",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/O5LvhL-zVAQ/hqdefault.jpg",
+      "duration_seconds": 315,
+      "published_at": "2019-06-29T06:47:01-07:00",
+      "chapters": [],
+      "position": 8,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "gznuIgozCVc.youtube": {
+      "source_id": "youtube:gznuIgozCVc",
+      "type": "youtube",
+      "video_id": "gznuIgozCVc",
+      "url": "https://www.youtube.com/watch?v=gznuIgozCVc",
+      "title": "PTGui Patch Tool tutorial",
+      "publisher": "PTGui",
+      "publisher_url": "https://www.youtube.com/@ptgui",
+      "thumbnail_url": "https://i.ytimg.com/vi/gznuIgozCVc/hqdefault.jpg",
+      "duration_seconds": 685,
+      "published_at": "2025-01-31T01:50:07-08:00",
+      "chapters": [],
+      "position": 9,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    }
+  }
+}

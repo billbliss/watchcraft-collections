@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "video": "sCAuS4vLCLc.youtube",
+  "title": "PTGui Control Points Tutorial: Automatic Generation, Manual Refinement, and Masking for a 360 Panorama",
+  "date": {
+    "display": "January 16, 2019",
+    "iso": "2019-01-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Tunnel (explicit; photographed in a tunnel as stated in transcript)",
+      "confidence": 1.0,
+      "basis": "Transcript line: 'I've taken the photos in a tunnel' (00:03:14–00:03:17)"
+    }
+  ],
+  "summary": "This PTGui tutorial explains the concept of control points, how automatic point generation works (in spirit similar to SIFT but not using SIFT in PTGui), and why manual refinement is sometimes necessary. The instructor demonstrates building a fresh project for a fully spherical 360° panorama from four tunnel images, showing how PTGui identifies corresponding points, the role of the cropping circle, and how to inspect, add, move, or delete control points. A control-point table is used to diagnose errors, after which the video covers optimization, removing outliers with the Delete Worst Control Points feature, and achieving a seam-free result with a well-calibrated tripod head. The session also introduces UI aids such as magnification, rectangular selection for group edits, masking to guide where points are generated, and generating points only between selected image pairs or within a masked region.",
+  "topics": [
+    "Control points basics",
+    "Normal vs. line-type control points",
+    "Automatic control point generation (SIFT-like concept)",
+    "EXIF data use for lens and image circle",
+    "Cropping circle and full-frame circular fisheye considerations",
+    "Four-image tunnel setup for 360 panorama",
+    "Control Points Generator workflow",
+    "Manual adjustment of control points (mouse/arrow keys)",
+    "Control Points Table usage",
+    "Control point distance metric and diagnostics",
+    "Identifying and deleting mispoints",
+    "Optimization of panorama from control points",
+    "Delete Worst Control Points feature",
+    "Masking to influence control point generation",
+    "Generate Control Points Here (area-based generation)",
+    "Rectangular area selection with SHIFT-drag for grouping points",
+    "Generating control points only between two selected images",
+    "Unblended vs blended/visible seams in panorama",
+    "Magnifier customization in Control Points Editor",
+    "Practical tips: tripod head calibration and seam minimization"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:02:59",
+      "title": "Introduction to control points and how they guide image alignment",
+      "concepts": [
+        "control points",
+        "matching same object across images",
+        "normal vs line-type points",
+        "SIFT-like automatic generation",
+        "fingerprint robustness",
+        "limitations of automatic matching",
+        "need for manual adjustments when geometry is ambiguous"
+      ],
+      "description": "The host introduces the concept of control points, their purpose in aligning two images, and notes that while automated methods exist, manual refinement is sometimes required. Includes a high-level nod to SIFT-like principles and explains normal vs line-type control points."
+    },
+    {
+      "start": "00:03:05",
+      "end": "00:04:10",
+      "title": "Project setup: tunnel panorama and initial data preparation",
+      "concepts": [
+        "four images around the compass",
+        "fully spherical panorama",
+        "cropping circle",
+        "EXIF data usage",
+        "lens and sensor assumptions"
+      ],
+      "description": "The instructor begins a fresh project using four tunnel images (90° apart) and explains how PTGui reads EXIF data to infer a circular fisheye lens and the cropping circle, which determines usable image regions."
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:09:39",
+      "title": "Control Points workflow: generation, inspection, editing, masking, and area-based generation",
+      "concepts": [
+        "Generate Control Points",
+        "Control Points Table",
+        "magnifier",
+        "point dragging and nudging",
+        "distance metrics",
+        "deleting points",
+        "optimizing with control points",
+        "Delete Worst Control Points",
+        "unblended vs grid view",
+        "masking to guide generation",
+        "Generate Control Points Here",
+        "mask-based selective generation"
+      ],
+      "description": "The main workflow is demonstrated: generate initial control points between image pairs, inspect with the magnifier, refine positions with arrow keys or drag, use the Control Points Table to diagnose distances and identify bad points, delete outliers, optimize, and compare results in unblended/visible formats. The video introduces masking to exclude areas and area-based generation between specific image pairs."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Automatic control point generation (SIFT-like concept)",
+      "timestamp": "00:01:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Manual refinement of control points (dragging and nudging with arrow keys)",
+      "timestamp": "00:05:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Control Points Table for diagnosing distances and types",
+      "timestamp": "00:05:30",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Delete Worst Control Points to remove outliers",
+      "timestamp": "00:07:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Optimization of panorama using control points (result labeled 'good')",
+      "timestamp": "00:06:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Masking to influence where control points are generated",
+      "timestamp": "00:08:58",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Area-based control point generation (Generate Control Points Here)",
+      "timestamp": "00:08:51",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Generate control points only between two selected images",
+      "timestamp": "00:09:27",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using a calibrated panoramic tripod head to minimize seams",
+      "timestamp": "00:07:27",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:12:42.584521+00:00"
+}

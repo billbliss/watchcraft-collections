@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "video": "O38yF9wVR3Q.youtube",
+  "title": "PTGui Tutorial Part 2 — Main Window, Panorama Editor, and Create Panorama",
+  "date": {
+    "display": "January 15, 2019",
+    "iso": "2019-01-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PTGui tutorial (Pro edition highlighted) introduces the main window user interface, contrasts PTGui with PTGui Pro, and demonstrates a quick panorama build from a set of images. It covers dragging images, using EXIF data for camera/lens inference, automatically aligning images, and opening the Panorama Editor. The video then walks through editing modes, levelling, and projection options, followed by trimming and viewing seams. It finishes with the Create Panorama tab, including output size optimization, export formats (JPEG vs Photoshop with layers), and common blending controls (Feather, Interpolator) along with how including or excluding images affects the final panorama. Tone mapping is noted as a separate topic for future tutorials.",
+  "topics": [
+    "PTGui vs PTGui Pro feature differences (viewpoint correction, exposure/vignetting/white balance correction, masking, HDR, tone mapping, batch stitching)",
+    "Pro edition UI features and limitations",
+    "Advanced mode to reveal hidden UI tabs",
+    "PTGui UI: left-side tab layout and help texts",
+    "Tools menu: reveal Panorama Editor and Control Points Table",
+    "Importing images via drag-and-drop using EXIF data",
+    "EXIF-based camera/lens inference (full-frame sensor, 24mm lens)",
+    "Align Images auto-stitching and Panorama Editor launch",
+    "Panorama Editor: Edit Panorama vs Edit Panorama modes",
+    "Levelling by right-click and drag; undo with Ctrl+Z",
+    "Projection options: cylindrical, equirectangular, fisheye, straight",
+    "Detail Viewer for high-resolution inspection",
+    "Seam visualization (seams shown as red lines)",
+    "Blended vs unblended panorama views",
+    "Yellow trimming lines to crop panoramas",
+    "Display brightness and tone mapping (not applied in this tutorial)",
+    "Numerical Transform for precise pan/tilt shifts",
+    "Field of view controls (vertical and horizontal) and grid for manual levelling",
+    "Create Panorama tab: 100% size optimization, possible magnified outputs",
+    "Output formats: JPEG vs Photoshop with layers (PS format preserves layers)",
+    "Blending controls: Feather, Interpolator (default often fine)",
+    "Included images list and how deselecting images excludes them from the panorama",
+    "Keyboard shortcuts: Ctrl+E / Cmd+E to open Panorama Editor",
+    "Workflow pacing: quick general stitching followed by deeper editor exploration"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:41",
+      "title": "Intro and PTGui Editions",
+      "concepts": [
+        "Tutorial scope: main window UI and basic workflow",
+        "PTGui vs PTGui Pro overview",
+        "Pro edition features (processing, masking, HDR, tone mapping, batch stitching)",
+        "Publication context of the video",
+        "User guidance about edition differences"
+      ],
+      "description": "The host introduces the tutorial series and immediately distinguishes PTGui from PTGui Pro, noting that the Pro edition unlocks features like viewpoint correction, exposure/vignetting/white balance corrections, masking, HDR, tone mapping, and batch stitching."
+    },
+    {
+      "start": "00:00:49",
+      "end": "00:01:31",
+      "title": "UI Overview and Advanced Mode",
+      "concepts": [
+        "Main window with left-side tab bar",
+        "Advanced mode reveals additional tabs",
+        "Help texts and SHIFT-key extended help",
+        "Tool visibility via Tools menu"
+      ],
+      "description": "The video describes the main window’s tab layout, how some tabs are hidden behind Advanced mode, and how to access all windows (e.g., Panorama Editor, Control Points Table) through the Tools menu."
+    },
+    {
+      "start": "00:01:43",
+      "end": "00:02:33",
+      "title": "Basic Panorama Stitching Workflow",
+      "concepts": [
+        "Drag-and-drop images into PTGui",
+        "EXIF-based camera/lens inference",
+        "Align Images auto-stitching",
+        "Panorama Editor opens with initial result"
+      ],
+      "description": "The instructor demonstrates starting a project by dragging images, notes that EXIF data identifies a full-frame sensor and a 24mm lens, runs Align Images to auto-match and arrange the photos, and opens the Panorama Editor to review the result."
+    },
+    {
+      "start": "00:02:41",
+      "end": "00:04:59",
+      "title": "Panorama Editor: Editing Modes and Tools",
+      "concepts": [
+        "Two editing modes: Edit Panorama vs Edit Panorama",
+        "Levelling via right-click and drag",
+        "Undo with Ctrl/Cmd+Z",
+        "Projection options (cylindrical, equirectangular, fisheye, straight)",
+        "Detail Viewer for high-res inspection"
+      ],
+      "description": "This section covers switching between editing modes, levelling operations, undo capability, and switching projection types, plus introducing the Detail Viewer for zooming to original image resolution."
+    },
+    {
+      "start": "00:05:06",
+      "end": "00:06:22",
+      "title": "Panorama Editor: Display and Field of View Tools",
+      "concepts": [
+        "Display brightness slider",
+        "Tone mapping (not applied in this tutorial)",
+        "Numerical Transform for precise movements (e.g., 5-degree steps)",
+        "Field of view sliders (vertical/horizontal) and their effect on the panorama"
+      ],
+      "description": "The host explains in-editor display controls, notes tone mapping is reserved for another tutorial, demonstrates precise adjustments with the Numerical Transform, and shows how to adjust vertical and horizontal field of view along with an on-screen grid for levelling."
+    },
+    {
+      "start": "00:06:28",
+      "end": "00:07:16",
+      "title": "Create Panorama Tab: Output Size and Formats",
+      "concepts": [
+        "Output size defaults with 100% button",
+        "Interpreting 30,000 px width option",
+        "File format choices (JPEG, Photoshop) and multi-layer output"
+      ],
+      "description": "In the Create Panorama tab, the video highlights how to determine the optimum size via the 100% button, mentions possible wide outputs (e.g., up to around 30k px), and explains format choices including Photoshop’s layered export versus JPEG’s single-image output."
+    },
+    {
+      "start": "00:07:32",
+      "end": "00:08:13",
+      "title": "Blending, Export Details, and Image Inclusion",
+      "concepts": [
+        "Blender options: Feather and default settings",
+        "Interpolator as an optional choice",
+        "Photoshop format vs JPEG for layered exports",
+        "Managing the Included Images list (toggle inclusion)",
+        "Impact of including/excluding images on the final panorama"
+      ],
+      "description": "This final instructional segment covers blending controls like Feather, notes the default Interpolator, describes export behavior for Photoshop format with layers, and demonstrates how the included images list affects which source images are used to generate the panorama."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "EXIF-driven camera/lens inference (full-frame sensor, 24mm)",
+      "timestamp": "00:01:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Auto-alignment of images with Align Images",
+      "timestamp": "00:02:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Seam inspection via red-line visualization",
+      "timestamp": "00:04:18",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Detail Viewer for high-resolution inspection",
+      "timestamp": "00:03:45",
+      "confidence": 0.8
+    },
+    {
+      "technique": "100% output-size optimization in Create Panorama",
+      "timestamp": "00:06:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "JPEG vs Photoshop with layers export behavior",
+      "timestamp": "00:06:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Feather and default blending settings",
+      "timestamp": "00:07:44",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:10:41.798550+00:00"
+}

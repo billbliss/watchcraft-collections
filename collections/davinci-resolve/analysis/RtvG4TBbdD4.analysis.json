@@ -1,0 +1,230 @@
+{
+  "schema_version": 2,
+  "video": "RtvG4TBbdD4.youtube",
+  "title": "DaVinci Resolve 20.2 Immersive Video Workflows: VR180 Export, Apple Immersive, and Fusion 3D FX in Depth",
+  "date": {
+    "display": "September 16, 2025",
+    "iso": "2025-09-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This in-depth tutorial surveys DaVinci Resolve 20.2’s leap into immersive video, covering cross-camera workflows (URSA Cine Immersive with Canon VR), VR180 export, and Fusion-driven 3D VFX. It demonstrates converting 360 footage to Apple Immersive 180 lens space via Panomap with camera metadata, ingesting mixed- stereo sources, previewing in the Apple Vision Pro, rotoscoping and paint fixes in 3D, and assembling logos and motion graphics directly into immersive space. The guide also reviews horizon leveling, World Pose post-fixes, and the VR180 delivery options (including high per-eye resolutions) that enable production-quality immersive storytelling on platforms like YouTube VR and Meta Quest.",
+  "topics": [
+    "DaVinci Resolve 20.2 immersive updates",
+    "URSA Cine Immersive + Canon EOS VR compatibility",
+    "VR180 export workflow in Delivery",
+    "Monoscopic 360 to Apple Immersive 180 conversion with Panomap",
+    "Using camera metadata to map 360 to lens space",
+    "Two-eye immersion setup for VR180 with Canon/R5C and Qoocam",
+    "Fusion page: MediaIn, Panomap, and Immersive workflow",
+    "Vision Pro live preview and streaming from Resolve",
+    "Immersive Patcher for 180 deg distortion removal",
+    "3D paint fixes: Clone brush in Immersive space",
+    "Distort back to lens space and merging",
+    "Left and right eye stereo fixes and timelines",
+    "3D depth preview: 3D Combiner and Anaglyph workflow",
+    "World Pose for post-level adjustments",
+    "Horizon leveling with rulers and guides",
+    "VR180 per-eye resolution: 8640x8640 and 16K total",
+    "Color pipeline: CST from SDR/Rec.709 to P3-D65 HDR for Vision Pro",
+    "Inserting branding and motion graphics in immersive 3D",
+    "Verification best practices using Vision Pro for stereo checks",
+    "Final VR180 delivery considerations and platforms"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "- Introduction",
+      "concepts": [
+        "Cross-camera interoperability (URSA Cine Immersive with Canon EOS VR)",
+        "VR180 export capability",
+        "Initial steps to bring 360 and VR footage into immersive timelines"
+      ],
+      "description": "Introduces the major update: Resolve 20.2 enables mixing footage from different immersive cameras, and adds VR180 export. Sets the stage for Apple Immersive and Fusion-based workflows, including how to bring in 360 sources for a cohesive immersive edit."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:02:34",
+      "title": "- Fusion updates on Immersive Video Editing",
+      "concepts": [
+        "Cross-camera interoperability (URSA Cine Immersive with Canon EOS VR)",
+        "VR180 export capability",
+        "Initial steps to bring 360 and VR footage into immersive timelines"
+      ],
+      "description": "Introduces the major update: Resolve 20.2 enables mixing footage from different immersive cameras, and adds VR180 export. Sets the stage for Apple Immersive and Fusion-based workflows, including how to bring in 360 sources for a cohesive immersive edit."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:03:03",
+      "title": "- 360 View on Immersive",
+      "concepts": [
+        "Cross-camera interoperability (URSA Cine Immersive with Canon EOS VR)",
+        "VR180 export capability",
+        "Initial steps to bring 360 and VR footage into immersive timelines"
+      ],
+      "description": "Introduces the major update: Resolve 20.2 enables mixing footage from different immersive cameras, and adds VR180 export. Sets the stage for Apple Immersive and Fusion-based workflows, including how to bring in 360 sources for a cohesive immersive edit."
+    },
+    {
+      "start": "00:03:03",
+      "end": "00:04:28",
+      "title": "- How to Set Up Apple Vision Pro in Fusion Compositing",
+      "concepts": [
+        "Cross-camera interoperability (URSA Cine Immersive with Canon EOS VR)",
+        "VR180 export capability",
+        "Initial steps to bring 360 and VR footage into immersive timelines"
+      ],
+      "description": "Introduces the major update: Resolve 20.2 enables mixing footage from different immersive cameras, and adds VR180 export. Sets the stage for Apple Immersive and Fusion-based workflows, including how to bring in 360 sources for a cohesive immersive edit."
+    },
+    {
+      "start": "00:04:28",
+      "end": "00:06:54",
+      "title": "- How to Mix 360 Video with Apple Immersive Video in 180",
+      "concepts": [
+        "Cross-camera interoperability (URSA Cine Immersive with Canon EOS VR)",
+        "VR180 export capability",
+        "Initial steps to bring 360 and VR footage into immersive timelines",
+        "Panomap node",
+        "To: Immersive lens space",
+        "Camera metadata alignment",
+        "Preview in Immersive view vs. lens space"
+      ],
+      "description": "Demonstrates converting monoscopic 360 footage (and even 360 photos) into Apple Immersive 180 lens space using Panomap. Covers setting From/To, rotating for direction, and correcting cropping by aligning camera metadata to restore a faithful 180-degree view."
+    },
+    {
+      "start": "00:06:54",
+      "end": "00:07:25",
+      "title": "- Combine 360 Photos with Immersive Video",
+      "concepts": [
+        "Panomap node",
+        "To: Immersive lens space",
+        "Camera metadata alignment",
+        "Preview in Immersive view vs. lens space"
+      ],
+      "description": "Demonstrates converting monoscopic 360 footage (and even 360 photos) into Apple Immersive 180 lens space using Panomap. Covers setting From/To, rotating for direction, and correcting cropping by aligning camera metadata to restore a faithful 180-degree view."
+    },
+    {
+      "start": "00:07:25",
+      "end": "00:09:07",
+      "title": "- Mix VR180 with Apple Immersive Video",
+      "concepts": [
+        "Panomap node",
+        "To: Immersive lens space",
+        "Camera metadata alignment",
+        "Preview in Immersive view vs. lens space"
+      ],
+      "description": "Demonstrates converting monoscopic 360 footage (and even 360 photos) into Apple Immersive 180 lens space using Panomap. Covers setting From/To, rotating for direction, and correcting cropping by aligning camera metadata to restore a faithful 180-degree view."
+    },
+    {
+      "start": "00:09:07",
+      "end": "00:13:30",
+      "title": "- How to Do Paint Fixes in Immersive Video",
+      "concepts": [
+        "Panomap node",
+        "To: Immersive lens space",
+        "Camera metadata alignment",
+        "Preview in Immersive view vs. lens space",
+        "Side-by-Side VR180 setup for multiple cameras",
+        "Two MediaIn nodes per eye and per-eye Panomap workflow",
+        "Previewing inside Apple Vision Pro"
+      ],
+      "description": "Demonstrates converting monoscopic 360 footage (and even 360 photos) into Apple Immersive 180 lens space using Panomap. Covers setting From/To, rotating for direction, and correcting cropping by aligning camera metadata to restore a faithful 180-degree view."
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:16:31",
+      "title": "- How to Add Graphics in Immersive 3D in Fusion",
+      "concepts": [
+        "Side-by-Side VR180 setup for multiple cameras",
+        "Two MediaIn nodes per eye and per-eye Panomap workflow",
+        "Previewing inside Apple Vision Pro"
+      ],
+      "description": "Explains combining Canon VR180 and other sources in a single immersive timeline, configuring stereoscopic inputs, and validating results in Vision Pro to ensure accurate 3D fusion across eyes."
+    },
+    {
+      "start": "00:16:31",
+      "end": "00:17:54",
+      "title": "- NEW World Pose as VisionOS Effect",
+      "concepts": [
+        "Side-by-Side VR180 setup for multiple cameras",
+        "Two MediaIn nodes per eye and per-eye Panomap workflow",
+        "Previewing inside Apple Vision Pro",
+        "Immersive Patcher for corrective fixes",
+        "3D Paint fixes with Clone brush",
+        "Distort back to Apple lens space",
+        "3D depth previews: 3D Combiner and Anaglyph",
+        "World Pose and horizon level adjustments"
+      ],
+      "description": "Moves into practical VFX tasks: removing unwanted elements in 3D space with Immersive Patcher, painting with a 3D-aware Clone brush, converting patched frames back to lens space, and validating depth using 3D preview tools and Horizon alignment (World Pose). Concludes with VR180 delivery settings and branding in immersive space."
+    },
+    {
+      "start": "00:17:54",
+      "end": "00:18:41",
+      "title": "- Immersive EXR with ILPD metadata",
+      "concepts": [
+        "Immersive Patcher for corrective fixes",
+        "3D Paint fixes with Clone brush",
+        "Distort back to Apple lens space",
+        "3D depth previews: 3D Combiner and Anaglyph",
+        "World Pose and horizon level adjustments"
+      ],
+      "description": "Moves into practical VFX tasks: removing unwanted elements in 3D space with Immersive Patcher, painting with a 3D-aware Clone brush, converting patched frames back to lens space, and validating depth using 3D preview tools and Horizon alignment (World Pose). Concludes with VR180 delivery settings and branding in immersive space."
+    },
+    {
+      "start": "00:18:41",
+      "end": "00:22:06",
+      "title": "- URSA Cine Immersive: VR180 Export",
+      "concepts": [
+        "Immersive Patcher for corrective fixes",
+        "3D Paint fixes with Clone brush",
+        "Distort back to Apple lens space",
+        "3D depth previews: 3D Combiner and Anaglyph",
+        "World Pose and horizon level adjustments"
+      ],
+      "description": "Moves into practical VFX tasks: removing unwanted elements in 3D space with Immersive Patcher, painting with a 3D-aware Clone brush, converting patched frames back to lens space, and validating depth using 3D preview tools and Horizon alignment (World Pose). Concludes with VR180 delivery settings and branding in immersive space."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "VR180 export from DaVinci Resolve 20.2",
+      "timestamp": "00:00:21",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Convert 360 footage to Apple Immersive 180 lens space using Panomap and camera metadata",
+      "timestamp": "00:05:22",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Multi-camera VR180 workflow with per-eye Panomap in Fusion and Vision Pro preview",
+      "timestamp": "00:08:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Immersive Patcher for 3D object removal and paint fixes",
+      "timestamp": "00:10:30",
+      "confidence": 0.82
+    },
+    {
+      "technique": "3D depth compositing: 3D Combiner + Anaglyph preview for stereo alignment",
+      "timestamp": "00:15:33",
+      "confidence": 0.78
+    },
+    {
+      "technique": "World Pose horizon leveling and ruler-guided fine-tuning",
+      "timestamp": "00:16:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "VR180 delivery settings: 8640x8640 per eye (16K total) in ProRes HQ",
+      "timestamp": "00:19:50",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:56:35.985760+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "video": "qtgkaZI8inw.youtube",
+  "title": "PTGui Viewpoint Correction: Masking for Offset Images, Floor-Only Alignment, and a Cologne Cathedral Counterexample",
+  "date": {
+    "display": "March 1, 2019",
+    "iso": "2019-03-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Cologne Cathedral (top) – demonstration counterexample",
+      "confidence": 0.85,
+      "basis": "Explicit mention: 'This was taken from the top of the Cologne cathedral' in transcript."
+    },
+    {
+      "name": "Tunnel panorama scene (demonstration context)",
+      "confidence": 0.55,
+      "basis": "Transcript references a tunnel panorama used to illustrate the technique; no explicit shooting location given."
+    }
+  ],
+  "summary": "This PTGui Pro tutorial explains Viewpoint Correction, a feature used to integrate images captured from offset viewpoints (not at the no-parallax point) into a single panorama. The presenter emphasizes that the mapped area must be approximately flat, and demonstrates the workflow: enable Viewpoint Correction, mask everything not on the ground surface, then run Align Images and the Optimizer to verify results. A practical example shows masking the floor so only the flat surface is used, yielding a clean floor join; a counterexample (top of Cologne Cathedral) demonstrates the problems that arise when masking is not applied. The lesson underscores staying reasonably close to the no-parallax point to improve automatic control point generation and keep image deformation manageable.",
+  "topics": [
+    "Viewpoint Correction concept",
+    "PTGui Pro requirement for Viewpoint Correction",
+    "No-parallax point concept",
+    "Rotating around the lens front vs camera body",
+    "Offset viewpoints and panoramic tripod head",
+    "Masking non-ground areas",
+    "Flat/approximately flat area requirement",
+    "Masking effect on control point generation",
+    "Align Images workflow with masking",
+    "Using the Optimizer to assess results",
+    "Floor-only mapping for seamless joins",
+    "Comparing masked vs unmasked results",
+    "Staying near the no-parallax point for better automatic CP generation",
+    "Counterexample: Cologne Cathedral top",
+    "Practical masking tips (mask before generating CPs)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:50.160",
+      "title": "Introduction to Viewpoint Correction and its limitations",
+      "concepts": [
+        "Viewpoint Correction definition",
+        "PTGui Pro requirement",
+        "No-parallax point vs offset viewpoints"
+      ],
+      "description": "The tutor introduces Viewpoint Correction, clarifies it is a PTGui Pro feature, and explains why offset viewpoints occur (e.g., to avoid ground-level occlusions) and why the no-parallax point is the ideal reference."
+    },
+    {
+      "start": "00:02:08.580",
+      "end": "00:03:11.860",
+      "title": "Correct workflow: enable, mask, and align",
+      "concepts": [
+        "Enable Viewpoint Correction in the Project Assistant",
+        "Mask everything not on the ground surface",
+        "Masking excludes areas from panorama and CP generation"
+      ],
+      "description": "Demonstrates the practical steps: activate Viewpoint Correction, create a mask to isolate the ground/floor area, and run Align Images followed by the Optimizer to verify a clean floor join."
+    },
+    {
+      "start": "00:03:16.000",
+      "end": "00:04:43.540",
+      "title": "What happens if masking and workflow are not followed",
+      "concepts": [
+        "Effect of not masking when using Viewpoint Correction",
+        "Unmasked areas lead to undesired control points",
+        "Masking prevents walls and non-ground areas from influencing alignment"
+      ],
+      "description": "Shows a counterfactual where alignment appears poor without masking, then explains that even with Viewpoint Correction enabled, missing masks cause control points to form on walls and other non-ground surfaces, degrading results."
+    },
+    {
+      "start": "00:04:50.460",
+      "end": "00:05:31.520",
+      "title": "Counterexample and practical takeaways",
+      "concepts": [
+        "Counterexample: top of Cologne Cathedral",
+        "Masking the non-floor areas is essential",
+        "Undoing masking can ruin the panorama; masking prior CP generation is easier"
+      ],
+      "description": "Presents a scenario on the cathedral roof to illustrate the catastrophe of removing non-ground masks, then reiterates the floor-only approach yields a correct panorama when masking is applied."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Enable Viewpoint Correction workflow in PTGui Pro",
+      "timestamp": "00:02:19.640",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Mask non-ground areas to exclude from panography and control point generation",
+      "timestamp": "00:02:29.040",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Align Images with Viewpoint Correction and masking",
+      "timestamp": "00:03:00.140",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Optimizer evaluation of alignment quality",
+      "timestamp": "00:03:11.860",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Comparison: masked vs unmasked workflow and its effect on CPs",
+      "timestamp": "00:03:24.600",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Floor-only mapping to produce seamless joins",
+      "timestamp": "00:02:53.140",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Counterexample: Cologne Cathedral scenario to illustrate masking importance",
+      "timestamp": "00:04:50.460",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Practical tip: mask before generating control points",
+      "timestamp": "00:04:00.100",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Guidance on proximity to the no-parallax point to improve CP generation",
+      "timestamp": "00:04:16.840",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:11:58.407590+00:00"
+}

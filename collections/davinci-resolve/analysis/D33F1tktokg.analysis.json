@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "video": "D33F1tktokg.youtube",
+  "title": "DaVinci Resolve Studio: 10 AI Tools Demonstrated with Timed Techniques",
+  "date": {
+    "display": "October 20, 2025",
+    "iso": "2025-10-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video showcases ten AI-enabled features directly built into DaVinci Resolve Studio, demonstrated in a practical editing workflow. The presenter traverses a workflow from masking and background composite using the Magic Mask (with a Fusion-based setup) to speed up heavy rotoscoping tasks, through AI-powered transcription and keyword-driven editing for efficient referencing, and into automated subtitling. The guide then covers voice-based tools for post-production, including AI voice training for voice conversion and AI voice isolation to clean dialogue, followed by several music-centric AI features for editing and timing. Additional acceleration comes from AI-powered ripple delete for silences, a Smooth Cut transition to bridge gaps, and AI-driven speed warp for retiming video. Across these sections, the video emphasizes saving hours of manual work and enabling rapid iteration when edits require last-minute changes or alignment to music and beats. The transcript anchors each section to exact DaVinci Resolve actions and settings, providing a concrete, timestamped map of the tools demonstrated.",
+  "topics": [
+    "Magic Mask (Fusion) for masking and rotoscoping",
+    "Using Fusion page with Magic Mask and onscreen picker",
+    "Tracking forward to stabilize a mask",
+    "Background replacement behind a talking head",
+    "Duplicate clip workflow (Option/Alt drag) for composites",
+    "AI transcription and timeline navigation",
+    "Keyword search in transcription (e.g., 'wheelchair') to locate clips",
+    "Copying transcription text into the timeline for scripting",
+    "Create subtitles from audio (automatic subtitles)",
+    "Subtitle styling: inspector captions and track options",
+    "Animated subtitles (word-by-word animation)",
+    "AI voice training for voice cloning",
+    "AI voice conversion to mimic a client’s voice",
+    "AI voice isolation to remove background noise",
+    "AI music remixer to mute or reduce instruments (drums, etc.)",
+    "AI music editor to adjust track length and timing",
+    "Time-aligning footage to music beats with Show Music Beats",
+    "Ripple Delete Silence to remove gaps in A-roll",
+    "Crossfade option for ripple deletion (when needed)",
+    "Smooth Cut transitions to bridge cuts with AI-generated frames",
+    "Speed Warp AI for retiming video with optical flow",
+    "Speed warp vs. faster option: tradeoffs in rendering and quality",
+    "Be mindful of artifacts and head-position changes with AI transitions"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:24",
+      "title": "AI has transformed editing",
+      "concepts": [],
+      "description": "AI has transformed editing"
+    },
+    {
+      "start": "00:00:24",
+      "end": "00:01:54",
+      "title": "Mask images in seconds",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:03:46",
+      "title": "Accelerate your workflow with transcriptions",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:03:46",
+      "end": "00:04:52",
+      "title": "Add subtitles automatically",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:04:52",
+      "end": "00:07:23",
+      "title": "Fix filming mistakes with Voice Convert",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:07:23",
+      "end": "00:08:29",
+      "title": "Remove background noise",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:08:29",
+      "end": "00:09:25",
+      "title": "Adjust instruments audio levels",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:09:25",
+      "end": "00:10:39",
+      "title": "Retime music length the easy way",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:10:39",
+      "end": "00:11:39",
+      "title": "Time clips to music beats",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:11:39",
+      "end": "00:14:13",
+      "title": "Let AI cut your A roll",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:14:13",
+      "end": "00:15:48",
+      "title": "Fix jump cuts",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    },
+    {
+      "start": "00:15:48",
+      "end": "00:17:13",
+      "title": "Smooth slow motion",
+      "concepts": [
+        "Magic Mask",
+        "Fusion page workflow",
+        "Onscreen picker for masking",
+        "Tracking forward",
+        "Background behind subject",
+        "Drop shadow to sell the composite"
+      ],
+      "description": "Demonstrates masking a talking-head subject using DaVinci Resolve's Magic Mask, moving to the Fusion page to refine the mask, tracking forward, and then stacking a background layer with foreground subject to simulate the subject in front of different imagery, including adding a drop shadow for realism."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Magic Mask (Fusion-based masking for a talking-head)",
+      "timestamp": "00:00:25",
+      "confidence": 0.92
+    },
+    {
+      "technique": "AI transcription and keyword search for precise edits",
+      "timestamp": "02:28",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Create subtitles from audio and animated subtitles",
+      "timestamp": "03:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "AI voice training and voice conversion",
+      "timestamp": "05:25",
+      "confidence": 0.84
+    },
+    {
+      "technique": "AI voice isolation for cleaner dialogue",
+      "timestamp": "07:25",
+      "confidence": 0.83
+    },
+    {
+      "technique": "AI music remixer (instrument removal)",
+      "timestamp": "08:28",
+      "confidence": 0.82
+    },
+    {
+      "technique": "AI music editor for length and endings",
+      "timestamp": "09:16",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Ripple Delete Silence (AI-assisted)",
+      "timestamp": "11:42",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Smooth Cut transition (AI-assisted frame generation)",
+      "timestamp": "14:27",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Speed Warp AI retiming with optical flow",
+      "timestamp": "16:12",
+      "confidence": 0.89
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:54:27.956940+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

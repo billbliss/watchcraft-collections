@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "video": "gznuIgozCVc.youtube",
+  "title": "PTGui Patch Tool Tutorial: Patching nadir/zenith and object removal in PTGui Pro",
+  "date": {
+    "display": "January 31, 2025",
+    "iso": "2025-01-31",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Geysir, Iceland",
+      "confidence": 0.9,
+      "basis": "Explicit in transcript: \"images were taken at the geyser in Iceland, at Geysir\""
+    }
+  ],
+  "summary": "This PTGui Patch Tool tutorial demonstrates how to fill gaps and remove unwanted objects in spherical panoramas using PTGui Pro. It covers two patching workflows: editing patch images externally with Photoshop or AI tools and using PTGui Pro's integrated Patch Editor. The example panorama is a fisheye shot from Iceland’s Geysir area, used to show handling nadir/zenith gaps, tone mapping, and seamless blending. The video explains patch image formats (TIFF, JPEG 2000, OpenEXR, JPEG), where patch images are saved, and how patches are incorporated into the project as dedicated sources with masks. It then walks through both workflows—external editor patching followed by automatic project reload, and a fully PTGui-centric Patch Editor approach—highlighting cut versus patch modes, hole creation, dragging patches, vertex edits, and seam visualization to achieve seamless blending.",
+  "topics": [
+    "Patch Tool in PTGui Pro",
+    "gap filling in panoramas",
+    "removing objects (tripods) from panoramas",
+    "Photoshop integration with PTGui Patch Tool",
+    "generative AI patching in PTGui workflow",
+    "PTGui Pro Patch Editor",
+    "nadir and zenith patching in spherical panoramas",
+    "tone mapping in PTGui",
+    "Detail Viewer controls in PTGui",
+    "Snapshot panel overview",
+    "patch image formats: TIFF, JPEG 2000, OpenEXR",
+    "patch image storage beside project file",
+    "green patch mask for proper blending",
+    "seam blending and red seam visualization",
+    "zero overlap blender for seams",
+    "Patch Editor Cut mode vs Patch mode",
+    "adding holes and patches in Patch Editor",
+    "vertex editing and edge handling in Patch Editor",
+    "auto reload of patched images in PTGui",
+    "seam refinement without Photoshop"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:12",
+      "title": "Patch Tool overview and integration options",
+      "concepts": [
+        "Patch Tool",
+        "gap filling",
+        "remove objects",
+        "Photoshop integration",
+        "Patch Editor (integrated)"
+      ],
+      "description": "Introduces the Patch Tool in PTGui Pro and explains two workflows: patching via an external editor (Photoshop or AI tools) and using PTGui Pro’s built-in Patch Editor for direct patch work."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:02:14",
+      "title": "Panorama preparation and nadir gap assessment",
+      "concepts": [
+        "tone mapping",
+        "Detail Viewer",
+        "view directions (horizon/zenith/nadir)",
+        "nadir gap inspection"
+      ],
+      "description": "Sets up the example panorama from Geysir, discusses camera setup, deliberate underexposure to preserve sky, and demonstrates viewing controls and initial gap assessment in the Detail Viewer."
+    },
+    {
+      "start": "00:02:41",
+      "end": "00:06:28",
+      "title": "External patch editing workflow and file formats",
+      "concepts": [
+        "patch file formats (TIFF, JPEG 2000, OpenEXR)",
+        "external editors (Photoshop, Affinity Photo, Lightroom)",
+        "patch overlays and masks",
+        "saving patch files beside project"
+      ],
+      "description": "Shows selecting a patch file format, saving the patch image next to the PTGui project, choosing how to process the patch (open in integrated Patch Editor vs external editor vs Finder/Explorer), and beginning an external patching workflow with Photoshop.\""
+    },
+    {
+      "start": "00:06:52",
+      "end": "00:11:16",
+      "title": "In-PTGui Patch Editor workflow: Cut mode and Patch mode",
+      "concepts": [
+        "Patch Editor",
+        "Cut mode",
+        "Patch mode",
+        "holes and patches",
+        "zero overlap blender",
+        "seam visualization",
+        "edge/vertex editing",
+        "auto reload of patched image"
+      ],
+      "description": "Demonstrates using PTGui Pro’s Patch Editor to create and edit patch images without external tools. Covers creating holes (Cut mode), patching by dragging contents (Patch mode), moving/rotating/editing patches, adding vertices, seam visualization (red seam), and the built-in blending approach (zero overlap blender) with automatic project reload after edits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Photoshop generative AI patching for nadir",
+      "timestamp": "00:04:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Patch image added as a new source with its own lens profile and green mask",
+      "timestamp": "00:05:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Patch Editor: Cut mode removes areas, Patch mode fills from image",
+      "timestamp": "00:07:31",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Zero-overlap blender with optimum seams for patch blending",
+      "timestamp": "00:10:09",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Snapshot/Detail Viewer used to render and inspect patch results",
+      "timestamp": "00:02:35",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:09:08.899847+00:00"
+}

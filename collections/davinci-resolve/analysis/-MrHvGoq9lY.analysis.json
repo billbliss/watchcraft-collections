@@ -1,0 +1,192 @@
+{
+  "schema_version": 2,
+  "video": "-MrHvGoq9lY.youtube",
+  "title": "DaVinci Resolve: Level One Edit & Advanced Techniques for Social Video (Mac & PC)",
+  "date": {
+    "display": "May 28, 2025",
+    "iso": "2025-05-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This in-depth tutorial switches between DaVinci Resolve’s UI and hands‑on editing, guiding a beginner from a basic Resolve layout and media import to a complete Level One edit and an outline of an Advanced Edit. It covers importing media (including folder-based import), setting up project settings (timeline resolution and vertical formats for social platforms), fundamental timeline editing (blade tool, trim, and basic inspector adjustments), color grading with LUTs (notably a Sony LUT) and color wheels, audio shaping (normalization and compressor), B‑roll insertion and multi‑track layering, transitions (Push, glitch, and other effects), intro text and logo overlays, masking and tracking for background replacement, cloning/ghosting effects, and the process of exporting with options for captions. The video also demonstrates practical workflow tips for social media content, like vertical timelines, punch-ins, and template-based text—culminating in an advanced edit preview before a final render.",
+  "topics": [
+    "Import media into the Media Pool",
+    "Folder-based import to preserve structure",
+    "Project frame rate and vertical timeline setup (TikTok/YouTube Shorts)",
+    "Timeline navigation and playback shortcuts (Space, L, K, J)",
+    "Blade tool (Command+B) and timeline trimming",
+    "Inspector use: transform, rotation, opacity, and audio levels",
+    "Color grading with LUTs (Sony LUT) and Color Wheels (Lift/Gamma/Gain/Offset)",
+    "White balance adjustments",
+    "Audio normalization (true peak) and Fairlight compressor",
+    "B‑roll insertion and layering order",
+    "Retiming and speed changes (Change Speed to 50%)",
+    "Masking with Pen Tool and Alpha Output for background replacement",
+    "Background replacement and motion tracking",
+    "Multi-clip cloning/ghost subject effects",
+    "Transitions (Push, Glitch, and template-based) with motion blur and easing",
+    "Intro text, titles, and logo overlays (including templates)",
+    "Captions: manual in free version and auto-caption in Studio, plus customization",
+    "Music import, editing, fades, and track organization",
+    "Delivery/export: render settings, subtitles export/burn-in, and file naming",
+    "Advanced text animation using keyframes and curve adjustments",
+    "Sound design: timing sound effects (SFX) and balancing with music",
+    "Intro/outro voice and sponsor integration (contextual to the video)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:50",
+      "title": "Intro & Resolve UI Overview",
+      "concepts": [
+        "DaVinci Resolve as a free editor",
+        "seven-page layout at the bottom of the UI",
+        "plan for the video: Level One basic edit then advanced edit"
+      ],
+      "description": "The video opens with a claim that DaVinci Resolve is the best free editor for beginners, introduces a team member who will teach the content, and outlines the tutorial structure—a mix of a Level One basic edit and an Advanced Edit, with a full account of Resolve’s layout and seven-page interface."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:14:50",
+      "title": "Importing Media & Project Setup",
+      "concepts": [
+        "Media Pool navigation",
+        "File > Import Media method",
+        "drag-and-drop folder import to preserve folder structure",
+        "project frame rate prompt and vertical timeline option"
+      ],
+      "description": "Shows how to import footage into Resolve via the Media Pool, demonstrates importing as a folder to keep folder structure, and explains project settings like timeline resolution and vertical (1080x1920) format for social content, plus the file-frame rate considerations."
+    },
+    {
+      "start": "00:14:50",
+      "end": "00:30:50",
+      "title": "Level One Edit: Framing, Cuts & Basic Tools",
+      "concepts": [
+        "timeline basics and playhead navigation",
+        "blade tool (Command+B)",
+        "selection tool",
+        "inspector access (transform/rotation/volume)",
+        "keyboard navigation (arrow keys, space, L, J, K)"
+      ],
+      "description": "Introduces core editing actions: placing clips on the timeline, basic playback controls, cutting with the blade tool, moving clips with the selection tool, and using the inspector for transform and audio adjustments. Emphasizes efficient navigation with keyboard shortcuts and timeline zoom."
+    },
+    {
+      "start": "00:30:50",
+      "end": "01:12:50",
+      "title": "Color Grading & Audio Enhancement",
+      "concepts": [
+        "LUTs and LUT import workflow (Sony LUT)",
+        "Sony LUT path and application",
+        "color wheels (lift/gamma/gain/offset)",
+        "white balance adjustments",
+        "audio normalization and manual adjustment",
+        "Fairlight compressor"
+      ],
+      "description": "Dives into color grading using a LUT (Sony LUT) and manual tweaks via color wheels, including explanations of lift, gamma, gain, and offset. Also covers white balance adjustments and audio workflow, including normalization to a target peak and enabling a compressor in the Fairlight mixer."
+    },
+    {
+      "start": "01:12:50",
+      "end": "01:37:50",
+      "title": "B-Roll, Transitions, and Intro Text",
+      "concepts": [
+        "inserting B-roll across tracks",
+        "transitions (Push with motion blur, ease in/out)",
+        "text overlays and DaVinci Resolve logo",
+        "template-based title approaches",
+        "pop transition for emphasis"
+      ],
+      "description": "Demonstrates adding B-roll to support the talking head narrative, applying and tweaking transitions with motion blur and easing, and building attention-grabbing intro text and logo overlays. Emphasizes using transitions strategically rather than on every clip, with examples like push and a pop effect."
+    },
+    {
+      "start": "01:37:50",
+      "end": "01:51:07",
+      "title": "Advanced Techniques: Masking, Clones & Sound Design",
+      "concepts": [
+        "masking with Pen Tool and Alpha Output",
+        "windowing and rotoscoping",
+        "motion tracking and background replacement",
+        "clones/ghost subject timing",
+        "sound effects timing and balancing",
+        "captions (manual and Studio auto)"
+      ],
+      "description": "Presents advanced compositing: isolating a subject with masking and tracking, replacing the background, and creating clone/ghost effects. Also covers precise timing of sound effects and discusses captioning options, including automatic captions in Studio and manual captioning workflows."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Import/organize media by dragging folders into the Media Pool to preserve folder structure (Master Bin)",
+      "timestamp": "00:04:50",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Basic timeline editing workflow including blade tool and quick navigation shortcuts (space, L, J, K, arrows)",
+      "timestamp": "00:06:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Applying a Sony LUT via LUTs panel and using color wheels for fine-tuning (lift/gamma/gain/offset)",
+      "timestamp": "00:18:20",
+      "confidence": 0.9
+    },
+    {
+      "technique": "White balance adjustments and subtle color correction using color wheels",
+      "timestamp": "00:22:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Audio normalization to true peak and manual adjustment in inspector/mixer; adding compressor (Fairlight)",
+      "timestamp": "00:24:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "B-roll insertion and track layering with top track priority and clip trimming",
+      "timestamp": "00:33:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Retiming and slow motion via rettime/change speed (50%)",
+      "timestamp": "00:40:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Masking and tracking with Pen Tool, Alpha Output, and window masking for background replacement",
+      "timestamp": "01:21:32",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Background replacement using a separate background clip and repositioning subject",
+      "timestamp": "01:23:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Captioning workflows: manual subtitles and Studio AI captions; font/track customization",
+      "timestamp": "01:56:14",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Exporting with subtitles burn-in and render queue workflow",
+      "timestamp": "01:04:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using template-based text and overlays for quick, professional intros (Content Creator templates)",
+      "timestamp": "01:25:16",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Intro text animation via keyframes and curve edits to add motion and personality",
+      "timestamp": "01:16:15",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sound design layering with multiple audio tracks (SFX, music) and timing to complement visuals",
+      "timestamp": "01:42:00",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T02:51:47.818127+00:00"
+}

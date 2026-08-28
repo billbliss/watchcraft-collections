@@ -107,9 +107,42 @@ git push
 ```
 
 A push to `main` triggers the GitHub Pages workflow. When it finishes, share the
-URL formed from the convention above. The recipient pastes it into Watchcraft's
-**Add a collection** field. A referenced-local collection then asks them to locate
-their local video folder.
+URL formed from the convention above. The recipient can paste it into Watchcraft's
+**Add a collection** field or open a channel-specific deep link. A
+referenced-local collection then asks them to locate their local video folder.
+
+Deep links can install any collection manifest reachable over HTTPS, whether or
+not it appears in `site/collections.json`. They cannot install an unpublished
+manifest that has no accessible URL. Stable Watchcraft builds use
+`watchcraft://`; beta builds use `watchcraft-beta://` so both applications can be
+installed on the same computer.
+
+## Install the unlisted Marc Adamus collection
+
+The published manifest is:
+
+```text
+https://billbliss.github.io/watchcraft-collections/collections/marc-adamus-videos/collection.json
+```
+
+Open it with [Watchcraft
+Beta](watchcraft-beta://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json),
+or copy the deep link:
+
+```text
+watchcraft-beta://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json
+```
+
+Open it with [stable
+Watchcraft](watchcraft://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json),
+or copy the deep link:
+
+```text
+watchcraft://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json
+```
+
+The browser may ask for permission to open Watchcraft. After confirming the
+collection, select the folder containing the locally owned Marc Adamus videos.
 
 ## Update an existing collection
 

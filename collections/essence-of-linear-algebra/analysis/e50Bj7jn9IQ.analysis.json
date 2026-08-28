@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "video": "e50Bj7jn9IQ.youtube",
+  "title": "A quick trick for computing eigenvalues (2×2) from trace and determinant",
+  "date": {
+    "display": "May 7, 2021",
+    "iso": "2021-05-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This 3Blue1Brown micro-lesson presents a fast method for finding eigenvalues of 2×2 matrices by using two already-available invariants: the trace (sum of eigenvalues) and the determinant (product of eigenvalues). The video shows that if you let the eigenvalues be λ1 and λ2, their mean m equals half the trace and their product p equals the determinant; then λ1 and λ2 are m ± sqrt(m^2 − p). After deriving and illustrating the method, the host works through concrete examples, including a quick matrix (3,1;4,1) and a second example (2,7;1,8), and then connects the idea to Pauli spin matrices in quantum mechanics. The video concludes with a comparison to the traditional characteristic-polynomial approach and discusses when this mean-and-product trick provides a speed advantage, especially for linear combinations of Pauli matrices. The segment also references a jingle by A Capella Science to mnemonic-ify the formula and ties the result back to broader quadratic-root ideas.",
+  "topics": [
+    "Eigenvalues",
+    "Eigenvectors",
+    "2x2 matrices",
+    "Trace of a matrix",
+    "Determinant of a matrix",
+    "Mean of eigenvalues",
+    "Product of eigenvalues",
+    "λ = m ± sqrt(m^2 − p)",
+    "m = trace(A)/2",
+    "p = det(A)",
+    "Characteristic polynomial",
+    "Quadratic formula",
+    "Pauli spin matrices",
+    "Quantum mechanics",
+    "Diagonal matrices",
+    "Linear combinations of Pauli matrices",
+    "Normalization (a^2 + b^2 + c^2 = 1)",
+    "A Capella Science mnemonic",
+    "Relation between trace/determinant and eigenvalues"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:53",
+      "title": "- Background",
+      "concepts": [
+        "Eigenvalues",
+        "Eigenvectors",
+        "2x2 matrices",
+        "Overview of the quick trick",
+        "Trace = sum of eigenvalues",
+        "Mean of eigenvalues equals mean of diagonal entries",
+        "Determinant = product of eigenvalues",
+        "From mean and product to eigenvalues",
+        "Mean m",
+        "Product p",
+        "Difference of squares",
+        "λ1,2 = m ± sqrt(m^2 − p)",
+        "Reading off m and p from the matrix"
+      ],
+      "description": "The presenter recalls the basic facts: the sum of eigenvalues equals the trace, and their product equals the determinant. He guides toward deriving a quick way to recover the two eigenvalues from their mean and product."
+    },
+    {
+      "start": "00:04:53",
+      "end": "00:10:24",
+      "title": "- Examples",
+      "concepts": [
+        "Mean m",
+        "Product p",
+        "Difference of squares",
+        "λ1,2 = m ± sqrt(m^2 − p)",
+        "Reading off m and p from the matrix",
+        "Example 1: A = [[3,1],[4,1]] -> m=2, p=-1, eigenvalues = 2 ± sqrt(5)",
+        "Example 2: A = [[2,7],[1,8]] -> m=5, p=9, eigenvalues = 9 and 1",
+        "Mean and determinant extraction from matrices",
+        "Diagonal vs non-diagonal matrices",
+        "Pauli matrices",
+        "Eigenvalues for Pauli matrices: ±1",
+        "Trace = 0 implies mean eigenvalue 0",
+        "Determinant = −1 in Pauli set",
+        "General linear combination of Pauli matrices (a,b,c) with a^2+b^2+c^2=1",
+        "Normalization and eigenvalues for spin observables"
+      ],
+      "description": "The method is demonstrated on concrete matrices. The first example yields eigenvalues 2 ± sqrt(5) using m = 2 and p = -1. The second example uses m = 5 and p = 9 to give eigenvalues 9 and 1. The speaker notes how these results align with reading m and p directly from the matrix."
+    },
+    {
+      "start": "00:10:24",
+      "end": "00:12:00",
+      "title": "- Relation to the characteristic polynomial",
+      "concepts": [
+        "Pauli matrices",
+        "Eigenvalues for Pauli matrices: ±1",
+        "Trace = 0 implies mean eigenvalue 0",
+        "Determinant = −1 in Pauli set",
+        "General linear combination of Pauli matrices (a,b,c) with a^2+b^2+c^2=1",
+        "Normalization and eigenvalues for spin observables"
+      ],
+      "description": "The three Pauli spin matrices are used to illustrate eigenvalues ±1 with zero mean and determinant −1. The video then discusses forming a linear combination aX + bY + cZ (normalized vector) and notes that the mean of eigenvalues remains 0 and the determinant remains −1, making the trick still useful in these quantum-mechanical contexts."
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:13:12",
+      "title": "- Last thoughts",
+      "concepts": [
+        "Pauli matrices",
+        "Eigenvalues for Pauli matrices: ±1",
+        "Trace = 0 implies mean eigenvalue 0",
+        "Determinant = −1 in Pauli set",
+        "General linear combination of Pauli matrices (a,b,c) with a^2+b^2+c^2=1",
+        "Normalization and eigenvalues for spin observables"
+      ],
+      "description": "The three Pauli spin matrices are used to illustrate eigenvalues ±1 with zero mean and determinant −1. The video then discusses forming a linear combination aX + bY + cZ (normalized vector) and notes that the mean of eigenvalues remains 0 and the determinant remains −1, making the trick still useful in these quantum-mechanical contexts."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Eigenvalues from mean and product: λ1,2 = m ± sqrt(m^2 − p) with m = trace(A)/2 and p = det(A)",
+      "timestamp": "00:04:41.220",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Direct extraction of mean and product from a matrix: mean(λ) = mean(diagonal entries) and product(λ) = det(A)",
+      "timestamp": "00:02:14.673",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Eigenvalues of Pauli spin matrices are ±1 with mean 0 and determinant −1",
+      "timestamp": "00:07:29.700",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:16:59.093100+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

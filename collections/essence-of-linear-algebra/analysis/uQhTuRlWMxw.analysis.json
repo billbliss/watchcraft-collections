@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "uQhTuRlWMxw.youtube",
+  "title": "Inverse matrices, column space, and null space (Chapter 7) – Essence of Linear Algebra",
+  "date": {
+    "display": "August 15, 2016",
+    "iso": "2016-08-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video builds intuition for inverse matrices, the column space, rank, and the null space through the geometric lens of linear transformations. It frames linear systems as Ax = V, where A is a matrix of coefficients, X the unknown vector, and V the right-hand side. The discussion covers when A is invertible (nonzero determinant) and how the inverse A^{-1} undoes A to solve Ax = V, emphasizing that in the nonzero-determinant case there is a unique solution obtained by applying the inverse to V. The video also introduces the concepts of the column space (the set of all possible outputs of the transformation), rank (the dimension of that output space), and the null space (the set of vectors that map to zero), and it highlights how these ideas explain existence and form of solutions in a geometric way. Throughout, the focus is on intuition rather than computational methods, noting that practical calculation is typically left to software and that Gaussian elimination/row-echelon methods lie outside the scope of this particular presentation. The content also touches on the use of linear algebra in applications like computer graphics and robotics, and it signals that a future short footnote will cover non-square matrices.",
+  "topics": [
+    "Ax = V as a linear transformation",
+    "A as a linear transformation",
+    "X as the variable vector",
+    "V as the right-hand side vector",
+    "Geometric interpretation of solving Ax = V",
+    "Determinant and invertibility",
+    "Nonzero determinant implies a unique solution",
+    "Inverse matrix A^{-1}",
+    "A^{-1}A = I and the identity transformation",
+    "Solving Ax = V by applying A^{-1} to V",
+    "Two- and three-variable systems (2x2, 3x3)",
+    "Square matrices vs non-square matrices (scope clarification)",
+    "Column space and rank",
+    "Rank as the dimension of the column space",
+    "Full rank and nonzero determinant",
+    "Null space (kernel) and solutions to Ax = 0",
+    "Zero determinant and noninvertible cases",
+    "When solutions exist without an inverse",
+    "Applications: computer graphics and robotics",
+    "Reference to external computation tools (Gaussian elimination/row echelon form)",
+    "Future topics: non-square matrices and dot products under linear transformations"
+  ],
+  "sections": [
+    {
+      "start": "00:02:05",
+      "end": "00:04:20",
+      "title": "Linear systems as geometry: Ax = V",
+      "concepts": [
+        "Ax = V",
+        "A as a linear transformation",
+        "X as the variable vector",
+        "V as the constant vector",
+        "geometric interpretation of solving Ax = V"
+      ],
+      "description": "Introduces the matrix-vector form of a linear system and explains how solving Ax = V corresponds to finding the input vector X that lands on V after the associated linear transformation A acts on space."
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:06:58",
+      "title": "Inverse transforms and solving with inverses",
+      "concepts": [
+        "Inverse of A (A^{-1})",
+        "Undoing a transformation",
+        "Identity transformation and identity matrix",
+        "Solving Ax = V by applying A^{-1} to V"
+      ],
+      "description": "Describes the inverse transformation A^{-1} as the operation that undoes A, yields the identity I = A^{-1}A, and shows how, when det(A) ≠ 0, the solution to Ax = V is x = A^{-1}V."
+    },
+    {
+      "start": "00:08:03",
+      "end": "00:10:33",
+      "title": "Column space, rank, and the null space",
+      "concepts": [
+        "Column space",
+        "Rank as the dimension of the column space",
+        "Full rank",
+        "Null space (kernel)",
+        "Solutions to Ax = 0"
+      ],
+      "description": "Defines the column space as the span of A's columns and explains rank as its dimension. It then introduces the null space as the set of vectors that map to zero, tying these concepts to the existence and form of solutions."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Viewing Ax = V as a geometric linear transformation problem",
+      "timestamp": "00:02:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using the matrix inverse to solve linear systems (A^{-1}V)",
+      "timestamp": "00:04:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Identity transformation as the result of A^{-1}A",
+      "timestamp": "00:05:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Determinant non-zero implies unique solution",
+      "timestamp": "00:03:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Column space and rank intuition",
+      "timestamp": "00:08:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Null space (kernel) as vectors mapping to zero",
+      "timestamp": "00:10:32",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:28:56.684146+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "eu6i7WJeinw.youtube",
+  "title": "Cross products explained: 2D area intuition, 3D vector result, and a determinant-based construction",
+  "date": {
+    "display": "August 31, 2016",
+    "iso": "2016-08-31",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This two-part module opener surveys the standard 2D cross product intuition as the signed area of the parallelogram spanned by two vectors, emphasizing how orientation (order of V and W) determines the sign and how a determinant computes that area via the matrix with V and W as columns. The video then shifts to the true 3D cross product, describing it as a vector whose length equals the parallelogram area and whose direction is perpendicular to the plane, determined by the right-hand rule. A mnemonic determinant procedure in 3D is introduced: form a matrix with I, J, K in the first column and the coordinates of V and W in the other columns, then take its determinant to obtain the cross product vector. The host notes deeper geometric ideas (duality) in a follow-up video and clarifies the distinction between the 2D signed-area intuition and the full 3D cross product.",
+  "topics": [
+    "Cross product (2D) as signed area",
+    "Parallelogram spanned by two vectors",
+    "Orientation and sign of cross product",
+    "Order sensitivity: V × W vs W × V",
+    "Basis vectors I_hat and J_hat",
+    "2x2 determinant with V and W as columns",
+    "Linear transformation sending I_hat, J_hat to V, W",
+    "Determinant as area scaling under transformation",
+    "Unit square transforming to a parallelogram",
+    "Example: V = (-3, 1), W = (2, 1) with determinant -5",
+    "Right-hand rule for cross product direction",
+    "Cross product as a 3D vector with length equal to parallelogram area",
+    "Direction of cross product perpendicular to the plane",
+    "3D determinant trick using I_hat, J_hat, K_hat in the first column",
+    "Columns in the determinant reflect basis vectors",
+    "Connection to duality (brief mention for deeper study)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:09",
+      "end": "00:05:01",
+      "title": "2D cross product as area, orientation, and determinant",
+      "concepts": [
+        "Parallelogram spanned by V and W",
+        "2D cross product as signed area with sign depending on V relative to W",
+        "Basis vectors I_hat and J_hat and their role in orientation",
+        "Order sensitivity: V × W positive when V is to the right of W",
+        "2x2 determinant with V and W as columns computes that area"
+      ],
+      "description": "The video introduces the 2D cross product by visualizing the parallelogram spanned by V and W. The cross product in 2D is treated as the signed area of that parallelogram, with sign determined by orientation (positive when V is on the right of W). The basis vectors I_hat and J_hat anchor the orientation convention, and placing V and W as the columns of a matrix makes the determinant equal to this signed area (the area factor under the linear transformation sending I_hat, J_hat to V, W)."
+    },
+    {
+      "start": "00:05:04",
+      "end": "00:06:45",
+      "title": "Right-hand rule and 3D cross product intuition",
+      "concepts": [
+        "Cross product as a vector (not a scalar) in 3D",
+        "Magnitude equals parallelogram area",
+        "Right-hand rule to determine direction",
+        "Example with perpendicular vectors yielding a 4-unit cross product"
+      ],
+      "description": "The discussion transitions from the 2D scalar cross product to the true 3D cross product, describing it as a vector whose length equals the parallelogram area and whose direction is perpendicular to the plane, determined by the right-hand rule. An illustrative example uses perpendicular vectors to show the cross product magnitude and direction (e.g., a square parallelogram with area 4 pointing along the appropriate axis)."
+    },
+    {
+      "start": "00:06:55",
+      "end": "00:08:40",
+      "title": "3D determinant trick and the idea of duality",
+      "concepts": [
+        "3D determinant method for cross product",
+        "First column contains I_hat, J_hat, K_hat",
+        "Second and third columns contain V and W",
+        "Determinant yields the cross product vector",
+        "Interpretation of putting basis vectors into a determinant column"
+      ],
+      "description": "A mnemonic, determinant-based procedure is presented for computing the 3D cross product by forming a matrix with I_hat, J_hat, and K_hat in the first column and the coordinates of V and W in the other two columns. The determinant produces the cross product vector. The instructor notes that this is a notational device with a meaningful geometric interpretation and hints at deeper duality ideas that will be covered in a follow-up video."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "2D cross product treated as signed area of a parallelogram",
+      "timestamp": "00:01:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Determinant with V and W as columns to compute 2D cross product",
+      "timestamp": "00:02:40",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Determinant as area scaling via transformation of the unit square",
+      "timestamp": "00:03:12",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Right-hand rule for cross product direction",
+      "timestamp": "00:05:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Cross product magnitude equals parallelogram area in 3D",
+      "timestamp": "00:05:27",
+      "confidence": 0.8
+    },
+    {
+      "technique": "3D determinant trick using I_hat, J_hat, K_hat as the first column",
+      "timestamp": "00:06:55",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Concept of duality underlying cross product (brief mention for future study)",
+      "timestamp": "00:08:07",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:17:46.904523+00:00"
+}

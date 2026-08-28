@@ -1,0 +1,210 @@
+{
+  "schema_version": 2,
+  "video": "k7RM-ot2NWY.youtube",
+  "title": "Linear combinations, span, and basis vectors: core ideas in Chapter 2 (Essence of Linear Algebra, 3Blue1Brown)",
+  "date": {
+    "display": "August 6, 2016",
+    "iso": "2016-08-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video establishes how coordinates in a vector space can be understood as scalars multiplying basis vectors, introduces the notions of span, linear combinations, and linear (in)dependence, and explains how the choice of basis alters the coordinate description. Using the familiar i-hat and j-hat for 2D, it shows when a set of vectors spans the entire space, reduces to a line, or collapses to a single point. The discussion then extends to three dimensions, illustrating how adding a non-coplanar vector expands the span from a plane to all of space, and it defines what a basis is (a linearly independent spanning set). The video concludes by foreshadowing matrices in transforming space.",
+  "topics": [
+    "i-hat (unit x-basis vector)",
+    "j-hat (unit y-basis vector)",
+    "basis of a coordinate system",
+    "scalars as coordinates",
+    "linear combination",
+    "span",
+    "plane vs line vs origin",
+    "two vectors in 2D",
+    "non-colinear vectors in 3D",
+    "span in 3D",
+    "three-vector span",
+    "linear dependence",
+    "linear independence",
+    "redundant vectors",
+    "basis definition",
+    "coordinates depend on basis",
+    "visual interpretation: vectors as arrows vs points",
+    "matrices in transforming space (preview)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:12",
+      "end": "00:01:21",
+      "title": "Basis vectors as coordinates: i-hat and j-hat",
+      "concepts": [
+        "basis vectors",
+        "i-hat (unit x direction)",
+        "j-hat (unit y direction)",
+        "scaling of basis vectors",
+        "vector coordinates as scalars"
+      ],
+      "description": "Introduces viewing coordinates as scalars that scale basis vectors. Defines i-hat and j-hat as the unit basis in the x and y directions and shows how a vector like (3, -2) can be seen as 3·i-hat + (-2)·j-hat."
+    },
+    {
+      "start": "00:01:27",
+      "end": "00:02:01",
+      "title": "Two-basis representation and alternative bases",
+      "concepts": [
+        "changing basis",
+        "alternative coordinate representations",
+        "back-and-forth between numbers and vectors"
+      ],
+      "description": "Demonstrates that the same vector coordinates depend on a chosen basis and that different pairs of basis vectors yield different but valid coordinate descriptions of the same vector."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:02:56",
+      "title": "Different coordinate systems yield valid mappings",
+      "concepts": [
+        "coordinate systems",
+        "basis vectors for a new system",
+        "mapping between coordinates and vectors"
+      ],
+      "description": "Explains that a new pair of basis vectors still allows a bijection between pairs of numbers and the corresponding 2D vectors, though the association differs from the standard i-hat, j-hat basis."
+    },
+    {
+      "start": "00:02:56",
+      "end": "00:03:11",
+      "title": "Definition teaser: linear combination",
+      "concepts": [
+        "linear combination",
+        "scalars and basis vectors"
+      ],
+      "description": "Introduces the term linear combination as the process of scaling basis vectors and adding the results."
+    },
+    {
+      "start": "00:03:11",
+      "end": "00:04:02",
+      "title": "Linearity intuition: span in 2D",
+      "concepts": [
+        "span",
+        "one-parameter line",
+        "varying scalars"
+      ],
+      "description": "If one scalar is fixed and the other varied, the resulting tip traces a straight line, illustrating how spans relate to lines in the plane."
+    },
+    {
+      "start": "00:04:02",
+      "end": "00:04:55",
+      "title": "Plane vs line vs origin (2D span outcomes)",
+      "concepts": [
+        "plane",
+        "line",
+        "origin",
+        "span outcomes"
+      ],
+      "description": "Describes how most pairs of 2D vectors span the entire plane, but if the vectors are colinear, the span collapses to a line, and if both are zero, only the origin is reachable."
+    },
+    {
+      "start": "00:04:57",
+      "end": "00:05:52",
+      "title": "Visualizing spans as points and sheets",
+      "concepts": [
+        "points vs arrows",
+        "geometric intuition of span",
+        "sheet of 2D space"
+      ],
+      "description": "Suggests representing vectors as points when considering a collection and using the 2D plane itself as the visualization of all possible vectors (the span)."
+    },
+    {
+      "start": "00:06:04",
+      "end": "00:06:56",
+      "title": "Two vectors in 3D: a spanning sheet",
+      "concepts": [
+        "3D span",
+        "non-colinear 3D vectors",
+        "flat sheet in space"
+      ],
+      "description": "Extends the span concept to three dimensions: two non-parallel vectors span a flat sheet through the origin in 3D space."
+    },
+    {
+      "start": "00:06:56",
+      "end": "00:08:00",
+      "title": "Three vectors: when you gain full 3D access",
+      "concepts": [
+        "three-vector span",
+        "non-coplanar vectors",
+        "full space access"
+      ],
+      "description": "If a third vector points in a direction not on the first two's span, the span expands to cover all of 3D space because all three scalars can vary freely."
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:09:06",
+      "title": "Linear dependence and independence",
+      "concepts": [
+        "linear dependence",
+        "redundant vectors",
+        "expressibility as a linear combination"
+      ],
+      "description": "Characterizes when a vector does not add anything to the span because it lies in the span of the others, and contrasts this with independent vectors that each contribute a new dimension."
+    },
+    {
+      "start": "00:09:06",
+      "end": "00:09:33",
+      "title": "Definition of a basis",
+      "concepts": [
+        "basis",
+        "span",
+        "linear independence"
+      ],
+      "description": "Defines a basis as a set of linearly independent vectors that span the space, tying together the earlier concepts of span and dependence."
+    },
+    {
+      "start": "00:09:33",
+      "end": "00:09:40",
+      "title": "Next topic teaser: matrices in transforming space",
+      "concepts": [
+        "matrices",
+        "transformation of space",
+        "preview of next lesson"
+      ],
+      "description": "Foreshadows the next video's focus on matrices and how they transform space, connecting the geometric view of spans and bases to linear algebra tools."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Expressing a vector as a linear combination of basis vectors (i-hat, j-hat)",
+      "timestamp": "00:00:32",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Visualizing span via one-parameter variation producing a line",
+      "timestamp": "00:03:18",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Conceptualizing span as the set of all linear combinations",
+      "timestamp": "00:04:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Differentiating between plane-span, line-span, and origin when dealing with 2D vectors",
+      "timestamp": "00:04:29",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Extending span intuition from 2D to 3D via a spanning sheet",
+      "timestamp": "00:06:04",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Determining linear dependence vs independence as a criterion for a basis",
+      "timestamp": "00:08:16",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Basis as a linearly independent spanning set",
+      "timestamp": "00:09:06",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:20:48.425319+00:00"
+}

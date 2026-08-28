@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "video": "fNk_zzaMoSs.youtube",
+  "title": "Vectors: representations, coordinates, and the basics of addition and scaling",
+  "date": {
+    "display": "August 5, 2016",
+    "iso": "2016-08-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video introduces the vector as a foundational concept in linear algebra, exploring three related perspectives (physics, computer science, and mathematics) and emphasizing the origin-centered geometric view. It explains how vectors can be seen as arrows in space or as ordered lists of numbers, and it shows how a vector in 2D is represented by coordinates (x, y) anchored at the origin, with a brief extension to 3D. The core operations—vector addition (via the tip-to-tail method) and scalar multiplication (scaling)—are defined and illustrated, including how coordinates transform under these operations. The video also discusses the intuition behind these operations, why they are defined the way they are, and how the two representations (space-and-geometry versus numerical lists) interrelate. It ends by foreshadowing more advanced topics like spans, bases, and linear dependence in subsequent videos.",
+  "topics": [
+    "vector",
+    "physics perspective",
+    "computer science perspective",
+    "mathematician perspective",
+    "arrows in space",
+    "origin/root of vectors",
+    "x-axis",
+    "y-axis",
+    "z-axis",
+    "coordinate system",
+    "coordinates",
+    "ordered lists",
+    "vector as [x, y]",
+    "grid lines",
+    "2D space",
+    "3D space",
+    "origin anchoring",
+    "tail-to-tip vector addition",
+    "geometric interpretation of addition",
+    "component-wise addition",
+    "vectors as lists of numbers",
+    "scaling / scalar multiplication",
+    "stretching / shrinking",
+    "negative scaling",
+    "scalar vs number",
+    "interchange between representations",
+    "data visualization",
+    "graphics and physics applications",
+    "upcoming topics: span, bases, linear dependence"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:04",
+      "title": "What is a vector? Perspectives and the origin",
+      "concepts": [
+        "vector",
+        "physics perspective: arrows with length and direction",
+        "computer science perspective: ordered lists of numbers",
+        "mathematician perspective: abstract vector spaces",
+        "origin-centered vectors in linear algebra"
+      ],
+      "description": "Sets up three viewpoints on vectors (physics, CS, math) and emphasizes that in linear algebra vectors are typically rooted at the origin, with a geometric intuition tied to arrows in space and a numerical representation as coordinate lists."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:04:04",
+      "title": "Coordinate systems and the origin",
+      "concepts": [
+        "x-axis",
+        "y-axis",
+        "origin",
+        "3D extension (z-axis)",
+        "coordinate pairs and triplets",
+        "order of coordinates"
+      ],
+      "description": "Explicitly walks through the 2D coordinate system, defines the origin as the center, and explains how coordinates tell you how far to move along axes to reach a vector's tip, with a note on extending to three dimensions."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:06:06",
+      "title": "Vector representation and placement",
+      "concepts": [
+        "arrows in space",
+        "origin-to-tip interpretation",
+        "coordinates as instructions",
+        "square-bracket notation for vectors",
+        "2D and 3D representations"
+      ],
+      "description": "Links the geometric arrow view to the numerical coordinate view, clarifying that a vector is determined by the coordinates of its tip from the origin and how those coordinates encode the vector."
+    },
+    {
+      "start": "00:06:06",
+      "end": "00:06:54",
+      "title": "Numerical example of vector addition (tip-to-tail)",
+      "concepts": [
+        "tip-to-tail addition",
+        "composing movements",
+        "sum as a vector from the original tail to the final tip"
+      ],
+      "description": "Demonstrates how to add two vectors by placing the tail of the second at the tip of the first and drawing the resultant from the first tail to the second tip."
+    },
+    {
+      "start": "00:06:54",
+      "end": "00:08:10",
+      "title": "Scaling vectors: scalar multiplication",
+      "concepts": [
+        "scaling a vector",
+        "stretching / shrinking",
+        "negative scaling flips direction",
+        "definition of a scalar",
+        "componentwise multiplication by a scalar"
+      ],
+      "description": "Explains that multiplying a vector by a scalar scales its length and can flip direction when the scalar is negative, emphasizing that scalars multiply each component of the vector."
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:09:38",
+      "title": "Why these two operations matter and representations",
+      "concepts": [
+        "vector addition and scalar multiplication as the two fundamental operations",
+        "translation between arrow-space view and list-of-numbers view",
+        "usefulness for data visualization, physics, and computer graphics",
+        "preparation for advanced topics in later videos"
+      ],
+      "description": "Justifies why these two operations are central to linear algebra and discusses the practical benefits of switching between geometric and numerical representations."
+    },
+    {
+      "start": "00:09:38",
+      "end": "00:09:49",
+      "title": "What comes next",
+      "concepts": [
+        "span",
+        "bases",
+        "linear dependence"
+      ],
+      "description": "Foreshadows upcoming topics that build on the vector foundations covered in this video."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Tip-to-tail vector addition (geometric construction)",
+      "timestamp": "00:04:56",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Componentwise vector addition from coordinates",
+      "timestamp": "00:06:40",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Scalar multiplication: scaling and its effects on length and direction",
+      "timestamp": "00:07:01",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Interpreting scalar multiplication as stretching/shrinking",
+      "timestamp": "00:07:13",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Connecting vector representations: arrows vs lists",
+      "timestamp": "00:08:20",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:18:31.909003+00:00"
+}

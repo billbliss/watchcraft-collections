@@ -1,0 +1,3771 @@
+{
+  "assignments": {
+    "(a − λi)v = 0": {
+      "alias_source_keys": [],
+      "canonical_key": "(a − λi)v = 0",
+      "canonical_label": "(A − λI)v = 0",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "This is the standard eigenvector equation defining eigenvalues and eigenvectors.",
+      "source_key": "(a − λi)v = 0",
+      "source_label": "(A − λI)v = 0"
+    },
+    "1x2 matrix representation": {
+      "alias_source_keys": [
+        "matrix representation",
+        "matrix representation of a linear operator"
+      ],
+      "canonical_key": "1x2 matrix representation",
+      "canonical_label": "1x2 matrix representation",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "A 1x2 matrix used for mapping to the number line is a matrix representation of a linear functional related to dot products.",
+      "source_key": "1x2 matrix representation",
+      "source_label": "1x2 matrix representation"
+    },
+    "1x3 matrix representation of a linear map to the real line": {
+      "alias_source_keys": [
+        "matrix representation of a linear operator"
+      ],
+      "canonical_key": "1x3 matrix representation of a linear map to the real line",
+      "canonical_label": "1x3 matrix representation of a linear map to the real line",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-non-square-matrices-64ba8128"
+      ],
+      "rationale": "A 1x3 matrix encoding a map to the real line is a matrix representation of a dimension-changing linear map.",
+      "source_key": "1x3 matrix representation of a linear map to the real line",
+      "source_label": "1x3 matrix representation of a linear map to the real line"
+    },
+    "2d example matrix [[3,1],[0,2]]": {
+      "alias_source_keys": [],
+      "canonical_key": "2d example matrix [[3,1],[0,2]]",
+      "canonical_label": "2D example matrix [[3,1],[0,2]]",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "This specific 2x2 matrix is used as a worked example for eigenanalysis and matrix action.",
+      "source_key": "2d example matrix [[3,1],[0,2]]",
+      "source_label": "2D example matrix [[3,1],[0,2]]"
+    },
+    "2d space": {
+      "alias_source_keys": [],
+      "canonical_key": "2d space",
+      "canonical_label": "2D space",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "The topic refers to the ambient 2D space and its coordinate framing.",
+      "source_key": "2d space",
+      "source_label": "2D space"
+    },
+    "2x2 determinant formula ad − bc": {
+      "alias_source_keys": [
+        "2x2 determinant with v and w as columns"
+      ],
+      "canonical_key": "2x2 determinant formula ad − bc",
+      "canonical_label": "2x2 determinant formula ad − bc",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The ad−bc formula is the standard 2x2 determinant computation.",
+      "source_key": "2x2 determinant formula ad − bc",
+      "source_label": "2x2 determinant formula ad − bc"
+    },
+    "2x2 determinant with v and w as columns": {
+      "alias_source_keys": [
+        "2x2 determinant formula ad − bc"
+      ],
+      "canonical_key": "2x2 determinant with v and w as columns",
+      "canonical_label": "2x2 determinant with V and W as columns",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "This is the 2x2 determinant view used to express signed area and the 2D cross-product idea.",
+      "source_key": "2x2 determinant with v and w as columns",
+      "source_label": "2x2 determinant with V and W as columns"
+    },
+    "2x2 matrices": {
+      "alias_source_keys": [],
+      "canonical_key": "2x2 matrices",
+      "canonical_label": "2x2 matrices",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "These are square matrices used both for transformation encoding and eigenvalue examples.",
+      "source_key": "2x2 matrices",
+      "source_label": "2x2 matrices"
+    },
+    "2×3 matrix (3d → 2d mapping)": {
+      "alias_source_keys": [
+        "3×2 matrix (2d → 3d mapping)"
+      ],
+      "canonical_key": "2×3 matrix (3d → 2d mapping)",
+      "canonical_label": "2×3 matrix (3D → 2D mapping)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128"
+      ],
+      "rationale": "A 2x3 matrix here is explicitly a map from 3D input space to 2D output space.",
+      "source_key": "2×3 matrix (3d → 2d mapping)",
+      "source_label": "2×3 matrix (3D → 2D mapping)"
+    },
+    "3d cross product": {
+      "alias_source_keys": [],
+      "canonical_key": "3d cross product",
+      "canonical_label": "3D cross product",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The topic is the 3D cross product itself, not the dot product.",
+      "source_key": "3d cross product",
+      "source_label": "3D cross product"
+    },
+    "3d determinant trick using i_hat, j_hat, k_hat in the first column": {
+      "alias_source_keys": [
+        "i-hat, j-hat, k-hat in determinant first column"
+      ],
+      "canonical_key": "3d determinant trick using i_hat, j_hat, k_hat in the first column",
+      "canonical_label": "3D determinant trick using I_hat, J_hat, K_hat in the first column",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The determinant-first-column trick is a standard way to construct the 3D cross product and its orientation.",
+      "source_key": "3d determinant trick using i_hat, j_hat, k_hat in the first column",
+      "source_label": "3D determinant trick using I_hat, J_hat, K_hat in the first column"
+    },
+    "3d linear transformations": {
+      "alias_source_keys": [
+        "linear transformation",
+        "linear transformations",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "3d linear transformations",
+      "canonical_label": "3D linear transformations",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "This is about 3D linear maps and their geometric effect on space.",
+      "source_key": "3d linear transformations",
+      "source_label": "3D linear transformations"
+    },
+    "3d space": {
+      "alias_source_keys": [],
+      "canonical_key": "3d space",
+      "canonical_label": "3D space",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "The topic is the ambient 3D space used for vector coordinates and geometry.",
+      "source_key": "3d space",
+      "source_label": "3D space"
+    },
+    "3x3 determinant as volume scaling (unit cube to parallelepiped)": {
+      "alias_source_keys": [],
+      "canonical_key": "3x3 determinant as volume scaling (unit cube to parallelepiped)",
+      "canonical_label": "3x3 determinant as volume scaling (unit cube to parallelepiped)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "A 3x3 determinant measures signed volume scaling of a transformed cube.",
+      "source_key": "3x3 determinant as volume scaling (unit cube to parallelepiped)",
+      "source_label": "3x3 determinant as volume scaling (unit cube to parallelepiped)"
+    },
+    "3x3 transformation matrices": {
+      "alias_source_keys": [
+        "3d linear transformations",
+        "linear transformation",
+        "linear transformations"
+      ],
+      "canonical_key": "3x3 transformation matrices",
+      "canonical_label": "3x3 transformation matrices",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "A 3x3 transformation matrix encodes a linear transformation in 3D.",
+      "source_key": "3x3 transformation matrices",
+      "source_label": "3x3 transformation matrices"
+    },
+    "3×2 matrix (2d → 3d mapping)": {
+      "alias_source_keys": [
+        "2×3 matrix (3d → 2d mapping)"
+      ],
+      "canonical_key": "2×3 matrix (3d → 2d mapping)",
+      "canonical_label": "2×3 matrix (3D → 2D mapping)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128"
+      ],
+      "rationale": "A 3x2 matrix is a dimension-changing map from 2D to 3D.",
+      "source_key": "3×2 matrix (2d → 3d mapping)",
+      "source_label": "3×2 matrix (2D → 3D mapping)"
+    },
+    "a as a linear transformation": {
+      "alias_source_keys": [
+        "ax = v as a linear transformation",
+        "linear transformation",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "a as a linear transformation",
+      "canonical_label": "A as a linear transformation",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The notation focuses on viewing a matrix as a linear map in the context of solving systems and inverses.",
+      "source_key": "a as a linear transformation",
+      "source_label": "A as a linear transformation"
+    },
+    "a capella science mnemonic": {
+      "alias_source_keys": [],
+      "canonical_key": "a capella science mnemonic",
+      "canonical_label": "A Capella Science mnemonic",
+      "confidence": 0.35,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "This appears to be a mnemonic tied to the eigenvalue trick, but it is not a mathematical topic alias.",
+      "source_key": "a capella science mnemonic",
+      "source_label": "A Capella Science mnemonic"
+    },
+    "a^{-1} m a triple matrix form": {
+      "alias_source_keys": [],
+      "canonical_key": "a^{-1} m a triple matrix form",
+      "canonical_label": "A^{-1} M A triple matrix form",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "The triple product A^{-1}MA is the standard change-of-basis form for matrices.",
+      "source_key": "a^{-1} m a triple matrix form",
+      "source_label": "A^{-1} M A triple matrix form"
+    },
+    "a^{-1}a = i and the identity transformation": {
+      "alias_source_keys": [],
+      "canonical_key": "a^{-1}a = i and the identity transformation",
+      "canonical_label": "A^{-1}A = I and the identity transformation",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This connects matrix inverses with the identity transformation and solvability.",
+      "source_key": "a^{-1}a = i and the identity transformation",
+      "source_label": "A^{-1}A = I and the identity transformation"
+    },
+    "abstraction in linear algebra": {
+      "alias_source_keys": [],
+      "canonical_key": "abstraction in linear algebra",
+      "canonical_label": "abstraction in linear algebra",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "The topic is the abstraction of linear algebra, especially with polynomials as vectors and operators.",
+      "source_key": "abstraction in linear algebra",
+      "source_label": "abstraction in linear algebra"
+    },
+    "additivity": {
+      "alias_source_keys": [],
+      "canonical_key": "additivity",
+      "canonical_label": "additivity",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Additivity is one of the defining properties of linear transformations.",
+      "source_key": "additivity",
+      "source_label": "additivity"
+    },
+    "applications in computer graphics": {
+      "alias_source_keys": [
+        "applications: computer graphics and robotics"
+      ],
+      "canonical_key": "applications in computer graphics",
+      "canonical_label": "applications in computer graphics",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "Computer graphics is a common application area for 3D transformations.",
+      "source_key": "applications in computer graphics",
+      "source_label": "applications in computer graphics"
+    },
+    "applications in robotics": {
+      "alias_source_keys": [
+        "applications: computer graphics and robotics"
+      ],
+      "canonical_key": "applications in robotics",
+      "canonical_label": "applications in robotics",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "Robotics is a common application area for 3D transformations.",
+      "source_key": "applications in robotics",
+      "source_label": "applications in robotics"
+    },
+    "applications: computer graphics and robotics": {
+      "alias_source_keys": [
+        "applications in computer graphics"
+      ],
+      "canonical_key": "applications: computer graphics and robotics",
+      "canonical_label": "Applications: computer graphics and robotics",
+      "confidence": 0.62,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The listed alias is broader than the source, but the chapter context suggests the same applications theme.",
+      "source_key": "applications: computer graphics and robotics",
+      "source_label": "Applications: computer graphics and robotics"
+    },
+    "applying a 3x3 matrix to a 3d vector": {
+      "alias_source_keys": [],
+      "canonical_key": "applying a 3x3 matrix to a 3d vector",
+      "canonical_label": "applying a 3x3 matrix to a 3D vector",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This is the direct act of applying a 3x3 matrix to a 3D vector.",
+      "source_key": "applying a 3x3 matrix to a 3d vector",
+      "source_label": "applying a 3x3 matrix to a 3D vector"
+    },
+    "area scaling under linear transformations": {
+      "alias_source_keys": [
+        "determinant as area scaling under transformation",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "area scaling under linear transformations",
+      "canonical_label": "Area scaling under linear transformations",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Area scaling under transformations is a determinant interpretation tied to linear maps.",
+      "source_key": "area scaling under linear transformations",
+      "source_label": "Area scaling under linear transformations"
+    },
+    "arrows in space": {
+      "alias_source_keys": [],
+      "canonical_key": "arrows in space",
+      "canonical_label": "arrows in space",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-vectors-29a6a5e3",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "Arrows in space is a basic geometric description of vectors.",
+      "source_key": "arrows in space",
+      "source_label": "arrows in space"
+    },
+    "associativity of matrix multiplication": {
+      "alias_source_keys": [],
+      "canonical_key": "associativity of matrix multiplication",
+      "canonical_label": "associativity of matrix multiplication",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-matrix-multiplication-47018079",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Associativity is a key property of matrix multiplication viewed as composition.",
+      "source_key": "associativity of matrix multiplication",
+      "source_label": "associativity of matrix multiplication"
+    },
+    "av = λv": {
+      "alias_source_keys": [],
+      "canonical_key": "av = λv",
+      "canonical_label": "Av = λv",
+      "confidence": 1.0,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "This is the canonical eigenvector equation.",
+      "source_key": "av = λv",
+      "source_label": "Av = λv"
+    },
+    "ax = v as a linear transformation": {
+      "alias_source_keys": [
+        "a as a linear transformation",
+        "linear transformation",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "ax = v as a linear transformation",
+      "canonical_label": "Ax = V as a linear transformation",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "This phrase frames Ax=V in terms of a linear map and solving linear systems.",
+      "source_key": "ax = v as a linear transformation",
+      "source_label": "Ax = V as a linear transformation"
+    },
+    "axioms of vector spaces": {
+      "alias_source_keys": [
+        "vector spaces"
+      ],
+      "canonical_key": "axioms of vector spaces",
+      "canonical_label": "axioms of vector spaces",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "The axioms define the structure of a vector space.",
+      "source_key": "axioms of vector spaces",
+      "source_label": "axioms of vector spaces"
+    },
+    "axis of rotation": {
+      "alias_source_keys": [],
+      "canonical_key": "axis of rotation",
+      "canonical_label": "axis of rotation",
+      "confidence": 0.41,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Axis of rotation is related to invariant directions, but it is not a clear alias for the given eigen topic.",
+      "source_key": "axis of rotation",
+      "source_label": "axis of rotation"
+    },
+    "basis": {
+      "alias_source_keys": [],
+      "canonical_key": "basis",
+      "canonical_label": "basis",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Basis is a core concept in spanning and coordinate description of vector spaces.",
+      "source_key": "basis",
+      "source_label": "basis"
+    },
+    "basis definition": {
+      "alias_source_keys": [
+        "basis vectors"
+      ],
+      "canonical_key": "basis definition",
+      "canonical_label": "basis definition",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "This is a direct synonym for basis vectors as part of the basis definition.",
+      "source_key": "basis definition",
+      "source_label": "basis definition"
+    },
+    "basis of a coordinate system": {
+      "alias_source_keys": [
+        "coordinate system",
+        "coordinate systems"
+      ],
+      "canonical_key": "basis of a coordinate system",
+      "canonical_label": "basis of a coordinate system",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "A basis of a coordinate system is a basis used to define coordinates.",
+      "source_key": "basis of a coordinate system",
+      "source_label": "basis of a coordinate system"
+    },
+    "basis vectors": {
+      "alias_source_keys": [
+        "basis definition",
+        "images of basis vectors"
+      ],
+      "canonical_key": "basis vectors",
+      "canonical_label": "basis vectors",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "Basis vectors are the vectors that define the coordinate system and span the space.",
+      "source_key": "basis vectors",
+      "source_label": "basis vectors"
+    },
+    "basis vectors i-hat and j-hat": {
+      "alias_source_keys": [
+        "basis vectors i_hat and j_hat",
+        "i-hat and j-hat",
+        "i_hat and j_hat basis vectors"
+      ],
+      "canonical_key": "basis vectors i-hat and j-hat",
+      "canonical_label": "basis vectors i-hat and j-hat",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "i-hat and j-hat are the standard 2D basis vectors.",
+      "source_key": "basis vectors i-hat and j-hat",
+      "source_label": "basis vectors i-hat and j-hat"
+    },
+    "basis vectors i_hat and j_hat": {
+      "alias_source_keys": [
+        "basis vectors i-hat and j-hat",
+        "i_hat and j_hat basis vectors"
+      ],
+      "canonical_key": "basis vectors i-hat and j-hat",
+      "canonical_label": "basis vectors i-hat and j-hat",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "These are just the standard 2D basis vectors with different capitalization.",
+      "source_key": "basis vectors i_hat and j_hat",
+      "source_label": "Basis vectors I_hat and J_hat"
+    },
+    "basis vectors: i-hat, j-hat, k-hat": {
+      "alias_source_keys": [
+        "basis vectors i-hat and j-hat",
+        "basis vectors i_hat and j_hat",
+        "i_hat and j_hat basis vectors"
+      ],
+      "canonical_key": "basis vectors: i-hat, j-hat, k-hat",
+      "canonical_label": "basis vectors: i-hat, j-hat, k-hat",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "i-hat, j-hat, and k-hat are the standard basis vectors for 3D coordinates.",
+      "source_key": "basis vectors: i-hat, j-hat, k-hat",
+      "source_label": "basis vectors: i-hat, j-hat, k-hat"
+    },
+    "basis {1, x, x^2, ...}": {
+      "alias_source_keys": [],
+      "canonical_key": "basis {1, x, x^2, ...}",
+      "canonical_label": "basis {1, x, x^2, ...}",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "The polynomial basis {1, x, x^2, ...} describes an infinite-dimensional vector space.",
+      "source_key": "basis {1, x, x^2, ...}",
+      "source_label": "basis {1, x, x^2, ...}"
+    },
+    "basis-dependent matrices": {
+      "alias_source_keys": [],
+      "canonical_key": "basis-dependent matrices",
+      "canonical_label": "basis-dependent matrices",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Basis-dependent matrices here refer to linear operators represented in a chosen polynomial basis.",
+      "source_key": "basis-dependent matrices",
+      "source_label": "basis-dependent matrices"
+    },
+    "change of basis": {
+      "alias_source_keys": [],
+      "canonical_key": "change of basis",
+      "canonical_label": "change of basis",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Change of basis is directly named, and the context is eigenvector diagonalization.",
+      "source_key": "change of basis",
+      "source_label": "change of basis"
+    },
+    "change of basis groundwork (foreshadowed)": {
+      "alias_source_keys": [],
+      "canonical_key": "change of basis groundwork (foreshadowed)",
+      "canonical_label": "change of basis groundwork (foreshadowed)",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "This is a foreshadowing of changing bases rather than a different topic.",
+      "source_key": "change of basis groundwork (foreshadowed)",
+      "source_label": "change of basis groundwork (foreshadowed)"
+    },
+    "change-of-basis matrix (columns as basis vectors)": {
+      "alias_source_keys": [
+        "columns of a matrix as transformed basis vectors",
+        "images of basis vectors as matrix columns"
+      ],
+      "canonical_key": "change-of-basis matrix (columns as basis vectors)",
+      "canonical_label": "change-of-basis matrix (columns as basis vectors)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "The topic is the change-of-basis matrix built from basis vectors as columns.",
+      "source_key": "change-of-basis matrix (columns as basis vectors)",
+      "source_label": "change-of-basis matrix (columns as basis vectors)"
+    },
+    "characteristic equation": {
+      "alias_source_keys": [
+        "characteristic polynomial"
+      ],
+      "canonical_key": "characteristic equation",
+      "canonical_label": "characteristic equation",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The characteristic equation is the eigenvalue condition det(A−λI)=0.",
+      "source_key": "characteristic equation",
+      "source_label": "characteristic equation"
+    },
+    "characteristic polynomial": {
+      "alias_source_keys": [
+        "characteristic equation"
+      ],
+      "canonical_key": "characteristic polynomial",
+      "canonical_label": "Characteristic polynomial",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The characteristic polynomial and characteristic equation are the same eigenvalue relation.",
+      "source_key": "characteristic polynomial",
+      "source_label": "Characteristic polynomial"
+    },
+    "column space": {
+      "alias_source_keys": [
+        "column space and rank"
+      ],
+      "canonical_key": "column space",
+      "canonical_label": "column space",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Column space is paired with rank and solvability concepts for a non-square matrix map.",
+      "source_key": "column space",
+      "source_label": "column space"
+    },
+    "column space and rank": {
+      "alias_source_keys": [
+        "column space"
+      ],
+      "canonical_key": "column space and rank",
+      "canonical_label": "Column space and rank",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Column space and rank are core parts of solvability and invertibility discussions.",
+      "source_key": "column space and rank",
+      "source_label": "Column space and rank"
+    },
+    "column-by-column computation": {
+      "alias_source_keys": [],
+      "canonical_key": "column-by-column computation",
+      "canonical_label": "column-by-column computation",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-matrix-multiplication-47018079",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "Column-by-column computation is a standard way to form matrix products.",
+      "source_key": "column-by-column computation",
+      "source_label": "column-by-column computation"
+    },
+    "columns in the determinant reflect basis vectors": {
+      "alias_source_keys": [],
+      "canonical_key": "columns in the determinant reflect basis vectors",
+      "canonical_label": "Columns in the determinant reflect basis vectors",
+      "confidence": 0.74,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The determinant-based construction is used to connect columns with oriented area ideas.",
+      "source_key": "columns in the determinant reflect basis vectors",
+      "source_label": "Columns in the determinant reflect basis vectors"
+    },
+    "columns of a matrix": {
+      "alias_source_keys": [],
+      "canonical_key": "columns of a matrix",
+      "canonical_label": "columns of a matrix",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "The topic is about reading matrix columns in a dimension-changing linear map.",
+      "source_key": "columns of a matrix",
+      "source_label": "columns of a matrix"
+    },
+    "columns of a matrix as transformed basis vectors": {
+      "alias_source_keys": [
+        "change-of-basis matrix (columns as basis vectors)",
+        "construction of a 3x3 matrix from basis coordinates",
+        "images of basis vectors as matrix columns"
+      ],
+      "canonical_key": "columns of a matrix as transformed basis vectors",
+      "canonical_label": "columns of a matrix as transformed basis vectors",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "The phrase is a direct variant of matrix columns representing transformed basis vectors.",
+      "source_key": "columns of a matrix as transformed basis vectors",
+      "source_label": "columns of a matrix as transformed basis vectors"
+    },
+    "component-wise addition": {
+      "alias_source_keys": [],
+      "canonical_key": "component-wise addition",
+      "canonical_label": "component-wise addition",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Component-wise addition is one of the basic vector operations.",
+      "source_key": "component-wise addition",
+      "source_label": "component-wise addition"
+    },
+    "composition of linear transformations": {
+      "alias_source_keys": [
+        "linear transformation",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "composition of linear transformations",
+      "canonical_label": "composition of linear transformations",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-matrix-multiplication-47018079",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Matrix multiplication is being used to express composition of linear transformations.",
+      "source_key": "composition of linear transformations",
+      "source_label": "composition of linear transformations"
+    },
+    "computational steps for higher dimensions (inverse used)": {
+      "alias_source_keys": [],
+      "canonical_key": "computational steps for higher dimensions (inverse used)",
+      "canonical_label": "computational steps for higher dimensions (inverse used)",
+      "confidence": 0.81,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The wording points to multi-dimensional coordinate conversion using inverses.",
+      "source_key": "computational steps for higher dimensions (inverse used)",
+      "source_label": "computational steps for higher dimensions (inverse used)"
+    },
+    "computer science perspective": {
+      "alias_source_keys": [
+        "mathematician perspective"
+      ],
+      "canonical_key": "computer science perspective",
+      "canonical_label": "computer science perspective",
+      "confidence": 0.8,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "The computer science perspective is an alternate viewpoint on what vectors are.",
+      "source_key": "computer science perspective",
+      "source_label": "computer science perspective"
+    },
+    "computing composition matrices from m1 and m2": {
+      "alias_source_keys": [],
+      "canonical_key": "computing composition matrices from m1 and m2",
+      "canonical_label": "computing composition matrices from M1 and M2",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "This is specifically about computing the matrix of a composed transformation from two matrices.",
+      "source_key": "computing composition matrices from m1 and m2",
+      "source_label": "computing composition matrices from M1 and M2"
+    },
+    "connection to duality (brief mention for deeper study)": {
+      "alias_source_keys": [],
+      "canonical_key": "connection to duality (brief mention for deeper study)",
+      "canonical_label": "Connection to duality (brief mention for deeper study)",
+      "confidence": 0.58,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The note mentions duality as a deeper aside in a cross-product context.",
+      "source_key": "connection to duality (brief mention for deeper study)",
+      "source_label": "Connection to duality (brief mention for deeper study)"
+    },
+    "consolidation of linear algebra concepts (determinant, dot product, linear systems)": {
+      "alias_source_keys": [],
+      "canonical_key": "consolidation of linear algebra concepts (determinant, dot product, linear systems)",
+      "canonical_label": "Consolidation of linear algebra concepts (determinant, dot product, linear systems)",
+      "confidence": 0.67,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Cramer's rule ties determinants to solving linear systems.",
+      "source_key": "consolidation of linear algebra concepts (determinant, dot product, linear systems)",
+      "source_label": "Consolidation of linear algebra concepts (determinant, dot product, linear systems)"
+    },
+    "construction of a 3x3 matrix from basis coordinates": {
+      "alias_source_keys": [
+        "columns of a matrix as transformed basis vectors"
+      ],
+      "canonical_key": "construction of a 3x3 matrix from basis coordinates",
+      "canonical_label": "construction of a 3x3 matrix from basis coordinates",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "Constructing a 3x3 matrix from basis coordinates is a matrix-representation topic in 3D.",
+      "source_key": "construction of a 3x3 matrix from basis coordinates",
+      "source_label": "construction of a 3x3 matrix from basis coordinates"
+    },
+    "coordinate system": {
+      "alias_source_keys": [
+        "basis of a coordinate system",
+        "coordinate systems",
+        "coordinates"
+      ],
+      "canonical_key": "coordinate system",
+      "canonical_label": "coordinate system",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "A coordinate system is the framework used to describe vector coordinates.",
+      "source_key": "coordinate system",
+      "source_label": "coordinate system"
+    },
+    "coordinate systems": {
+      "alias_source_keys": [
+        "basis of a coordinate system",
+        "coordinate system",
+        "coordinates"
+      ],
+      "canonical_key": "coordinate system",
+      "canonical_label": "coordinate system",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "The topic is the plural form of coordinate system in a change-of-basis setting.",
+      "source_key": "coordinate systems",
+      "source_label": "coordinate systems"
+    },
+    "coordinate-wise product": {
+      "alias_source_keys": [],
+      "canonical_key": "coordinate-wise product",
+      "canonical_label": "coordinate-wise product",
+      "confidence": 0.76,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "Coordinate-wise multiplication is discussed in the dot-product and duality context.",
+      "source_key": "coordinate-wise product",
+      "source_label": "coordinate-wise product"
+    },
+    "coordinates": {
+      "alias_source_keys": [
+        "coordinate system",
+        "coordinate systems"
+      ],
+      "canonical_key": "coordinates",
+      "canonical_label": "coordinates",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Coordinates are being used both for ordinary vectors and for polynomial vector-space representations.",
+      "source_key": "coordinates",
+      "source_label": "coordinates"
+    },
+    "coordinates depend on basis": {
+      "alias_source_keys": [],
+      "canonical_key": "coordinates depend on basis",
+      "canonical_label": "coordinates depend on basis",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "The topic emphasizes that coordinates change when the basis changes.",
+      "source_key": "coordinates depend on basis",
+      "source_label": "coordinates depend on basis"
+    },
+    "cramer’s rule": {
+      "alias_source_keys": [],
+      "canonical_key": "cramer’s rule",
+      "canonical_label": "Cramer’s rule",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "Cramer's rule is a determinant-based method for solving linear systems.",
+      "source_key": "cramer’s rule",
+      "source_label": "Cramer’s rule"
+    },
+    "cross product (2d) as signed area": {
+      "alias_source_keys": [
+        "cross product direction and right-hand rule"
+      ],
+      "canonical_key": "cross product (2d) as signed area",
+      "canonical_label": "Cross product (2D) as signed area",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "This is the 2D signed-area interpretation of the cross product.",
+      "source_key": "cross product (2d) as signed area",
+      "source_label": "Cross product (2D) as signed area"
+    },
+    "cross product as a 3d vector with length equal to parallelogram area": {
+      "alias_source_keys": [
+        "cross product magnitude equals parallelogram area"
+      ],
+      "canonical_key": "cross product as a 3d vector with length equal to parallelogram area",
+      "canonical_label": "Cross product as a 3D vector with length equal to parallelogram area",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "The topic is the 3D cross product with magnitude equal to parallelogram area.",
+      "source_key": "cross product as a 3d vector with length equal to parallelogram area",
+      "source_label": "Cross product as a 3D vector with length equal to parallelogram area"
+    },
+    "cross product direction and right-hand rule": {
+      "alias_source_keys": [
+        "right-hand rule for cross product direction"
+      ],
+      "canonical_key": "cross product direction and right-hand rule",
+      "canonical_label": "cross product direction and right-hand rule",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The right-hand rule determines the direction of the cross product vector.",
+      "source_key": "cross product direction and right-hand rule",
+      "source_label": "cross product direction and right-hand rule"
+    },
+    "cross product magnitude equals parallelogram area": {
+      "alias_source_keys": [
+        "cross product as a 3d vector with length equal to parallelogram area"
+      ],
+      "canonical_key": "cross product magnitude equals parallelogram area",
+      "canonical_label": "cross product magnitude equals parallelogram area",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The alias states the same area-magnitude interpretation of the cross product.",
+      "source_key": "cross product magnitude equals parallelogram area",
+      "source_label": "cross product magnitude equals parallelogram area"
+    },
+    "data visualization": {
+      "alias_source_keys": [],
+      "canonical_key": "data visualization",
+      "canonical_label": "data visualization",
+      "confidence": 0.45,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Data visualization is only a broad presentation angle on vector representations.",
+      "source_key": "data visualization",
+      "source_label": "data visualization"
+    },
+    "derivative as a linear operator": {
+      "alias_source_keys": [
+        "matrix representation of a linear operator"
+      ],
+      "canonical_key": "derivative as a linear operator",
+      "canonical_label": "derivative as a linear operator",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "The derivative is being treated as a linear operator on a function space.",
+      "source_key": "derivative as a linear operator",
+      "source_label": "derivative as a linear operator"
+    },
+    "derivative matrix in polynomial basis": {
+      "alias_source_keys": [],
+      "canonical_key": "derivative matrix in polynomial basis",
+      "canonical_label": "derivative matrix in polynomial basis",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "This is the matrix form of differentiation in the polynomial basis.",
+      "source_key": "derivative matrix in polynomial basis",
+      "source_label": "derivative matrix in polynomial basis"
+    },
+    "det(a − λi) = 0": {
+      "alias_source_keys": [
+        "(a − λi)v = 0"
+      ],
+      "canonical_key": "det(a − λi) = 0",
+      "canonical_label": "det(A − λI) = 0",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "det(A−λI)=0 is the characteristic equation for eigenvalues.",
+      "source_key": "det(a − λi) = 0",
+      "source_label": "det(A − λI) = 0"
+    },
+    "determinant and invertibility": {
+      "alias_source_keys": [
+        "nonzero determinant implying invertibility",
+        "zero determinant and noninvertible cases"
+      ],
+      "canonical_key": "determinant and invertibility",
+      "canonical_label": "Determinant and invertibility",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The determinant is being used to characterize when a matrix is invertible.",
+      "source_key": "determinant and invertibility",
+      "source_label": "Determinant and invertibility"
+    },
+    "determinant as a future topic": {
+      "alias_source_keys": [
+        "determinant of a matrix"
+      ],
+      "canonical_key": "determinant as a future topic",
+      "canonical_label": "determinant as a future topic",
+      "confidence": 0.63,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "Determinants are introduced here as a future geometric scaling topic.",
+      "source_key": "determinant as a future topic",
+      "source_label": "determinant as a future topic"
+    },
+    "determinant as a linear function of (x, y, z)": {
+      "alias_source_keys": [],
+      "canonical_key": "determinant as a linear function of (x, y, z)",
+      "canonical_label": "determinant as a linear function of (x, y, z)",
+      "confidence": 0.71,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "The topic treats the determinant as a linear functional in three variables.",
+      "source_key": "determinant as a linear function of (x, y, z)",
+      "source_label": "determinant as a linear function of (x, y, z)"
+    },
+    "determinant as area scaling under transformation": {
+      "alias_source_keys": [
+        "a as a linear transformation",
+        "area scaling under linear transformations",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "determinant as area scaling under transformation",
+      "canonical_label": "Determinant as area scaling under transformation",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This states determinant as area scaling under a linear transformation.",
+      "source_key": "determinant as area scaling under transformation",
+      "source_label": "Determinant as area scaling under transformation"
+    },
+    "determinant as uniform area/volume scaling": {
+      "alias_source_keys": [
+        "determinant concept as area/volume scaling"
+      ],
+      "canonical_key": "determinant as uniform area/volume scaling",
+      "canonical_label": "Determinant as uniform area/volume scaling",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "Uniform area and volume scaling is the geometric meaning of determinant.",
+      "source_key": "determinant as uniform area/volume scaling",
+      "source_label": "Determinant as uniform area/volume scaling"
+    },
+    "determinant concept as area/volume scaling": {
+      "alias_source_keys": [
+        "determinant as uniform area/volume scaling"
+      ],
+      "canonical_key": "determinant concept as area/volume scaling",
+      "canonical_label": "Determinant concept as area/volume scaling",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "This is the standard area/volume-scaling interpretation of the determinant.",
+      "source_key": "determinant concept as area/volume scaling",
+      "source_label": "Determinant concept as area/volume scaling"
+    },
+    "determinant method for cross product": {
+      "alias_source_keys": [],
+      "canonical_key": "determinant method for cross product",
+      "canonical_label": "determinant method for cross product",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "This topic is about computing cross products via determinants.",
+      "source_key": "determinant method for cross product",
+      "source_label": "determinant method for cross product"
+    },
+    "determinant of a matrix": {
+      "alias_source_keys": [
+        "determinants"
+      ],
+      "canonical_key": "determinant of a matrix",
+      "canonical_label": "Determinant of a matrix",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The label is simply the determinant of a matrix.",
+      "source_key": "determinant of a matrix",
+      "source_label": "Determinant of a matrix"
+    },
+    "determinant of product property det(ab) = det(a)det(b)": {
+      "alias_source_keys": [],
+      "canonical_key": "determinant of product property det(ab) = det(a)det(b)",
+      "canonical_label": "Determinant of product property det(AB) = det(A)det(B)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "This is the multiplicative property of determinants.",
+      "source_key": "determinant of product property det(ab) = det(a)det(b)",
+      "source_label": "Determinant of product property det(AB) = det(A)det(B)"
+    },
+    "determinant zero and dimensional collapse": {
+      "alias_source_keys": [],
+      "canonical_key": "determinant zero and dimensional collapse",
+      "canonical_label": "Determinant zero and dimensional collapse",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "Zero determinant corresponds to collapse into a lower-dimensional image.",
+      "source_key": "determinant zero and dimensional collapse",
+      "source_label": "Determinant zero and dimensional collapse"
+    },
+    "determinants": {
+      "alias_source_keys": [
+        "determinant of a matrix"
+      ],
+      "canonical_key": "determinants",
+      "canonical_label": "Determinants",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "This is a general determinants topic, with Cramer's rule using them.",
+      "source_key": "determinants",
+      "source_label": "Determinants"
+    },
+    "determinants with replaced columns (a_x, a_y)": {
+      "alias_source_keys": [],
+      "canonical_key": "determinants with replaced columns (a_x, a_y)",
+      "canonical_label": "Determinants with replaced columns (A_x, A_y)",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "Replacing columns to form Ax and Ay is a Cramer's rule determinant setup.",
+      "source_key": "determinants with replaced columns (a_x, a_y)",
+      "source_label": "Determinants with replaced columns (A_x, A_y)"
+    },
+    "diagonal matrices": {
+      "alias_source_keys": [],
+      "canonical_key": "diagonal matrices",
+      "canonical_label": "Diagonal matrices",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Diagonal matrices are a matrix form closely tied to diagonalization and eigenstructure.",
+      "source_key": "diagonal matrices",
+      "source_label": "Diagonal matrices"
+    },
+    "diagonalization": {
+      "alias_source_keys": [],
+      "canonical_key": "diagonalization",
+      "canonical_label": "diagonalization",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Diagonalization is a core eigenvalue/eigenvector topic.",
+      "source_key": "diagonalization",
+      "source_label": "diagonalization"
+    },
+    "direction of cross product perpendicular to the plane": {
+      "alias_source_keys": [],
+      "canonical_key": "direction of cross product perpendicular to the plane",
+      "canonical_label": "Direction of cross product perpendicular to the plane",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "This describes the cross product's perpendicular direction in 3D.",
+      "source_key": "direction of cross product perpendicular to the plane",
+      "source_label": "Direction of cross product perpendicular to the plane"
+    },
+    "dot product": {
+      "alias_source_keys": [],
+      "canonical_key": "dot product",
+      "canonical_label": "dot product",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "The topic is the dot product itself.",
+      "source_key": "dot product",
+      "source_label": "dot product"
+    },
+    "dot product as a projection onto a unit vector": {
+      "alias_source_keys": [
+        "dot product relation (hinted for next video)"
+      ],
+      "canonical_key": "dot product as a projection onto a unit vector",
+      "canonical_label": "dot product as a projection onto a unit vector",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "This is the projection interpretation of the dot product.",
+      "source_key": "dot product as a projection onto a unit vector",
+      "source_label": "dot product as a projection onto a unit vector"
+    },
+    "dot product relation (hinted for next video)": {
+      "alias_source_keys": [],
+      "canonical_key": "dot product relation (hinted for next video)",
+      "canonical_label": "dot product relation (hinted for next video)",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "It refers back to the dot-product-as-projection idea from the related lesson.",
+      "source_key": "dot product relation (hinted for next video)",
+      "source_label": "dot product relation (hinted for next video)"
+    },
+    "dual of a vector vs dual of a transformation": {
+      "alias_source_keys": [],
+      "canonical_key": "dual of a vector vs dual of a transformation",
+      "canonical_label": "dual of a vector vs dual of a transformation",
+      "confidence": 0.74,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "This concerns duality and the distinction between vectors and transformations.",
+      "source_key": "dual of a vector vs dual of a transformation",
+      "source_label": "dual of a vector vs dual of a transformation"
+    },
+    "dual vector p for cross product": {
+      "alias_source_keys": [
+        "determinant method for cross product"
+      ],
+      "canonical_key": "dual vector p for cross product",
+      "canonical_label": "dual vector p for cross product",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The dual-vector construction is presented as a cross-product formulation.",
+      "source_key": "dual vector p for cross product",
+      "source_label": "dual vector p for cross product"
+    },
+    "duality in linear algebra": {
+      "alias_source_keys": [],
+      "canonical_key": "duality in linear algebra",
+      "canonical_label": "duality in linear algebra",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "This is a broad topic about duality as a linear-algebra concept.",
+      "source_key": "duality in linear algebra",
+      "source_label": "duality in linear algebra"
+    },
+    "duality in linear transformations": {
+      "alias_source_keys": [
+        "linear transformation"
+      ],
+      "canonical_key": "duality in linear transformations",
+      "canonical_label": "duality in linear transformations",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The topic links duality with linear transformations in the cross-product setting.",
+      "source_key": "duality in linear transformations",
+      "source_label": "duality in linear transformations"
+    },
+    "eigenbasis": {
+      "alias_source_keys": [],
+      "canonical_key": "eigenbasis",
+      "canonical_label": "eigenbasis",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "An eigenbasis is a basis made of eigenvectors.",
+      "source_key": "eigenbasis",
+      "source_label": "eigenbasis"
+    },
+    "eigenfunctions / eigenvectors": {
+      "alias_source_keys": [],
+      "canonical_key": "eigenfunctions / eigenvectors",
+      "canonical_label": "eigenfunctions / eigenvectors",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "The topic extends eigenvector ideas from vectors to functions/operators.",
+      "source_key": "eigenfunctions / eigenvectors",
+      "source_label": "eigenfunctions / eigenvectors"
+    },
+    "eigenvalues": {
+      "alias_source_keys": [],
+      "canonical_key": "eigenvalues",
+      "canonical_label": "Eigenvalues",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "This topic is explicitly about eigenvalues.",
+      "source_key": "eigenvalues",
+      "source_label": "Eigenvalues"
+    },
+    "eigenvectors": {
+      "alias_source_keys": [],
+      "canonical_key": "eigenvectors",
+      "canonical_label": "Eigenvectors",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "This topic is explicitly about eigenvectors.",
+      "source_key": "eigenvectors",
+      "source_label": "Eigenvectors"
+    },
+    "eigenvectors directions (1,0) and (−1,1)": {
+      "alias_source_keys": [],
+      "canonical_key": "eigenvectors directions (1,0) and (−1,1)",
+      "canonical_label": "eigenvectors directions (1,0) and (−1,1)",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "These are specific eigenvector directions in the example.",
+      "source_key": "eigenvectors directions (1,0) and (−1,1)",
+      "source_label": "eigenvectors directions (1,0) and (−1,1)"
+    },
+    "embedding the number line in 2d space": {
+      "alias_source_keys": [],
+      "canonical_key": "embedding the number line in 2d space",
+      "canonical_label": "embedding the number line in 2D space",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "Embedding the number line in 2D describes a coordinate-space setup for a dimension-changing map.",
+      "source_key": "embedding the number line in 2d space",
+      "source_label": "embedding the number line in 2D space"
+    },
+    "empathy view of coordinate transformations": {
+      "alias_source_keys": [],
+      "canonical_key": "empathy view of coordinate transformations",
+      "canonical_label": "empathy view of coordinate transformations",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "This is about translating descriptions between coordinate systems.",
+      "source_key": "empathy view of coordinate transformations",
+      "source_label": "empathy view of coordinate transformations"
+    },
+    "equivalence of computational and geometric viewpoints": {
+      "alias_source_keys": [],
+      "canonical_key": "equivalence of computational and geometric viewpoints",
+      "canonical_label": "equivalence of computational and geometric viewpoints",
+      "confidence": 0.66,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The chapter context is the cross product, contrasting geometric and computational views.",
+      "source_key": "equivalence of computational and geometric viewpoints",
+      "source_label": "equivalence of computational and geometric viewpoints"
+    },
+    "example: v = (-3, 1), w = (2, 1) with determinant -5": {
+      "alias_source_keys": [],
+      "canonical_key": "example: v = (-3, 1), w = (2, 1) with determinant -5",
+      "canonical_label": "Example: V = (-3, 1), W = (2, 1) with determinant -5",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "This is a concrete 2D determinant/cross-product example.",
+      "source_key": "example: v = (-3, 1), w = (2, 1) with determinant -5",
+      "source_label": "Example: V = (-3, 1), W = (2, 1) with determinant -5"
+    },
+    "extending to higher dimensions": {
+      "alias_source_keys": [],
+      "canonical_key": "extending to higher dimensions",
+      "canonical_label": "extending to higher dimensions",
+      "confidence": 0.77,
+      "family_ids": [
+        "family-higher-dimensional-geometry-69066f61",
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "The topic is about extending the matrix-composition viewpoint to higher dimensions.",
+      "source_key": "extending to higher dimensions",
+      "source_label": "extending to higher dimensions"
+    },
+    "full rank and nonzero determinant": {
+      "alias_source_keys": [],
+      "canonical_key": "full rank and nonzero determinant",
+      "canonical_label": "Full rank and nonzero determinant",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Full rank and nonzero determinant are tied to invertibility and solvability.",
+      "source_key": "full rank and nonzero determinant",
+      "source_label": "Full rank and nonzero determinant"
+    },
+    "function addition": {
+      "alias_source_keys": [],
+      "canonical_key": "function addition",
+      "canonical_label": "function addition",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "This treats functions as vectors and discusses addition on them.",
+      "source_key": "function addition",
+      "source_label": "function addition"
+    },
+    "function notation and composition": {
+      "alias_source_keys": [],
+      "canonical_key": "function notation and composition",
+      "canonical_label": "function notation and composition",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "The wording points to composition, which is the meaning of matrix multiplication.",
+      "source_key": "function notation and composition",
+      "source_label": "function notation and composition"
+    },
+    "functions as vectors": {
+      "alias_source_keys": [],
+      "canonical_key": "functions as vectors",
+      "canonical_label": "functions as vectors",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "This is directly about viewing functions as vectors.",
+      "source_key": "functions as vectors",
+      "source_label": "functions as vectors"
+    },
+    "future topics: non-square matrices and dot products under linear transformations": {
+      "alias_source_keys": [],
+      "canonical_key": "future topics: non-square matrices and dot products under linear transformations",
+      "canonical_label": "Future topics: non-square matrices and dot products under linear transformations",
+      "confidence": 0.65,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "The title previews dimension-changing maps and dot-product behavior under transformations.",
+      "source_key": "future topics: non-square matrices and dot products under linear transformations",
+      "source_label": "Future topics: non-square matrices and dot products under linear transformations"
+    },
+    "gaussian elimination versus cramer’s rule (conceptual vs computational)": {
+      "alias_source_keys": [],
+      "canonical_key": "gaussian elimination versus cramer’s rule (conceptual vs computational)",
+      "canonical_label": "Gaussian elimination versus Cramer’s rule (conceptual vs computational)",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Cramer's rule is a solvability method compared with Gaussian elimination.",
+      "source_key": "gaussian elimination versus cramer’s rule (conceptual vs computational)",
+      "source_label": "Gaussian elimination versus Cramer’s rule (conceptual vs computational)"
+    },
+    "general mapping formula (ax+by, cx+dy)": {
+      "alias_source_keys": [],
+      "canonical_key": "general mapping formula (ax+by, cx+dy)",
+      "canonical_label": "general mapping formula (ax+by, cx+dy)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "The formula gives the coordinate form of a 2D linear transformation.",
+      "source_key": "general mapping formula (ax+by, cx+dy)",
+      "source_label": "general mapping formula (ax+by, cx+dy)"
+    },
+    "geometric interpretation of addition": {
+      "alias_source_keys": [],
+      "canonical_key": "geometric interpretation of addition",
+      "canonical_label": "geometric interpretation of addition",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "This is the standard geometric view of vector addition.",
+      "source_key": "geometric interpretation of addition",
+      "source_label": "geometric interpretation of addition"
+    },
+    "geometric interpretation of matrix products": {
+      "alias_source_keys": [],
+      "canonical_key": "geometric interpretation of matrix products",
+      "canonical_label": "geometric interpretation of matrix products",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-matrix-multiplication-47018079",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This topic is the geometric interpretation of matrix products as composed maps.",
+      "source_key": "geometric interpretation of matrix products",
+      "source_label": "geometric interpretation of matrix products"
+    },
+    "geometric interpretation of solving ax = v": {
+      "alias_source_keys": [],
+      "canonical_key": "geometric interpretation of solving ax = v",
+      "canonical_label": "Geometric interpretation of solving Ax = V",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Solving Ax = V is a linear-systems geometry topic.",
+      "source_key": "geometric interpretation of solving ax = v",
+      "source_label": "Geometric interpretation of solving Ax = V"
+    },
+    "geometric interpretation of the dual vector": {
+      "alias_source_keys": [],
+      "canonical_key": "geometric interpretation of the dual vector",
+      "canonical_label": "geometric interpretation of the dual vector",
+      "confidence": 0.8,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "The dual vector is discussed in the cross-product duality framework.",
+      "source_key": "geometric interpretation of the dual vector",
+      "source_label": "geometric interpretation of the dual vector"
+    },
+    "geometric intuition for linear systems": {
+      "alias_source_keys": [],
+      "canonical_key": "geometric intuition for linear systems",
+      "canonical_label": "Geometric intuition for linear systems",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Geometric intuition for linear systems belongs with solvability and solution structure.",
+      "source_key": "geometric intuition for linear systems",
+      "source_label": "Geometric intuition for linear systems"
+    },
+    "geometric vs. numeric descriptions of transformations": {
+      "alias_source_keys": [
+        "grid visualization of transformations"
+      ],
+      "canonical_key": "geometric vs. numeric descriptions of transformations",
+      "canonical_label": "geometric vs. numeric descriptions of transformations",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "This is about how a transformation looks geometrically versus numerically in a chosen basis.",
+      "source_key": "geometric vs. numeric descriptions of transformations",
+      "source_label": "geometric vs. numeric descriptions of transformations"
+    },
+    "graphics and physics applications": {
+      "alias_source_keys": [],
+      "canonical_key": "graphics and physics applications",
+      "canonical_label": "graphics and physics applications",
+      "confidence": 0.76,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "It refers to applied uses of vector ideas in graphics and physics.",
+      "source_key": "graphics and physics applications",
+      "source_label": "graphics and physics applications"
+    },
+    "grid lines": {
+      "alias_source_keys": [],
+      "canonical_key": "grid lines",
+      "canonical_label": "grid lines",
+      "confidence": 0.81,
+      "family_ids": [
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "Grid lines are part of describing positions in a coordinate system.",
+      "source_key": "grid lines",
+      "source_label": "grid lines"
+    },
+    "grid visualization of transformations": {
+      "alias_source_keys": [
+        "geometric vs. numeric descriptions of transformations"
+      ],
+      "canonical_key": "grid visualization of transformations",
+      "canonical_label": "grid visualization of transformations",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "This matches the geometric and numeric view of a transformation acting on the grid.",
+      "source_key": "grid visualization of transformations",
+      "source_label": "grid visualization of transformations"
+    },
+    "grid-argument for uniform area changes": {
+      "alias_source_keys": [],
+      "canonical_key": "grid-argument for uniform area changes",
+      "canonical_label": "Grid-argument for uniform area changes",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The topic is about using the grid to explain area scaling by a determinant.",
+      "source_key": "grid-argument for uniform area changes",
+      "source_label": "Grid-argument for uniform area changes"
+    },
+    "grid-line preservation and origin mapping": {
+      "alias_source_keys": [],
+      "canonical_key": "grid-line preservation and origin mapping",
+      "canonical_label": "grid-line preservation and origin mapping",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "It concerns how a dimension-changing map preserves grid structure while moving the origin.",
+      "source_key": "grid-line preservation and origin mapping",
+      "source_label": "grid-line preservation and origin mapping"
+    },
+    "higher-dimensional generalization (3x3, etc)": {
+      "alias_source_keys": [],
+      "canonical_key": "higher-dimensional generalization (3x3, etc)",
+      "canonical_label": "Higher-dimensional generalization (3x3, etc)",
+      "confidence": 0.57,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The Cramer's rule context suggests solving systems, with a note that it generalizes to larger matrices.",
+      "source_key": "higher-dimensional generalization (3x3, etc)",
+      "source_label": "Higher-dimensional generalization (3x3, etc)"
+    },
+    "i-hat (unit x-basis vector)": {
+      "alias_source_keys": [],
+      "canonical_key": "i-hat (unit x-basis vector)",
+      "canonical_label": "i-hat (unit x-basis vector)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "i-hat is the standard x-axis basis vector used in forming linear combinations.",
+      "source_key": "i-hat (unit x-basis vector)",
+      "source_label": "i-hat (unit x-basis vector)"
+    },
+    "i-hat and j-hat": {
+      "alias_source_keys": [
+        "basis vectors i-hat and j-hat"
+      ],
+      "canonical_key": "i-hat and j-hat",
+      "canonical_label": "i-hat and j-hat",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "i-hat and j-hat here name the basis vectors used to change coordinate descriptions.",
+      "source_key": "i-hat and j-hat",
+      "source_label": "i-hat and j-hat"
+    },
+    "i-hat, j-hat, k-hat in determinant first column": {
+      "alias_source_keys": [
+        "3d determinant trick using i_hat, j_hat, k_hat in the first column"
+      ],
+      "canonical_key": "i-hat, j-hat, k-hat in determinant first column",
+      "canonical_label": "i-hat, j-hat, k-hat in determinant first column",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The first-column determinant trick is a standard cross-product construction in 3D.",
+      "source_key": "i-hat, j-hat, k-hat in determinant first column",
+      "source_label": "i-hat, j-hat, k-hat in determinant first column"
+    },
+    "i_hat and j_hat basis vectors": {
+      "alias_source_keys": [
+        "basis vectors i-hat and j-hat"
+      ],
+      "canonical_key": "basis vectors i-hat and j-hat",
+      "canonical_label": "basis vectors i-hat and j-hat",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "The basis vectors are discussed in the context of dot products and projection.",
+      "source_key": "i_hat and j_hat basis vectors",
+      "source_label": "i_hat and j_hat basis vectors"
+    },
+    "images of basis vectors": {
+      "alias_source_keys": [
+        "images of basis vectors as matrix columns"
+      ],
+      "canonical_key": "images of basis vectors",
+      "canonical_label": "images of basis vectors",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "The phrase refers to using basis-vector images as the columns of a matrix, especially for dimension-changing maps.",
+      "source_key": "images of basis vectors",
+      "source_label": "images of basis vectors"
+    },
+    "images of basis vectors as matrix columns": {
+      "alias_source_keys": [
+        "columns of a matrix as transformed basis vectors"
+      ],
+      "canonical_key": "images of basis vectors as matrix columns",
+      "canonical_label": "images of basis vectors as matrix columns",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This is exactly the column interpretation of a matrix from transformed basis vectors.",
+      "source_key": "images of basis vectors as matrix columns",
+      "source_label": "images of basis vectors as matrix columns"
+    },
+    "images of basis vectors under a 3d transform": {
+      "alias_source_keys": [
+        "images of basis vectors as matrix columns"
+      ],
+      "canonical_key": "images of basis vectors under a 3d transform",
+      "canonical_label": "images of basis vectors under a 3D transform",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-higher-dimensional-geometry-69066f61",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "It describes a 3D transform via the images of basis vectors, which are matrix columns.",
+      "source_key": "images of basis vectors under a 3d transform",
+      "source_label": "images of basis vectors under a 3D transform"
+    },
+    "infinite-dimensional spaces": {
+      "alias_source_keys": [],
+      "canonical_key": "infinite-dimensional spaces",
+      "canonical_label": "infinite-dimensional spaces",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Infinite-dimensional spaces are part of the broader abstract vector-space setting.",
+      "source_key": "infinite-dimensional spaces",
+      "source_label": "infinite-dimensional spaces"
+    },
+    "input space vs output space": {
+      "alias_source_keys": [],
+      "canonical_key": "input space vs output space",
+      "canonical_label": "input space vs output space",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128"
+      ],
+      "rationale": "Input space versus output space is a core idea for dimension-changing matrices.",
+      "source_key": "input space vs output space",
+      "source_label": "input space vs output space"
+    },
+    "interchange between representations": {
+      "alias_source_keys": [],
+      "canonical_key": "interchange between representations",
+      "canonical_label": "interchange between representations",
+      "confidence": 0.69,
+      "family_ids": [
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "Interchanging between representations is mainly about moving between coordinate descriptions.",
+      "source_key": "interchange between representations",
+      "source_label": "interchange between representations"
+    },
+    "interpretation of matrices as space transformations": {
+      "alias_source_keys": [],
+      "canonical_key": "interpretation of matrices as space transformations",
+      "canonical_label": "interpretation of matrices as space transformations",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "The phrase describes interpreting a matrix as a transformation of space.",
+      "source_key": "interpretation of matrices as space transformations",
+      "source_label": "interpretation of matrices as space transformations"
+    },
+    "intuition behind determinant terms a, b, c, d": {
+      "alias_source_keys": [],
+      "canonical_key": "intuition behind determinant terms a, b, c, d",
+      "canonical_label": "Intuition behind determinant terms a, b, c, d",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The terms a, b, c, d are the entries used to build the 2x2 determinant formula.",
+      "source_key": "intuition behind determinant terms a, b, c, d",
+      "source_label": "Intuition behind determinant terms a, b, c, d"
+    },
+    "invariant directions": {
+      "alias_source_keys": [],
+      "canonical_key": "invariant directions",
+      "canonical_label": "invariant directions",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Invariant directions are the geometric intuition for eigenvectors.",
+      "source_key": "invariant directions",
+      "source_label": "invariant directions"
+    },
+    "invariant lines and spans": {
+      "alias_source_keys": [
+        "invariant directions"
+      ],
+      "canonical_key": "invariant lines and spans",
+      "canonical_label": "invariant lines and spans",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Invariant lines and spans are a direct restatement of invariant directions.",
+      "source_key": "invariant lines and spans",
+      "source_label": "invariant lines and spans"
+    },
+    "inverse change-of-basis matrix": {
+      "alias_source_keys": [],
+      "canonical_key": "inverse change-of-basis matrix",
+      "canonical_label": "inverse change-of-basis matrix",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "An inverse change-of-basis matrix is specifically about converting coordinates between bases.",
+      "source_key": "inverse change-of-basis matrix",
+      "source_label": "inverse change-of-basis matrix"
+    },
+    "inverse matrix a^{-1}": {
+      "alias_source_keys": [],
+      "canonical_key": "inverse matrix a^{-1}",
+      "canonical_label": "Inverse matrix A^{-1}",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "A^{-1} is the standard inverse-matrix topic used for solving systems.",
+      "source_key": "inverse matrix a^{-1}",
+      "source_label": "Inverse matrix A^{-1}"
+    },
+    "j-hat (unit y-basis vector)": {
+      "alias_source_keys": [
+        "i_hat and j_hat basis vectors"
+      ],
+      "canonical_key": "j-hat (unit y-basis vector)",
+      "canonical_label": "j-hat (unit y-basis vector)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "j-hat is the standard y-axis basis vector used alongside i-hat.",
+      "source_key": "j-hat (unit y-basis vector)",
+      "source_label": "j-hat (unit y-basis vector)"
+    },
+    "jennifer’s basis b1=(2,1) and b2=(-1,1)": {
+      "alias_source_keys": [],
+      "canonical_key": "jennifer’s basis b1=(2,1) and b2=(-1,1)",
+      "canonical_label": "Jennifer’s basis b1=(2,1) and b2=(-1,1)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "Jennifer's basis is a named basis used in a change-of-basis example.",
+      "source_key": "jennifer’s basis b1=(2,1) and b2=(-1,1)",
+      "source_label": "Jennifer’s basis b1=(2,1) and b2=(-1,1)"
+    },
+    "linear combination": {
+      "alias_source_keys": [],
+      "canonical_key": "linear combination",
+      "canonical_label": "linear combination",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "A linear combination is the central operation for span and basis ideas.",
+      "source_key": "linear combination",
+      "source_label": "linear combination"
+    },
+    "linear combinations of pauli matrices": {
+      "alias_source_keys": [],
+      "canonical_key": "linear combinations of pauli matrices",
+      "canonical_label": "Linear combinations of Pauli matrices",
+      "confidence": 0.7,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Pauli-matrix combinations appear here in the context of a 2x2 eigenvalue shortcut.",
+      "source_key": "linear combinations of pauli matrices",
+      "source_label": "Linear combinations of Pauli matrices"
+    },
+    "linear dependence": {
+      "alias_source_keys": [],
+      "canonical_key": "linear dependence",
+      "canonical_label": "linear dependence",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "Linear dependence is a core basis-and-span concept.",
+      "source_key": "linear dependence",
+      "source_label": "linear dependence"
+    },
+    "linear independence": {
+      "alias_source_keys": [
+        "linear independence and space squishing"
+      ],
+      "canonical_key": "linear independence",
+      "canonical_label": "linear independence",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "Linear independence is a fundamental basis-and-span topic.",
+      "source_key": "linear independence",
+      "source_label": "linear independence"
+    },
+    "linear independence and determinant (columns)": {
+      "alias_source_keys": [
+        "linear independence and space squishing"
+      ],
+      "canonical_key": "linear independence and determinant (columns)",
+      "canonical_label": "Linear independence and determinant (columns)",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "The determinant of columns connects independence with geometric scaling and orientation.",
+      "source_key": "linear independence and determinant (columns)",
+      "source_label": "Linear independence and determinant (columns)"
+    },
+    "linear independence and space squishing": {
+      "alias_source_keys": [
+        "linear independence"
+      ],
+      "canonical_key": "linear independence and space squishing",
+      "canonical_label": "linear independence and space squishing",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "The phrase links independence of basis vectors with how a matrix acts on them.",
+      "source_key": "linear independence and space squishing",
+      "source_label": "linear independence and space squishing"
+    },
+    "linear transformation": {
+      "alias_source_keys": [
+        "linear transformations"
+      ],
+      "canonical_key": "linear transformations",
+      "canonical_label": "linear transformations",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "This is the standard notion of a linear transformation and its matrix view.",
+      "source_key": "linear transformation",
+      "source_label": "linear transformation"
+    },
+    "linear transformation from r^2 to r": {
+      "alias_source_keys": [
+        "transformation from 2d to 1d"
+      ],
+      "canonical_key": "linear transformation from r^2 to r",
+      "canonical_label": "linear transformation from R^2 to R",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "A linear map from R^2 to R is the dot-product/projection-style 1x2 transform.",
+      "source_key": "linear transformation from r^2 to r",
+      "source_label": "linear transformation from R^2 to R"
+    },
+    "linear transformation sending i_hat, j_hat to v, w": {
+      "alias_source_keys": [
+        "linear transformation from r^2 to r"
+      ],
+      "canonical_key": "linear transformation sending i_hat, j_hat to v, w",
+      "canonical_label": "Linear transformation sending I_hat, J_hat to V, W",
+      "confidence": 0.6,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "The topic is a mapping that sends basis vectors to outputs in a cross-product construction.",
+      "source_key": "linear transformation sending i_hat, j_hat to v, w",
+      "source_label": "Linear transformation sending I_hat, J_hat to V, W"
+    },
+    "linear transformations": {
+      "alias_source_keys": [
+        "linear transformation"
+      ],
+      "canonical_key": "linear transformations",
+      "canonical_label": "linear transformations",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "This broad label covers linear maps in both matrix and abstract-vector-space settings.",
+      "source_key": "linear transformations",
+      "source_label": "linear transformations"
+    },
+    "linear transformations between different dimensions": {
+      "alias_source_keys": [],
+      "canonical_key": "linear transformations between different dimensions",
+      "canonical_label": "linear transformations between different dimensions",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "It is about linear maps whose input and output dimensions differ.",
+      "source_key": "linear transformations between different dimensions",
+      "source_label": "linear transformations between different dimensions"
+    },
+    "link to eigenvectors/eigenvalues in next video": {
+      "alias_source_keys": [],
+      "canonical_key": "link to eigenvectors/eigenvalues in next video",
+      "canonical_label": "link to eigenvectors/eigenvalues in next video",
+      "confidence": 0.61,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The context is a transition toward eigenvectors after discussing basis change.",
+      "source_key": "link to eigenvectors/eigenvalues in next video",
+      "source_label": "link to eigenvectors/eigenvalues in next video"
+    },
+    "lists of numbers": {
+      "alias_source_keys": [
+        "vectors as lists of numbers"
+      ],
+      "canonical_key": "lists of numbers",
+      "canonical_label": "lists of numbers",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Lists of numbers are one of the introductory models for vectors in abstract settings.",
+      "source_key": "lists of numbers",
+      "source_label": "lists of numbers"
+    },
+    "m = trace(a)/2": {
+      "alias_source_keys": [],
+      "canonical_key": "m = trace(a)/2",
+      "canonical_label": "m = trace(A)/2",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The formula is part of the 2x2 eigenvalue shortcut using trace and determinant.",
+      "source_key": "m = trace(a)/2",
+      "source_label": "m = trace(A)/2"
+    },
+    "mathematician perspective": {
+      "alias_source_keys": [],
+      "canonical_key": "mathematician perspective",
+      "canonical_label": "mathematician perspective",
+      "confidence": 0.58,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "This contrasts different perspectives on what a vector is.",
+      "source_key": "mathematician perspective",
+      "source_label": "mathematician perspective"
+    },
+    "matrices in transforming space (preview)": {
+      "alias_source_keys": [],
+      "canonical_key": "matrices in transforming space (preview)",
+      "canonical_label": "matrices in transforming space (preview)",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-matrix-representation-f20d8895",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "The preview points to matrices as representations of transformations of space.",
+      "source_key": "matrices in transforming space (preview)",
+      "source_label": "matrices in transforming space (preview)"
+    },
+    "matrix as linear transformation": {
+      "alias_source_keys": [
+        "linear transformation",
+        "linear transformations"
+      ],
+      "canonical_key": "matrix as linear transformation",
+      "canonical_label": "Matrix as linear transformation",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "These aliases are direct wording variants of a linear transformation viewpoint.",
+      "source_key": "matrix as linear transformation",
+      "source_label": "Matrix as linear transformation"
+    },
+    "matrix multiplication in 3d": {
+      "alias_source_keys": [],
+      "canonical_key": "matrix multiplication in 3d",
+      "canonical_label": "matrix multiplication in 3D",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-matrix-multiplication-47018079",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "The topic is specifically about 3D matrix multiplication and its geometric interpretation.",
+      "source_key": "matrix multiplication in 3d",
+      "source_label": "matrix multiplication in 3D"
+    },
+    "matrix representation": {
+      "alias_source_keys": [
+        "matrix representation of a linear operator"
+      ],
+      "canonical_key": "matrix representation",
+      "canonical_label": "matrix representation",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "This is the standard matrix representation of a linear transformation.",
+      "source_key": "matrix representation",
+      "source_label": "matrix representation"
+    },
+    "matrix representation of a linear operator": {
+      "alias_source_keys": [
+        "derivative as a linear operator"
+      ],
+      "canonical_key": "matrix representation of a linear operator",
+      "canonical_label": "matrix representation of a linear operator",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "The derivative is treated as a linear operator with a matrix representation in a polynomial basis.",
+      "source_key": "matrix representation of a linear operator",
+      "source_label": "matrix representation of a linear operator"
+    },
+    "matrix-vector multiplication": {
+      "alias_source_keys": [
+        "matrix-vector multiplication as basis transformation"
+      ],
+      "canonical_key": "matrix-vector multiplication",
+      "canonical_label": "matrix-vector multiplication",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "This concerns applying a matrix to a vector and interpreting that action as a basis transformation.",
+      "source_key": "matrix-vector multiplication",
+      "source_label": "matrix-vector multiplication"
+    },
+    "matrix-vector multiplication as basis transformation": {
+      "alias_source_keys": [
+        "matrix-vector multiplication"
+      ],
+      "canonical_key": "matrix-vector multiplication as basis transformation",
+      "canonical_label": "matrix-vector multiplication as basis transformation",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "The phrase is a close variant of matrix-vector multiplication in the context of changing bases.",
+      "source_key": "matrix-vector multiplication as basis transformation",
+      "source_label": "matrix-vector multiplication as basis transformation"
+    },
+    "mean of eigenvalues": {
+      "alias_source_keys": [],
+      "canonical_key": "mean of eigenvalues",
+      "canonical_label": "Mean of eigenvalues",
+      "confidence": 0.75,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The mean of eigenvalues is an eigenvalue/trace relationship rather than a separate topic label.",
+      "source_key": "mean of eigenvalues",
+      "source_label": "Mean of eigenvalues"
+    },
+    "negative scaling": {
+      "alias_source_keys": [],
+      "canonical_key": "negative scaling",
+      "canonical_label": "negative scaling",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Negative scaling is a basic scalar multiplication idea for vectors.",
+      "source_key": "negative scaling",
+      "source_label": "negative scaling"
+    },
+    "non-colinear vectors in 3d": {
+      "alias_source_keys": [],
+      "canonical_key": "non-colinear vectors in 3d",
+      "canonical_label": "non-colinear vectors in 3D",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "Two non-colinear vectors in 3D span a plane, connecting span with 3D geometry.",
+      "source_key": "non-colinear vectors in 3d",
+      "source_label": "non-colinear vectors in 3D"
+    },
+    "non-square matrices": {
+      "alias_source_keys": [],
+      "canonical_key": "non-square matrices",
+      "canonical_label": "non-square matrices",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Non-square matrices are dimension-changing linear transformations.",
+      "source_key": "non-square matrices",
+      "source_label": "non-square matrices"
+    },
+    "non-unit vectors and scaling in dot products": {
+      "alias_source_keys": [],
+      "canonical_key": "non-unit vectors and scaling in dot products",
+      "canonical_label": "non-unit vectors and scaling in dot products",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "This is about dot products with non-unit vectors and how scaling affects the result.",
+      "source_key": "non-unit vectors and scaling in dot products",
+      "source_label": "non-unit vectors and scaling in dot products"
+    },
+    "nonzero determinant implies a unique solution": {
+      "alias_source_keys": [],
+      "canonical_key": "nonzero determinant implies a unique solution",
+      "canonical_label": "Nonzero determinant implies a unique solution",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "A nonzero determinant indicates invertibility and therefore a unique solution.",
+      "source_key": "nonzero determinant implies a unique solution",
+      "source_label": "Nonzero determinant implies a unique solution"
+    },
+    "nonzero determinant implying invertibility": {
+      "alias_source_keys": [
+        "determinant and invertibility",
+        "nonzero determinant implies a unique solution"
+      ],
+      "canonical_key": "nonzero determinant implying invertibility",
+      "canonical_label": "Nonzero determinant implying invertibility",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "These are equivalent ways to express the invertibility criterion from the determinant.",
+      "source_key": "nonzero determinant implying invertibility",
+      "source_label": "Nonzero determinant implying invertibility"
+    },
+    "normalization (a^2 + b^2 + c^2 = 1)": {
+      "alias_source_keys": [],
+      "canonical_key": "normalization (a^2 + b^2 + c^2 = 1)",
+      "canonical_label": "Normalization (a^2 + b^2 + c^2 = 1)",
+      "confidence": 0.62,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Normalization appears here as an eigenvector-related condition, though it is not a core taxonomy match.",
+      "source_key": "normalization (a^2 + b^2 + c^2 = 1)",
+      "source_label": "Normalization (a^2 + b^2 + c^2 = 1)"
+    },
+    "null space (kernel) and solutions to ax = 0": {
+      "alias_source_keys": [],
+      "canonical_key": "null space (kernel) and solutions to ax = 0",
+      "canonical_label": "Null space (kernel) and solutions to Ax = 0",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The null space and solutions to Ax = 0 are central to solvability and kernels.",
+      "source_key": "null space (kernel) and solutions to ax = 0",
+      "source_label": "Null space (kernel) and solutions to Ax = 0"
+    },
+    "operators": {
+      "alias_source_keys": [],
+      "canonical_key": "operators",
+      "canonical_label": "operators",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Operators here refer to linear maps acting on functions and polynomials.",
+      "source_key": "operators",
+      "source_label": "operators"
+    },
+    "order of multiplication (right-to-left)": {
+      "alias_source_keys": [
+        "transformation composition (right-to-left order)"
+      ],
+      "canonical_key": "order of multiplication (right-to-left)",
+      "canonical_label": "order of multiplication (right-to-left)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "Right-to-left order is the composition rule for matrix multiplication.",
+      "source_key": "order of multiplication (right-to-left)",
+      "source_label": "order of multiplication (right-to-left)"
+    },
+    "order sensitivity: v × w vs w × v": {
+      "alias_source_keys": [],
+      "canonical_key": "order sensitivity: v × w vs w × v",
+      "canonical_label": "Order sensitivity: V × W vs W × V",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "This is the noncommutative order sensitivity of the cross product.",
+      "source_key": "order sensitivity: v × w vs w × v",
+      "source_label": "Order sensitivity: V × W vs W × V"
+    },
+    "order symmetry of dot product": {
+      "alias_source_keys": [],
+      "canonical_key": "order symmetry of dot product",
+      "canonical_label": "order symmetry of dot product",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "Dot products are symmetric in their arguments.",
+      "source_key": "order symmetry of dot product",
+      "source_label": "order symmetry of dot product"
+    },
+    "ordered lists": {
+      "alias_source_keys": [],
+      "canonical_key": "ordered lists",
+      "canonical_label": "ordered lists",
+      "confidence": 0.55,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Ordered lists describes a common vector representation but is not a precise alias.",
+      "source_key": "ordered lists",
+      "source_label": "ordered lists"
+    },
+    "orientation and sign of cross product": {
+      "alias_source_keys": [],
+      "canonical_key": "orientation and sign of cross product",
+      "canonical_label": "Orientation and sign of cross product",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The sign and orientation of the cross product are determined by geometric direction.",
+      "source_key": "orientation and sign of cross product",
+      "source_label": "Orientation and sign of cross product"
+    },
+    "orientation and sign of determinants (positive/negative)": {
+      "alias_source_keys": [],
+      "canonical_key": "orientation and sign of determinants (positive/negative)",
+      "canonical_label": "Orientation and sign of determinants (positive/negative)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "This is about the sign of determinants and the orientation they encode.",
+      "source_key": "orientation and sign of determinants (positive/negative)",
+      "source_label": "Orientation and sign of determinants (positive/negative)"
+    },
+    "origin anchoring": {
+      "alias_source_keys": [],
+      "canonical_key": "origin anchoring",
+      "canonical_label": "origin anchoring",
+      "confidence": 0.71,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Anchoring a vector at the origin is part of coordinate-based vector description.",
+      "source_key": "origin anchoring",
+      "source_label": "origin anchoring"
+    },
+    "origin fixed": {
+      "alias_source_keys": [],
+      "canonical_key": "origin fixed",
+      "canonical_label": "origin fixed",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "Linear transformations keep the origin fixed.",
+      "source_key": "origin fixed",
+      "source_label": "origin fixed"
+    },
+    "origin/root of vectors": {
+      "alias_source_keys": [],
+      "canonical_key": "origin/root of vectors",
+      "canonical_label": "origin/root of vectors",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-vectors-29a6a5e3",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "This is about vectors being rooted at or referenced to the origin.",
+      "source_key": "origin/root of vectors",
+      "source_label": "origin/root of vectors"
+    },
+    "orthogonality": {
+      "alias_source_keys": [],
+      "canonical_key": "orthogonality",
+      "canonical_label": "orthogonality",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "Orthogonality is a core dot-product concept.",
+      "source_key": "orthogonality",
+      "source_label": "orthogonality"
+    },
+    "orthogonality and dot product preservation in special cases": {
+      "alias_source_keys": [],
+      "canonical_key": "orthogonality and dot product preservation in special cases",
+      "canonical_label": "Orthogonality and dot product preservation in special cases",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The topic links orthogonality and dot-product behavior in a special determinant-based setting.",
+      "source_key": "orthogonality and dot product preservation in special cases",
+      "source_label": "Orthogonality and dot product preservation in special cases"
+    },
+    "p = det(a)": {
+      "alias_source_keys": [],
+      "canonical_key": "p = det(a)",
+      "canonical_label": "p = det(A)",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The determinant appears as the product term in the 2×2 eigenvalue trick.",
+      "source_key": "p = det(a)",
+      "source_label": "p = det(A)"
+    },
+    "p^{-1}ap = d": {
+      "alias_source_keys": [],
+      "canonical_key": "p^{-1}ap = d",
+      "canonical_label": "P^{-1}AP = D",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc",
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "This is the standard diagonalization identity using a change of basis.",
+      "source_key": "p^{-1}ap = d",
+      "source_label": "P^{-1}AP = D"
+    },
+    "parallelepiped terminology in 3d": {
+      "alias_source_keys": [],
+      "canonical_key": "parallelepiped terminology in 3d",
+      "canonical_label": "Parallelepiped terminology in 3D",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-higher-dimensional-geometry-69066f61",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "Parallelepipeds are the 3D geometric shapes used to interpret volume scaling by determinants.",
+      "source_key": "parallelepiped terminology in 3d",
+      "source_label": "Parallelepiped terminology in 3D"
+    },
+    "parallelepiped volume representing coordinates (3d)": {
+      "alias_source_keys": [],
+      "canonical_key": "parallelepiped volume representing coordinates (3d)",
+      "canonical_label": "Parallelepiped volume representing coordinates (3D)",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The 3D volume interpretation is used to recover coordinates via determinant-based reasoning.",
+      "source_key": "parallelepiped volume representing coordinates (3d)",
+      "source_label": "Parallelepiped volume representing coordinates (3D)"
+    },
+    "parallelism preservation": {
+      "alias_source_keys": [],
+      "canonical_key": "parallelism preservation",
+      "canonical_label": "parallelism preservation",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Preserving parallelism is a defining feature of linear transformations.",
+      "source_key": "parallelism preservation",
+      "source_label": "parallelism preservation"
+    },
+    "parallelogram area representing coordinates (2d)": {
+      "alias_source_keys": [],
+      "canonical_key": "parallelogram area representing coordinates (2d)",
+      "canonical_label": "Parallelogram area representing coordinates (2D)",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Parallelogram area is the 2D determinant interpretation used in coordinate solving.",
+      "source_key": "parallelogram area representing coordinates (2d)",
+      "source_label": "Parallelogram area representing coordinates (2D)"
+    },
+    "parallelogram spanned by two vectors": {
+      "alias_source_keys": [],
+      "canonical_key": "parallelogram spanned by two vectors",
+      "canonical_label": "Parallelogram spanned by two vectors",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "A parallelogram spanned by two vectors is the geometric setup for the cross product.",
+      "source_key": "parallelogram spanned by two vectors",
+      "source_label": "Parallelogram spanned by two vectors"
+    },
+    "pauli spin matrices": {
+      "alias_source_keys": [],
+      "canonical_key": "pauli spin matrices",
+      "canonical_label": "Pauli spin matrices",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Pauli spin matrices are presented here in an eigenvalue-focused context.",
+      "source_key": "pauli spin matrices",
+      "source_label": "Pauli spin matrices"
+    },
+    "physics perspective": {
+      "alias_source_keys": [],
+      "canonical_key": "physics perspective",
+      "canonical_label": "physics perspective",
+      "confidence": 0.7,
+      "family_ids": [
+        "family-vectors-29a6a5e3",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "This frames vectors from a physics perspective rather than a distinct mathematical topic.",
+      "source_key": "physics perspective",
+      "source_label": "physics perspective"
+    },
+    "plane through the origin": {
+      "alias_source_keys": [],
+      "canonical_key": "plane through the origin",
+      "canonical_label": "plane through the origin",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "A plane through the origin is the kind of input or output space discussed for non-square maps.",
+      "source_key": "plane through the origin",
+      "source_label": "plane through the origin"
+    },
+    "plane vs line vs origin": {
+      "alias_source_keys": [
+        "plane through the origin"
+      ],
+      "canonical_key": "plane vs line vs origin",
+      "canonical_label": "plane vs line vs origin",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "This is the standard plane-line-origin classification of span outcomes.",
+      "source_key": "plane vs line vs origin",
+      "source_label": "plane vs line vs origin"
+    },
+    "polynomials": {
+      "alias_source_keys": [],
+      "canonical_key": "polynomials",
+      "canonical_label": "polynomials",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Polynomials are treated as vectors in an infinite-dimensional vector space.",
+      "source_key": "polynomials",
+      "source_label": "polynomials"
+    },
+    "positive / negative / zero dot product": {
+      "alias_source_keys": [],
+      "canonical_key": "positive / negative / zero dot product",
+      "canonical_label": "positive / negative / zero dot product",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "Positive, negative, and zero dot products classify relative orientation and projection.",
+      "source_key": "positive / negative / zero dot product",
+      "source_label": "positive / negative / zero dot product"
+    },
+    "powers of a matrix": {
+      "alias_source_keys": [],
+      "canonical_key": "powers of a matrix",
+      "canonical_label": "powers of a matrix",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Matrix powers are discussed here as part of diagonalization and eigenvalue shortcuts.",
+      "source_key": "powers of a matrix",
+      "source_label": "powers of a matrix"
+    },
+    "pre- and post-transformation scaling and addition": {
+      "alias_source_keys": [],
+      "canonical_key": "pre- and post-transformation scaling and addition",
+      "canonical_label": "pre- and post-transformation scaling and addition",
+      "confidence": 0.73,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "This is about how a 3D transformation scales and combines basis vectors before and after applying the map.",
+      "source_key": "pre- and post-transformation scaling and addition",
+      "source_label": "pre- and post-transformation scaling and addition"
+    },
+    "product of eigenvalues": {
+      "alias_source_keys": [],
+      "canonical_key": "product of eigenvalues",
+      "canonical_label": "Product of eigenvalues",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The product of eigenvalues is a standard eigenvalue relation, especially in 2×2 trace/determinant tricks.",
+      "source_key": "product of eigenvalues",
+      "source_label": "Product of eigenvalues"
+    },
+    "product of matrices": {
+      "alias_source_keys": [],
+      "canonical_key": "product of matrices",
+      "canonical_label": "product of matrices",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "This directly refers to matrix products and composition of transformations.",
+      "source_key": "product of matrices",
+      "source_label": "product of matrices"
+    },
+    "projection interpretation: volume via area × perpendicular component": {
+      "alias_source_keys": [],
+      "canonical_key": "projection interpretation: volume via area × perpendicular component",
+      "canonical_label": "projection interpretation: volume via area × perpendicular component",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The volume formula using area times perpendicular component is a cross-product interpretation.",
+      "source_key": "projection interpretation: volume via area × perpendicular component",
+      "source_label": "projection interpretation: volume via area × perpendicular component"
+    },
+    "projection length": {
+      "alias_source_keys": [],
+      "canonical_key": "projection length",
+      "canonical_label": "projection length",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "Projection length is a core dot-product projection quantity.",
+      "source_key": "projection length",
+      "source_label": "projection length"
+    },
+    "projection of w onto v": {
+      "alias_source_keys": [],
+      "canonical_key": "projection of w onto v",
+      "canonical_label": "projection of W onto V",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "Projection of one vector onto another is squarely about dot products and projection.",
+      "source_key": "projection of w onto v",
+      "source_label": "projection of W onto V"
+    },
+    "quadratic formula": {
+      "alias_source_keys": [],
+      "canonical_key": "quadratic formula",
+      "canonical_label": "Quadratic formula",
+      "confidence": 0.61,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The quadratic formula appears only as the background method for solving the eigenvalue polynomial.",
+      "source_key": "quadratic formula",
+      "source_label": "Quadratic formula"
+    },
+    "quantum mechanics": {
+      "alias_source_keys": [],
+      "canonical_key": "quantum mechanics",
+      "canonical_label": "Quantum mechanics",
+      "confidence": 0.32,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Quantum mechanics is only an example context here, not the topic being normalized.",
+      "source_key": "quantum mechanics",
+      "source_label": "Quantum mechanics"
+    },
+    "rank and full rank": {
+      "alias_source_keys": [],
+      "canonical_key": "rank and full rank",
+      "canonical_label": "rank and full rank",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Rank and full rank are used to describe dimension-changing matrices and when systems are solvable.",
+      "source_key": "rank and full rank",
+      "source_label": "rank and full rank"
+    },
+    "rank as the dimension of the column space": {
+      "alias_source_keys": [],
+      "canonical_key": "rank as the dimension of the column space",
+      "canonical_label": "Rank as the dimension of the column space",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Rank as the dimension of the column space belongs to solvability and subspace structure.",
+      "source_key": "rank as the dimension of the column space",
+      "source_label": "Rank as the dimension of the column space"
+    },
+    "redundant vectors": {
+      "alias_source_keys": [],
+      "canonical_key": "redundant vectors",
+      "canonical_label": "redundant vectors",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "Redundant vectors are a dependence/independence issue in span and basis.",
+      "source_key": "redundant vectors",
+      "source_label": "redundant vectors"
+    },
+    "reference to external computation tools (gaussian elimination/row echelon form)": {
+      "alias_source_keys": [],
+      "canonical_key": "reference to external computation tools (gaussian elimination/row echelon form)",
+      "canonical_label": "Reference to external computation tools (Gaussian elimination/row echelon form)",
+      "confidence": 0.54,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Gaussian elimination and row echelon form are tools used for solving linear systems and finding inverses.",
+      "source_key": "reference to external computation tools (gaussian elimination/row echelon form)",
+      "source_label": "Reference to external computation tools (Gaussian elimination/row echelon form)"
+    },
+    "relation between trace/determinant and eigenvalues": {
+      "alias_source_keys": [],
+      "canonical_key": "relation between trace/determinant and eigenvalues",
+      "canonical_label": "Relation between trace/determinant and eigenvalues",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "This states the trace/determinant relationships used to infer eigenvalues.",
+      "source_key": "relation between trace/determinant and eigenvalues",
+      "source_label": "Relation between trace/determinant and eigenvalues"
+    },
+    "right-hand rule and determinant sign": {
+      "alias_source_keys": [
+        "right-hand rule for 3d orientation"
+      ],
+      "canonical_key": "right-hand rule and determinant sign",
+      "canonical_label": "Right-hand rule and determinant sign",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "The right-hand rule here is tied to determinant sign and 3D orientation.",
+      "source_key": "right-hand rule and determinant sign",
+      "source_label": "Right-hand rule and determinant sign"
+    },
+    "right-hand rule for 3d orientation": {
+      "alias_source_keys": [
+        "right-hand rule for cross product direction"
+      ],
+      "canonical_key": "right-hand rule for 3d orientation",
+      "canonical_label": "Right-hand rule for 3D orientation",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-cross-products-2c7beda3"
+      ],
+      "rationale": "This is the right-hand rule for 3D orientation, also used for cross-product direction.",
+      "source_key": "right-hand rule for 3d orientation",
+      "source_label": "Right-hand rule for 3D orientation"
+    },
+    "right-hand rule for cross product direction": {
+      "alias_source_keys": [
+        "cross product direction and right-hand rule"
+      ],
+      "canonical_key": "cross product direction and right-hand rule",
+      "canonical_label": "cross product direction and right-hand rule",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-cross-products-2c7beda3",
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "The topic is exactly the right-hand rule for cross-product direction.",
+      "source_key": "right-hand rule for cross product direction",
+      "source_label": "Right-hand rule for cross product direction"
+    },
+    "rotation by 90 degrees": {
+      "alias_source_keys": [],
+      "canonical_key": "rotation by 90 degrees",
+      "canonical_label": "rotation by 90 degrees",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "A 90-degree rotation is a standard linear transformation and matrix example.",
+      "source_key": "rotation by 90 degrees",
+      "source_label": "rotation by 90 degrees"
+    },
+    "rotation by 90 degrees and its matrix in different bases": {
+      "alias_source_keys": [],
+      "canonical_key": "rotation by 90 degrees and its matrix in different bases",
+      "canonical_label": "rotation by 90 degrees and its matrix in different bases",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "This concerns how the matrix of a rotation changes across bases.",
+      "source_key": "rotation by 90 degrees and its matrix in different bases",
+      "source_label": "rotation by 90 degrees and its matrix in different bases"
+    },
+    "rotation followed by shear": {
+      "alias_source_keys": [],
+      "canonical_key": "rotation followed by shear",
+      "canonical_label": "rotation followed by shear",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-matrix-multiplication-47018079",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "A rotation followed by a shear is a composition of linear transformations.",
+      "source_key": "rotation followed by shear",
+      "source_label": "rotation followed by shear"
+    },
+    "rotation in 3d (example: 90-degree rotation around the y-axis)": {
+      "alias_source_keys": [],
+      "canonical_key": "rotation in 3d (example: 90-degree rotation around the y-axis)",
+      "canonical_label": "rotation in 3D (example: 90-degree rotation around the y-axis)",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-higher-dimensional-geometry-69066f61",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This is a 3D rotation example, so it fits 3D geometry and linear maps.",
+      "source_key": "rotation in 3d (example: 90-degree rotation around the y-axis)",
+      "source_label": "rotation in 3D (example: 90-degree rotation around the y-axis)"
+    },
+    "rotation vs. eigenvectors": {
+      "alias_source_keys": [],
+      "canonical_key": "rotation vs. eigenvectors",
+      "canonical_label": "rotation vs. eigenvectors",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "The topic compares rotation behavior with invariant eigenvector directions.",
+      "source_key": "rotation vs. eigenvectors",
+      "source_label": "rotation vs. eigenvectors"
+    },
+    "scalar multiplication": {
+      "alias_source_keys": [
+        "scaling / scalar multiplication"
+      ],
+      "canonical_key": "scalar multiplication",
+      "canonical_label": "scalar multiplication",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Scalar multiplication here is the vector-space operation on polynomial vectors.",
+      "source_key": "scalar multiplication",
+      "source_label": "scalar multiplication"
+    },
+    "scalar vs number": {
+      "alias_source_keys": [],
+      "canonical_key": "scalar vs number",
+      "canonical_label": "scalar vs number",
+      "confidence": 0.79,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "This is a basic conceptual distinction about scalars in the vectors chapter.",
+      "source_key": "scalar vs number",
+      "source_label": "scalar vs number"
+    },
+    "scalars as coordinates": {
+      "alias_source_keys": [
+        "coordinates"
+      ],
+      "canonical_key": "scalars as coordinates",
+      "canonical_label": "scalars as coordinates",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-coordinate-systems-f1311792",
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "Treating scalars as coordinates is about coordinate systems and basis vectors.",
+      "source_key": "scalars as coordinates",
+      "source_label": "scalars as coordinates"
+    },
+    "scaling": {
+      "alias_source_keys": [],
+      "canonical_key": "scaling",
+      "canonical_label": "scaling",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Scaling here refers to the vector-space operation and linear action on polynomial vectors.",
+      "source_key": "scaling",
+      "source_label": "scaling"
+    },
+    "scaling / scalar multiplication": {
+      "alias_source_keys": [
+        "scalar multiplication"
+      ],
+      "canonical_key": "scaling / scalar multiplication",
+      "canonical_label": "scaling / scalar multiplication",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "This is just another wording for scalar multiplication on vectors.",
+      "source_key": "scaling / scalar multiplication",
+      "source_label": "scaling / scalar multiplication"
+    },
+    "shear and eigenvectors": {
+      "alias_source_keys": [
+        "eigenvectors"
+      ],
+      "canonical_key": "shear and eigenvectors",
+      "canonical_label": "shear and eigenvectors",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Shear and eigenvectors is an eigenvector example involving invariant directions.",
+      "source_key": "shear and eigenvectors",
+      "source_label": "shear and eigenvectors"
+    },
+    "shear transformation": {
+      "alias_source_keys": [
+        "linear transformation",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "shear transformation",
+      "canonical_label": "shear transformation",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-linear-transformations-fe92792d",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "A shear transformation is a standard linear map represented by a matrix.",
+      "source_key": "shear transformation",
+      "source_label": "shear transformation"
+    },
+    "shear transformation and parallelogram area": {
+      "alias_source_keys": [
+        "shear transformation",
+        "unit square transforming to a parallelogram"
+      ],
+      "canonical_key": "shear transformation and parallelogram area",
+      "canonical_label": "Shear transformation and parallelogram area",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This links a shear to the area-scaling behavior of determinants.",
+      "source_key": "shear transformation and parallelogram area",
+      "source_label": "Shear transformation and parallelogram area"
+    },
+    "solving ax = v by applying a^{-1} to v": {
+      "alias_source_keys": [],
+      "canonical_key": "solving ax = v by applying a^{-1} to v",
+      "canonical_label": "Solving Ax = V by applying A^{-1} to V",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Solving Ax = v by applying the inverse is the inverse-matrix solution method.",
+      "source_key": "solving ax = v by applying a^{-1} to v",
+      "source_label": "Solving Ax = V by applying A^{-1} to V"
+    },
+    "span": {
+      "alias_source_keys": [],
+      "canonical_key": "span",
+      "canonical_label": "span",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "Span is central here, and it also appears in the eigenvector intuition context.",
+      "source_key": "span",
+      "source_label": "span"
+    },
+    "span in 3d": {
+      "alias_source_keys": [],
+      "canonical_key": "span in 3d",
+      "canonical_label": "span in 3D",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "This is specifically about the span of vectors in 3D.",
+      "source_key": "span in 3d",
+      "source_label": "span in 3D"
+    },
+    "span of a unit vector": {
+      "alias_source_keys": [],
+      "canonical_key": "span of a unit vector",
+      "canonical_label": "span of a unit vector",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "The span of a unit vector is tied to basis-vector images in the duality discussion.",
+      "source_key": "span of a unit vector",
+      "source_label": "span of a unit vector"
+    },
+    "square matrices vs non-square matrices (scope clarification)": {
+      "alias_source_keys": [],
+      "canonical_key": "square matrices vs non-square matrices (scope clarification)",
+      "canonical_label": "Square matrices vs non-square matrices (scope clarification)",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The clarification contrasts square and non-square matrices in the context of inverses and solving.",
+      "source_key": "square matrices vs non-square matrices (scope clarification)",
+      "source_label": "Square matrices vs non-square matrices (scope clarification)"
+    },
+    "stretching / shrinking": {
+      "alias_source_keys": [],
+      "canonical_key": "stretching / shrinking",
+      "canonical_label": "stretching / shrinking",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Stretching and shrinking are direct descriptions of vector scaling.",
+      "source_key": "stretching / shrinking",
+      "source_label": "stretching / shrinking"
+    },
+    "symbolic matrix entries": {
+      "alias_source_keys": [],
+      "canonical_key": "symbolic matrix entries",
+      "canonical_label": "symbolic matrix entries",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-matrix-multiplication-47018079",
+        "family-matrix-representation-f20d8895"
+      ],
+      "rationale": "Symbolic entries are used in the column-method treatment of composed matrix products.",
+      "source_key": "symbolic matrix entries",
+      "source_label": "symbolic matrix entries"
+    },
+    "tail-to-tip vector addition": {
+      "alias_source_keys": [],
+      "canonical_key": "tail-to-tip vector addition",
+      "canonical_label": "tail-to-tip vector addition",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Tail-to-tip addition is the basic geometric rule for adding vectors.",
+      "source_key": "tail-to-tip vector addition",
+      "source_label": "tail-to-tip vector addition"
+    },
+    "three-vector span": {
+      "alias_source_keys": [],
+      "canonical_key": "three-vector span",
+      "canonical_label": "three-vector span",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5",
+        "family-higher-dimensional-geometry-69066f61"
+      ],
+      "rationale": "Three-vector span is about when vectors span all of 3D space.",
+      "source_key": "three-vector span",
+      "source_label": "three-vector span"
+    },
+    "trace of a matrix": {
+      "alias_source_keys": [],
+      "canonical_key": "trace of a matrix",
+      "canonical_label": "Trace of a matrix",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "The trace of a matrix is featured here as part of the eigenvalue shortcut.",
+      "source_key": "trace of a matrix",
+      "source_label": "Trace of a matrix"
+    },
+    "transformation composition (right-to-left order)": {
+      "alias_source_keys": [],
+      "canonical_key": "transformation composition (right-to-left order)",
+      "canonical_label": "transformation composition (right-to-left order)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "Right-to-left composition is a core matrix-multiplication topic.",
+      "source_key": "transformation composition (right-to-left order)",
+      "source_label": "transformation composition (right-to-left order)"
+    },
+    "transformation from 2d to 1d": {
+      "alias_source_keys": [
+        "linear transformation from r^2 to r"
+      ],
+      "canonical_key": "transformation from 2d to 1d",
+      "canonical_label": "transformation from 2D to 1D",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128"
+      ],
+      "rationale": "This is a dimension-changing linear map from 2D to 1D.",
+      "source_key": "transformation from 2d to 1d",
+      "source_label": "transformation from 2D to 1D"
+    },
+    "transformation from r^3 to r as a dot product with a dual vector": {
+      "alias_source_keys": [],
+      "canonical_key": "transformation from r^3 to r as a dot product with a dual vector",
+      "canonical_label": "transformation from R^3 to R as a dot product with a dual vector",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-non-square-matrices-64ba8128",
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "A map from R^3 to R is a non-square linear transformation and here is expressed via a dot product.",
+      "source_key": "transformation from r^3 to r as a dot product with a dual vector",
+      "source_label": "transformation from R^3 to R as a dot product with a dual vector"
+    },
+    "transformation-based intuition vs rote computation": {
+      "alias_source_keys": [],
+      "canonical_key": "transformation-based intuition vs rote computation",
+      "canonical_label": "transformation-based intuition vs rote computation",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "The contrast is about understanding multiplication as transformation composition rather than rote arithmetic.",
+      "source_key": "transformation-based intuition vs rote computation",
+      "source_label": "transformation-based intuition vs rote computation"
+    },
+    "transforming between languages of coordinates": {
+      "alias_source_keys": [],
+      "canonical_key": "transforming between languages of coordinates",
+      "canonical_label": "transforming between languages of coordinates",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "It explicitly concerns translating vectors between coordinate systems.",
+      "source_key": "transforming between languages of coordinates",
+      "source_label": "transforming between languages of coordinates"
+    },
+    "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))": {
+      "alias_source_keys": [],
+      "canonical_key": "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))",
+      "canonical_label": "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-change-of-basis-52d05949"
+      ],
+      "rationale": "The example coordinates and basis translation are direct change-of-basis content.",
+      "source_key": "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))",
+      "source_label": "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))"
+    },
+    "two vectors in 2d": {
+      "alias_source_keys": [],
+      "canonical_key": "two vectors in 2d",
+      "canonical_label": "two vectors in 2D",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "Two vectors in 2D naturally leads to span, linear combinations, and basis ideas.",
+      "source_key": "two vectors in 2d",
+      "source_label": "two vectors in 2D"
+    },
+    "two- and three-variable systems (2x2, 3x3)": {
+      "alias_source_keys": [],
+      "canonical_key": "two- and three-variable systems (2x2, 3x3)",
+      "canonical_label": "Two- and three-variable systems (2x2, 3x3)",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Systems of equations and their solvability are central to inverse-matrix and null-space topics.",
+      "source_key": "two- and three-variable systems (2x2, 3x3)",
+      "source_label": "Two- and three-variable systems (2x2, 3x3)"
+    },
+    "unit square to rectangle under a matrix": {
+      "alias_source_keys": [],
+      "canonical_key": "unit square to rectangle under a matrix",
+      "canonical_label": "Unit square to rectangle under a matrix",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "Area scaling of the unit square under a matrix is a determinant interpretation.",
+      "source_key": "unit square to rectangle under a matrix",
+      "source_label": "Unit square to rectangle under a matrix"
+    },
+    "unit square transforming to a parallelogram": {
+      "alias_source_keys": [
+        "shear transformation and parallelogram area"
+      ],
+      "canonical_key": "unit square transforming to a parallelogram",
+      "canonical_label": "Unit square transforming to a parallelogram",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f"
+      ],
+      "rationale": "A parallelogram image and shear are standard determinant-and-area visuals.",
+      "source_key": "unit square transforming to a parallelogram",
+      "source_label": "Unit square transforming to a parallelogram"
+    },
+    "upcoming topics: span, bases, linear dependence": {
+      "alias_source_keys": [],
+      "canonical_key": "upcoming topics: span, bases, linear dependence",
+      "canonical_label": "upcoming topics: span, bases, linear dependence",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "Span, bases, and linear dependence are exactly the named upcoming topics.",
+      "source_key": "upcoming topics: span, bases, linear dependence",
+      "source_label": "upcoming topics: span, bases, linear dependence"
+    },
+    "v as the right-hand side vector": {
+      "alias_source_keys": [],
+      "canonical_key": "v as the right-hand side vector",
+      "canonical_label": "V as the right-hand side vector",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "The right-hand side vector is part of the Ax = V solvability setup.",
+      "source_key": "v as the right-hand side vector",
+      "source_label": "V as the right-hand side vector"
+    },
+    "vector": {
+      "alias_source_keys": [
+        "vectors"
+      ],
+      "canonical_key": "vector",
+      "canonical_label": "vector",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-vectors-29a6a5e3",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "The topic is simply the basic notion of a vector.",
+      "source_key": "vector",
+      "source_label": "vector"
+    },
+    "vector as [x, y]": {
+      "alias_source_keys": [],
+      "canonical_key": "vector as [x, y]",
+      "canonical_label": "vector as [x, y]",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Writing a vector as [x, y] is a standard vector representation.",
+      "source_key": "vector as [x, y]",
+      "source_label": "vector as [x, y]"
+    },
+    "vector decomposition with respect to a basis": {
+      "alias_source_keys": [],
+      "canonical_key": "vector decomposition with respect to a basis",
+      "canonical_label": "vector decomposition with respect to a basis",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-basis-and-span-784bcbc5"
+      ],
+      "rationale": "Decomposing a vector relative to a basis is a basis-and-span idea.",
+      "source_key": "vector decomposition with respect to a basis",
+      "source_label": "vector decomposition with respect to a basis"
+    },
+    "vector spaces": {
+      "alias_source_keys": [
+        "axioms of vector spaces"
+      ],
+      "canonical_key": "vector spaces",
+      "canonical_label": "vector spaces",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "Vector spaces here are discussed in the broader abstract sense, including polynomials and functions.",
+      "source_key": "vector spaces",
+      "source_label": "vector spaces"
+    },
+    "vectors": {
+      "alias_source_keys": [
+        "vector spaces"
+      ],
+      "canonical_key": "vector",
+      "canonical_label": "vector",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-vectors-29a6a5e3",
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "The chapter frames vectors broadly, including function-like objects and vector-space structure.",
+      "source_key": "vectors",
+      "source_label": "vectors"
+    },
+    "vectors as arrows": {
+      "alias_source_keys": [],
+      "canonical_key": "vectors as arrows",
+      "canonical_label": "vectors as arrows",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-abstract-vector-spaces-b9447b4e"
+      ],
+      "rationale": "This is about the arrow picture of vectors within a broader abstract-vector-space discussion.",
+      "source_key": "vectors as arrows",
+      "source_label": "vectors as arrows"
+    },
+    "vectors as lists of numbers": {
+      "alias_source_keys": [
+        "lists of numbers"
+      ],
+      "canonical_key": "vectors as lists of numbers",
+      "canonical_label": "vectors as lists of numbers",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "Vectors as lists of numbers is a common representation of vectors.",
+      "source_key": "vectors as lists of numbers",
+      "source_label": "vectors as lists of numbers"
+    },
+    "vectors as transformations": {
+      "alias_source_keys": [
+        "linear transformation",
+        "matrix as linear transformation"
+      ],
+      "canonical_key": "vectors as transformations",
+      "canonical_label": "vectors as transformations",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "This uses the transformation view of vectors, especially via matrices and linear maps.",
+      "source_key": "vectors as transformations",
+      "source_label": "vectors as transformations"
+    },
+    "visual interpretation of duality": {
+      "alias_source_keys": [
+        "geometric interpretation of the dual vector",
+        "visual interpretation: vectors as arrows vs points"
+      ],
+      "canonical_key": "visual interpretation of duality",
+      "canonical_label": "visual interpretation of duality",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-dot-products-and-projection-1cd6f512"
+      ],
+      "rationale": "The duality discussion is visual and tied to geometric interpretation of vectors and dual vectors.",
+      "source_key": "visual interpretation of duality",
+      "source_label": "visual interpretation of duality"
+    },
+    "visual interpretation: vectors as arrows vs points": {
+      "alias_source_keys": [],
+      "canonical_key": "visual interpretation: vectors as arrows vs points",
+      "canonical_label": "visual interpretation: vectors as arrows vs points",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-vectors-29a6a5e3"
+      ],
+      "rationale": "It contrasts two common visual interpretations of vectors.",
+      "source_key": "visual interpretation: vectors as arrows vs points",
+      "source_label": "visual interpretation: vectors as arrows vs points"
+    },
+    "visual intuition in linear algebra": {
+      "alias_source_keys": [],
+      "canonical_key": "visual intuition in linear algebra",
+      "canonical_label": "visual intuition in linear algebra",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-matrix-multiplication-47018079"
+      ],
+      "rationale": "The chapter context is matrix multiplication, though the label emphasizes intuition.",
+      "source_key": "visual intuition in linear algebra",
+      "source_label": "visual intuition in linear algebra"
+    },
+    "visualization of 3d grids under transformation": {
+      "alias_source_keys": [
+        "grid visualization of transformations"
+      ],
+      "canonical_key": "visualization of 3d grids under transformation",
+      "canonical_label": "visualization of 3D grids under transformation",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-higher-dimensional-geometry-69066f61",
+        "family-linear-transformations-fe92792d"
+      ],
+      "rationale": "Visualizing 3D grids under a transformation combines 3D geometry with linear maps.",
+      "source_key": "visualization of 3d grids under transformation",
+      "source_label": "visualization of 3D grids under transformation"
+    },
+    "visualizing grids vs. intrinsic space": {
+      "alias_source_keys": [],
+      "canonical_key": "visualizing grids vs. intrinsic space",
+      "canonical_label": "visualizing grids vs. intrinsic space",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-change-of-basis-52d05949",
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "It compares the displayed grid to intrinsic space, which is a coordinate-system and basis issue.",
+      "source_key": "visualizing grids vs. intrinsic space",
+      "source_label": "visualizing grids vs. intrinsic space"
+    },
+    "when solutions exist without an inverse": {
+      "alias_source_keys": [],
+      "canonical_key": "when solutions exist without an inverse",
+      "canonical_label": "When solutions exist without an inverse",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "This is about solvability when a matrix is not invertible.",
+      "source_key": "when solutions exist without an inverse",
+      "source_label": "When solutions exist without an inverse"
+    },
+    "x as the variable vector": {
+      "alias_source_keys": [
+        "v as the right-hand side vector"
+      ],
+      "canonical_key": "x as the variable vector",
+      "canonical_label": "X as the variable vector",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "X as the variable vector is part of the linear-system setup Ax = V.",
+      "source_key": "x as the variable vector",
+      "source_label": "X as the variable vector"
+    },
+    "x-axis": {
+      "alias_source_keys": [],
+      "canonical_key": "x-axis",
+      "canonical_label": "x-axis",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "An axis is a fundamental coordinate-system component.",
+      "source_key": "x-axis",
+      "source_label": "x-axis"
+    },
+    "y-axis": {
+      "alias_source_keys": [],
+      "canonical_key": "y-axis",
+      "canonical_label": "y-axis",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "An axis is a fundamental coordinate-system component.",
+      "source_key": "y-axis",
+      "source_label": "y-axis"
+    },
+    "z-axis": {
+      "alias_source_keys": [],
+      "canonical_key": "z-axis",
+      "canonical_label": "z-axis",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-coordinate-systems-f1311792"
+      ],
+      "rationale": "An axis is a fundamental coordinate-system component.",
+      "source_key": "z-axis",
+      "source_label": "z-axis"
+    },
+    "zero determinant and noninvertible cases": {
+      "alias_source_keys": [
+        "determinant and invertibility"
+      ],
+      "canonical_key": "zero determinant and noninvertible cases",
+      "canonical_label": "Zero determinant and noninvertible cases",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-determinants-and-orientation-17f1ff1f",
+        "family-inverse-and-solvability-cdfd8faa"
+      ],
+      "rationale": "Zero determinant identifies noninvertible matrices and is tied to invertibility tests.",
+      "source_key": "zero determinant and noninvertible cases",
+      "source_label": "Zero determinant and noninvertible cases"
+    },
+    "λ = m ± sqrt(m^2 − p)": {
+      "alias_source_keys": [],
+      "canonical_key": "λ = m ± sqrt(m^2 − p)",
+      "canonical_label": "λ = m ± sqrt(m^2 − p)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-eigenvalues-and-eigenvectors-c0fe6bdc"
+      ],
+      "rationale": "This is the 2x2 eigenvalue shortcut formula from trace and determinant.",
+      "source_key": "λ = m ± sqrt(m^2 − p)",
+      "source_label": "λ = m ± sqrt(m^2 − p)"
+    }
+  },
+  "collection_id": "essence-of-linear-algebra",
+  "created_at": "2026-08-28T06:31:15.750138+00:00",
+  "display_label_prompt_version": 1,
+  "display_labels": {
+    "(a − λi)v = 0": "Eigenvector Equation",
+    "1x2 matrix representation": "1x2 Matrix Representation",
+    "1x3 matrix representation of a linear map to the real line": "1x3 Matrix Representation",
+    "2d example matrix [[3,1],[0,2]]": "2D Eigenvalue Example",
+    "2d space": "2D Space",
+    "2x2 determinant formula ad − bc": "2x2 Determinant Formula",
+    "2x2 determinant with v and w as columns": "Cross Product Determinant",
+    "2x2 matrices": "2x2 Matrices",
+    "2×3 matrix (3d → 2d mapping)": "2x3 Matrix Mapping",
+    "3d cross product": "3D Cross Product",
+    "3d determinant trick using i_hat, j_hat, k_hat in the first column": "3D Determinant Trick",
+    "3d linear transformations": "3D Linear Transformations",
+    "3d space": "3D Space",
+    "3x3 determinant as volume scaling (unit cube to parallelepiped)": "3x3 Volume Scaling",
+    "3x3 transformation matrices": "3x3 Transformation Matrices",
+    "a as a linear transformation": "Linear Transformation A",
+    "a capella science mnemonic": "A Capella Mnemonic",
+    "a^{-1} m a triple matrix form": "Change of Basis Form",
+    "a^{-1}a = i and the identity transformation": "Identity Transformation",
+    "abstraction in linear algebra": "Linear Algebra Abstraction",
+    "additivity": "Additivity and Scaling",
+    "applications in computer graphics": "Computer Graphics Applications",
+    "applications in robotics": "Robotics Applications",
+    "applications: computer graphics and robotics": "Graphics and Robotics",
+    "applying a 3x3 matrix to a 3d vector": "Applying 3x3 Matrix",
+    "area scaling under linear transformations": "Area Scaling",
+    "arrows in space": "Arrows in Space",
+    "associativity of matrix multiplication": "Matrix Associativity",
+    "av = λv": "Eigenvalue Equation",
+    "ax = v as a linear transformation": "Ax Equals V",
+    "axioms of vector spaces": "Vector Space Axioms",
+    "axis of rotation": "Axis of Rotation",
+    "basis": "Basis and Span",
+    "basis definition": "Basis Definition",
+    "basis of a coordinate system": "Coordinate Basis",
+    "basis vectors": "Basis Vectors",
+    "basis vectors i-hat and j-hat": "I Hat and J Hat",
+    "basis vectors: i-hat, j-hat, k-hat": "I J K Basis",
+    "basis {1, x, x^2, ...}": "Polynomial Basis",
+    "basis-dependent matrices": "Basis Dependent Matrices"
+  },
+  "families": {
+    "family-abstract-vector-spaces-b9447b4e": {
+      "canonical_key": "abstract vector spaces",
+      "description": "Broader vector-space ideas such as polynomials, functions as vectors, operators, and infinite-dimensional spaces.",
+      "family_id": "family-abstract-vector-spaces-b9447b4e",
+      "label": "Abstract Vector Spaces"
+    },
+    "family-basis-and-span-784bcbc5": {
+      "canonical_key": "basis and span",
+      "description": "Core ideas about basis vectors, linear combinations, span, dependence, and independence.",
+      "family_id": "family-basis-and-span-784bcbc5",
+      "label": "Basis And Span"
+    },
+    "family-change-of-basis-52d05949": {
+      "canonical_key": "change of basis",
+      "description": "How to translate vectors and transformations between coordinate systems using change-of-basis matrices.",
+      "family_id": "family-change-of-basis-52d05949",
+      "label": "Change Of Basis"
+    },
+    "family-coordinate-systems-f1311792": {
+      "canonical_key": "coordinate systems",
+      "description": "Topics about coordinates, axes, origins, and how vector descriptions depend on a chosen basis.",
+      "family_id": "family-coordinate-systems-f1311792",
+      "label": "Coordinate Systems"
+    },
+    "family-cross-products-2c7beda3": {
+      "canonical_key": "cross products",
+      "description": "Geometric and determinant-based treatments of the cross product in 2D and 3D, including direction and area.",
+      "family_id": "family-cross-products-2c7beda3",
+      "label": "Cross Products"
+    },
+    "family-determinants-and-orientation-17f1ff1f": {
+      "canonical_key": "determinants and orientation",
+      "description": "Determinants as area and volume scaling factors, including sign, invertibility, and orientation.",
+      "family_id": "family-determinants-and-orientation-17f1ff1f",
+      "label": "Determinants And Orientation"
+    },
+    "family-dot-products-and-projection-1cd6f512": {
+      "canonical_key": "dot products and projection",
+      "description": "Material on dot products, orthogonality, projections, and their connection to linear transformations.",
+      "family_id": "family-dot-products-and-projection-1cd6f512",
+      "label": "Dot Products And Projection"
+    },
+    "family-eigenvalues-and-eigenvectors-c0fe6bdc": {
+      "canonical_key": "eigenvalues and eigenvectors",
+      "description": "Topics on invariant directions, eigenvalues, eigenvectors, diagonalization, and related shortcuts for 2x2 matrices.",
+      "family_id": "family-eigenvalues-and-eigenvectors-c0fe6bdc",
+      "label": "Eigenvalues And Eigenvectors"
+    },
+    "family-higher-dimensional-geometry-69066f61": {
+      "canonical_key": "higher-dimensional geometry",
+      "description": "Three-dimensional vectors, transformations, grids, and volume-based intuition extended beyond the plane.",
+      "family_id": "family-higher-dimensional-geometry-69066f61",
+      "label": "Higher-Dimensional Geometry"
+    },
+    "family-inverse-and-solvability-cdfd8faa": {
+      "canonical_key": "inverse and solvability",
+      "description": "Solving linear systems with inverses, understanding column space and null space, and knowing when solutions exist.",
+      "family_id": "family-inverse-and-solvability-cdfd8faa",
+      "label": "Inverse And Solvability"
+    },
+    "family-linear-transformations-fe92792d": {
+      "canonical_key": "linear transformations",
+      "description": "Geometric and algebraic views of linear maps in two and three dimensions, including how they act on basis vectors.",
+      "family_id": "family-linear-transformations-fe92792d",
+      "label": "Linear Transformations"
+    },
+    "family-matrix-multiplication-47018079": {
+      "canonical_key": "matrix multiplication",
+      "description": "Interpretations of matrix products as composition, including order, associativity, and column-by-column computation.",
+      "family_id": "family-matrix-multiplication-47018079",
+      "label": "Matrix Multiplication"
+    },
+    "family-matrix-representation-f20d8895": {
+      "canonical_key": "matrix representation",
+      "description": "How matrices encode linear transformations, including reading columns, constructing maps, and applying matrices to vectors.",
+      "family_id": "family-matrix-representation-f20d8895",
+      "label": "Matrix Representation"
+    },
+    "family-non-square-matrices-64ba8128": {
+      "canonical_key": "non-square matrices",
+      "description": "Dimension-changing linear maps between spaces of different sizes, including input and output space interpretations.",
+      "family_id": "family-non-square-matrices-64ba8128",
+      "label": "Non-Square Matrices"
+    },
+    "family-vectors-29a6a5e3": {
+      "canonical_key": "vectors",
+      "description": "Introductory ideas about what vectors are, how they are represented, and how addition and scaling work.",
+      "family_id": "family-vectors-29a6a5e3",
+      "label": "Vectors"
+    }
+  },
+  "model": "gpt-5.4-mini",
+  "prompt_version": 2,
+  "related": {},
+  "schema_version": 1,
+  "source_hash": "b4178c9cb218e242fd401759b15ba90805170dec5930c676bc406e0598fd15ae",
+  "status": "labeling",
+  "updated_at": "2026-08-28T06:32:34.553606+00:00"
+}

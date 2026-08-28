@@ -1,0 +1,357 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "Essence of linear algebra",
+    "collection_id": "essence-of-linear-algebra",
+    "description": "A Watchcraft collection generated from the Essence of linear algebra YouTube playlist.",
+    "source": {
+      "type": "youtube-playlist",
+      "playlist_id": "PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+      "excluded_video_ids": [],
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown"
+    },
+    "publisher": "3Blue1Brown"
+  },
+  "sources": {
+    "fNk_zzaMoSs.youtube": {
+      "source_id": "youtube:fNk_zzaMoSs",
+      "type": "youtube",
+      "video_id": "fNk_zzaMoSs",
+      "url": "https://www.youtube.com/watch?v=fNk_zzaMoSs",
+      "title": "Vectors | Chapter 1, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/fNk_zzaMoSs/hqdefault.jpg",
+      "duration_seconds": 591,
+      "published_at": "2016-08-05T17:05:49-07:00",
+      "chapters": [],
+      "position": 1,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "k7RM-ot2NWY.youtube": {
+      "source_id": "youtube:k7RM-ot2NWY",
+      "type": "youtube",
+      "video_id": "k7RM-ot2NWY",
+      "url": "https://www.youtube.com/watch?v=k7RM-ot2NWY",
+      "title": "Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/k7RM-ot2NWY/hqdefault.jpg",
+      "duration_seconds": 599,
+      "published_at": "2016-08-06T16:49:28-07:00",
+      "chapters": [],
+      "position": 2,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "kYB8IZa5AuE.youtube": {
+      "source_id": "youtube:kYB8IZa5AuE",
+      "type": "youtube",
+      "video_id": "kYB8IZa5AuE",
+      "url": "https://www.youtube.com/watch?v=kYB8IZa5AuE",
+      "title": "Linear transformations and matrices | Chapter 3, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/kYB8IZa5AuE/hqdefault.jpg",
+      "duration_seconds": 658,
+      "published_at": "2016-08-07T14:39:19-07:00",
+      "chapters": [],
+      "position": 3,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "XkY2DOUCWMU.youtube": {
+      "source_id": "youtube:XkY2DOUCWMU",
+      "type": "youtube",
+      "video_id": "XkY2DOUCWMU",
+      "url": "https://www.youtube.com/watch?v=XkY2DOUCWMU",
+      "title": "Matrix multiplication as composition | Chapter 4, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/XkY2DOUCWMU/hqdefault.jpg",
+      "duration_seconds": 603,
+      "published_at": "2016-08-08T15:20:43-07:00",
+      "chapters": [],
+      "position": 4,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "rHLEWRxRGiM.youtube": {
+      "source_id": "youtube:rHLEWRxRGiM",
+      "type": "youtube",
+      "video_id": "rHLEWRxRGiM",
+      "url": "https://www.youtube.com/watch?v=rHLEWRxRGiM",
+      "title": "Three-dimensional linear transformations | Chapter 5, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/rHLEWRxRGiM/hqdefault.jpg",
+      "duration_seconds": 286,
+      "published_at": "2016-08-09T15:01:39-07:00",
+      "chapters": [],
+      "position": 5,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "Ip3X9LOh2dk.youtube": {
+      "source_id": "youtube:Ip3X9LOh2dk",
+      "type": "youtube",
+      "video_id": "Ip3X9LOh2dk",
+      "url": "https://www.youtube.com/watch?v=Ip3X9LOh2dk",
+      "title": "The determinant | Chapter 6, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ip3X9LOh2dk/hqdefault.jpg",
+      "duration_seconds": 603,
+      "published_at": "2016-08-10T15:31:18-07:00",
+      "chapters": [],
+      "position": 6,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "uQhTuRlWMxw.youtube": {
+      "source_id": "youtube:uQhTuRlWMxw",
+      "type": "youtube",
+      "video_id": "uQhTuRlWMxw",
+      "url": "https://www.youtube.com/watch?v=uQhTuRlWMxw",
+      "title": "Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/uQhTuRlWMxw/hqdefault.jpg",
+      "duration_seconds": 728,
+      "published_at": "2016-08-15T15:00:22-07:00",
+      "chapters": [],
+      "position": 7,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "v8VSDg_WQlA.youtube": {
+      "source_id": "youtube:v8VSDg_WQlA",
+      "type": "youtube",
+      "video_id": "v8VSDg_WQlA",
+      "url": "https://www.youtube.com/watch?v=v8VSDg_WQlA",
+      "title": "Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/v8VSDg_WQlA/hqdefault.jpg",
+      "duration_seconds": 267,
+      "published_at": "2016-08-16T14:59:23-07:00",
+      "chapters": [],
+      "position": 8,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "LyGKycYT2v0.youtube": {
+      "source_id": "youtube:LyGKycYT2v0",
+      "type": "youtube",
+      "video_id": "LyGKycYT2v0",
+      "url": "https://www.youtube.com/watch?v=LyGKycYT2v0",
+      "title": "Dot products and duality | Chapter 9, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/LyGKycYT2v0/hqdefault.jpg",
+      "duration_seconds": 851,
+      "published_at": "2016-08-24T12:20:58-07:00",
+      "chapters": [],
+      "position": 9,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "eu6i7WJeinw.youtube": {
+      "source_id": "youtube:eu6i7WJeinw",
+      "type": "youtube",
+      "video_id": "eu6i7WJeinw",
+      "url": "https://www.youtube.com/watch?v=eu6i7WJeinw",
+      "title": "Cross products | Chapter 10, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/eu6i7WJeinw/hqdefault.jpg",
+      "duration_seconds": 533,
+      "published_at": "2016-08-31T20:54:15-07:00",
+      "chapters": [],
+      "position": 10,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "BaM7OCEm3G0.youtube": {
+      "source_id": "youtube:BaM7OCEm3G0",
+      "type": "youtube",
+      "video_id": "BaM7OCEm3G0",
+      "url": "https://www.youtube.com/watch?v=BaM7OCEm3G0",
+      "title": "Cross products in the light of linear transformations | Chapter 11, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/BaM7OCEm3G0/hqdefault.jpg",
+      "duration_seconds": 790,
+      "published_at": "2016-08-31T20:54:15-07:00",
+      "chapters": [],
+      "position": 11,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "jBsC34PxzoM.youtube": {
+      "source_id": "youtube:jBsC34PxzoM",
+      "type": "youtube",
+      "video_id": "jBsC34PxzoM",
+      "url": "https://www.youtube.com/watch?v=jBsC34PxzoM",
+      "title": "Cramer's rule, explained geometrically | Chapter 12, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/jBsC34PxzoM/hqdefault.jpg",
+      "duration_seconds": 732,
+      "published_at": "2019-03-16T21:35:22-07:00",
+      "chapters": [],
+      "position": 12,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "P2LTAUO1TdA.youtube": {
+      "source_id": "youtube:P2LTAUO1TdA",
+      "type": "youtube",
+      "video_id": "P2LTAUO1TdA",
+      "url": "https://www.youtube.com/watch?v=P2LTAUO1TdA",
+      "title": "Change of basis | Chapter 13, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/P2LTAUO1TdA/hqdefault.jpg",
+      "duration_seconds": 770,
+      "published_at": "2016-09-11T10:56:20-07:00",
+      "chapters": [],
+      "position": 13,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "PFDu9oVAE-g.youtube": {
+      "source_id": "youtube:PFDu9oVAE-g",
+      "type": "youtube",
+      "video_id": "PFDu9oVAE-g",
+      "url": "https://www.youtube.com/watch?v=PFDu9oVAE-g",
+      "title": "Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/PFDu9oVAE-g/hqdefault.jpg",
+      "duration_seconds": 1035,
+      "published_at": "2016-09-15T11:22:14-07:00",
+      "chapters": [],
+      "position": 14,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "e50Bj7jn9IQ.youtube": {
+      "source_id": "youtube:e50Bj7jn9IQ",
+      "type": "youtube",
+      "video_id": "e50Bj7jn9IQ",
+      "url": "https://www.youtube.com/watch?v=e50Bj7jn9IQ",
+      "title": "A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/e50Bj7jn9IQ/hqdefault.jpg",
+      "duration_seconds": 792,
+      "published_at": "2021-05-07T14:39:22-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "- Background"
+        },
+        {
+          "start_seconds": 293,
+          "title": "- Examples"
+        },
+        {
+          "start_seconds": 624,
+          "title": "- Relation to the characteristic polynomial"
+        },
+        {
+          "start_seconds": 720,
+          "title": "- Last thoughts"
+        }
+      ],
+      "position": 15,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "TgKwz5Ikpc8.youtube": {
+      "source_id": "youtube:TgKwz5Ikpc8",
+      "type": "youtube",
+      "video_id": "TgKwz5Ikpc8",
+      "url": "https://www.youtube.com/watch?v=TgKwz5Ikpc8",
+      "title": "Abstract vector spaces | Chapter 16, Essence of linear algebra",
+      "publisher": "3Blue1Brown",
+      "publisher_url": "https://www.youtube.com/@3blue1brown",
+      "thumbnail_url": "https://i.ytimg.com/vi/TgKwz5Ikpc8/hqdefault.jpg",
+      "duration_seconds": 1006,
+      "published_at": "2016-09-24T12:29:09-07:00",
+      "chapters": [],
+      "position": 16,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    }
+  }
+}

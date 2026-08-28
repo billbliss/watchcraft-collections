@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "video": "jBsC34PxzoM.youtube",
+  "title": "Geometric derivation of Cramer's rule (2x2 and beyond) | Essence of Linear Algebra, Chapter 12",
+  "date": {
+    "display": "March 16, 2019",
+    "iso": "2019-03-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "3Blue1Brown presents a geometric take on solving linear systems with two unknowns using Cramer’s rule. Framing the problem as a matrix transforming an input vector to a known output, the lecture explores how determinants encode area (and, in 3D, volume) scaling under a linear transformation. The video walks through the idea that coordinates can be recovered from areas associated with parallelograms (and parallelepipeds in higher dimensions), and shows how replacing columns in the coefficient matrix yields the determinants used to compute each coordinate. It emphasizes that Cramer’s rule is not the fastest computational method (Gaussian elimination is typically quicker) but serves as a deep, visual intuition linking determinants, dot products, and linear systems, with a concrete 2×2 numeric example and a nod toward higher dimensions.)",
+  "topics": [
+    "Cramer’s rule",
+    "Determinants",
+    "Matrix as linear transformation",
+    "Basis vectors i-hat and j-hat",
+    "Parallelogram area representing coordinates (2D)",
+    "Parallelepiped volume representing coordinates (3D)",
+    "Determinant as uniform area/volume scaling",
+    "Determinants with replaced columns (A_x, A_y)",
+    "Nonzero determinant implying invertibility",
+    "Higher-dimensional generalization (3x3, etc)",
+    "Orthogonality and dot product preservation in special cases",
+    "Gaussian elimination versus Cramer’s rule (conceptual vs computational)",
+    "Right-hand rule and determinant sign",
+    "Geometric intuition for linear systems",
+    "Consolidation of linear algebra concepts (determinant, dot product, linear systems)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:00",
+      "title": "Introduction and prerequisites",
+      "concepts": [
+        "linear systems",
+        "Cramer's rule",
+        "determinants",
+        "dot products",
+        "transformation viewpoint"
+      ],
+      "description": "Sets up the motivation for studying a constructive method to solve linear systems and previews the geometric viewpoint: a matrix acts on an input vector to produce a known output, with determinants and dot products underpinning the reasoning."
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:10:20",
+      "title": "Geometric view: matrix transformation and basis vectors",
+      "concepts": [
+        "input vector (x,y)",
+        "basis vectors i-hat, j-hat",
+        "transformed columns",
+        "transformation geometry"
+      ],
+      "description": "Explains how the matrix’s columns encode where the input basis vectors land under the transform and frames finding which input lands at a given output as a geometric puzzle."
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:10:47",
+      "title": "Determinants as area scaling and coordinate extraction",
+      "concepts": [
+        "parallelogram area",
+        "determinant as area scale",
+        "x/y coordinates via areas"
+      ],
+      "description": "Introduces the idea that coordinates can be interpreted as areas (parallelogram areas) and that the determinant governs how these areas scale under the transformation."
+    },
+    {
+      "start": "00:10:47",
+      "end": "00:11:47",
+      "title": "2x2 numeric example and 3D generalization",
+      "concepts": [
+        "2x2 determinant example",
+        "modified matrices for coordinates (A_x, A_y)",
+        "3x3 parallelepipeds",
+        "generalization to higher dimensions"
+      ],
+      "description": "Presents a concrete 2×2 calculation showing how replacing columns yields determinants used to recover x and y, then notes the analogous parallelepiped-volume reasoning that extends to higher dimensions."
+    },
+    {
+      "start": "00:11:47",
+      "end": "00:12:12",
+      "title": "Conclusion and learning takeaway",
+      "concepts": [
+        "invertibility with nonzero determinant",
+        "conceptual understanding vs computation",
+        "encouragement to generalize"
+      ],
+      "description": "Summarizes the takeaway: Cramer’s rule provides geometric insight tied to determinants; emphasizes conceptual learning and invites extending the idea to larger systems."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cramer's rule derivation via determinants with replaced columns (A_x and A_y)",
+      "timestamp": "00:10:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Determinant as a uniform area/volume scaling under a linear transformation",
+      "timestamp": "00:08:09",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Parallelogram/Parallelepiped coordinates interpretation of vector components",
+      "timestamp": "00:05:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dot product preservation in orthonormal transforms as a special case",
+      "timestamp": "00:04:45",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:20:05.961338+00:00"
+}

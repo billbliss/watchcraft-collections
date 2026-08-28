@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "video": "P2LTAUO1TdA.youtube",
+  "title": "Change of Basis in Linear Algebra: Translating Vectors Between Coordinate Systems (Jennifer’s Basis)",
+  "date": {
+    "display": "September 11, 2016",
+    "iso": "2016-09-11",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "3Blue1Brown’s chapter on Change of Basis explains how vectors and coordinates depend on the chosen basis. The video introduces standard basis vectors i-hat and j-hat, then presents Jennifer’s alternate basis b1 = (2,1) and b2 = (-1,1). It shows how a vector described in our coordinates (3,2) can be expressed in Jennifer’s coordinates as (5/3, 1/3) by forming the change-of-basis matrix from Jennifer’s basis and applying it to the vector. The inverse matrix translates in the opposite direction, enabling us to convert (3,2) to Jennifer’s language with coordinates (5/3, 1/3). The talk then connects these ideas to matrix-vector multiplication, viewing a matrix whose columns are Jennifer’s basis vectors as a transformation that maps our standard basis to Jennifer’s. It demonstrates how to rotate space (90-degree CCW) and how to compute the corresponding transformation in Jennifer’s language via A^{-1} M A, illustrating the idea of “empathy” between coordinate systems. The section concludes by tying these constructions to the general utility of changing basis and hints at eigenvectors and eigenvalues in a subsequent video. ",
+  "topics": [
+    "basis vectors",
+    "i-hat and j-hat",
+    "coordinate systems",
+    "Jennifer’s basis b1=(2,1) and b2=(-1,1)",
+    "change-of-basis matrix (columns as basis vectors)",
+    "inverse change-of-basis matrix",
+    "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))",
+    "matrix-vector multiplication as basis transformation",
+    "rotation by 90 degrees and its matrix in different bases",
+    "A^{-1} M A triple matrix form",
+    "empathy view of coordinate transformations",
+    "transforming between languages of coordinates",
+    "geometric vs. numeric descriptions of transformations",
+    "computational steps for higher dimensions (inverse used)",
+    "link to eigenvectors/eigenvalues in next video",
+    "visualizing grids vs. intrinsic space"
+  ],
+  "sections": [
+    {
+      "start": "00:00:12.760",
+      "end": "00:04:14.264",
+      "title": "Coordinate descriptions and basis vectors",
+      "concepts": [
+        "coordinates as scalars",
+        "i-hat and j-hat as basis vectors",
+        "linear combination of basis vectors",
+        "definition of a basis",
+        "origin and grid visualization",
+        "coordinate language vs. space"
+      ],
+      "description": "Introduces describing a 2D vector with (x,y) coordinates and explains the interpretation as scaling the basis vectors i-hat and j-hat. Sets up the idea that different coordinate systems use different basis vectors, and that the standard grid is a visualization choice tied to a specific basis."
+    },
+    {
+      "start": "00:04:14.264",
+      "end": "00:08:11.280",
+      "title": "Constructing and applying the change-of-basis matrix",
+      "concepts": [
+        "Jennifer’s basis b1=(2,1), b2=(-1,1)",
+        "coordinates of basis vectors in our system",
+        "change-of-basis matrix as columns",
+        "translating a vector from Jennifer’s language to ours",
+        "examples: (3,2) and (-1,2)",
+        "inverse change-of-basis matrix",
+        "two-way translation between coordinate systems"
+      ],
+      "description": "Details how to move between coordinate systems by using a matrix whose columns are Jennifer’s basis vectors in our coordinates. Shows concrete computations: translating vectors between languages, and introduces the inverse matrix for the reverse translation."
+    },
+    {
+      "start": "00:08:11.280",
+      "end": "00:12:31.272",
+      "title": "Rotation in basis language and the empathy of coordinates",
+      "concepts": [
+        "rotation matrix (90 degrees CCW)",
+        "how basis choice affects matrix columns",
+        "A^{-1} M A construction for Jennifer’s language",
+        "three-matrix transformation (change, transform, inverse-change)",
+        "interpretation of the transformation in another language",
+        "empirical meaning: geometry vs. language of coordinates",
+        "link to eigenvectors/eigenvalues in future video"
+      ],
+      "description": "Explores applying a transformation (a 90-degree rotation) within Jennifer’s coordinate system by forming the corresponding matrix in her language via the triple product A^{-1} M A. Discusses the geometric vs. symbolic representations and introduces the analogy of ‘empathy’ between coordinate frames."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Matrix-vector multiplication interpreted as a change of basis using columns that are the new basis vectors (Jennifer’s basis)",
+      "timestamp": "00:05:39.680",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Using the inverse change-of-basis matrix to translate from our coordinates to Jennifer’s coordinates",
+      "timestamp": "00:07:18.120",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Computing Jennifer’s coordinates for a given vector by applying the inverse change-of-basis matrix (example: (3,2) → (5/3, 1/3))",
+      "timestamp": "00:08:16.685",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Constructing the rotation matrix in Jennifer’s language via A^{-1} M A",
+      "timestamp": "00:10:39.680",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Interpreting A^{-1} M A as the same transformation seen through a different coordinate language (empathy)",
+      "timestamp": "00:11:04.300",
+      "confidence": 0.84
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:23:53.931281+00:00"
+}

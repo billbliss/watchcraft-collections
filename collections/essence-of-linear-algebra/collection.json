@@ -1,0 +1,3913 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "essence-of-linear-algebra",
+  "title": "Essence of linear algebra",
+  "topic_scope": "collection",
+  "topic_normalization": null,
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "Essence of linear algebra",
+    "children": [
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-fnk-zzamoss-youtube-374f43f6"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-k7rm-ot2nwy-youtube-c8b32d77"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-kyb8iza5aue-youtube-fd84e09b"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-xky2doucwmu-youtube-74087d50"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-rhlewrxrgim-youtube-b369c349"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-ip3x9loh2dk-youtube-3f7d7b10"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-uqhturlwmxw-youtube-c4d38ff9"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-v8vsdg-wqla-youtube-45ed7575"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-lygkycyt2v0-youtube-befa1e69"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-eu6i7wjeinw-youtube-dd58d9c4"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-bam7ocem3g0-youtube-4ce12047"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-jbsc34pxzom-youtube-9611f371"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-p2ltauo1tda-youtube-6a9b84e6"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-pfdu9ovae-g-youtube-e57f7be4"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-e50bj7jn9iq-youtube-4ba282d7"
+      },
+      {
+        "type": "video",
+        "item_id": "video-essence-of-linear-algebra-tgkwz5ikpc8-youtube-0c8ecfd4"
+      }
+    ]
+  },
+  "topics": {
+    "topic-a-i-v-0-6f2d60f2": {
+      "topic_id": "topic-a-i-v-0-6f2d60f2",
+      "canonical_key": "(a − λi)v = 0",
+      "label": "(A − λI)v = 0",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-1x2-matrix-representation-3159a240": {
+      "topic_id": "topic-1x2-matrix-representation-3159a240",
+      "canonical_key": "1x2 matrix representation",
+      "label": "1x2 matrix representation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-1x3-matrix-representation-of-a-linear-map-to-the-3206c61a": {
+      "topic_id": "topic-1x3-matrix-representation-of-a-linear-map-to-the-3206c61a",
+      "canonical_key": "1x3 matrix representation of a linear map to the real line",
+      "label": "1x3 matrix representation of a linear map to the real line",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-2d-example-matrix-3-1-0-2-5250fe82": {
+      "topic_id": "topic-2d-example-matrix-3-1-0-2-5250fe82",
+      "canonical_key": "2d example matrix [[3,1],[0,2]]",
+      "label": "2D example matrix [[3,1],[0,2]]",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-2d-space-253a5e4d": {
+      "topic_id": "topic-2d-space-253a5e4d",
+      "canonical_key": "2d space",
+      "label": "2D space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-2x2-determinant-formula-ad-bc-1a8ddb07": {
+      "topic_id": "topic-2x2-determinant-formula-ad-bc-1a8ddb07",
+      "canonical_key": "2x2 determinant formula ad − bc",
+      "label": "2x2 determinant formula ad − bc",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-2x2-determinant-with-v-and-w-as-columns-50d6c00b": {
+      "topic_id": "topic-2x2-determinant-with-v-and-w-as-columns-50d6c00b",
+      "canonical_key": "2x2 determinant with v and w as columns",
+      "label": "2x2 determinant with V and W as columns",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-2x2-matrices-4d5bd193": {
+      "topic_id": "topic-2x2-matrices-4d5bd193",
+      "canonical_key": "2x2 matrices",
+      "label": "2x2 matrices",
+      "aliases": [],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-2-3-matrix-3d-2d-mapping-f035f81c": {
+      "topic_id": "topic-2-3-matrix-3d-2d-mapping-f035f81c",
+      "canonical_key": "2×3 matrix (3d → 2d mapping)",
+      "label": "2×3 matrix (3D → 2D mapping)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3d-cross-product-86af122e": {
+      "topic_id": "topic-3d-cross-product-86af122e",
+      "canonical_key": "3d cross product",
+      "label": "3D cross product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3d-determinant-trick-using-i-hat-j-hat-k-hat-in--2f500bc3": {
+      "topic_id": "topic-3d-determinant-trick-using-i-hat-j-hat-k-hat-in--2f500bc3",
+      "canonical_key": "3d determinant trick using i_hat, j_hat, k_hat in the first column",
+      "label": "3D determinant trick using I_hat, J_hat, K_hat in the first column",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3d-linear-transformations-b6d199e8": {
+      "topic_id": "topic-3d-linear-transformations-b6d199e8",
+      "canonical_key": "3d linear transformations",
+      "label": "3D linear transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3d-space-dc1c3221": {
+      "topic_id": "topic-3d-space-dc1c3221",
+      "canonical_key": "3d space",
+      "label": "3D space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3x3-determinant-as-volume-scaling-unit-cube-to-p-52cfeb13": {
+      "topic_id": "topic-3x3-determinant-as-volume-scaling-unit-cube-to-p-52cfeb13",
+      "canonical_key": "3x3 determinant as volume scaling (unit cube to parallelepiped)",
+      "label": "3x3 determinant as volume scaling (unit cube to parallelepiped)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3x3-transformation-matrices-14141dc1": {
+      "topic_id": "topic-3x3-transformation-matrices-14141dc1",
+      "canonical_key": "3x3 transformation matrices",
+      "label": "3x3 transformation matrices",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-3-2-matrix-2d-3d-mapping-0a01e463": {
+      "topic_id": "topic-3-2-matrix-2d-3d-mapping-0a01e463",
+      "canonical_key": "3×2 matrix (2d → 3d mapping)",
+      "label": "3×2 matrix (2D → 3D mapping)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-a-as-a-linear-transformation-654d131e": {
+      "topic_id": "topic-a-as-a-linear-transformation-654d131e",
+      "canonical_key": "a as a linear transformation",
+      "label": "A as a linear transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-a-capella-science-mnemonic-b076ebdd": {
+      "topic_id": "topic-a-capella-science-mnemonic-b076ebdd",
+      "canonical_key": "a capella science mnemonic",
+      "label": "A Capella Science mnemonic",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-a-1-m-a-triple-matrix-form-468f9cb6": {
+      "topic_id": "topic-a-1-m-a-triple-matrix-form-468f9cb6",
+      "canonical_key": "a^{-1} m a triple matrix form",
+      "label": "A^{-1} M A triple matrix form",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-a-1-a-i-and-the-identity-transformation-be4937da": {
+      "topic_id": "topic-a-1-a-i-and-the-identity-transformation-be4937da",
+      "canonical_key": "a^{-1}a = i and the identity transformation",
+      "label": "A^{-1}A = I and the identity transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-abstraction-in-linear-algebra-f4511bc5": {
+      "topic_id": "topic-abstraction-in-linear-algebra-f4511bc5",
+      "canonical_key": "abstraction in linear algebra",
+      "label": "abstraction in linear algebra",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-additivity-eee90864": {
+      "topic_id": "topic-additivity-eee90864",
+      "canonical_key": "additivity",
+      "label": "additivity",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-applications-in-computer-graphics-d166dd81": {
+      "topic_id": "topic-applications-in-computer-graphics-d166dd81",
+      "canonical_key": "applications in computer graphics",
+      "label": "applications in computer graphics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-applications-in-robotics-065e64cd": {
+      "topic_id": "topic-applications-in-robotics-065e64cd",
+      "canonical_key": "applications in robotics",
+      "label": "applications in robotics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-applications-computer-graphics-and-robotics-d8894d72": {
+      "topic_id": "topic-applications-computer-graphics-and-robotics-d8894d72",
+      "canonical_key": "applications: computer graphics and robotics",
+      "label": "Applications: computer graphics and robotics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-applying-a-3x3-matrix-to-a-3d-vector-4f0d964b": {
+      "topic_id": "topic-applying-a-3x3-matrix-to-a-3d-vector-4f0d964b",
+      "canonical_key": "applying a 3x3 matrix to a 3d vector",
+      "label": "applying a 3x3 matrix to a 3D vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-area-scaling-under-linear-transformations-2aa217d9": {
+      "topic_id": "topic-area-scaling-under-linear-transformations-2aa217d9",
+      "canonical_key": "area scaling under linear transformations",
+      "label": "Area scaling under linear transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-arrows-in-space-b2f82413": {
+      "topic_id": "topic-arrows-in-space-b2f82413",
+      "canonical_key": "arrows in space",
+      "label": "arrows in space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-associativity-of-matrix-multiplication-1b9c545d": {
+      "topic_id": "topic-associativity-of-matrix-multiplication-1b9c545d",
+      "canonical_key": "associativity of matrix multiplication",
+      "label": "associativity of matrix multiplication",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-av-v-feebcdb9": {
+      "topic_id": "topic-av-v-feebcdb9",
+      "canonical_key": "av = λv",
+      "label": "Av = λv",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ax-v-as-a-linear-transformation-601d948d": {
+      "topic_id": "topic-ax-v-as-a-linear-transformation-601d948d",
+      "canonical_key": "ax = v as a linear transformation",
+      "label": "Ax = V as a linear transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-axioms-of-vector-spaces-d98f4feb": {
+      "topic_id": "topic-axioms-of-vector-spaces-d98f4feb",
+      "canonical_key": "axioms of vector spaces",
+      "label": "axioms of vector spaces",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-axis-of-rotation-b364fd29": {
+      "topic_id": "topic-axis-of-rotation-b364fd29",
+      "canonical_key": "axis of rotation",
+      "label": "axis of rotation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-a7a3c8f6": {
+      "topic_id": "topic-basis-a7a3c8f6",
+      "canonical_key": "basis",
+      "label": "basis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-definition-f60232d9": {
+      "topic_id": "topic-basis-definition-f60232d9",
+      "canonical_key": "basis definition",
+      "label": "basis definition",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-of-a-coordinate-system-249aac25": {
+      "topic_id": "topic-basis-of-a-coordinate-system-249aac25",
+      "canonical_key": "basis of a coordinate system",
+      "label": "basis of a coordinate system",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-vectors-c7b4cebf": {
+      "topic_id": "topic-basis-vectors-c7b4cebf",
+      "canonical_key": "basis vectors",
+      "label": "basis vectors",
+      "aliases": [],
+      "video_count": 3,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": {
+      "topic_id": "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+      "canonical_key": "basis vectors i-hat and j-hat",
+      "label": "basis vectors i-hat and j-hat",
+      "aliases": [
+        "Basis vectors i-hat and j-hat"
+      ],
+      "video_count": 3,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-vectors-i-hat-and-j-hat-e5b5a2d0": {
+      "topic_id": "topic-basis-vectors-i-hat-and-j-hat-e5b5a2d0",
+      "canonical_key": "basis vectors i_hat and j_hat",
+      "label": "Basis vectors I_hat and J_hat",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-vectors-i-hat-j-hat-k-hat-0c2c8111": {
+      "topic_id": "topic-basis-vectors-i-hat-j-hat-k-hat-0c2c8111",
+      "canonical_key": "basis vectors: i-hat, j-hat, k-hat",
+      "label": "basis vectors: i-hat, j-hat, k-hat",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-1-x-x-2-5081dcac": {
+      "topic_id": "topic-basis-1-x-x-2-5081dcac",
+      "canonical_key": "basis {1, x, x^2, ...}",
+      "label": "basis {1, x, x^2, ...}",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-basis-dependent-matrices-b5dfb18a": {
+      "topic_id": "topic-basis-dependent-matrices-b5dfb18a",
+      "canonical_key": "basis-dependent matrices",
+      "label": "basis-dependent matrices",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-change-of-basis-52d05949": {
+      "topic_id": "topic-change-of-basis-52d05949",
+      "canonical_key": "change of basis",
+      "label": "change of basis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-change-of-basis-groundwork-foreshadowed-8a55b81a": {
+      "topic_id": "topic-change-of-basis-groundwork-foreshadowed-8a55b81a",
+      "canonical_key": "change of basis groundwork (foreshadowed)",
+      "label": "change of basis groundwork (foreshadowed)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-change-of-basis-matrix-columns-as-basis-vectors-070705f6": {
+      "topic_id": "topic-change-of-basis-matrix-columns-as-basis-vectors-070705f6",
+      "canonical_key": "change-of-basis matrix (columns as basis vectors)",
+      "label": "change-of-basis matrix (columns as basis vectors)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-characteristic-equation-20cc6efc": {
+      "topic_id": "topic-characteristic-equation-20cc6efc",
+      "canonical_key": "characteristic equation",
+      "label": "characteristic equation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-characteristic-polynomial-70c1ed27": {
+      "topic_id": "topic-characteristic-polynomial-70c1ed27",
+      "canonical_key": "characteristic polynomial",
+      "label": "Characteristic polynomial",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-column-space-a33547e4": {
+      "topic_id": "topic-column-space-a33547e4",
+      "canonical_key": "column space",
+      "label": "column space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-column-space-and-rank-bed78e93": {
+      "topic_id": "topic-column-space-and-rank-bed78e93",
+      "canonical_key": "column space and rank",
+      "label": "Column space and rank",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-column-by-column-computation-7ba7f714": {
+      "topic_id": "topic-column-by-column-computation-7ba7f714",
+      "canonical_key": "column-by-column computation",
+      "label": "column-by-column computation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-columns-in-the-determinant-reflect-basis-vectors-3868109b": {
+      "topic_id": "topic-columns-in-the-determinant-reflect-basis-vectors-3868109b",
+      "canonical_key": "columns in the determinant reflect basis vectors",
+      "label": "Columns in the determinant reflect basis vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-columns-of-a-matrix-3d3cad1d": {
+      "topic_id": "topic-columns-of-a-matrix-3d3cad1d",
+      "canonical_key": "columns of a matrix",
+      "label": "columns of a matrix",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-columns-of-a-matrix-as-transformed-basis-vectors-21ae4e2f": {
+      "topic_id": "topic-columns-of-a-matrix-as-transformed-basis-vectors-21ae4e2f",
+      "canonical_key": "columns of a matrix as transformed basis vectors",
+      "label": "columns of a matrix as transformed basis vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-component-wise-addition-34b4a777": {
+      "topic_id": "topic-component-wise-addition-34b4a777",
+      "canonical_key": "component-wise addition",
+      "label": "component-wise addition",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-composition-of-linear-transformations-10b3a8c6": {
+      "topic_id": "topic-composition-of-linear-transformations-10b3a8c6",
+      "canonical_key": "composition of linear transformations",
+      "label": "composition of linear transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-computational-steps-for-higher-dimensions-invers-cd954241": {
+      "topic_id": "topic-computational-steps-for-higher-dimensions-invers-cd954241",
+      "canonical_key": "computational steps for higher dimensions (inverse used)",
+      "label": "computational steps for higher dimensions (inverse used)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-computer-science-perspective-86b1d25a": {
+      "topic_id": "topic-computer-science-perspective-86b1d25a",
+      "canonical_key": "computer science perspective",
+      "label": "computer science perspective",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-computing-composition-matrices-from-m1-and-m2-68d7b3ab": {
+      "topic_id": "topic-computing-composition-matrices-from-m1-and-m2-68d7b3ab",
+      "canonical_key": "computing composition matrices from m1 and m2",
+      "label": "computing composition matrices from M1 and M2",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-connection-to-duality-brief-mention-for-deeper-s-bb879d24": {
+      "topic_id": "topic-connection-to-duality-brief-mention-for-deeper-s-bb879d24",
+      "canonical_key": "connection to duality (brief mention for deeper study)",
+      "label": "Connection to duality (brief mention for deeper study)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-consolidation-of-linear-algebra-concepts-determi-7f1830c4": {
+      "topic_id": "topic-consolidation-of-linear-algebra-concepts-determi-7f1830c4",
+      "canonical_key": "consolidation of linear algebra concepts (determinant, dot product, linear systems)",
+      "label": "Consolidation of linear algebra concepts (determinant, dot product, linear systems)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-construction-of-a-3x3-matrix-from-basis-coordina-7ab4c9e8": {
+      "topic_id": "topic-construction-of-a-3x3-matrix-from-basis-coordina-7ab4c9e8",
+      "canonical_key": "construction of a 3x3 matrix from basis coordinates",
+      "label": "construction of a 3x3 matrix from basis coordinates",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-coordinate-system-4b417ae5": {
+      "topic_id": "topic-coordinate-system-4b417ae5",
+      "canonical_key": "coordinate system",
+      "label": "coordinate system",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-coordinate-systems-f1311792": {
+      "topic_id": "topic-coordinate-systems-f1311792",
+      "canonical_key": "coordinate systems",
+      "label": "coordinate systems",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-coordinate-wise-product-b4d8affa": {
+      "topic_id": "topic-coordinate-wise-product-b4d8affa",
+      "canonical_key": "coordinate-wise product",
+      "label": "coordinate-wise product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-coordinates-29abdbc9": {
+      "topic_id": "topic-coordinates-29abdbc9",
+      "canonical_key": "coordinates",
+      "label": "coordinates",
+      "aliases": [],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-coordinates-depend-on-basis-0f22b8fe": {
+      "topic_id": "topic-coordinates-depend-on-basis-0f22b8fe",
+      "canonical_key": "coordinates depend on basis",
+      "label": "coordinates depend on basis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cramer-s-rule-1eb38264": {
+      "topic_id": "topic-cramer-s-rule-1eb38264",
+      "canonical_key": "cramer’s rule",
+      "label": "Cramer’s rule",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cross-product-2d-as-signed-area-e5587862": {
+      "topic_id": "topic-cross-product-2d-as-signed-area-e5587862",
+      "canonical_key": "cross product (2d) as signed area",
+      "label": "Cross product (2D) as signed area",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cross-product-as-a-3d-vector-with-length-equal-t-5464d6a4": {
+      "topic_id": "topic-cross-product-as-a-3d-vector-with-length-equal-t-5464d6a4",
+      "canonical_key": "cross product as a 3d vector with length equal to parallelogram area",
+      "label": "Cross product as a 3D vector with length equal to parallelogram area",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cross-product-direction-and-right-hand-rule-6c3cfd2e": {
+      "topic_id": "topic-cross-product-direction-and-right-hand-rule-6c3cfd2e",
+      "canonical_key": "cross product direction and right-hand rule",
+      "label": "cross product direction and right-hand rule",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-cross-product-magnitude-equals-parallelogram-are-af0b88f2": {
+      "topic_id": "topic-cross-product-magnitude-equals-parallelogram-are-af0b88f2",
+      "canonical_key": "cross product magnitude equals parallelogram area",
+      "label": "cross product magnitude equals parallelogram area",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-data-visualization-0ce35f7d": {
+      "topic_id": "topic-data-visualization-0ce35f7d",
+      "canonical_key": "data visualization",
+      "label": "data visualization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-derivative-as-a-linear-operator-2e4ac7ca": {
+      "topic_id": "topic-derivative-as-a-linear-operator-2e4ac7ca",
+      "canonical_key": "derivative as a linear operator",
+      "label": "derivative as a linear operator",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-derivative-matrix-in-polynomial-basis-b0ea5f4f": {
+      "topic_id": "topic-derivative-matrix-in-polynomial-basis-b0ea5f4f",
+      "canonical_key": "derivative matrix in polynomial basis",
+      "label": "derivative matrix in polynomial basis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-det-a-i-0-5e94ac36": {
+      "topic_id": "topic-det-a-i-0-5e94ac36",
+      "canonical_key": "det(a − λi) = 0",
+      "label": "det(A − λI) = 0",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-and-invertibility-a003820c": {
+      "topic_id": "topic-determinant-and-invertibility-a003820c",
+      "canonical_key": "determinant and invertibility",
+      "label": "Determinant and invertibility",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-as-a-future-topic-4df44790": {
+      "topic_id": "topic-determinant-as-a-future-topic-4df44790",
+      "canonical_key": "determinant as a future topic",
+      "label": "determinant as a future topic",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-as-a-linear-function-of-x-y-z-e429de7f": {
+      "topic_id": "topic-determinant-as-a-linear-function-of-x-y-z-e429de7f",
+      "canonical_key": "determinant as a linear function of (x, y, z)",
+      "label": "determinant as a linear function of (x, y, z)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-as-area-scaling-under-transformation-6bf52b81": {
+      "topic_id": "topic-determinant-as-area-scaling-under-transformation-6bf52b81",
+      "canonical_key": "determinant as area scaling under transformation",
+      "label": "Determinant as area scaling under transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-as-uniform-area-volume-scaling-0099461b": {
+      "topic_id": "topic-determinant-as-uniform-area-volume-scaling-0099461b",
+      "canonical_key": "determinant as uniform area/volume scaling",
+      "label": "Determinant as uniform area/volume scaling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-concept-as-area-volume-scaling-bf1cd1aa": {
+      "topic_id": "topic-determinant-concept-as-area-volume-scaling-bf1cd1aa",
+      "canonical_key": "determinant concept as area/volume scaling",
+      "label": "Determinant concept as area/volume scaling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-method-for-cross-product-81014e47": {
+      "topic_id": "topic-determinant-method-for-cross-product-81014e47",
+      "canonical_key": "determinant method for cross product",
+      "label": "determinant method for cross product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-of-a-matrix-5d55986d": {
+      "topic_id": "topic-determinant-of-a-matrix-5d55986d",
+      "canonical_key": "determinant of a matrix",
+      "label": "Determinant of a matrix",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-of-product-property-det-ab-det-a-det-e7a8c1d0": {
+      "topic_id": "topic-determinant-of-product-property-det-ab-det-a-det-e7a8c1d0",
+      "canonical_key": "determinant of product property det(ab) = det(a)det(b)",
+      "label": "Determinant of product property det(AB) = det(A)det(B)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinant-zero-and-dimensional-collapse-a059bf98": {
+      "topic_id": "topic-determinant-zero-and-dimensional-collapse-a059bf98",
+      "canonical_key": "determinant zero and dimensional collapse",
+      "label": "Determinant zero and dimensional collapse",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinants-51aa69f0": {
+      "topic_id": "topic-determinants-51aa69f0",
+      "canonical_key": "determinants",
+      "label": "Determinants",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-determinants-with-replaced-columns-a-x-a-y-d02a75a5": {
+      "topic_id": "topic-determinants-with-replaced-columns-a-x-a-y-d02a75a5",
+      "canonical_key": "determinants with replaced columns (a_x, a_y)",
+      "label": "Determinants with replaced columns (A_x, A_y)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-diagonal-matrices-d35d697e": {
+      "topic_id": "topic-diagonal-matrices-d35d697e",
+      "canonical_key": "diagonal matrices",
+      "label": "Diagonal matrices",
+      "aliases": [
+        "diagonal matrices"
+      ],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-diagonalization-e709da0c": {
+      "topic_id": "topic-diagonalization-e709da0c",
+      "canonical_key": "diagonalization",
+      "label": "diagonalization",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-direction-of-cross-product-perpendicular-to-the--0bd15e3f": {
+      "topic_id": "topic-direction-of-cross-product-perpendicular-to-the--0bd15e3f",
+      "canonical_key": "direction of cross product perpendicular to the plane",
+      "label": "Direction of cross product perpendicular to the plane",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-dot-product-e01902fe": {
+      "topic_id": "topic-dot-product-e01902fe",
+      "canonical_key": "dot product",
+      "label": "dot product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-dot-product-as-a-projection-onto-a-unit-vector-b11ec13b": {
+      "topic_id": "topic-dot-product-as-a-projection-onto-a-unit-vector-b11ec13b",
+      "canonical_key": "dot product as a projection onto a unit vector",
+      "label": "dot product as a projection onto a unit vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-dot-product-relation-hinted-for-next-video-c0952368": {
+      "topic_id": "topic-dot-product-relation-hinted-for-next-video-c0952368",
+      "canonical_key": "dot product relation (hinted for next video)",
+      "label": "dot product relation (hinted for next video)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-dual-of-a-vector-vs-dual-of-a-transformation-7b07927e": {
+      "topic_id": "topic-dual-of-a-vector-vs-dual-of-a-transformation-7b07927e",
+      "canonical_key": "dual of a vector vs dual of a transformation",
+      "label": "dual of a vector vs dual of a transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-dual-vector-p-for-cross-product-8209e3b9": {
+      "topic_id": "topic-dual-vector-p-for-cross-product-8209e3b9",
+      "canonical_key": "dual vector p for cross product",
+      "label": "dual vector p for cross product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-duality-in-linear-algebra-5c56b5a3": {
+      "topic_id": "topic-duality-in-linear-algebra-5c56b5a3",
+      "canonical_key": "duality in linear algebra",
+      "label": "duality in linear algebra",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-duality-in-linear-transformations-296003e0": {
+      "topic_id": "topic-duality-in-linear-transformations-296003e0",
+      "canonical_key": "duality in linear transformations",
+      "label": "duality in linear transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-eigenbasis-967c37eb": {
+      "topic_id": "topic-eigenbasis-967c37eb",
+      "canonical_key": "eigenbasis",
+      "label": "eigenbasis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-eigenfunctions-eigenvectors-00215f46": {
+      "topic_id": "topic-eigenfunctions-eigenvectors-00215f46",
+      "canonical_key": "eigenfunctions / eigenvectors",
+      "label": "eigenfunctions / eigenvectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-eigenvalues-288cf526": {
+      "topic_id": "topic-eigenvalues-288cf526",
+      "canonical_key": "eigenvalues",
+      "label": "Eigenvalues",
+      "aliases": [
+        "eigenvalues"
+      ],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-eigenvectors-cef34519": {
+      "topic_id": "topic-eigenvectors-cef34519",
+      "canonical_key": "eigenvectors",
+      "label": "Eigenvectors",
+      "aliases": [
+        "eigenvectors"
+      ],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-eigenvectors-directions-1-0-and-1-1-f021166a": {
+      "topic_id": "topic-eigenvectors-directions-1-0-and-1-1-f021166a",
+      "canonical_key": "eigenvectors directions (1,0) and (−1,1)",
+      "label": "eigenvectors directions (1,0) and (−1,1)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-embedding-the-number-line-in-2d-space-bc252347": {
+      "topic_id": "topic-embedding-the-number-line-in-2d-space-bc252347",
+      "canonical_key": "embedding the number line in 2d space",
+      "label": "embedding the number line in 2D space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-empathy-view-of-coordinate-transformations-650b6f7d": {
+      "topic_id": "topic-empathy-view-of-coordinate-transformations-650b6f7d",
+      "canonical_key": "empathy view of coordinate transformations",
+      "label": "empathy view of coordinate transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-equivalence-of-computational-and-geometric-viewp-f7825589": {
+      "topic_id": "topic-equivalence-of-computational-and-geometric-viewp-f7825589",
+      "canonical_key": "equivalence of computational and geometric viewpoints",
+      "label": "equivalence of computational and geometric viewpoints",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-example-v-3-1-w-2-1-with-determinant-5-c28facea": {
+      "topic_id": "topic-example-v-3-1-w-2-1-with-determinant-5-c28facea",
+      "canonical_key": "example: v = (-3, 1), w = (2, 1) with determinant -5",
+      "label": "Example: V = (-3, 1), W = (2, 1) with determinant -5",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-extending-to-higher-dimensions-131b0d91": {
+      "topic_id": "topic-extending-to-higher-dimensions-131b0d91",
+      "canonical_key": "extending to higher dimensions",
+      "label": "extending to higher dimensions",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-full-rank-and-nonzero-determinant-53ddce1f": {
+      "topic_id": "topic-full-rank-and-nonzero-determinant-53ddce1f",
+      "canonical_key": "full rank and nonzero determinant",
+      "label": "Full rank and nonzero determinant",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-function-addition-b4b67400": {
+      "topic_id": "topic-function-addition-b4b67400",
+      "canonical_key": "function addition",
+      "label": "function addition",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-function-notation-and-composition-9e25e193": {
+      "topic_id": "topic-function-notation-and-composition-9e25e193",
+      "canonical_key": "function notation and composition",
+      "label": "function notation and composition",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-functions-as-vectors-41c4503e": {
+      "topic_id": "topic-functions-as-vectors-41c4503e",
+      "canonical_key": "functions as vectors",
+      "label": "functions as vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-future-topics-non-square-matrices-and-dot-produc-064b648f": {
+      "topic_id": "topic-future-topics-non-square-matrices-and-dot-produc-064b648f",
+      "canonical_key": "future topics: non-square matrices and dot products under linear transformations",
+      "label": "Future topics: non-square matrices and dot products under linear transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-gaussian-elimination-versus-cramer-s-rule-concep-90c8eec2": {
+      "topic_id": "topic-gaussian-elimination-versus-cramer-s-rule-concep-90c8eec2",
+      "canonical_key": "gaussian elimination versus cramer’s rule (conceptual vs computational)",
+      "label": "Gaussian elimination versus Cramer’s rule (conceptual vs computational)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-general-mapping-formula-ax-by-cx-dy-65f170c0": {
+      "topic_id": "topic-general-mapping-formula-ax-by-cx-dy-65f170c0",
+      "canonical_key": "general mapping formula (ax+by, cx+dy)",
+      "label": "general mapping formula (ax+by, cx+dy)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-geometric-interpretation-of-addition-ed2f8711": {
+      "topic_id": "topic-geometric-interpretation-of-addition-ed2f8711",
+      "canonical_key": "geometric interpretation of addition",
+      "label": "geometric interpretation of addition",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-geometric-interpretation-of-matrix-products-e29ffc33": {
+      "topic_id": "topic-geometric-interpretation-of-matrix-products-e29ffc33",
+      "canonical_key": "geometric interpretation of matrix products",
+      "label": "geometric interpretation of matrix products",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-geometric-interpretation-of-solving-ax-v-0083c1cf": {
+      "topic_id": "topic-geometric-interpretation-of-solving-ax-v-0083c1cf",
+      "canonical_key": "geometric interpretation of solving ax = v",
+      "label": "Geometric interpretation of solving Ax = V",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-geometric-interpretation-of-the-dual-vector-713bb681": {
+      "topic_id": "topic-geometric-interpretation-of-the-dual-vector-713bb681",
+      "canonical_key": "geometric interpretation of the dual vector",
+      "label": "geometric interpretation of the dual vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-geometric-intuition-for-linear-systems-639e2f96": {
+      "topic_id": "topic-geometric-intuition-for-linear-systems-639e2f96",
+      "canonical_key": "geometric intuition for linear systems",
+      "label": "Geometric intuition for linear systems",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-geometric-vs-numeric-descriptions-of-transformat-5fc77289": {
+      "topic_id": "topic-geometric-vs-numeric-descriptions-of-transformat-5fc77289",
+      "canonical_key": "geometric vs. numeric descriptions of transformations",
+      "label": "geometric vs. numeric descriptions of transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-graphics-and-physics-applications-4590dce1": {
+      "topic_id": "topic-graphics-and-physics-applications-4590dce1",
+      "canonical_key": "graphics and physics applications",
+      "label": "graphics and physics applications",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-grid-lines-7a04f170": {
+      "topic_id": "topic-grid-lines-7a04f170",
+      "canonical_key": "grid lines",
+      "label": "grid lines",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-grid-visualization-of-transformations-51fabd6b": {
+      "topic_id": "topic-grid-visualization-of-transformations-51fabd6b",
+      "canonical_key": "grid visualization of transformations",
+      "label": "grid visualization of transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-grid-argument-for-uniform-area-changes-8a77a8aa": {
+      "topic_id": "topic-grid-argument-for-uniform-area-changes-8a77a8aa",
+      "canonical_key": "grid-argument for uniform area changes",
+      "label": "Grid-argument for uniform area changes",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-grid-line-preservation-and-origin-mapping-37203686": {
+      "topic_id": "topic-grid-line-preservation-and-origin-mapping-37203686",
+      "canonical_key": "grid-line preservation and origin mapping",
+      "label": "grid-line preservation and origin mapping",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-higher-dimensional-generalization-3x3-etc-2ac91cc3": {
+      "topic_id": "topic-higher-dimensional-generalization-3x3-etc-2ac91cc3",
+      "canonical_key": "higher-dimensional generalization (3x3, etc)",
+      "label": "Higher-dimensional generalization (3x3, etc)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-i-hat-unit-x-basis-vector-e3329604": {
+      "topic_id": "topic-i-hat-unit-x-basis-vector-e3329604",
+      "canonical_key": "i-hat (unit x-basis vector)",
+      "label": "i-hat (unit x-basis vector)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-i-hat-and-j-hat-8a204faf": {
+      "topic_id": "topic-i-hat-and-j-hat-8a204faf",
+      "canonical_key": "i-hat and j-hat",
+      "label": "i-hat and j-hat",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-i-hat-j-hat-k-hat-in-determinant-first-column-bf80d563": {
+      "topic_id": "topic-i-hat-j-hat-k-hat-in-determinant-first-column-bf80d563",
+      "canonical_key": "i-hat, j-hat, k-hat in determinant first column",
+      "label": "i-hat, j-hat, k-hat in determinant first column",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-i-hat-and-j-hat-basis-vectors-c2d93daf": {
+      "topic_id": "topic-i-hat-and-j-hat-basis-vectors-c2d93daf",
+      "canonical_key": "i_hat and j_hat basis vectors",
+      "label": "i_hat and j_hat basis vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-images-of-basis-vectors-eaaa572f": {
+      "topic_id": "topic-images-of-basis-vectors-eaaa572f",
+      "canonical_key": "images of basis vectors",
+      "label": "images of basis vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-images-of-basis-vectors-as-matrix-columns-c9c0163d": {
+      "topic_id": "topic-images-of-basis-vectors-as-matrix-columns-c9c0163d",
+      "canonical_key": "images of basis vectors as matrix columns",
+      "label": "images of basis vectors as matrix columns",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-images-of-basis-vectors-under-a-3d-transform-d828469b": {
+      "topic_id": "topic-images-of-basis-vectors-under-a-3d-transform-d828469b",
+      "canonical_key": "images of basis vectors under a 3d transform",
+      "label": "images of basis vectors under a 3D transform",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-infinite-dimensional-spaces-78ed7cfa": {
+      "topic_id": "topic-infinite-dimensional-spaces-78ed7cfa",
+      "canonical_key": "infinite-dimensional spaces",
+      "label": "infinite-dimensional spaces",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-input-space-vs-output-space-a6e22732": {
+      "topic_id": "topic-input-space-vs-output-space-a6e22732",
+      "canonical_key": "input space vs output space",
+      "label": "input space vs output space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-interchange-between-representations-082ebab2": {
+      "topic_id": "topic-interchange-between-representations-082ebab2",
+      "canonical_key": "interchange between representations",
+      "label": "interchange between representations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-interpretation-of-matrices-as-space-transformati-b528db7b": {
+      "topic_id": "topic-interpretation-of-matrices-as-space-transformati-b528db7b",
+      "canonical_key": "interpretation of matrices as space transformations",
+      "label": "interpretation of matrices as space transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-intuition-behind-determinant-terms-a-b-c-d-5826dc43": {
+      "topic_id": "topic-intuition-behind-determinant-terms-a-b-c-d-5826dc43",
+      "canonical_key": "intuition behind determinant terms a, b, c, d",
+      "label": "Intuition behind determinant terms a, b, c, d",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-invariant-directions-8ecfddf5": {
+      "topic_id": "topic-invariant-directions-8ecfddf5",
+      "canonical_key": "invariant directions",
+      "label": "invariant directions",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-invariant-lines-and-spans-4c2a880c": {
+      "topic_id": "topic-invariant-lines-and-spans-4c2a880c",
+      "canonical_key": "invariant lines and spans",
+      "label": "invariant lines and spans",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-inverse-change-of-basis-matrix-fd4ae9ea": {
+      "topic_id": "topic-inverse-change-of-basis-matrix-fd4ae9ea",
+      "canonical_key": "inverse change-of-basis matrix",
+      "label": "inverse change-of-basis matrix",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-inverse-matrix-a-1-b06120b0": {
+      "topic_id": "topic-inverse-matrix-a-1-b06120b0",
+      "canonical_key": "inverse matrix a^{-1}",
+      "label": "Inverse matrix A^{-1}",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-j-hat-unit-y-basis-vector-abf2e17a": {
+      "topic_id": "topic-j-hat-unit-y-basis-vector-abf2e17a",
+      "canonical_key": "j-hat (unit y-basis vector)",
+      "label": "j-hat (unit y-basis vector)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-jennifer-s-basis-b1-2-1-and-b2-1-1-becd8668": {
+      "topic_id": "topic-jennifer-s-basis-b1-2-1-and-b2-1-1-becd8668",
+      "canonical_key": "jennifer’s basis b1=(2,1) and b2=(-1,1)",
+      "label": "Jennifer’s basis b1=(2,1) and b2=(-1,1)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-combination-86e6e483": {
+      "topic_id": "topic-linear-combination-86e6e483",
+      "canonical_key": "linear combination",
+      "label": "linear combination",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-combinations-of-pauli-matrices-b3152ebd": {
+      "topic_id": "topic-linear-combinations-of-pauli-matrices-b3152ebd",
+      "canonical_key": "linear combinations of pauli matrices",
+      "label": "Linear combinations of Pauli matrices",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-dependence-59c3d9ef": {
+      "topic_id": "topic-linear-dependence-59c3d9ef",
+      "canonical_key": "linear dependence",
+      "label": "linear dependence",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-independence-798ac4c2": {
+      "topic_id": "topic-linear-independence-798ac4c2",
+      "canonical_key": "linear independence",
+      "label": "linear independence",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-independence-and-determinant-columns-26bbefdb": {
+      "topic_id": "topic-linear-independence-and-determinant-columns-26bbefdb",
+      "canonical_key": "linear independence and determinant (columns)",
+      "label": "Linear independence and determinant (columns)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-independence-and-space-squishing-f0a54b18": {
+      "topic_id": "topic-linear-independence-and-space-squishing-f0a54b18",
+      "canonical_key": "linear independence and space squishing",
+      "label": "linear independence and space squishing",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-transformation-c2e6dacb": {
+      "topic_id": "topic-linear-transformation-c2e6dacb",
+      "canonical_key": "linear transformation",
+      "label": "linear transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-transformation-from-r-2-to-r-c1a9945b": {
+      "topic_id": "topic-linear-transformation-from-r-2-to-r-c1a9945b",
+      "canonical_key": "linear transformation from r^2 to r",
+      "label": "linear transformation from R^2 to R",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-transformation-sending-i-hat-j-hat-to-v-w-97d81f1e": {
+      "topic_id": "topic-linear-transformation-sending-i-hat-j-hat-to-v-w-97d81f1e",
+      "canonical_key": "linear transformation sending i_hat, j_hat to v, w",
+      "label": "Linear transformation sending I_hat, J_hat to V, W",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-transformations-fe92792d": {
+      "topic_id": "topic-linear-transformations-fe92792d",
+      "canonical_key": "linear transformations",
+      "label": "linear transformations",
+      "aliases": [],
+      "video_count": 3,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-linear-transformations-between-different-dimensi-6bb1059d": {
+      "topic_id": "topic-linear-transformations-between-different-dimensi-6bb1059d",
+      "canonical_key": "linear transformations between different dimensions",
+      "label": "linear transformations between different dimensions",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-link-to-eigenvectors-eigenvalues-in-next-video-48ac356d": {
+      "topic_id": "topic-link-to-eigenvectors-eigenvalues-in-next-video-48ac356d",
+      "canonical_key": "link to eigenvectors/eigenvalues in next video",
+      "label": "link to eigenvectors/eigenvalues in next video",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-lists-of-numbers-b27e8589": {
+      "topic_id": "topic-lists-of-numbers-b27e8589",
+      "canonical_key": "lists of numbers",
+      "label": "lists of numbers",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-m-trace-a-2-31a35f8f": {
+      "topic_id": "topic-m-trace-a-2-31a35f8f",
+      "canonical_key": "m = trace(a)/2",
+      "label": "m = trace(A)/2",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-mathematician-perspective-8086b465": {
+      "topic_id": "topic-mathematician-perspective-8086b465",
+      "canonical_key": "mathematician perspective",
+      "label": "mathematician perspective",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-matrices-in-transforming-space-preview-1d48f08a": {
+      "topic_id": "topic-matrices-in-transforming-space-preview-1d48f08a",
+      "canonical_key": "matrices in transforming space (preview)",
+      "label": "matrices in transforming space (preview)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-matrix-as-linear-transformation-9ef757ed": {
+      "topic_id": "topic-matrix-as-linear-transformation-9ef757ed",
+      "canonical_key": "matrix as linear transformation",
+      "label": "Matrix as linear transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-matrix-multiplication-in-3d-a015fe54": {
+      "topic_id": "topic-matrix-multiplication-in-3d-a015fe54",
+      "canonical_key": "matrix multiplication in 3d",
+      "label": "matrix multiplication in 3D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-matrix-representation-f20d8895": {
+      "topic_id": "topic-matrix-representation-f20d8895",
+      "canonical_key": "matrix representation",
+      "label": "matrix representation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-matrix-representation-of-a-linear-operator-36f5efa8": {
+      "topic_id": "topic-matrix-representation-of-a-linear-operator-36f5efa8",
+      "canonical_key": "matrix representation of a linear operator",
+      "label": "matrix representation of a linear operator",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-matrix-vector-multiplication-4a7f1f55": {
+      "topic_id": "topic-matrix-vector-multiplication-4a7f1f55",
+      "canonical_key": "matrix-vector multiplication",
+      "label": "matrix-vector multiplication",
+      "aliases": [],
+      "video_count": 4,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-matrix-vector-multiplication-as-basis-transforma-8d90b909": {
+      "topic_id": "topic-matrix-vector-multiplication-as-basis-transforma-8d90b909",
+      "canonical_key": "matrix-vector multiplication as basis transformation",
+      "label": "matrix-vector multiplication as basis transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-mean-of-eigenvalues-5a17a6dd": {
+      "topic_id": "topic-mean-of-eigenvalues-5a17a6dd",
+      "canonical_key": "mean of eigenvalues",
+      "label": "Mean of eigenvalues",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-negative-scaling-fe3cdc13": {
+      "topic_id": "topic-negative-scaling-fe3cdc13",
+      "canonical_key": "negative scaling",
+      "label": "negative scaling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-non-colinear-vectors-in-3d-ec78f820": {
+      "topic_id": "topic-non-colinear-vectors-in-3d-ec78f820",
+      "canonical_key": "non-colinear vectors in 3d",
+      "label": "non-colinear vectors in 3D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-non-square-matrices-64ba8128": {
+      "topic_id": "topic-non-square-matrices-64ba8128",
+      "canonical_key": "non-square matrices",
+      "label": "non-square matrices",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-non-unit-vectors-and-scaling-in-dot-products-148e4ac9": {
+      "topic_id": "topic-non-unit-vectors-and-scaling-in-dot-products-148e4ac9",
+      "canonical_key": "non-unit vectors and scaling in dot products",
+      "label": "non-unit vectors and scaling in dot products",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-nonzero-determinant-implies-a-unique-solution-24870363": {
+      "topic_id": "topic-nonzero-determinant-implies-a-unique-solution-24870363",
+      "canonical_key": "nonzero determinant implies a unique solution",
+      "label": "Nonzero determinant implies a unique solution",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-nonzero-determinant-implying-invertibility-b0997696": {
+      "topic_id": "topic-nonzero-determinant-implying-invertibility-b0997696",
+      "canonical_key": "nonzero determinant implying invertibility",
+      "label": "Nonzero determinant implying invertibility",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-normalization-a-2-b-2-c-2-1-f7fe9a50": {
+      "topic_id": "topic-normalization-a-2-b-2-c-2-1-f7fe9a50",
+      "canonical_key": "normalization (a^2 + b^2 + c^2 = 1)",
+      "label": "Normalization (a^2 + b^2 + c^2 = 1)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-null-space-kernel-and-solutions-to-ax-0-c2b0c2cf": {
+      "topic_id": "topic-null-space-kernel-and-solutions-to-ax-0-c2b0c2cf",
+      "canonical_key": "null space (kernel) and solutions to ax = 0",
+      "label": "Null space (kernel) and solutions to Ax = 0",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-operators-b2db06dc": {
+      "topic_id": "topic-operators-b2db06dc",
+      "canonical_key": "operators",
+      "label": "operators",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-order-of-multiplication-right-to-left-5d070f63": {
+      "topic_id": "topic-order-of-multiplication-right-to-left-5d070f63",
+      "canonical_key": "order of multiplication (right-to-left)",
+      "label": "order of multiplication (right-to-left)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-order-sensitivity-v-w-vs-w-v-e56fedb0": {
+      "topic_id": "topic-order-sensitivity-v-w-vs-w-v-e56fedb0",
+      "canonical_key": "order sensitivity: v × w vs w × v",
+      "label": "Order sensitivity: V × W vs W × V",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-order-symmetry-of-dot-product-80b6a7ca": {
+      "topic_id": "topic-order-symmetry-of-dot-product-80b6a7ca",
+      "canonical_key": "order symmetry of dot product",
+      "label": "order symmetry of dot product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-ordered-lists-65653356": {
+      "topic_id": "topic-ordered-lists-65653356",
+      "canonical_key": "ordered lists",
+      "label": "ordered lists",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-orientation-and-sign-of-cross-product-3e134115": {
+      "topic_id": "topic-orientation-and-sign-of-cross-product-3e134115",
+      "canonical_key": "orientation and sign of cross product",
+      "label": "Orientation and sign of cross product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-orientation-and-sign-of-determinants-positive-ne-c62d2146": {
+      "topic_id": "topic-orientation-and-sign-of-determinants-positive-ne-c62d2146",
+      "canonical_key": "orientation and sign of determinants (positive/negative)",
+      "label": "Orientation and sign of determinants (positive/negative)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-origin-anchoring-07477096": {
+      "topic_id": "topic-origin-anchoring-07477096",
+      "canonical_key": "origin anchoring",
+      "label": "origin anchoring",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-origin-fixed-aac02461": {
+      "topic_id": "topic-origin-fixed-aac02461",
+      "canonical_key": "origin fixed",
+      "label": "origin fixed",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-origin-root-of-vectors-94128cee": {
+      "topic_id": "topic-origin-root-of-vectors-94128cee",
+      "canonical_key": "origin/root of vectors",
+      "label": "origin/root of vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-orthogonality-acbe9d81": {
+      "topic_id": "topic-orthogonality-acbe9d81",
+      "canonical_key": "orthogonality",
+      "label": "orthogonality",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-orthogonality-and-dot-product-preservation-in-sp-11c6670c": {
+      "topic_id": "topic-orthogonality-and-dot-product-preservation-in-sp-11c6670c",
+      "canonical_key": "orthogonality and dot product preservation in special cases",
+      "label": "Orthogonality and dot product preservation in special cases",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-p-det-a-03d93cb1": {
+      "topic_id": "topic-p-det-a-03d93cb1",
+      "canonical_key": "p = det(a)",
+      "label": "p = det(A)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-p-1-ap-d-ec00789f": {
+      "topic_id": "topic-p-1-ap-d-ec00789f",
+      "canonical_key": "p^{-1}ap = d",
+      "label": "P^{-1}AP = D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-parallelepiped-terminology-in-3d-76bdc621": {
+      "topic_id": "topic-parallelepiped-terminology-in-3d-76bdc621",
+      "canonical_key": "parallelepiped terminology in 3d",
+      "label": "Parallelepiped terminology in 3D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-parallelepiped-volume-representing-coordinates-3-b8a09307": {
+      "topic_id": "topic-parallelepiped-volume-representing-coordinates-3-b8a09307",
+      "canonical_key": "parallelepiped volume representing coordinates (3d)",
+      "label": "Parallelepiped volume representing coordinates (3D)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-parallelism-preservation-7d8c03dd": {
+      "topic_id": "topic-parallelism-preservation-7d8c03dd",
+      "canonical_key": "parallelism preservation",
+      "label": "parallelism preservation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-parallelogram-area-representing-coordinates-2d-b3728c39": {
+      "topic_id": "topic-parallelogram-area-representing-coordinates-2d-b3728c39",
+      "canonical_key": "parallelogram area representing coordinates (2d)",
+      "label": "Parallelogram area representing coordinates (2D)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-parallelogram-spanned-by-two-vectors-248d02bb": {
+      "topic_id": "topic-parallelogram-spanned-by-two-vectors-248d02bb",
+      "canonical_key": "parallelogram spanned by two vectors",
+      "label": "Parallelogram spanned by two vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-pauli-spin-matrices-2e12753e": {
+      "topic_id": "topic-pauli-spin-matrices-2e12753e",
+      "canonical_key": "pauli spin matrices",
+      "label": "Pauli spin matrices",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-physics-perspective-01ebb961": {
+      "topic_id": "topic-physics-perspective-01ebb961",
+      "canonical_key": "physics perspective",
+      "label": "physics perspective",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-plane-through-the-origin-6b04b54f": {
+      "topic_id": "topic-plane-through-the-origin-6b04b54f",
+      "canonical_key": "plane through the origin",
+      "label": "plane through the origin",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-plane-vs-line-vs-origin-11db3e27": {
+      "topic_id": "topic-plane-vs-line-vs-origin-11db3e27",
+      "canonical_key": "plane vs line vs origin",
+      "label": "plane vs line vs origin",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-polynomials-566f35e7": {
+      "topic_id": "topic-polynomials-566f35e7",
+      "canonical_key": "polynomials",
+      "label": "polynomials",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-positive-negative-zero-dot-product-71872352": {
+      "topic_id": "topic-positive-negative-zero-dot-product-71872352",
+      "canonical_key": "positive / negative / zero dot product",
+      "label": "positive / negative / zero dot product",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-powers-of-a-matrix-4a48c72c": {
+      "topic_id": "topic-powers-of-a-matrix-4a48c72c",
+      "canonical_key": "powers of a matrix",
+      "label": "powers of a matrix",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-pre-and-post-transformation-scaling-and-addition-9a14a112": {
+      "topic_id": "topic-pre-and-post-transformation-scaling-and-addition-9a14a112",
+      "canonical_key": "pre- and post-transformation scaling and addition",
+      "label": "pre- and post-transformation scaling and addition",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-product-of-eigenvalues-2a7528e6": {
+      "topic_id": "topic-product-of-eigenvalues-2a7528e6",
+      "canonical_key": "product of eigenvalues",
+      "label": "Product of eigenvalues",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-product-of-matrices-304b3cbd": {
+      "topic_id": "topic-product-of-matrices-304b3cbd",
+      "canonical_key": "product of matrices",
+      "label": "product of matrices",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-projection-interpretation-volume-via-area-perpen-0edbdba9": {
+      "topic_id": "topic-projection-interpretation-volume-via-area-perpen-0edbdba9",
+      "canonical_key": "projection interpretation: volume via area × perpendicular component",
+      "label": "projection interpretation: volume via area × perpendicular component",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-projection-length-e49906ab": {
+      "topic_id": "topic-projection-length-e49906ab",
+      "canonical_key": "projection length",
+      "label": "projection length",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-projection-of-w-onto-v-1322a6a0": {
+      "topic_id": "topic-projection-of-w-onto-v-1322a6a0",
+      "canonical_key": "projection of w onto v",
+      "label": "projection of W onto V",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-quadratic-formula-24423c83": {
+      "topic_id": "topic-quadratic-formula-24423c83",
+      "canonical_key": "quadratic formula",
+      "label": "Quadratic formula",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-quantum-mechanics-c92057f6": {
+      "topic_id": "topic-quantum-mechanics-c92057f6",
+      "canonical_key": "quantum mechanics",
+      "label": "Quantum mechanics",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rank-and-full-rank-af27a7b4": {
+      "topic_id": "topic-rank-and-full-rank-af27a7b4",
+      "canonical_key": "rank and full rank",
+      "label": "rank and full rank",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rank-as-the-dimension-of-the-column-space-fd3527fd": {
+      "topic_id": "topic-rank-as-the-dimension-of-the-column-space-fd3527fd",
+      "canonical_key": "rank as the dimension of the column space",
+      "label": "Rank as the dimension of the column space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-redundant-vectors-5c8f3129": {
+      "topic_id": "topic-redundant-vectors-5c8f3129",
+      "canonical_key": "redundant vectors",
+      "label": "redundant vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-reference-to-external-computation-tools-gaussian-aa236072": {
+      "topic_id": "topic-reference-to-external-computation-tools-gaussian-aa236072",
+      "canonical_key": "reference to external computation tools (gaussian elimination/row echelon form)",
+      "label": "Reference to external computation tools (Gaussian elimination/row echelon form)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-relation-between-trace-determinant-and-eigenvalu-b69fe026": {
+      "topic_id": "topic-relation-between-trace-determinant-and-eigenvalu-b69fe026",
+      "canonical_key": "relation between trace/determinant and eigenvalues",
+      "label": "Relation between trace/determinant and eigenvalues",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-right-hand-rule-and-determinant-sign-59159ec7": {
+      "topic_id": "topic-right-hand-rule-and-determinant-sign-59159ec7",
+      "canonical_key": "right-hand rule and determinant sign",
+      "label": "Right-hand rule and determinant sign",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-right-hand-rule-for-3d-orientation-0ec832b3": {
+      "topic_id": "topic-right-hand-rule-for-3d-orientation-0ec832b3",
+      "canonical_key": "right-hand rule for 3d orientation",
+      "label": "Right-hand rule for 3D orientation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-right-hand-rule-for-cross-product-direction-d6012ca7": {
+      "topic_id": "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
+      "canonical_key": "right-hand rule for cross product direction",
+      "label": "Right-hand rule for cross product direction",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rotation-by-90-degrees-dc65cb1c": {
+      "topic_id": "topic-rotation-by-90-degrees-dc65cb1c",
+      "canonical_key": "rotation by 90 degrees",
+      "label": "rotation by 90 degrees",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rotation-by-90-degrees-and-its-matrix-in-differe-e75c2c0d": {
+      "topic_id": "topic-rotation-by-90-degrees-and-its-matrix-in-differe-e75c2c0d",
+      "canonical_key": "rotation by 90 degrees and its matrix in different bases",
+      "label": "rotation by 90 degrees and its matrix in different bases",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rotation-followed-by-shear-8cd4302d": {
+      "topic_id": "topic-rotation-followed-by-shear-8cd4302d",
+      "canonical_key": "rotation followed by shear",
+      "label": "rotation followed by shear",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rotation-in-3d-example-90-degree-rotation-around-cc2ced01": {
+      "topic_id": "topic-rotation-in-3d-example-90-degree-rotation-around-cc2ced01",
+      "canonical_key": "rotation in 3d (example: 90-degree rotation around the y-axis)",
+      "label": "rotation in 3D (example: 90-degree rotation around the y-axis)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-rotation-vs-eigenvectors-05b1d2d5": {
+      "topic_id": "topic-rotation-vs-eigenvectors-05b1d2d5",
+      "canonical_key": "rotation vs. eigenvectors",
+      "label": "rotation vs. eigenvectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-scalar-multiplication-2e74d357": {
+      "topic_id": "topic-scalar-multiplication-2e74d357",
+      "canonical_key": "scalar multiplication",
+      "label": "scalar multiplication",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-scalar-vs-number-31466811": {
+      "topic_id": "topic-scalar-vs-number-31466811",
+      "canonical_key": "scalar vs number",
+      "label": "scalar vs number",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-scalars-as-coordinates-68ffcc75": {
+      "topic_id": "topic-scalars-as-coordinates-68ffcc75",
+      "canonical_key": "scalars as coordinates",
+      "label": "scalars as coordinates",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-scaling-567cf013": {
+      "topic_id": "topic-scaling-567cf013",
+      "canonical_key": "scaling",
+      "label": "scaling",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-scaling-scalar-multiplication-1cd8e252": {
+      "topic_id": "topic-scaling-scalar-multiplication-1cd8e252",
+      "canonical_key": "scaling / scalar multiplication",
+      "label": "scaling / scalar multiplication",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-shear-and-eigenvectors-433c106e": {
+      "topic_id": "topic-shear-and-eigenvectors-433c106e",
+      "canonical_key": "shear and eigenvectors",
+      "label": "shear and eigenvectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-shear-transformation-951c4ea5": {
+      "topic_id": "topic-shear-transformation-951c4ea5",
+      "canonical_key": "shear transformation",
+      "label": "shear transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-shear-transformation-and-parallelogram-area-a94e32ac": {
+      "topic_id": "topic-shear-transformation-and-parallelogram-area-a94e32ac",
+      "canonical_key": "shear transformation and parallelogram area",
+      "label": "Shear transformation and parallelogram area",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-solving-ax-v-by-applying-a-1-to-v-8a690d60": {
+      "topic_id": "topic-solving-ax-v-by-applying-a-1-to-v-8a690d60",
+      "canonical_key": "solving ax = v by applying a^{-1} to v",
+      "label": "Solving Ax = V by applying A^{-1} to V",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-span-37a0025a": {
+      "topic_id": "topic-span-37a0025a",
+      "canonical_key": "span",
+      "label": "span",
+      "aliases": [],
+      "video_count": 2,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-span-in-3d-d6dffc66": {
+      "topic_id": "topic-span-in-3d-d6dffc66",
+      "canonical_key": "span in 3d",
+      "label": "span in 3D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-span-of-a-unit-vector-facb94ac": {
+      "topic_id": "topic-span-of-a-unit-vector-facb94ac",
+      "canonical_key": "span of a unit vector",
+      "label": "span of a unit vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-square-matrices-vs-non-square-matrices-scope-cla-0de2db41": {
+      "topic_id": "topic-square-matrices-vs-non-square-matrices-scope-cla-0de2db41",
+      "canonical_key": "square matrices vs non-square matrices (scope clarification)",
+      "label": "Square matrices vs non-square matrices (scope clarification)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-stretching-shrinking-c5376be0": {
+      "topic_id": "topic-stretching-shrinking-c5376be0",
+      "canonical_key": "stretching / shrinking",
+      "label": "stretching / shrinking",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-symbolic-matrix-entries-bdd88cd3": {
+      "topic_id": "topic-symbolic-matrix-entries-bdd88cd3",
+      "canonical_key": "symbolic matrix entries",
+      "label": "symbolic matrix entries",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-tail-to-tip-vector-addition-dbd6fbb5": {
+      "topic_id": "topic-tail-to-tip-vector-addition-dbd6fbb5",
+      "canonical_key": "tail-to-tip vector addition",
+      "label": "tail-to-tip vector addition",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-three-vector-span-aa916454": {
+      "topic_id": "topic-three-vector-span-aa916454",
+      "canonical_key": "three-vector span",
+      "label": "three-vector span",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-trace-of-a-matrix-a57d61ae": {
+      "topic_id": "topic-trace-of-a-matrix-a57d61ae",
+      "canonical_key": "trace of a matrix",
+      "label": "Trace of a matrix",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-transformation-composition-right-to-left-order-4d77fbb7": {
+      "topic_id": "topic-transformation-composition-right-to-left-order-4d77fbb7",
+      "canonical_key": "transformation composition (right-to-left order)",
+      "label": "transformation composition (right-to-left order)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-transformation-from-2d-to-1d-bc8dd9b9": {
+      "topic_id": "topic-transformation-from-2d-to-1d-bc8dd9b9",
+      "canonical_key": "transformation from 2d to 1d",
+      "label": "transformation from 2D to 1D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-transformation-from-r-3-to-r-as-a-dot-product-wi-a123c4ab": {
+      "topic_id": "topic-transformation-from-r-3-to-r-as-a-dot-product-wi-a123c4ab",
+      "canonical_key": "transformation from r^3 to r as a dot product with a dual vector",
+      "label": "transformation from R^3 to R as a dot product with a dual vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-transformation-based-intuition-vs-rote-computati-296513dd": {
+      "topic_id": "topic-transformation-based-intuition-vs-rote-computati-296513dd",
+      "canonical_key": "transformation-based intuition vs rote computation",
+      "label": "transformation-based intuition vs rote computation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-transforming-between-languages-of-coordinates-4bfe1319": {
+      "topic_id": "topic-transforming-between-languages-of-coordinates-4bfe1319",
+      "canonical_key": "transforming between languages of coordinates",
+      "label": "transforming between languages of coordinates",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-translating-coordinates-between-bases-e-g-3-2-5--3c8004a4": {
+      "topic_id": "topic-translating-coordinates-between-bases-e-g-3-2-5--3c8004a4",
+      "canonical_key": "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))",
+      "label": "translating coordinates between bases (e.g., (3,2) ↔ (5/3,1/3))",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-two-vectors-in-2d-4b71df5b": {
+      "topic_id": "topic-two-vectors-in-2d-4b71df5b",
+      "canonical_key": "two vectors in 2d",
+      "label": "two vectors in 2D",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-two-and-three-variable-systems-2x2-3x3-929ce96a": {
+      "topic_id": "topic-two-and-three-variable-systems-2x2-3x3-929ce96a",
+      "canonical_key": "two- and three-variable systems (2x2, 3x3)",
+      "label": "Two- and three-variable systems (2x2, 3x3)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-unit-square-to-rectangle-under-a-matrix-f757712b": {
+      "topic_id": "topic-unit-square-to-rectangle-under-a-matrix-f757712b",
+      "canonical_key": "unit square to rectangle under a matrix",
+      "label": "Unit square to rectangle under a matrix",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-unit-square-transforming-to-a-parallelogram-ac62ded7": {
+      "topic_id": "topic-unit-square-transforming-to-a-parallelogram-ac62ded7",
+      "canonical_key": "unit square transforming to a parallelogram",
+      "label": "Unit square transforming to a parallelogram",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-upcoming-topics-span-bases-linear-dependence-40e34357": {
+      "topic_id": "topic-upcoming-topics-span-bases-linear-dependence-40e34357",
+      "canonical_key": "upcoming topics: span, bases, linear dependence",
+      "label": "upcoming topics: span, bases, linear dependence",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-v-as-the-right-hand-side-vector-7057d15a": {
+      "topic_id": "topic-v-as-the-right-hand-side-vector-7057d15a",
+      "canonical_key": "v as the right-hand side vector",
+      "label": "V as the right-hand side vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vector-b0d51c58": {
+      "topic_id": "topic-vector-b0d51c58",
+      "canonical_key": "vector",
+      "label": "vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vector-as-x-y-1a56575e": {
+      "topic_id": "topic-vector-as-x-y-1a56575e",
+      "canonical_key": "vector as [x, y]",
+      "label": "vector as [x, y]",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vector-decomposition-with-respect-to-a-basis-ff306084": {
+      "topic_id": "topic-vector-decomposition-with-respect-to-a-basis-ff306084",
+      "canonical_key": "vector decomposition with respect to a basis",
+      "label": "vector decomposition with respect to a basis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vector-spaces-bb805e98": {
+      "topic_id": "topic-vector-spaces-bb805e98",
+      "canonical_key": "vector spaces",
+      "label": "vector spaces",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vectors-29a6a5e3": {
+      "topic_id": "topic-vectors-29a6a5e3",
+      "canonical_key": "vectors",
+      "label": "vectors",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vectors-as-arrows-479d5f0b": {
+      "topic_id": "topic-vectors-as-arrows-479d5f0b",
+      "canonical_key": "vectors as arrows",
+      "label": "vectors as arrows",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vectors-as-lists-of-numbers-543d6492": {
+      "topic_id": "topic-vectors-as-lists-of-numbers-543d6492",
+      "canonical_key": "vectors as lists of numbers",
+      "label": "vectors as lists of numbers",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-vectors-as-transformations-b353060c": {
+      "topic_id": "topic-vectors-as-transformations-b353060c",
+      "canonical_key": "vectors as transformations",
+      "label": "vectors as transformations",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-visual-interpretation-of-duality-3dc5a8ca": {
+      "topic_id": "topic-visual-interpretation-of-duality-3dc5a8ca",
+      "canonical_key": "visual interpretation of duality",
+      "label": "visual interpretation of duality",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-visual-interpretation-vectors-as-arrows-vs-point-8771a520": {
+      "topic_id": "topic-visual-interpretation-vectors-as-arrows-vs-point-8771a520",
+      "canonical_key": "visual interpretation: vectors as arrows vs points",
+      "label": "visual interpretation: vectors as arrows vs points",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-visual-intuition-in-linear-algebra-5c0edce8": {
+      "topic_id": "topic-visual-intuition-in-linear-algebra-5c0edce8",
+      "canonical_key": "visual intuition in linear algebra",
+      "label": "visual intuition in linear algebra",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-visualization-of-3d-grids-under-transformation-a264d315": {
+      "topic_id": "topic-visualization-of-3d-grids-under-transformation-a264d315",
+      "canonical_key": "visualization of 3d grids under transformation",
+      "label": "visualization of 3D grids under transformation",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-visualizing-grids-vs-intrinsic-space-eef44dc6": {
+      "topic_id": "topic-visualizing-grids-vs-intrinsic-space-eef44dc6",
+      "canonical_key": "visualizing grids vs. intrinsic space",
+      "label": "visualizing grids vs. intrinsic space",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-when-solutions-exist-without-an-inverse-2a6623ca": {
+      "topic_id": "topic-when-solutions-exist-without-an-inverse-2a6623ca",
+      "canonical_key": "when solutions exist without an inverse",
+      "label": "When solutions exist without an inverse",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-x-as-the-variable-vector-9d13fc2b": {
+      "topic_id": "topic-x-as-the-variable-vector-9d13fc2b",
+      "canonical_key": "x as the variable vector",
+      "label": "X as the variable vector",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-x-axis-4a2b49d8": {
+      "topic_id": "topic-x-axis-4a2b49d8",
+      "canonical_key": "x-axis",
+      "label": "x-axis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-y-axis-9a4ff81d": {
+      "topic_id": "topic-y-axis-9a4ff81d",
+      "canonical_key": "y-axis",
+      "label": "y-axis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-z-axis-4f4855a1": {
+      "topic_id": "topic-z-axis-4f4855a1",
+      "canonical_key": "z-axis",
+      "label": "z-axis",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-zero-determinant-and-noninvertible-cases-1a651d97": {
+      "topic_id": "topic-zero-determinant-and-noninvertible-cases-1a651d97",
+      "canonical_key": "zero determinant and noninvertible cases",
+      "label": "Zero determinant and noninvertible cases",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    },
+    "topic-m-sqrt-m-2-p-c56c1580": {
+      "topic_id": "topic-m-sqrt-m-2-p-c56c1580",
+      "canonical_key": "λ = m ± sqrt(m^2 − p)",
+      "label": "λ = m ± sqrt(m^2 − p)",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [],
+      "related_topic_ids": []
+    }
+  },
+  "topic_families": {},
+  "items": {
+    "video-essence-of-linear-algebra-bam7ocem3g0-youtube-4ce12047": {
+      "item_id": "video-essence-of-linear-algebra-bam7ocem3g0-youtube-4ce12047",
+      "title": "Cross products as dual linear functionals: a duality-driven view in 3Blue1Brown’s Essence of Linear Algebra (Chapter 11)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "BaM7OCEm3G0",
+          "url": "https://www.youtube.com/watch?v=BaM7OCEm3G0"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/BaM7OCEm3G0.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video presents a rigorous, principle-based route to understanding the 3D cross product by viewing it through the lens of linear transformations and duality. It begins with the familiar determinant-based construction of the cross product, where the second and third columns are the vectors v and w and the first column holds the symbolic basis vectors i-hat, j-hat, k-hat. By treating the resulting determinant as the coordinates of a resulting vector, it connects the familiar geometric facts—the cross product’s magnitude equals the parallelogram area spanned by v and w, and its direction is perpendicular to both with orientation given by the right-hand rule—to a deeper, dual-interpretive framework. The video then introduces duality for transformations from three dimensions to the reals, showing that a linear map to the number line can be represented as a dot product with a special vector p. By applying this idea to the determinant-based functional det[(x, y, z), v, w], the speaker derives p as the dual vector, tying the computational determinant trick to a geometric vector perpendicular to v and w with length equal to the parallelogram area. This dual viewpoint explains why the same computation produces the cross product and clarifies the projection-interpretation of the dot product with p, ultimately linking the algebraic and geometric pictures and foreshadowing the change of basis theme to come in the next video.",
+      "date": {
+        "display": "August 31, 2016",
+        "iso": "2016-08-31",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-3d-cross-product-86af122e",
+        "topic-determinant-method-for-cross-product-81014e47",
+        "topic-i-hat-j-hat-k-hat-in-determinant-first-column-bf80d563",
+        "topic-cross-product-magnitude-equals-parallelogram-are-af0b88f2",
+        "topic-cross-product-direction-and-right-hand-rule-6c3cfd2e",
+        "topic-duality-in-linear-transformations-296003e0",
+        "topic-transformation-from-r-3-to-r-as-a-dot-product-wi-a123c4ab",
+        "topic-1x3-matrix-representation-of-a-linear-map-to-the-3206c61a",
+        "topic-determinant-as-a-linear-function-of-x-y-z-e429de7f",
+        "topic-dual-vector-p-for-cross-product-8209e3b9",
+        "topic-geometric-interpretation-of-the-dual-vector-713bb681",
+        "topic-projection-interpretation-volume-via-area-perpen-0edbdba9",
+        "topic-equivalence-of-computational-and-geometric-viewp-f7825589",
+        "topic-change-of-basis-groundwork-foreshadowed-8a55b81a"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-3d-cross-product-86af122e": [
+          0
+        ],
+        "topic-duality-in-linear-transformations-296003e0": [
+          1
+        ]
+      },
+      "chapter_count": 5
+    },
+    "video-essence-of-linear-algebra-e50bj7jn9iq-youtube-4ba282d7": {
+      "item_id": "video-essence-of-linear-algebra-e50bj7jn9iq-youtube-4ba282d7",
+      "title": "A quick trick for computing eigenvalues (2×2) from trace and determinant",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "e50Bj7jn9IQ",
+          "url": "https://www.youtube.com/watch?v=e50Bj7jn9IQ"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/e50Bj7jn9IQ.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This 3Blue1Brown micro-lesson presents a fast method for finding eigenvalues of 2×2 matrices by using two already-available invariants: the trace (sum of eigenvalues) and the determinant (product of eigenvalues). The video shows that if you let the eigenvalues be λ1 and λ2, their mean m equals half the trace and their product p equals the determinant; then λ1 and λ2 are m ± sqrt(m^2 − p). After deriving and illustrating the method, the host works through concrete examples, including a quick matrix (3,1;4,1) and a second example (2,7;1,8), and then connects the idea to Pauli spin matrices in quantum mechanics. The video concludes with a comparison to the traditional characteristic-polynomial approach and discusses when this mean-and-product trick provides a speed advantage, especially for linear combinations of Pauli matrices. The segment also references a jingle by A Capella Science to mnemonic-ify the formula and ties the result back to broader quadratic-root ideas.",
+      "date": {
+        "display": "May 7, 2021",
+        "iso": "2021-05-07",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-eigenvalues-288cf526",
+        "topic-eigenvectors-cef34519",
+        "topic-2x2-matrices-4d5bd193",
+        "topic-trace-of-a-matrix-a57d61ae",
+        "topic-determinant-of-a-matrix-5d55986d",
+        "topic-mean-of-eigenvalues-5a17a6dd",
+        "topic-product-of-eigenvalues-2a7528e6",
+        "topic-m-sqrt-m-2-p-c56c1580",
+        "topic-m-trace-a-2-31a35f8f",
+        "topic-p-det-a-03d93cb1",
+        "topic-characteristic-polynomial-70c1ed27",
+        "topic-quadratic-formula-24423c83",
+        "topic-pauli-spin-matrices-2e12753e",
+        "topic-quantum-mechanics-c92057f6",
+        "topic-diagonal-matrices-d35d697e",
+        "topic-linear-combinations-of-pauli-matrices-b3152ebd",
+        "topic-normalization-a-2-b-2-c-2-1-f7fe9a50",
+        "topic-a-capella-science-mnemonic-b076ebdd",
+        "topic-relation-between-trace-determinant-and-eigenvalu-b69fe026"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-eigenvalues-288cf526": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "topic-eigenvectors-cef34519": [
+          0
+        ],
+        "topic-2x2-matrices-4d5bd193": [
+          0
+        ],
+        "topic-trace-of-a-matrix-a57d61ae": [
+          0
+        ],
+        "topic-determinant-of-a-matrix-5d55986d": [
+          0
+        ],
+        "topic-mean-of-eigenvalues-5a17a6dd": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "topic-product-of-eigenvalues-2a7528e6": [
+          0
+        ],
+        "topic-m-sqrt-m-2-p-c56c1580": [
+          0,
+          1
+        ],
+        "topic-m-trace-a-2-31a35f8f": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "topic-p-det-a-03d93cb1": [
+          0
+        ],
+        "topic-characteristic-polynomial-70c1ed27": [
+          2
+        ],
+        "topic-quadratic-formula-24423c83": [
+          0,
+          2
+        ],
+        "topic-pauli-spin-matrices-2e12753e": [
+          1
+        ],
+        "topic-quantum-mechanics-c92057f6": [
+          1
+        ],
+        "topic-diagonal-matrices-d35d697e": [
+          1
+        ],
+        "topic-linear-combinations-of-pauli-matrices-b3152ebd": [
+          1,
+          2,
+          3
+        ],
+        "topic-relation-between-trace-determinant-and-eigenvalu-b69fe026": [
+          0,
+          1
+        ]
+      },
+      "chapter_count": 4
+    },
+    "video-essence-of-linear-algebra-eu6i7wjeinw-youtube-dd58d9c4": {
+      "item_id": "video-essence-of-linear-algebra-eu6i7wjeinw-youtube-dd58d9c4",
+      "title": "Cross products explained: 2D area intuition, 3D vector result, and a determinant-based construction",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "eu6i7WJeinw",
+          "url": "https://www.youtube.com/watch?v=eu6i7WJeinw"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/eu6i7WJeinw.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This two-part module opener surveys the standard 2D cross product intuition as the signed area of the parallelogram spanned by two vectors, emphasizing how orientation (order of V and W) determines the sign and how a determinant computes that area via the matrix with V and W as columns. The video then shifts to the true 3D cross product, describing it as a vector whose length equals the parallelogram area and whose direction is perpendicular to the plane, determined by the right-hand rule. A mnemonic determinant procedure in 3D is introduced: form a matrix with I, J, K in the first column and the coordinates of V and W in the other columns, then take its determinant to obtain the cross product vector. The host notes deeper geometric ideas (duality) in a follow-up video and clarifies the distinction between the 2D signed-area intuition and the full 3D cross product.",
+      "date": {
+        "display": "August 31, 2016",
+        "iso": "2016-08-31",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-cross-product-2d-as-signed-area-e5587862",
+        "topic-parallelogram-spanned-by-two-vectors-248d02bb",
+        "topic-orientation-and-sign-of-cross-product-3e134115",
+        "topic-order-sensitivity-v-w-vs-w-v-e56fedb0",
+        "topic-basis-vectors-i-hat-and-j-hat-e5b5a2d0",
+        "topic-2x2-determinant-with-v-and-w-as-columns-50d6c00b",
+        "topic-linear-transformation-sending-i-hat-j-hat-to-v-w-97d81f1e",
+        "topic-determinant-as-area-scaling-under-transformation-6bf52b81",
+        "topic-unit-square-transforming-to-a-parallelogram-ac62ded7",
+        "topic-example-v-3-1-w-2-1-with-determinant-5-c28facea",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
+        "topic-cross-product-as-a-3d-vector-with-length-equal-t-5464d6a4",
+        "topic-direction-of-cross-product-perpendicular-to-the--0bd15e3f",
+        "topic-3d-determinant-trick-using-i-hat-j-hat-k-hat-in--2f500bc3",
+        "topic-columns-in-the-determinant-reflect-basis-vectors-3868109b",
+        "topic-connection-to-duality-brief-mention-for-deeper-s-bb879d24"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-cross-product-2d-as-signed-area-e5587862": [
+          0
+        ],
+        "topic-basis-vectors-i-hat-and-j-hat-e5b5a2d0": [
+          0
+        ],
+        "topic-2x2-determinant-with-v-and-w-as-columns-50d6c00b": [
+          0
+        ],
+        "topic-linear-transformation-sending-i-hat-j-hat-to-v-w-97d81f1e": [
+          0
+        ],
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7": [
+          1
+        ],
+        "topic-3d-determinant-trick-using-i-hat-j-hat-k-hat-in--2f500bc3": [
+          2
+        ]
+      },
+      "chapter_count": 3
+    },
+    "video-essence-of-linear-algebra-fnk-zzamoss-youtube-374f43f6": {
+      "item_id": "video-essence-of-linear-algebra-fnk-zzamoss-youtube-374f43f6",
+      "title": "Vectors: representations, coordinates, and the basics of addition and scaling",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "fNk_zzaMoSs",
+          "url": "https://www.youtube.com/watch?v=fNk_zzaMoSs"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/fNk_zzaMoSs.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video introduces the vector as a foundational concept in linear algebra, exploring three related perspectives (physics, computer science, and mathematics) and emphasizing the origin-centered geometric view. It explains how vectors can be seen as arrows in space or as ordered lists of numbers, and it shows how a vector in 2D is represented by coordinates (x, y) anchored at the origin, with a brief extension to 3D. The core operations—vector addition (via the tip-to-tail method) and scalar multiplication (scaling)—are defined and illustrated, including how coordinates transform under these operations. The video also discusses the intuition behind these operations, why they are defined the way they are, and how the two representations (space-and-geometry versus numerical lists) interrelate. It ends by foreshadowing more advanced topics like spans, bases, and linear dependence in subsequent videos.",
+      "date": {
+        "display": "August 5, 2016",
+        "iso": "2016-08-05",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-vector-b0d51c58",
+        "topic-physics-perspective-01ebb961",
+        "topic-computer-science-perspective-86b1d25a",
+        "topic-mathematician-perspective-8086b465",
+        "topic-arrows-in-space-b2f82413",
+        "topic-origin-root-of-vectors-94128cee",
+        "topic-x-axis-4a2b49d8",
+        "topic-y-axis-9a4ff81d",
+        "topic-z-axis-4f4855a1",
+        "topic-coordinate-system-4b417ae5",
+        "topic-coordinates-29abdbc9",
+        "topic-ordered-lists-65653356",
+        "topic-vector-as-x-y-1a56575e",
+        "topic-grid-lines-7a04f170",
+        "topic-2d-space-253a5e4d",
+        "topic-3d-space-dc1c3221",
+        "topic-origin-anchoring-07477096",
+        "topic-tail-to-tip-vector-addition-dbd6fbb5",
+        "topic-geometric-interpretation-of-addition-ed2f8711",
+        "topic-component-wise-addition-34b4a777",
+        "topic-vectors-as-lists-of-numbers-543d6492",
+        "topic-scaling-scalar-multiplication-1cd8e252",
+        "topic-stretching-shrinking-c5376be0",
+        "topic-negative-scaling-fe3cdc13",
+        "topic-scalar-vs-number-31466811",
+        "topic-interchange-between-representations-082ebab2",
+        "topic-data-visualization-0ce35f7d",
+        "topic-graphics-and-physics-applications-4590dce1",
+        "topic-upcoming-topics-span-bases-linear-dependence-40e34357"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-vector-b0d51c58": [
+          0,
+          2,
+          3,
+          4,
+          5
+        ],
+        "topic-physics-perspective-01ebb961": [
+          0
+        ],
+        "topic-computer-science-perspective-86b1d25a": [
+          0
+        ],
+        "topic-mathematician-perspective-8086b465": [
+          0
+        ],
+        "topic-arrows-in-space-b2f82413": [
+          2,
+          5
+        ],
+        "topic-origin-root-of-vectors-94128cee": [
+          0,
+          1,
+          2
+        ],
+        "topic-x-axis-4a2b49d8": [
+          1
+        ],
+        "topic-y-axis-9a4ff81d": [
+          1
+        ],
+        "topic-z-axis-4f4855a1": [
+          1
+        ],
+        "topic-coordinate-system-4b417ae5": [
+          1
+        ],
+        "topic-coordinates-29abdbc9": [
+          1,
+          2,
+          3
+        ],
+        "topic-ordered-lists-65653356": [
+          0
+        ],
+        "topic-grid-lines-7a04f170": [
+          1
+        ],
+        "topic-2d-space-253a5e4d": [
+          1
+        ],
+        "topic-tail-to-tip-vector-addition-dbd6fbb5": [
+          2,
+          3
+        ],
+        "topic-vectors-as-lists-of-numbers-543d6492": [
+          4
+        ],
+        "topic-scaling-scalar-multiplication-1cd8e252": [
+          4,
+          5
+        ],
+        "topic-stretching-shrinking-c5376be0": [
+          4
+        ],
+        "topic-negative-scaling-fe3cdc13": [
+          4
+        ],
+        "topic-data-visualization-0ce35f7d": [
+          5
+        ]
+      },
+      "chapter_count": 7
+    },
+    "video-essence-of-linear-algebra-ip3x9loh2dk-youtube-3f7d7b10": {
+      "item_id": "video-essence-of-linear-algebra-ip3x9loh2dk-youtube-3f7d7b10",
+      "title": "Determinant: Visualizing Area and Volume Scaling with Orientation (2D and 3D)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "Ip3X9LOh2dk",
+          "url": "https://www.youtube.com/watch?v=Ip3X9LOh2dk"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/Ip3X9LOh2dk.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video builds an intuition for the determinant as the single scaling factor that a linear transformation applies to area in the plane (and to volume in space). Through concrete 2x2 and 3x3 examples, it shows how basis vectors are transformed, how an area changes for a unit square and a unit cube, and how orientation can flip when the determinant is negative. It also introduces the idea that the determinant is zero exactly when space collapses to a lower dimension, and it provides the 2x2 formula ad − bc with geometric intuition, before hinting at the multiplicative property det(AB) = det(A)det(B).",
+      "date": {
+        "display": "August 10, 2016",
+        "iso": "2016-08-10",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-determinant-concept-as-area-volume-scaling-bf1cd1aa",
+        "topic-area-scaling-under-linear-transformations-2aa217d9",
+        "topic-unit-square-to-rectangle-under-a-matrix-f757712b",
+        "topic-shear-transformation-and-parallelogram-area-a94e32ac",
+        "topic-orientation-and-sign-of-determinants-positive-ne-c62d2146",
+        "topic-right-hand-rule-for-3d-orientation-0ec832b3",
+        "topic-determinant-zero-and-dimensional-collapse-a059bf98",
+        "topic-2x2-determinant-formula-ad-bc-1a8ddb07",
+        "topic-intuition-behind-determinant-terms-a-b-c-d-5826dc43",
+        "topic-3x3-determinant-as-volume-scaling-unit-cube-to-p-52cfeb13",
+        "topic-determinant-of-product-property-det-ab-det-a-det-e7a8c1d0",
+        "topic-linear-independence-and-determinant-columns-26bbefdb",
+        "topic-grid-argument-for-uniform-area-changes-8a77a8aa",
+        "topic-parallelepiped-terminology-in-3d-76bdc621"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-determinant-concept-as-area-volume-scaling-bf1cd1aa": [
+          4
+        ],
+        "topic-orientation-and-sign-of-determinants-positive-ne-c62d2146": [
+          2,
+          3
+        ],
+        "topic-right-hand-rule-for-3d-orientation-0ec832b3": [
+          4
+        ],
+        "topic-2x2-determinant-formula-ad-bc-1a8ddb07": [
+          5
+        ],
+        "topic-determinant-of-product-property-det-ab-det-a-det-e7a8c1d0": [
+          6
+        ]
+      },
+      "chapter_count": 7
+    },
+    "video-essence-of-linear-algebra-jbsc34pxzom-youtube-9611f371": {
+      "item_id": "video-essence-of-linear-algebra-jbsc34pxzom-youtube-9611f371",
+      "title": "Geometric derivation of Cramer's rule (2x2 and beyond) | Essence of Linear Algebra, Chapter 12",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "jBsC34PxzoM",
+          "url": "https://www.youtube.com/watch?v=jBsC34PxzoM"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/jBsC34PxzoM.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "3Blue1Brown presents a geometric take on solving linear systems with two unknowns using Cramer’s rule. Framing the problem as a matrix transforming an input vector to a known output, the lecture explores how determinants encode area (and, in 3D, volume) scaling under a linear transformation. The video walks through the idea that coordinates can be recovered from areas associated with parallelograms (and parallelepipeds in higher dimensions), and shows how replacing columns in the coefficient matrix yields the determinants used to compute each coordinate. It emphasizes that Cramer’s rule is not the fastest computational method (Gaussian elimination is typically quicker) but serves as a deep, visual intuition linking determinants, dot products, and linear systems, with a concrete 2×2 numeric example and a nod toward higher dimensions.)",
+      "date": {
+        "display": "March 16, 2019",
+        "iso": "2019-03-16",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-cramer-s-rule-1eb38264",
+        "topic-determinants-51aa69f0",
+        "topic-matrix-as-linear-transformation-9ef757ed",
+        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-parallelogram-area-representing-coordinates-2d-b3728c39",
+        "topic-parallelepiped-volume-representing-coordinates-3-b8a09307",
+        "topic-determinant-as-uniform-area-volume-scaling-0099461b",
+        "topic-determinants-with-replaced-columns-a-x-a-y-d02a75a5",
+        "topic-nonzero-determinant-implying-invertibility-b0997696",
+        "topic-higher-dimensional-generalization-3x3-etc-2ac91cc3",
+        "topic-orthogonality-and-dot-product-preservation-in-sp-11c6670c",
+        "topic-gaussian-elimination-versus-cramer-s-rule-concep-90c8eec2",
+        "topic-right-hand-rule-and-determinant-sign-59159ec7",
+        "topic-geometric-intuition-for-linear-systems-639e2f96",
+        "topic-consolidation-of-linear-algebra-concepts-determi-7f1830c4"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-cramer-s-rule-1eb38264": [
+          0,
+          1
+        ],
+        "topic-determinants-51aa69f0": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": [
+          1
+        ],
+        "topic-determinant-as-uniform-area-volume-scaling-0099461b": [
+          1
+        ],
+        "topic-determinants-with-replaced-columns-a-x-a-y-d02a75a5": [
+          1
+        ]
+      },
+      "chapter_count": 5
+    },
+    "video-essence-of-linear-algebra-k7rm-ot2nwy-youtube-c8b32d77": {
+      "item_id": "video-essence-of-linear-algebra-k7rm-ot2nwy-youtube-c8b32d77",
+      "title": "Linear combinations, span, and basis vectors: core ideas in Chapter 2 (Essence of Linear Algebra, 3Blue1Brown)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "k7RM-ot2NWY",
+          "url": "https://www.youtube.com/watch?v=k7RM-ot2NWY"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/k7RM-ot2NWY.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video establishes how coordinates in a vector space can be understood as scalars multiplying basis vectors, introduces the notions of span, linear combinations, and linear (in)dependence, and explains how the choice of basis alters the coordinate description. Using the familiar i-hat and j-hat for 2D, it shows when a set of vectors spans the entire space, reduces to a line, or collapses to a single point. The discussion then extends to three dimensions, illustrating how adding a non-coplanar vector expands the span from a plane to all of space, and it defines what a basis is (a linearly independent spanning set). The video concludes by foreshadowing matrices in transforming space.",
+      "date": {
+        "display": "August 6, 2016",
+        "iso": "2016-08-06",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-i-hat-unit-x-basis-vector-e3329604",
+        "topic-j-hat-unit-y-basis-vector-abf2e17a",
+        "topic-basis-of-a-coordinate-system-249aac25",
+        "topic-scalars-as-coordinates-68ffcc75",
+        "topic-linear-combination-86e6e483",
+        "topic-span-37a0025a",
+        "topic-plane-vs-line-vs-origin-11db3e27",
+        "topic-two-vectors-in-2d-4b71df5b",
+        "topic-non-colinear-vectors-in-3d-ec78f820",
+        "topic-span-in-3d-d6dffc66",
+        "topic-three-vector-span-aa916454",
+        "topic-linear-dependence-59c3d9ef",
+        "topic-linear-independence-798ac4c2",
+        "topic-redundant-vectors-5c8f3129",
+        "topic-basis-definition-f60232d9",
+        "topic-coordinates-depend-on-basis-0f22b8fe",
+        "topic-visual-interpretation-vectors-as-arrows-vs-point-8771a520",
+        "topic-matrices-in-transforming-space-preview-1d48f08a"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-basis-of-a-coordinate-system-249aac25": [
+          1
+        ],
+        "topic-scalars-as-coordinates-68ffcc75": [
+          0
+        ],
+        "topic-linear-combination-86e6e483": [
+          0,
+          3,
+          5,
+          9
+        ],
+        "topic-span-37a0025a": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          10
+        ],
+        "topic-plane-vs-line-vs-origin-11db3e27": [
+          5
+        ],
+        "topic-non-colinear-vectors-in-3d-ec78f820": [
+          7
+        ],
+        "topic-span-in-3d-d6dffc66": [
+          7
+        ],
+        "topic-three-vector-span-aa916454": [
+          8
+        ],
+        "topic-linear-dependence-59c3d9ef": [
+          9
+        ],
+        "topic-linear-independence-798ac4c2": [
+          9,
+          10
+        ],
+        "topic-redundant-vectors-5c8f3129": [
+          9
+        ],
+        "topic-basis-definition-f60232d9": [
+          10
+        ]
+      },
+      "chapter_count": 12
+    },
+    "video-essence-of-linear-algebra-kyb8iza5aue-youtube-fd84e09b": {
+      "item_id": "video-essence-of-linear-algebra-kyb8iza5aue-youtube-fd84e09b",
+      "title": "2D Linear Transformations and their Matrix Representation (i-hat and j-hat)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "kYB8IZa5AuE",
+          "url": "https://www.youtube.com/watch?v=kYB8IZa5AuE"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/kYB8IZa5AuE.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video introduces linear transformations in two dimensions and shows how every such transformation can be encoded by a 2x2 matrix. It emphasizes visual intuition by treating input vectors as points on a grid and watching how the entire space is mapped while preserving straight lines and fixing the origin. The key idea is that the transformation is completely determined by where the two basis vectors i-hat and j-hat land; those two image vectors form the columns of the describing matrix, and all other vectors are obtained by linear combinations of these images. Concrete examples include a 90-degree rotation and a shear, with a clear formula for how a general vector (x, y) is mapped to x times the image of i-hat plus y times the image of j-hat. The video culminates in taking away the perspective that matrices are transformations of space, a viewpoint that clarifies later topics like matrix multiplication, determinants, and eigenvalues.",
+      "date": {
+        "display": "August 7, 2016",
+        "iso": "2016-08-07",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-linear-transformation-c2e6dacb",
+        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-2x2-matrices-4d5bd193",
+        "topic-matrix-vector-multiplication-4a7f1f55",
+        "topic-images-of-basis-vectors-as-matrix-columns-c9c0163d",
+        "topic-general-mapping-formula-ax-by-cx-dy-65f170c0",
+        "topic-rotation-by-90-degrees-dc65cb1c",
+        "topic-shear-transformation-951c4ea5",
+        "topic-grid-visualization-of-transformations-51fabd6b",
+        "topic-origin-fixed-aac02461",
+        "topic-parallelism-preservation-7d8c03dd",
+        "topic-linear-independence-and-space-squishing-f0a54b18",
+        "topic-interpretation-of-matrices-as-space-transformati-b528db7b"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-linear-transformation-c2e6dacb": [
+          0,
+          2
+        ],
+        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": [
+          0,
+          1
+        ],
+        "topic-matrix-vector-multiplication-4a7f1f55": [
+          2
+        ],
+        "topic-images-of-basis-vectors-as-matrix-columns-c9c0163d": [
+          2
+        ],
+        "topic-shear-transformation-951c4ea5": [
+          2
+        ],
+        "topic-origin-fixed-aac02461": [
+          0
+        ]
+      },
+      "chapter_count": 4
+    },
+    "video-essence-of-linear-algebra-lygkycyt2v0-youtube-befa1e69": {
+      "item_id": "video-essence-of-linear-algebra-lygkycyt2v0-youtube-befa1e69",
+      "title": "Dot products and duality: projection, matrices, and the transformation view",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "LyGKycYT2v0",
+          "url": "https://www.youtube.com/watch?v=LyGKycYT2v0"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/LyGKycYT2v0.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "In this 3Blue1Brown segment from Essence of Linear Algebra, the dot product is revisited not as a stand-alone computation but as a gateway to projections, linear transformations, and duality. The talk starts from the standard coordinate-wise definition and geometric projection interpretation, covers how dot products reflect whether vectors point in the same direction, are perpendicular, or oppose each other, and discusses the symmetry of the operation. It then builds a bridge to the matrix view by treating a 2D-to-1D transformation as a 1-by-2 matrix, illustrated with the Ihat, Jhat basis and a concrete example. A key move is embedding a number line diagonally in 2D space to show how a unit-vector projection corresponds to a 1-by-2 matrix acting on vectors, which leads to the core idea of duality: certain 1D-linear transformations correspond to specific vectors in the plane, and vice versa. The video culminates in a conceptual synthesis—dot products as a way to translate vectors into the world of transformations—before alluding to the cross product in the next video.",
+      "date": {
+        "display": "August 24, 2016",
+        "iso": "2016-08-24",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-dot-product-e01902fe",
+        "topic-coordinate-wise-product-b4d8affa",
+        "topic-projection-of-w-onto-v-1322a6a0",
+        "topic-positive-negative-zero-dot-product-71872352",
+        "topic-orthogonality-acbe9d81",
+        "topic-order-symmetry-of-dot-product-80b6a7ca",
+        "topic-linear-transformation-from-r-2-to-r-c1a9945b",
+        "topic-1x2-matrix-representation-3159a240",
+        "topic-i-hat-and-j-hat-basis-vectors-c2d93daf",
+        "topic-matrix-vector-multiplication-4a7f1f55",
+        "topic-dot-product-as-a-projection-onto-a-unit-vector-b11ec13b",
+        "topic-span-of-a-unit-vector-facb94ac",
+        "topic-projection-length-e49906ab",
+        "topic-non-unit-vectors-and-scaling-in-dot-products-148e4ac9",
+        "topic-duality-in-linear-algebra-5c56b5a3",
+        "topic-vectors-as-transformations-b353060c",
+        "topic-embedding-the-number-line-in-2d-space-bc252347",
+        "topic-dual-of-a-vector-vs-dual-of-a-transformation-7b07927e",
+        "topic-visual-interpretation-of-duality-3dc5a8ca"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-dot-product-e01902fe": [
+          0,
+          1,
+          3
+        ],
+        "topic-positive-negative-zero-dot-product-71872352": [
+          0
+        ],
+        "topic-orthogonality-acbe9d81": [
+          0
+        ],
+        "topic-order-symmetry-of-dot-product-80b6a7ca": [
+          0
+        ],
+        "topic-linear-transformation-from-r-2-to-r-c1a9945b": [
+          1
+        ],
+        "topic-1x2-matrix-representation-3159a240": [
+          1
+        ],
+        "topic-matrix-vector-multiplication-4a7f1f55": [
+          1
+        ],
+        "topic-span-of-a-unit-vector-facb94ac": [
+          2
+        ],
+        "topic-projection-length-e49906ab": [
+          2
+        ],
+        "topic-embedding-the-number-line-in-2d-space-bc252347": [
+          1
+        ]
+      },
+      "chapter_count": 4
+    },
+    "video-essence-of-linear-algebra-p2ltauo1tda-youtube-6a9b84e6": {
+      "item_id": "video-essence-of-linear-algebra-p2ltauo1tda-youtube-6a9b84e6",
+      "title": "Change of Basis in Linear Algebra: Translating Vectors Between Coordinate Systems (Jennifer’s Basis)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "P2LTAUO1TdA",
+          "url": "https://www.youtube.com/watch?v=P2LTAUO1TdA"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/P2LTAUO1TdA.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "3Blue1Brown’s chapter on Change of Basis explains how vectors and coordinates depend on the chosen basis. The video introduces standard basis vectors i-hat and j-hat, then presents Jennifer’s alternate basis b1 = (2,1) and b2 = (-1,1). It shows how a vector described in our coordinates (3,2) can be expressed in Jennifer’s coordinates as (5/3, 1/3) by forming the change-of-basis matrix from Jennifer’s basis and applying it to the vector. The inverse matrix translates in the opposite direction, enabling us to convert (3,2) to Jennifer’s language with coordinates (5/3, 1/3). The talk then connects these ideas to matrix-vector multiplication, viewing a matrix whose columns are Jennifer’s basis vectors as a transformation that maps our standard basis to Jennifer’s. It demonstrates how to rotate space (90-degree CCW) and how to compute the corresponding transformation in Jennifer’s language via A^{-1} M A, illustrating the idea of “empathy” between coordinate systems. The section concludes by tying these constructions to the general utility of changing basis and hints at eigenvectors and eigenvalues in a subsequent video. ",
+      "date": {
+        "display": "September 11, 2016",
+        "iso": "2016-09-11",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-basis-vectors-c7b4cebf",
+        "topic-i-hat-and-j-hat-8a204faf",
+        "topic-coordinate-systems-f1311792",
+        "topic-jennifer-s-basis-b1-2-1-and-b2-1-1-becd8668",
+        "topic-change-of-basis-matrix-columns-as-basis-vectors-070705f6",
+        "topic-inverse-change-of-basis-matrix-fd4ae9ea",
+        "topic-translating-coordinates-between-bases-e-g-3-2-5--3c8004a4",
+        "topic-matrix-vector-multiplication-as-basis-transforma-8d90b909",
+        "topic-rotation-by-90-degrees-and-its-matrix-in-differe-e75c2c0d",
+        "topic-a-1-m-a-triple-matrix-form-468f9cb6",
+        "topic-empathy-view-of-coordinate-transformations-650b6f7d",
+        "topic-transforming-between-languages-of-coordinates-4bfe1319",
+        "topic-geometric-vs-numeric-descriptions-of-transformat-5fc77289",
+        "topic-computational-steps-for-higher-dimensions-invers-cd954241",
+        "topic-link-to-eigenvectors-eigenvalues-in-next-video-48ac356d",
+        "topic-visualizing-grids-vs-intrinsic-space-eef44dc6"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-basis-vectors-c7b4cebf": [
+          0,
+          1,
+          2
+        ],
+        "topic-i-hat-and-j-hat-8a204faf": [
+          0
+        ],
+        "topic-coordinate-systems-f1311792": [
+          1
+        ],
+        "topic-jennifer-s-basis-b1-2-1-and-b2-1-1-becd8668": [
+          1
+        ],
+        "topic-change-of-basis-matrix-columns-as-basis-vectors-070705f6": [
+          1
+        ],
+        "topic-inverse-change-of-basis-matrix-fd4ae9ea": [
+          1,
+          2
+        ],
+        "topic-translating-coordinates-between-bases-e-g-3-2-5--3c8004a4": [
+          1,
+          2
+        ],
+        "topic-link-to-eigenvectors-eigenvalues-in-next-video-48ac356d": [
+          2
+        ]
+      },
+      "chapter_count": 3
+    },
+    "video-essence-of-linear-algebra-pfdu9ovae-g-youtube-e57f7be4": {
+      "item_id": "video-essence-of-linear-algebra-pfdu9ovae-g-youtube-e57f7be4",
+      "title": "Eigenvectors and eigenvalues: invariant directions and diagonalization",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "PFDu9oVAE-g",
+          "url": "https://www.youtube.com/watch?v=PFDu9oVAE-g"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/PFDu9oVAE-g.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "3Blue1Brown’s Essence of Linear Algebra Chapter 14 visually introduces eigenvectors and eigenvalues as the invariant directions of a linear transformation. The video works through a concrete 2D example where the transformation stretches along specific lines (the x-axis and a diagonal line), then formalizes the eigenvector equation Av = λv, leading to the standard determinant-based eigenvalue computation det(A − λI) = 0. It shows how to extract eigenvectors by solving (A − λI)v = 0, gives concrete eigenvectors for the example (e.g., along (1,0) and (−1,1)), and discusses special cases such as rotations (which may have no real eigenvectors) and shear (limited eigenvectors). The concept of an eigenbasis is introduced, explaining how if a matrix has enough eigenvectors, changing to that basis diagonalizes the transformation, making computations such as high powers of A straightforward. The video also connects these ideas to change of basis and emphasizes when diagonalization is beneficial (and when it isn’t).",
+      "date": {
+        "display": "September 15, 2016",
+        "iso": "2016-09-15",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-eigenvectors-cef34519",
+        "topic-eigenvalues-288cf526",
+        "topic-linear-transformations-fe92792d",
+        "topic-span-37a0025a",
+        "topic-basis-vectors-c7b4cebf",
+        "topic-av-v-feebcdb9",
+        "topic-a-i-v-0-6f2d60f2",
+        "topic-det-a-i-0-5e94ac36",
+        "topic-characteristic-equation-20cc6efc",
+        "topic-diagonalization-e709da0c",
+        "topic-eigenbasis-967c37eb",
+        "topic-change-of-basis-52d05949",
+        "topic-p-1-ap-d-ec00789f",
+        "topic-diagonal-matrices-d35d697e",
+        "topic-powers-of-a-matrix-4a48c72c",
+        "topic-rotation-vs-eigenvectors-05b1d2d5",
+        "topic-shear-and-eigenvectors-433c106e",
+        "topic-axis-of-rotation-b364fd29",
+        "topic-invariant-directions-8ecfddf5",
+        "topic-2d-example-matrix-3-1-0-2-5250fe82",
+        "topic-eigenvectors-directions-1-0-and-1-1-f021166a",
+        "topic-invariant-lines-and-spans-4c2a880c"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-eigenvectors-cef34519": [
+          0,
+          1,
+          2,
+          4,
+          5
+        ],
+        "topic-eigenvalues-288cf526": [
+          0,
+          2,
+          3,
+          4,
+          5
+        ],
+        "topic-linear-transformations-fe92792d": [
+          0
+        ],
+        "topic-span-37a0025a": [
+          0
+        ],
+        "topic-basis-vectors-c7b4cebf": [
+          0
+        ],
+        "topic-av-v-feebcdb9": [
+          2
+        ],
+        "topic-a-i-v-0-6f2d60f2": [
+          2,
+          4
+        ],
+        "topic-det-a-i-0-5e94ac36": [
+          2,
+          3
+        ],
+        "topic-characteristic-equation-20cc6efc": [
+          2,
+          3
+        ],
+        "topic-diagonalization-e709da0c": [
+          6
+        ],
+        "topic-eigenbasis-967c37eb": [
+          6
+        ],
+        "topic-change-of-basis-52d05949": [
+          7
+        ],
+        "topic-p-1-ap-d-ec00789f": [
+          6
+        ],
+        "topic-diagonal-matrices-d35d697e": [
+          5
+        ],
+        "topic-powers-of-a-matrix-4a48c72c": [
+          5,
+          6
+        ],
+        "topic-shear-and-eigenvectors-433c106e": [
+          5
+        ],
+        "topic-axis-of-rotation-b364fd29": [
+          1
+        ],
+        "topic-invariant-directions-8ecfddf5": [
+          0
+        ],
+        "topic-2d-example-matrix-3-1-0-2-5250fe82": [
+          1
+        ]
+      },
+      "chapter_count": 8
+    },
+    "video-essence-of-linear-algebra-rhlewrxrgim-youtube-b369c349": {
+      "item_id": "video-essence-of-linear-algebra-rhlewrxrgim-youtube-b369c349",
+      "title": "Three-Dimensional Linear Transformations: Basis Vectors, 3x3 Matrices, and Transformation Composition",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "rHLEWRxRGiM",
+          "url": "https://www.youtube.com/watch?v=rHLEWRxRGiM"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/rHLEWRxRGiM.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This short footnote from 3Blue1Brown’s Essence of Linear Algebra expands the prior two-dimensional focus into three dimensions. It explains that a 3D linear transformation is fully described by the images of the three standard basis vectors (i-hat, j-hat, k-hat), whose coordinates form the columns of a 3×3 transformation matrix. The video shows how to visualize a 3D transform by tracking how basis vectors move, how to compute the image of an arbitrary vector via matrix-column scaling and summation, and how multiplying two 3×3 matrices corresponds to composing two transformations. It also highlights the practical significance of 3D transforms in fields like computer graphics and robotics, and it briefly points forward to the determinant as the next topic.",
+      "date": {
+        "display": "August 9, 2016",
+        "iso": "2016-08-09",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-3d-linear-transformations-b6d199e8",
+        "topic-3x3-transformation-matrices-14141dc1",
+        "topic-basis-vectors-i-hat-j-hat-k-hat-0c2c8111",
+        "topic-images-of-basis-vectors-under-a-3d-transform-d828469b",
+        "topic-construction-of-a-3x3-matrix-from-basis-coordina-7ab4c9e8",
+        "topic-rotation-in-3d-example-90-degree-rotation-around-cc2ced01",
+        "topic-applying-a-3x3-matrix-to-a-3d-vector-4f0d964b",
+        "topic-pre-and-post-transformation-scaling-and-addition-9a14a112",
+        "topic-vector-decomposition-with-respect-to-a-basis-ff306084",
+        "topic-matrix-multiplication-in-3d-a015fe54",
+        "topic-transformation-composition-right-to-left-order-4d77fbb7",
+        "topic-applications-in-computer-graphics-d166dd81",
+        "topic-applications-in-robotics-065e64cd",
+        "topic-determinant-as-a-future-topic-4df44790",
+        "topic-visualization-of-3d-grids-under-transformation-a264d315"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-3d-linear-transformations-b6d199e8": [
+          0
+        ],
+        "topic-basis-vectors-i-hat-j-hat-k-hat-0c2c8111": [
+          0,
+          1
+        ],
+        "topic-matrix-multiplication-in-3d-a015fe54": [
+          0,
+          4
+        ]
+      },
+      "chapter_count": 5
+    },
+    "video-essence-of-linear-algebra-tgkwz5ikpc8-youtube-0c8ecfd4": {
+      "item_id": "video-essence-of-linear-algebra-tgkwz5ikpc8-youtube-0c8ecfd4",
+      "title": "Polynomials as Vectors: Representing the Derivative as a Linear Operator",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "TgKwz5Ikpc8",
+          "url": "https://www.youtube.com/watch?v=TgKwz5Ikpc8"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/TgKwz5Ikpc8.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "In this episode from the Essence of Linear Algebra, the author broadens the notion of a vector beyond arrows or lists of numbers to include function spaces, and then uses polynomials as a concrete, infinite-dimensional example. Functions can be added and scaled just like vectors, and linear transformations (operators) preserve these two operations. A basis for polynomials is chosen using powers of x, rendering polynomials as coordinate vectors with infinite length (only finitely many nonzero terms). The derivative operator is then shown to be linear, and with respect to the polynomial basis it is represented by an infinite, mostly-zero matrix that shifts coefficients down the diagonal. A practical demonstration on a specific polynomial shows how the derivative corresponds to a matrix-vector product in this basis. The video culminates by framing linear algebra as a general theory that applies to many vector-like objects (arrows, numbers, functions, etc.) via a shared axiomatic structure of vector spaces and linear transformations.",
+      "date": {
+        "display": "September 24, 2016",
+        "iso": "2016-09-24",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-vectors-29a6a5e3",
+        "topic-vectors-as-arrows-479d5f0b",
+        "topic-lists-of-numbers-b27e8589",
+        "topic-vector-spaces-bb805e98",
+        "topic-basis-a7a3c8f6",
+        "topic-coordinates-29abdbc9",
+        "topic-polynomials-566f35e7",
+        "topic-infinite-dimensional-spaces-78ed7cfa",
+        "topic-basis-1-x-x-2-5081dcac",
+        "topic-functions-as-vectors-41c4503e",
+        "topic-function-addition-b4b67400",
+        "topic-scalar-multiplication-2e74d357",
+        "topic-linear-transformations-fe92792d",
+        "topic-operators-b2db06dc",
+        "topic-additivity-eee90864",
+        "topic-scaling-567cf013",
+        "topic-derivative-as-a-linear-operator-2e4ac7ca",
+        "topic-matrix-representation-of-a-linear-operator-36f5efa8",
+        "topic-derivative-matrix-in-polynomial-basis-b0ea5f4f",
+        "topic-basis-dependent-matrices-b5dfb18a",
+        "topic-matrix-vector-multiplication-4a7f1f55",
+        "topic-eigenfunctions-eigenvectors-00215f46",
+        "topic-axioms-of-vector-spaces-d98f4feb",
+        "topic-abstraction-in-linear-algebra-f4511bc5"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-vectors-29a6a5e3": [
+          0,
+          1,
+          3,
+          5,
+          7,
+          8
+        ],
+        "topic-vectors-as-arrows-479d5f0b": [
+          0
+        ],
+        "topic-lists-of-numbers-b27e8589": [
+          0
+        ],
+        "topic-vector-spaces-bb805e98": [
+          5,
+          7
+        ],
+        "topic-basis-a7a3c8f6": [
+          0,
+          3,
+          5,
+          6
+        ],
+        "topic-coordinates-29abdbc9": [
+          0,
+          1,
+          5
+        ],
+        "topic-polynomials-566f35e7": [
+          5,
+          6
+        ],
+        "topic-infinite-dimensional-spaces-78ed7cfa": [
+          5
+        ],
+        "topic-basis-1-x-x-2-5081dcac": [
+          5
+        ],
+        "topic-functions-as-vectors-41c4503e": [
+          1
+        ],
+        "topic-function-addition-b4b67400": [
+          1
+        ],
+        "topic-scalar-multiplication-2e74d357": [
+          1
+        ],
+        "topic-linear-transformations-fe92792d": [
+          1,
+          2,
+          3
+        ],
+        "topic-operators-b2db06dc": [
+          2,
+          4,
+          6
+        ],
+        "topic-additivity-eee90864": [
+          1,
+          2
+        ],
+        "topic-scaling-567cf013": [
+          1,
+          2
+        ],
+        "topic-derivative-as-a-linear-operator-2e4ac7ca": [
+          4
+        ],
+        "topic-derivative-matrix-in-polynomial-basis-b0ea5f4f": [
+          6
+        ],
+        "topic-matrix-vector-multiplication-4a7f1f55": [
+          7
+        ],
+        "topic-eigenfunctions-eigenvectors-00215f46": [
+          7
+        ],
+        "topic-axioms-of-vector-spaces-d98f4feb": [
+          7
+        ]
+      },
+      "chapter_count": 9
+    },
+    "video-essence-of-linear-algebra-uqhturlwmxw-youtube-c4d38ff9": {
+      "item_id": "video-essence-of-linear-algebra-uqhturlwmxw-youtube-c4d38ff9",
+      "title": "Inverse matrices, column space, and null space (Chapter 7) – Essence of Linear Algebra",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "uQhTuRlWMxw",
+          "url": "https://www.youtube.com/watch?v=uQhTuRlWMxw"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/uQhTuRlWMxw.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video builds intuition for inverse matrices, the column space, rank, and the null space through the geometric lens of linear transformations. It frames linear systems as Ax = V, where A is a matrix of coefficients, X the unknown vector, and V the right-hand side. The discussion covers when A is invertible (nonzero determinant) and how the inverse A^{-1} undoes A to solve Ax = V, emphasizing that in the nonzero-determinant case there is a unique solution obtained by applying the inverse to V. The video also introduces the concepts of the column space (the set of all possible outputs of the transformation), rank (the dimension of that output space), and the null space (the set of vectors that map to zero), and it highlights how these ideas explain existence and form of solutions in a geometric way. Throughout, the focus is on intuition rather than computational methods, noting that practical calculation is typically left to software and that Gaussian elimination/row-echelon methods lie outside the scope of this particular presentation. The content also touches on the use of linear algebra in applications like computer graphics and robotics, and it signals that a future short footnote will cover non-square matrices.",
+      "date": {
+        "display": "August 15, 2016",
+        "iso": "2016-08-15",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-ax-v-as-a-linear-transformation-601d948d",
+        "topic-a-as-a-linear-transformation-654d131e",
+        "topic-x-as-the-variable-vector-9d13fc2b",
+        "topic-v-as-the-right-hand-side-vector-7057d15a",
+        "topic-geometric-interpretation-of-solving-ax-v-0083c1cf",
+        "topic-determinant-and-invertibility-a003820c",
+        "topic-nonzero-determinant-implies-a-unique-solution-24870363",
+        "topic-inverse-matrix-a-1-b06120b0",
+        "topic-a-1-a-i-and-the-identity-transformation-be4937da",
+        "topic-solving-ax-v-by-applying-a-1-to-v-8a690d60",
+        "topic-two-and-three-variable-systems-2x2-3x3-929ce96a",
+        "topic-square-matrices-vs-non-square-matrices-scope-cla-0de2db41",
+        "topic-column-space-and-rank-bed78e93",
+        "topic-rank-as-the-dimension-of-the-column-space-fd3527fd",
+        "topic-full-rank-and-nonzero-determinant-53ddce1f",
+        "topic-null-space-kernel-and-solutions-to-ax-0-c2b0c2cf",
+        "topic-zero-determinant-and-noninvertible-cases-1a651d97",
+        "topic-when-solutions-exist-without-an-inverse-2a6623ca",
+        "topic-applications-computer-graphics-and-robotics-d8894d72",
+        "topic-reference-to-external-computation-tools-gaussian-aa236072",
+        "topic-future-topics-non-square-matrices-and-dot-produc-064b648f"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-a-as-a-linear-transformation-654d131e": [
+          0
+        ],
+        "topic-x-as-the-variable-vector-9d13fc2b": [
+          0
+        ],
+        "topic-geometric-interpretation-of-solving-ax-v-0083c1cf": [
+          0
+        ],
+        "topic-inverse-matrix-a-1-b06120b0": [
+          1
+        ],
+        "topic-solving-ax-v-by-applying-a-1-to-v-8a690d60": [
+          1
+        ],
+        "topic-column-space-and-rank-bed78e93": [
+          2
+        ],
+        "topic-rank-as-the-dimension-of-the-column-space-fd3527fd": [
+          2
+        ]
+      },
+      "chapter_count": 3
+    },
+    "video-essence-of-linear-algebra-v8vsdg-wqla-youtube-45ed7575": {
+      "item_id": "video-essence-of-linear-algebra-v8vsdg-wqla-youtube-45ed7575",
+      "title": "Non-square matrices as dimension-changing linear transformations (3Blue1Brown, Essence of Linear Algebra)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "v8VSDg_WQlA",
+          "url": "https://www.youtube.com/watch?v=v8VSDg_WQlA"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/v8VSDg_WQlA.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video explains the geometric meaning of non-square matrices as linear transformations between spaces of different dimensions. It shows that a matrix encodes a map by recording where the basis vectors land, with the matrix shape indicating input and output dimensions (e.g., a 3×2 matrix maps 2D input to 3D output; a 2×3 matrix maps 3D input to 2D output). The discussion introduces the column space as the image of the transformation (a plane through the origin in the output space) and covers the notion of full rank in the context of these maps. It also demonstrates a 2D-to-1D case encoded by a 1×2 matrix and hints at the connection to the dot product, inviting further exploration of transformations between differing dimensions.",
+      "date": {
+        "display": "August 16, 2016",
+        "iso": "2016-08-16",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-non-square-matrices-64ba8128",
+        "topic-linear-transformations-between-different-dimensi-6bb1059d",
+        "topic-input-space-vs-output-space-a6e22732",
+        "topic-basis-vectors-c7b4cebf",
+        "topic-images-of-basis-vectors-eaaa572f",
+        "topic-columns-of-a-matrix-3d3cad1d",
+        "topic-3-2-matrix-2d-3d-mapping-0a01e463",
+        "topic-2-3-matrix-3d-2d-mapping-f035f81c",
+        "topic-column-space-a33547e4",
+        "topic-plane-through-the-origin-6b04b54f",
+        "topic-rank-and-full-rank-af27a7b4",
+        "topic-transformation-from-2d-to-1d-bc8dd9b9",
+        "topic-dot-product-relation-hinted-for-next-video-c0952368",
+        "topic-grid-line-preservation-and-origin-mapping-37203686"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-non-square-matrices-64ba8128": [
+          0
+        ],
+        "topic-input-space-vs-output-space-a6e22732": [
+          1
+        ],
+        "topic-basis-vectors-c7b4cebf": [
+          1,
+          2,
+          5
+        ],
+        "topic-images-of-basis-vectors-eaaa572f": [
+          1,
+          2
+        ],
+        "topic-columns-of-a-matrix-3d3cad1d": [
+          1,
+          5
+        ],
+        "topic-column-space-a33547e4": [
+          1,
+          3
+        ],
+        "topic-plane-through-the-origin-6b04b54f": [
+          1,
+          3
+        ],
+        "topic-rank-and-full-rank-af27a7b4": [
+          3
+        ]
+      },
+      "chapter_count": 8
+    },
+    "video-essence-of-linear-algebra-xky2doucwmu-youtube-74087d50": {
+      "item_id": "video-essence-of-linear-algebra-xky2doucwmu-youtube-74087d50",
+      "title": "Matrix multiplication as composition: interpreting linear transformations via basis vectors (Essence of Linear Algebra, Chapter 4)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "XkY2DOUCWMU",
+          "url": "https://www.youtube.com/watch?v=XkY2DOUCWMU"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/XkY2DOUCWMU.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "3Blue1Brown’s Essence of Linear Algebra, Chapter 4, presents matrix multiplication as the composition of linear transformations. The video recalls that a linear transformation is determined by the images of the basis vectors i-hat and j-hat, so the matrix columns encode these transformed bases. It then shows how composing two transformations (e.g., rotation followed by a shear) yields a single matrix—the product—that captures the overall effect. The derivation is illustrated both geometrically and numerically: you can obtain the composition matrix by tracking where each basis vector ends up through the sequence, or by applying the left matrix to each column of the right matrix. The right-to-left reading of products follows from function notation. The chapter also covers the order-sensitivity of composition, demonstrates a concrete 2×2 example, generalizes to symbolic matrices, discusses associativity from a transformation viewpoint, and ends by encouraging conceptual understanding over memorization while foreshadowing higher-dimensional extensions in the next video.",
+      "date": {
+        "display": "August 8, 2016",
+        "iso": "2016-08-08",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-linear-transformations-fe92792d",
+        "topic-matrix-representation-f20d8895",
+        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-columns-of-a-matrix-as-transformed-basis-vectors-21ae4e2f",
+        "topic-matrix-vector-multiplication-4a7f1f55",
+        "topic-composition-of-linear-transformations-10b3a8c6",
+        "topic-product-of-matrices-304b3cbd",
+        "topic-order-of-multiplication-right-to-left-5d070f63",
+        "topic-geometric-interpretation-of-matrix-products-e29ffc33",
+        "topic-rotation-followed-by-shear-8cd4302d",
+        "topic-computing-composition-matrices-from-m1-and-m2-68d7b3ab",
+        "topic-column-by-column-computation-7ba7f714",
+        "topic-symbolic-matrix-entries-bdd88cd3",
+        "topic-associativity-of-matrix-multiplication-1b9c545d",
+        "topic-transformation-based-intuition-vs-rote-computati-296513dd",
+        "topic-extending-to-higher-dimensions-131b0d91",
+        "topic-visual-intuition-in-linear-algebra-5c0edce8",
+        "topic-function-notation-and-composition-9e25e193"
+      ],
+      "family_ids": [],
+      "topic_sections": {
+        "topic-linear-transformations-fe92792d": [
+          0
+        ],
+        "topic-matrix-representation-f20d8895": [
+          0
+        ],
+        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": [
+          0
+        ],
+        "topic-matrix-vector-multiplication-4a7f1f55": [
+          0
+        ],
+        "topic-product-of-matrices-304b3cbd": [
+          1
+        ],
+        "topic-rotation-followed-by-shear-8cd4302d": [
+          1
+        ],
+        "topic-symbolic-matrix-entries-bdd88cd3": [
+          3
+        ],
+        "topic-associativity-of-matrix-multiplication-1b9c545d": [
+          5
+        ]
+      },
+      "chapter_count": 7
+    }
+  },
+  "stats": {
+    "video_count": 16,
+    "topic_count": 272,
+    "topic_family_count": 0
+  },
+  "description": "A Watchcraft collection generated from the Essence of linear algebra YouTube playlist.",
+  "publisher": "3Blue1Brown",
+  "source": {
+    "type": "youtube-playlist",
+    "playlist_id": "PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+    "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+    "excluded_video_ids": [],
+    "publisher": "3Blue1Brown",
+    "publisher_url": "https://www.youtube.com/@3blue1brown"
+  },
+  "revision": 1,
+  "content_hash": "c658c55338b18a881684d57e21dec17f370e0f1e703ae8614cb00295ad970db1"
+}

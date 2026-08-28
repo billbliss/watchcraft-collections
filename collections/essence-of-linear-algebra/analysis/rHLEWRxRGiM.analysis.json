@@ -1,0 +1,122 @@
+{
+  "schema_version": 2,
+  "video": "rHLEWRxRGiM.youtube",
+  "title": "Three-Dimensional Linear Transformations: Basis Vectors, 3x3 Matrices, and Transformation Composition",
+  "date": {
+    "display": "August 9, 2016",
+    "iso": "2016-08-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This short footnote from 3Blue1Brown’s Essence of Linear Algebra expands the prior two-dimensional focus into three dimensions. It explains that a 3D linear transformation is fully described by the images of the three standard basis vectors (i-hat, j-hat, k-hat), whose coordinates form the columns of a 3×3 transformation matrix. The video shows how to visualize a 3D transform by tracking how basis vectors move, how to compute the image of an arbitrary vector via matrix-column scaling and summation, and how multiplying two 3×3 matrices corresponds to composing two transformations. It also highlights the practical significance of 3D transforms in fields like computer graphics and robotics, and it briefly points forward to the determinant as the next topic.",
+  "topics": [
+    "3D linear transformations",
+    "3x3 transformation matrices",
+    "basis vectors: i-hat, j-hat, k-hat",
+    "images of basis vectors under a 3D transform",
+    "construction of a 3x3 matrix from basis coordinates",
+    "rotation in 3D (example: 90-degree rotation around the y-axis)",
+    "applying a 3x3 matrix to a 3D vector",
+    "pre- and post-transformation scaling and addition",
+    "vector decomposition with respect to a basis",
+    "matrix multiplication in 3D",
+    "transformation composition (right-to-left order)",
+    "applications in computer graphics",
+    "applications in robotics",
+    "determinant as a future topic",
+    "visualization of 3D grids under transformation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:52.340",
+      "end": "01:02:11.260",
+      "title": "Generalizing 2D transforms to 3D and grid-based visualization",
+      "concepts": [
+        "extending linear transformations to three dimensions",
+        "grid in 3D space as a proxy for spatial vectors",
+        "origin remains fixed during transformation"
+      ],
+      "description": "The video discusses visualizing a 3D linear transformation by smooshing the 3D space (represented as a grid) while keeping grid lines parallel and the origin fixed. It emphasizes that, just as in 2D, every point in space is a proxy for a vector, and the goal is to map input vectors to their outputs under the transformation."
+    },
+    {
+      "start": "01:02:11.260",
+      "end": "02:02:49.760",
+      "title": "Basis vectors in 3D and forming the transformation matrix",
+      "concepts": [
+        "three standard basis vectors: i-hat, j-hat, k-hat",
+        "keeping a copy of the original axes in the background",
+        "coordinates of the basis vectors become matrix columns"
+      ],
+      "description": "The video introduces the 3D basis vectors i-hat, j-hat, and k-hat, and explains that tracking where each of these basis vectors lands under a transform helps describe the entire transformation. It then states that the coordinates of these landed basis vectors are recorded as the columns of a 3×3 matrix, yielding a full description of the transformation with nine numbers."
+    },
+    {
+      "start": "02:02:49.760",
+      "end": "03:20:26.326",
+      "title": "Applying the matrix to a 3D vector",
+      "concepts": [
+        "interpret each coordinate as instructions for scaling the corresponding basis vector",
+        "sum the scaled basis vectors to get the transformed vector",
+        "pre- and post-transformation invariance of the process"
+      ],
+      "description": "To find where a vector (x, y, z) lands, multiply the coordinates by the three columns of the matrix and add the results. The video emphasizes that this scaling-and-adding process is consistent before and after the transformation, mirroring the 2D case."
+    },
+    {
+      "start": "03:20:26.326",
+      "end": "04:10:48.480",
+      "title": "Matrix multiplication as transformation composition",
+      "concepts": [
+        "multiplying two 3×3 matrices corresponds to applying the right-hand transformation first",
+        "then applying the left-hand transformation"
+      ],
+      "description": "The transcript explains that composing two transformations via matrix multiplication is the same as applying the right-hand matrix’s transformation followed by the left-hand matrix’s transformation, a crucial viewpoint for understanding sequential transformations in 3D."
+    },
+    {
+      "start": "04:10:48.480",
+      "end": "04:32:14.360",
+      "title": "Why 3D matrix multiplication matters and upcoming topics",
+      "concepts": [
+        "importance for computer graphics and robotics",
+        "breakdown of complex 3D rotations into simpler components",
+        "determinant as the next topic"
+      ],
+      "description": "The video notes that 3D matrix multiplication is fundamental in fields like computer graphics and robotics because rotations in 3D can be decomposed into simpler rotations. It also teases determinant as the next topic."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Describe 3D linear transformations via the images of the standard basis vectors (i-hat, j-hat, k-hat) and form the 3×3 matrix from their coordinates",
+      "timestamp": "01:56.920",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Construct the 3×3 transformation matrix by recording the coordinates of i-hat, j-hat, and k-hat as its columns",
+      "timestamp": "02:11.260",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Rotate 3D space by a 90-degree transformation around the y-axis as a concrete example",
+      "timestamp": "02:20.545",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Compute the image of a 3D vector by multiplying its coordinates with the matrix columns and summing",
+      "timestamp": "02:56.940",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Interpret matrix multiplication as the composition of two transformations (apply right-hand matrix first, then left-hand)",
+      "timestamp": "03:32.020",
+      "confidence": 0.93
+    },
+    {
+      "technique": "Recognize the practical relevance of 3D matrix multiplication for graphics and robotics",
+      "timestamp": "03:44.060",
+      "confidence": 0.86
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:27:23.204955+00:00"
+}

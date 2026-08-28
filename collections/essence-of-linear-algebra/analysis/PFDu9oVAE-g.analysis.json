@@ -1,0 +1,158 @@
+{
+  "schema_version": 2,
+  "video": "PFDu9oVAE-g.youtube",
+  "title": "Eigenvectors and eigenvalues: invariant directions and diagonalization",
+  "date": {
+    "display": "September 15, 2016",
+    "iso": "2016-09-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "3Blue1Brown’s Essence of Linear Algebra Chapter 14 visually introduces eigenvectors and eigenvalues as the invariant directions of a linear transformation. The video works through a concrete 2D example where the transformation stretches along specific lines (the x-axis and a diagonal line), then formalizes the eigenvector equation Av = λv, leading to the standard determinant-based eigenvalue computation det(A − λI) = 0. It shows how to extract eigenvectors by solving (A − λI)v = 0, gives concrete eigenvectors for the example (e.g., along (1,0) and (−1,1)), and discusses special cases such as rotations (which may have no real eigenvectors) and shear (limited eigenvectors). The concept of an eigenbasis is introduced, explaining how if a matrix has enough eigenvectors, changing to that basis diagonalizes the transformation, making computations such as high powers of A straightforward. The video also connects these ideas to change of basis and emphasizes when diagonalization is beneficial (and when it isn’t).",
+  "topics": [
+    "eigenvectors",
+    "eigenvalues",
+    "linear transformations",
+    "span",
+    "basis vectors",
+    "Av = λv",
+    "(A − λI)v = 0",
+    "det(A − λI) = 0",
+    "characteristic equation",
+    "diagonalization",
+    "eigenbasis",
+    "change of basis",
+    "P^{-1}AP = D",
+    "diagonal matrices",
+    "powers of a matrix",
+    "rotation vs. eigenvectors",
+    "shear and eigenvectors",
+    "axis of rotation",
+    "invariant directions",
+    "2D example matrix [[3,1],[0,2]]",
+    "eigenvectors directions (1,0) and (−1,1)",
+    "invariant lines and spans"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:22",
+      "title": "Intuition: eigenvectors and invariant directions",
+      "concepts": [
+        "eigenvectors",
+        "eigenvalues",
+        "linear transformation",
+        "span",
+        "basis"
+      ],
+      "description": "Introduction to eigenvectors as directions that stay on their span under a linear transformation and the role of spans of basis vectors in understanding a matrix."
+    },
+    {
+      "start": "00:03:22",
+      "end": "00:04:48",
+      "title": "Concrete 2D example: matrix with columns (3,0) and (1,2)",
+      "concepts": [
+        "i-hat maps to (3,0)",
+        "j-hat maps to (1,2)",
+        "eigenvectors on x-axis",
+        "eigenvectors along diagonal"
+      ],
+      "description": "Demonstrates a 2D transformation where i-hat is stretched along the x-axis (eigenvalue 3) and a diagonal eigenvector along (-1,1) with eigenvalue 2."
+    },
+    {
+      "start": "00:04:48",
+      "end": "00:08:02",
+      "title": "Formal eigenvector equation Av = λv",
+      "concepts": [
+        "Av = λv",
+        "(A - λI)v = 0",
+        "linear algebra foundations"
+      ],
+      "description": "Presents the eigenvector equation and reframes it as a homogeneous system via (A − λI)v = 0."
+    },
+    {
+      "start": "00:08:02",
+      "end": "00:10:50",
+      "title": "Eigenvalues via determinant: det(A − λI) = 0",
+      "concepts": [
+        "determinant",
+        "characteristic equation",
+        "eigenvalues"
+      ],
+      "description": "Shows how to compute eigenvalues by solving det(A − λI) = 0; for the example A = [[3,1],[0,2]] the eigenvalues are 2 and 3."
+    },
+    {
+      "start": "00:10:50",
+      "end": "00:12:42",
+      "title": "Eigenvectors for specific eigenvalues",
+      "concepts": [
+        "λ=2 eigenvectors",
+        "λ=3 eigenvectors",
+        "solve (A−λI)v=0"
+      ],
+      "description": "Solves for eigenvectors: λ=2 yields vectors along (−1,1); λ=3 yields vectors along (1,0); illustrates invariant directions."
+    },
+    {
+      "start": "00:12:42",
+      "end": "00:14:50",
+      "title": "Other examples: rotation and shear",
+      "concepts": [
+        "rotation in 2D",
+        "no real eigenvectors",
+        "imaginary eigenvalues",
+        "shear and eigenvectors",
+        "λ=1 eigenvectors"
+      ],
+      "description": "Discusses a 2D rotation (no real eigenvectors; eigenvalues ±i) and a shear (fixed x-axis, eigenvectors with eigenvalue 1 along x-axis)."
+    },
+    {
+      "start": "00:14:50",
+      "end": "00:16:16",
+      "title": "Eigenbasis and diagonalization",
+      "concepts": [
+        "eigenbasis",
+        "diagonal matrix",
+        "P^{-1}AP = D"
+      ],
+      "description": "If a full set of eigenvectors exists, they form an eigenbasis; the transformation is diagonal in that basis, with eigenvalues on the diagonal."
+    },
+    {
+      "start": "00:16:16",
+      "end": "00:16:45",
+      "title": "Power and change of basis reminder",
+      "concepts": [
+        "changing basis",
+        "computing powers",
+        "diagonal power"
+      ],
+      "description": "Notes that diagonalization makes computing powers easier (e.g., A^n = P D^n P^{-1}); mentions change-of-basis concepts."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Deriving eigenvalues via det(A − λI) = 0 (characteristic equation)",
+      "timestamp": "00:06:01",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Finding eigenvectors from (A − λI)v = 0",
+      "timestamp": "00:07:06",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Diagonalization into eigenbasis: P^{-1}AP = D",
+      "timestamp": "00:15:03",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using eigenbasis to compute powers (A^n) easily",
+      "timestamp": "00:16:07",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:26:19.961958+00:00"
+}

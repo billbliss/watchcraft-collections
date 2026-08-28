@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "BaM7OCEm3G0.youtube",
+  "title": "Cross products as dual linear functionals: a duality-driven view in 3Blue1Brown’s Essence of Linear Algebra (Chapter 11)",
+  "date": {
+    "display": "August 31, 2016",
+    "iso": "2016-08-31",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video presents a rigorous, principle-based route to understanding the 3D cross product by viewing it through the lens of linear transformations and duality. It begins with the familiar determinant-based construction of the cross product, where the second and third columns are the vectors v and w and the first column holds the symbolic basis vectors i-hat, j-hat, k-hat. By treating the resulting determinant as the coordinates of a resulting vector, it connects the familiar geometric facts—the cross product’s magnitude equals the parallelogram area spanned by v and w, and its direction is perpendicular to both with orientation given by the right-hand rule—to a deeper, dual-interpretive framework. The video then introduces duality for transformations from three dimensions to the reals, showing that a linear map to the number line can be represented as a dot product with a special vector p. By applying this idea to the determinant-based functional det[(x, y, z), v, w], the speaker derives p as the dual vector, tying the computational determinant trick to a geometric vector perpendicular to v and w with length equal to the parallelogram area. This dual viewpoint explains why the same computation produces the cross product and clarifies the projection-interpretation of the dot product with p, ultimately linking the algebraic and geometric pictures and foreshadowing the change of basis theme to come in the next video.",
+  "topics": [
+    "3D cross product",
+    "determinant method for cross product",
+    "i-hat, j-hat, k-hat in determinant first column",
+    "cross product magnitude equals parallelogram area",
+    "cross product direction and right-hand rule",
+    "duality in linear transformations",
+    "transformation from R^3 to R as a dot product with a dual vector",
+    "1x3 matrix representation of a linear map to the real line",
+    "determinant as a linear function of (x, y, z)",
+    "dual vector p for cross product",
+    "geometric interpretation of the dual vector",
+    "projection interpretation: volume via area × perpendicular component",
+    "equivalence of computational and geometric viewpoints",
+    "change of basis groundwork (foreshadowed)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:16",
+      "end": "00:01:20",
+      "title": "Cross product setup via determinant",
+      "concepts": [
+        "determinant-based cross product construction",
+        "second column = v, third column = w",
+        "first column = i-hat, j-hat, k-hat as symbolic placeholders",
+        "resulting vector coordinates from determinant"
+      ],
+      "description": "Introduce the determinant construction for a 3D cross product: place v in the second column, w in the third, and use i-hat, j-hat, k-hat in the first column as symbolic placeholders; computing the determinant yields the cross product vector coordinates."
+    },
+    {
+      "start": "00:01:20",
+      "end": "00:02:58",
+      "title": "Geometric properties of the cross product and introduction to duality",
+      "concepts": [
+        "cross product magnitude as parallelogram area",
+        "direction perpendicular to v and w",
+        "right-hand rule",
+        "duality overview in linear transformations"
+      ],
+      "description": "States the standard geometric facts about the cross product and begins linking these facts to duality concepts from prior chapters, setting up the idea that a linear map to the real line can be represented by a dual vector."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:06:26",
+      "title": "From three vectors to a linear functional: the determinant as a 3x3 engine",
+      "concepts": [
+        "determinant-based function det[(x,y,z), v, w]",
+        "function from R^3 to R",
+        "linearity of the function",
+        "basis-independent interpretation of the determinant"
+      ],
+      "description": "Defines a function by taking the determinant with the variable first column (x, y, z) and fixed columns v and w; interprets this as a linear map from R^3 to R and discusses its linearity as a prelude to duality."
+    },
+    {
+      "start": "00:06:26",
+      "end": "00:11:35",
+      "title": "Dual vector p: encoding the linear functional as a dot product",
+      "concepts": [
+        "1x3 matrix representing a linear map to R",
+        "duality: turning the matrix on its side into a dot product",
+        "coordinates of p come from the coefficients of x, y, z in the determinant",
+        "p is the dual vector to the transformation defined by v and w",
+        "p is perpendicular to v and w with magnitude equal to the area of the parallelogram"
+      ],
+      "description": "Shows how the linear functional can be realized as a dot product with a specific 3D vector p (the dual vector). By comparing the x, y, z coefficients in the determinant with the dot-product expansion, the coordinates of p are identified, which geometrically must be perpendicular to v and w and have length equal to the area spanned by v and w."
+    },
+    {
+      "start": "00:11:35",
+      "end": "00:12:53",
+      "title": "Geometric synthesis: the dual vector as the cross product intuition",
+      "concepts": [
+        "dot product as projection",
+        "projection onto p",
+        "volume interpretation as area × perpendicular component",
+        "sign compatibility with the right-hand rule",
+        "equivalence of determinant-based computation and geometric projection"
+      ],
+      "description": "Establishes the geometric meaning of the dual vector p: taking the dot product with (x,y,z) corresponds to projecting onto p and scaling by the parallelogram area, reproducing the same determinant result. With orientation chosen, negative cases align with the right-hand rule, uniting the computational and geometric viewpoints."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Determinant-based cross product construction with i-hat, j-hat, k-hat placeholders",
+      "timestamp": "00:00:16",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Right-hand rule for cross product orientation",
+      "timestamp": "00:01:28",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Duality: map from R^3 to R represented as dot product with a dual vector",
+      "timestamp": "00:02:04",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Identify dual vector p from determinant coefficients",
+      "timestamp": "00:06:46",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Geometric interpretation: p perpendicular to v and w with length equal to parallelogram area",
+      "timestamp": "00:10:24",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Equivalence of determinant computation and dot-product projection with p",
+      "timestamp": "00:11:35",
+      "confidence": 0.89
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:16:06.716113+00:00"
+}

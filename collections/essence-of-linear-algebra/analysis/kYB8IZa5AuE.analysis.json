@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "video": "kYB8IZa5AuE.youtube",
+  "title": "2D Linear Transformations and their Matrix Representation (i-hat and j-hat)",
+  "date": {
+    "display": "August 7, 2016",
+    "iso": "2016-08-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video introduces linear transformations in two dimensions and shows how every such transformation can be encoded by a 2x2 matrix. It emphasizes visual intuition by treating input vectors as points on a grid and watching how the entire space is mapped while preserving straight lines and fixing the origin. The key idea is that the transformation is completely determined by where the two basis vectors i-hat and j-hat land; those two image vectors form the columns of the describing matrix, and all other vectors are obtained by linear combinations of these images. Concrete examples include a 90-degree rotation and a shear, with a clear formula for how a general vector (x, y) is mapped to x times the image of i-hat plus y times the image of j-hat. The video culminates in taking away the perspective that matrices are transformations of space, a viewpoint that clarifies later topics like matrix multiplication, determinants, and eigenvalues.",
+  "topics": [
+    "linear transformation",
+    "basis vectors i-hat and j-hat",
+    "2x2 matrices",
+    "matrix-vector multiplication",
+    "images of basis vectors as matrix columns",
+    "general mapping formula (ax+by, cx+dy)",
+    "rotation by 90 degrees",
+    "shear transformation",
+    "grid visualization of transformations",
+    "origin fixed",
+    "parallelism preservation",
+    "linear independence and space squishing",
+    "interpretation of matrices as space transformations"
+  ],
+  "sections": [
+    {
+      "start": "00:00:12.040",
+      "end": "00:06:04.860",
+      "title": "Visualization and definition of linear transformations",
+      "concepts": [
+        "definition of transformation as a function on vectors/points",
+        "visualizing input-output with moving points on a grid",
+        "origin fixed and grid lines kept parallel and evenly spaced"
+      ],
+      "description": "The video introduces linear transformations as a special class of functions that map vectors in the plane to other vectors, and develops an intuition by visualizing the entire space as a grid of points moving under the transformation. It emphasizes that linear transformations preserve straight lines (no curvature) and fix the origin, and uses a background grid to keep track of where points land relative to where they started."
+    },
+    {
+      "start": "00:06:04.860",
+      "end": "00:07:41.660",
+      "title": "Matrix representation via images of basis vectors",
+      "concepts": [
+        "two basis vectors i-hat and j-hat",
+        "2x2 matrix representation",
+        "ax+by and cx+dy as the transformed coordinates",
+        "columns of the matrix encode where i-hat and j-hat land"
+      ],
+      "description": "This section shows that a 2D linear transformation is completely described by where the basis vectors i-hat and j-hat map to. The resulting images define the columns of a 2x2 matrix, and the transformation of any vector (x, y) is the linear combination x times the image of i-hat plus y times the image of j-hat, yielding the formula (ax+by, cx+dy)."
+    },
+    {
+      "start": "00:08:04.580",
+      "end": "00:09:54.540",
+      "title": "Examples: rotation and shear, and reading matrices",
+      "concepts": [
+        "90-degree rotation about the origin",
+        "shear transformation",
+        "interpretation of matrix columns as images of basis vectors"
+      ],
+      "description": "The video provides concrete demonstrations: a 90-degree counterclockwise rotation where i-hat maps to (0, 1) and j-hat to (-1, 0); a shear where i-hat remains fixed and j-hat moves to (1, 1). It reinforces that to determine the effect on any vector you multiply by the matrix, i.e., apply the linear transformation via matrix-vector multiplication."
+    },
+    {
+      "start": "00:09:54.540",
+      "end": "00:10:41.300",
+      "title": "From columns to broader insights and takeaways",
+      "concepts": [
+        "deducing a transformation from the images of i-hat and j-hat",
+        "case where basis images are linearly dependent and space collapses to a line",
+        "overall takeaway: a matrix is a transformation of space"
+      ],
+      "description": "The closing section shows how knowing where i-hat and j-hat land suffices to determine the entire transformation, discusses what happens when the two images are linearly dependent (space squashes onto a line), and ties the discussion back to the broader idea of interpreting matrices as space-transforming objects."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Mapping of basis vectors i-hat and j-hat under a linear transformation (basis-image method)",
+      "timestamp": "00:04:49.727",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Matrix-column representation: images of i-hat and j-hat form the two columns (ax+by, cx+dy)",
+      "timestamp": "00:07:33.980",
+      "confidence": 0.85
+    },
+    {
+      "technique": "90-degree rotation matrix visualization (i-hat -> (0,1); j-hat -> (-1,0))",
+      "timestamp": "00:08:13.980",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Shear transformation construction (i-hat fixed; j-hat moves to (1,1))",
+      "timestamp": "00:08:42.481",
+      "confidence": 0.88
+    },
+    {
+      "technique": "General transformation action (ax+by, cx+dy) derived from basis images",
+      "timestamp": "00:07:33.980",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Deduction from images of basis to full transformation; concepts of linear independence and space mapping",
+      "timestamp": "00:09:21.680",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Visualization principle: gridlines remain parallel and evenly spaced to visualize linearity",
+      "timestamp": "00:02:39.120",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:22:19.259388+00:00"
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": 2,
+  "video": "XkY2DOUCWMU.youtube",
+  "title": "Matrix multiplication as composition: interpreting linear transformations via basis vectors (Essence of Linear Algebra, Chapter 4)",
+  "date": {
+    "display": "August 8, 2016",
+    "iso": "2016-08-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "3Blue1Brown’s Essence of Linear Algebra, Chapter 4, presents matrix multiplication as the composition of linear transformations. The video recalls that a linear transformation is determined by the images of the basis vectors i-hat and j-hat, so the matrix columns encode these transformed bases. It then shows how composing two transformations (e.g., rotation followed by a shear) yields a single matrix—the product—that captures the overall effect. The derivation is illustrated both geometrically and numerically: you can obtain the composition matrix by tracking where each basis vector ends up through the sequence, or by applying the left matrix to each column of the right matrix. The right-to-left reading of products follows from function notation. The chapter also covers the order-sensitivity of composition, demonstrates a concrete 2×2 example, generalizes to symbolic matrices, discusses associativity from a transformation viewpoint, and ends by encouraging conceptual understanding over memorization while foreshadowing higher-dimensional extensions in the next video.",
+  "topics": [
+    "linear transformations",
+    "matrix representation",
+    "basis vectors i-hat and j-hat",
+    "columns of a matrix as transformed basis vectors",
+    "matrix-vector multiplication",
+    "composition of linear transformations",
+    "product of matrices",
+    "order of multiplication (right-to-left)",
+    "geometric interpretation of matrix products",
+    "rotation followed by shear",
+    "computing composition matrices from M1 and M2",
+    "column-by-column computation",
+    "symbolic matrix entries",
+    "associativity of matrix multiplication",
+    "transformation-based intuition vs rote computation",
+    "extending to higher dimensions",
+    "visual intuition in linear algebra",
+    "function notation and composition"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:50",
+      "title": "Recap: linear transformations as matrices",
+      "concepts": [
+        "linear transformations",
+        "basis vectors",
+        "i-hat and j-hat",
+        "columns of a matrix"
+      ],
+      "description": "Recalls that linear transformations are functions on vectors and that a matrix represents such a transformation by recording where i-hat and j-hat land; any vector is a combination of these basis vectors, so the matrix is determined by the images of the basis."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:04:29",
+      "title": "Composition of transformations and the composition matrix",
+      "concepts": [
+        "composition",
+        "rotation followed by shear",
+        "composition matrix as single action"
+      ],
+      "description": "Describes applying one transformation after another to obtain a new linear transformation, which can be described by a single matrix—the product—that captures the combined effect."
+    },
+    {
+      "start": "00:04:31",
+      "end": "00:05:56",
+      "title": "Computing the composition matrix from M1 and M2 (column method)",
+      "concepts": [
+        "first column via M2*(first column of M1)",
+        "second column via M2*(second column of M1)"
+      ],
+      "description": "Shows how the composition matrix is formed by tracking where i-hat and j-hat end up through the two matrices, yielding the columns of the product."
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:07:27",
+      "title": "General symbolic column method for composition",
+      "concepts": [
+        "symbolic matrix entries",
+        "column-by-column multiplication",
+        "left matrix times right matrix columns"
+      ],
+      "description": "Extends the column method to matrices with symbolic entries, illustrating that the same reasoning applies to any 2×2 matrices."
+    },
+    {
+      "start": "00:07:27",
+      "end": "00:08:12",
+      "title": "Interpretation and order in matrix products",
+      "concepts": [
+        "applying transformations in order",
+        "right-to-left reading",
+        "functional notation"
+      ],
+      "description": "Emphasizes the geometric meaning of matrix multiplication and why the order matters, tying back to transformation intuition."
+    },
+    {
+      "start": "00:08:12",
+      "end": "00:09:31",
+      "title": "Associativity explained through transformation thinking",
+      "concepts": [
+        "associativity of matrix multiplication",
+        "transformation viewpoint",
+        "proof sketch via sequential application"
+      ],
+      "description": "Presents why matrix multiplication is associative by viewing it as applying three transformations in a fixed order, rather than algebraic manipulation alone."
+    },
+    {
+      "start": "00:09:31",
+      "end": "00:09:49",
+      "title": "Encouragement to explore concepts visually and foreshadowing higher dimensions",
+      "concepts": [
+        "visual intuition",
+        "conceptual play with transformations",
+        "next video on higher dimensions"
+      ],
+      "description": "Advocates developing intuition by mentally simulating transformations and their composition, and previews extending ideas beyond two dimensions."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Matrix representation from transformed basis vectors (columns = images of i-hat and j-hat)",
+      "timestamp": "00:00:46",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Composition of transformations corresponds to matrix multiplication (product matrix)",
+      "timestamp": "00:03:05",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Right-to-left reading of products due to function composition",
+      "timestamp": "00:04:10",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Column-by-column computation of the composition matrix (M1 then M2)",
+      "timestamp": "00:05:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Symbolic generalization of composition using entries of two 2×2 matrices",
+      "timestamp": "00:06:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Associativity explained from a transformation perspective",
+      "timestamp": "00:08:33",
+      "confidence": 0.86
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:30:34.870937+00:00"
+}

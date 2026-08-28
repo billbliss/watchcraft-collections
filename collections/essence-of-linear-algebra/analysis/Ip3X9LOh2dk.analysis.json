@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "video": "Ip3X9LOh2dk.youtube",
+  "title": "Determinant: Visualizing Area and Volume Scaling with Orientation (2D and 3D)",
+  "date": {
+    "display": "August 10, 2016",
+    "iso": "2016-08-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video builds an intuition for the determinant as the single scaling factor that a linear transformation applies to area in the plane (and to volume in space). Through concrete 2x2 and 3x3 examples, it shows how basis vectors are transformed, how an area changes for a unit square and a unit cube, and how orientation can flip when the determinant is negative. It also introduces the idea that the determinant is zero exactly when space collapses to a lower dimension, and it provides the 2x2 formula ad − bc with geometric intuition, before hinting at the multiplicative property det(AB) = det(A)det(B).",
+  "topics": [
+    "Determinant concept as area/volume scaling",
+    "Area scaling under linear transformations",
+    "Unit square to rectangle under a matrix",
+    "Shear transformation and parallelogram area",
+    "Orientation and sign of determinants (positive/negative)",
+    "Right-hand rule for 3D orientation",
+    "Determinant zero and dimensional collapse",
+    "2x2 determinant formula ad − bc",
+    "Intuition behind determinant terms a, b, c, d",
+    "3x3 determinant as volume scaling (unit cube to parallelepiped)",
+    "Determinant of product property det(AB) = det(A)det(B)",
+    "Linear independence and determinant (columns)",
+    "Grid-argument for uniform area changes",
+    "Parallelepiped terminology in 3D"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:28",
+      "title": "Area-scaling intuition for linear transformations",
+      "concepts": [
+        "linear transformations",
+        "matrix representation",
+        "area scaling",
+        "i-hat and j-hat",
+        "unit square transformation to a rectangle"
+      ],
+      "description": "Introduces the core idea: linear transformations stretch or compress space, and the determinant measures how much area is scaled. Uses the basis vectors i-hat and j-hat and a unit square to illustrate the resulting rectangle and its area."
+    },
+    {
+      "start": "00:02:28",
+      "end": "00:03:54",
+      "title": "Determinant as a global area-scaling factor",
+      "concepts": [
+        "grid-square scaling",
+        "uniform scaling across space",
+        "parallelogram vs rectangle"
+      ],
+      "description": "States that the determinant is the single scaling factor applied to all grid squares, so the area of any region scales by the same amount. Connects this to the transformation of tiny grid squares and arbitrary shapes."
+    },
+    {
+      "start": "00:03:54",
+      "end": "00:04:37",
+      "title": "Orientation and negative determinants",
+      "concepts": [
+        "orientation",
+        "negative determinant",
+        "space flip"
+      ],
+      "description": "Explains that a negative determinant corresponds to flipping the orientation of space (space turned over). The absolute value still gives the area scaling factor."
+    },
+    {
+      "start": "00:04:37",
+      "end": "00:06:04",
+      "title": "Intuition with a 2x2 example and negative determinant",
+      "concepts": [
+        "example matrix with negative determinant",
+        "area scaling vs orientation"
+      ],
+      "description": "Gives a concrete 2x2 example (including a negative determinant) to illustrate that space can flip while areas scale by a factor of 3."
+    },
+    {
+      "start": "00:06:04",
+      "end": "00:07:31",
+      "title": "3D extension: unit cube, parallelepiped, and volume",
+      "concepts": [
+        "unit cube",
+        "i-hat, j-hat, k-hat",
+        "parallelepiped",
+        "volume scaling",
+        "determinant zero implies collapse to lower dimension"
+      ],
+      "description": "Extends the idea to three dimensions by focusing on the unit cube, which maps to a parallelepiped. The determinant is the factor by which volumes scale; a determinant of zero indicates the entire space collapses to a lower-dimensional object."
+    },
+    {
+      "start": "00:07:31",
+      "end": "00:09:18",
+      "title": "Determinant mechanics: 2x2 formula and intuition",
+      "concepts": [
+        "2x2 determinant formula ad - bc",
+        "intuition from special cases (b=c=0)",
+        "base and height interpretation"
+      ],
+      "description": "Presents the 2x2 determinant formula and builds intuition by showing how diagonal terms alone contribute to area, while the cross terms b and c affect the parallelogram’s tilt."
+    },
+    {
+      "start": "00:09:18",
+      "end": "00:09:42",
+      "title": "Determinant of product and closing prompt",
+      "concepts": [
+        "det(AB) = det(A)det(B)"
+      ],
+      "description": "Notes that the determinant of a product equals the product of determinants and hints at applying these ideas to linear systems in the next discussion."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "2x2 transformation: scaling of basis vectors resulting in a 3-by-2 area change (columns (3,0) and (0,2))",
+      "timestamp": "00:00:51.320",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Shear transformation: unit square becoming a parallelogram under the matrix with columns (1,0) and (1,1)",
+      "timestamp": "00:01:22.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Determinant as global area-scaling factor demonstrated via grid of squares",
+      "timestamp": "00:02:28.000",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Negative determinant indicating orientation flip in 2D",
+      "timestamp": "00:03:54.000",
+      "confidence": 0.88
+    },
+    {
+      "technique": "3D extension: unit cube mapped to a parallelepiped and volume scaled by determinant",
+      "timestamp": "00:06:04.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "2x2 determinant formula derivation intuition (ad − bc)",
+      "timestamp": "00:07:31.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Product property of determinants: det(AB) = det(A)det(B)",
+      "timestamp": "00:09:18.000",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T06:19:21.926015+00:00"
+}

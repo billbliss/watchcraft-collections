@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "video": "uJcO1W_TD74.youtube",
+  "title": "Cold-Sear: A Fast, Dry-Heat Steak Sear Demonstration (Lan Lam, Techniquely)",
+  "date": {
+    "display": "September 27, 2022",
+    "iso": "2022-09-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The video compares multiple steak-cooking philosophies, foregrounding a fast, low-mess method called cold-searing while also explaining traditional pan-sear, oven-finish, reverse-sear, and sous-vide approaches. Lan Lam contrasts the outcomes (edge-to-edge doneness with a rosy center vs. a gray ring) and details a step-by-step cold-sear process using a dry, hot non-stick skillet, a thick boneless steak, and careful heat management. Key practices include drying the surface, peppering before searing, avoiding pre-salt, heating to drive off surface moisture, flipping every two minutes to build multiple brown layers, reducing heat to finish cooking toward a 125°F center, a five-minute rest, and finishing with coarse salt for texture. The video also outlines the advantages and downsides of each method and notes how sous-vide and reverse-sear compare in precision and equipment needs.",
+  "topics": [
+    "cold-sear",
+    "non-stick skillet",
+    "patting steak dry",
+    "pepper timing before searing",
+    "salting later or finishing salt",
+    "1.5 inch thick strip steak",
+    "no added oil for sear",
+    "high-heat initial sear",
+    "moisture evaporation and fat rendering",
+    "building crust in layers (Maillard browning)",
+    "flip frequency (every 2 minutes)",
+    "reducing heat after initial sear",
+    "target center temperature (125°F for medium-rare)",
+    "thermometer placement and reading",
+    "resting meat before slicing (5 minutes)",
+    "coarse finishing salt for texture",
+    "edge-to-edge doneness",
+    "comparison with traditional sear + oven finish",
+    "comparison with reverse-sear (oven then sear)",
+    "comparison with sous-vide (gentle cook then quick sear)",
+    "kitchen equipment requirements (no special equipment for cold-sear)",
+    "pan cleanliness and mess considerations",
+    "color development vs gray ring avoidance",
+    "fat in pan as a browning catalyst",
+    "slicing technique to reveal doneness"
+  ],
+  "sections": [
+    {
+      "start": "00:01:22",
+      "end": "00:02:23",
+      "title": "Traditional high-heat pan-sear (restaurant method)",
+      "concepts": [
+        "hot skillet with oil",
+        "crisp Maillard crust",
+        "flip once",
+        "finish in oven",
+        "center cooks during oven finish"
+      ],
+      "description": "Lan Lam describes a classic sear: preheat a skillet until smoking, add oil, sear the steak, flip once, then finish in the oven to bring the center up to serving temperature. While this yields a strong crust, it risks a gray ring around a rosy center if overcooked and uses an oven finish for even doneness."
+    },
+    {
+      "start": "00:02:47",
+      "end": "00:04:07",
+      "title": "Sous vide overview and trade-offs",
+      "concepts": [
+        "immersion circulator",
+        "bagged steak in water bath",
+        "precise internal temperature",
+        "post-bath quick sear",
+        "equipment cost and plastic use",
+        "counter space and time (1.5–3 hours)"
+      ],
+      "description": "A concise primer on sous vide: vacuum-seal and water-bath cooking to fix internal temperature, followed by a quick sear. Drawbacks include cost of equipment, plastic bags, counter space, and longer total time relative to quick pan-sears."
+    },
+    {
+      "start": "00:04:22",
+      "end": "00:05:01",
+      "title": "Reverse-sear method (Cook’s Illustrated origin)",
+      "concepts": [
+        "275°F oven",
+        "rack on a sheet tray",
+        "target internal 90–95°F before sear",
+        "hard sear to finish",
+        "temperature monitoring during both oven and sear"
+      ],
+      "description": "The reverse-sear cooks the steak gently in a low oven to the near-final temperature, then finishes with a hot sear, combining crust development with precise doneness without relying on sous vide equipment."
+    },
+    {
+      "start": "00:05:18",
+      "end": "00:11:59",
+      "title": "Cold-sear: dry, fast finish in a non-stick skillet",
+      "concepts": [
+        "pat dry surface",
+        "use of pepper (no salt yet)",
+        "1.5 inch thick steak",
+        "hot, dry non-stick pan (no oil)",
+        "driving off surface moisture",
+        "fat rendering and browning in its own fat",
+        "two-minute flips and gradual browning",
+        "reduce heat to medium for even cooking",
+        "thermometer-guided doneness",
+        "avoid gray band by heat management",
+        "rest 5 minutes",
+        "finishing salt at serving"
+      ],
+      "description": "The centerpiece technique demonstrates a 1.5 inch thick steak seared dry in a preheated non-stick pan, without added oil. The surface is patted dry, peppered, and salt is saved for finishing. The steak is seared aggressively to drive off moisture, then flipped every two minutes while heat is adjusted to build a layered crust and cook toward a rosy center. A thermometer is used to confirm doneness around 125°F, followed by a five-minute rest and a coarse salt finish to add texture and flavor."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cold-sear (dry, high-heat sear in non-stick skillet)",
+      "timestamp": "00:05:18",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Sous vide overview and trade-offs",
+      "timestamp": "00:02:50",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Reverse-sear (oven start, finish in skillet)",
+      "timestamp": "00:04:22",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Traditional pan-sear with oven finish",
+      "timestamp": "00:01:22",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Finishing salt application after sear (coarse salt)",
+      "timestamp": "00:11:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Thermometer-guided center doneness",
+      "timestamp": "00:10:25",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T07:53:55.068292+00:00"
+}

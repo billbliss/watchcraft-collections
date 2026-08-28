@@ -1,0 +1,152 @@
+{
+  "schema_version": 2,
+  "video": "dJrdXRZ3PUE.youtube",
+  "title": "Microwave Power, Timing, and Garnish Techniques: Beyond Reheat",
+  "date": {
+    "display": "July 25, 2023",
+    "iso": "2023-07-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "America's Test Kitchen's Techniquely episode explains how microwaves heat food, dispels common myths, and demonstrates practical techniques to maximize results: using power level (on/off cycles) for even heating; butter softening, quick vegetable prep, and reheating frozen soup; plus microwave-based garnishes and finishing touches such as fried capers, shallots, frico crisps, orange almond compound butter, and caramel sauce. The transcript presents core concepts of microwave operation, the surface-localized heating of foods, and safe handling while showing actionable steps for everyday cooking.",
+  "topics": [
+    "Magnetron heating",
+    "Electromagnetic spectrum safety (safe side of spectrum)",
+    "Microwave door shielding (mesh)",
+    "Power level as on/off duty cycle",
+    "Surface heating vs. center heating",
+    "Heat distribution by resting periods",
+    "Butter softening at 50% power",
+    "Timing and cadence of microwave bursts",
+    "Beet preparation (quarter-inch pieces) for quick cooking",
+    "Sweet potato microwave technique (six to nine minutes, flip every three minutes)",
+    "Oven finishing after microwave pre-cook",
+    "Ice vs. water interaction in microwave",
+    "Reheating frozen soup at half power",
+    "Microwave garnishes (fried capers in oil)",
+    "Microwave fried shallots, fried ginger, fried leeks",
+    "Frico cheese crisps in the microwave",
+    "Orange almond compound butter",
+    "Microwave caramel sauce",
+    "Safe microwave practices (use of large bowls, avoid wet utensils)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:53",
+      "end": "00:01:54",
+      "title": "Microwave fundamentals",
+      "concepts": [
+        "magnetron heats food by generating microwaves",
+        "microwaves are part of the electromagnetic spectrum",
+        "the safe vs. scary sides of the spectrum and shielding",
+        "door mesh prevents microwaves from escaping"
+      ],
+      "description": "Introduces the magnetron and basic microwave heating, explains why the oven is shielded, and establishes the safety rationale for the door mesh and internal containment of microwaves."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:02:56",
+      "title": "Power control and heat distribution",
+      "concepts": [
+        "power level corresponds to on/off timing of the magnetron",
+        "reducing power gives the food a rest, promoting even heating",
+        "on/off cycling helps heat move toward the center"
+      ],
+      "description": "Explains how setting power levels changes how long the magnetron stays on versus off and why lower power can yield more uniform heating, especially when food is not evenly sized or thick."
+    },
+    {
+      "start": "00:02:56",
+      "end": "00:04:01",
+      "title": "Butter demonstration and quick veggie prep",
+      "concepts": [
+        "butter softened at 50% power for about 45 seconds",
+        "observe the magnetron turning off and back on during the cycle",
+        "cutting vegetables to quarter-inch pieces to heat quickly and evenly"
+      ],
+      "description": "Demonstrates a practical use of reduced power to soften butter and introduces the idea that smaller, thinner pieces heat more evenly in the microwave."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:06:14",
+      "title": "From soup to reheating techniques",
+      "concepts": [
+        "reheating frozen soup at 50% power for eight minutes",
+        "achieving creamy, hot-through results",
+        "positioning microwave use as more than reheating"
+      ],
+      "description": "Shows reheating frozen soup at half power to maintain texture and temperature consistency, illustrating broader microwave applications beyond defrosting."
+    },
+    {
+      "start": "00:06:27",
+      "end": "00:10:22",
+      "title": "Garnishes and finishing techniques in the microwave",
+      "concepts": [
+        "fried capers in oil as a garnish",
+        "microwave fried shallots, fried ginger, fried leeks",
+        "frico cheese crisps",
+        "orange almond compound butter",
+        "microwave caramel sauce",
+        "using the finished oil to finish a dish",
+        "large bowl and avoidance of wet utensils during fry steps"
+      ],
+      "description": "Explores a range of microwave-based garnishes and finishing techniques that add color, texture, and flavor to dishes, including fried capers, shallots and other fried garnishes, cheese crisps (frico), a microwave-made compound butter, and a quick caramel sauce."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Magnetron heating principle driving microwave energy",
+      "timestamp": "00:00:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Power level as on/off duty cycle to control heating",
+      "timestamp": "00:01:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "50% power butter softening with a defined on/off cadence",
+      "timestamp": "00:02:23",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Quarter-inch beet preparation for faster, even microwave cooking",
+      "timestamp": "00:03:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Ice vs. water demonstration showing microwaves heat water but not ice",
+      "timestamp": "00:04:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Reheating frozen soup at 50% power for even heating",
+      "timestamp": "00:05:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Microwave frying using a large bowl to control bubbling and browning",
+      "timestamp": "00:06:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Frico: microwave cheese crisps",
+      "timestamp": "00:09:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Orange almond compound butter made in the microwave",
+      "timestamp": "00:09:33",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Microwave caramel sauce preparation",
+      "timestamp": "00:10:03",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T07:32:21.764831+00:00"
+}

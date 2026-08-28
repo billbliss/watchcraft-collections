@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "video": "AEL9nuI5efo.youtube",
+  "title": "Three Practical Raw-Fish Techniques from ATK: Tuna Bowl with Blanching, Ceviche (Leche de Tigre), and Gravlax",
+  "date": {
+    "display": "May 23, 2026",
+    "iso": "2026-05-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "United States",
+      "confidence": 0.6,
+      "basis": "Transcript mentions US context for fish sourcing (01:01–01:05)."
+    }
+  ],
+  "summary": "America’s Test Kitchen’s Techniquely episode demonstrates three accessible raw-fish preparations anchored in careful sourcing and hands-on technique: a tuna bowl that uses hot-water blanching to firm the exterior and a flavorful marinade; a ceviche-style preparation with leche de tigre and a lime-based emulsion that gently “cooks” the fish through acid; and a gravlax-style salmon cure that relies on salt, sugar, and dill over several days. The video emphasizes starting with properly handled fish (often frozen and defrosted under controlled conditions), precise knife work for clean cuts, marination timing to balance flavor and texture, and practical plating and garnishing ideas. Safety notes cover parasite considerations, the relative risks of raw fish for certain populations, and the distinction between acid- versus heat-induced changes in fish proteins.",
+  "topics": [
+    "Fresh fish selection",
+    "Parasite control through freezing",
+    "Defrosting frozen fish at home",
+    "Smell test for fish freshness",
+    "Hot-water blanching technique for tuna",
+    "Tuna marinade components (rice wine vinegar, soy, ginger, sugar)",
+    "Blanching water reuse for spinach",
+    "Knife technique: heel of blade and pulling motion",
+    "Correct tuna slice thickness (3/4 inch)",
+    "Seasoned sushi rice preparation",
+    "Leche de tigre/ceviche marinade",
+    "Aci-dènaturation versus cooking in ceviche",
+    "Marination time and texture control in ceviche",
+    "Gravlax curing with salt, brown sugar, and dill",
+    "Slicing gravlax at a 45-degree angle",
+    "Garnishes for raw-fish dishes (corn nuts, popcorn, creme fraiche)",
+    "Safety considerations for raw fish (pregnant/immunocompromised)"
+  ],
+  "sections": [
+    {
+      "start": "00:31:00",
+      "end": "04:04:00",
+      "title": "Tuna prep and blanching for a marinated raw-fish bowl",
+      "concepts": [
+        "fresh tuna",
+        "hot-water blanching",
+        "marinade",
+        "ginger",
+        "rice wine vinegar"
+      ],
+      "description": "Introduces tuna-based preparation and the concept of using heat (blanching) to firm the fish exterior and improve flavor absorption. Marinade components shown include seasoned rice wine vinegar, soy sauce, fresh ginger, and sugar; beginning notes on fish freshness and sourcing are discussed."
+    },
+    {
+      "start": "04:04:00",
+      "end": "06:54:00",
+      "title": "Assembling the tuna bowl and finishing textures",
+      "concepts": [
+        "seasoned sushi rice",
+        "spinach",
+        "cucumber",
+        "radish",
+        "pickled daikon",
+        "garlic",
+        "sesame seeds"
+      ],
+      "description": "Demonstrates assembling the bowl: layering seasoned sushi rice, blanched spinach, and assorted garnishes, then slicing tuna into neat blocks and finishing with a dressing and sesame for texture contrast."
+    },
+    {
+      "start": "10:11:00",
+      "end": "12:56:00",
+      "title": "Ceviche prep: leche de tigre and lime-based marinade",
+      "concepts": [
+        "leche de tigre",
+        "lime juice",
+        "garlic",
+        "aji amarillo",
+        "olive oil",
+        "salt",
+        "acid denaturation"
+      ],
+      "description": "Details the Peruvian-style leche de tigre and its use as a lime-acid emulsion to marinate fish. Explains how acid denatures proteins to firm fish, emphasizes that acid does not sterilize, and covers flavor components (garlic, aji amarillo, olive oil, salt)."
+    },
+    {
+      "start": "14:32:00",
+      "end": "18:04:00",
+      "title": "Gravlax: salt cure for salmon and slicing technique",
+      "concepts": [
+        "salt cure",
+        "brown sugar",
+        "dill",
+        "three-day cure",
+        "unsliced storage",
+        "45-degree slicing",
+        "texture development"
+      ],
+      "description": "Outlines the gravlax process: coating a salmon filet with a salt–sugar rub, curing for about three days in the fridge with weights, rinsing and drying, then slicing on a 45-degree angle to yield wide, translucent pieces with dense texture."
+    },
+    {
+      "start": "18:04:00",
+      "end": "18:35:00",
+      "title": "Closing tasting and recap",
+      "concepts": [
+        "taste evaluation",
+        "serving ideas",
+        "final tips"
+      ],
+      "description": "Concludes with a tasting of the three techniques and recap of key safety notes, marination control, and plating ideas, encouraging viewer experimentation and comments."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hot-water blanching of tuna to firm exterior and aid flavor absorption",
+      "timestamp": "00:02:38",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Knife technique: start from the heel and pull through to avoid squashing the fish",
+      "timestamp": "00:04:18",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Leche de tigre/ceviche marinade emulsified with fish scraps",
+      "timestamp": "00:10:57",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Ceviche marination: acid denatures protein and flavors without fully cooking, with guidance on marination time",
+      "timestamp": "00:12:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gravlax curing with salt, brown sugar, and dill (three-day cure)",
+      "timestamp": "00:14:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "45-degree slicing for gravlax to achieve wide translucent slices",
+      "timestamp": "00:16:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using frozen fish as a parasite-control step in raw preparations",
+      "timestamp": "00:01:03",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T07:25:11.180959+00:00"
+}

@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "6_T7H-SNFeI.youtube",
+  "title": "Mini Peanut Praline Chocolate Pies: Crust, Praline, and Namelaka",
+  "date": {
+    "display": "November 15, 2025",
+    "iso": "2025-11-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "ATK Test Kitchen (probable)",
+      "confidence": 0.64,
+      "basis": "Transcript references to 'test kitchens props' and ATK ecosystem; no explicit shooting location provided"
+    }
+  ],
+  "summary": "Lan Lam guides viewers through a three-in-one holiday dessert: mini peanut praline chocolate pies with a paper-thin, buttery crust, a roast-praline layer, and a silky Namelaka chocolate cream. The episode emphasizes beginner-friendly technique: a crust made in a food processor with extra water for sufficient gluten development, a dough rolled to about 1/8 inch thickness and baked in muffin cups to form shells, a two-stage bake to keep the shells flat, and a caramel-praline component ground to a dust and mixed with peanut butter. The Namelaka is built from gelatin-softened milk and melted chocolate, cooled to room temperature, then thickened with cream and piped into the shells. The host also shares practical hacks (Saint Honor piping with a simple plastic bag), finish with flaky salt, and storage guidelines, illustrating how each component can be used separately in other desserts.",
+  "topics": [
+    "Food processor crust",
+    "Dry ingredients: all-purpose flour, sugar, salt",
+    "Butter chunking and gentle incorporation",
+    "Gluten development with water in crust",
+    "Dough hydration and kneading by processor",
+    "Rolling dough to 1/8 inch thickness",
+    "Flouring both sides to prevent sticking",
+    "Panning shells by draping dough over muffin cups",
+    "Two-stage bake at 375°F with inverted rack",
+    "Caramel sugar technique without stirring",
+    "Cooling and breaking caramel into dust",
+    "Peanut butter-praline filling",
+    "Namalaka: gelatin blooming in milk",
+    "Scalding milk and dissolving gelatin",
+    "Melting chocolate with gelatin; chocolate range 60-65%",
+    "Cooling mixtures to room temperature before adding cream",
+    "Piping patterns with Saint Honor hack",
+    "Pattern options: zigzag, squiggle, spiral",
+    "Finish with flaky salt for contrast",
+    "Storage: shells and Namelaka refrigeration"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:42",
+      "title": "Intro",
+      "concepts": [],
+      "description": "Intro"
+    },
+    {
+      "start": "00:00:42",
+      "end": "00:10:10",
+      "title": "Making Buttery Pastry Dough",
+      "concepts": [],
+      "description": "Making Buttery Pastry Dough"
+    },
+    {
+      "start": "00:10:10",
+      "end": "00:13:10",
+      "title": "Cheater Peanut Praline",
+      "concepts": [],
+      "description": "Cheater Peanut Praline"
+    },
+    {
+      "start": "00:13:10",
+      "end": "00:16:48",
+      "title": "Silky Chocolate Cream",
+      "concepts": [],
+      "description": "Silky Chocolate Cream"
+    },
+    {
+      "start": "00:16:48",
+      "end": "00:18:32",
+      "title": "Piping Tips",
+      "concepts": [],
+      "description": "Piping Tips"
+    },
+    {
+      "start": "00:18:32",
+      "end": "00:19:34",
+      "title": "Taste Test",
+      "concepts": [],
+      "description": "Taste Test"
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Food processor crust base with ice-water hydration for a thin, flaky pastry",
+      "timestamp": "00:53:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Roll-out method for ultra-thin crust (1/8 inch) with dual-flour approach on both sides",
+      "timestamp": "07:12:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Drape dough over muffin cups to form shells without crimping",
+      "timestamp": "08:33:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Two-stage bake in a 375°F oven with inverted rack to flatten shells",
+      "timestamp": "09:16:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Caramel sugar method: dry-pan melting to amber without agitation, then cooling into dust",
+      "timestamp": "10:45:00",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Gelatin blooming in milk andNamelaka preparation (room-temperature cooldown before cream incorporation)",
+      "timestamp": "13:45:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Saint Honor piping hack using a plastic bag with two cuts",
+      "timestamp": "16:59:00",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Patterned piping: zigzag, squiggle, spiral",
+      "timestamp": "17:50:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Finishing salt to enhance peanut praline flavor",
+      "timestamp": "18:32:00",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T07:19:25.728202+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

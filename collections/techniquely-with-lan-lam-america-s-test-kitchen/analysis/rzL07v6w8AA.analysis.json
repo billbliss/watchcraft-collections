@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "video": "rzL07v6w8AA.youtube",
+  "title": "Water-Driven Browning: Onion Caramelization, Mushroom Searing, and Chicken Gravy",
+  "date": {
+    "display": "December 13, 2022",
+    "iso": "2022-12-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this Techniquely episode from America’s Test Kitchen, Lan Lam explains how adding water to the cooking surface can actually improve browning by using steam to regulate heat and promote Maillard and caramelization reactions. The transcript introduces two browning modalities—caramelization and Maillard browning—and explains why surface water keeps temperatures near 212°F, which can inhibit browning unless leveraged strategically. The video then demonstrates three water-assisted browning applications: caramelized onions cooked with a lid to trap steam for rapid wilting before browning; sautéed mushrooms that begin with a small amount of oil and a measured amount of water to generate steam and concentrate browning; and a chicken gravy built from browned stock where water extracts sugars and amino acids to support Maillard browning, followed by reduction and roux to finish the sauce. Throughout, the host references established techniques (Cook’s Illustrated) and Steve Dunn’s gravy method, and ends with tasting notes and prompts to apply the concept to other dishes.",
+  "topics": [
+    "water-assisted browning",
+    "caramelization",
+    "Maillard browning",
+    "sugars and amino acids in browning",
+    "steam transfers heat",
+    "pan temperature around 212°F with water",
+    "patting surfaces dry vs water method",
+    "onions caramelization with water",
+    "lid to trap steam",
+    "caramelized onions timing",
+    "steam-wilting technique",
+    "mushroom browning with water",
+    "oil use in browning",
+    "non-stick skillet advantages",
+    "butter shallots aromatics",
+    "vinegar and mustard finish",
+    "broth browning",
+    "stock and gravy browning",
+    "drippings for flavor",
+    "reduction to concentrate flavor",
+    "roux in gravy",
+    "Cook’s Illustrated methods",
+    "Steve Dunn’s chicken gravy",
+    "food browning science",
+    "color and flavor development"
+  ],
+  "sections": [
+    {
+      "start": "00:02:06",
+      "end": "00:04:36",
+      "title": "Caramelized Onions: Steam-Powered Wilt",
+      "concepts": [
+        "onions",
+        "water-assisted wilt",
+        "lid-trapped steam",
+        "caramelization cues",
+        "browning timing"
+      ],
+      "description": "Introduces water-assisted browning via caramelized onions. Start with a cold skillet, salt, oil, and water. Heat to boil, then cover to trap steam so the onions wilt quickly (about 10 minutes). Remove the lid, reduce heat, and stir to brown evenly. The result is jammy, deeply browned onions in roughly half the traditional time."
+    },
+    {
+      "start": "00:05:06",
+      "end": "00:08:04",
+      "title": "Sautéed Mushrooms: Light Oil, Heavy Steam",
+      "concepts": [
+        "mushroom browning",
+        "water-in-pan method",
+        "quarter cup water",
+        "steam-induced collapse",
+        "non-stick skillet",
+        "reduced oil",
+        "aromatics (butter, shallots)",
+        "mustard and vinegar finish"
+      ],
+      "description": "Demonstrates water-assisted browning for mushrooms. Start with mushrooms, add a small amount of oil, then pour in water to generate steam that causes the mushrooms to collapse and release juices for Maillard browning. Once most moisture is gone, add a little oil and continue browning. Finish with aromatics and a quick sauce."
+    },
+    {
+      "start": "00:09:28",
+      "end": "00:11:14",
+      "title": "Chicken Gravy: Water-Driven Browning of Scraps",
+      "concepts": [
+        "stock browning",
+        "water to extract juices",
+        "browning sugars and amino acids",
+        "reduction to concentrate flavor",
+        "roux and gravy formation",
+        "drippings for flavor"
+      ],
+      "description": "Shows browning of chicken scraps in a dry pan with water to release juices and sugars for Maillard reactions. Water drives browning early, then the liquid is reduced and built into a gravy with roux, finished with pan drippings for extra chicken flavor."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Water-assisted browning",
+      "timestamp": "00:02:06",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Steam-assisted caramelization of onions",
+      "timestamp": "00:03:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Mushroom browning with water and limited oil",
+      "timestamp": "00:06:30",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Water-driven browning in stock for gravy",
+      "timestamp": "00:10:01",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T07:49:18.686485+00:00"
+}

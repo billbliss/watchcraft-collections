@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "video": "tDBSQKEKrW4.youtube",
+  "title": "Master Bacon: Skillet Rendering, Water-Assisted Cooking, and Oven Batch Method (Techniquely with Lan Lam)",
+  "date": {
+    "display": "January 24, 2026",
+    "iso": "2026-01-24",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "America’s Test Kitchen’s Techniquely episode with Lan Lam compares classic skillet bacon with a water-assisted approach and an oven-based batch method, aiming for more consistent texture. The video walks through rendering fat in a 12-inch skillet without preheating, then introduces a water technique (quarter-cup for six slices) to control browning and reduce flipping, followed by a full-batch skillet method using water (one cup) and two-layer arrangement. It then demonstrates oven-baking bacon on a sheet pan at 400°F for larger quantities, and ends with explanations of common packaging terms (center-cut, non-nitrite/uncured, thick-cut) and practical serving tips. The transcript provides time-stamped steps, cues for doneness (bubble size and sizzle), and tips on draining and texture, all anchored by concrete timings and measurements from the demonstrations (e.g., 12-inch skillet, one cup water for a full package, 400°F oven).",
+  "topics": [
+    "Skillet bacon with no preheat",
+    "Rendering fat in a skillet",
+    "Medium heat browning",
+    "Browning cues: bubbles size and sizzle",
+    "Water-assisted bacon cooking (quarter cup for six slices)",
+    "Coaxing even doneness with water",
+    "Batch bacon in one skillet using water (two-layer layout)",
+    "Submersion and stirring to prevent sticking",
+    "Foam vs. distinct bubbles as doneness cues",
+    "Final draining on paper towels",
+    "Oven-baked bacon for large batches (sheet pan, 400°F)",
+    "Timing: 5-minute turn, 12–15 minutes total in oven",
+    "Center-cut bacon explained",
+    "Nitrite-free vs uncured bacon explanations",
+    "Thick-cut bacon differences in cook time",
+    "ATK app as a bacon resource",
+    "Cleanup and serving tips",
+    "Texture goals: chewy vs crispy"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:39",
+      "title": "Skillet bacon primer: render fat and seek even browning",
+      "concepts": [
+        "rendering fat in a skillet",
+        "no preheat",
+        "medium heat",
+        "browning cues",
+        "buckling from fat/lean contraction"
+      ],
+      "description": "Introlicates traditional stovetop bacon cooking and its variability, using a 12-inch skillet with five slices, and sets up the questions about how to achieve more consistent texture."
+    },
+    {
+      "start": "00:04:39",
+      "end": "00:05:52",
+      "title": "Water-assisted stovetop bacon (single-layer)",
+      "concepts": [
+        "adding water to pan",
+        "quarter-cup water for six slices",
+        "simmering until fat renders",
+        "visual/sound cues: bubbles and sizzle reduction"
+      ],
+      "description": "Introduces the core water technique to temper rendering and control browning, with guidance on timing and cues to judge progress."
+    },
+    {
+      "start": "00:05:52",
+      "end": "00:06:50",
+      "title": "Batch water bacon: two layers in one skillet",
+      "concepts": [
+        "two-layer layout",
+        "water first to prevent sticking",
+        "even submersion during cooking"
+      ],
+      "description": "Demonstrates cooking a larger batch in one skillet by layering bacon and keeping slices submerged with water for even browning."
+    },
+    {
+      "start": "00:08:29",
+      "end": "00:09:23",
+      "title": "Oven-baked bacon for large batches",
+      "concepts": [
+        "sheet-pan bacon at 400°F",
+        "spin after five minutes",
+        "total bake time 12–15 minutes"
+      ],
+      "description": "Presents a hands-off alternative for big quantities, highlighting even browning and stove-space efficiency when baking bacon."
+    },
+    {
+      "start": "00:09:25",
+      "end": "00:12:40",
+      "title": "Packaging terms and practical tips",
+      "concepts": [
+        "center-cut vs regular",
+        "uncured vs nitrite-added explanations",
+        "thick-cut differences",
+        "ATK app as a resource",
+        "draining and serving practices"
+      ],
+      "description": "Explains common bacon labels and their implications for fat content and cook time, plus practical notes on texture, preparation, and where to find more guidance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Skillet rendering with no preheat and medium heat",
+      "timestamp": "00:01:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Water-assisted stovetop bacon (quarter cup for six slices)",
+      "timestamp": "00:04:43",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Batch water bacon method for an entire package in one skillet",
+      "timestamp": "00:05:18",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Oven-baked bacon on a sheet pan at 400°F",
+      "timestamp": "00:09:13",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Packaging terminology explanation and nitrite discussion",
+      "timestamp": "00:09:28",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T07:51:27.379453+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "video": "VzFYO3BpYdE.youtube",
+  "title": "Ice Maker Supply Line: Replacing Saddle Valve with a Soldered Copper Connection",
+  "date": {
+    "display": "May 14, 2018",
+    "iso": "2018-05-14",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the refrigerator area (behind appliance)",
+      "confidence": 0.6,
+      "basis": "Explicit reference to being beneath the refrigerator when locating the supply and running the new line."
+    }
+  ],
+  "summary": "This Old House presents a practical replacement of a risky saddle valve with a proper soldered copper ice-maker supply line. The host explains why saddle valves are undesirable, locates the water supply behind the fridge, runs a copper line through a drilled path, and installs a 3/4-inch tee with a 1/2-inch branch and a shut-off valve. A copper line is chosen for durability, a fishing method is used to pull the line into place, and a compression connection with a ferrule and nut is demonstrated to create a watertight seal. The video concludes with turning the water back on and testing the ice-maker, including notes about the first few batches of ice needing to run through the system cleaner.",
+  "topics": [
+    "saddle valve drawbacks",
+    "ice-maker water supply",
+    "copper tubing 1/4 inch",
+    "polyethylene vs copper tubing",
+    "pulling line behind appliances",
+    "joist and wall drilling",
+    "3/4\" tee with 1/2\" branch",
+    "shut-off valve installation",
+    "compression fittings (nut and ferrule)",
+    "ferrule and nut mechanics",
+    "tubing slack for appliance movement",
+    "testing water and ice quality"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:28",
+      "title": "Saddle valve critique and plan for soldered connection",
+      "concepts": [
+        "saddle valve",
+        "puncture technique",
+        "valve material and risk of leaks",
+        "legal/use restrictions for plumbers"
+      ],
+      "description": "Richard explains the drawbacks of saddle valves (including a sharp puncture and non-brass construction) and outlines the plan to replace it with a proper soldered copper connection."
+    },
+    {
+      "start": "00:01:29",
+      "end": "00:02:50",
+      "title": "Locate water supply and plan run path",
+      "concepts": [
+        "feeler bits",
+        "joist location",
+        "drilling plan",
+        "back-of-fridge water supply"
+      ],
+      "description": "The team identifies the water supply area behind the kitchen/under the fridge and uses feeler bits to determine a feasible drill path and the bay for the new line."
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:03:40",
+      "title": "Decide tubing and route toward the fridge",
+      "concepts": [
+        "copper tubing",
+        "flexibility",
+        "polyethylene vs copper",
+        "fishing line to pull line"
+      ],
+      "description": "Copper is chosen for durability and flexibility to avoid kinking; the team discusses routing the line and using a fishing line to pull the new copper line into place."
+    },
+    {
+      "start": "00:03:47",
+      "end": "00:04:59",
+      "title": "Install fittings and prepare for connection",
+      "concepts": [
+        "3/4\" tee",
+        "1/2\" branch",
+        "shut-off valve",
+        "compression fitting",
+        "nut",
+        "ferrule"
+      ],
+      "description": "A 3/4-inch tee with a 1/2-inch branch and a shut-off valve is installed to create the cold-water branch; the compression fitting is explained as a two-part connection (nut and ferrule) that tightens to seal."
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:08",
+      "title": "Connect, test, and finalize",
+      "concepts": [
+        "leave tubing slack",
+        "turn water back on",
+        "test water and ice output",
+        "first ice caution"
+      ],
+      "description": "The line is connected to the fridge, water is turned back on, and the ice-maker is tested. The host notes that the initial ice may be discolored and stresses letting the system run clean water through before consumption."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Saddle valve critique and replacement with soldered copper connection",
+      "timestamp": "00:00:32",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Locating supply behind fridge using feeler bits to determine drill path",
+      "timestamp": "00:01:40",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Fishing line method to pull copper tubing behind appliance",
+      "timestamp": "00:03:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Compression fitting explanation (nut and ferrule) for watertight copper connections",
+      "timestamp": "00:04:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Installing a 3/4\" tee with 1/2\" branch and shut-off valve for a fridge ice-maker",
+      "timestamp": "00:03:54",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Testing water and ice output after install",
+      "timestamp": "00:05:45",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:28:31.159463+00:00"
+}

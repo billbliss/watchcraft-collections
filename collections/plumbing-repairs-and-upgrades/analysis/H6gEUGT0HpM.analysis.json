@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "video": "H6gEUGT0HpM.youtube",
+  "title": "Shower Valve Stem Replacement: Replacing a Worn Hot-Water Stem in a Three-Valve Faucet",
+  "date": {
+    "display": "September 10, 2016",
+    "iso": "2016-09-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House episode documents diagnosing a temperature-fluctuating shower caused by a likely worn hot-water stem in a three-valve faucet. The host walks through exposing the stem assembly, removing the handle and escutcheon, backing out the bonnet, and evaluating wear. He demonstrates replacing the hot-stem unit and valve seat, using a seat wrench to extract the old seat, applying pipe-thread sealant, reinstalling the new stem with its bonnet, reusing bushings, sealing escutcheons with plumbers putty, and finally testing the hot water to confirm the repair works correctly.",
+  "topics": [
+    "three-valve shower faucet",
+    "hot water stem",
+    "cold water stem",
+    "diverter",
+    "escutcheon",
+    "handle removal",
+    "index screw",
+    "bushing",
+    "bonnet",
+    "stem unit",
+    "valve seat",
+    "seat",
+    "seat wrench",
+    "pipe thread sealant",
+    "gasket",
+    "plumbers putty",
+    "reusing bushings",
+    "testing hot water"
+  ],
+  "sections": [
+    {
+      "start": "00:59",
+      "end": "01:12",
+      "title": "Diagnosis and valve identification",
+      "concepts": [
+        "three-valve faucet",
+        "hot stem",
+        "diverter"
+      ],
+      "description": "The host identifies a three-valve setup (hot stem, cold stem, diverter) and points to the hot stem as the likely fault causing temperature drift when hot water is used."
+    },
+    {
+      "start": "01:12",
+      "end": "02:04",
+      "title": "Accessing the stem and removing the handle",
+      "concepts": [
+        "handle removal",
+        "index clip",
+        "escutcheon",
+        "Phillips screw"
+      ],
+      "description": "To work on the stem, the index is pried off, the tub drain is blocked to prevent loss, and the Phillips screw behind the escutcheon is loosened to pull the handle off the stem."
+    },
+    {
+      "start": "02:04",
+      "end": "04:21",
+      "title": "Removing the bonnet and assessing wear",
+      "concepts": [
+        "bonnet",
+        "stem unit",
+        "thread wear",
+        "hot vs cold stems"
+      ],
+      "description": "The bonnet is backed out from the valve inside the wall, and a socket wrench is used to loosen the outside nut. The stem unit is exposed and inspected for wear, with observation of looseness and milling precision indicating worn threads on older units."
+    },
+    {
+      "start": "04:21",
+      "end": "04:57",
+      "title": "Replacement planning",
+      "concepts": [
+        "new stem",
+        "seat replacement",
+        "on-hand parts"
+      ],
+      "description": "The host concludes that the hot stem threads are worn and plans to replace the stem and the seat, noting that the necessary parts are available."
+    },
+    {
+      "start": "04:57",
+      "end": "05:31",
+      "title": "Replacing the valve seat using a seat wrench",
+      "concepts": [
+        "seat wrench",
+        "valve seat",
+        "sealant"
+      ],
+      "description": "The old seat is removed with a seat wrench; the old seat is shown and the new one is prepared for installation, including applying pipe-thread sealant to the new threads."
+    },
+    {
+      "start": "05:31",
+      "end": "06:16",
+      "title": "Installing new stem and bonnet",
+      "concepts": [
+        "new stem unit",
+        "bonnet",
+        "gasket",
+        "tightening"
+      ],
+      "description": "The new stem unit with its bonnet and gasket is installed, and the assembly is tightened with the appropriate wrench."
+    },
+    {
+      "start": "06:16",
+      "end": "06:50",
+      "title": "Rebuilding remaining components and sealing escutcheons",
+      "concepts": [
+        "diverter",
+        "plumbers putty",
+        "bushings",
+        "escutcheon sealing"
+      ],
+      "description": "The host explains rebuilding the remaining valve parts (diverter and cold side) and seals the escutcheons with plumbers putty, while reusing bushings to reinstall handles."
+    },
+    {
+      "start": "06:58",
+      "end": "07:08",
+      "title": "Final test of hot-water operation",
+      "concepts": [
+        "test hot water",
+        "final operation"
+      ],
+      "description": "The hot water is turned on and the repaired valve is shown to hold hot water consistently, confirming a successful repair."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Replacing worn hot-water stem in a three-valve shower faucet",
+      "timestamp": "00:04:26",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Seat replacement with a seat wrench",
+      "timestamp": "00:04:39",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Applying pipe thread sealant to valve threads",
+      "timestamp": "00:05:20",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Sealing escutcheons with plumber's putty and reusing bushings",
+      "timestamp": "00:06:37",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Final functional test of hot water",
+      "timestamp": "00:07:01",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:13:09.146855+00:00"
+}

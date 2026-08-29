@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "video": "HNnUO3-fj8Q.youtube",
+  "title": "How to Replace a Steam Radiator: Hand Valve, Spud, and Radiator Sizing",
+  "date": {
+    "display": "November 5, 2017",
+    "iso": "2017-11-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates diagnosing a cold room caused by an undersized steam radiator in a single-zone system, then removing an existing radiator, upgrading the hand valve and spud, and installing a correctly sized radiator to restore even heat. The walkthrough emphasizes radiator balance as key to heat distribution, and it provides practical plumbing and machining techniques (three-corner bite, spud wrench) along with leak-prevention steps (pipe dope, wicking) and a safety-conscious test after reassembly.",
+  "topics": [
+    "Steam radiator replacement",
+    "Hand valve replacement",
+    "Spud and spud wrench",
+    "Union nut and three-corner bite",
+    "Radiator sizing and balance",
+    "Boiler and steam system basics",
+    "Three-corner bite technique",
+    "Spud valve assembly and gasket",
+    "Pipe dope and thread sealing",
+    "Single-zone steam heating",
+    "Radiator leveling and shimming",
+    "Leak prevention and testing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:03",
+      "title": "System balance and radiator sizing basics",
+      "concepts": [
+        "Steam heating fundamentals",
+        "Radiator balance",
+        "Sizing radiators for heat output"
+      ],
+      "description": "Intro discusses four bedrooms, a plan to heat rooms adequately, and why matching radiator size to load matters in a single-zone steam system."
+    },
+    {
+      "start": "00:02:31",
+      "end": "00:04:21",
+      "title": "Safety prep and removal readiness",
+      "concepts": [
+        "Turning off service switch",
+        "Leveling considerations",
+        "Shim use to level radiators"
+      ],
+      "description": "Explains shutting off power, keeping the radiator level to allow drainage, and notes floor settling with shim usage."
+    },
+    {
+      "start": "00:04:35",
+      "end": "00:06:00",
+      "title": "Replacing hand valve and preparing spud",
+      "concepts": [
+        "New hand valve",
+        "Spud components",
+        "Using the existing spud"
+      ],
+      "description": "Shows installing a new hand valve and discusses the spud and its tabs, including reuse of the existing spud when possible."
+    },
+    {
+      "start": "00:06:23",
+      "end": "00:08:09",
+      "title": "Sealing joints: pipe dope and wicking",
+      "concepts": [
+        "Pipe dope",
+        "Single strand wicking"
+      ],
+      "description": "Demonstrates applying pipe joint sealant and wick to joints to minimize leaks during reassembly and testing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Three-corner bite to keep a union nut turning true",
+      "timestamp": "00:03:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Replacement of hand valve and spud with reuse of spud when possible",
+      "timestamp": "00:05:40",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Use of pipe dope and wick for leak prevention on steam radiator joints",
+      "timestamp": "00:06:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Balance radiators in a single-zone steam system by sizing a radiator to the room",
+      "timestamp": "00:01:46",
+      "confidence": 0.74
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:16:28.785603+00:00"
+}

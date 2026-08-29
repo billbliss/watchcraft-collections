@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "video": "gKoQHqVwxrA.youtube",
+  "title": "Preventing Frozen and Burst Pipes: Outdoor Faucets, Insulation, and Heat Tape",
+  "date": {
+    "display": "January 17, 2016",
+    "iso": "2016-01-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Outdoor garden hose bib / faucet",
+      "confidence": 0.9,
+      "basis": "Transcript discusses outdoor garden faucet and exterior water supply (water sits outside the building)"
+    },
+    {
+      "name": "Indoor shut-off valve and drain for outdoor faucet",
+      "confidence": 0.7,
+      "basis": "Transcript notes there is a shut-off and a drain to let water out so the line can drain backwards"
+    },
+    {
+      "name": "Exterior-wall piping in kitchen/bath (risk area)",
+      "confidence": 0.55,
+      "basis": "Transcript mentions pipes in outside walls (kitchen/bath) and the risk of freezing"
+    }
+  ],
+  "summary": "This Old House outlines practical steps to guard residential plumbing against freezing by addressing outdoor spigots, interior shut-offs, insulation, and heating options. The video demonstrates draining water from outdoor faucets, using frostproof sillcocks that place the shut-off inside the building, and applying insulation or retrofit wraps to exposed pipes. It introduces self-regulating heat tape with a temperature sensor that activates around 38°F and deactivates around 45°F, reducing the chance of freezing without continuous energy use. When access is limited, it suggests leaving doors open to allow heat into plumbing spaces and, on the coldest days, letting a faucet drip slightly. The guidance targets homeowners and DIYers seeking preventive measures for winter-protecting domestic water lines.",
+  "topics": [
+    "Garden hose bib / Outdoor faucet",
+    "Indoor shut-off valve and drainage for outdoor faucet",
+    "Shut-off valve for exterior lines",
+    "Frostproof sillcock",
+    "Split pipe insulation (retrofit) for exposed piping",
+    "Self-regulating heat tape with temperature sensor",
+    "Heat tape activation at about 38°F and shutoff at 45°F",
+    "Open cabinet doors to bring warm air to plumbing",
+    "Drip faucet on the coldest days",
+    "Pipes in exterior-wall runs (kitchens/baths)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:25",
+      "title": "Introduction: why frozen pipes are dangerous",
+      "concepts": [
+        "frozen pipes",
+        "thaw risk",
+        "burst pipes",
+        "water pressure"
+      ],
+      "description": "Richard notes that a thawing pipe can burst under pressure and emphasizes the damage potential when pipes freeze and then thaw."
+    },
+    {
+      "start": "00:00:25",
+      "end": "00:01:04",
+      "title": "Drain and prepare outdoor faucet",
+      "concepts": [
+        "outdoor faucet drainage",
+        "interior faucet release",
+        "drain backwards"
+      ],
+      "description": "Discussion of starting outside, locating the garden faucet, using the indoor shut-off, and draining water through a drain so the line won’t freeze."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:01:12",
+      "title": "Frostproof sillcock: built-in interior shut-off",
+      "concepts": [
+        "frostproof sillcock",
+        "interior shut-off",
+        "no-drain winter"
+      ],
+      "description": "Introduces frostproof sillcocks, noting the shut-off is inside the building and winter draining can be avoided."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:01:54",
+      "title": "Insulation and retrofit for exposed pipes",
+      "concepts": [
+        "split pipe insulation",
+        "retrofit insulation",
+        "exposed pipes"
+      ],
+      "description": "Covers insulating exposed water runs with split or retrofit insulation to reduce freezing risk in hard-to-reach places."
+    },
+    {
+      "start": "00:01:33",
+      "end": "00:01:54",
+      "title": "Heat tape with temperature sensor",
+      "concepts": [
+        "self-regulating heat tape",
+        "temperature sensor",
+        "activation threshold"
+      ],
+      "description": "Shows heat tape with a sensor that activates around 38°F and turns off around 45°F to keep pipes from freezing without wasting energy."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:02:12",
+      "title": "Conditions where access is limited: open doors and proactive dripping",
+      "concepts": [
+        "exterior-wall plumbing risk",
+        "leave cabinet doors open",
+        "drip faucet"
+      ],
+      "description": "Addresses situations where pipes are hard to access, suggesting open cabinet doors to let heat in and dripping the faucet on the coldest days."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:02:14",
+      "title": "Wrap-up",
+      "concepts": [
+        "safety",
+        "prevention"
+      ],
+      "description": "Final note reinforcing the prevention strategies and thanking the audience."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Drain water from outdoor faucet by opening the indoor faucet and locating the drain so the line drains backward",
+      "timestamp": "00:00:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Frostproof sillcock with interior shut-off to avoid winter drainage",
+      "timestamp": "00:01:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Split insulation for retrofit pipe insulation",
+      "timestamp": "00:01:23",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Self-regulating heat tape with a temperature sensor, activating at ~38°F",
+      "timestamp": "00:01:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Open cabinet doors to allow warm interior air to reach plumbing",
+      "timestamp": "00:01:59",
+      "confidence": 0.55
+    },
+    {
+      "technique": "Leave faucet dripping on the coldest day to prevent freezing",
+      "timestamp": "00:02:04",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:08:42.494882+00:00"
+}

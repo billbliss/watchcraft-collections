@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "video": "JJIJ8Pg1z04.youtube",
+  "title": "CPVC vs PEX: Material Differences, Durability, and Long-Term Performance",
+  "date": {
+    "display": "March 19, 2019",
+    "iso": "2019-03-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Long Island, New York (probable Suffolk County)",
+      "confidence": 0.62,
+      "basis": " transcript mentions 'Isle of Long Island' and 'Long Island' with a comment about a local plumber from Suffolk; not a direct shooting location"
+    }
+  ],
+  "summary": "This short instructional segment contrasts CPVC and PEX plumbing materials. It defines CPVC as chlorinated polyvinyl chloride, noting its form stability, coil/straight-stick formats, and suitability for potable water with no leaching of plastics. It then defines PEX as cross-linked polyethylene and highlights its strength, resistance to kinking, and reduced brittleness over time. The host references historical context (polybutylene) and presents longevity estimates for PEX, describing a life expectancy of about 75 years with a safety factor of three (roughly two to three hundred years under favorable conditions). The piece also touches on the question of whether hot water freezes faster than cold water and invites viewers to test it themselves. The overall aim is to help homeowners understand the practical differences and long-term considerations when choosing between CPVC and PEX for plumbing runs.",
+  "topics": [
+    "CPVC",
+    "CPVC definition",
+    "CPVC form stability",
+    "CPVC coil and straight sticks",
+    "CPVC potable water compatibility",
+    "CPVC leaching risk",
+    "PEX",
+    "PEX definition",
+    "PEX cross-linking",
+    "PEX strength",
+    "PEX kink resistance",
+    "PEX brittleness over time",
+    "Polybutylene history",
+    "PEX longevity claims",
+    "Life expectancy of PEX (75 years, safety factor 3)",
+    "Potential overall lifespan (200-300 years)",
+    "Pipes durability comparison",
+    "Water temperature and freezing behavior",
+    "Hot water vs cold water freezing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:41",
+      "title": "CPVC overview",
+      "concepts": [
+        "CPVC is chlorinated polyvinyl chloride",
+        "CPVC comes in coil form or straight sticks",
+        "CPVC is form stable and resists sagging",
+        "CPVC is suitable for potable water and does not leach plastics into water"
+      ],
+      "description": "The segment introduces CPVC, describing it as chlorinated polyvinyl chloride that maintains shape, tends to come in straights or coils, and is approved for potable water with no harmful leaching."
+    },
+    {
+      "start": "00:00:42",
+      "end": "00:01:22",
+      "title": "PEX overview and durability",
+      "concepts": [
+        "PEX stands for cross-linked polyethylene",
+        "Cross-linking provides high strength and reduces kink/brittleness over time",
+        "This is a step up from polybutene historically used in plumbing",
+        "Long-term life expectancy claims: 75 years with a safety factor of 3 (~200–300 years under favorable conditions)",
+        "Durability claims relative to other piping"
+      ],
+      "description": "The video defines PEX as cross-linked polyethylene, highlights its strength and resistance to kinking and brittleness, positions it as an improvement over polybutylene, and cites long-term life expectancy figures cited by the presenter."
+    },
+    {
+      "start": "00:01:22",
+      "end": "00:01:53",
+      "title": "Freezing discussion and audience test",
+      "concepts": [
+        "Question about whether hot water freezes faster than cold water",
+        "Encourages viewers to perform a simple ice-tray experiment to test the claim"
+      ],
+      "description": "The host acknowledges uncertainty about which freezes faster (hot vs cold water) and challenges the audience to test by filling ice trays with hot and cold water to compare freezing rates."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Define CPVC (chlorinated polyvinyl chloride) and its form stability; potable-water compatibility",
+      "timestamp": "00:00:16",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Define PEX (cross-linked polyethylene) and its cross-linking advantages (kink resistance, non-brittleness)",
+      "timestamp": "00:00:42",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Long-term durability claim for PEX (75 years with safety factor of 3; 200–300 years)",
+      "timestamp": "00:01:10",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Polybutylene historical context and contrast to PEX",
+      "timestamp": "00:01:03",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Freezing behavior discussion and audience testing prompt",
+      "timestamp": "00:01:28",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:23:42.712051+00:00"
+}

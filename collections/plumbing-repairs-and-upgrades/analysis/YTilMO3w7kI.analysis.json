@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "video": "YTilMO3w7kI.youtube",
+  "title": "Radon Mitigation Device Troubleshooting in a Well-Water System",
+  "date": {
+    "display": "February 18, 2018",
+    "iso": "2018-02-18",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video documents a spitting faucet issue in a well-water system and follows a service technician as they diagnose a radon mitigation device as a likely source of the problem. The host explains the sequence of components in a typical well installation (pump, pressure tank, pressure switch, filtration/neutralizer stages, and a radon mitigation unit) and then demonstrates how radon can be present in drinking water. The core finding is that an upstream flow restriction can cause a flow imbalance (inbound vs outbound) that allows air and radon to be drawn back through the faucet, especially when high-demand loads (like a top-loading washer) rapidly deplete the reservoir. The fix involves installing a secondary flow restrictor to ensure inbound flow stays ahead of outbound, adjusting a valve to limit flow to under approximately five gallons per minute for testing, and verifying the result with a bucket-and-timer test. The segment also notes radon testing options for water and air, and emphasizes safety considerations in addressing radon-related concerns.”",
+  "topics": [
+    "well system components: pump, pressure tank, pressure switch",
+    "radon in water and health risks",
+    "radon mitigation device operation: spray nozzle, air separation, vent to roof",
+    "sediment filtration and neutralizer stages",
+    "flow rates: inbound vs outbound (gpm)",
+    "upstream filtration impact on water volume",
+    "air entrainment and faucet burping due to flow imbalance",
+    "adding a second flow restrictor to balance flow",
+    "valve adjustment to control flow (test target ~5 gpm)",
+    "bucket-and-timer testing to verify flow",
+    "illustrated device anatomy and explanation",
+    "radon testing options for water and air"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:24",
+      "title": "System context and problem observation",
+      "concepts": [
+        "well water system",
+        "water supply sequence",
+        "observed faucet burp/air in water"
+      ],
+      "description": "The host introduces a spitting faucet phenomenon during laundry, notes its link to the well-water system, and outlines the main components present (pump, pressure tank, filter/neutralizer, and a radon mitigation device)."
+    },
+    {
+      "start": "00:02:25",
+      "end": "00:04:59",
+      "title": "Radon mitigation device and water-chemistry context",
+      "concepts": [
+        "radon mitigation unit",
+        "air-water separation",
+        "radon venting",
+        "health risks of radon"
+      ],
+      "description": "The radon mitigation assembly is described, including how it removes radon from water via air-assisted separation and venting to the roof; health implications of radon are discussed."
+    },
+    {
+      "start": "00:04:59",
+      "end": "00:06:24",
+      "title": "Root cause: flow imbalance and upstream filtration influence",
+      "concepts": [
+        "flow balance (inbound vs outbound)",
+        "gpm targets",
+        "upstream filtration impact",
+        "radon-device inlet/outlet flow"
+      ],
+      "description": "The host hypothesizes that upstream filtration can reduce inbound flow, creating a balance issue where seven gallons per minute inbound versus six outbound can cause aeration and radon to be drawn into the system, leading to burping at fixtures."
+    },
+    {
+      "start": "00:06:32",
+      "end": "00:07:54",
+      "title": "Fix plan: add secondary flow restrictor and test setup",
+      "concepts": [
+        "secondary flow restrictor",
+        "ensuring inbound > outbound",
+        "preventing air reversal",
+        "valve/accessory safety"
+      ],
+      "description": "A plan to install a second flow restrictor is introduced to guarantee inbound flow remains greater than outbound, preventing reverse airflow and enabling safe operation; the team discusses test setup and safeguards against tampering."
+    },
+    {
+      "start": "00:08:03",
+      "end": "00:09:29",
+      "title": "Illustrated anatomy and recap with safety guidance",
+      "concepts": [
+        "radon-unit anatomy",
+        "float sensors and reservoir",
+        "radon testing"
+      ],
+      "description": "An illustrated explanation of the radon unit’s internal layout (spray nozzle, reservoir, floats, vent) is presented, along with a recap of the diagnostic logic and recommended radon testing options for water and air, underscoring safety considerations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Radon-in-water mitigation device operation: spray nozzle and air separation to vent radon",
+      "timestamp": "00:03:15",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Diagnosing flow imbalance using inbound/outbound gallons per minute (7 gpm vs 6 gpm)",
+      "timestamp": "00:05:40",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Installing a second flow restrictor to balance inflow and outflow (prevent air reversal)",
+      "timestamp": "00:06:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Testing to ensure low, controlled flow (bucket and timer to stay under 5 gpm)",
+      "timestamp": "00:07:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Health risk communication and testing options for radon in water and air",
+      "timestamp": "00:02:44",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Illustrated device anatomy and explanatory diagram",
+      "timestamp": "00:08:03",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:35:42.041152+00:00"
+}

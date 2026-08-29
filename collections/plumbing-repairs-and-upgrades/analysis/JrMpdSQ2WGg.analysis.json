@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "video": "JrMpdSQ2WGg.youtube",
+  "title": "Heat Pump Water Heater Installation in a Florida Garage (This Old House)",
+  "date": {
+    "display": "October 7, 2018",
+    "iso": "2018-10-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Garage in Florida, USA",
+      "confidence": 0.8,
+      "basis": "Explicit mentions in transcript: location is the garage; references to Florida"
+    }
+  ],
+  "summary": "This Old House walks a Florida homeowner through replacing a 20-year-old electric water heater with a heat-pump water heater installed in a garage. The host assesses the existing electrical service, explains why a traditional electric tank is impractical given the panel capacity, and introduces the heat-pump unit that uses a top-mounted heat pump to extract heat from the garage air while the bottom portion provides traditional heating elements. The project includes plumbing and safety upgrades: replacing an old gate valve with a ball valve, installing safety devices (vacuum valve, temperature-and-pressure relief valve, and a thermal expansion solution), and wiring in space for condensate drainage. The video covers commissioning steps—power shutoff, draining the old tank, and startup—while underscoring energy savings (roughly a 50% reduction) and the benefit of dehumidifying the garage. It also cautions about noise and ventilation considerations for the heat-pump unit.",
+  "topics": [
+    "Heat pump water heater",
+    "HPWH operation (top heat pump, bottom elements)",
+    "Electrical service assessment (150 A main)",
+    "Load calculation with AC and water heater",
+    "Tank vs tankless vs HPWH decision factors",
+    "Water heater shutoff and drainage procedure",
+    "Ball valve upgrade on cold-water inlet",
+    "Safety devices on water heaters (vacuum valve, TPR valve, expansion relief)",
+    "Thermal expansion considerations in Florida",
+    "Condensate drainage from heat pump",
+    "Garage dehumidification and ambient air requirements",
+    "Noise considerations for HPWH in domestic installs",
+    "System commissioning and testing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:32",
+      "title": "Context and problem framing",
+      "concepts": [
+        "Garage installation context",
+        "Age and condition of existing tank",
+        "Leak observation and routing to outlets"
+      ],
+      "description": "The host locates the hot-water heater in the garage (Florida context) and notes a leak on the exterior. A roughly 20-year-old tank is discussed as a motivation to consider replacement and the possibility of tankless options. The Florida garage setting frames the rest of the installation discussion."
+    },
+    {
+      "start": "00:01:33",
+      "end": "00:02:46",
+      "title": "Electrical considerations and system options",
+      "concepts": [
+        "House electrical service (150 A main)",
+        "Load assessment for electric water heating",
+        "Limitations of electric tank or tankless options"
+      ],
+      "description": "The speaker identifies the main panel (150 A) and explains how a high-demand electric water heater could stress the service, especially with air conditioning also drawing power. This leads to the conclusion that an electric tank likely isn’t the right solution for this home."
+    },
+    {
+      "start": "00:01:53",
+      "end": "00:02:27",
+      "title": "Heat pump water heater concept",
+      "concepts": [
+        "Top-mounted heat pump",
+        "Bottom heating elements",
+        "Heat transfer from garage air"
+      ],
+      "description": "A heat-pump water heater is described: the bottom two-thirds hold traditional elements, while the top houses a heat pump that extracts heat from the garage air and dumps it into the tank, providing an energy-saving alternative to an all-electric element heater."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:03:58",
+      "title": "Preparation and disconnecting the old system",
+      "concepts": [
+        "Power shutoff",
+        "Drainage",
+        "Removal of old tank"
+      ],
+      "description": "The process begins with turning off electrical power to the old heater, cutting off cold water, draining the tank, and preparing for removal. This section frames the commissioning sequence for installing the new unit."
+    },
+    {
+      "start": "00:03:58",
+      "end": "00:05:03",
+      "title": "Plumbing and valve upgrades",
+      "concepts": [
+        "New shutoff valve (ball valve)",
+        "Cold-water inlet routing",
+        "Gate valve vs ball valve"
+      ],
+      "description": "A new ball valve is installed to replace an older gate valve, enabling straightforward shutoff and flow control. The cold-water inlet routing is reviewed (from the main line to the bottom of the tank). This section emphasizes reliable shutoffs and orientation."
+    },
+    {
+      "start": "00:04:22",
+      "end": "00:05:03",
+      "title": "Safety devices and expansion considerations",
+      "concepts": [
+        "Vacuum valve",
+        "Temperature and pressure relief (TPR) valve",
+        "Expansion relief/expansion tank"
+      ],
+      "description": "Essential safety components are described for tank-type heaters: a vacuum valve to prevent tank contraction damage, a TPR valve to relieve excessive temperature or pressure, and an additional relief/expansion mechanism addressing thermal expansion in Florida’s system."
+    },
+    {
+      "start": "00:05:34",
+      "end": "00:05:57",
+      "title": "Condensate and drainage integration",
+      "concepts": [
+        "Heat-pump condensate drainage",
+        "Drainage to existing lines"
+      ],
+      "description": "When the heat pump runs, condensate is formed and routed through the same drainage paths; the installer notes this integration with the existing drain to manage condensate from the unit."
+    },
+    {
+      "start": "00:05:57",
+      "end": "00:06:24",
+      "title": "Operational notes and placement considerations",
+      "concepts": [
+        "Noise and ambient air requirements",
+        "Ventilation considerations",
+        "Energy savings and commissioning takeaway"
+      ],
+      "description": "The host cautions about the unit’s continuous compressor/airflow noise and the need for adequate ambient air—not a tight closet—and reiterates the expected energy savings and the importance of commissioning and monitoring after installation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explaining HPWH operation (top heat pump with bottom heating elements) and energy implications",
+      "timestamp": "00:01:53",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Electrical service assessment and load discussion (150 A main, 340 A potential draw)",
+      "timestamp": "00:00:55",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Plumbing upgrade practice (installing a ball valve on cold-water supply)",
+      "timestamp": "00:04:02",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Safety devices on tank-type water heaters (vacuum valve, TPR valve, expansion relief)",
+      "timestamp": "00:04:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Condensate drainage integration from HPWH to existing drains",
+      "timestamp": "00:05:36",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:25:24.722953+00:00"
+}

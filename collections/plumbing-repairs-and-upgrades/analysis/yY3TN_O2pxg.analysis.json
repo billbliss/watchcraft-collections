@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "video": "yY3TN_O2pxg.youtube",
+  "title": "Installing a Dishwasher: Plumbing, Tailpiece, and Electrical Hookup (This Old House)",
+  "date": {
+    "display": "August 17, 2014",
+    "iso": "2014-08-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "basement",
+      "confidence": 0.7,
+      "basis": "Transcript: 'water shut off down in the basement' indicates a plumbing access point location."
+    },
+    {
+      "name": "kitchen",
+      "confidence": 0.6,
+      "basis": "Transcript references 'kitchen sink' supply and that work occurs in a kitchen context; considered inference about the general work area."
+    }
+  ],
+  "summary": "This instructional video guides a hands-on installation of a dishwasher, focusing on plumbing and electrical connections. The host demonstrates upgrading the hot-water supply with a dual-branch shut-off valve, performing copper-pipe compression fittings with ferrules, replacing the sink tailpiece with a dishwasher-tailpiece, and routing a stainless braided supply line. The segment also covers an electrical hookup via a polarized appliance plug, including how to identify hot and neutral, and ends with securing the unit, leveling, leak testing, and powering it up to verify operation. The steps combine practical carpentry, basic plumbing cartridges, and electrical safety checks typical of in-kitchen appliance installs.",
+  "topics": [
+    "dual-outlet hot-water shut-off valve",
+    "hot-water supply to dishwasher",
+    "compression fitting",
+    "ferrule and nut",
+    "copper pipe",
+    "kitchen sink supply hose",
+    "stainless steel braided supply line",
+    "dishwasher tailpiece",
+    "dishwasher-tailpiece gasket",
+    "top gasket",
+    "bottom nut with gasket",
+    "teflon tape on threads",
+    "elbow adapter",
+    "appliance polarized plug",
+    "identifying hot vs neutral (smooth vs ribbed)",
+    "grounding in appliance plug",
+    "water-line routing under countertop/groove",
+    "securing dishwasher to underside and leveling",
+    "leak testing after connections",
+    "electrical junction box",
+    "safe routing to prevent backflow from sink",
+    "back-siphon prevention",
+    "basement plumbing access",
+    "kitchen installation context"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:29",
+      "title": "Install dual-branch hot-water shut-off valve",
+      "concepts": [
+        "dual-branch shut-off valve",
+        "hot-water supply to dishwasher",
+        "serviceability under fixtures"
+      ],
+      "description": "Replace the existing hot-water shut-off with a dual-branch valve to feed both the sink and the dishwasher; sets up future serviceability and prevents backflow by isolating each fixture."
+    },
+    {
+      "start": "00:01:29",
+      "end": "00:02:08",
+      "title": "Explain fittings and prepare for braided supply",
+      "concepts": [
+        "compression fitting",
+        "ferrule and nut",
+        "reuse of ferrule",
+        "braided supply hose"
+      ],
+      "description": "Discuss how compression fittings seal copper pipe with ferrules, note reuse of the existing nut and ferrule, and introduce the stainless braided dishwasher supply hose that will connect to the valve."
+    },
+    {
+      "start": "00:02:08",
+      "end": "00:03:16",
+      "title": "Replace tailpiece with dishwasher-tailpiece",
+      "concepts": [
+        "dishwasher-tailpiece",
+        "top gasket",
+        "bottom nut with gasket"
+      ],
+      "description": "Remove the sink tailpiece and install the dishwasher-tailpiece with the appropriate top gasket and bottom nut with integrated gasket to accept the dishwasher discharge."
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:04:04",
+      "title": "Connect dishwasher water line to valve and prepare threads",
+      "concepts": [
+        "elbow adapter",
+        "teflon tape on threads",
+        "threaded connections",
+        "water-line alignment"
+      ],
+      "description": "Attach the dishwasher’s water line to the new valve using the adapter elbow and teflon tape, ensuring the threads are clean and aligned so the connection seals properly."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:04:59",
+      "title": "Electrical hookup basics for the dishwasher",
+      "concepts": [
+        "polarized plug",
+        "hot vs neutral identification",
+        "grounding"
+      ],
+      "description": "Identify hot and neutral in the polarized appliance plug by smooth vs ribbed sides, connect to the corresponding wires, and verify proper grounding before proceeding."
+    },
+    {
+      "start": "00:04:59",
+      "end": "00:05:39",
+      "title": "Route water line, install, and secure dishwasher",
+      "concepts": [
+        "water-line routing",
+        "under-counter installation",
+        "leveling and securing",
+        "backflow prevention"
+      ],
+      "description": "Route the water line under the narrow groove, slide the dishwasher into place, secure to the underside, and protect the line to prevent backflow or damage."
+    },
+    {
+      "start": "00:05:39",
+      "end": "00:06:06",
+      "title": "Leak testing and power-up verification",
+      "concepts": [
+        "leak testing",
+        "restore power",
+        "operation verification"
+      ],
+      "description": "Test for leaks after reconnecting water and electricity, plug in and power on the dishwasher, and verify normal operation through a test run."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install a dual-branch hot-water shut-off valve to feed both sink and dishwasher",
+      "timestamp": "00:00:16",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Compression fitting with ferrule on copper pipe; reuse existing ferrule/nut when applicable",
+      "timestamp": "00:00:39",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Replace kitchen sink tailpiece with dishwasher-tailpiece; install top gasket and bottom nut with integrated gasket",
+      "timestamp": "00:02:08",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Identify hot/neutral in a polarized appliance plug by locating smooth vs ribbed sides",
+      "timestamp": "00:04:29",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Route water line under the narrow groove and secure at cabinet level to prevent backflow",
+      "timestamp": "00:04:59",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Test for leaks after reconnecting water supply and restore power; power-on test with dishwasher",
+      "timestamp": "00:05:39",
+      "confidence": 0.83
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:36:54.061633+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-28T22:37:29.745264+00:00"
+}

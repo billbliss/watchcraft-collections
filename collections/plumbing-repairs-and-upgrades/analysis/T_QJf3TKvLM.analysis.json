@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "video": "T_QJf3TKvLM.youtube",
+  "title": "How to Repair a Kitchen Sink Drain Trap — This Old House (analysis)",
+  "date": {
+    "display": "July 13, 2014",
+    "iso": "2014-07-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Georgia, USA",
+      "confidence": 0.6,
+      "basis": "Transcript explicitly mentions 'Georgia' as the location where help arrived; country inferred as USA"
+    }
+  ],
+  "summary": "This This Old House tutorial examines diagnosing and correcting a kitchen sink drainage arrangement that used three traps feeding two basins and a dishwasher. The host plans a single-trap configuration, caps unused branches, and adds a cleanout for future maintenance. The video then reinstalls the garbage disposal to define pipe lengths, taps the dishwasher into the disposal using the built-in knockout, and fabricates a new waste line with PVC fittings and clamps. Finally, the assembly is leak-tested to confirm proper drainage flow and seal integrity.",
+  "topics": [
+    "kitchen sink drain",
+    "trap and water seal",
+    "multi-trap configuration",
+    "single-trap conversion",
+    "cap and plug unused branches",
+    "install cleanout",
+    "garbage disposal installation",
+    "dishwasher discharge connection",
+    "disposer knockout plate",
+    "T-fitting with branch",
+    "PVC pipe cutting and measurement",
+    "PVC solvent cement and primer",
+    "measuring and marking for fit",
+    "waist arm and vertical drop",
+    "drain pitch",
+    "stainless steel hose clamp",
+    "leak testing",
+    "glue inside fittings and pipe",
+    "measure twice, cut once"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Explain trap function and the current multi-trap setup",
+      "concepts": [
+        "trap water seal",
+        "prevents sewer gas",
+        "three traps in cabinet"
+      ],
+      "description": "The presenter describes how a kitchen sink trap creates a water seal to block sewer gases and notes an unusual rough-in that leaves three traps feeding the area."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:30",
+      "title": "Plan to consolidate into a single trap; cap unused branch; install cleanout",
+      "concepts": [
+        "single-trap plan",
+        "cap unused branch",
+        "install cleanout",
+        "prepare PVC glue"
+      ],
+      "description": "The plan is to remove redundant piping, combine to one trap, cap one branch, and install a cleanout to facilitate future maintenance while prepping fittings for cement."
+    },
+    {
+      "start": "01:46:00",
+      "end": "02:29:00",
+      "title": "Reinstall disposer to establish layout and dishwasher connection",
+      "concepts": [
+        "garbage disposal",
+        "pipe length determination",
+        "dishwasher connection knockout"
+      ],
+      "description": "The disposer is reinstalled to locate where the drain comes down and to address the dishwasher connection via the knock-out access."
+    },
+    {
+      "start": "02:29:00",
+      "end": "03:14:00",
+      "title": "Install new T-fitting to provide a branch to the other sink",
+      "concepts": [
+        "T-fitting",
+        "branch to second sink",
+        "fitment adjustment"
+      ],
+      "description": "A T-fitting is added to create a branch toward the other sink; the pipe is marked and cut to fit within the allotted window for proper alignment."
+    },
+    {
+      "start": "03:14:00",
+      "end": "03:51:00",
+      "title": "Measure and cut waist arm and vertical pieces with proper pitch",
+      "concepts": [
+        "waist arm",
+        "vertical drop",
+        "drain pitch"
+      ],
+      "description": "Measurements are taken and components are cut to create the horizontal waist arm and the vertical drop with a slight pitch toward the trap."
+    },
+    {
+      "start": "03:53:00",
+      "end": "04:19:00",
+      "title": "Connect dishwasher discharge to disposer and secure",
+      "concepts": [
+        "dishwasher discharge hose",
+        "stainless steel clamp",
+        "disposer connection"
+      ],
+      "description": "The dishwasher discharge hose is connected to the disposer, and a stainless steel clamp is used to secure the connection."
+    },
+    {
+      "start": "04:19:00",
+      "end": "04:28:00",
+      "title": " leak test and final check",
+      "concepts": [
+        "leak test",
+        "flow check",
+        "final verification"
+      ],
+      "description": "All joints are checked for leaks; water flows through the newly configured drain, confirming proper function and seal."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Consolidating multiple kitchen sink traps into a single trap",
+      "timestamp": "00:01:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Installing a cleanout and capping unused branches for future maintenance",
+      "timestamp": "01:28",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Reinstalling and aligning the garbage disposal to determine pipe lengths",
+      "timestamp": "01:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using a disposer knockout plate for the dishwasher connection",
+      "timestamp": "02:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adding a T-fitting to link a second sink",
+      "timestamp": "02:35",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Measuring, marking, and cutting PVC for precise fit",
+      "timestamp": "02:53",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Applying PVC primer and cement to fittings and pipe",
+      "timestamp": "01:39",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Testing for leaks after assembly with water",
+      "timestamp": "04:22",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Securing dishwasher discharge hose with a stainless steel clamp",
+      "timestamp": "04:13",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:23:01.421429+00:00"
+}

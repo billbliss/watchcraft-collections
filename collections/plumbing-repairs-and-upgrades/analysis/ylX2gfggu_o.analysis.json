@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "video": "ylX2gfggu_o.youtube",
+  "title": "Gas Venting Improvements: PVC Gas-Vent Rating, Fittings, and Safety (This Old House)",
+  "date": {
+    "display": "January 10, 2020",
+    "iso": "2020-01-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement (home utility area)",
+      "confidence": 0.6,
+      "basis": "Transcript mentions checking basement 'as a homeowner' for discoloration and safer replacements"
+    },
+    {
+      "name": "East Coast (probable source region for material used in early installations)",
+      "confidence": 0.6,
+      "basis": "Transcript notes installers on the East Coast used standard PVC for venting"
+    }
+  ],
+  "summary": "This Old House presenter explains how venting of gas appliances evolved from galvanized smoke pipe venting up a chimney to newer practices that vent exhaust horizontally to the outdoors. He explains that higher appliance efficiency lowers flue gas temperature and lift, which made galvanized pipe unsuitable, prompting a shift to venting materials like PVC; however, plain drain-waste-vent PVC is not rated for venting hot gases and can suffer thermal aging, discoloration, brittleness, and even leaks that release carbon monoxide. The standard now requires gas-vent rated PVC, with both pipe and fittings from the same manufacturer to ensure airtight joints. Visible signs of failure (discoloration or brittle, expanding/contracting sections) warrant professional inspection, and a working CO detector is advised as inexpensive safety insurance.",
+  "topics": [
+    "Gas venting basics",
+    "CO and moisture in flue gases",
+    "Galvanized smoke pipe vs. modern venting",
+    "Impact of appliance efficiency on venting",
+    "Temperature-rated PVC vs. standard DWV PVC",
+    "Thermal aging and brittleness of PVC",
+    "Discoloration and physical degradation of vent pipe",
+    "Leaks and carbon monoxide risk",
+    "Gas-vent rated PVC labeling",
+    "Piping and fittings from the same manufacturer",
+    "Air-tight joints vs glued joints",
+    "Basement inspection cues",
+    "CO detectors as safety measure",
+    "Professional assessment for unsafe venting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:21",
+      "title": "Venting basics for gas appliances",
+      "concepts": [
+        "venting of gas appliances",
+        "exhaust products leaving the building",
+        "carbon monoxide and moisture in flue gases"
+      ],
+      "description": "Introduction to why venting is necessary for gas appliances (water heater, furnace, boiler) and the presence of CO and moisture in flue products."
+    },
+    {
+      "start": "00:00:21",
+      "end": "00:01:02",
+      "title": "Historical venting materials and efficiency shifts",
+      "concepts": [
+        "galvanized smoke pipe",
+        "chimney lift and vertical draft",
+        "higher efficiency reduces flue heat and lift"
+      ],
+      "description": "Historically venting used galvanized smoke pipe up a chimney; as equipment became more efficient, less heat was carried in the exhaust, reducing lift and changing venting dynamics."
+    },
+    {
+      "start": "00:01:02",
+      "end": "00:01:50",
+      "title": "PVC as vent material: temperature limits and failures",
+      "concepts": [
+        "standard PVC not designed for high vent temperatures",
+        "temperature-related brittleness",
+        "inside discoloration and failure risks"
+      ],
+      "description": "Installers began using standard DWV PVC for venting, but it is not rated for gas-vent temperatures, leading to brittleness and potential leaks."
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:02:32",
+      "title": "Gas-vent PVC standards and same-manufacturer fittings",
+      "concepts": [
+        "gas-vent rated PVC labeling",
+        "fittings and pipe from same manufacturer",
+        "air-tight joints without over-reliance on glue"
+      ],
+      "description": "A standard requires PVC designed and tested for gas vent use, clearly labeled as gas vent, and asks that pipe and fittings come from the same manufacturer to ensure airtight joints."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:03:04",
+      "title": "Safety cues and next steps",
+      "concepts": [
+        "basement discoloration as warning",
+        "professional assessment for unsafe venting",
+        "CO detector as inexpensive safety insurance"
+      ],
+      "description": "If basement venting appears discolored, have a professional evaluate; install a CO detector as cheap insurance and basic safety."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify pipe as gas-vent rated PVC with explicit labeling",
+      "timestamp": "00:02:03",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Require same-manufacturer pipe and fittings for airtight joints",
+      "timestamp": "00:02:16",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Avoid standard DWV PVC for venting due to temperature limitations and brittleness",
+      "timestamp": "00:01:15",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Visual assessment of vent health: discoloration and brittle sections as failure indicators",
+      "timestamp": "00:01:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Use CO detector as safety precaution when venting systems are in question",
+      "timestamp": "00:02:46",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:34:15.378413+00:00"
+}

@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "video": "oyq4gTWVRhA.youtube",
+  "title": "Diagnosing and Fixing a Noisy Hydronic Baseboard: Shortening the Return Pipe to Allow Expansion",
+  "date": {
+    "display": "December 23, 2018",
+    "iso": "2018-12-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement boiler area",
+      "confidence": 0.9,
+      "basis": "Transcript notes the boiler is in the basement and the system starts there"
+    },
+    {
+      "name": "Front hall baseboard area",
+      "confidence": 0.8,
+      "basis": "Transcript describes supply from the boiler up to the front hall and heating elements there"
+    },
+    {
+      "name": "Son's bedroom",
+      "confidence": 0.9,
+      "basis": "Transcript states the issue is on the other side of the wall in the son's bedroom"
+    },
+    {
+      "name": "Master bedroom",
+      "confidence": 0.9,
+      "basis": "Transcript references the master bedroom as affected by the same piping issue"
+    },
+    {
+      "name": "Master closet",
+      "confidence": 0.9,
+      "basis": "Transcript mentions the master closet with a similar pipe issue"
+    }
+  ],
+  "summary": "This Old House guides a homeowner through diagnosing and fixing a noisy hydronic baseboard heating system. The host explains how a closed-loop boiler system circulates 180°F water through copper baseboard fins, with a return line circulating back to the boiler. The team identifies that the noise stems from copper pipe expansion pushing a long return line against an exterior wall and deforming drywall. They isolate a single zone, drain the top-floor baseboard, and shorten the return pipe to allow room for expansion. Using an emery cloth to clean the pipe, a tight-spaces tubing cutter (Imp), flux, and careful reassembly, they realign the return with the supply line, refill the system, and verify that the baseboards operate quietly with no audible noise.",
+  "topics": [
+    "Hydronic baseboard heating",
+    "Closed-loop boiler system",
+    "Boiler water temperature (180F)",
+    "Circulator pump",
+    "Supply and return piping",
+    "Copper pipe expansion and contraction",
+    "Thermal expansion affecting building structure",
+    "Noise diagnosis in radiant/baseboard heating",
+    "Zone isolation for heating service",
+    "Drain-down procedure for a single heating zone",
+    "Identifying a long return pipe as cause",
+    "Cutting copper pipe in tight spaces",
+    "Imp tubing cutter",
+    "Emery cloth for pipe preparation",
+    "Flux application for copper joints",
+    "Re-aligning supply and return lines",
+    "Refilling and bleeding a hydronic system",
+    "Verifying quiet operation after repair"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "01:19:00",
+      "title": "Hydronic baseboard system overview and the noise complaint",
+      "concepts": [
+        "hydronic baseboard",
+        "boiler",
+        "circulator pump",
+        "180°F water",
+        "closed-loop system"
+      ],
+      "description": "Introduction to how hydronic baseboard heating works, including the boiler, circulating pump, and the recurring noise complaint in winter."
+    },
+    {
+      "start": "01:19:00",
+      "end": "02:59:00",
+      "title": "Initial observations and diagnosis approach",
+      "concepts": [
+        "audible noises as diagnostic clues",
+        "zone-based observations",
+        "thermo-mechanical sounds in piping"
+      ],
+      "description": "Discussion of various sounds and the method for diagnosing the underlying cause in a baseboard system."
+    },
+    {
+      "start": "02:59:00",
+      "end": "03:16:00",
+      "title": "Thermal expansion as the root cause (copper piping)",
+      "concepts": [
+        "copper pipe expansion",
+        "wall/rock deformation from expansion",
+        "long return line pushing against structure"
+      ],
+      "description": "Explanation that heating expands copper pipe and a long return run can push against the wall, causing cracking and noise."
+    },
+    {
+      "start": "03:16:00",
+      "end": "04:56:00",
+      "title": "Isolate, drain, and shorten the return line",
+      "concepts": [
+        "zone isolation",
+        "draining a single heating zone",
+        "cutting copper pipe with limited access",
+        "tubing cutter (Imp)"
+      ],
+      "description": "Procedure to isolate the affected zone, drain enough water to work, and cut the return line to create space for expansion."
+    },
+    {
+      "start": "04:56:00",
+      "end": "05:35:00",
+      "title": "Reassembly, refill, and verification",
+      "concepts": [
+        "flux application",
+        "cleanup and joint preparation",
+        "realigning lines",
+        "refilling and testing for quiet operation"
+      ],
+      "description": "Joining the shortened run with flux, refilling the system, and confirming the baseboard operates quietly after the fix."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explain the layout and operation of a hydronic baseboard loop (boiler, pump, supply/return)",
+      "timestamp": "00:00:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Diagnose expansion-induced noise as a mechanical issue in copper piping",
+      "timestamp": "02:59:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Isolate a single heating zone to perform service",
+      "timestamp": "03:32:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Shorten a return pipe to accommodate thermal expansion",
+      "timestamp": "03:16:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Repair with precise cutting in tight spaces using an Imp tubing cutter",
+      "timestamp": "04:32:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Prepare copper joint surfaces with emery cloth before joining",
+      "timestamp": "04:24:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Apply flux to pipe and fittings prior to joining",
+      "timestamp": "04:52:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Realign return in line with supply to restore expansion allowance",
+      "timestamp": "05:19:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Refill and test the system to ensure quiet operation",
+      "timestamp": "05:15:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:43:45.394483+00:00"
+}

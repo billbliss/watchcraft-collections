@@ -1,0 +1,151 @@
+{
+  "schema_version": 2,
+  "video": "Oq1pkZD7DGo.youtube",
+  "title": "Replacing a Bathroom Vanity: Sink, Countertop, and Plumbing Reconfiguration",
+  "date": {
+    "display": "August 27, 2013",
+    "iso": "2013-08-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Bathroom",
+      "confidence": 0.9,
+      "basis": "explicit mentions of the bathroom in the transcript (e.g., 'the only one in the bathroom')"
+    },
+    {
+      "name": "Basement",
+      "confidence": 0.75,
+      "basis": "explicit mention of going to the basement to turn off water"
+    }
+  ],
+  "summary": "This Old House walks through a bathroom vanity replacement, starting with decommissioning the existing countertop, sink, and outlet, then installing a new vanity base. The host details reconfiguring plumbing to accommodate wider drawers, rough-in electrical work inside the cabinet, securing the cabinet to tiled walls, sealing and reconnecting water and drainage lines, and finally testing the system after installing the new countertop and hardware. The process emphasizes careful notching, precise drilling through tile, and using standard fittings (compression connections, braided supply lines, pop-up drain) along with silicone sealant and plumber’s putty to complete the installation.",
+  "topics": [
+    "Shut-off water valves (angle stops)",
+    "Self-rimming sink removal",
+    "Relieving caulk to free sink from countertop",
+    "Removing countertop from vanity base",
+    "Notching backer/support for drain clearance",
+    "Rerouting hot/cold supply lines due to wider drawers",
+    "Re-piping supply lines to rise on cabinet side",
+    "Electrical outlet rough-in inside a cabinet",
+    "Pilots holes and jig saw for outlet opening",
+    "Madison bars for securing outlet to cabinet",
+    "Securing vanity to wall with masonry anchors",
+    "Drilling through ceramic tile for wall anchors",
+    "High-speed drill bit and masonry bit usage",
+    "Silicone sealant bead between countertop and vanity",
+    "Stainless steel braided supply lines",
+    "Compression fittings for water connections",
+    "Pop-up drain assembly installation",
+    "Plumber’s putty for drain threads",
+    "Drawer width impact on plumbing layout",
+    "Final testing of water and drain connections"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:12",
+      "title": "Prep and removal of old vanity components",
+      "concepts": [
+        "turning off water at angle stops",
+        "disconnecting electrical outlet",
+        "relieving caulk from self-rimming sink",
+        "removing countertop from vanity base",
+        "demolition steps to free the old vanity"
+      ],
+      "description": "The video opens with preparing the bath for vanity replacement: the two angle stops are shut off, the sink is detached from the counter by loosening the caulk seal, and the countertop is unscrewed from the vanity base to begin removal. The goal is to free the old vanity and create access to the plumbing and wiring for the new installation."
+    },
+    {
+      "start": "01:12",
+      "end": "01:49",
+      "title": "New vanity base arrival and reconfiguration planning",
+      "concepts": [
+        "comparison of old vs. new vanity drawers",
+        "drawer width blocking plumbing paths",
+        "planning to re-pipe hot/cold lines",
+        "consideration of basement water shut-off",
+        "notching backer for drain clearance"
+      ],
+      "description": "The host introduces the new vanity base and notes that the wider drawers in the new unit interfere with existing plumbing paths. This triggers plans to re-pipe hot and cold lines to come up on the side, and to notch the backer so the drain line will clear the cabinet structure."
+    },
+    {
+      "start": "01:49",
+      "end": "02:40",
+      "title": "Electrical rough-in and cabinet modification",
+      "concepts": [
+        "rough-in for old electrical outlet in cabinet",
+        "pilot holes and jig saw for outlet opening",
+        "Madison bars to secure outlet face plate"
+      ],
+      "description": "The crew roughs in a new outlet within the cabinet: drilling pilot holes, cutting an opening with a jig saw, and preparing to secure the outlet using Madison bars before finishing with a face plate."
+    },
+    {
+      "start": "02:40",
+      "end": "02:58",
+      "title": "Securing cabinet to wall and preparing for tile work",
+      "concepts": [
+        "drilling cabinet holes with a high-speed drill bit",
+        "drilling through ceramic tile with a masonry bit",
+        "installing wall anchors to hold the countertop to the vanity",
+        "silicone bead to seal top joint"
+      ],
+      "description": "Focus shifts to anchoring the vanity to the wall: the cabinet is drilled in two places, a masonry bit is used to go through the ceramic tile for anchors, and a silicone bead is prepared to seal the joint between the countertop and vanity for a watertight fit."
+    },
+    {
+      "start": "02:58",
+      "end": "04:00",
+      "title": "Plumbing connections, drain, and final test",
+      "concepts": [
+        "new shut-off valves and compression connections",
+        "stainless steel braided supply line",
+        "compression fittings for hot/cold water",
+        "pop-up drain assembly and plumber’s putty",
+        "testing the system after assembly"
+      ],
+      "description": "Final plumbing steps include installing new shut-offs, connecting hot and cold lines with compression fittings and stainless braided hose, routing the drain with a pop-up assembly and plumber’s putty, then tightening and testing the water and drain connections to ensure proper operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Relieving caulk on a self-rimming sink to pop it out of a countertop",
+      "timestamp": "00:00:31",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Notching a backer piece to clear a drain line",
+      "timestamp": "02:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Rough-in and install of an electrical outlet inside a cabinet using jig saw and Madison bars",
+      "timestamp": "02:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Drilling through ceramic tile to install wall anchors for vanity mounting",
+      "timestamp": "02:44",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Using silicone bead to seal the joint between countertop and vanity",
+      "timestamp": "02:56",
+      "confidence": 0.71
+    },
+    {
+      "technique": "Connecting hot/cold water with compression fittings and a stainless steel braided line",
+      "timestamp": "03:12",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Installing a pop-up drain with plumber’s putty and tightening the connection",
+      "timestamp": "03:34",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:41:37.733658+00:00"
+}

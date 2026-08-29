@@ -1,0 +1,136 @@
+{
+  "schema_version": 2,
+  "video": "F3V7UjX_rFE.youtube",
+  "title": "Gas Clothes Dryer Installation: Piping, Venting, and Commissioning (This Old House)",
+  "date": {
+    "display": "February 27, 2019",
+    "iso": "2019-02-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement",
+      "confidence": 0.85,
+      "basis": "Explicit mentions of the basement throughout the transcript (e.g., 'the basement,' 'we'll head down to the basement')."
+    }
+  ],
+  "summary": "This Old House guides a family through installing a gas clothes dryer in their basement, covering site assessment, electrical and gas feasibility, gas piping installation, venting to the exterior, and final commissioning. The episode contrasts electric versus gas dryer options, stresses the need to verify electrical service (panel capacity) and gas availability, and demonstrates practical piping techniques (black steel pipe, pipe dope, threaded joints), venting details (exterior termination with louvers), and connection methods (unions or flexible connectors) before performing a leak test and turning the gas back on. The host also notes safety considerations, including that gas piping should be done by a licensed professional, and closes with a personal update on the family.",
+  "topics": [
+    "Gas dryer installation",
+    "Gas piping (black steel) and routing",
+    "Pipe dope / thread sealant application",
+    "Threaded fittings and tightening procedures (two-wrench method)",
+    "Vent piping to exterior and termination louvers",
+    "Exterior vent protection and bird prevention",
+    "Unions and stainless steel flexible connectors",
+    "Gas leak testing and commissioning",
+    "Electrical requirements for dryers (110V plug) and panel capacity (60A vs 200A)",
+    "Gas line availability and feasibility in a typical home",
+    "Safety considerations and licensing for gas work"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:34",
+      "title": "Project scope and site readiness",
+      "concepts": [
+        "basement laundry setup",
+        "washer hookup present",
+        "need for a dryer",
+        "venting and electrical constraints"
+      ],
+      "description": "Introduction to the family's laundry needs, existing washer hookup in the basement, and the initial assessment of space, venting options, and electrical capacity guiding the dryer choice."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:04:07",
+      "title": "Electric vs. gas dryer feasibility and gas line availability",
+      "concepts": [
+        "electrical panel capacity (60A)",
+        "220V requirements for electric dryers",
+        "gas line availability and routing",
+        "venting considerations"
+      ],
+      "description": "Discussion of electrical load versus a potential gas option, including the panel size and the presence of a gas line, which influence whether a gas dryer is a viable, more powerful alternative."
+    },
+    {
+      "start": "00:04:07",
+      "end": "00:06:55",
+      "title": "Gas piping installation",
+      "concepts": [
+        "black steel gas pipe",
+        "cutting vs pre-cut lengths",
+        "thread sealant (pipe dope)",
+        "two-wrench tightening",
+        "vertical run and drip cap"
+      ],
+      "description": "Setup of the gas piping run: selecting pipe length, threading joints, applying thread sealant, tightening with wrenches, and preparing a vertical drop with a drip cap for future cleaning."
+    },
+    {
+      "start": "00:06:55",
+      "end": "00:08:03",
+      "title": "Venting, termination, and connector options",
+      "concepts": [
+        "vent to exterior",
+        "louvered termination",
+        "clamps and joins",
+        "union vs flexible connector"
+      ],
+      "description": "Installation of the vent path to the outside, including the exterior termination and clamps, and discussion of how to join the vent to the dryer using either a union or a flexible connector for proper alignment."
+    },
+    {
+      "start": "00:08:03",
+      "end": "00:08:54",
+      "title": "Final test, commissioning, and wrap-up",
+      "concepts": [
+        "gas leak test",
+        "gas on after connections",
+        "final safety check",
+        "closing remarks"
+      ],
+      "description": "Completion steps including leak testing after connections, turning the gas back on, and wrapping up with observational notes and a family update."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gas piping installation using black steel pipe",
+      "timestamp": "00:04:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Applying pipe thread sealant (pipe dope) and tightening threaded joints with two wrenches",
+      "timestamp": "00:05:15",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Vent piping termination with exterior louvers and securing clamps",
+      "timestamp": "00:06:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using a union or flexible connector to join vent/piping to the appliance",
+      "timestamp": "00:07:13",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Gas leak testing and commissioning after piping installation",
+      "timestamp": "00:08:03",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Electrical capacity evaluation for dryer installation (panel considerations for 60A vs. 200A systems)",
+      "timestamp": "00:02:37",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Safety note: gas piping should be performed by a licensed professional",
+      "timestamp": "00:06:00",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:07:29.196981+00:00"
+}

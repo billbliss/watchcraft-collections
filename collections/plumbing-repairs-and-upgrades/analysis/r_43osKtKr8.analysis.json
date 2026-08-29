@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "video": "r_43osKtKr8.youtube",
+  "title": "How to Install a Garbage Disposal | This Old House (Step-by-step under-sink installation)",
+  "date": {
+    "display": "August 27, 2013",
+    "iso": "2013-08-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the sink",
+      "confidence": 0.85,
+      "basis": "Transcript repeatedly references positioning and mounting the disposer at/against the sink; explicit mentions include 'undermounted' and 'underside of the sink' in the workflow"
+    }
+  ],
+  "summary": "This Old House demonstrates the installation of a garbage disposal, focusing on safety, teardown of the existing setup, gasket preparation, electrical wiring with grounding considerations, and the final mounting of the unit. The presenters verify power is off with a tester, remove the electrical conduit and armor, drop the disposal, disassemble the top coupling, apply a plumber’s putty gasket, and reassemble in reverse order. They then fish wires, connect hot and neutral conductors, secure the unit to the sink with a locking ring, and complete the tailpiece/flange assembly, emphasizing correct grounding and vibration-free mounting.",
+  "topics": [
+    "Power-off and electrical safety",
+    "Electrical tester verification",
+    "Junction-box cover removal",
+    "Armored cable grounding",
+    "Disposer removal and teardown",
+    "Bolt/nut removal and yolk",
+    "Locking ring removal and reinstallation",
+    "Sink mounting with gasket (plumber's putty)",
+    "Gasket placement and putty squeeze-out",
+    "Reverse assembly order",
+    "Under-sink wiring routing",
+    "Wiring color codes (white common, blue/black hot)",
+    "Wiring connections: white-to-white, hot-to-colored",
+    "Locking ring snugging and vibration prevention",
+    "Tailpiece and flange installation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:00:59",
+      "title": "Safety and electrical preparation",
+      "concepts": [
+        "Electrical safety",
+        "Power shut-off",
+        "Voltage verification"
+      ],
+      "description": "Turn off electrical power to avoid shock; remove the switch to prevent accidental energizing, then verify no voltage with a tester (includes explanation that a red bar would indicate power)."
+    },
+    {
+      "start": "00:00:59",
+      "end": "00:02:04",
+      "title": "Disposer removal and top-access teardown",
+      "concepts": [
+        "Disposer drop",
+        "Conduit removal",
+        "Bolts and gasket removal",
+        "Locking ring handling"
+      ],
+      "description": "Drop the disposer by removing two bolts with a gasket; use a 3/8-inch open-end wrench due to long screw slop; remove yolk and gasket, then pry down the top locking ring to disassemble."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:02:55",
+      "title": "Plumber's putty gasket and reverse assembly prep",
+      "concepts": [
+        "Plumber's putty",
+        "Gasket seating",
+        "Reassembly order"
+      ],
+      "description": "Apply plumber's putty to form a new gasket, press and squeeze out excess, then plan to reassemble parts in the reverse order they were taken apart."
+    },
+    {
+      "start": "00:02:44",
+      "end": "00:04:16",
+      "title": "Electrical wiring, grounding, and mounting",
+      "concepts": [
+        "Wiring the unit (hot/neutral colors)",
+        "Grounding with armored cable",
+        "Fish wires through and secure",
+        "Sink mounting alignment"
+      ],
+      "description": "Fish the two wires through, fasten the armored cable, and connect ground; identify white as common and pair it with white, then mate the hot lead (blue/black) with the colored hot from the wall; tuck wiring through a trap door and secure under the sink before mounting."
+    },
+    {
+      "start": "00:03:35",
+      "end": "00:04:16",
+      "title": "Final mounting details and tailpiece",
+      "concepts": [
+        "Gasket alignment",
+        "Locking ring snugging",
+        "Tailpiece and flange installation"
+      ],
+      "description": "Position the disposer against the sink, align the gasket, secure with the locking ring (snugged with a screwdriver to prevent vibration), then attach the tailpiece and bottom flange with final tightening."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Electrical isolation and verification with a voltage tester",
+      "timestamp": "00:00:32",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Disposer removal using bolts, gasket, and locking ring",
+      "timestamp": "00:01:01",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Sink mounting with plumber's putty gasket",
+      "timestamp": "00:02:04",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Wiring connections and color-code guidance (white-to-white, blue/black hot)",
+      "timestamp": "00:02:55",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Locking ring snugging and vibration prevention",
+      "timestamp": "00:03:52",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:50:18.057275+00:00"
+}

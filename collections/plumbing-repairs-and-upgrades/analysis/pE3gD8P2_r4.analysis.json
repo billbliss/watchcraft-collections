@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "video": "pE3gD8P2_r4.youtube",
+  "title": "How to Prevent Plumbing Sulfur Smells | Ask This Old House",
+  "date": {
+    "display": "October 11, 2015",
+    "iso": "2015-10-11",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House explains that sulfur odors in household water typically stem from hydrogen sulfide dissolved in groundwater. The discussion covers distinguishing odor sources (hot vs cold water, well water vs municipal supply), treating well water with filtration, and a key heater-maintenance fix: the sacrificial anode rod inside tank-type water heaters. Hydrogen sulfide attacks magnesium anodes, producing the rotten-egg smell, so replacing a magnesium anode with aluminum can dramatically reduce odors. The guidance also notes municipal water is usually treated and should not carry high hydrogen sulfide levels. The video emphasizes routine maintenance (anode replacement about every two years) and consulting a local well contractor for filtration options.”",
+  "topics": [
+    "Hydrogen sulfide in water",
+    "Groundwater chemistry",
+    "Well water vs municipal water",
+    "Water heater sacrificial anode rod",
+    "Magnesium vs aluminum anode rods",
+    "Hydrogen sulfide corrosion of anodes",
+    "Anode rod replacement frequency",
+    "Water filtration for well water",
+    "Diagnosing odor sources (hot vs cold, well vs municipal)",
+    "Rotten egg odor in plumbing",
+    "Well contractor guidance",
+    "Municipal water treatment",
+    "Safety and nuisance of H2S",
+    "Hot water vs cold water odor sources"
+  ],
+  "sections": [
+    {
+      "start": "00:00:32",
+      "end": "00:01:08",
+      "title": "Causes of sulfur odors in water",
+      "concepts": [
+        "Hydrogen sulfide (H2S) gas",
+        "Groundwater",
+        "Natural occurrence of H2S in water"
+      ],
+      "description": "The presenter explains that sulfur smells often come from groundwater picking up hydrogen sulfide, which can be released as a gas when water is used in the home. It is described as annoying but not dangerous."
+    },
+    {
+      "start": "00:01:08",
+      "end": "01:01:54",
+      "title": "Treating sulfur odors: well water and hot water sources",
+      "concepts": [
+        "Well water filtration",
+        "Hot vs cold water odor source",
+        "Consulting a well contractor"
+      ],
+      "description": "If the odor is present, treatment at the source is discussed. Well water may require a filter to reduce hydrogen sulfide. The speaker notes that odors can originate from hot water and stresses contacting a local well contractor for filtration solutions."
+    },
+    {
+      "start": "01:01:54",
+      "end": "02:13:00",
+      "title": "Water heater and anode rod solution",
+      "concepts": [
+        "Sacrificial anode rod",
+        "Magnesium vs aluminum anode",
+        "Hydrogen sulfide attack on magnesium",
+        "Replacing anode rod with aluminum",
+        "Maintenance interval (every 2 years)"
+      ],
+      "description": "Inside tank-type water heaters is a sacrificial anode rod. Hydrogen sulfide can attack magnesium rods, producing the rotten-egg smell. Switching to an aluminum anode rod reduces susceptibility to H2S. Replacement is described as a straightforward fix, with a note to replace the anode approximately every two years to avoid fusion or difficult removal."
+    },
+    {
+      "start": "02:10:00",
+      "end": "02:13:00",
+      "title": "Municipal water considerations",
+      "concepts": [
+        "Treated municipal water",
+        "Expected low hydrogen sulfide levels"
+      ],
+      "description": "The speaker mentions that municipal water has been treated and should generally have low or no high levels of hydrogen sulfide by the time it reaches the home."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Diagnose odor source by hot vs cold water exposure and source of supply (well vs municipal)",
+      "timestamp": "00:01:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Install or replace filtration at the well to reduce hydrogen sulfide",
+      "timestamp": "00:01:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Replace magnesium sacrificial anode with aluminum to reduce H2S odors in tank-type water heaters",
+      "timestamp": "01:15:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Inspect and replace sacrificial anode rod on water heater on a regular maintenance interval (approximately every two years)",
+      "timestamp": "01:50:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Understanding hydrogen sulfide’s source in groundwater and its gas phase release",
+      "timestamp": "00:00:35",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:44:47.364616+00:00"
+}

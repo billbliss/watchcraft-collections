@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "weDLgHiSiCw.youtube",
+  "title": "Diagnosing a Gurgling Toilet: Venting, S-Traps, and Mechanical Vent Solutions",
+  "date": {
+    "display": "January 28, 2018",
+    "iso": "2018-01-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the sink / vanity area (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly references 'underneath the sink' and 'flood level of the vanity' in discussion of venting and trap arrangement."
+    },
+    {
+      "name": "Near the toilet (immediate toilet area)",
+      "confidence": 0.6,
+      "basis": "Transcript describes the slug of water and air path 'right next to the toilet' and discusses venting related to the toilet."
+    }
+  ],
+  "summary": "This Old House’s Ask This Old House segment analyzes a gurgling sound heard during a toilet flush as a venting problem in the drainage system. The host explains that an unvented toilet allows air to be drawn behind the water slug, causing the gurgle, and identifies a physically obstructive under-sink configuration (an S-trap) as a code-violating setup that can siphon and allow sewer gas to enter the home. The discussion covers vent concepts including wet vents and how air should travel to the main drain, then presents corrective routes such as adding a proper vent (potentially a mechanical vent) and routing vent piping outside and back into the building. The host emphasizes that proper venting prevents vacuum formation when water leaves the fixture and demonstrates how a correctly vented system should behave when flushed.",
+  "topics": [
+    "toilet venting",
+    "gurgling sound diagnosis",
+    "wet vent",
+    "S-trap",
+    "P-trap",
+    "trap siphon",
+    "sewer gas risk",
+    "mechanical vent",
+    "vent installation",
+    "flood level of vanity",
+    "drainage path",
+    "vent path through sink",
+    "main drain connection",
+    "outside vent routing",
+    "T-fitting vent extension",
+    "air in drainage system",
+    "code violations in plumbing",
+    "toilet venting through lavatory",
+    "vacuum in drainage system"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Gurgle as diagnostic cue: venting status and air path",
+      "concepts": [
+        "gurgling",
+        "unvented toilet",
+        "air seeking behind water slug"
+      ],
+      "description": "Host identifies the gurgle as an indicator that the toilet waste line is not vented and explains how air must find a path behind the water slug."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:01:58",
+      "title": "Air path and siphon risk near the toilet",
+      "concepts": [
+        "air entry behind slug",
+        "drain path next to toilet",
+        "non-vented run causing gurgle"
+      ],
+      "description": "Demonstrates how the slug of water and ambient air interaction can create venting issues near the toilet, describing how a non-vented setup leads to gurgling."
+    },
+    {
+      "start": "00:01:58",
+      "end": "00:02:34",
+      "title": "Under-sink plumbing anatomy: the S-trap and its dangers",
+      "concepts": [
+        "S-trap",
+        "trap seal siphon",
+        "illegal configuration",
+        "risk of sewer gas"
+      ],
+      "description": "Identifies a full S-trap under the sink, explains why it fails to vent and how it can siphon the trap, allowing sewer gas to enter the home."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:02:49",
+      "title": "Mechanical vent option and routing ideas",
+      "concepts": [
+        "mechanical vent",
+        "T-fitting",
+        "extension of vent pipe",
+        "outside venting vs back into building"
+      ],
+      "description": "Discusses a mechanical vent as a possible solution in some jurisdictions and outlines vent-routing concepts, including venting outside and re-entering the building."
+    },
+    {
+      "start": "00:02:49",
+      "end": "00:02:51",
+      "title": "Wrap-up and practical takeaway",
+      "concepts": [
+        "venting importance",
+        "flush test confirmation"
+      ],
+      "description": "Concludes with the emphasis on venting and notes that flushing demonstrates proper venting after a correction."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify venting deficiency from gurgling toilet signal",
+      "timestamp": "00:00:20",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Diagnose S-trap under sink as illegal and dangerous",
+      "timestamp": "00:01:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Explain wet vent function and connection to main drain",
+      "timestamp": "00:02:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Propose mechanical vent as a fix option, including outdoor vent routing",
+      "timestamp": "00:02:34",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Describe correct venting path with a vent to the top of the building's system",
+      "timestamp": "00:02:07",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:29:05.107296+00:00"
+}

@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "riDY_Juwqr4.youtube",
+  "title": "How to Install a New Kitchen Faucet | Ask This Old House",
+  "date": {
+    "display": "May 23, 2018",
+    "iso": "2018-05-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "probable kitchen sink area",
+      "confidence": 0.65,
+      "basis": "Transcript centers on installing a faucet at a kitchen sink; no explicit filming location is stated."
+    }
+  ],
+  "summary": "This video walks through upgrading a four-hole kitchen sink setup to a modern single-hole faucet with a deck plate and a soap dispenser. It covers selecting a faucet with an integrated pull-down spray, choosing a deck plate to cover extra holes, and mounting the faucet with a gasket, plumber’s putty, and an underside washer. The guide also covers securing the faucet with screws, weight-adding for the pull-down spray hose, connecting hot and cold water with compression fittings, installing the soap dispenser, verifying new shutoffs, and testing water and soap output before wrapping up.",
+  "topics": [
+    "four-hole kitchen sink assessment",
+    "old faucet and spray hose configuration",
+    "single-hole faucet with integrated pull-down spray",
+    "deck plate to cover three holes",
+    "soap dispenser as hole choice",
+    "anchor posts and mounting considerations",
+    "batting order for faucet mounting",
+    "gasket placement between faucet and sink",
+    "deck plate alignment and hose clearance",
+    "putty usage for leak prevention",
+    "base putty application and spreading",
+    "underside gasket and washer positioning",
+    "screw tightening to seat faucet and squeeze out putty",
+    "weight addition to pull-down spray hose",
+    "hose retraction mechanism",
+    "hot and cold water compression connections",
+    "soap dispenser installation under sink",
+    "new shutoffs under the sink",
+    "faucet and soap dispenser testing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:51",
+      "title": "Plan and select faucet hardware",
+      "concepts": [
+        "four-hole sink",
+        "deck plate",
+        "soap dispenser",
+        "pull-down spray faucet",
+        "integrated spray hose"
+      ],
+      "description": "Discusses the existing sink with four holes, the choice of a single-hole faucet with an integrated pull-down spray, and the option to cover three holes with a deck plate while leaving one for a soap dispenser."
+    },
+    {
+      "start": "00:00:55",
+      "end": "00:02:02",
+      "title": "Mounting order and gasket setup",
+      "concepts": [
+        "gasket",
+        "deck plate",
+        "putty",
+        "underside gasket",
+        "washers",
+        "screws",
+        "seal"
+      ],
+      "description": "Outlines the mounting sequence (gasket, deck plate, putty, underside gasket, washer, and screws) and explains how tightening the assembly creates a leak-free seal."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:02:25",
+      "title": "Seal base with plumber's putty",
+      "concepts": [
+        "plumber's putty",
+        "base seal",
+        "leak prevention"
+      ],
+      "description": "Demonstrates applying plumber's putty to the base area under the gasket to prevent leaks between the plate and sink."
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:03:05",
+      "title": "Spray hose preparation and water connections",
+      "concepts": [
+        "pull-down spray hose",
+        "hose weight",
+        "compression connections",
+        "hot/cold water"
+      ],
+      "description": "Shows positioning and securing the spray hose (adding a weight to retract it) and connecting hot and cold water supplies with compression fittings."
+    },
+    {
+      "start": "00:03:06",
+      "end": "00:03:25",
+      "title": "Soap dispenser and shutoffs",
+      "concepts": [
+        "soap dispenser installation",
+        "new shutoffs",
+        "under-sink components"
+      ],
+      "description": "Installs the soap dispenser in the remaining hole and confirms the new shutoffs under the sink are functioning."
+    },
+    {
+      "start": "00:03:32",
+      "end": "00:03:47",
+      "title": "Test run and wrap-up",
+      "concepts": [
+        "test faucet and soap",
+        "video CTA"
+      ],
+      "description": "Tests the faucet and soap dispenser in operation and closes with a channel call-to-action."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Integrated pull-down spray faucet design (single-hole)",
+      "timestamp": "00:00:24",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Deck plate to cover three sink holes",
+      "timestamp": "00:00:33",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Gasket placement and mounting sequence",
+      "timestamp": "00:01:03",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Under-sink washer and screws to secure faucet",
+      "timestamp": "00:01:41",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Plumber's putty applied to base for seal",
+      "timestamp": "00:01:27",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Weight on spray hose to ensure retraction",
+      "timestamp": "00:02:49",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Compression fittings for hot and cold water",
+      "timestamp": "00:03:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Soap dispenser installation in remaining hole",
+      "timestamp": "00:03:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Functional test of faucet and soap dispenser",
+      "timestamp": "00:03:21",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:51:56.185374+00:00"
+}

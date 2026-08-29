@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "video": "TI77VQPNuGY.youtube",
+  "title": "Rebuilding a Shut-Off Valve: Washer and Stem Kit Replacement (This Old House) — Transcript-Based Analysis",
+  "date": {
+    "display": "May 23, 2018",
+    "iso": "2018-05-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the kitchen sink",
+      "confidence": 0.85,
+      "basis": "Transcript states 'Underneath the sink there are two shut offs' and discusses access under the sink."
+    }
+  ],
+  "summary": "This Old House walks through diagnosing a leaky kitchen-sink shut-off and demonstrates how to repair a standard multi-turn shut-off valve by replacing the worn washer and stem using a simple service kit. The episode covers shutting off the main supply, identifying the valve type, disassembling the valve (removing the handle and gland nut), diagnosing the missing washer (and locating it in the aerator or spray hose), and installing a replacement stem, washer, and gasket from a small kit. It also notes an alternative if the seat is worn and emphasizes testing leaks after reassembly.",
+  "topics": [
+    "main water shut-off",
+    "under-sink shut-off valves",
+    "multi-turn valve",
+    "valve stem unit",
+    "valve washer",
+    "valve seat wear",
+    "valve replacement kit",
+    "valve gland nut",
+    "valve handle removal",
+    "aerator inspection",
+    "spray hose assembly",
+    "faucet repair",
+    "leak diagnosis",
+    "underground unsoldering (briefly mentioned as an option)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:55",
+      "end": "01:01:00",
+      "title": "Initial diagnosis and plan to repair",
+      "concepts": [
+        "kitchen sink faucet",
+        "sprayer coming loose",
+        "leak diagnosis",
+        "replacement faucet plan"
+      ],
+      "description": "The presenter identifies an old faucet with a sprayer that keeps coming loose and notes a hot-water leak when shutoffs are manipulated. The plan is to replace the faucet after stabilizing the plumbing by shutting off water."
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:01:00",
+      "title": "Turn off water supply to access valve",
+      "concepts": [
+        "main water shut-off",
+        "temporary leak control"
+      ],
+      "description": "To repair the valve, the main water supply is shut off and the status of the main shutoff is tested to ensure the system can be worked on without water flow."
+    },
+    {
+      "start": "01:05:00",
+      "end": "01:25:00",
+      "title": "Valve anatomy and identification",
+      "concepts": [
+        "under-sink shut-offs",
+        "multi-turn valve",
+        "stem unit",
+        "washer",
+        "seat"
+      ],
+      "description": "Two under-sink shut-offs are described as standard. The valve is identified as a multi-turn valve with a stem unit and washer that closes against a seat; wear is associated with the washer."
+    },
+    {
+      "start": "01:31:00",
+      "end": "01:40:00",
+      "title": "Repair options and service kit",
+      "concepts": [
+        "washer",
+        "gasket",
+        "new stem unit",
+        "service kit"
+      ],
+      "description": "A small service kit is introduced as an inexpensive option (~$3) to replace the washer, gasket, and stem unit rather than swapping the entire valve."
+    },
+    {
+      "start": "01:58:00",
+      "end": "02:07:00",
+      "title": "Disassembly: remove handle and gland nut",
+      "concepts": [
+        "valve handle removal",
+        "phillips screw",
+        "gland nut"
+      ],
+      "description": "The handle is removed with a Phillips screw, followed by loosening the gland nut to access the valve internals."
+    },
+    {
+      "start": "02:34:00",
+      "end": "02:58:00",
+      "title": "Diagnose missing washer and locate source",
+      "concepts": [
+        "missing washer",
+        "aerator inspection",
+        "spray hose back",
+        "leak source diagnosis"
+      ],
+      "description": "The presenter notices there is no washer on the valve stem and explains where a missing washer could manifest—likely in the aerator or at the back of the spray hose."
+    },
+    {
+      "start": "03:04:00",
+      "end": "03:28:00",
+      "title": "Install new stem, washer, and gasket from kit",
+      "concepts": [
+        "new stem unit",
+        "washer",
+        "gasket",
+        "installing replacement parts"
+      ],
+      "description": "Using the service kit, the new washer, stem, and gasket are installed and the assembly is prepared for reassembly to restore valve function."
+    },
+    {
+      "start": "04:00:00",
+      "end": "04:14:00",
+      "title": "Wrap-up and next steps",
+      "concepts": [
+        "additional home videos",
+        "subscription call-to-action"
+      ],
+      "description": "The host closes with a brief note about related videos and a call to subscribe for further home improvement content."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify and replace a worn valve washer and stem using a service kit",
+      "timestamp": "00:00:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Shut off main water supply and verify valve closure before repair",
+      "timestamp": "00:55:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Disassemble a multi-turn shut-off valve (handle, screws, gland nut) to access internals",
+      "timestamp": "01:58:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Diagnose missing washer by inspecting aerator and spray hose as potential sources",
+      "timestamp": "02:34:00",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:24:01.317353+00:00"
+}

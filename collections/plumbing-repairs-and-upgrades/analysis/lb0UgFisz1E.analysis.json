@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "video": "lb0UgFisz1E.youtube",
+  "title": "Whole-House Ductless Heat Pump Installation: Inverter Tech, Zoning, and Attic Integration",
+  "date": {
+    "display": "August 17, 2018",
+    "iso": "2018-08-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates installing a ductless heat-pump system to heat and cool a home, explaining how ductless indoor units paired with a single outdoor condenser provide multi-zone comfort. The video covers how ductless systems transfer heat via a refrigerant loop, inverter technology for high efficiency in cold weather, the option to use a ducted ductless air handler, and the planning steps that precede installation (including a heat-load calculation). It also shows practical installation details such as mounting air handlers, running refrigerant line sets and condensate drains, creating four zones with individual thermostats, and elevating the outdoor unit above the snow line to ensure winter operation. A visualization using an infrared camera illustrates heat distribution in a historic electric radiant ceiling setup, framing the motivation for modern, efficient alternatives.",
+  "topics": [
+    "Ductless heat pump",
+    "Indoor wall-mounted unit",
+    "Outdoor condenser",
+    "Refrigerant line sets",
+    "Branch box",
+    "Ducted ductless air handler",
+    "Air handler",
+    "Zoning",
+    "Thermostats (wireless, programmable)",
+    "Inverter technology",
+    "Heat load calculation",
+    "Return and supply ducts",
+    "Coil and condensate drain",
+    "Quadruple air-handler zoning",
+    "Snow-line elevation for outdoor unit",
+    "Infrared heat visualization",
+    "Heating and cooling using a single exterior unit",
+    "High-efficiency cooling and heating principles"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:56",
+      "title": "Intro to electric radiant heat and infrared visualization",
+      "concepts": [
+        "electric radiant ceiling heat",
+        "infrared heat visualization",
+        "heat distribution in ceilings"
+      ],
+      "description": "The host references electric radiant ceiling heat as a historical approach and uses infrared visualization to show how heat is distributed in ceiling cables when activated."
+    },
+    {
+      "start": "00:00:58",
+      "end": "02:21",
+      "title": "Ductless heat pump fundamentals and inverter technology",
+      "concepts": [
+        "refrigerant loop",
+        "indoor wall-mounted unit",
+        "outdoor condenser",
+        "inverter technology",
+        "heat transfer"
+      ],
+      "description": "Explanation of how a ductless system moves heat with a refrigerant loop between an indoor unit and an outdoor condenser, and how inverter technology improves efficiency and cold-weather performance."
+    },
+    {
+      "start": "02:21",
+      "end": "03:21",
+      "title": "Cold-climate performance and system scope",
+      "concepts": [
+        "heat pump in winter",
+        "reversible operation",
+        "single outdoor unit for multiple zones",
+        "snow-line considerations"
+      ],
+      "description": "Discussion of heating in cold New England winters, inverter advantages at low outdoor temperatures, and the capability of a single outdoor unit to serve multiple zones."
+    },
+    {
+      "start": "03:24",
+      "end": "04:58",
+      "title": "Layout options: ducted vs. ductless and quadrant planning",
+      "concepts": [
+        "ductless air handler",
+        "ducted ductless system",
+        "quadrant plan",
+        "branch box"
+      ],
+      "description": "Comparison of installing a ductless unit versus a ducted ductless air handler, with a quadrant plan to create four interior air handlers on the top floor fed by one refrigerant run and a branch box for connections."
+    },
+    {
+      "start": "05:13",
+      "end": "06:35",
+      "title": "Installation steps and controls",
+      "concepts": [
+        "heat load calculation",
+        "roof-mounted air handlers",
+        "refrigerant lines",
+        "drain/condensate",
+        "return and supply ducts",
+        "thermostats",
+        "wireless programmable thermostats",
+        "backup electrical elements"
+      ],
+      "description": "Pre-installation heat-load sizing, mounting air handlers on rafters for serviceability, connecting refrigerant lines and condensate drains, routing supply and return ducts, and setting up wireless programmable thermostats with backup electrical elements for each zone."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Infrared heat visualization to reveal radiant heat in ceiling cables",
+      "timestamp": "00:00:46",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Inverter-based heat pump enabling efficient heating/cooling in cold weather",
+      "timestamp": "00:02:38",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Ducted ductless air handler with quadrant zoning plan",
+      "timestamp": "00:04:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Single outdoor condenser serving multiple indoor units with snow-line clearance",
+      "timestamp": "00:03:18",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Wireless programmable thermostats for multi-zone control",
+      "timestamp": "00:06:02",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:28:34.011507+00:00"
+}

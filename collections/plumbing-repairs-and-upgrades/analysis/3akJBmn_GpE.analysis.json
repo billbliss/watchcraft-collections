@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "video": "3akJBmn_GpE.youtube",
+  "title": "Installing a Whole-House Water Filter with Push-Fit Fittings (This Old House)",
+  "date": {
+    "display": "December 1, 2014",
+    "iso": "2014-12-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Garage mechanical room",
+      "confidence": 0.9,
+      "basis": "Transcript explicitly identifies the corner of the garage as the mechanical room and describes mounting and piping there"
+    },
+    {
+      "name": "Street curb stop valve and meter pit",
+      "confidence": 0.8,
+      "basis": "Transcript describes turning water off at the curb stop by the street and mentions a meter pit with two meters"
+    }
+  ],
+  "summary": "The video details the installation of a whole-house water filter in a garage mechanical room. It covers selecting between two cartridge types (dirt/rust and dirt/rust plus chlorine removal) to address chlorine taste, mounting the filter on a plywood-backed bracket, and modifying the plumbing with push-fit (solderless) fittings and adapters from 1 inch to 3/4 inch. The host explains shutting off water at the street curb stop, creating isolation on both sides of the filter with two shut-off valves, and grounding considerations after adding the filter. A test run follows to check for leaks, and maintenance guidance notes cartridge replacement every 2–3 months.",
+  "topics": [
+    "Filter cartridge options: dirt/rust vs chlorine removal",
+    "Filter cartridge installation inside a clear housing",
+    "Public water supply shut-off at street curb stop and meter pit",
+    "Garage mechanical room as installation site",
+    "Mounting bracket on plywood backing",
+    "Solderless push-fit pipe fittings with O-ring and stainless teeth",
+    "1-inch threaded adapter to 3/4-inch pipe with Teflon tape",
+    "Threaded connections and witness marks to ensure full seating",
+    "Emery cloth for pipe preparation before fitting",
+    "Two isolation shut-off valves for easy service",
+    "Push-fit connections on both sides of a valve",
+    "Ground bonding jumper across meter after adding a filter",
+    "Leak testing after repressurizing the water system",
+    "Cartridge change accessibility using the included wrench",
+    "Cartridge maintenance interval: every 2–3 months",
+    "Water flow direction: supply from street into filter, then to house",
+    "Filter housing mounting orientation and clear canister usage",
+    "Witnessing marks and depth for push-fit fittings"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:22",
+      "title": "Intro: Cartridge options and plan",
+      "concepts": [
+        "Cartridge options: dirt/rust vs dirt/rust + chlorine removal",
+        "Chlorine taste consideration",
+        "Filter cartridge placement within the housing"
+      ],
+      "description": "The video opens by presenting the two cartridge options and selecting chlorine-removal due to chlorine taste concerns, then describes how the cartridge sits inside the clear filter housing."
+    },
+    {
+      "start": "00:00:24",
+      "end": "00:00:47",
+      "title": "Water path through the filter and where to shut off",
+      "concepts": [
+        "Water enters filter from city supply",
+        "Filtered water returns to the building",
+        "Initial note on isolation"
+      ],
+      "description": "Water flow is described: cold water from the city goes into the filter housing, passes through the cartridge, and exits back into the building."
+    },
+    {
+      "start": "00:00:47",
+      "end": "00:01:03",
+      "title": "Curb stop shut-off and plan for isolation",
+      "concepts": [
+        "Public-water shut-off at street curb stop",
+        "Two isolation valves to isolate filter",
+        "Serviceability considerations"
+      ],
+      "description": "The host explains where to shut off the water at the street (curb stop) and introduces the idea of using two shut-off valves on either side of the filter to simplify service."
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:01:29",
+      "title": "Push-fit fittings: a solderless connection overview",
+      "concepts": [
+        "Solderless push-fit fittings",
+        "O-ring seal and stainless teeth",
+        "Fast, watertight connections without soldering"
+      ],
+      "description": "A demonstration of push-fit fittings shows the internal O-ring and stainless teeth that grip the pipe when pushed in about 1 inch, providing a watertight seal without soldering."
+    },
+    {
+      "start": "00:01:29",
+      "end": "00:02:04",
+      "title": "Bracket mounting and sizing connections",
+      "concepts": [
+        "Mounting bracket on plywood backing",
+        "Mounting the filter bracket",
+        "1-inch to 3/4-inch adapter and initial Teflon tape prep"
+      ],
+      "description": "A plywood backing is mounted to create a sturdy base for the filter bracket, and the team discusses using a 1-inch to 3/4-inch adapter with PTFE tape on threads."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:02:42",
+      "title": "Thread preparation and final tightening",
+      "concepts": [
+        "PTFE tape on threaded connections",
+        "Thread engagement and depth checks",
+        "Witness marks for seating depth"
+      ],
+      "description": "The presenter emphasizes applying PTFE tape, threading connections fully, and using witness marks to ensure full seating of the push-fit and threaded fittings."
+    },
+    {
+      "start": "00:02:42",
+      "end": "00:03:06",
+      "title": "Pipe prep and cutting guidance",
+      "concepts": [
+        "Pipe cutting technique",
+        "Back-siding elbow cut without kinking",
+        "Emery cloth prep for pipes"
+      ],
+      "description": "Instructions cover cutting the pipe, avoiding kinks in the cut, and cleaning the cut ends with emery cloth before fitting."
+    },
+    {
+      "start": "00:03:06",
+      "end": "00:04:12",
+      "title": "Starting the street-to-filter connections",
+      "concepts": [
+        "Supply pipe from street to filter",
+        "Push-fit connections on supply side",
+        "Witness marks to verify seating depth"
+      ],
+      "description": "Connections from the street to the filter are assembled. The team pushes fittings into place, checking seating depth with witness marks and preparing the run toward the house."
+    },
+    {
+      "start": "00:04:12",
+      "end": "00:04:42",
+      "title": "Completing downstream connections and isolation valves",
+      "concepts": [
+        "Downstream connections to house",
+        "Dual shut-off valves for isolation",
+        "Ground bonding considerations"
+      ],
+      "description": "The downstream connections are completed using push-fit fittings, with attention to two isolation shut-offs and preparing the ground bonding path around the meter."
+    },
+    {
+      "start": "00:04:42",
+      "end": "00:04:57",
+      "title": "System repressurization and leak check",
+      "concepts": [
+        "Turning water back on",
+        "Initial leak check",
+        "Leak-free operation verification"
+      ],
+      "description": "Water is repressurized and checked for leaks. The host and assistant verify there are no leaks as the system pressurizes."
+    },
+    {
+      "start": "00:04:59",
+      "end": "00:05:07",
+      "title": "Cartridge maintenance planning",
+      "concepts": [
+        "Cartridge replacement interval: 2–3 months",
+        "Included wrench for cartridge change",
+        "Maintenance considerations"
+      ],
+      "description": "The video notes that cartridge maintenance should occur every 2–3 months and mentions the included wrench to facilitate changes."
+    },
+    {
+      "start": "00:05:07",
+      "end": "00:05:12",
+      "title": "Wrap-up and final notes",
+      "concepts": [
+        "Final verification",
+        "Video wrap-up and cues"
+      ],
+      "description": "A brief closing segment wraps up the installation and notes the final checks and status of the system."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Solderless push-fit pipe fittings (O-ring and stainless teeth)",
+      "timestamp": "00:01:13",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Mounting the filter bracket on plywood backing",
+      "timestamp": "00:01:38",
+      "confidence": 0.85
+    },
+    {
+      "technique": "1-inch to 3/4-inch threaded adapter with PTFE tape",
+      "timestamp": "00:01:57",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Applying PTFE tape and tightening threaded connections",
+      "timestamp": "00:02:10",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Emery cloth pipe preparation prior to fitting",
+      "timestamp": "00:03:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Witness marks to verify full seating of push-fit fittings",
+      "timestamp": "00:03:23",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dual shut-off valves for easy isolation of the filter",
+      "timestamp": "00:03:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Ground bonding jumper to maintain electrical continuity after adding the filter",
+      "timestamp": "00:04:26",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Leak testing after repressurizing the water system",
+      "timestamp": "00:04:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cartridge maintenance planning (replacement every 2–3 months)",
+      "timestamp": "00:05:01",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:38:50.363295+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-28T20:39:53.023788+00:00"
+}

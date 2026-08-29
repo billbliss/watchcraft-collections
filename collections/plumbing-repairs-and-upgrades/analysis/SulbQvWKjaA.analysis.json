@@ -1,0 +1,94 @@
+{
+  "schema_version": 2,
+  "video": "SulbQvWKjaA.youtube",
+  "title": "Pliers & Wrenches: Groove Joint Pliers, Open-End Wrenches, and Pipe Wrenches (This Old House)",
+  "date": {
+    "display": "December 7, 2014",
+    "iso": "2014-12-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House short teaches practical hand-tool choices for common plumbing fasteners and emphasizes grip technique. It first contrasts groove joint (water pump) pliers with a wrench, showing how reversing the pliers changes their holding action and how to avoid stripping a nut. It then profiles combination wrenches and adjustable open-end wrenches for maximizing leverage and minimizing damage to hexagonal nuts. The segment concludes with pipe-wrench fundamentals on round pipe, including the head’s rocking action and the crucial three-point bite (three Corner bite) to prevent slipping and pipe damage. The lesson provides concrete, transferable tips for selecting the right tool and applying solid grip during loosening and tightening tasks.",
+  "topics": [
+    "groove joint pliers",
+    "water pump pliers",
+    "backwards grip",
+    "nut stripping risk",
+    "combination wrench",
+    "open-end wrench",
+    "adjustable open-end wrench",
+    "hexagonal nut",
+    "round pipe",
+    "pipe wrench",
+    "three-point bite",
+    "three Corner bite",
+    "two-point grip risk",
+    "grip and leverage techniques"
+  ],
+  "sections": [
+    {
+      "start": "00:00:16",
+      "end": "00:00:49",
+      "title": "Pliers basics: groove joint pliers and reversing grip",
+      "concepts": [
+        "groove joint pliers",
+        "water pump pliers",
+        "backwards grip",
+        "nut loosening vs tightening"
+      ],
+      "description": "Introduces groove joint pliers and demonstrates how reversing the jaws can loosen or tighten a nut, noting that holding the pliers backwards may cause the jaws to open and slip, potentially stripping the nut if force is not applied correctly."
+    },
+    {
+      "start": "00:49:00",
+      "end": "01:29:00",
+      "title": "Wrenches and leverage: selecting, adjusting, and avoiding damage",
+      "concepts": [
+        "combination wrench",
+        "open-end wrench",
+        "adjustable open-end wrench",
+        "avoid stripping",
+        "leverage"
+      ],
+      "description": "Discusses different wrench types (combination wrench with fixed ends and open-end vs. adjustable open-end) and explains that an adjustable open-end wrench lets you apply more of your force with less risk of rounding or stripping a nut, while recognizing the role of grip strength when a pipe is involved."
+    },
+    {
+      "start": "01:29:00",
+      "end": "02:08:00",
+      "title": "Pipe wrench mechanics and the three-point bite",
+      "concepts": [
+        "pipe wrench rocking action",
+        "three-point bite",
+        "three Corner bite",
+        "round pipe grip"
+      ],
+      "description": "Explains the pipe wrench’s rocking head and tightening action on round surfaces, emphasizing the three-point bite (three Corner bite) where the wrench should contact the pipe at three points to avoid slipping and to protect the pipe threads from damage."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Backward orientation of groove joint pliers to facilitate loosening, then returning to a secure grip for turning",
+      "timestamp": "00:16:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Three-point bite on pipe wrench for round pipes to prevent turning and damage",
+      "timestamp": "01:49:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using an adjustable open-end wrench to maximize leverage and minimize rounding",
+      "timestamp": "01:12:00",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Pipe wrench action with rocking head and tightening jaw",
+      "timestamp": "01:29:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:22:27.633374+00:00"
+}

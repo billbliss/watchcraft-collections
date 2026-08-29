@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "video": "crpvmMBsd9Y.youtube",
+  "title": "Replacing a Whole-House Plumbing Trap: Cast Iron Removal and No-Hub Assembly",
+  "date": {
+    "display": "September 29, 2014",
+    "iso": "2014-09-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior excavation area near the house (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript references 'outside the last part of the excavation' and 'house trap removed', implying an exterior trench or excavation area rather than an interior location"
+    }
+  ],
+  "summary": "This Old House demonstrates replacing a whole-house plumbing trap by removing the old cast-iron trap, cutting and removing the surrounding pipe, and installing a new drain assembly using a No-Hub coupling. The segment shows cutting the soil pipe with a chain-type cutter, breaking a cast-iron fitting with a sledgehammer, removing old lead-and-oakum sealing, and assembling a new outlet with an angle fitting, cleanout, neoprene gasket, and No-Hub bands. A torque wrench is used to snug the bands without overtightening, and the installer measures and cuts replacement pipe to fit with proper pitch. The video emphasizes careful measurement, gasket handling, and pressure-tested connections while noting a long-term (quote) “100 years” durability of the No-Hub assembly. The content aligns with common retrofit practices for exterior house drain lines and trap replacements, with attention to sealing materials and proper hardware torque.",
+  "topics": [
+    "soil pipe cutter",
+    "chain-type cutter",
+    "cast iron pipe",
+    "sledgehammer",
+    "break cast iron fitting",
+    "lead and oakum",
+    "oakum (oil hemp)",
+    "no-hub coupling",
+    "neoprene gasket",
+    "stainless steel bands",
+    "torque wrench",
+    "measure and cut pipe",
+    "angle fitting",
+    "cleanout",
+    "gasket folding technique",
+    "pitch in piping",
+    "drain system retrofit"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:31",
+      "title": "Removing and cutting the old pipe",
+      "concepts": [
+        "soil pipe cutter",
+        "cutting pipe",
+        "cast iron pipe",
+        "pipe safety"
+      ],
+      "description": "The host introduces the soil pipe cutter (chain with blades) and demonstrates wrapping it around the pipe, snugging, and turning the ratchet to cut the pipe. A risk is noted that the pipe may be worn and could fail when cut."
+    },
+    {
+      "start": "00:01:06",
+      "end": "00:01:52",
+      "title": "Disassembling the cast iron side and removing old sealant",
+      "concepts": [
+        "cast iron breaking",
+        "sledgehammer",
+        "lead and oakum",
+        "oakum removal"
+      ],
+      "description": "On the opposite side, a sledgehammer is used to break the cast-iron fitting. The old lead and oakum (oil hemp) sealing are described and then chiselled away to expose clean pipe."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:06",
+      "title": "Installing the new drain assembly with No-Hub coupling",
+      "concepts": [
+        "angle fitting",
+        "cleanout",
+        "no-hub coupling",
+        "neoprene gasket",
+        "torque wrench",
+        "measuring pipe",
+        "cutting to length",
+        "pitch"
+      ],
+      "description": "With the old trap removed, the team assembles an angle fitting and a cleanout, joined by a No-Hub coupling. A neoprene gasket is seated and tightened with a torque wrench. Pipe length is measured and cut (6 inches on one end, ~8 inches on the other), the gasket is folded to fit, and the bands are snugged for a durable, long-lasting connection. The segment ends with notes about calling a drain company and the size of the tools needed for cleanup."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Soil pipe cutter in action on pipe",
+      "timestamp": "00:00:03",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Breaking a cast-iron fitting with a sledgehammer",
+      "timestamp": "00:01:06",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Removing lead and oakum seal (oil hemp) with chiseling",
+      "timestamp": "00:01:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "No-Hub coupling installation with neoprene gasket and bands",
+      "timestamp": "00:02:03",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Using a torque wrench to snug bands without overtightening",
+      "timestamp": "00:03:13",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Gasket folding trick to fit smaller pipe",
+      "timestamp": "00:02:45",
+      "confidence": 0.72
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:00:40.244648+00:00"
+}

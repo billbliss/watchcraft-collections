@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "Wzsr-B6MK_k.youtube",
+  "title": "Hybrid Gas-Fired Water Heater Installation: Replacement and Test",
+  "date": {
+    "display": "April 16, 2017",
+    "iso": "2017-04-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Residential basement (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript references a large basement and homeowner setting; no explicit city/venue; inference that filming occurred in a residential basement during a home retrofit."
+    }
+  ],
+  "summary": "This Old House revisits a home water-heater retrofit focused on a gas-fired hybrid unit. The segment contrasts traditional tank-type heaters with European-style instantaneous options, recounts a prior hybrid install in the same home that initially delivered endless hot water and about 30% gas savings but later failed after noise and lack of service parts, and documents a replacement with a newer gas-fired hybrid heater featuring a built-in recirculation pump, a small reservoir, and a heat exchanger. The installation covers vent/exhaust routing, water supply and return connections, condensate handling, and a bottom-mounted mixing valve to ensure ample hot water in a high-demand bathroom. The team tests the system, demonstrates hot-water delivery, and discusses the importance of parts availability when adopting new technology.",
+  "topics": [
+    "hybrid gas-fired water heater",
+    "tank-type vs instantaneous vs hybrid",
+    "built-in recirculation pump (Reser)",
+    "heat exchanger (stainless steel with fins)",
+    "3.5 gallon reservoir",
+    "water mixing valve",
+    "condensate pump and line",
+    "exhaust venting and combustion air",
+    "gas shutoffs and cold/hot water connections",
+    "temperature and pressure relief valve (TPR valve)",
+    "installation sequence and commissioning",
+    "serviceability and parts availability",
+    "high-demand hot water scenarios (large tub/body sprays)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:50",
+      "title": "Introduction: water heater types and hybrid concept",
+      "concepts": [
+        "tank-type water heater",
+        "gas-fired, electric, or oil-fired variants",
+        "instantaneous/continuous hot water systems",
+        "endless hot water and output limits",
+        "global usage differences (Europe/Asia) with on-demand units",
+        "early concept of hybrid systems as a middle ground"
+      ],
+      "description": "The hosts describe common tank-type heaters and contrast them with European on-demand (instantaneous) units, noting endless hot water on demand but finite output. They set up the hybrid approach as a middle ground and frame the episode around a prior install in which a hybrid unit delivered initial benefits but later failed, motivating a replacement."
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:04:50",
+      "title": "Prior hybrid install: promise, performance, and failure",
+      "concepts": [
+        "previous gas hybrid water heater",
+        "initial endless hot water and gas savings (~30%)",
+        "subsequent noise and loss of hot water",
+        "customer service and parts challenges after the original vendor closed"
+      ],
+      "description": "The team recounts the first hybrid installation in the home: it provided endless hot water and notable gas savings, but over time it began making noises and failed, with the added complication that the vendor went out of business, making parts and service difficult. This motivates the replacement plan."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:06:00",
+      "title": "New hybrid concept and unit cutaway",
+      "concepts": [
+        "gas-fired hybrid water heater",
+        "internal reservoir (~3.5 gallons)",
+        "stainless steel heat exchanger with tubes and aluminum fins",
+        "top gas burner and heat transfer down through the exchanger",
+        "bottom mixing valve for hot water delivery"
+      ],
+      "description": "A new gas-fired hybrid unit is introduced, with an overview of its internal architecture shown via a cutaway: a small internal water reservoir, a heat exchanger with fins, and a mixing valve at the bottom to temper hot water for reliable delivery in high-demand scenarios."
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:07:20",
+      "title": "Preparation for installation: removal and repositioning",
+      "concepts": [
+        "unplugging electrical",
+        "shutting off gas and water supplies",
+        "draining the old unit",
+        "removing the old tank-style heater",
+        "starting the plan for new connections"
+      ],
+      "description": "The crew outlines the safety steps to remove the existing unit, including electrical disconnection, gas and water shutoffs, and draining, setting the stage for the new hybrid installation."
+    },
+    {
+      "start": "00:07:20",
+      "end": "00:07:58",
+      "title": "Installation: venting, water lines, and recirculation integration",
+      "concepts": [
+        "exhaust vent routing with a 45-degree offset",
+        "relocating cold and hot water lines to the bottom of the new unit",
+        "removing a separate Recirculation pump (Reser) line",
+        "integration of built-in Recirculation (pump and brain) in the new unit"
+      ],
+      "description": "Key installation steps cover venting the exhaust and supplying combustion air, re-routing supply lines to the bottom of the unit, and converting from a separate external recirculation setup to the new unit's integrated Reser pump, including its intelligent control."
+    },
+    {
+      "start": "00:07:58",
+      "end": "00:08:02",
+      "title": " commissioning and test: performance confirmation",
+      "concepts": [
+        "system start-up and leak checks",
+        "testing hot water delivery",
+        "verification of condensate handling and safety devices",
+        "final assessment and closing remarks"
+      ],
+      "description": "The final segment covers the start-up, verification of gas connections and venting, confirmation of hot water delivery, condensate management, and a closing remark regarding the success of the upgrade and future expectations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gas-fired hybrid water heater installation with integrated recirculation pump",
+      "timestamp": "00:02:54",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Cutaway demonstration of heat exchanger and 3.5-gallon reservoir",
+      "timestamp": "00:03:10",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Bottom-mount mixing valve to deliver ample hot water",
+      "timestamp": "00:03:47",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Exhaust venting and combustion air routing for a hybrid unit",
+      "timestamp": "00:05:05",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Condensate management with external condensate pump",
+      "timestamp": "00:06:50",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Recirculation system integration with smart control (built-in Reser brain)",
+      "timestamp": "00:07:08",
+      "confidence": 0.9
+    },
+    {
+      "technique": "System commissioning: leak tests, start-up, and hot-water test",
+      "timestamp": "00:07:18",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:31:00.455470+00:00"
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "video": "2l8STssse5w.youtube",
+  "title": "How to Clean or Replace a Faucet Aerator: Debris Removal and Flow Restoration (This Old House)",
+  "date": {
+    "display": "December 26, 2014",
+    "iso": "2014-12-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House walkthrough explains faucet aerators, including how a built-in flow restrictor governs water through a small orifice and how debris can clog the path. The presenter demonstrates safe removal with a non-damaging wrench on an aerator with straight edges, reveals debris (notably coffee grounds) inside, flushes the spout to verify cleanliness, and decides that replacement may be more cost-effective than thorough cleaning. The segment concludes with a quick hot/cold water test to confirm restored flow and function, noting a rough replacement cost in the five to six dollar range.",
+  "topics": [
+    "faucet aerator",
+    "flow restrictor",
+    "aerator debris",
+    "coffee grounds as sediment",
+    "removing aerator with adjustable wrench",
+    "aerator with two straight-edged design (no teeth)",
+    "avoid scratching during removal (rag or tape)",
+    "visual inspection of aerator interior",
+    "spout flushing to verify cleanliness",
+    "cleaning vs. replacing aerator",
+    "replacement aerator cost (~$5–$6)",
+    "hot water test",
+    "cold water test",
+    "post-service pressure check",
+    "hand-tight caution"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:50",
+      "title": "Aerator function, flow restrictor, and debris risk",
+      "concepts": [
+        "aerator designed to smooth and splash water",
+        "flow restrictor in aerator",
+        "small passage controlling water flow",
+        "potential debris between aerator and flow restrictor",
+        "pressure effects when debris blocks flow"
+      ],
+      "description": "The video explains the aerator’s original role in shaping the stream and, with water conservation, the presence of a flow restrictor that forces water through a small hole. The narrator notes that debris or foreign matter between the aerator and the flow restrictor can prevent proper flow, explaining why blockage can shut off water pressure."
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:02:04",
+      "title": "Decision to replace the aerator after debris observation",
+      "concepts": [
+        "replace vs. clean the aerator",
+        "cost consideration for replacement",
+        "time vs. labor savings"
+      ],
+      "description": "After observing significant debris, the presenter suggests replacing the entire aerator rather than attempting a cleaning. A rough cost estimate is discussed, signaling a practical trade-off between time and expense."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:02:18",
+      "title": "Post-replacement testing: hot and cold flow",
+      "concepts": [
+        "hot water test",
+        "cold water test",
+        "functional check of water flow"
+      ],
+      "description": "The final portion demonstrates testing the faucet after replacement to confirm that hot and cold water flow are restored and functioning as expected."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Remove aerator with adjustable open-end wrench (no teeth) on straight-edged unit",
+      "timestamp": "00:00:49",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Inspect interior of aerator; identify debris such as coffee grounds",
+      "timestamp": "00:01:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Flush spout and confirm cleaning using a rag to collect debris",
+      "timestamp": "00:01:33",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Assess whether to replace the aerator due to debris load; discuss cost",
+      "timestamp": "00:01:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Perform hot and cold water test to verify restoration of flow after service",
+      "timestamp": "00:02:04",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:38:14.041603+00:00"
+}

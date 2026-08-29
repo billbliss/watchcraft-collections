@@ -1,0 +1,90 @@
+{
+  "schema_version": 2,
+  "video": "80j5sXJ4dsU.youtube",
+  "title": "Can A Plumbing Leak Ruin Your Home? – Pro2Pro (This Old House)",
+  "date": {
+    "display": "March 20, 2019",
+    "iso": "2019-03-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This short This Old House segment, sponsored by HomeServe, presents a field anecdote about plumbing emergencies to illustrate how a frozen pipe and ensuing leak can escalate into significant home damage. The speaker recounts a call to a house with water frozen on the front stairs, describes the process of gaining entry under cold conditions with manual tools, and ends with a striking hazard story about a cast-iron radiator shard traveling a long distance and embedding in a wall. The minimal narrative focuses on real-world risks, practical on-site actions, and the importance of prompt professional response in avoiding or mitigating major damage from leaks.",
+  "topics": [
+    "HomeServe sponsorship",
+    "frozen pipe hazard",
+    "water damage risk",
+    "plumbing emergency response",
+    "gutting a house (question)",
+    "entry access during service call",
+    "ice removal with pick and shovel",
+    "cast-iron radiator",
+    "radiator shard hazard",
+    "apprentice field experience",
+    "front stairs and water intrusion",
+    "on-site safety awareness during plumbing emergencies"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:00",
+      "title": "Sponsor and show intro",
+      "concepts": [
+        "Homeserve sponsorship",
+        "This Old House branded short-form educational format"
+      ],
+      "description": "Opens with sponsor mention and introduces a plumbing-focused segment that frames the forthcoming anecdote as a real-world teaching moment."
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:39:00",
+      "title": "Anecdote: Frozen pipe call and potential damage",
+      "concepts": [
+        "frozen pipe",
+        "water on front stairs",
+        "apprentice narration",
+        "gutting a house (question)"
+      ],
+      "description": "The speaker recalls a scenario of a frozen pipe and the suggestion that leaks can necessitate gutting a home, framing the risks of a plumbing failure and the emotional weight of field repairs from an apprentice’s perspective."
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:46:00",
+      "title": "Ice removal on entry with tools",
+      "concepts": [
+        "pick and shovel",
+        "ice removal",
+        "front door access under winter conditions"
+      ],
+      "description": "The apprentice asks for a pick and shovel to chip ice away so entry can be gained, illustrating a concrete on-site action taken to access a cold-building scene during a fix."
+    },
+    {
+      "start": "00:53:00",
+      "end": "01:07:52",
+      "title": "Radiator hazard: cast-iron shard and shrapnel risk",
+      "concepts": [
+        "cast-iron radiator",
+        "radiator shard",
+        "shrapnel hazard",
+        "extents of damage in a confined space"
+      ],
+      "description": "A dramatic recollection describes a shard from a cast-iron radiator traveling about 25 feet and embedding in a wall, highlighting the physical hazards that can accompany plumbing emergencies."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Ice removal with a pick and shovel during a frozen-pipe call",
+      "timestamp": "00:42:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Awareness of radiator-related debris hazards in a repair scenario",
+      "timestamp": "00:53:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:45:21.103035+00:00"
+}

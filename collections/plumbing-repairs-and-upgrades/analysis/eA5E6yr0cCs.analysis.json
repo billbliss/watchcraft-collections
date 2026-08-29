@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "video": "eA5E6yr0cCs.youtube",
+  "title": "Drain Pipe Puzzle: Basement-to-Roof Drain Routing in a This Old House Renovation",
+  "date": {
+    "display": "November 29, 2025",
+    "iso": "2025-11-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "basement",
+      "confidence": 0.85,
+      "basis": "Transcript references to a full-size stack from the basement and demolition of old pipe in that area."
+    }
+  ],
+  "summary": "In this house-renovation video, the team tackles routing a full-size drainage stack through a multi-room remodel, balancing code requirements, space constraints, and existing structure. The plumber explains converting an old cast-iron stack to current practice using PVC, while coordinating with the joists, kitchen layout, and headroom to avoid clashes with the electrical panel and living spaces. The crew demonstrates removing the old cast iron with a chain cutter, installing a neoprene-gasket coupling with stainless-steel bands, and laying out a drain path that uses the joist direction for proper pitch toward the main drain and eventual roof vent. A Y-fitting creates a branch to the second-floor toilet, and the team discusses padding walls and adjusting the toilet rough-ins to accommodate the new configuration. The result emphasizes practical, code-conscious planning, precise cutting, and a clean run inside the joist bays that preserves headroom and minimizes horizontal piping.”",
+  "topics": [
+    "Plan drainage routing in a multi-room remodel",
+    "Code constraints for a full-size waste stack from basement to roof",
+    "Joist-direction-based drain layout for proper pitch",
+    "Padding walls to fit plumbing clearances",
+    "Demolition of old cast-iron pipe in a renovation",
+    "Cutting cast-iron pipe with a chain cutter",
+    "Transition from cast iron to PVC using neoprene gasket coupling and stainless steel bands",
+    "Using Y-fittings to branch drains (second-floor toilet)",
+    "Toilet rough-in adjustments due to joist/header layout",
+    "Routing vertical drains within a joist bay to maintain headroom",
+    "Electrical panel clearance considerations in plumbing layouts",
+    "Vent routing considerations for roof exit via closet path",
+    "Kitchen/bathroom layout impacts on waste-stack routing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:45",
+      "title": "Planning the drain routing around joists and headroom",
+      "concepts": [
+        "renovation layout",
+        "drain routing plan",
+        "head height considerations",
+        "joist direction influence",
+        "open-concept space planning"
+      ],
+      "description": "Introduction to the renovation space and the challenge of getting a full-size drainage stack to run through a space that includes a kitchen, dining, and bathroom, while avoiding electrical panel interference and maintaining adequate headroom. The team discusses using the direction of joists to inform the drain path."
+    },
+    {
+      "start": "00:01:45",
+      "end": "00:02:59",
+      "title": "Code constraints and initial routing concept",
+      "concepts": [
+        "code requirements",
+        "full-size stack",
+        "basement-to-roof routing",
+        "padding walls to fit plumbing",
+        "location of the bathroom group and utilities"
+      ],
+      "description": "The crew explains the code-driven need for a full-size stack that rises from the basement to vent through the roof. They consider offsetting or padding walls to fit the new configuration and discuss the impact of a bathroom location on the plumbing layout, including proximity to the electrical panel."
+    },
+    {
+      "start": "00:03:04",
+      "end": "00:05:04",
+      "title": "Demolition and final routing plan in the renovation space",
+      "concepts": [
+        "cast iron removal",
+        "pipe cutting",
+        "re-routing with Y-branch",
+        "horizontal vs vertical runs",
+        "joist bay planning"
+      ],
+      "description": "The team moves to implement the plan: they introduce a Y to branch to the second-floor toilet, route the drain along the joist bay to create the proper pitch toward the main drain, and address interference from joists and stair headers before demolition begins."
+    },
+    {
+      "start": "00:05:04",
+      "end": "00:05:56",
+      "title": "Connection, testing, and final fitting of the new drain",
+      "concepts": [
+        "transition fittings",
+        "neoprene gasket",
+        "stainless steel bands",
+        "chain cutter demolition",
+        "headroom verification",
+        "final test of alignment"
+      ],
+      "description": "Demonstration of cutting the old cast-iron pipe with a chain cutter, installing a neoprene-gasket coupling with stainless-steel bands to join to PVC, and running the new drain up through the joist bay. The team verifies headroom clearance and notes how the run remains away from the electrical panel, concluding with a stable, ready-to-tie-in setup."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Chain cutter demolition of cast-iron pipe",
+      "timestamp": "00:04:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Installing a neoprene gasket coupling with stainless steel bands (transition from cast iron to PVC)",
+      "timestamp": "00:05:04",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Routing drain along joist direction to achieve proper pitch toward main drain",
+      "timestamp": "00:01:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Introducing a Y-branch to feed a second-floor toilet",
+      "timestamp": "00:02:52",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:05:30.199049+00:00"
+}

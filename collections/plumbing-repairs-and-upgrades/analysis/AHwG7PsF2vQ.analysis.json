@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "video": "AHwG7PsF2vQ.youtube",
+  "title": "How to Replace a Smelly Dishwasher Drain Hose (This Old House)",
+  "date": {
+    "display": "October 5, 2014",
+    "iso": "2014-10-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "probable kitchen under-sink area",
+      "confidence": 0.6,
+      "basis": "Transcript references under-counter routing and 'underneath your kitchen countertop' positioning; no explicit shooting location is stated."
+    }
+  ],
+  "summary": "This instructional This Old House segment guides viewers through diagnosing a smelly dishwasher condition caused by backflow and partial drainage in the drain line, then demonstrates how to replace a misrouted drain hose and create a proper high loop under the kitchen counter. The host explains the roles of the sump, grinder, and check valve in preventing backflow, identifies an improper hose routing, and walks through disassembly, hose replacement, securement with a stainless clamp, and a testing procedure using hot water to flush the system.",
+  "topics": [
+    "dishwasher drain hose",
+    "check valve",
+    "sump and grinder",
+    "food particle buildup",
+    "high loop",
+    "kitchen countertop routing",
+    "dishwasher TE (tee) fitting",
+    "stainless steel hose clamp",
+    "spring clip",
+    "hose replacement technique",
+    "using old hose as a snake",
+    "pan to catch water",
+    "backflow prevention",
+    "hot-water test"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:40",
+      "title": "Problem diagnosis and dishwasher anatomy",
+      "concepts": [
+        "smell",
+        "sump",
+        "grinder",
+        "check valve"
+      ],
+      "description": "The presenter introduces the odor issue and explains the dishwasher’s drainage path: water and food particles collect in a sump, are ground by a disposer-like grinder, and move toward the drain. The check valve is identified as key to preventing backflow into the sump."
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:02:44",
+      "title": "Check valve function and improper routing",
+      "concepts": [
+        "check valve",
+        "backflow",
+        "drain routing"
+      ],
+      "description": "Discussion emphasizes that the check valve should close to prevent backflow. The host notes potential partial storage behind the valve and suggests improper hose routing as a source of odor, guiding the diagnosis toward the valve and sump area."
+    },
+    {
+      "start": "00:02:44",
+      "end": "00:04:58",
+      "title": "Disassembly, hose replacement, and high-loop prep",
+      "concepts": [
+        "high loop plan",
+        "disassembly",
+        "dishwasher TE",
+        "clamp",
+        "new hose"
+      ],
+      "description": "A plan to replace the discharge hose is presented. The technician disconnects the discharge hose from the dishwasher TE, uses the old hose as a snake to feed the new hose, drains remaining water with a pan, loosens the stainless clamp, installs the new hose, and begins preparing a high loop beneath the countertop to improve backflow prevention."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:05:05",
+      "title": "Final assembly and testing guidance",
+      "concepts": [
+        "high loop secured",
+        "hot-water test",
+        "no-dishload test"
+      ],
+      "description": "The high loop is secured under the countertop, the connection to the TE is re-established with the spring clip, and a recommendation is given to run several hot-water washes to flush and clean the sump area."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install a high loop drain hose under the kitchen counter to prevent backflow and odors",
+      "timestamp": "00:02:46",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Replace dishwasher drain hose with a new one and secure with a stainless steel hose clamp",
+      "timestamp": "00:04:10",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Use the existing hose as a snake to guide routing of the new hose",
+      "timestamp": "00:02:58",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Inspect and explain the role of the check valve in preventing backflow and odors",
+      "timestamp": "00:01:40",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:52:34.802258+00:00"
+}

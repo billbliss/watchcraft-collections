@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "L5nbl633IRw.youtube",
+  "title": "Installing a Water-Saving Dual-Flush Toilet: leak-testing, removal, and replacement",
+  "date": {
+    "display": "March 23, 2018",
+    "iso": "2018-03-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "California",
+      "confidence": 0.75,
+      "basis": "explicit mention in transcript: 'code here in California'"
+    }
+  ],
+  "summary": "This Old House walks through diagnosing a high-water-use, mid-century toilet and replacing it with a modern, water-saving dual-flush model. The segment demonstrates a blue-dye leak-test to confirm a tank-to-bowl leak, explains the water-use difference between a 1959-era toilet and contemporary units, and then shows the removal of the old fixture, preparation of the floor flange with wax ring and closet bolts, and the installation of a new tank-and-bowl assembly plus seat. The finished portion highlights the dual-flush mechanism with two levers offering 1.6 GPF for a full flush and 1.1 GPF for liquids, illustrating the practical water-savings achieved by upgrading.",
+  "topics": [
+    "leak diagnosis with blue dye",
+    "toilet tank-to-bowl leakage",
+    "flapper integrity and flush valve",
+    "1959-era toilet water usage (approx. 3.2 GPF)",
+    "modern toilet water usage (1.6 GPF full flush)",
+    "liquid-only flush (1.1 GPF)",
+    "shutting off water supply",
+    "draining tank and bowl",
+    "removing old toilet bolts",
+    "cutting bolts with mini hacksaw",
+    "removing water supply line",
+    "wax ring installation",
+    "wax ring and flange seal",
+    "cast iron flange and Johnny/closet bolts",
+    "tank-to-bowl gasket",
+    "toilet seat installation",
+    "base caulking for code compliance",
+    "brass tank bolts",
+    "dual-flush lever hardware",
+    "California building code reference"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:36",
+      "title": "Leak testing and leak-diagnosis with dye",
+      "concepts": [
+        "toilet leaks",
+        "blue food coloring test",
+        "observing tank-to-bowl leakage",
+        "flapper tightness inferred from dye in bowl",
+        "assessing water waste from a leaking flush mechanism"
+      ],
+      "description": "The presenter discusses a common symptom of a leaking toilet—water running at unexpected times—and demonstrates a simple dye test: add blue food coloring to the tank and wait about 20 minutes to see if color appears in the bowl, indicating leakage from the tank to the bowl due to an imperfect seal."
+    },
+    {
+      "start": "00:01:44",
+      "end": "00:03:36",
+      "title": "Old toilet removal and new toilet installation (preparation and mounting)",
+      "concepts": [
+        "shutting off water",
+        "draining the tank and bowl",
+        "removing mounting bolts",
+        "disconnecting water supply",
+        "removing the old toilet",
+        "installing new tank-to-bowl assembly",
+        "seat installation",
+        "wax ring and flange preparation",
+        "cast iron flange and Johnny/closet bolts",
+        "warding off sewer gas through wax seal"
+      ],
+      "description": "After ensuring all water is drained, the old toilet is detached by removing bolts and disconnecting the water line. The new toilet is prepared: tank-to-bowl assembly is joined with brass tank bolts and a gasket, the wax ring seals the bowl-to-flange connection, and the toilet seat is installed. The section also introduces the cast-iron flange and Johnny bolts as the mounting reference and explains the seal that prevents sewer gas and wastewater from escaping."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:04:24",
+      "title": "Dual-flush mechanism and water-savings explanation",
+      "concepts": [
+        "dual-flush lever system",
+        "1.6 GPF full flush",
+        "1.1 GPF liquid flush",
+        "water-use reduction"
+      ],
+      "description": "The new toilet features two levers: the chrome lever for a full 1.6 gallons-per-flush and a secondary lever (green) for a liquids-only flush at about 1.1 GPF. The host highlights this as roughly a 70% reduction in water usage for liquids and a substantial saving compared to the old toilet, illustrating practical water efficiency gains."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Blue-dye leak test to confirm tank-to-bowl leakage",
+      "timestamp": "00:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Removal of old toilet and installation of new unit with wax ring, bolts, and flange seal",
+      "timestamp": "00:01:44",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Securing tank-to-bowl assembly and seating via brass tank bolts and gasket",
+      "timestamp": "00:02:24",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dual-flush hardware demonstration and calculation of gallons per flush",
+      "timestamp": "00:04:04",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:27:08.769423+00:00"
+}

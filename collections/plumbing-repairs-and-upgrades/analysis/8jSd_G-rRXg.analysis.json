@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "8jSd_G-rRXg.youtube",
+  "title": "Diagnosis and Fix for a Noisy Faucet: Cold Shut-off Valve, Washer Wear, and Pressure Considerations",
+  "date": {
+    "display": "August 31, 2014",
+    "iso": "2014-08-31",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement (water supply origin)",
+      "confidence": 0.75,
+      "basis": "Transcript explicitly mentions the cold water pipe coming from the basement."
+    },
+    {
+      "name": "Under-sink shut-off valve",
+      "confidence": 0.88,
+      "basis": "Transcript identifies the cold water shut-off under the sink as the likely focus of the issue."
+    },
+    {
+      "name": "Toilet",
+      "confidence": 0.7,
+      "basis": "Transcript discusses the toilet fill valve as a common vibration source and mentions the washer inside."
+    },
+    {
+      "name": "Faucet assembly",
+      "confidence": 0.6,
+      "basis": "Transcript references the faucet’s hot/cold supply lines and connection to the faucet."
+    }
+  ],
+  "summary": "This Old House demonstrates a practical, step-by-step diagnostic approach to a noisy faucet caused by plumbing vibration. The video walks through isolating and testing the cold shut-off valve under the sink, explains why a partially closed valve can force water through a small opening and excite the valve washer, and then expands to other common culprits such as worn toilet fill valve washers, service valves versus ball valves, and overall home water pressure. The host also contrasts valve designs and offers targeted remedies, including keeping service valves fully open, recognizing the anatomy of a valve (stem and washer), and considering a pressure-reducing valve for high municipal pressure. The demonstrations emphasize listening for changes in noise as valves are manipulated and interpreted through simple mechanical reasoning.",
+  "topics": [
+    "Noisy faucet diagnosis",
+    "Cold water shut-off valve",
+    "Fully open vs partially closed valve",
+    "Valve stem and washer anatomy",
+    "Washer wear and vibration",
+    "Service valve vs ball valve",
+    "Ball valve operation",
+    "Valve throttling for balance",
+    "Overflow/flow path to faucet",
+    "Toilet fill valve and washer wear",
+    "Under-sink shut-off location",
+    "Whole-house water pressure",
+    "Pressure reducing valve (PRV)",
+    "Dishwasher hot-water supply line routing",
+    "Preventive valve maintenance"
+  ],
+  "sections": [
+    {
+      "start": "00:56:00",
+      "end": "01:33:00",
+      "title": "Isolate the cold shut-off valve and verify openness",
+      "concepts": [
+        "diagnostic isolation",
+        "cold shut-off valve",
+        "valve openness"
+      ],
+      "description": "Demonstrates identifying the cold water shut-off under the sink, testing by opening the valve, and recognizing that a partially closed valve can cause vibration by forcing water through a restricted opening."
+    },
+    {
+      "start": "01:51:00",
+      "end": "02:25:00",
+      "title": "Valve anatomy: stem and washer driving the flow",
+      "concepts": [
+        "valve stem",
+        "valve washer",
+        "flow passage",
+        "vibration cause"
+      ],
+      "description": "Explains the stem and the washer at the bottom of a typical shut-off valve; shows how opening and closing the valve affects whether water can pass freely and why restriction can induce vibration."
+    },
+    {
+      "start": "02:39:00",
+      "end": "03:52:00",
+      "title": "Other common culprits: toilet fill valve and pressure considerations",
+      "concepts": [
+        "toilet fill valve washer wear",
+        "service valve vs ball valve",
+        "pressure reducing valve",
+        "house water pressure"
+      ],
+      "description": "Addresses the toilet fill valve washer as a frequent vibration source when worn, then discusses service valves under the sink, contrasts with a ball valve, and concludes with the role of a pressure-reducing valve to manage high incoming pressure."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Test and confirm valve openness to diagnose vibration",
+      "timestamp": "01:14:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Explain valve stem and washer anatomy to diagnose flow issues",
+      "timestamp": "01:59:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Keep the cold shut-off valve fully open to stop vibration",
+      "timestamp": "02:23:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Differentiate multi-turn shut-off valve from ball valve",
+      "timestamp": "03:11:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Balance flow by throttling a valve (ball valve concept)",
+      "timestamp": "03:27:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Use a pressure-reducing valve to address house-wide pressure",
+      "timestamp": "03:41:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Identify toilet fill-valve washer wear as a vibration source",
+      "timestamp": "02:43:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:46:31.490696+00:00"
+}

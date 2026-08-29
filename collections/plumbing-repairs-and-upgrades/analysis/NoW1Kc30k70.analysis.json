@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "NoW1Kc30k70.youtube",
+  "title": "Installing a Timed Washing-Machine Valve: Soldered Copper Joints, Compression Fittings, and Braided Hoses",
+  "date": {
+    "display": "December 20, 2015",
+    "iso": "2015-12-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates replacing standard washing-machine shutoff valves with a timed washing-machine valve that includes a 2-hour timer. The video covers planning the run and fitting the valve, modifying pipe runs with elbows, cutting copper pipe with a pipe cutter, dry-fitting, cleaning and fluxing joints, soldering a copper elbow to a straight pipe, and making two compression connections to the timer valve. It also shows securing the piping with copper clips, upgrading to stainless-steel braided hoses, and final testing with water on and timer activation. The maker emphasizes safety and user protection by ensuring the timer deactivates the water supply after the set interval.",
+  "topics": [
+    "timed_washing_machine_valve",
+    "hot_and_cold_supply_lines",
+    "valve_timer_mechanism",
+    "brass_elbows",
+    "pipe_orientation",
+    "dry_fit",
+    "copper_pipe_cutting",
+    "pipe_cutter",
+    "surface_cleaning",
+    "fittings_cleaning_brush",
+    "flux_application",
+    "soldering_copper_joints",
+    "flux",
+    "solder",
+    "fitting_heat_and_solder",
+    "compression_fittings",
+    "ferule_and_nut",
+    "watertight_seal",
+    "copper_clips",
+    "stainless_steel_braided_hoses",
+    "hose_upgrade",
+    "valve_cover_and_handle",
+    "system_testing",
+    "pressure_relief"
+  ],
+  "sections": [
+    {
+      "start": "00:00:19",
+      "end": "00:01:01",
+      "title": "Introduction: Timed valve concept and benefits",
+      "concepts": [
+        "replacement of standard shutoffs with a timed valve",
+        "single-lever control for hot and cold hoses",
+        "timer activation for two hours",
+        "pressure shutoff after timed interval"
+      ],
+      "description": "The presenter explains replacing the traditional dual shutoffs with a washing-machine valve that can supply both hoses from one lever, and introduces a version with a timer that activates for two hours before pressure is released."
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:01:23",
+      "title": "Valve back-plate work and elbow orientation",
+      "concepts": [
+        "brass elbows on the valve back",
+        "different orientations for piping",
+        "using as much pipe length as possible"
+      ],
+      "description": "Two brass elbows are attached to the back of the valve; the installer notes different orientations and plans to maximize piping length."
+    },
+    {
+      "start": "00:01:28",
+      "end": "00:02:05",
+      "title": "Marking and preparing copper pipe for cutting",
+      "concepts": [
+        "marking cut line on copper pipe",
+        "preference for extending run straight over",
+        "planning cut location"
+      ],
+      "description": "The pipe is marked where it will be cut to fit the new valve configuration, emphasizing efficient use of pipe length."
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:04:16",
+      "title": "Dry fit, cleaning, fluxing, and solder prep",
+      "concepts": [
+        "dry-fit assembly",
+        "inside fitting cleaning brush",
+        "outside pipe cleaning",
+        "flux application",
+        "prepping for solder joint"
+      ],
+      "description": "A dry-fit of the elbow-to-pipe connection is performed. The ends are cleaned with a brush, and flux is applied to prepare for soldering."
+    },
+    {
+      "start": "00:04:36",
+      "end": "00:05:12",
+      "title": "Compression connections to timer valve",
+      "concepts": [
+        "two compression fittings",
+        "nut, ferrule, and compression action",
+        "watertight seal via compression"
+      ],
+      "description": "Two solderless compression connections are installed to connect the valve to the chosen piping, relying on ferrules and nuts to seal the joints."
+    },
+    {
+      "start": "00:05:12",
+      "end": "00:06:51",
+      "title": "Securing, upgrading hoses, and final test",
+      "concepts": [
+        "copper clips to secure pipes",
+        "stainless steel braided hoses",
+        "reconnecting power and water",
+        "test run and timer operation",
+        "cover and optional handle"
+      ],
+      "description": "The installer secures the pipes with copper clips, upgrades to stainless-steel braided hoses, reconnects the water, snaps on a protective cover, and demonstrates the timer-controlled operation with the water supply active and later shut off by the timer."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Timed washing-machine valve with built-in timer",
+      "timestamp": "00:00:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Copper pipe cutting using a pipe cutter",
+      "timestamp": "00:01:28",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Dry-fit assembly and pipe preparation",
+      "timestamp": "00:02:50",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Flux application and copper soldering for elbow-to-pipe joints",
+      "timestamp": "00:03:32",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Compression fittings with ferrule and nut (solderless connections)",
+      "timestamp": "00:04:36",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Securing piping with copper clips and upgrading hoses to stainless braided",
+      "timestamp": "00:05:23",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Final assembly: cover, handle, and functional test of the timer",
+      "timestamp": "00:06:29",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:34:52.300887+00:00"
+}

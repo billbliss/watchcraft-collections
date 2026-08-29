@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "video": "TpmNDrBHcno.youtube",
+  "title": "How to Snake a Clogged Drain with a Drum Auger (Snake) - This Old House",
+  "date": {
+    "display": "August 13, 2018",
+    "iso": "2018-08-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The video demonstrates clearing a bathtub/shower drain using a drum auger (drain snake) rather than harsh chemical cleaners. It explains why chemical cleaners can be damaging, identifies common clog culprits (notably hair), and walks through the steps of removing the strainer, feeding the auger, locking and twisting to advance the cable, and checking the drain for clearance. The host also covers tub installations with overflows and explains why the snake must be routed through the overflow and the trap to avoid getting stuck, underscoring a practical, money-saving homeowners’ method for addressing drains safely.",
+  "topics": [
+    "drum auger",
+    "drain snake",
+    "hair clog",
+    "tub/shower drain",
+    "removing strainer",
+    "feeding technique",
+    "lock and twist method",
+    "overflow routing",
+    "trap and horizontal drain",
+    "chemical drain cleaners risks",
+    "homeowner's plumbing toolbox"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.430",
+      "end": "00:00:56.719",
+      "title": "Problem framing, chemical cleaners discouraged, and tool introduction",
+      "concepts": [
+        "shower or bathtub backing up",
+        "harsh chemical cleaners risks",
+        "drum auger (snake) introduced as a homeowner tool",
+        "drain anatomy overview (trap)"
+      ],
+      "description": "The video opens by depicting a common bathroom backup and warns against corrosive drain cleaners, recommending a drum auger (snake) as a safe, effective alternative. It introduces the drain’s trap as a potential blockage site and notes that the clog can be in the trap or the horizontal pipe below the floor."
+    },
+    {
+      "start": "00:56:719",
+      "end": "01:13:560",
+      "title": "Trap location and initial prep: removing the strainer",
+      "concepts": [
+        "trap location under the shower base",
+        "removing the strainer",
+        "start of snake insertion",
+        "blockage can occur at the trap or below the floor"
+      ],
+      "description": "Discussion clarifies where clogs may occur in a tub/shower setup and demonstrates removing the strainer to access the drain, preparing to insert the drum auger."
+    },
+    {
+      "start": "01:13:560",
+      "end": "01:23:740",
+      "title": "Feeding technique: advance, lock, and twist",
+      "concepts": [
+        "advance the snake a little at a time",
+        "lock the auger in place",
+        "twist the cable down the drain"
+      ],
+      "description": "Demonstrates the core technique: feed the auger gradually, lock it, then twist to drive the snake deeper into the drain toward the clog."
+    },
+    {
+      "start": "01:30:240",
+      "end": "01:42:330",
+      "title": "Clog discovery and typical culprit",
+      "concepts": [
+        "observed clog during retrieval",
+        "hair as a common clog culprit"
+      ],
+      "description": "Shows the retrieved material confirming the clog and identifies hair as a typical cause for bathroom drain backups."
+    },
+    {
+      "start": "01:43:920",
+      "end": "02:02:719",
+      "title": "Tub/shower with overflow: routing considerations",
+      "concepts": [
+        "overflow in tub setups",
+        "routing the snake through overflow and trap",
+        "if not routed properly, the snake can back out or stall",
+        "process remains the same otherwise"
+      ],
+      "description": "Addresses the special case of tubs with an overflow, stressing that the snake should be run down through the overflow and into the trap to prevent misrouting; otherwise, the technique remains the same."
+    },
+    {
+      "start": "02:02:719",
+      "end": "02:10:620",
+      "title": "Wrap-up: safety and practicality of the method",
+      "concepts": [
+        "economic and practical safety of mechanical clearing",
+        "avoidance of harsh chemicals",
+        "drum auger as a homeowner's tool"
+      ],
+      "description": "Concludes with a recap of the method’s benefits: a safe, inexpensive, and effective mechanical solution for clearing hair-clogged drains without resorting to harsh chemicals."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Use of a drum auger (drain snake) to clear a bathroom drain",
+      "timestamp": "00:39:760",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Feeding, locking, and twisting the auger to advance the cable",
+      "timestamp": "01:17:280",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Routing the snake through the tub overflow for overflow-equipped tubs",
+      "timestamp": "01:47:680",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:25:10.656293+00:00"
+}

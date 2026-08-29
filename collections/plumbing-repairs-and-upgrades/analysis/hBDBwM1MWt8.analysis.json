@@ -1,0 +1,136 @@
+{
+  "schema_version": 2,
+  "video": "hBDBwM1MWt8.youtube",
+  "title": "Soldering Copper Pipe: Prep, Flux, and Torch Technique",
+  "date": {
+    "display": "December 10, 2015",
+    "iso": "2015-12-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House segment demonstrates essential copper-pipe soldering prep and execution. It covers cleaning copper surfaces with Emery cloth and a cleaning brush, applying flux to both pipe and fitting, choosing and using a basic heat torch with two tip styles, and performing a heat-and-solder sequence that relies on capillary action to draw solder into the joint. The video also flags important safety notes: ensuring the old piping is dry before soldering and using a heat shield when working near wood to avoid fire hazards.",
+  "topics": [
+    "Emery cloth",
+    "Copper pipe exterior cleaning",
+    "Fitting interior cleaning",
+    "Cleaning brush technique",
+    "Turning brush clockwise for longevity",
+    "Flux application",
+    "Flux on pipe and fitting",
+    "Heat torch components (fuel canister, tip)",
+    "Manual ignition of pencil-tip torch",
+    "Spark ignition built-in torch tip",
+    "Pencil-tip vs built-in ignition torch",
+    "Hottest part of flame at the tip",
+    "Inner blue flame",
+    "Heat one side of the fitting",
+    "Keep heat until flux bubbles",
+    "Apply solder to opposite side of flame",
+    "Heat draws solder into joint (capillary action)",
+    "Remove flame while solder is still liquid",
+    "Solder progress and wiping",
+    "Dry piping to prevent solder failure",
+    "Avoiding fire when working around wood",
+    "Use of a heat shield"
+  ],
+  "sections": [
+    {
+      "start": "00:00:11",
+      "end": "00:00:30",
+      "title": "Surface cleaning: copper pipe and fitting",
+      "concepts": [
+        "Emery cloth cleaning of exterior pipe",
+        "Emery cloth cleaning of fitting interior",
+        "Preparation for solder bonding",
+        "Brush cleaning preparation"
+      ],
+      "description": "Begin by cleaning copper surfaces with Emery cloth on both the pipe exterior and the fitting interior to promote solder bonding; a cleaning brush is introduced for longer life."
+    },
+    {
+      "start": "00:00:30",
+      "end": "00:01:16",
+      "title": "Flux application to pipe and fitting",
+      "concepts": [
+        "Flux application",
+        "Flux on pipe",
+        "Flux on fitting"
+      ],
+      "description": "Apply flux to both the pipe and the fitting before heating to promote solder flow and coverage."
+    },
+    {
+      "start": "00:00:36",
+      "end": "00:01:08",
+      "title": "Torch overview and tip options",
+      "concepts": [
+        "Heat torch components",
+        "Fuel canister",
+        "Torch tip",
+        "Manual ignition",
+        "Pencil-tip torch",
+        "Built-in spark ignition tip",
+        "Tip size and heat output"
+      ],
+      "description": "The torch is described as having two parts (fuel canister and tip). It contrasts a basic pencil-tip torch that must be ignited manually with a smaller flame to a larger-tip torch with built-in spark ignition for higher heat."
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:01:29",
+      "title": "Heat control and solder application prep",
+      "concepts": [
+        "Heat one side of the fitting",
+        "Heat concentration until flux bubbles",
+        "Solder application from the opposite side of the flame",
+        "Capillary action begins drawing solder"
+      ],
+      "description": "Apply heat to one side of the fitting long enough for flux to bubble; then apply solder to the opposite side of the flame so the heat draws the solder into the joint by capillary action."
+    },
+    {
+      "start": "00:01:33",
+      "end": "00:01:44",
+      "title": "Safety reminders: dry piping and heat shielding",
+      "concepts": [
+        "Dry old piping before soldering",
+        "Solder will not melt if water is present",
+        "Heat shield near wood to prevent fire"
+      ],
+      "description": "If working with old piping, ensure the pipe is free of water; when near wood, use a heat shield to prevent fire hazards."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Emery cloth surface cleaning for copper pipe and fittings",
+      "timestamp": "00:00:11",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Flux application to pipe and fitting",
+      "timestamp": "00:00:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Torch tip options and ignition methods (pencil-tip vs built-in spark)",
+      "timestamp": "00:00:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Heat-one-side then apply solder from opposite side to leverage capillary action",
+      "timestamp": "00:01:10",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Remove flame after solder enters joint while solder remains liquid",
+      "timestamp": "00:01:20",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Safety practice: ensure piping is dry and use heat shield near wood",
+      "timestamp": "00:01:33",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:14:15.373479+00:00"
+}

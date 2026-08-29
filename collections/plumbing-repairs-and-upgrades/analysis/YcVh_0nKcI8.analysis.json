@@ -1,0 +1,172 @@
+{
+  "schema_version": 2,
+  "video": "YcVh_0nKcI8.youtube",
+  "title": "Installing a Reverse Osmosis Water Filter Under a Kitchen Sink (This Old House)",
+  "date": {
+    "display": "December 3, 2018",
+    "iso": "2018-12-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Inside kitchen cabinet under the sink",
+      "confidence": 0.85,
+      "basis": "Cartridges mounted inside the cabinet; mounting hardware used under the counter (00:01:20–00:01:28)."
+    },
+    {
+      "name": "Under the sink at the cold-water shut-off area",
+      "confidence": 0.82,
+      "basis": "Cold-water feed is interrupted and redirected via shut-off valve/tee adapter (01:03:24–01:04:13)."
+    },
+    {
+      "name": "Kitchen sink drain area for RO discharge",
+      "confidence": 0.7,
+      "basis": "Discharge line connected to kitchen sink drain with an adapter (01:04:39–01:04:53)."
+    }
+  ],
+  "summary": "This Old House demonstrates a complete under-sink reverse osmosis (RO) filtration installation. The video walks through what an RO system does (pre-filters, a central RO membrane cartridge, post-filter, and storage tank) and then shows a hands-on install: mounting cartridges inside a kitchen cabinet, reusing the existing faucet hole, routing tubing to barbed fittings, anchoring the assembly with a toggle-bolt base, tying the RO feed into the cold-water shut-off via a tee-style adapter (no soldering), tying the drain line into the sink drain with a provided adapter, connecting the storage tank, and finally powering up and testing the system. Along the way it highlights the filtration path (through pre-filter, membrane, post-filter, tank, and faucet), explains that only a limited amount of purified water is produced (drain waste ratio), and notes practical tradeoffs like the system supplying drinking water only. The transcript provides explicit step-by-step actions and tool usage (screwdriver, wrench, toggle bolt, barbed fittings) and the host emphasizes verification by tasting the output water.",
+  "topics": [
+    "Reverse osmosis system overview",
+    "Pre-filter: granulated activated carbon (GAC)",
+    "Carbon block filter",
+    "RO membrane cartridge (center cartridge)",
+    "Post-filter stage",
+    "Storage tank (accumulated tank)",
+    "Dedicated RO faucet installation",
+    "Faucet hole reassignment (old soap dispenser hole)",
+    "Under-sink mounting of RO components",
+    "Cold-water supply intake and shut-off valve integration",
+    "Tee-style adapter for RO feed (no soldering)",
+    "Tubing and color-coding (blue stripe; black lines)",
+    "Tubing connections to barbed fittings",
+    "Drain line connection to kitchen sink drain (adapter)",
+    "Cutting back drain line for fitment",
+    "Toggle-bolt base mounting under cabinet",
+    "Phillips screwdriver and wrench usage for assembly",
+    "System start-up and testing (turning on water; visual check)",
+    "Water waste ratio explanation (1–2 gallons drain per 1 gallon produced)",
+    "Faucet connection with captive teeth to secure tubing",
+    "Taste test of purified water"
+  ],
+  "sections": [
+    {
+      "start": "00:00:11",
+      "end": "00:00:53",
+      "title": "RO system overview and components",
+      "concepts": [
+        "RO filtration basics",
+        "Pre-filter (granulated activated carbon)",
+        "Carbon block filter",
+        "Center RO membrane cartridge",
+        "Post-filter",
+        "Storage tank",
+        "Dedicated faucet",
+        "Water production vs waste"
+      ],
+      "description": "Introductory explanation of how an RO system sits under the kitchen cabinet and the sequence of filtration from pre-filter to membrane to post-filter, then into the storage tank and faucet, plus a note on the water production rate and drain waste ratio."
+    },
+    {
+      "start": "00:01:16",
+      "end": "00:02:52",
+      "title": "Mounting and plumbing prep under the cabinet",
+      "concepts": [
+        "Mounting cartridges inside cabinet with screws",
+        "Reusing the faucet hole (old soap dispenser)",
+        "Routing three tubes (two black, one blue-striped) through the hole",
+        "Connecting tubes to barbed fittings",
+        "Drain connections"
+      ],
+      "description": "Step-by-step under-sink prep: mount the RO cartridges, repurpose the faucet opening, pass tubes up through the opening, and prepare initial tube-to-fitting connections and drain line routing."
+    },
+    {
+      "start": "01:03:24",
+      "end": "01:04:53",
+      "title": "Cold-water feed, shut-off, and drain integration",
+      "concepts": [
+        "Cold-water shut-off",
+        "Feed line to RO via tee-style adapter (no soldering)",
+        "Discharge line connection to sink drain",
+        "Adapter considerations for limited space"
+      ],
+      "description": "Details on feeding the RO system from the cold-water supply using a shut-off valve and a tee-style adapter to avoid soldering, plus routing the RO drain line to the sink drain with a provided adapter."
+    },
+    {
+      "start": "01:05:01",
+      "end": "01:05:28",
+      "title": "Tank connection and system pressurization",
+      "concepts": [
+        "Connecting the RO storage tank",
+        "Securing connections to unit"
+      ],
+      "description": "Final plumbing steps to connect the storage tank to the RO unit and ensure proper secure connections before initial testing."
+    },
+    {
+      "start": "01:05:41",
+      "end": "01:06:04",
+      "title": "System startup and water testing",
+      "concepts": [
+        "Turning the water on",
+        "Initial flow and clarity check",
+        "Tasting purified water"
+      ],
+      "description": "Powering up the system, verifying that the lines are tight and water runs clearly, and performing a taste test to confirm the purified water quality."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "RO membrane filtration principle (semi-permeable barrier)",
+      "timestamp": "00:00:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Under-sink cartridge mounting inside cabinet",
+      "timestamp": "00:01:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Reusing faucet hole for RO faucet installation",
+      "timestamp": "00:01:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Tubing connection to barbed fittings",
+      "timestamp": "00:01:55",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Toggle-bolt mounting for under-cabinet base",
+      "timestamp": "00:02:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Faucet connection with captive teeth and locking",
+      "timestamp": "00:02:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cold-water supply modification using tee adapter (no soldering)",
+      "timestamp": "01:03:24",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Drain line connection to sink drain with adapter",
+      "timestamp": "01:04:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Storage tank connection to RO unit",
+      "timestamp": "01:05:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "System startup and water tasting to verify output",
+      "timestamp": "01:05:57",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:32:21.766718+00:00"
+}

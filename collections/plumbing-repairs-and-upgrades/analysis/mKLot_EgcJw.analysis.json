@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "mKLot_EgcJw.youtube",
+  "title": "Vent a Clothes Dryer: Redirecting a Long Interior Duct to a Short Exterior Run",
+  "date": {
+    "display": "January 27, 2019",
+    "iso": "2019-01-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement interior (under the dryer)",
+      "confidence": 0.9,
+      "basis": "Transcript explicitly states 'we are in the basement underneath the dryer'"
+    },
+    {
+      "name": "Exterior vent termination on exterior wall",
+      "confidence": 0.7,
+      "basis": "Transcript discusses venting directly outside and shows an exterior termination with louvers"
+    }
+  ],
+  "summary": "This Old House staff assess a dryer vent that runs a long, convoluted path through the basement and out through an exterior wall. They identify lint buildup risks from the maze of ducting and favor rerouting the vent to exit directly outside along the shortest possible path. The process covers drilling a through-wall hole in vinyl siding, installing a 4-inch galvanized elbow and duct, sealing joints with foil tape, and removing the old basement ductwork. The segment also notes the dryer’s lint filter location for ongoing maintenance and demonstrates finishing steps to ensure the new vent path reduces lint accumulation and improves venting efficiency.",
+  "topics": [
+    "dryer vent cleaning",
+    "clogged vent diagnosis",
+    "long duct run problems",
+    "lint trap near elbow",
+    "shortest-path vent routing",
+    "planning exterior vent routing",
+    "through-wall vent hole",
+    "vinyl siding drilling",
+    "reverse drilling technique for siding",
+    "hole saw (4-1/8 inch)",
+    "galvanized 4-inch elbow",
+    "duct length measurement",
+    "foil tape vs duct tape",
+    "exterior vent termination with louvers",
+    "critter cover for vent",
+    "removing old basement duct maze",
+    "lint filter location and maintenance"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:58:00",
+      "title": "Basement duct path assessment and problem identification",
+      "concepts": [
+        "clogged dryer vent",
+        "long, convoluted duct run",
+        "lint accumulation near elbows",
+        "comparison of potential vent routes"
+      ],
+      "description": "The speaker notes a clogged dryer vent and examines the basement duct layout, highlighting a long path that snakes to the exterior and a design that may trap lint at an elbow. The discussion suggests a need to rethink the route to improve venting performance and reduce lint buildup."
+    },
+    {
+      "start": "01:58:00",
+      "end": "04:40:00",
+      "title": "Vent-route planning and the case for exterior relocation",
+      "concepts": [
+        "shortest-path principle",
+        "vent-to-outside routing",
+        "possible historical dryer location considerations"
+      ],
+      "description": "The plan shifts toward venting directly outside via the shortest straight run. The discussion covers why the existing layout is problematic and considers the most straightforward exterior route from the dryer's original location."
+    },
+    {
+      "start": "04:40:00",
+      "end": "06:53:00",
+      "title": "Through-wall hole creation and exterior-vent setup",
+      "concepts": [
+        "vinyl siding hole preparation",
+        "reverse-drill technique to score siding",
+        "hole saw (4-1/8 inch)",
+        "galvanized 4-inch elbow and duct fit",
+        "exterior termination with louvers"
+      ],
+      "description": "A through-wall hole is drilled in vinyl siding using a reverse drill to prevent chipping, then a 4-1/8 inch hole saw is used. A 4-inch galvanized elbow is installed to connect the interior duct to the exterior termination, which features one-directional louvers and an optional critter cover."
+    },
+    {
+      "start": "06:53:00",
+      "end": "07:14:00",
+      "title": "Final assembly, seal, and lint-filter check",
+      "concepts": [
+        "foil tape for joints",
+        "removing old basement duct maze",
+        "final duct connections",
+        "lint-filter location and maintenance"
+      ],
+      "description": "The crew seals duct joints with foil tape, removes the old basement duct maze, secures the new run, and notes the lint filter location to complete a ready-to-operate setup and remind the occupant about regular maintenance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Reverse drilling to start a hole in vinyl siding without chipping",
+      "timestamp": "00:03:41",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cutting through vinyl siding with a hole saw (4-1/8 inch)",
+      "timestamp": "00:03:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exterior vent termination with directional louvers and optional critter cover",
+      "timestamp": "00:04:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Measuring and fitting galvanized duct to connect to an elbow",
+      "timestamp": "00:05:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Sealing duct joints with foil tape (not duct tape)",
+      "timestamp": "00:05:27",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Removing existing basement duct maze to simplify the vent path",
+      "timestamp": "00:06:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Locating and inspecting the dryer lint filter for maintenance",
+      "timestamp": "00:06:58",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:32:42.745345+00:00"
+}

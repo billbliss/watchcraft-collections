@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "video": "brumHe2lmWg.youtube",
+  "title": "The Story Behind Antique Bath Fixtures: Drainage, Traps, and Lead in an 1833 Captain’s House",
+  "date": {
+    "display": "January 15, 2017",
+    "iso": "2017-01-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "New Bedford, Massachusetts (historic Captain's House)",
+      "confidence": 0.75,
+      "basis": "explicit mention in transcript: '1833 Captain's House in historic New Bedford Massachusetts' (00:00:16–00:00:19)"
+    }
+  ],
+  "summary": "This Old House hosts a historical look at bath fixtures in an 1833 captain’s residence in New Bedford, tracing the evolution of bathroom drainage from early systems to modern code. The video explains the components of a tub drain—bath waste, overflow, and stoppers—and contrasts old and new practices, including the shift from lead-based fittings to copper and plastics. Viewers see a claw-foot Essex tub and learn about hot/cold mixing, the function of traps (P-trap vs. drum trap), and a bayonet catch trip-lever mechanism. A centerpiece is the on-site fabrication of lead fittings: melting sheet lead, pouring into forms, and finishing with tools and a torch, illustrating how historic plumbing was crafted before contemporary materials and manufacturing methods became standard. The piece also addresses safety and durability considerations, such as sewer gas protection provided by traps and the hazards of lead piping, all within the historical context of domestic water systems.",
+  "topics": [
+    "bath waste",
+    "overflow",
+    "stopper operation",
+    "bayonet catch",
+    "trip lever",
+    "P-trap",
+    "drum trap",
+    "Essex (clawfoot) tub",
+    "hot and cold mixing",
+    "tub spout",
+    "on-site lead fittings",
+    "sheet lead",
+    "molten lead pouring",
+    "wiping cloth technique",
+    "torch finishing",
+    "lead piping hazards",
+    "copper/plastic/PEX progression",
+    "brass/bronze fittings",
+    "modern drainage codes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:34",
+      "end": "00:02:00",
+      "title": "Historical bath drain: from waste to trap",
+      "concepts": [
+        "bath waste",
+        "overflow",
+        "stopper",
+        "bayonet catch",
+        "trip lever",
+        "P-trap"
+      ],
+      "description": "Introduces the modern bathtub drain assembly (bath waste and overflow) and demonstrates how a stopper, with a trip lever and bayonet catch, operates the drain. Sets up the discussion of trap concepts and the evolution toward modern codes."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:50",
+      "title": "Drum traps, P-traps, and on-site lead fittings",
+      "concepts": [
+        "P-trap",
+        "drum trap",
+        "sewer gas prevention",
+        "on-site fabrication",
+        "sheet lead",
+        "molten lead",
+        "ladle",
+        "wiping cloth",
+        "torch"
+      ],
+      "description": "Compares a modern P-trap to historical drum traps, explaining how a trap keeps sewer gas from entering the building. Details the on-site fabrication of lead fittings, including pouring molten lead, shaping with tools, and finishing with a torch, and discusses the difficulties of maintaining older lead-based systems."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:04:54",
+      "title": "Modern material evolution and closing context",
+      "concepts": [
+        "copper",
+        "plastic",
+        "PEX",
+        "modern codes"
+      ],
+      "description": "Notes the transition from lead and brass to copper, plastic, or PEX, and reflects on how historical practices informed current plumbing standards and material choices."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Bath waste and overflow operation",
+      "timestamp": "00:00:34",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Bayonet catch and trip lever drain actuation",
+      "timestamp": "00:02:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "P-trap vs. drum trap comparison",
+      "timestamp": "00:02:24",
+      "confidence": 0.75
+    },
+    {
+      "technique": "On-site lead fitting: pouring lead and shaping",
+      "timestamp": "00:03:20",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:56:59.200925+00:00"
+}

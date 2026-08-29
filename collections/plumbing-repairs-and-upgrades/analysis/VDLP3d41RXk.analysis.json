@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "video": "VDLP3d41RXk.youtube",
+  "title": "GPS-Enabled Smart Thermostat Installation Demonstration (This Old House)",
+  "date": {
+    "display": "March 13, 2019",
+    "iso": "2019-03-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement (probable utility room)",
+      "confidence": 0.8,
+      "basis": "Transcript mentions 'down in the basement' and describes a gas-fired boiler setup in that area."
+    },
+    {
+      "name": "Boiler room in basement",
+      "confidence": 0.75,
+      "basis": "Describes gas-fired boiler, circulator, and radiators consistent with a boiler room in a basement utility area."
+    }
+  ],
+  "summary": "This This Old House segment demonstrates upgrading a traditional manual boiler thermostat to a GPS-enabled smart thermostat that uses geolocation to adjust heating automatically as occupants come and go. The video frames the evolution of thermostats—from simple dial units to clock-programmable models to internet-connected devices—then provides a hands-on replacement: safely removing an old mercury thermostat, wiring the new unit’s R and W terminals, mounting the base plate, and configuring the accompanying app to communicate with the heating system and use location data for automatic temperature control. The content emphasizes energy-savings benefits of setback when away and covers practical installation steps, including safety and compatibility considerations for a typical gas-fired boiler with radiators.",
+  "topics": [
+    "Geolocation-based thermostat control",
+    "Gas-fired boiler with radiators",
+    "Low-voltage thermostat wiring (R and W)",
+    "Mercury-containing thermostat disposal",
+    "Wall-mounting a thermostat",
+    "Thermostat base plate leveling and mounting",
+    "HVAC wiring labeling (R, W; multi-wire systems)",
+    "Smart thermostat app configuration",
+    "Thermostat evolution: manual to internet-connected",
+    "Energy savings with occupancy-based setback",
+    "Override features via app",
+    "Wiring color codes for HVAC systems",
+    "Ambient temperature sensing collar",
+    "Five-to-seven wire HVAC compatibility",
+    "Safety: power-off during installation",
+    "Thermostat mounting hardware compatibility"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:32",
+      "title": "Introduction: GPS-enabled thermostat concept and energy-savings idea",
+      "concepts": [
+        "Fully automatic thermostat behavior",
+        "Geolocation-based auto-temperature adjustment",
+        "Energy savings by not heating when away",
+        "Thermostat evolution overview"
+      ],
+      "description": "The hosts discuss how traditional thermostats require manual adjustment and introduce a GPS-enabled smart thermostat that uses location data to automatically adjust the building's temperature."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:03:04",
+      "title": "Safety and teardown: removing old mercury-based thermostat",
+      "concepts": [
+        "Mercury-containing thermostat disposal",
+        "Wall-mounted device removal safety",
+        "Identifying old wiring and hardware"
+      ],
+      "description": "The old thermostat is removed; mercury hazard is acknowledged and disposal considerations discussed."
+    },
+    {
+      "start": "00:03:04",
+      "end": "00:05:13",
+      "title": "Wiring and mounting the new thermostat",
+      "concepts": [
+        "Low-voltage thermostat wiring basics",
+        "R and W terminal identification",
+        "Base plate mounting, leveling, and wall orientation",
+        "Wiring through mounting collar"
+      ],
+      "description": "The new thermostat is mounted; wiring is connected to R and W, and the base plate is secured with attention to proper alignment."
+    },
+    {
+      "start": "00:05:13",
+      "end": "00:05:40",
+      "title": "Configuration and demonstration of app control",
+      "concepts": [
+        "App-enabled configuration",
+        "Geolocation-driven automatic control",
+        "Remote scheduling and occupancy awareness"
+      ],
+      "description": "Configuration is completed and demonstrated on a tablet; the GPS-based automatic control feature is highlighted as a key advantage."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Geolocation-based automatic control of a thermostat",
+      "timestamp": "00:02:15",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Wiring a heating-only thermostat (R and W terminals)",
+      "timestamp": "00:04:33",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mercury thermostat removal and disposal precautions",
+      "timestamp": "00:02:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mounting and leveling a thermostat base plate",
+      "timestamp": "00:04:12",
+      "confidence": 0.7
+    },
+    {
+      "technique": "App-based configuration and remote control",
+      "timestamp": "00:05:30",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:27:11.691273+00:00"
+}

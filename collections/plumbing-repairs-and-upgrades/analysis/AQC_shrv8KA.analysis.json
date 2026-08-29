@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "video": "AQC_shrv8KA.youtube",
+  "title": "Hot Water Recirculation Systems: Pumps, Valves, and Smart Timers",
+  "date": {
+    "display": "May 16, 2016",
+    "iso": "2016-05-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "basement",
+      "confidence": 0.6,
+      "basis": "Transcript line states 'a water heater somewhere in the basement' as a common installation location."
+    },
+    {
+      "name": "garage",
+      "confidence": 0.5,
+      "basis": "Transcript mentions 'the basement in the garage' as a possible heater location in larger houses."
+    }
+  ],
+  "summary": "This video explains why large houses and commercial buildings benefit from a hot-water recirculation system. It describes the core idea: a dedicated recirculation line moves hot water from the heater to the farthest fixture and returns the cooler water to the heater to be reheated, reducing wait times and water waste. The host covers essential components (recirculation pump, check valve, aquastat sensor, and timer) and then surveys retrofit options, including placing a pump near the water heater, and under-sink vanity installations with tees, as well as standalone units with built-in timers and sensors or wireless activation. It concludes with safety and efficiency cautions, emphasizing proper control to avoid energy waste and cross-connections while highlighting convenient, self-programming timer solutions. ",
+  "topics": [
+    "hot water recirculation",
+    "recirculation line",
+    "recirculation pump",
+    "check valve",
+    "aquastat",
+    "sensor",
+    "timer",
+    "self-programming timer",
+    "retrofitting options",
+    "pump near water heater",
+    "under-sink vanity recirc",
+    "tee valve installation",
+    "activated pump",
+    "activation button",
+    "wireless activation",
+    "cross-connection risk",
+    "energy efficiency",
+    "farthest fixture hot water",
+    "basement/garage heater location"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:36",
+      "title": "Problem and context",
+      "concepts": [
+        "hot water delay",
+        "water waste",
+        "distance from heater",
+        "basement/garage heater location"
+      ],
+      "description": "Introduces the issue: waiting for hot water and wasting cold water in large houses; heater is distant from fixtures."
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:01:04",
+      "title": "Recirculation line concept",
+      "concepts": [
+        "recirculation line",
+        "hot water path",
+        "return to heater",
+        "farthest fixture"
+      ],
+      "description": "Definition of a recirculation line: a separate pipe from the hot line to the farthest fixture and back to the heater to deliver hot water quickly."
+    },
+    {
+      "start": "00:01:07",
+      "end": "00:02:06",
+      "title": "Core components",
+      "concepts": [
+        "recirculation pump",
+        "check valve",
+        "aquastat",
+        "timer",
+        "sensor"
+      ],
+      "description": "Details the main hardware: pump to move water, check valve to prevent backflow, aquastat sensor to sense return water temperature, and a timer to control operation."
+    },
+    {
+      "start": "00:01:58",
+      "end": "00:02:16",
+      "title": "Integrated recirculation unit",
+      "concepts": [
+        "built-in check valve",
+        "built-in timer",
+        "built-in sensor",
+        "self-contained unit"
+      ],
+      "description": "Notes that some units integrate valve, timer, and sensor into a single package for easier installation."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:02:58",
+      "title": "Retrofit options (pump near heater)",
+      "concepts": [
+        "pump at water heater",
+        "hot water path",
+        "recirculation via cold line"
+      ],
+      "description": "Explains variations for retrofitting using the existing cold line and placing the recirculation pump at the heater to push heated water toward the fixtures."
+    },
+    {
+      "start": "00:03:06",
+      "end": "00:03:33",
+      "title": "Under-sink vanity approach",
+      "concepts": [
+        "under-sink tee valve",
+        "hot water line modification",
+        "coolant return path via cold line",
+        "activation button"
+      ],
+      "description": "Describes installing the recirc path under a vanity with tees and a controlled activation for returning hot water to the cold line."
+    },
+    {
+      "start": "00:03:39",
+      "end": "00:03:47",
+      "title": "Single-point vs wireless control",
+      "concepts": [
+        "single-point control",
+        "activation button",
+        "wireless remote option"
+      ],
+      "description": "Discusses a standalone activation point and the option to use wireless control to trigger the recirc to multiple fixtures."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:04:14",
+      "title": "Efficiency and safety considerations",
+      "concepts": [
+        "energy waste",
+        "cross-connection risk",
+        "proper control"
+      ],
+      "description": "Warns that poorly controlled recirculation can waste energy by circulating already-heated water; emphasizes safe, proper installation to avoid cross-connections."
+    },
+    {
+      "start": "00:04:16",
+      "end": "00:04:20",
+      "title": "Wrap-up",
+      "concepts": [
+        "recap"
+      ],
+      "description": "Concludes the discussion with a quick recap of the benefits and considerations of recirculation systems."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Recirculation line with dedicated hot water pump",
+      "timestamp": "00:00:44",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Check valve to enforce one-way flow",
+      "timestamp": "00:01:25",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Aquastat sensor mounted on pipe",
+      "timestamp": "00:01:35",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Timer or self-programming timer",
+      "timestamp": "00:01:47",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Integrated recirc unit with built-in components",
+      "timestamp": "00:02:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Under-sink vanity recirc with tees",
+      "timestamp": "00:03:07",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Single-point activation and wireless option",
+      "timestamp": "00:03:41",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Energy-efficiency and safety caution for recirc systems",
+      "timestamp": "00:04:01",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:53:05.399731+00:00"
+}

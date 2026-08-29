@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "video": "25gybh69JdA.youtube",
+  "title": "Wet-Tap Water Main Upgrade and Copper Service Installation (Saratoga, NY) – This Old House",
+  "date": {
+    "display": "April 13, 2026",
+    "iso": "2026-04-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Saratoga, NY",
+      "confidence": 0.85,
+      "basis": "Explicit in transcript: 'the DPW here in Saratoga.'"
+    }
+  ],
+  "summary": "This Old House documents a street-level water and sewer upgrade at a site in Saratoga, focusing on replacing an old galvanized/lead water service and a deteriorated sewer line while avoiding disruption to a new sidewalk. The crew locates an existing water main, investigates the lead service, and plans a new drain route that begins at a manhole. They use trenching and a diamond drill approach for the sewer/drain routing, then perform a wet tap to tie into the live 4-inch water main using a Mueller B-101 tapping machine. The process includes managing high pressure with a bypass and shutoff, establishing a proper service pitch with laser-guided alignment, and tying in copper Type K service lines with curb stops to provide both domestic supply and a dedicated fire-protection line for the upper floors. The video emphasizes practical, code-conscious constraints (10-foot separation from sewer, avoiding gas lines, frostproof curb shutoffs) and highlights long-standing plumbing tools and methods still in active use (wet taps, tapping machines) within municipal systems.",
+  "topics": [
+    "Identification of old water service lines (galvanized to lead) and their connections",
+    "Sewer line replacement and routing from a street-side manhole",
+    "Site constraint considerations (new sidewalk, street disruption, and gas line proximity)",
+    "Drain line trajectory and pitch with laser level guidance",
+    "Code requirement: 10-foot separation between water and sewer lines",
+    "Lead service line discovery and historical pipe configurations",
+    "Drilling into a manhole side with a diamond bit for sewer drain entry",
+    "Wet tapping into a live 4-inch water main",
+    "Mueller B-101 tapping machine: function and purpose",
+    "Pressure management during a wet tap (bypass, 50-lb pressure, valve shutoff)",
+    "Post-tap workflow: connecting to the main and removing the tapping apparatus",
+    "Copper service installation: Type K copper for domestic supply and fire-protection line",
+    "Curb stops and remote shutoff placement for frost protection",
+    "Fire protection system considerations requiring a second water supply",
+    "Historical tools and longevity of municipal tapping equipment"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:01",
+      "title": "Plan and site prep",
+      "concepts": [
+        "Identify old water service (galvanized/lead)",
+        "Assess sidewalk and street constraints",
+        "Plan sewer and water line routes"
+      ],
+      "description": "The crew notes an old galvanized/lead water line and discusses avoiding the new sidewalk while upgrading the sewer and water lines. They establish the need to route a new drain and plan the starting point from the manhole, setting up the overall approach to the dig and trench layout."
+    },
+    {
+      "start": "00:01:02",
+      "end": "00:02:10",
+      "title": "Sewer and water line mapping and trench considerations",
+      "concepts": [
+        "10 ft code separation between water and sewer",
+        "Locate existing water main and observe lead/galvanized conditions",
+        "Assess proximity to gas lines and route accordingly"
+      ],
+      "description": "The dialogue covers keeping water and sewer lines separated by code, locating the 4-in water main, and recognizing a lead joint with galvanized connections. They also reference nearby gas lines and the decision not to bore beneath them if not necessary."
+    },
+    {
+      "start": "00:02:08",
+      "end": "00:03:46",
+      "title": "Wet-tap preparation and drilling into the live main",
+      "concepts": [
+        "Wet tapping into a live 4-in main",
+        "Mueller B-101 tapping machine",
+        "Threaded connection via corporation into the main"
+      ],
+      "description": "The crew introduces the wet-tap method and the Mueller B-101 tapping machine, describing how a chamber is clamped to the cast-iron main, a shaft with a two-in-one bit is used to drill and tap, and how the corporation will be threaded into the main to accept the new service—highlighting the risk and control required when drilling under pressure."
+    },
+    {
+      "start": "00:04:42",
+      "end": "00:05:20",
+      "title": "Copper service installation and curb shutoffs",
+      "concepts": [
+        "Type K copper service line",
+        "Frost-proof curb shutoffs",
+        "Remote shutoff accessibility from the sidewalk"
+      ],
+      "description": "After tapping, the plan shifts to copper service installation (Type K) with two supplies: domestic and fire protection. The curb shutoffs will be placed below grade for frost protection, with a sidewalk access point to enable remote shutoff control."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Wet-tap into a live water main using a Mueller B-101 tapping machine",
+      "timestamp": "00:02:23",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Using a laser level to establish pipe pitch and starting point for drainage",
+      "timestamp": "00:00:47",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Drilling and tapping the main to accept a new service with threaded corporation",
+      "timestamp": "00:02:43",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Pressure management: bypassing and controlled open/close of the tapping chamber to prevent water discharge",
+      "timestamp": "00:04:16",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Copper service installation with Type K copper and frost-protected curb shutoffs",
+      "timestamp": "00:04:49",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:36:49.420451+00:00"
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "video": "LcPdUbhvEVU.youtube",
+  "title": "Retrofit kit for turning a standard toilet into a graywater toilet with an integrated sink",
+  "date": {
+    "display": "August 25, 2014",
+    "iso": "2014-08-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates how to convert a standard toilet into a graywater-capable unit using a retrofit kit, highlighting both a pre-made graywater toilet option and a retrofit approach. The host explains toilet anatomy (flapper, fill valve, refill tube), then shows replacing the refill tube with a clear discharge tube to divert clean supply water toward a sink on the tank and then down to refill the bowl. A spacer is introduced to accommodate different tank lengths. The segment emphasizes that both the faucet supply and the refill-to-bowl pathways carry clean water, while illustrating the practical steps to install the retrofit and integrate handwashing at the toilet unit as a usable feature.",
+  "topics": [
+    "toilet tank anatomy",
+    "flapper",
+    "fill valve",
+    "refill tube",
+    "graywater toilet retrofit",
+    "retrofit kit components",
+    "clear discharge tubing",
+    "sink-integrated toilet",
+    "tank length spacer",
+    "pre-made graywater toilet unit",
+    "water flow path: supply to faucet",
+    "water flow path: discharge to bowl",
+    "handwashing at toilet",
+    "Australian-origin product",
+    "installation steps: remove/replace refill tube",
+    "compatibility considerations"
+  ],
+  "sections": [
+    {
+      "start": "00:22",
+      "end": "00:46",
+      "title": "Toilet basics and the graywater concept",
+      "concepts": [
+        "toilet tank components",
+        "flapper",
+        "fill valve",
+        "refill tube",
+        "flush cycle",
+        "clean water inputs"
+      ],
+      "description": "Explanation of how a standard toilet tank operates during a flush: the flapper lifts to release water, the fill valve refills the tank, and a refill tube sends water to refill the bowl. The speaker frames the idea of a graywater toilet by noting a sink on a unit and the possibility of using a dedicated water path for handwashing connected to the toilet system."
+    },
+    {
+      "start": "00:46",
+      "end": "00:57",
+      "title": "Product options: pre-made unit vs retrofit kit",
+      "concepts": [
+        "pre-made graywater toilet",
+        "retrofit kit for standard tanks",
+        "conversion concept"
+      ],
+      "description": "Introduction to two options: a complete pre-made graywater toilet unit and a retrofit kit designed to convert a standard toilet tank into a graywater setup."
+    },
+    {
+      "start": "00:57",
+      "end": "01:11",
+      "title": "Retrofit installation step: swap refill tube for discharge tube",
+      "concepts": [
+        "refill tube removal",
+        "clear plastic discharge tube",
+        "diverting clean supply to faucet",
+        "discharge to bowl"
+      ],
+      "description": "Demonstrates removing the existing refill tube and replacing it with a clear plastic tube so that the clean supply water can be diverted to the sink faucet and the discharge directs water to refill the bowl."
+    },
+    {
+      "start": "01:13",
+      "end": "01:17",
+      "title": "Tank-length compatibility: spacer",
+      "concepts": [
+        "spacer",
+        "tank length accommodation",
+        "kit adaptability"
+      ],
+      "description": "Notes that a spacer is provided to accommodate different tank lengths, ensuring the retrofit kit can fit various toilet models."
+    },
+    {
+      "start": "01:19",
+      "end": "01:26",
+      "title": "System operation after install: handwashing and water paths",
+      "concepts": [
+        "handwashing water path",
+        "clean water sources",
+        "flow through fill and bowl refill"
+      ],
+      "description": "Concludes with the cleaned-water path: after flushing, clean water is available to wash hands via the sink, with both supply and bowl-refill paths described as clean-water sources."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Replace toilet refill tube with a clear discharge tube to divert water to sink and bowl",
+      "timestamp": "00:57",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Explain and visualize toilet tank internals: flapper, fill valve, refill tube",
+      "timestamp": "00:22",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Use spacer to adapt retrofit kit to different tank lengths",
+      "timestamp": "01:13",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Compare options: pre-made graywater unit vs retrofit kit for standard toilets",
+      "timestamp": "00:46",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Flow path clarification: clean water supply feeding faucet and bowl refill",
+      "timestamp": "00:39",
+      "confidence": 0.72
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:29:09.002895+00:00"
+}

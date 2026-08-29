@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "video": "HK8wLbs9bSE.youtube",
+  "title": "Laundry Tray Pump Installation for a Basement/Utility Sink: Pump, Drain, and Flow Control",
+  "date": {
+    "display": "October 16, 2014",
+    "iso": "2014-10-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "laundry room",
+      "confidence": 0.9,
+      "basis": "Speaker states 'in this laundry room' when describing where work is performed."
+    }
+  ],
+  "summary": "This Old House guides the installation of a laundry tray pump under a bar/utility sink in a laundry room. The video identifies the unit as a laundry tray pump with a float switch that starts the pump when water enters the chamber and discharges up to 14 ft into the building drain. The host demonstrates assembling the pump to a basket strainer, applying putty, PTFE tape, fiber gaskets, and an O-ring, and then adapters and glue joints to route a discharge to the house drainage. A no-hub style connection is used to join PVC sections, followed by a check valve to prevent backflow and pump short-cycling. To avoid excessive cycling, a ball valve on the discharge is used to throttle the pump output to better match faucet flow. The sequence culminates in wiring and testing the system to achieve a functional, “full wet bar.”",
+  "topics": [
+    "laundry tray pump",
+    "float switch",
+    "pump discharge height (up to 14 ft)",
+    "basket strainer (upper portion)",
+    "stopper and basket components",
+    "putty application",
+    "PTFE (Teflon) tape on threaded connections",
+    "fiber gasket and O-ring sequence",
+    "threaded adapter on pump",
+    "PVC pipe assembly",
+    "no-hub coupling",
+    "gluing PVC joints (cleaner and glue)",
+    "witness marks for alignment",
+    "hairline dry-fit before permanent glue",
+    "hot and cold supply lines behind wall",
+    "drain connection from pump to house drain",
+    "check valve to prevent backflow",
+    "ball valve to throttle discharge",
+    "matching discharge rate to faucet output",
+    "pump wiring and plug-in",
+    "system testing (flow on/off)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:11:00",
+      "title": "Pump identity and float switch",
+      "concepts": [
+        "laundry tray pump",
+        "float switch",
+        "pump discharge capability (up to 14 ft)"
+      ],
+      "description": "Introduction to the laundry tray pump assembly mounted under a bar/utility sink; description of the pump, motor, and float switch that activates the pump when water enters the chamber, with discharge capable of rising up to 14 feet and returning to the drainage system."
+    },
+    {
+      "start": "00:24:00",
+      "end": "01:06:00",
+      "title": "Basket strainer prep and gasket assembly",
+      "concepts": [
+        "basket strainer components",
+        "putty usage",
+        "Teflon tape on threads",
+        "fiber gasket and O-ring sequence"
+      ],
+      "description": "Explains the upper portion of the standard basket strainer, the use of putty, Teflon tape on threads, and the gasket/O-ring stack for a proper seal around the sink drain."
+    },
+    {
+      "start": "01:19:00",
+      "end": "01:56:00",
+      "title": "Threaded adapter installation and glue planning",
+      "concepts": [
+        "threaded adapter onto pump",
+        "Teflon tape on threads",
+        "planning pipe glue connections",
+        "witness marks for alignment"
+      ],
+      "description": "Shows threading a adapter onto the pump, sealing threads with Teflon tape, and preparing PVC pieces with witness marks to ensure correct alignment when gluing later."
+    },
+    {
+      "start": "02:02:00",
+      "end": "02:18:00",
+      "title": "Dry-fit layout and laundry-room plumbing context",
+      "concepts": [
+        "dry-fit technique",
+        "hot and cold supply lines behind the wall",
+        "drain from pump entering the existing drainage"
+      ],
+      "description": "Demonstrates that much work occurs in the laundry room—behind the bar sink—with visible hot/cold supply lines and the need to integrate the pump’s drain into the house drainage system; emphasizes dry-fitting before final assembly."
+    },
+    {
+      "start": "02:23:00",
+      "end": "02:54:00",
+      "title": "No-hub coupling and dry-run to connect drain",
+      "concepts": [
+        "no-hub coupling",
+        "sliding coupling over splice",
+        "final tightening"
+      ],
+      "description": "Notes the advantage of a no-hub coupling for sliding over a splice and tightening to connect the pump drain into the house drainage after dry-fitting; shows the practical spline of the connection."
+    },
+    {
+      "start": "03:21:00",
+      "end": "03:40:00",
+      "title": "Check valve to prevent backflow and short-cycling",
+      "concepts": [
+        "check valve",
+        "backflow prevention",
+        "pump protection from cycling"
+      ],
+      "description": "Introduces a check valve to prevent water in the drain line from flowing back into the pump, addressing the problem of the pump turning on/off repeatedly when output exceeds faucet flow."
+    },
+    {
+      "start": "04:03:00",
+      "end": "04:16:00",
+      "title": "Ball-valve throttling to match discharge with faucet flow",
+      "concepts": [
+        "ball valve on discharge",
+        "throttling discharge",
+        "matching pump output to faucet flow"
+      ],
+      "description": "Demonstrates closing down the discharge with a ball valve to reduce the pump’s effective discharge rate, aiming to keep the pump on longer and prolong its life by matching discharge to faucet supply rates."
+    },
+    {
+      "start": "04:20:00",
+      "end": "04:46:00",
+      "title": "Glue, plug-in, test, and final status",
+      "concepts": [
+        "glue and cleaner",
+        "waste-pipe assembly",
+        "plug-in and test",
+        "final wet bar status"
+      ],
+      "description": "Concludes with a glued, tested drainage run, plugging in the pump, and running water to observe operation; the host notes achieving a finished ‘wet bar’ setup."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Float switch activation of a sub-sink pump",
+      "timestamp": "00:11:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Basket strainer assembly with putty, tape, and gasket stack",
+      "timestamp": "00:45:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Threaded adapter installation with PTFE tape on pump threads",
+      "timestamp": "01:21:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dry-fitting PVC layout before gluing",
+      "timestamp": "02:02:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "No-hub coupling for drain connection",
+      "timestamp": "02:52:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Check valve to prevent backflow and pump cycling",
+      "timestamp": "03:30:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Ball-valve throttling to balance discharge with faucet rate",
+      "timestamp": "04:05:00",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Final glue joints, testing, and power connection",
+      "timestamp": "04:28:00",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:15:26.052378+00:00"
+}

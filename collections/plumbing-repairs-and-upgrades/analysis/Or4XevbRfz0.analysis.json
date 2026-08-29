@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "video": "Or4XevbRfz0.youtube",
+  "title": "Replacing a Clogged T-Fitting in a Double-Bowl Kitchen Sink Drain",
+  "date": {
+    "display": "December 26, 2014",
+    "iso": "2014-12-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the kitchen sink (garbage disposal area)",
+      "confidence": 0.65,
+      "basis": "Transcript describes components (disposer, tailpiece, T-fitting, trap) located under the sink; not explicit shooting location"
+    }
+  ],
+  "summary": "This Old House analyzes a two-bowl kitchen sink clog by tracing the drain path from the garbage disposal through the tailpiece and a T-fitting to the trap. The host identifies a plastic diverter inside the T-fitting as the blockage, disassembles the connections, and replaces the assembly with a full-size brass T-fitting (no diverter) along with new gaskets. After reassembly, the system is leak-tested and drained to confirm a clear, fast-flowing drain, with a note that deeper clogs could involve pipes leading to the basement if symptoms persist.",
+  "topics": [
+    "double-bowl kitchen sink",
+    "garbage disposal location",
+    "sink strainer and tailpiece",
+    "drain path from disposer to trap",
+    "T-fitting with diverter",
+    "diverter-caused blockage",
+    "full-size brass tee fitting (no baffle)",
+    "gasket types (top gasket, flange tailpiece)",
+    "nut tightening with pliers",
+    "under-sink plumbing components",
+    "testing for leaks with water",
+    "stopper testing in left-hand bowl",
+    "possible basement drain cleaning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:25",
+      "title": "Diagnosis and choke-point inspection under the sink",
+      "concepts": [
+        "double-bowl sink",
+        "garbage disposal location",
+        "disposer discharge",
+        "tailpiece",
+        "trap",
+        "potential choke points (disposer, tailpiece, T-fitting)"
+      ],
+      "description": "The presenter identifies a double-bowl sink with a garbage disposal and explains that clogs may involve the disposer or the drain path. The team looks for choke points under the sink, focusing on the disposer discharge, the tailpiece, the T-fitting where the strainer meets the disposer, and the trap as key potential sites for blockage."
+    },
+    {
+      "start": "00:01:25",
+      "end": "00:02:12",
+      "title": "Diverter and T-fitting blockage revealed",
+      "concepts": [
+        "T-fitting",
+        "diverter inside the opening",
+        "restriction causing stoppage"
+      ],
+      "description": "The demonstrator isolates the T-fitting and shows a gunked-up top, explaining that a plastic diverter narrows the opening and creates a prime location for a blockage. This identifies the T-fitting/diverter as the blockage source in this setup."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:03:04",
+      "title": "Brass tee installation and gasket details",
+      "concepts": [
+        "full-size brass tee fitting",
+        "no baffle",
+        "top gasket",
+        "flange tailpiece",
+        "nuts and tightening"
+      ],
+      "description": "A full-size brass T-fitting without a diverter is installed as the replacement. The host demonstrates the new components: a gasketed tailpiece with a top gasket, a flange tailpiece, and the associated nuts, which are tightened to secure the connection. This section covers the material choices and the assembly sequence to resolve the choke point."
+    },
+    {
+      "start": "00:03:04",
+      "end": "00:03:29",
+      "title": "Leak test and drainage verification",
+      "concepts": [
+        "test with water",
+        "stopper in left-hand bowl",
+        "no drips",
+        "drainage is fast"
+      ],
+      "description": "After assembling, the connections are tested by filling and draining the left-hand bowl with the stopper in place. The demonstration confirms no leaks and a fast drainage rate, validating the repair."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Diagnosing drain clogs by tracing the path from disposer to trap and inspecting for choke points",
+      "timestamp": "00:00:00",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Identifying a diverter-induced restriction inside a T-fitting as the blockage",
+      "timestamp": "00:01:32",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Replacing a clogged T-fitting with a full-size brass tee (no diverter) and using appropriate gaskets",
+      "timestamp": "00:02:12",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Assembling gasketed connections (top gasket, flange tailpiece) and tightening with pliers",
+      "timestamp": "00:02:37",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Leak testing and functional verification using water fill, stopper, and drainage observation",
+      "timestamp": "00:03:21",
+      "confidence": 0.86
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:42:06.711200+00:00"
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 2,
+  "video": "qnLMwkbU1V0.youtube",
+  "title": "How to Replace a Clogged Shower Valve: Cartridge Removal, Orientation, and Testing (This Old House)",
+  "date": {
+    "display": "November 7, 2015",
+    "iso": "2015-11-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement shut-off (not behind the valve plate)",
+      "confidence": 0.7,
+      "basis": "Transcript notes that there are no shut-offs behind the plate and the water shut-off is in the basement"
+    }
+  ],
+  "summary": "This Old House walks through diagnosing and replacing a clogged shower valve cartridge in a residential bath. The host explains how a pressure-balancing cartridge manages hot and cold water to prevent scalding, identifies common clog sources (impurities and rust), and demonstrates removing the faceplate, locating and extracting the cartridge with its retainer clip, inspecting for debris, installing a new cartridge with proper orientation (H and C marks) and lubrication on O-rings, and finally testing the shower to confirm hot and cold operation. The video also notes that rust from the building’s water supply can contaminate the cartridge, and emphasizes exercising the piston every 2-3 months to avoid sticking. A brief discussion about shut-off valves behind the plate and the basement shut-off is included, highlighting maintenance considerations for multi-unit buildings.",
+  "topics": [
+    "Shower valve cartridge",
+    "Valve body anatomy (hot port, cold port, mixing cartridge)",
+    "Pressure balance piston",
+    "Retainer clip",
+    "Cartridge extraction",
+    "Cartridge inspection (dirt and rust)",
+    "New cartridge installation",
+    "O-ring lubrication with waterproof grease",
+    "Cartridge orientation marks (H and C)",
+    "Shut-off valves behind valve plate",
+    "Basement water shut-off",
+    "Draining and water containment during service",
+    "Rust and sediment from steel-tank water supply",
+    "Exercise/maintenance of the pressure balance piston",
+    "Post-replacement testing (hot vs cold, pressure)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:01:07",
+      "title": "Valve anatomy and function",
+      "concepts": [
+        "Valve body layout",
+        "Hot and cold water ports",
+        "Mixing cartridge",
+        "Pressure balance feature"
+      ],
+      "description": "Explanation of the shower valve's internal layout: hot water on one side, cold on the other, a cartridge that mixes water, and a pressure-balancing piston that adjusts for pressure changes to prevent scalding."
+    },
+    {
+      "start": "00:01:07",
+      "end": "00:01:32",
+      "title": "Preparation and plate access",
+      "concepts": [
+        "Shut-off location discussion",
+        "Plate removal",
+        "Drain protection during service"
+      ],
+      "description": "The host notes the need to shut off water, explains that shut-offs behind the plate may not exist, and prepares by removing the plate while protecting the drain to prevent screws from escaping."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:03:16",
+      "title": "Cartridge removal, inspection, and replacement",
+      "concepts": [
+        "Retainer clip removal",
+        "Cartridge extraction",
+        "Identifying hot/cold ports and internal passages",
+        "Inspecting for dirt, rust, and debris",
+        "Lubricating O-rings with waterproof grease",
+        "Cartridge orientation (H and C marks)"
+      ],
+      "description": "The retainer clip is pulled, the cartridge is extracted, and the interior ports and pressure-balancing piston are inspected for impurities. A new cartridge is installed, with waterproof grease applied to O-rings and orientation verified by H and C marks."
+    },
+    {
+      "start": "00:03:27",
+      "end": "00:04:21",
+      "title": "Reassembly, testing, and result",
+      "concepts": [
+        "Retainer clip installation",
+        "Water flow restoration",
+        "Hot and cold verification",
+        "System performance after replacement"
+      ],
+      "description": "The installer reseats the retainer clip, restores the water supply, and tests the shower to confirm both hot and cold water flow. The test demonstrates a successful valve repair and discusses the probable cause (piston clog from impurities) and the importance of exercising the piston periodically."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:04:21",
+      "title": "Maintenance insights and diagnosis",
+      "concepts": [
+        "Piston clog and impurities",
+        "Rust in the cartridge",
+        "Recommended maintenance interval"
+      ],
+      "description": "Explanation that impurities and rust can clog the pressure-balancing piston/cartridge, with a note that the piston can seize if not exercised every 2-3 months, along with a link to rust mechanisms from steel-tank water supplies."
+    },
+    {
+      "start": "00:04:31",
+      "end": "00:04:46",
+      "title": "Shut-off considerations for service",
+      "concepts": [
+        "Behind-plate shut-off absence",
+        "Importance of accessible shut-offs in multi-unit buildings"
+      ],
+      "description": "A brief discussion on the lack of shut-off valves behind the plate and the importance of having accessible shut-offs (especially in apartment buildings) for future service."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify and diagnose a clogged pressure-balancing cartridge by inspecting the internal cartridge for impurities and rust.",
+      "timestamp": "00:04:07",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Replace a shower valve cartridge with orientation marks (H and C) and lubricate O-rings with waterproof grease before reinstalling.",
+      "timestamp": "00:02:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Test the rebuilt valve by validating hot and cold water flow after reassembly to confirm proper operation.",
+      "timestamp": "00:03:44",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Use a retainer clip and careful shielding to prevent water or debris from entering the wall during cartridge removal.",
+      "timestamp": "00:02:01",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Explain and demonstrate the role of the pressure-balancing piston in preventing scalding during pressure fluctuations (e.g., toilet flush).",
+      "timestamp": "00:00:59",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:48:29.240132+00:00"
+}

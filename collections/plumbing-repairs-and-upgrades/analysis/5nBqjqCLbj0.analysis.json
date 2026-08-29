@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "video": "5nBqjqCLbj0.youtube",
+  "title": "Sump Pump Installation: Basin Prep, Filtration, and Exterior Discharge Piping (This Old House)",
+  "date": {
+    "display": "November 6, 2012",
+    "iso": "2012-11-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "concrete floor (indoor utility area)",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly shows digging a hole in the concrete floor to install the sump basin; no explicit shooting location is given beyond indoor-utility context."
+    }
+  ],
+  "summary": "The video demonstrates a practical, step-by-step installation of a submersible sump pump in an indoor concrete floor setting. It covers brief pump operation with a float switch, creating a flush sump basin in a concrete floor, and preparing the basin with filtration to keep sediment out. A stone bed and a manufacturer-recommended top paver are used to level and protect the basin and impeller. The discharge is routed through a check valve and PVC piping with a 45-degree elbow up the foundation, then extended to grade outside to slope away from the structure. The presenter tests the pump and explains how the float trigger responds to rising water, with a note on perimeter-drain behavior that activates the pump as the water table changes.",
+  "topics": [
+    "Submersible sump pump basics",
+    "Float switch operation and automatic pump activation",
+    "Powering the sump pump (plug into wall outlet)",
+    "Sump basin placement in concrete floor (flush with floor)",
+    "Use of filter fabric under sump basin",
+    "Stone bed under basin for drainage and leveling",
+    "Paver on top of stone to protect impeller and provide flat seating",
+    "Verifying float activation and pump startup",
+    "Check valve in discharge line to prevent backflow",
+    "45-degree elbows in discharge piping",
+    "Vertical discharge routing up the foundation",
+    "PVC piping from wall to exterior",
+    "Grading and slope to exterior to prevent water re-entry",
+    "Gluing PVC joints for watertight connections",
+    "Final pump test and verification",
+    "Perimeter drain context and pump activation with rising water table"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:45",
+      "title": "Sump Pump Overview, Float Switch, and Basin Prep",
+      "concepts": [
+        "Submersible sump pump",
+        "Float switch operation and automatic activation",
+        "Basin placement and initial setup in concrete floor"
+      ],
+      "description": "Introduction to the sump pump and how the float switch triggers the pump as water rises; explanation of placing the sump basin in a hole in the concrete floor to sit flush with the surface."
+    },
+    {
+      "start": "00:01:48",
+      "end": "00:02:32",
+      "title": "Basin Installation, Filtration, and Foundation Piping Layout",
+      "concepts": [
+        "Filter fabric under the basin to prevent sediment entry",
+        "Stone bed under basin for leveling and drainage",
+        "Top paving stone to protect the impeller",
+        "Pump startup verification after seating"
+      ],
+      "description": "Placement of filter fabric beneath the basin, pressing the basin into the hole, and adding a paving stone on top to meet manufacturer guidance and protect the impeller; verification that the float switch activates."
+    },
+    {
+      "start": "02:32",
+      "end": "02:48",
+      "title": "Testing and Final Checks",
+      "concepts": [
+        "Testing pump operation",
+        "Perimeter drain context and water-table-driven activation"
+      ],
+      "description": "Final test of the pump after assembly and a brief explanation of how the pump should activate when the perimeter drain fills or the water table rises, indicating a functional system."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explain submersible sump pump operation using a float switch",
+      "timestamp": "00:00:08.720",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Prepare and seat sump basin flush with concrete floor",
+      "timestamp": "00:00:53.039",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Install filter fabric under basin to prevent sediment entry",
+      "timestamp": "00:00:59.760",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Use stone bed and top with a paver as recommended by manufacturer",
+      "timestamp": "00:01:25.840",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Test float activation to confirm pump will start",
+      "timestamp": "00:01:45.680",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Install a check valve in the discharge line to prevent backflow",
+      "timestamp": "00:01:54.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Route discharge with 45-degree elbow(s) and vertical rise up the foundation",
+      "timestamp": "00:02:00.719",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Grading the exterior discharge to slope away from the foundation",
+      "timestamp": "00:02:12.080",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gluing PVC joints for watertight discharge piping",
+      "timestamp": "00:02:20.560",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Final pump test and operation check",
+      "timestamp": "00:02:32.720",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Explain perimeter-drain context and auto-activation on rising water table",
+      "timestamp": "00:02:36.080",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:42:59.715308+00:00"
+}

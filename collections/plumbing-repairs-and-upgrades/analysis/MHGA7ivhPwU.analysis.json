@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "video": "MHGA7ivhPwU.youtube",
+  "title": "Replacing a Vessel Sink with a Self-Rimming Sink on a Granite Countertop",
+  "date": {
+    "display": "November 8, 2015",
+    "iso": "2015-11-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under vanity",
+      "confidence": 0.85,
+      "basis": "Transcript begins with 'under the vanity' describing hot/cold supply and shutoffs."
+    },
+    {
+      "name": "Granite countertop (vanity surface)",
+      "confidence": 0.7,
+      "basis": "Discussion of a granite countertop being cut for a new sink; references to gasket seating on granite and cutting the opening with a grinder indicate the surface is the granite countertop."
+    },
+    {
+      "name": "Granite shop or outdoor workspace (probable)",
+      "confidence": 0.45,
+      "basis": "The granite company is said to remove the countertop to outside for cutting; location is not explicit, inferred as an off-site shop/workspace."
+    }
+  ],
+  "summary": "This Old House demonstrates a bathroom vanity sink replacement, highlighting the choice of a self-rimming vessel sink on a granite countertop, the disconnection of existing water and drain lines, removal of the old sink, collaboration with a granite fabricator to cut the new opening, and the assembly and installation of the new faucet and drain components. The host contrasts self-rimming installation with an under-counter option, details faucet parts (including stems, escutcheon, and a magnetically retained handle), shows top-fed spout setup, and finishes with dry-fitting, sealing, and a final water test, followed by cosmetic touch-up to conceal the installation.",
+  "topics": [
+    "hot water supply shut-off",
+    "cold water supply shut-off",
+    "compression nuts",
+    "drain/disposal line disconnect",
+    "sink removal with putty knife",
+    "copper/plumbing stub-out",
+    "self-rimming sink vs under-counter sink",
+    "granite countertop preparation",
+    "granite cutting with diamond blade",
+    "granite fabricator coordination",
+    "faucet stems and shanks",
+    "faucet escutcheon and gasket",
+    "spout installation (top-fed)",
+    "magnetic faucet handle retention",
+    "pop-up drain assembly",
+    "dry-fitting sink before final installation",
+    "interior caulking (caulking/cock)",
+    "drain alignment modification",
+    "water test after install",
+    "final cosmetic finish around sink"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:04",
+      "title": "Disconnect and remove old sink from countertop",
+      "concepts": [
+        "shut-off valves",
+        "disconnecting supply lines",
+        "drain line disconnect",
+        "compressi on nuts",
+        "breaking sink seal with putty knife"
+      ],
+      "description": "The presenter identifies hot and cold supply lines, demonstrates shutting off valves, disconnects the drain line by loosening compression nuts, and then uses a putty knife to carefully break the seal holding the sink to the granite countertop before removing the old sink."
+    },
+    {
+      "start": "00:03:04",
+      "end": "00:06:23",
+      "title": "Self-rimming sink choice and granite opening prep",
+      "concepts": [
+        "self-rimming sink vs under-counter sink",
+        "sink mounting on top of countertop",
+        "granite countertop opening preparation",
+        "granite removal and transport to cutting location"
+      ],
+      "description": "The video explains the self-rimming sink that seals on top of the granite, discusses possible under-counter mounting, and shows the plan to have granite professionals cut the opening by marking the perimeter and using a grinder with a diamond blade after removing the countertop to a workshop or outside area."
+    },
+    {
+      "start": "00:06:23",
+      "end": "00:07:36",
+      "title": "Dry-fit, drain alignment, and finish",
+      "concepts": [
+        "drain/dump assembly (popup) installation",
+        "drain alignment with new center",
+        "dry-fitting with cocking around interior",
+        "final water test and cosmetic finish"
+      ],
+      "description": "Dry-fitting the new sink components on the countertop, applying interior cocking, dropping the sink into place, adjusting the drain to align with the new sink center, turning water back on, testing hot and cold, and noting final finish steps to conceal the installation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Shut off hot and cold water, then disconnect supply lines from under-sink shutoffs",
+      "timestamp": "00:00:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Disconnect sink drain line by loosening compression nuts",
+      "timestamp": "00:00:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Break seal of sink from granite countertop with a putty knife to remove sink",
+      "timestamp": "00:01:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Explain and implement self-rimming sink installation on top of granite",
+      "timestamp": "00:01:34",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Granite opening is cut by fabricator using grinder with diamond blade after removal to outside",
+      "timestamp": "00:02:12",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Assemble faucet components: stems, gaskets, escutcheon, and spout; implement top-fed spout",
+      "timestamp": "00:04:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Use magnet to hold faucet handle in place",
+      "timestamp": "00:05:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dry-fit sink and apply interior cocking; then set the sink into place",
+      "timestamp": "00:06:34",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Modify drain connections to fit the new sink center; test system",
+      "timestamp": "00:07:12",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:31:11.378058+00:00"
+}

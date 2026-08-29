@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "video": "_Hz-BAFh3rI.youtube",
+  "title": "Gas Pipe Sizing, Assembly, and Leak Testing (Ask This Old House)",
+  "date": {
+    "display": "January 21, 2019",
+    "iso": "2019-01-21",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House’s instructional segment explains residential gas piping fundamentals: how to size a gas supply based on appliance load, how the piping layout (a “tree”) is planned from the main to each appliance, and what materials and fittings are used. It covers the move from main supply to branch connections, the use of steel pipe and pre-cut lengths, nipples, tees and couplings, proper threading and sealing, and the two-wrench method for assembly. A strong emphasis is placed on safety through pre-energization testing with a manometer and a soap-solution leak check, underscoring that gas work should be performed by licensed professionals and checked for leaks before the system is put into service.",
+  "topics": [
+    "gas piping sizing",
+    "appliance load calculation",
+    "gas code sizing",
+    "main supply to branches",
+    "steel pipe and threading",
+    "pre-cut pipe lengths",
+    "nipples and fittings",
+    "tees and reducers",
+    "threading and coupling",
+    "pipe dope/sealant",
+    "two-wrench tightening",
+    "start-at-source threading",
+    "gas shutoff valves",
+    "manometer pressure testing",
+    "leak testing with soap solution",
+    "emergency safety in gas work",
+    "licensed gas professionals",
+    "gas system commissioning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:25",
+      "title": "Gas sizing fundamentals and layout planning",
+      "concepts": [
+        "gas main from street",
+        "appliance load (furnace, water heater, dryer)",
+        "sizing the pipe",
+        "branching layout (tree)",
+        "importance of layout for combustion and performance"
+      ],
+      "description": "Introduces the need to size gas piping and plan a layout that can supply all appliances. Highlights that furnace load drives larger gas demand than other appliances and that proper sizing prevents incomplete combustion and poor performance."
+    },
+    {
+      "start": "00:01:25",
+      "end": "00:02:56",
+      "title": "Materials, pipe lengths, and fittings",
+      "concepts": [
+        "steel pipe",
+        "threaded steel pipe",
+        "pre-cut lengths (8 ft, 6 ft, 5 ft, down to 18 in)",
+        "nipples (6 in to 1.5 in; 12 in to 6 in)",
+        "tees and reducing fittings"
+      ],
+      "description": "Describes the types of pipe and available lengths, how fittings are used to branch gas lines, and how nipple lengths are chosen to fit spaces and connections between components."
+    },
+    {
+      "start": "00:02:56",
+      "end": "00:03:23",
+      "title": "Threaded connections, measurements, and assembly basics",
+      "concepts": [
+        "shutoff valve on each branch",
+        "measuring for thread depth",
+        "couplings",
+        "two-and-a-half inch example",
+        "thread allowances"
+      ],
+      "description": "Covers planning for threaded connections, estimating thread engagement with couplings, and the use of shutoffs to isolate appliances while assembling the run."
+    },
+    {
+      "start": "00:03:23",
+      "end": "00:04:07",
+      "title": "Sealing, tightening, and leak testing",
+      "concepts": [
+        "pipe dope/sealant",
+        "two-wrench method",
+        "start-at-source threading (righty-tighty)",
+        "testing with a manometer",
+        "soap solution leak check"
+      ],
+      "description": "Details the final assembly steps, including sealing with pipe dope, tightening with two wrenches while threading outward from the source, and safety-focused testing with a manometer and soap solution to verify leaks before energizing the gas system."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gas pipe sizing based on appliance load",
+      "timestamp": "00:00:20",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Use of pre-cut steel pipe lengths and nipples",
+      "timestamp": "00:01:33",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Threaded connections with couplings and tees",
+      "timestamp": "00:02:39",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Sealing with pipe dope and tightening with two wrenches",
+      "timestamp": "00:03:01",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Starting threading from the source outward (righty tighty)",
+      "timestamp": "00:03:07",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Gas system pressure testing using a manometer",
+      "timestamp": "00:03:27",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Leak testing with soap solution",
+      "timestamp": "00:03:45",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Emphasizing licensing and safety for gas work",
+      "timestamp": "00:00:08",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:49:00.380274+00:00"
+}

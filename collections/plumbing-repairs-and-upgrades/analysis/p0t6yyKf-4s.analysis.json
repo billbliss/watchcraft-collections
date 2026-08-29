@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "video": "p0t6yyKf-4s.youtube",
+  "title": "How to Install a Whole-House Water Softener | Ask This Old House (Video Analysis)",
+  "date": {
+    "display": "January 28, 2016",
+    "iso": "2016-01-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Probable: New Jersey basement installation site (Pam's home)",
+      "confidence": 0.6,
+      "basis": "Transcript includes explicit references to traveling to New Jersey and performing work in the basement, suggesting the install occurs in a home basement there; filming location not definitively identified."
+    }
+  ],
+  "summary": "The video demonstrates diagnosing hard water, testing its mineral content, and installing a whole-house water softener with an ion-exchange resin system. It explains how resin beads remove magnesium and calcium, how brine regeneration recharges the resin, and how to plumb the unit into the cold-water supply with a drain/air-gap, bypass, and valves. The host also covers layout considerations, connections (3/8 tubing and compression fittings), maintenance (salt checks and annual refills), and the anticipated benefits—cleaner dishes and clothes, and removal of staining—while noting the system’s metered regeneration feature and safety of softened water.",
+  "topics": [
+    "hard water",
+    "water hardness grains",
+    "magnesium and calcium minerals",
+    "ion-exchange resin beads",
+    "brine regeneration",
+    "salt/brine tank",
+    "control head",
+    "bypass valve",
+    "inlet plumbing",
+    "copper pipe soldering",
+    "3/8 inch tubing",
+    "compression fittings",
+    "air-gap drain",
+    "drain elbow",
+    "hose clamps",
+    "water meter integration",
+    "maintenance (salt level)",
+    "meter-controlled regeneration",
+    "expected improvements (cleaner dishes/clothes, less staining)",
+    "not dangerous to drink after softening"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:01",
+      "title": "Diagnosis: Hard Water Symptoms",
+      "concepts": [
+        "hard water",
+        "water staining",
+        "magnesium",
+        "calcium",
+        "grain hardness",
+        "cosmetic water quality"
+      ],
+      "description": "Richard identifies hard water as the problem, describing mineral staining and deposits, and notes that drinking the water isn’t dangerous. Patrick confirms hardness with a water reading (17 grains), establishing the need for pretreatment through a softener."
+    },
+    {
+      "start": "00:01:01",
+      "end": "00:02:07",
+      "title": "How a Water Softener Works (Resin Beads and Brine)",
+      "concepts": [
+        "resin tank",
+        "ion-exchange resin beads",
+        "calcium/magnesium removal",
+        "brine regeneration",
+        "salt/brine tank",
+        "control head"
+      ],
+      "description": "Patrick describes the softener’s two main components (resin tank and salt/brine tank) and how resin beads trap hardness minerals (magnesium/calcium) from the water, acting like a magnetic sponge, with regeneration via brine that recharges the resin."
+    },
+    {
+      "start": "00:02:07",
+      "end": "00:03:01",
+      "title": "System Layout and Bypass Planning",
+      "concepts": [
+        "inlet supply",
+        "bypass valve",
+        "water flow path",
+        "valve arrangement",
+        "cold water inlet",
+        "house distribution"
+      ],
+      "description": "The team maps how the cold-water supply enters the house, where the softener should be placed, and how the bypass keeps the unit serviceable: water routes through the softener when bypass is closed, and a bypass path allows taking the unit offline for maintenance."
+    },
+    {
+      "start": "00:03:31",
+      "end": "00:04:13",
+      "title": "Connections: Tubing, Drain, and Air Gap",
+      "concepts": [
+        "3/8 inch tubing",
+        "compression fittings",
+        "drain line",
+        "air gap",
+        "sewer connection",
+        "hose clamp"
+      ],
+      "description": "The video shows making connections: 3/8\" plastic tubing with compression fittings to the softener and brine tank, routing a drain line to the sewer, and using an air-gap to prevent potable water contact with sewage."
+    },
+    {
+      "start": "00:04:17",
+      "end": "00:05:12",
+      "title": "Operation, Placement, and Maintenance Considerations",
+      "concepts": [
+        "meter-controlled regeneration",
+        "salt level maintenance",
+        "monthly checks",
+        "twice-yearly salt refill",
+        "unit placement relative to floor and water meter",
+        "expected results (cleaner dishes/clothes, no stains)"
+      ],
+      "description": "The host highlights the smart feature: a built-in water meter that triggers regeneration only when water is used, explains salt-top maintenance (check salt monthly, refill ~twice a year), and notes the final benefits of softened water for laundry, dishes, and reducing stains."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Ion-exchange resin beads attract calcium and magnesium from water (hardness removal)",
+      "timestamp": "00:01:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Brine regeneration recharges resin by passing salt solution through it",
+      "timestamp": "00:01:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Air-gap drain connection to prevent contamination between potable water and sewage",
+      "timestamp": "00:03:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Meter-based regeneration control inside the softener",
+      "timestamp": "00:04:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Bypass valve configuration allows service without shutting off main supply",
+      "timestamp": "00:02:52",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Soldering copper pipe and installing 3/8 inch tubing with compression fittings",
+      "timestamp": "00:03:01",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:44:17.347499+00:00"
+}

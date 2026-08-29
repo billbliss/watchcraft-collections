@@ -1,0 +1,122 @@
+{
+  "schema_version": 2,
+  "video": "HGknuTxiXPA.youtube",
+  "title": "Installing a Radiant Floor Heat System in a Garage (This Old House)",
+  "date": {
+    "display": "March 13, 2020",
+    "iso": "2020-03-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Garage",
+      "confidence": 0.65,
+      "basis": "Explicitly referenced as the space being heated and the pour location in transcript"
+    }
+  ],
+  "summary": "This This Old House segment documents choosing and installing a radiant floor heating system in a concrete garage slab. After evaluating heating options (gas boiler, electric baseboards, or radiant heat), the team selects a radiant system embedded in the slab to minimize heat loss and heat the space efficiently. The installation uses a pre-fabricated 2x4-foot panel that combines insulation, vapor barrier, and tubing-holding channels. PEX tubing is laid on a 12-inch-on-center grid, starting near the manifold and staggering seams. Tubing entry into the slab is protected by bends, and the slab is reinforced with wire mesh before a four-inch concrete pour. The crew, including local vocational students, completes the pour and finishes the slab, resulting in a heated garage floor.",
+  "topics": [
+    "Radiant floor heating",
+    "Garage heating options",
+    "PEX tubing",
+    "2x4 ft insulated/vapor barrier panel",
+    "Tubing grid and 12 inch on-center spacing",
+    "Corner start near manifold",
+    "Seam staggering",
+    "Tubing protection into slab",
+    "Manifold connections",
+    "Wire mesh reinforcement",
+    "Concrete pour depth (~4 inches)",
+    "Concrete finishing",
+    "Vapor barrier and insulation",
+    "Vocational training involvement",
+    "Panel-based radiant floor system"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:22",
+      "title": "Option evaluation and radiant-floor choice",
+      "concepts": [
+        "Garage heating options",
+        "Radiant floor heating rationale",
+        "Insulation to minimize heat loss",
+        "Underfoot heating considerations"
+      ],
+      "description": "The presenters discuss multiple heating options for the garage (an in-corner blower, a boiler with hot water, gas, electric baseboard, etc.) and explain why radiant floor heat in a concrete slab is a good candidate: it heats the space efficiently and keeps heat inside the building, with attention to insulation and underfoot warmth."
+    },
+    {
+      "start": "00:01:20",
+      "end": "00:02:59",
+      "title": "Panel-based installation of radiant tubing",
+      "concepts": [
+        "Prefabricated insulation/vapor barrier/tube-holding panel",
+        "PEX tubing characteristics",
+        "12 in on-center spacing",
+        "Starting in the corner near the manifold",
+        "Seam staggering to avoid lined seams",
+        "Tubing protection entering the slab"
+      ],
+      "description": "A pre-fabricated 2x4-foot panel that combines insulation, vapor barrier, and tubing-holding channels is used. PEX tubing is laid on a grid with 12-inch on-center spacing, starting in the corner near the manifold, with seams staggered so they do not align. The system is designed for easy assembly and reliable tube placement."
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:03:29",
+      "title": "Pour and finish of the concrete slab",
+      "concepts": [
+        "Tubing protection at entry into slab",
+        "Manifold connections",
+        "Wire mesh reinforcement",
+        "Concrete pour depth and finishing"
+      ],
+      "description": "The team notes the routing of tubing into the slab with protective bends, connects to the manifold, and proceeds to pour the concrete to create the heated slab. A wire mesh layer is added for slab strength, and the crew finishes the surface."
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:03:46",
+      "title": "Wrap-up and context",
+      "concepts": [
+        "Video series context",
+        "Audience engagement"
+      ],
+      "description": "Closing remarks point viewers to other This Old House videos and encourage subscribing for more home improvement content."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "2x4 ft pre-fabricated panel for insulation, vapor barrier, and tube-holding",
+      "timestamp": "00:01:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "12 inches on-center PEX tubing spacing on a grid",
+      "timestamp": "00:02:39",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Protective bends and entry into slab",
+      "timestamp": "00:02:54",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Wire mesh reinforcement over radiant tubing",
+      "timestamp": "00:03:14",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Concrete pour depth (~4 inches) over radiant system",
+      "timestamp": "00:03:18",
+      "confidence": 0.85
+    },
+    {
+      "technique": "PEX tubing properties: flexible, non-brittle, low kink",
+      "timestamp": "00:02:05",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:14:46.511737+00:00"
+}

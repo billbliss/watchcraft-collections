@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "video": "Gw7BSrWH1Ck.youtube",
+  "title": "How to Rebuild a Hose Spigot: Compression Valve Repair and Seat Refurbishment",
+  "date": {
+    "display": "March 18, 2018",
+    "iso": "2018-03-18",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Outside garden faucet (hose spigot)",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly identifies the outside faucet as the repair subject."
+    },
+    {
+      "name": "Basement shut-off valve (ceiling location)",
+      "confidence": 0.65,
+      "basis": "Transcript notes the basement is finished and that the shut-off is in the ceiling; not the shooting location but relevant to the repair context."
+    }
+  ],
+  "summary": "This This Old House segment guides a homeowner through diagnosing and rebuilding a 30-year-old outside hose spigot. The host explains valve anatomy and common shut-off types (gate, ball, and compression), identifies the likely leak source ( washer, seat, or packing), and demonstrates a practical repair workflow: disassembling a compression valve, replacing the worn washer and corroded screws, rebuilding the bonnet with teflon packing, and resurfacing the valve seat with a specialized tool. The video emphasizes careful reassembly, testing for leaks, and recognizing when the seat requires refurbishment rather than complete replacement. The final result is a restored valve that seals properly without a leak.",
+  "topics": [
+    "Outside garden faucet",
+    "hose spigot",
+    "leak diagnosis",
+    "basement shut-off location",
+    "gate valve",
+    "ball valve",
+    "compression valve",
+    "washer",
+    "seat",
+    "bonnet",
+    "bonnet gasket",
+    "stem",
+    "packing",
+    "teflon packing",
+    "packing nut",
+    "Monel screws",
+    "valve screw removal",
+    "valve seat wear",
+    "valve seat reconditioning tool",
+    "valve reassembly",
+    "water shut-off",
+    "leak testing",
+    "grinder wheel (seat resurfacing tool)",
+    "valve seating tool",
+    "grinder reface",
+    "capillary packing wrap",
+    "two-wrench bonnet rebuild",
+    "preventive hardware rust"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:04",
+      "title": "Problem setup and context",
+      "concepts": [
+        "outdoor faucet",
+        "leak diagnosis",
+        "age of fixture",
+        "basement shut-off location"
+      ],
+      "description": "Homeowner identifies leaking outdoor faucet and notes fixture age (~30 years) and basement shut-off location. Sets goal to attempt repair before replacing fixture."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:02:39",
+      "title": "Valve types and anatomy overview",
+      "concepts": [
+        "gate valve",
+        "ball valve",
+        "compression valve",
+        "bonnet",
+        "seat",
+        "washer"
+      ],
+      "description": "Host explains three common shut-off valve types, showing internal components and how a washer and seat seal water. Illustrates how stem travel and packing affect leakage."
+    },
+    {
+      "start": "00:02:46",
+      "end": "00:04:42",
+      "title": "Disassembly and initial repair on compression valve",
+      "concepts": [
+        "remove bonnet",
+        "washer condition",
+        "screw removal",
+        "Monel screws"
+      ],
+      "description": "Valve is disassembled; the old washer is found to be scored, the screw is stubborn after 30 years, and corrosion considerations (Monel screws) are noted."
+    },
+    {
+      "start": "00:04:44",
+      "end": "00:06:18",
+      "title": "Bonnet packing and initial reassembly",
+      "concepts": [
+        "teflon packing",
+        "packing around stem",
+        "top nut",
+        "reassembly",
+        "compression of packing against stem"
+      ],
+      "description": "Host replaces washer with a compatible size, sources Monel hardware, and rebuilds the bonnet, packing the stem with teflon packing for a seal."
+    },
+    {
+      "start": "00:06:45",
+      "end": "00:07:13",
+      "title": "Seat resurfacing plan and tool preparation",
+      "concepts": [
+        "seat wear",
+        "score marks",
+        "valve seating tool",
+        "grinder wheel"
+      ],
+      "description": "Observation of a possible score on the seat prompts resurfacing. A valve seating tool with a grinder wheel is prepared to renew the seat finish."
+    },
+    {
+      "start": "00:07:13",
+      "end": "00:08:04",
+      "title": "Reassembly and leak testing",
+      "concepts": [
+        "reassembly",
+        "test for leaks",
+        "final inspection",
+        "brand-new valve performance"
+      ],
+      "description": "The seat is reconditioned, the bonnet is reassembled, water is turned back on, and a leak test is performed to confirm a properly sealed valve."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify and compare valve types (gate, ball, compression) and explain core components (bonnet, washer, seat).",
+      "timestamp": "00:01:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Disassemble a compression valve and extract the worn washer; inspect screw condition.",
+      "timestamp": "00:02:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Select replacement washer and orient it correctly against the seat.",
+      "timestamp": "00:03:18",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Document and preserve corrosion-resistant fasteners (Monel screws) for long-term reliability.",
+      "timestamp": "00:04:18",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rebuild bonnet using teflon packing around the stem and compress it with the bonnet nut to seal.",
+      "timestamp": "00:05:21",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Recondition the valve seat with a dedicated seat resurfacing tool (grinder wheel) to restore a true sealing surface.",
+      "timestamp": "00:06:45",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Reassemble, restore water supply, and perform a leak test to verify a functioning valve.",
+      "timestamp": "00:07:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Diagnose leak source (washer vs seat) through observation of leakage location and reseating strategy.",
+      "timestamp": "00:02:21",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:10:27.565919+00:00"
+}

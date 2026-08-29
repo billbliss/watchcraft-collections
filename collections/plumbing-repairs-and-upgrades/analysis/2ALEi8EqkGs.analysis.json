@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "video": "2ALEi8EqkGs.youtube",
+  "title": "Replacing Polybutylene Piping with CPVC in a Raleigh Home",
+  "date": {
+    "display": "December 27, 2018",
+    "iso": "2018-12-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Raleigh, North Carolina (crawl space context)",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly states Raleigh, NC and notes crawl spaces in the area."
+    }
+  ],
+  "summary": "This Old House’s Ask This Old House episode documents a PB (polybutylene) piping replacement in a Raleigh, NC home. The segment outlines the historical prevalence of polybutylene in the 1970s, the leaks observed in PB and acetal fittings, and the decision to replace the entire PB network with CPVC hot- and cold-water lines. The crew removes the old piping through wall openings, reroutes new CPVC from the crawl space, and ties into fixtures (notably a second-floor shower valve) using brass-to-CPVC adapters and threaded/female adapters. The project requires extensive wall and ceiling access, drywall repair by a skilled tradesperson, and a final water test. The host commentary frames the replacement as both technically necessary and time-consuming, emphasizing that labor and wall restoration are major cost components alongside materials. The episode also places the work in a regional context, noting that tens of thousands of Raleigh-area homes were affected by PB piping. ",
+  "topics": [
+    "polybutylene piping (PB)",
+    "PB prevalence in 1970s-1980s",
+    "PB pipe leaks and acetal fittings",
+    "replacement strategy: full PB removal",
+    "CPVC as hot- and cold-water distribution",
+    "glue fittings vs crimp fittings for CPVC",
+    "cutting PB pipe with knife-type cutters",
+    "wall and ceiling access for pipe replacement",
+    "neat drywall openings and patching (Lawrence)",
+    "new hot and cold risers from crawl space",
+    "TE fittings and branch distribution",
+    "shower valve tie-ins with brass adapters",
+    "female adapters and threaded adapters",
+    "CPVC glue technique and bead formation",
+    "water testing after installation",
+    "economic scope: PB replacement in Raleigh area"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:18:00",
+      "title": "PB Piping Overview and Regional Context",
+      "concepts": [
+        "polybutylene piping (PB) history",
+        "PB installed in ~10 million homes",
+        "geographic prevalence (Mid-Atlantic, Southwest, Pacific Northwest)"
+      ],
+      "description": "Introduction to polybutylene piping, its historical popularity, and the regional concentration of installations, followed by early-80s problems and industry-wide replacement."
+    },
+    {
+      "start": "00:18:00",
+      "end": "01:54:00",
+      "title": "Leak Evidence and Replacement Rationale",
+      "concepts": [
+        "leaks in PB network and acetal fittings",
+        "observed pipe splits and leaking fittings",
+        "decision to replace all PB piping rather than just fittings"
+      ],
+      "description": "The homeowners and plumber identify multiple leaks (including an acetal fitting) and conclude that both pipe and fittings are compromised, making a full replacement more sensible than partial repair."
+    },
+    {
+      "start": "01:54:00",
+      "end": "02:04:00",
+      "title": "Drywall Access and Patchwork Planning",
+      "concepts": [
+        "neat wall openings",
+        "drywall patching and restoration by Lawrence"
+      ],
+      "description": "Demonstrates controlled wall openings and notes the drywall restoration skill needed to conceal work after pipe removal and rerouting."
+    },
+    {
+      "start": "02:04:00",
+      "end": "04:56:00",
+      "title": "Risers, CPVC Install, and Access Routing",
+      "concepts": [
+        "CPVC introduction for hot and cold water",
+        "glue fittings versus crimp",
+        "routing new CPVC from crawl space to fixtures",
+        "TE fittings and branching toward upstairs bathroom"
+      ],
+      "description": "Shows the transition from PB to CPVC, including planned risers, glue-based connections, and routing from the crawl space up to upstairs fixtures."
+    },
+    {
+      "start": "05:00:00",
+      "end": "05:40:00",
+      "title": "Shower Valve Tie‑Ins and Brass-to-CPVC Adaptation",
+      "concepts": [
+        "tied-in shower valve",
+        "soldered brass-to-PB intersections",
+        "emery cloth cleaning and installation of a female adapter",
+        "final CPVC connection via threaded adapter"
+      ],
+      "description": "Details the process of tying CPVC into a brass shower valve, including removal of the old solder/crimp configuration and installation of adapters to enable CPVC glue joints."
+    },
+    {
+      "start": "05:56:00",
+      "end": "06:45:00",
+      "title": "System Test, Wrap-Up, and Outlook",
+      "concepts": [
+        "water sound confirming flow",
+        "progress checks and remaining crawl space work",
+        "wall ceilings and paint restoration",
+        "PB replacement demand in the Raleigh area"
+      ],
+      "description": "Concludes with a test run (water in the pipes), notes on remaining work (crawl space, ceilings, walls, painting), and a broader regional outlook on continued PB replacements."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Full PB replacement with CPVC using glue fittings (no crimp fittings)",
+      "timestamp": "02:16:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Opening walls through back side of the wall to access hidden PB lines with minimal wire disruption",
+      "timestamp": "02:45:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Cutting PB pipe with knife-type cutters to remove top sections and pull pipe from ceiling",
+      "timestamp": "03:12:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Drywall patching by a skilled tradesperson to restore concealed work after pipe removal",
+      "timestamp": "01:59:00",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Shower valve retrofit using female adapters and threaded CPVC connections to join CPVC to brass fittings",
+      "timestamp": "05:27:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Routing hot and cold CPVC risers from crawl space with TE fittings to multiple fixtures",
+      "timestamp": "04:04:00",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:37:17.057257+00:00"
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": 2,
+  "video": "l7FWGTeYGXE.youtube",
+  "title": "Drinking Water from Thin Air: Solar-Dew Point Water Harvesting (Ask This Old House, Future House)",
+  "date": {
+    "display": "December 31, 2017",
+    "iso": "2017-12-31",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Phoenix, Arizona, USA (probable demonstration site)",
+      "confidence": 0.75,
+      "basis": "Transcript situates the activity in Phoenix (Sonoran Desert in Phoenix) and references a Phoenix-based company."
+    }
+  ],
+  "summary": "This Old House’s Future House episode documents a Phoenix-based off-grid system that extracts drinking water from humid air using solar energy. The presenters explain dew-point concepts, the integration of a sponge-like material inside a dedicated panel, and how a combined solar photovoltaic and solar thermal setup raises the air’s dew point to condense water. The installation hub distributes water from an 8.5 gallon reservoir through a three-eighths inch line to the house (including a refrigerator), powered entirely by solar energy with a microprocessor-controlled system. A mineral block is added to improve taste, and the video discusses practical applications, approximate cost (a few thousand dollars), and yield (a few gallons per day), highlighting scenarios—from arid locales to developing regions—where self-contained, infrastructure-free water could be transformative. The segment culminates with notes on deployment in six countries and the potential for broader adoption as technology matures.",
+  "topics": [
+    "Dew point",
+    "Condensation from air moisture",
+    "Dew-point elevation material (sponge-like)",
+    "Solar photovoltaic (PV) power",
+    "Solar thermal heating for air,",
+    "Microprocessor-controlled optimization",
+    "On-roof mounting and redwood framing",
+    "Hub-and-spoke water system",
+    "8.5 gallon reservoir with integrated pump",
+    "3/8 inch water line to house/fridge",
+    "Water mineral block for taste",
+    "Off-grid water generation (no utility power)",
+    "Cost and water yield estimates",
+    "Applications in arid regions and developing countries",
+    "Deployment in multiple countries"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:35:00",
+      "title": "Context and Concept",
+      "concepts": [
+        "dew point",
+        "air moisture as water source",
+        "desert environment",
+        "self-contained water solution"
+      ],
+      "description": "Introduction to harvesting water from air in a hot, dry desert and the idea of turning moisture into drinking water; mentions a Phoenix-based company."
+    },
+    {
+      "start": "00:35:00",
+      "end": "01:40:00",
+      "title": "Panel Technology and Materials",
+      "concepts": [
+        "dew point elevation",
+        "sponge-like material",
+        "microprocessor control",
+        "no grid power"
+      ],
+      "description": "Explanation of how panels raise the dew point using a special material and a microprocessor to optimize condensation; no external electricity required."
+    },
+    {
+      "start": "01:40:00",
+      "end": "03:00:00",
+      "title": "System Layout and Installation",
+      "concepts": [
+        "solar PV panel",
+        "solar thermal panel",
+        "flat roof exposure",
+        "mounting base plate",
+        "redwood framing"
+      ],
+      "description": "On-roof installation with PV and thermal panels, mounting procedure, and components inside the panel."
+    },
+    {
+      "start": "03:00:00",
+      "end": "04:10:00",
+      "title": "Water Collection and Distribution",
+      "concepts": [
+        "dew-point-boosted condensation",
+        "hub and spokes",
+        "8.5 gallon reservoir",
+        "integrated pump",
+        "3/8 inch supply line",
+        "to fridge tap"
+      ],
+      "description": "How water is produced, stored, and distributed to the house and refrigerator."
+    },
+    {
+      "start": "04:10:00",
+      "end": "04:40:00",
+      "title": "Taste and Mineralization",
+      "concepts": [
+        "mineral block for taste",
+        "water tasting quality"
+      ],
+      "description": "Taste improvements via mineral block; tasting demonstration."
+    },
+    {
+      "start": "04:40:00",
+      "end": "06:15:00",
+      "title": "Cost, Capacity, and Use Context",
+      "concepts": [
+        "system cost",
+        "water yield per day",
+        "six countries deployed",
+        "applications in appropriate regions"
+      ],
+      "description": "Discussion of cost (~a couple thousand dollars), yield (a few gallons per day), and suitability for places with poor or no access to clean water."
+    },
+    {
+      "start": "06:15:00",
+      "end": "06:47:00",
+      "title": "Conclusion and Implications",
+      "concepts": [
+        "self-contained",
+        "infrastructure-free",
+        "Future House context",
+        "potential future adoption"
+      ],
+      "description": "Closing remarks about the technology's potential and future impact."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dew-point elevation inside moisture-absorbing panels using heated air from solar thermal panel",
+      "timestamp": "00:46:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Integrated solar PV and solar thermal power for a self-contained condensation system",
+      "timestamp": "00:40:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Hub-and-spoke water distribution architecture (two units feeding house)",
+      "timestamp": "02:56:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mineral block addition to drinking water for taste enhancement",
+      "timestamp": "04:18:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "On-roof mounting with redwood framing and base plate",
+      "timestamp": "03:12:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Off-grid water generation with no utility power connection",
+      "timestamp": "02:27:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:27:41.254422+00:00"
+}

@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "rijY5LeotMs.youtube",
+  "title": "Install a Towel Warmer: Piping, Mounting, and Refill",
+  "date": {
+    "display": "August 27, 2013",
+    "iso": "2013-08-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates converting an existing convector to a towel warmer by draining the system, rerouting copper supply and return lines under the floor, dry-fitting and soldering new piping, and mounting a wall-hung radiator with concealed trim. The process covers center-to-center measurement (18 inches), determining radiator height, using chrome nipples and flanges to integrate trim with tile, mounting with wall anchors and toggle bolts where studs are absent, and finally refilling the heating system to restore service.",
+  "topics": [
+    "drain heating system",
+    "remove convector",
+    "cut supply and return lines",
+    "reciprocating saw for copper",
+    "excavate floor to reroute piping",
+    "dry-fit piping",
+    "solder copper pipes",
+    "center-to-center spacing (18 in)",
+    "determine radiator height",
+    "chrome nipples and flanges",
+    "threaded adapters",
+    "subfloor flush installation",
+    "pipe clips",
+    "base units on wall",
+    "marking mounting holes",
+    "toggle bolts for studless walls",
+    "hanger bases mounting",
+    "dock radiator into bases",
+    "refill heating system"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:13",
+      "title": "Drainage and removing the old convector; cut and relocate supply/return",
+      "concepts": [
+        "drain system",
+        "remove convector",
+        "cut supply line",
+        "cut return line",
+        "reciprocating saw",
+        "old piping removal"
+      ],
+      "description": "With the system drained, the crew moves the convector aside and begins cutting the supply and return lines where they will reroute for the new towel warmer. The copper lines from the old convector are removed, and planning begins for new routing under the floor."
+    },
+    {
+      "start": "00:01:26",
+      "end": "00:02:20",
+      "title": "Reroute under floor; dry-fit and plan center-to-center 18\" spacing; prepare decorative trim",
+      "concepts": [
+        "dry-fit",
+        "center-to-center measurement",
+        "18 inches",
+        "supply and return placement",
+        "decorative trim planning"
+      ],
+      "description": "Pipes are cut and re-routed underneath the floor to a new radiator location. The installer dry-fits the pieces, confirms a center-to-center distance of 18 inches for the rad, and notes the placement of shut-off valves, chrome nipples, and flanges. A threaded adapter will sit flush with the subfloor, enabling a tidy, tile-ready finish."
+    },
+    {
+      "start": "00:02:24",
+      "end": "00:03:04",
+      "title": "Marking, anchoring, and preparing wall for hangers; no studs requires toggles",
+      "concepts": [
+        "marking wall",
+        "base units on wall",
+        "drilling",
+        "toggle bolts",
+        "hanger bases",
+        "studless mounting"
+      ],
+      "description": "The engineer locates the two base units on the wall and marks their centers for mounting. With no studs found, toggles are prepared to pass through the wall, enabling spring-loaded clips to brace the hanger bases once opened behind the wall."
+    },
+    {
+      "start": "00:03:21",
+      "end": "00:03:40",
+      "title": "Dock radiator into hanger bases and secure",
+      "concepts": [
+        "dock radiator",
+        "hanger bases",
+        "secure mounting"
+      ],
+      "description": "The radiator is guided into the pre-mounted hanger bases on the wall, then pushed and snugged into place, establishing a secure, visually clean mount prior to final connections."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:03:52",
+      "title": "Refill heating system and resume operation",
+      "concepts": [
+        "refill heating system",
+        "return to service"
+      ],
+      "description": "The system is refilled after the radiator is mounted, concluding the installation and restoring heating operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Soldering copper pipes after dry-fitting",
+      "timestamp": "00:01:26",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Center-to-center spacing planning for radiator (18 inches)",
+      "timestamp": "00:01:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Concealing piping with chrome nipples, flanges, and subfloor flush adapters",
+      "timestamp": "00:01:41",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mounting on studless wall using toggle bolts and hanger bases",
+      "timestamp": "00:02:54",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Mounting the towel warmer into hanger bases and final snug",
+      "timestamp": "00:03:27",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Refilling and returning system to service",
+      "timestamp": "00:03:50",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:20:13.322852+00:00"
+}

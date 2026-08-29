@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "video": "iyiGJ-uwmKU.youtube",
+  "title": "Bathroom sink stopper repair: pop-up assembly diagnosis, seal, and reassembly",
+  "date": {
+    "display": "November 6, 2012",
+    "iso": "2012-11-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Bathroom sink area (probable)",
+      "confidence": 0.6,
+      "basis": "The video topic is a bathroom sink stopper; no explicit shooting location is given in transcript."
+    }
+  ],
+  "summary": "An experienced craftsman guides viewers through diagnosing a stuck bathroom sink stopper, disassembling the pop-up assembly, removing and replacing a rotted strainer and tailpiece, applying plumber's putty and pipe dope to seal the drain, trimming the tailpiece to fit, and reassembling the linkage with a rod and clip while ensuring correct alignment perpendicular to the back wall, finishing with a functional test of the stopper.",
+  "topics": [
+    "pop-up stopper",
+    "pop-up linkage diagnosis",
+    "pop-up assembly",
+    "tailpiece",
+    "strainer",
+    "nut removal",
+    "holding strainer with screwdrivers to loosen nut",
+    "plumber's putty ring",
+    "drain gasket",
+    "pipe dope",
+    "gasket alignment",
+    "perpendicular alignment to back wall",
+    "cutting tailpiece to length",
+    "swiveling nut to allow through-wall clearance",
+    "compression nut tightening",
+    "rod and clip installation",
+    "stopper operation test"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:14",
+      "title": "Diagnose and disassemble pop-up stopper",
+      "concepts": [
+        "pop-up assembly",
+        "linkage",
+        "fulcrum",
+        "stopper",
+        "ball"
+      ],
+      "description": "The presenter identifies a bound-up linkage, opens the pop-up assembly, and notes that the stopper linkage is broken, initiating disassembly of the tailpiece and strainer to access the assembly."
+    },
+    {
+      "start": "00:02:14",
+      "end": "00:04:38",
+      "title": "Seal drain assembly and prepare connection",
+      "concepts": [
+        "plumber's putty",
+        "gasket",
+        "pipe dope",
+        "tailpiece length",
+        "perpendicular alignment"
+      ],
+      "description": "Plumber's putty is formed into a ring and pressed into place, a gasket is seated from the bottom, and pipe dope is applied for a tight seal. The tailpiece is planned and cut to fit, with emphasis on aligning the connection perpendicular to the back wall."
+    },
+    {
+      "start": "00:04:38",
+      "end": "00:05:23",
+      "title": "Reassemble linkage and test",
+      "concepts": [
+        "threaded connections",
+        "compression nut",
+        "rod and clip",
+        "stopper alignment",
+        "functional test"
+      ],
+      "description": "The tailpiece is finally adjusted, a rod and clip are installed to secure the linkage, the stopper is inserted and aligned, and a test confirms the stopper moves up and down properly."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Inspecting and diagnosing a stuck pop-up stopper linkage",
+      "timestamp": "00:00:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Disassembling a pop-up stopper and strainer assembly and removing the tailpiece",
+      "timestamp": "00:01:41",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sealing the drain with plumber's putty and gasket; applying pipe dope",
+      "timestamp": "00:02:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cutting tailpiece to length and aligning perpendicular to the back wall",
+      "timestamp": "00:03:36",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Swiveling and tightening the through-wall connection and compression nut",
+      "timestamp": "00:04:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Installing rod and clip to secure linkage and ensure smooth operation",
+      "timestamp": "00:04:49",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Testing stopper operation after reassembly",
+      "timestamp": "00:05:20",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:21:55.217658+00:00"
+}

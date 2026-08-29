@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "CWSyA4AiBOE.youtube",
+  "title": "Bottleshaped Cistern: 18th-Century Rainwater Storage in an Old House (This Old House)",
+  "date": {
+    "display": "May 20, 2025",
+    "iso": "2025-05-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House features historic archaeologist Suzanne Shere examining an intact, bottleshaped cistern serving as a rainwater storage system for an 18th-century house. The segment describes how the cistern was built with handmade brick, likely two bricks thick, and how bricks appear to have been reused from a chimney or fireplace. It notes the absence of a builder’s trench, mortared joints to the bottom, and a waterproof bottom surface capped with a thin paving-like layer. A large top opening suggests a trap-door for manual bucket access or a crank draw, and interior inspection reveals a depth of about seven feet and a lead pipe connected to the house basement for water delivery to a spigot. The discussion places the cistern within a broader domestic water ecosystem of the period, including wells, privies, and gardens, illustrating how early households managed water for washing, drinking, and chores within spatial constraints.",
+  "topics": [
+    "bottleshaped cistern",
+    "18th-century water system",
+    "handmade brick",
+    "two-brick-thick wall",
+    "reused bricks from chimney or fireplace",
+    "no builder's trench",
+    "mortared joints",
+    "bottom waterproofing",
+    "thin paving-like waterproofing layer",
+    "natural subsurface soil vs. fill",
+    "trap door at top",
+    "bucket draw or crank",
+    "lead pipe entering basement",
+    "crown/spout for water draw",
+    "spigot inside",
+    "depth approximately 7 feet",
+    "cover for cistern opening",
+    "rainwater collection vs. well",
+    "yard infrastructure context (well, privy, garden)",
+    "archaeological interpretation of domestic water systems"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:02:04",
+      "title": "Discovery and Identification",
+      "concepts": [
+        "cistern",
+        "18th-century water storage",
+        "rainwater collection",
+        "not a well"
+      ],
+      "description": "The archaeologist identifies the feature as a cistern intended to collect and store water for household tasks, distinct from a well."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:02:41",
+      "title": "Brickwork and Foundation Details",
+      "concepts": [
+        "two-brick-thick wall",
+        "charred bricks",
+        "reused bricks from chimney/fireplace",
+        "no builder's trench",
+        "mortared to bottom",
+        "texture of subsurface"
+      ],
+      "description": "Observations describe brick thickness, signs of reuse, absence of a builder's trench, and mortaring that secures the bottom against natural subsurface soil."
+    },
+    {
+      "start": "00:02:41",
+      "end": "00:03:23",
+      "title": "Top Access and Opening",
+      "concepts": [
+        "trap door",
+        "top opening",
+        "bucket or manual draw"
+      ],
+      "description": "The feature has a large top opening likely fitted with a cover, enabling bucket access or a crank-style draw for retrieving water."
+    },
+    {
+      "start": "00:03:23",
+      "end": "00:04:12",
+      "title": "Interior Form and Waterproofing",
+      "concepts": [
+        "bottleshaped cistern",
+        "inside view",
+        "depth ~7 ft",
+        "bottom waterproofing course",
+        "paving-like waterproof layer",
+        "lead pipe visible"
+      ],
+      "description": "Interior inspection confirms the bottleshape and notes a ~7-foot depth, with a bottom waterproofing layer and visible lead pipe, suggesting a watertight interior and a connection to the house."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify bottleshaped cistern and rainwater storage",
+      "timestamp": "00:03:07",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Brickwork analysis: two-brick-thick walls and mortared joints",
+      "timestamp": "00:01:17",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Evidence of brick reuse from chimney or fireplace",
+      "timestamp": "00:01:28",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Absence of builder's trench indicating earthwork approach",
+      "timestamp": "00:01:40",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Bottom waterproofing: paving-like layer beneath the brick",
+      "timestamp": "00:02:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Top access design: trap door and bucket/crank retrieval",
+      "timestamp": "00:02:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Lead pipe connection to basement with crown/spout and interior spigot",
+      "timestamp": "00:04:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Depth estimation and interior condition",
+      "timestamp": "00:03:46",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:02:15.271345+00:00"
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "video": "9kjabzIcLRA.youtube",
+  "title": "Common Water Heater Myths Answered: Reading Plates, Extending Life, Draining, and Leaks",
+  "date": {
+    "display": "January 9, 2019",
+    "iso": "2019-01-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement (unfinished, concrete floor)",
+      "confidence": 0.85,
+      "basis": "Explicit mention of a concrete basement scenario: \"in my house, it's a concrete floor in an unfinished basement\""
+    },
+    {
+      "name": "First floor",
+      "confidence": 0.85,
+      "basis": "Explicit mention: \"Someone has it upstairs on the first floor\""
+    }
+  ],
+  "summary": "This Old House’s water heater primer addresses common homeowner questions about when to replace, how to evaluate the equipment, and practical maintenance. The video explains how to identify tank size, model, and age from the rating plate, contrasts electric and gas units, and notes typical lifespans for glass-lined steel tanks. It covers the sacrificial anode rod and how replacing it can extend life, debunks the notion that periodic draining alone will dramatically prolong service, and demonstrates a drainage procedure to flush sediment. It also provides a safety-focused leak response (shut off cold water, relieve pressure) and discusses the real-world tradeoffs of upgrading to a tankless system, including the higher piping and installation demands. Location context is provided via a basement and a first-floor example to illustrate risk considerations depending on where the heater lives in a house.",
+  "topics": [
+    "Reading the rating plate to determine tank size, model, and date of manufacture",
+    "Differentiating electric vs gas water heater components (electric elements vs gas valve and flue)",
+    "Gas vs electric tank construction and associated hardware",
+    "Glass-lined steel tank life expectancy (roughly 7–12 years)",
+    "Tankless/instantaneous water heater concept and its installation implications",
+    "Anode rod purpose and sacrificial protection of the tank",
+    "Replacing the anode rod to extend tank life (potential to reach 20–30 years with proper maintenance)",
+    "Risks of delaying anode rod replacement (potential failure to service life)",
+    "Myth about periodically draining the tank to extend life",
+    "Step-by-step drain and flush procedure (turn off cold water, open drain, cycle water through dip tube)",
+    "Why flushing matters for calcium/magnesium sediment buildup",
+    "Responding to leaks: identifying pinhole leaks and immediate safety actions",
+    "Shut off the cold water supply and relieve pressure via the draw-off valve",
+    "When to call for replacement instead of repair (risk tolerance and location considerations)",
+    "Basement vs upstairs location risk: flooding potential and practical implications"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "Water heater types, rating plate, and replacement timing",
+      "concepts": [
+        "electric vs gas water heater components",
+        "rating plate shows tank size, model number, and date of manufacture",
+        "example tank date visible (2013 in transcript)",
+        "considerations for replacing based on age and location (basement vs living space)"
+      ],
+      "description": "Introduces the two main tank types (electric and gas), identifies how to read the rating plate to determine size, model, and manufacture date, and discusses replacement timing with respect to tank construction and housing location."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:03:15",
+      "title": "Anode rod and extending tank life",
+      "concepts": [
+        "anode rod as sacrificial protection",
+        "how a magnesium/aluminum rod helps protect the glass-lined tank",
+        "potential to extend life by replacing the rod periodically"
+      ],
+      "description": "Explains the anode rod, its role in protecting the tank lining, and how replacing it can substantially extend the service life of a glass-lined steel tank."
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:04:34",
+      "title": "Draining, flushing, and sediment management",
+      "concepts": [
+        "drain valve at the bottom of the tank",
+        "turning off cold water supply before draining",
+        "opening the drain and cycling the dip tube to flush sediment",
+        "risk of just draining without cycling the dip tube"
+      ],
+      "description": "Outlines a practical method to drain and flush the tank to mitigate sediment buildup, emphasizing turning off water and using the dip tube to wash debris toward the drain."
+    },
+    {
+      "start": "00:04:34",
+      "end": "00:05:00",
+      "title": "Leaking tanks: immediate safety steps and reassurance",
+      "concepts": [
+        "pin-hole leaks rather than catastrophic failure",
+        "shutting off the cold water supply",
+        "relieving pressure via the draw-off valve",
+        "planning for replacement and avoiding panic"
+      ],
+      "description": "Addresses the common leak scenario with calm, actionable steps: isolate with the cold-water shutoff, relieve pressure through the draw-off, and arrange for replacement."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Reading the water heater rating plate to identify tank size, model, and date of manufacture",
+      "timestamp": "00:00:44",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Identifying tank type and gas/electric components (gas valve, flue; electric element covers)",
+      "timestamp": "00:00:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Anode rod replacement to extend tank life",
+      "timestamp": "00:02:03",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Drain and flush procedure to manage sediment (turn off cold water, open drain, cycle dip tube)",
+      "timestamp": "00:03:28",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Relieving pressure and safe leak response (shut off cold water and use draw-off)",
+      "timestamp": "00:04:12",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Tankless vs. tank-based system comparison (no storage tank vs storage, installation considerations)",
+      "timestamp": "00:01:15",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:48:35.074429+00:00"
+}

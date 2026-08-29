@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "video": "z0ydjY_sALc.youtube",
+  "title": "Replacing a Main Shutoff Valve: Curb Stop to Ball Valve and Soldered Joint",
+  "date": {
+    "display": "December 9, 2018",
+    "iso": "2018-12-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Indoor fixture shutoffs (under sinks and toilets)",
+      "confidence": 0.65,
+      "basis": "Transcript notes that service valves exist on fixtures and inside the house."
+    },
+    {
+      "name": "Curb stop/shutoff at street-front (outdoor main supply)",
+      "confidence": 0.75,
+      "basis": "Transcript describes an external main shutoff located down below the frost line and accessible via curb cap and a specialized wrench."
+    }
+  ],
+  "summary": "This instructional video demonstrates replacing a malfunctioning main shutoff valve by first acknowledging an exterior curb stop at the street-front, coordinating with the local water department to shut/reopen service, and then installing a modern ball valve. The presenter explains the external curb-cap access, introduces the ball valve with its directional flow, and shows copper-pipe prep with flux, a tight-space cutting tool, and a soldering technique to create a watertight joint. After installation, the water is restored and tested to verify proper operation.",
+  "topics": [
+    "Indoor fixture shutoffs",
+    "Exterior curb stop location",
+    "Curb cap and curb box access",
+    "Frost line considerations",
+    "Ball valve (single-handle, full-port) operation",
+    "Copper pipe cutting (imp cutter for tight spaces)",
+    "Copper pipe cleaning and flux application",
+    "Soldering technique (heat, flux, solder)",
+    "Water meter connections and clearance",
+    "System drainage and purging before soldering",
+    "Water department involvement in reactivation",
+    "Post-installation leak testing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:20",
+      "title": "Identify curb stop and exterior shutoff location",
+      "concepts": [
+        "curb stop",
+        "curb cap",
+        "frost line",
+        "exterior shutoff device"
+      ],
+      "description": "Introduces the idea that a main external shutoff exists at the street-front, often buried below frost depth, with a curb cap and a specialized tool to access it. Also notes existing indoor shutoffs and fixture valves."
+    },
+    {
+      "start": "00:01:49",
+      "end": "00:03:21",
+      "title": "Plan and begin replacement with a ball valve",
+      "concepts": [
+        "ball valve",
+        "full-port",
+        "cut-in",
+        "space for soldering"
+      ],
+      "description": "The plan shifts to replacing the old shutoff with a modern ball valve. The presenter explains how a ball valve operates (closed = no flow; open = full-port) and describes cutting in the new valve to create space for a soldered connection."
+    },
+    {
+      "start": "00:03:43",
+      "end": "00:04:42",
+      "title": "Soldering, testing, and reactivation",
+      "concepts": [
+        "flux",
+        "imp cutter",
+        "soldering technique",
+        "draining and purging",
+        "testing after reactivation"
+      ],
+      "description": "Covers preparatory steps (pipe cleaning, flux application), using a tight-space cutter, performing a side solder, then reactivating water service and testing to confirm a watertight joint and proper valve operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Access curb stop via curb cap and curb box with a specialized wrench",
+      "timestamp": "00:01:14",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Install a modern ball valve on the main supply and explain its operation (directional flow, full-port when open)",
+      "timestamp": "00:01:56",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Prepare copper pipe for a soldered joint: clean, flux, heat, and apply solder for a watertight seal",
+      "timestamp": "00:03:43",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Drain and purge the system to allow safe soldering of the new joint (venting and water removal from the line)",
+      "timestamp": "00:03:03",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Post-installation test: restore water, open fixtures, and verify lack of leaks",
+      "timestamp": "00:04:14",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:37:59.991195+00:00"
+}

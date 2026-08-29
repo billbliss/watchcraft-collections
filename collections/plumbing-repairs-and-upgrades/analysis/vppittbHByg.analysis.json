@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "video": "vppittbHByg.youtube",
+  "title": "Coffered Ceiling and Box-Beam Strategy to Conceal Plumbing in a Second-Floor Renovation",
+  "date": {
+    "display": "March 14, 2026",
+    "iso": "2026-03-14",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Second-floor project area (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript states 'Up here on the second floor' and discusses master bathroom and kitchen area within the same upper level; no explicit shooting-location data."
+    }
+  ],
+  "summary": "This Old House frames a complex upstairs plumbing installation within a renovation, where traditional routing is blocked by steel beams. The crew leverages architectural coffers and box-beam chases to conceal pipe runs for a shower, tub, and toilet, routing drops down to the basement through vertical and horizontal coffers. They plan multiple coffers and even drillFloor joists to create additional chases, illustrating how ceiling design (coffer ceilings) can influence plumbing layouts in a tight, beam-conflicted space. The segment also touches on design credit for the coffers and wraps with a channel CTA.",
+  "topics": [
+    "Coffered ceiling",
+    "Box beams",
+    "Pipe concealment",
+    "Toilet drop routing",
+    "Floor joist drilling",
+    "Vertical pipe chase",
+    "Shower drain routing",
+    "Tub drain routing",
+    "Basement drainage routing",
+    "Steel beam interference",
+    "Master suite upstairs layout"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.040",
+      "end": "00:00:50.680",
+      "title": "Project layout and upstairs bathroom planning",
+      "concepts": [
+        "master bedroom location",
+        "upstairs bathroom layout",
+        "initial plumbing routing constraints"
+      ],
+      "description": "Introduction to the second-floor master suite concept and the plumbing routing challenge posed by the building's framing and lack of partitions."
+    },
+    {
+      "start": "00:00:50.680",
+      "end": "00:01:56.640",
+      "title": "Overall plumbing challenges and coffers as a plan",
+      "concepts": [
+        "toilet drop routing",
+        "floor joist cavity",
+        "steel beams obstacle",
+        "coffer ceiling plan and box beams for concealment"
+      ],
+      "description": "Explains the difficulty of dropping a toilet due to steel members; introduces the concept of using a cofferd ceiling with box beams to hide plumbing."
+    },
+    {
+      "start": "00:01:56.640",
+      "end": "00:02:03.080",
+      "title": "Vertical and box-chase integration",
+      "concepts": [
+        "vertical box chase",
+        "coffer alignment to basement"
+      ],
+      "description": "Notes a vertical box chase within the coffers to route drops to the basement."
+    },
+    {
+      "start": "00:02:03.080",
+      "end": "00:02:29.280",
+      "title": "Multiple coffers and routing for vanity drain",
+      "concepts": [
+        "additional coffers",
+        "drilling floor joists",
+        "vanity drain path"
+      ],
+      "description": "Plans to drill floor joists to create another coffer to drop a vanity drain to the basement and continue routing through coffers."
+    },
+    {
+      "start": "00:02:29.280",
+      "end": "00:02:34.920",
+      "title": "Design credit and reflection",
+      "concepts": [
+        "designer vs architect credit",
+        "coffer ceiling impact"
+      ],
+      "description": "A remark about who deserves credit for the coffers used in concealing plumbing."
+    },
+    {
+      "start": "00:02:34.920",
+      "end": "00:02:55.080",
+      "title": "Wrap-up and channel CTA",
+      "concepts": [
+        "continue working",
+        "watch more videos",
+        "subscribe"
+      ],
+      "description": "Closing remarks and a call to action to view more This Old House content."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Coffered ceiling to conceal plumbing",
+      "timestamp": "00:01:23.080",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Box beams as pipe chase within coffers",
+      "timestamp": "00:01:30.040",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Drilling floor joists to create additional coffers for routing",
+      "timestamp": "00:02:12.440",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:28:04.408257+00:00"
+}

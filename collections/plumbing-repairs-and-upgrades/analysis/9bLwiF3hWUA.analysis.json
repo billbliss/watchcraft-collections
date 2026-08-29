@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "video": "9bLwiF3hWUA.youtube",
+  "title": "PEX vs Copper Pipes: Pros, Cons, and Practical Use in Residential Plumbing",
+  "date": {
+    "display": "April 26, 2025",
+    "iso": "2025-04-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Northern urbanized areas (copper commonly used)",
+      "confidence": 0.45,
+      "basis": "Transcript explicitly states copper remains common in northern urbanized areas"
+    }
+  ],
+  "summary": "This Old House hosts discuss PEX and copper piping, framing copper as the long-standing, rigid standard with lead-free solder and proven reliability, while presenting PEX as a flexible, coil-delivered alternative that can be run like wiring and fitted with fewer interior connections. The speakers acknowledge both materials have a place depending on application, with PEX gaining popularity in many regions and copper still favored in remodeling and around shower valves. The conversation also covers practical considerations such as tooling, fittings costs, and the way each material changes the skill set required for installation.",
+  "topics": [
+    "Copper piping",
+    "PEX piping",
+    "Rigid vs flexible tubing",
+    "Lead-free solder",
+    "Corrosion resistance",
+    "Fittings count",
+    "Cost of fittings",
+    "PEX in coils",
+    "PEX flexibility",
+    "Expansion tooling",
+    "Memory in PEX",
+    "Solderless connections",
+    "Shower valve rough-in with copper",
+    "Icemaker box interfaces",
+    "Remodeling considerations",
+    "Regional usage differences (northern areas)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:40",
+      "title": "Copper vs PEX fundamentals",
+      "concepts": [
+        "Copper as a traditional, rigid plumbing material",
+        "PEX as a flexible, modern alternative",
+        "Copper’s corrosion resistance and lead-free solder",
+        "PEX is a cross-linked polyethylene material",
+        "Pipes come in coils for PEX"
+      ],
+      "description": "Introduces the core comparison: copper is time-tested with logical, straight routing; PEX offers flexibility, coil delivery, and a different skill set akin to electrical wiring."
+    },
+    {
+      "start": "01:40:00",
+      "end": "02:40:00",
+      "title": "Routing, fittings, and cost considerations",
+      "concepts": [
+        "Fittings as potential leak points",
+        "Copper vs PEX fittings cost and quantity",
+        "Fewer interior fittings with properly planned PEX runs",
+        "PtX in-wall routing vs copper during remodeling"
+      ],
+      "description": "Discusses how PEX can reduce the number of fittings and simplify routing when compared to copper, with implications for cost and installation speed."
+    },
+    {
+      "start": "02:40:00",
+      "end": "03:20:00",
+      "title": "Expansion tool, memory, and solderless connections",
+      "concepts": [
+        "PEX expansion tool history and current manual options",
+        "PEX sleeve and expansion process",
+        "PEX tubing memory and tight fit without traditional clamps",
+        "Cost parity of expansion tools with copper torch kits"
+      ],
+      "description": "Explains the expansion-based method for PEX connections, the role of the outside sleeve, the memory property of PEX, and how tooling costs compare to traditional copper methods."
+    },
+    {
+      "start": "03:20:00",
+      "end": "04:08:00",
+      "title": "Practical placement and remodeling considerations",
+      "concepts": [
+        "Copper around a shower valve for rigidity and anchoring",
+        "PEX inside walls for trim-out after rough-in",
+        "Icemaker box interfaces with PEX in the building",
+        "Copper remains viable in some regions and remodeling scenarios",
+        "Old habits die hard"
+      ],
+      "description": "Covers where each material might be preferred in a remodel (copper near valves and fixtures for rigidity; PEX behind walls and in-wall runs) and acknowledges regional and historical preferences."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "PEX expansion tool demonstration (sleeve) and memory-based connections",
+      "timestamp": "00:02:12",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Running PEX in coils and bending (wall-to-wall routing with fewer interior fittings)",
+      "timestamp": "00:01:50",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Copper soldering with lead-free solder and traditional fittings",
+      "timestamp": "00:00:24",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Icemaker box interfacing and building-system interface for PEX",
+      "timestamp": "00:03:31",
+      "confidence": 0.5
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:47:48.794355+00:00"
+}

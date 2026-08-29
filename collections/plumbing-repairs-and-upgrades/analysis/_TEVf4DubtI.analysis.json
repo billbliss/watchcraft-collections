@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "video": "_TEVf4DubtI.youtube",
+  "title": "Installing a Fiberglass Tub and Surround: Drain/Overflow, Valve Rough-In, and Finish",
+  "date": {
+    "display": "July 20, 2014",
+    "iso": "2014-07-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Probable bathroom remodel site (interior, walls opened for plumbing and tub work)",
+      "confidence": 0.6,
+      "basis": "Transcript notes walls are open for plumbing checks and tub install; no explicit shooting location is given."
+    }
+  ],
+  "summary": "The video walks through a bathroom remodeling sequence to install a fiberglass tub and surround. It starts with establishing support (ledger board) and verifying plumbing access, then pre-assembling the drain and overflow and selecting a potential new shower valve. The tub is positioned, holes are drilled through the flange for the rough-in shower valve and tub spout, and the unit is secured to the studs. The installer explains creating a proper spout connection with copper adapters, patches the drain opening with a compatible cover, tightens the trap connections, and finishes with caulk, drywall touch-ups, and installing a shower curtain, culminating in a functional tub/shower surround.",
+  "topics": [
+    "fiberglass tub features",
+    "gel coat interior",
+    "drain assembly",
+    "overflow assembly",
+    "trip lever",
+    "stopper linkage",
+    "tub spout",
+    "shower valve rough-in",
+    "drill through tub flange",
+    "measuring and alignment",
+    "pre-assembly of hardware outside tub",
+    "pre-drilling through flange into studs",
+    "tub securing to studs",
+    "patching drain opening",
+    "patch fitting technique",
+    "copper adapter fittings",
+    "in-wall plumbing considerations",
+    "threaded connections",
+    "tub lifting and shimming",
+    "caulking under tub",
+    "compression trap",
+    "drywall patching",
+    "shower curtain installation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:01:24",
+      "title": "Tub prep, drain and overflow assembly",
+      "concepts": [
+        "ledger board supports tub",
+        "walls opened for plumbing inspection",
+        "consider replacing shower valve during remodel",
+        "fiberglass tub features: gel coat interior"
+      ],
+      "description": "Introduces the fiberglass tub, notes its gel coat interior, and emphasizes preparing the drain and overflow outside the tub before setting it in place, while acknowledging open walls allow plumbing checks."
+    },
+    {
+      "start": "00:01:29",
+      "end": "00:02:54",
+      "title": "Pre-assembly of drain hardware and initial fit",
+      "concepts": [
+        "drain and overflow components",
+        "trip lever and stopper linkage",
+        "pre-fitting hardware before tub install",
+        "ensuring proper alignment during fit"
+      ],
+      "description": "Shows mounting the drain/overflow assembly, connecting the trip lever and stopper linkage, and confirming the hardware aligns correctly as the tub is prepared for installation."
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:04:02",
+      "title": "Securing tub to studs and rough-in considerations",
+      "concepts": [
+        "lifting tub with blocks",
+        "drilling through tub flange into studs",
+        "screwing tub to studs",
+        "in-wall spout connection considerations"
+      ],
+      "description": "Covers lifting and positioning the tub, drilling holes through the flange to reach studs, and beginning to secure the tub; discusses creating a solid in-wall path for the tub spout and rough-in."
+    },
+    {
+      "start": "00:04:02",
+      "end": "00:04:22",
+      "title": "Patch fitting, trap connection, and final finish",
+      "concepts": [
+        "patching drain opening",
+        "tub trap compression nuts",
+        "drywall patching and caulking",
+        "shower curtain installation"
+      ],
+      "description": "Completes the rough-in with a drain-cover patch, tightens the trap connections, performs drywall finishing and caulking, and installs the shower curtain for a finished look."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Pre-install drain and overflow components on fiberglass tub before placement",
+      "timestamp": "00:00:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Stopper linkage and trip lever integration with overflow",
+      "timestamp": "00:01:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Drilling exact holes in fiberglass tub flange for rough-in hardware",
+      "timestamp": "00:02:11",
+      "confidence": 0.9
+    },
+    {
+      "technique": "In-wall spout connection using copper adapters to achieve correct length",
+      "timestamp": "00:03:09",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Patch-drift approach: oversize opening and trace to fit drain cover",
+      "timestamp": "00:03:37",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Final trimming, caulking, and trap connection for finish",
+      "timestamp": "00:04:02",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:49:46.170049+00:00"
+}

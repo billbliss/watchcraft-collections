@@ -1,0 +1,146 @@
+{
+  "schema_version": 2,
+  "video": "QLm89HA4EFU.youtube",
+  "title": "Installing a Whole-House Water Filter with Pre-Filter and Activated Carbon Stage",
+  "date": {
+    "display": "April 30, 2017",
+    "iso": "2017-04-30",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript places work in the basement and on a brick wall; shooting location is not explicitly confirmed as basement."
+    }
+  ],
+  "summary": "This video demonstrates a home-improvement project to replace an existing under-sink filtration setup with a true whole-house filtration system. The shown solution uses a two-stage approach: a prefilter with a spun-woven sediment element to catch particulates, followed by a granulated activated carbon stage to improve taste and odor. The installer mounts the filter housing to a masonry wall on a plywood base, transitions from plastic filter housings to copper piping with adapters, and adds shut-off and bypass valves to enable maintenance without cutting the water to the house. The segment ends with a taste test to confirm improvement and a discussion of maintenance, replacement intervals, and the trade-offs between cleaning versus replacing cartridges.",
+  "topics": [
+    "whole-house filtration",
+    "pre-filter",
+    "spun woven sediment filter",
+    "granulated activated carbon (GAC)",
+    "plastic-to-copper adapter fittings",
+    "dry fitting",
+    "soldering copper piping",
+    "masonry mounting",
+    "plywood mounting base",
+    "ball valves / shut-offs",
+    "bypass valve for servicing",
+    "main water line modifications",
+    "testing filtration taste",
+    "maintenance and cartridge life"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:16",
+      "title": "Problem and plan",
+      "concepts": [
+        "taste/odor issue in home water",
+        "existing under-sink filter is insufficient for whole-house treatment",
+        "goal: permanent, whole-house filtration solution"
+      ],
+      "description": "The speaker notes funky tastes and smells in the water, the current under-sink filter is limited and bulky, and expresses desire for a more permanent, house-wide solution. The basement setup and main water feed are introduced as the scope for upgrading."
+    },
+    {
+      "start": "00:01:16",
+      "end": "00:02:39",
+      "title": "Filter system concept: prefilter and carbon stage",
+      "concepts": [
+        "pre-filter with spun woven sediment element",
+        "granulated activated carbon (GAC) in a large canister",
+        "how these stages improve water quality (particulates first, taste/odor second)"
+      ],
+      "description": "Explanation of the two-stage approach: a spun-woven prefilter to remove particles, followed by activated carbon to improve taste and odor. The explanation contrasts it with the existing setup and clarifies how the stages work together to clean the water."
+    },
+    {
+      "start": "00:02:39",
+      "end": "00:03:16",
+      "title": "Mounting base and prep for installation",
+      "concepts": [
+        "mounting bracket on a masonry wall",
+        "plywood base as a mounting platform",
+        "cleaning pipe prior to connections"
+      ],
+      "description": "The presenter plans the mounting solution by attaching a plywood base to the brick wall with masonry screws, then uses these steps to prepare the piping and base for the new filter assembly."
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:04:15",
+      "title": "Piping, fittings, and soldering",
+      "concepts": [
+        "dry fitting",
+        "adapter fittings and plastic-to-copper transitions",
+        "soldering copper connections",
+        "installing tees and shut-offs"
+      ],
+      "description": "From cutting tees on the main line to adding shut-offs and transitioning from plastic filter housings to copper piping, the segment stresses dry fitting and soldering as core fabrication steps for the install."
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:04:41",
+      "title": "System commissioning and test",
+      "concepts": [
+        "characteristic flow path through prefilter and carbon stage",
+        "turning the water back on",
+        "post-installation tasting"
+      ],
+      "description": "With the plumbing in place, the system is brought online and the new filtration path is tested. The speaker verifies that water is flowing through the new filtration sequence and demonstrates a taste test."
+    },
+    {
+      "start": "00:04:41",
+      "end": "00:05:53",
+      "title": "Safety notes and maintenance overview",
+      "concepts": [
+        "cosmetics vs. safety considerations",
+        "Municipal water safety standards",
+        "indicators of filter performance (pressure drop)"
+      ],
+      "description": "Discussion touches on the difference between cosmetic improvements and safety standards, noting that municipal supplies must meet safety requirements even if taste changes. Maintenance indicators such as pressure drop are introduced."
+    },
+    {
+      "start": "00:05:53",
+      "end": "00:06:13",
+      "title": "Maintenance options and lifespan",
+      "concepts": [
+        "replace entire cartridge unit vs. disassemble and recharge",
+        "typical cartridge life cited as about 5 years",
+        "carbon recharge steps and costs"
+      ],
+      "description": "The final segment outlines maintenance choices: swapping the whole unit is more costly; alternatively, the cartridge can be disassembled, cleaned, and recharged. Manufacturer guidance cited estimates around 5 years for replacement intervals."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Two-stage whole-house filtration installation (pre-filter + activated carbon) with inline testing",
+      "timestamp": "00:01:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mounting filter assembly to a masonry wall using a plywood base",
+      "timestamp": "00:02:12",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Plastic-to-copper transitions and dry-fitting before soldering",
+      "timestamp": "00:02:51",
+      "confidence": 0.8
+    },
+    {
+      "technique": "In-system bypass valve added to facilitate maintenance without shutting off house water",
+      "timestamp": "00:04:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Taste-test verification to confirm filtration effectiveness",
+      "timestamp": "00:04:33",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:47:36.923201+00:00"
+}

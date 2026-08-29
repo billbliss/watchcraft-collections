@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "video": "RFVSR-7GfkU.youtube",
+  "title": "Replacing an Outdoor Frost-Proof Sillcock: Installation, Soldering, and Testing",
+  "date": {
+    "display": "September 10, 2014",
+    "iso": "2014-09-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior frost-proof faucet (outdoor silcock) on exterior wall",
+      "confidence": 0.9,
+      "basis": "Transcript repeatedly references the outside faucet and frost-proof unit; explicit exterior installation context."
+    },
+    {
+      "name": "Interior cold-water supply line with shut-off valve near entry",
+      "confidence": 0.7,
+      "basis": "Transcript describes inside the building presence of the cold-water feed and an interior shut-off valve used for winterization."
+    }
+  ],
+  "summary": "The video documents diagnosing a dripping outdoor faucet and explains why a frost-proof sillcock is preferable in cold climates. It contrasts a standard exterior faucet (washer mounted near the outside) with a frost-proof design (long stem and washer location far inside the building). The host guides viewers through removing the old valve, cutting and cleaning the piping, mounting a frost-proof sillcock to the exterior wall, preparing and soldering a copper adapter, reinstalling the stem unit, and finally testing the line to confirm a drip-free operation. The sequence emphasizes winterization practices (interior shut-off and drainage) and the practical steps of cutting, fluxing, soldering, and securing the new fixture before verification of operation.",
+  "topics": [
+    "Frost-proof sillcock",
+    "Outdoor faucet",
+    "Washer in faucet",
+    "Faucet leakage diagnosis",
+    "Draining/waste valve for winterization",
+    "Interior shut-off valve",
+    "Pipe cutting with pipe cutter",
+    "Copper adapter installation",
+    "Soldering with flux",
+    "Emery cloth cleaning of pipe ends",
+    "Securing faucet to wall with concrete screws",
+    "Stem removal prior to soldering",
+    "Leak testing after installation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:13:00",
+      "title": "Understanding the problem and frost-proof concept",
+      "concepts": [
+        "drip from outdoor faucet",
+        "washer wear",
+        "frost risk",
+        "long-shank design",
+        "frost-proof sillcock vs. traditional faucet"
+      ],
+      "description": "The presenter identifies a dripping exterior faucet and explains how a washer can wear out. He introduces the frost-proof sillcock concept, noting that the washer sits far inside the wall and that a long shank reduces freezing risk."
+    },
+    {
+      "start": "01:14:00",
+      "end": "02:10:00",
+      "title": "Interior shut-off and plan for replacement",
+      "concepts": [
+        "interior shut-off valve",
+        "winter drainage",
+        "prevention of freezing",
+        "drainage technique"
+      ],
+      "description": "Discussion of shutting off the interior cold-water supply and draining to reduce freeze risk. The plan is to replace with a frost-proof unit and eliminate the need for yearly internal shutdowns."
+    },
+    {
+      "start": "02:20:00",
+      "end": "02:49:00",
+      "title": "Mounting new frost-proof sillcock and wall prep",
+      "concepts": [
+        "mounting holes",
+        "concrete screws",
+        "wall anchoring",
+        "copper adapter"
+      ],
+      "description": "The new frost-proof sillcock is introduced and aligned for mounting. The wall is prepared with holes and secured using concrete screws and a copper adapter."
+    },
+    {
+      "start": "02:57:00",
+      "end": "03:48:00",
+      "title": "Stem removal and pipe preparation for soldering",
+      "concepts": [
+        "stem unit removed",
+        "prevent washer damage",
+        "emery cloth",
+        "cut length measurement"
+      ],
+      "description": "The stem is removed prior to heating to protect the washer. Ends are cleaned, and a length of copper pipe is prepared for soldering with careful measurement."
+    },
+    {
+      "start": "03:48:00",
+      "end": "04:42:00",
+      "title": "Soldering, reassembly, and functional testing",
+      "concepts": [
+        "flux application",
+        "ending cut and caulking",
+        "soldering copper pipe",
+        "reinstalling stem unit",
+        "testing by opening/closing supply"
+      ],
+      "description": "Ends are fluxed and soldered to connect the new unit. The stem is reinstalled, the valve is tested by opening and closing the supply, and the result is a drip-free operation with the exterior line secured."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identifying frost-proof vs. standard outdoor faucet design",
+      "timestamp": "00:42:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cutting and removing old piping with a pipe cutter",
+      "timestamp": "01:47:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Installing a frost-proof sillcock with copper adapter",
+      "timestamp": "02:20:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Removing the stem before soldering to protect the washer",
+      "timestamp": "02:57:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Soldering copper pipe with flux and emery cloth prep",
+      "timestamp": "03:08:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Drilling mounting holes and securing the unit to the wall with concrete screws",
+      "timestamp": "02:32:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Testing the faucet after reassembly (open then close) to confirm no drip",
+      "timestamp": "04:22:00",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:51:00.791517+00:00"
+}

@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "video": "JWZklniOo_4.youtube",
+  "title": "How to Clear a Clogged Bathtub Drain: Drain Snake Use, Stopper Inspection, and Linkage Adjustment (This Old House)",
+  "date": {
+    "display": "October 15, 2014",
+    "iso": "2014-10-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House segment walks through diagnosing and clearing a clogged bathtub drain using a homeowner-grade drain snake, followed by inspecting and replacing a worn stopper and correcting the trip-lever linkage. The host demonstrates accessing the drain plate, feeding the snake through the overflow, feeling for resistance, and withdrawing to dislodge the blockage. After partial clearing, they test drainage with water, observe a possible stopper misalignment via surface water staining, replace the stopper assembly, adjust the linkage and plunger height, reseal with screws, and perform a final drain test which confirms improved flow and proper operation.",
+  "topics": [
+    "Remove bathtub drain plate",
+    "Access tub stopper assembly",
+    "Pliers for delicate disassembly",
+    "Homeowner drain snake (auger) usage",
+    "Advance wire into overflow",
+    "Maintain exposed wire length (about six inches)",
+    "Lock and rotate drum to feed snake",
+    "Push snake through trap toward obstruction",
+    "Withdraw and re-feed to extend reach",
+    "Test drainage after clearing",
+    "Evaluate water flow improvement",
+    "Remove and inspect stopper/stopper housing",
+    "Identify brass vs. discolored water stains",
+    "Replace stopper with new hardware",
+    "Inspect stopper lever and shoe",
+    "Align stopper linkage via depth of water stand",
+    "Tighten stopper thread and lock nut",
+    "Reassemble screws and secure components",
+    "Final drain test and verification"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.660",
+      "end": "00:00:34.559",
+      "title": "Access and remove the drain plate",
+      "concepts": [
+        "remove drain plate",
+        "avoid breaking stopper",
+        "initial access to drain components"
+      ],
+      "description": "The initial step is to remove the plate covering the drain to expose the stopper and access the internal components."
+    },
+    {
+      "start": "00:00:39.840",
+      "end": "00:01:12.640",
+      "title": "Feed the homeowner-grade drain snake into the overflow",
+      "concepts": [
+        "homeowner drain snake",
+        "advance wire down the overflow",
+        "lock thumb screw",
+        "drum rotation and feeding"
+      ],
+      "description": "A homeowner version of a drain snake is introduced. The wire is advanced down the overflow, with the wire length limited to a short exposed portion, while the drum is rotated and the wire pushed steadily into the drain."
+    },
+    {
+      "start": "00:01:12.640",
+      "end": "00:02:20.800",
+      "title": "Through-trap feeding, withdrawal, and water test",
+      "concepts": [
+        "through the trap",
+        "continue feeding and withdrawing",
+        "test drainage with water"
+      ],
+      "description": "The host notes progress through the trap, adjusts the exposed wire, and then tests the drain by running water to gauge clearing progress."
+    },
+    {
+      "start": "00:02:22.800",
+      "end": "00:03:04.319",
+      "title": "Stopper/stats inspection and lean toward replacement",
+      "concepts": [
+        "water stains on stopper",
+        "brass vs. discolored surfaces",
+        "stopper/replay assessment"
+      ],
+      "description": "Attention turns to the stopper area: water stains indicate the lever had been sitting in a fixed position, suggesting the linkage could be the root cause of the problem and prompting stopper replacement."
+    },
+    {
+      "start": "00:03:08.640",
+      "end": "00:03:40.879",
+      "title": "Adjusting trip-lever linkage and plunger height",
+      "concepts": [
+        "depth of water stand (~3/4 inch)",
+        "tighten thread to raise plunger",
+        "lock nut",
+        "crescent wrench"
+      ],
+      "description": "The technician aligns the linkage by adjusting the plunger height to match the observed water stand depth, and tightens the lock nut to secure the setting."
+    },
+    {
+      "start": "00:03:44.640",
+      "end": "00:04:04.959",
+      "title": "Reassembly and final drainage test",
+      "concepts": [
+        "screws and screwdriver",
+        "stopper closed/open test",
+        "final confirmation of drainage"
+      ],
+      "description": "The stopper assembly is reinstalled, and a final test confirms the drain opens and remains blocked as designed when the lever is engaged, indicating successful restoration of function."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Insertion and advancement of a homeowner drain snake through the bathtub overflow to clear a clog",
+      "timestamp": "00:00:44.320",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Controlled feeding with drum rotation and maintaining a short exposed wire length",
+      "timestamp": "00:01:02.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Withdrawal and back-feeding of the snake to extend reach toward obstruction",
+      "timestamp": "00:01:23.439",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Drain-flow verification after partial clearing to assess improvement",
+      "timestamp": "00:02:03.280",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Diagnosis of a misaligned stopper/linkage via water-stain evidence",
+      "timestamp": "00:02:24.239",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adjusting stopper linkage by raising the plunger and tightening the lock nut",
+      "timestamp": "00:03:08.640",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Final reassembly and verification test of the stopper and drain function",
+      "timestamp": "00:03:44.640",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:26:34.373336+00:00"
+}

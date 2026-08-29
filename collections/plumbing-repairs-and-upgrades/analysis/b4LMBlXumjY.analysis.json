@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "b4LMBlXumjY.youtube",
+  "title": "Rough Plumbing Coordination: Wet Vent Constraints, Vent Routing, and Exterior Drain Tie-In (This Old House)",
+  "date": {
+    "display": "June 9, 2025",
+    "iso": "2025-06-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement",
+      "confidence": 0.9,
+      "basis": "Transcript references running the drain from the primary bathroom down into the basement area and discusses hidden work behind a partition wall in finished space."
+    },
+    {
+      "name": "Garage",
+      "confidence": 0.85,
+      "basis": "Transcript describes routing a 3-inch drain through the garage area and using that path toward the foundation."
+    },
+    {
+      "name": "Exterior / Outside of Building",
+      "confidence": 0.8,
+      "basis": "Transcript states exiting the building and tying the drain to the sewer main outside."
+    }
+  ],
+  "summary": "This Old House guides a rough plumbing layout in a partially finished home, focusing on venting when LVLs block a conventional wet-vent arrangement, and then detailing how a 3-inch drain from the primary bathroom is routed through the garage and foundation to an exterior sewer tie-in. The crew reroutes vents through floor joists to avoid attic space and moves vent termination to the opposite side of the roof, while concealing new drain lines behind a partition wall in the finished basement. The video covers practical decisions about where to vent, how to run drains with pitch, and how to integrate an exterior sewer connection while the interior remains finished.",
+  "topics": [
+    "Wet venting vs. separate fixtures venting",
+    "Shower vent vs. toilet venting",
+    "LVL obstruction impact on venting strategies",
+    "Independent drains and vents for fixtures",
+    "Vent routing through floor joists to avoid attic space",
+    "Roof vent termination on the opposite side of the roof",
+    "Roof vent vs. vent stack configuration",
+    "3-inch drain sizing and routing from bathroom",
+    "Drain pitch and fixture drainage proportions",
+    "Drains running through a finished basement and foundation",
+    "Exterior exit and sewer main tie-in outside the building",
+    "Concealing drains behind a partition wall (2x6) in a finished space",
+    "Foundation wall penetration for drainage",
+    "Planning for future outbuilding drainage connection"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:05",
+      "title": "Vent strategy when LVLs block wet vent",
+      "concepts": [
+        "wet vent",
+        "toilet vent",
+        "shower vent",
+        "LVL obstruction"
+      ],
+      "description": "The team explains why a standard wet vent can’t be used due to LVL blocking, necessitating individual drain venting for the toilet and shower instead of tying them into a single wet-vent run."
+    },
+    {
+      "start": "00:01:21",
+      "end": "00:01:46",
+      "title": "Routing vents to the side of the roof and attic avoidance",
+      "concepts": [
+        "roof vent penetration",
+        "vent through floor joists",
+        "rooftop termination on opposite side"
+      ],
+      "description": "To keep attic space clear, vents are run through existing floor joists and connected to a roof vent on the opposite side rather than a straight-through roof line."
+    },
+    {
+      "start": "00:01:47",
+      "end": "00:02:21",
+      "title": "Independent drain and vent paths for fixtures",
+      "concepts": [
+        "individual shower drain",
+        "individual toilet vent",
+        "avoidance of wet vent due to LVL"
+      ],
+      "description": "With structural constraints, separate drain and vent paths are created for the tub and toilet instead of relying on a single wet vent arrangement."
+    },
+    {
+      "start": "00:02:11",
+      "end": "00:02:21",
+      "title": "3-inch drain routing from primary bathroom toward garage",
+      "concepts": [
+        "3-inch drain",
+        "pitch toward the last fixture",
+        "garage routing"
+      ],
+      "description": "A 3-inch drain is run from the upstairs primary bathroom toward the garage area, maintaining proper pitch toward the final fixture."
+    },
+    {
+      "start": "00:02:52",
+      "end": "00:02:58",
+      "title": "Concealing drainage in a finished basement",
+      "concepts": [
+        "2x6 partition wall",
+        "4-inch sewer pipe routing",
+        "foundation wall interaction"
+      ],
+      "description": "Because the basement is finished, drain pipes are hidden behind a 2x6 partition wall while routing along the foundation wall."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:12",
+      "title": "Exterior exit and sewer main tie-in planning",
+      "concepts": [
+        "exit the building",
+        "outside tie-in",
+        "sewer main connection"
+      ],
+      "description": "The plan calls for exiting the drain outside the building and tying into the sewer main, coordinating with exterior drainage routing."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:03:19",
+      "title": "Next steps: finish rough and stop water piping",
+      "concepts": [
+        "finish rough-in",
+        "stop water piping"
+      ],
+      "description": "The presenter asks about completing the rough drain work on the remaining side and finishing water piping as the next steps."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Wet venting vs. separate fixture vents when LVLs block typical configurations",
+      "timestamp": "00:00:29–00:01:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Vent routing through floor joists to avoid attic space and align with roof vent",
+      "timestamp": "00:01:31–00:01:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Independent venting for tub and toilet due to LVL obstruction",
+      "timestamp": "00:01:47–00:02:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Routing a 3-inch drain from a bathroom toward a downstream fixture via the garage",
+      "timestamp": "00:02:11–00:02:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Concealing drainage runs in a finished basement behind a partition wall",
+      "timestamp": "00:02:52–00:02:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Exterior drain exit and tie-in to sewer main outside the building",
+      "timestamp": "00:02:58–00:03:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Planning for cross-building drainage when an outbuilding is pumped into the main house",
+      "timestamp": "00:02:32–00:02:37",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:54:18.331041+00:00"
+}

@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "3ZM7Tjpem4w.youtube",
+  "title": "Under-Sink Water Filter Installation: Copper-to-Plastic Connections and Leak-Prevention",
+  "date": {
+    "display": "August 27, 2013",
+    "iso": "2013-08-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the sink (explicit)",
+      "confidence": 0.8,
+      "basis": "Transcript: installation starts underneath the sink."
+    },
+    {
+      "name": "Basement shut-off valve location (explicit)",
+      "confidence": 0.8,
+      "basis": "Transcript: mentions shutting off the cold water supply down in the basement."
+    }
+  ],
+  "summary": "This Old House demonstrates installing an under-sink water filter by tying into the home’s cold-water supply, fitting copper-to-plastic connections, and mounting the filter beneath the sink. The steps shown include turning off the basement shut-off, separating existing fittings, applying Teflon tape, assembling a copper branch with a T and quarter-inch branch, installing an inline shut-off valve, using ferrule/insert compression fittings, removing the soap dispenser to access the mounting surface, securing the filter with washers and a lock nut, trimming tubing to length, pushing tubing into connectors, and finally testing the line by re-opening the supply and verifying leaks and air purge.",
+  "topics": [
+    "under-sink water filter installation",
+    "shutting off cold water supply (basement valve)",
+    "disconnecting existing supply and adding branch (quarter-inch line)",
+    "Teflon tape on threaded fittings",
+    "tightening fittings with two wrenches",
+    "inline shut-off valve included with filter",
+    "compression fittings: nut, ferrule, insert",
+    "removing and reusing a soap dispenser for access",
+    "gasket and plumber's putty application",
+    "lock nut and mounting washers for under-sink hardware",
+    "cutting tubing to length with a tubing cutter",
+    "pushing tubing into push-fit/field-fit connectors",
+    "testing for leaks and air purge after installation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:17:00",
+      "title": "Prepare cold-water feed and establish threaded hardware",
+      "concepts": [
+        "under-sink installation",
+        "two copper water supply lines (~1/2 inch)",
+        "identify cold supply on left in this setup",
+        "break apart existing male adapter and nut",
+        "Teflon tape on parallel threaded joints",
+        "threading and tightening with wrenches"
+      ],
+      "description": "The installer identifies the under-sink area, notes the cold supply line, shuts the basement valve, and begins preparing the copper-to-filter supply by breaking apart fittings, applying Teflon tape, and assembling a T with a branch for a quarter-inch line. Fittings are tightened with pliers and two-wrench technique."
+    },
+    {
+      "start": "01:17:00",
+      "end": "01:53:00",
+      "title": "Attach plastic tubing to copper and install inline shut-off",
+      "concepts": [
+        "inline shut-off valve included with the filter",
+        "plumbing fittings: nut, male adapter, and ferrule",
+        "insert and tighten to create a secure seal",
+        "transition from copper to plastic tubing"
+      ],
+      "description": "A plastic-to-copper transition is created with an inline shut-off valve supplied with the filter. The installer threads a coupling and ferrule, uses an insert to reinforce the plastic tubing, and tightens the assembly to secure the connection."
+    },
+    {
+      "start": "01:53:00",
+      "end": "02:58:00",
+      "title": "Remove soap dispenser and prepare mounting surface",
+      "concepts": [
+        "remove soap dispenser hardware",
+        "gasket under the sink for leak prevention",
+        "apply plumber's putty in a bead to seal"
+      ],
+      "description": "The top soap dispenser is removed to clear space for the filter housing. A gasket is noted, and putty is applied under the sink to ensure a watertight seal during mounting."
+    },
+    {
+      "start": "02:58:00",
+      "end": "03:10:00",
+      "title": "Secure mounting hardware and assemble compression path",
+      "concepts": [
+        "lock nut under the sink",
+        "washers and mounting hardware",
+        "compression connection: nut, ferrule, insert"
+      ],
+      "description": "Under-sink mounting hardware is installed with a lock nut and washers. The compression connection for the filter’s tubing is assembled with nut, ferrule, and an insert, ensuring a tight, leak-resistant path."
+    },
+    {
+      "start": "03:10:00",
+      "end": "03:57:00",
+      "title": "Connect cold feed, cut tubing to length, and test",
+      "concepts": [
+        "connect cold-water feed into filter",
+        "measure and cut outlet tubing to length",
+        "push tubing into connectors",
+        "turn on cold valve upstream and test",
+        "air/cloudiness on first fill",
+        "final leak check"
+      ],
+      "description": "The installer completes the remaining connections to the filter: pushing in the cold feed and trimming the outlet tubing to an appropriate length. After re-opening the basement shut-off, the first flow may be cloudy due to air; the setup is tested for leaks and proper operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Apply Teflon tape to threaded fittings for leak prevention",
+      "timestamp": "00:25:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Use ferrule and insert with a compression nut for copper-to-plastic transitions",
+      "timestamp": "00:58:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Install an inline shut-off valve supplied with the filter",
+      "timestamp": "01:22:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cut tubing to length and push into connectors for a secure fit",
+      "timestamp": "03:20:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Test system after reactivating water supply; purge air",
+      "timestamp": "03:54:00",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:40:58.044910+00:00"
+}

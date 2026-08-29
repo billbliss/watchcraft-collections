@@ -1,0 +1,162 @@
+{
+  "schema_version": 2,
+  "video": "F4v_T98QZzQ.youtube",
+  "title": "Smart Water Valve with Automatic Shut-Off, Leak Detection, and Home-Wide Monitoring",
+  "date": {
+    "display": "June 26, 2019",
+    "iso": "2019-06-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House’s This Old House segment documents a smart water valve system designed to automatically shut off water supply on detection of abnormal flow or leaks, with a network of sensors (flow, pressure, and temperature) and a Wi‑Fi-enabled app. The video explains how the main-line flow sensor governs the automatic shut-off valve, how pressure and temperature sensors help prevent pipe bursts in cold environments, and how the app dashboard tracks real-time usage, provides a conservation goal, and supports troubleshooting when leaks appear. The presenters demonstrate immediate valve actuation, data visualization of usage by category (irrigation, showers, etc.), and a “health test” that can detect small drips, along with the potential for future device integrations with smart thermostats to further protect the home’s plumbing system.\"",
+  "topics": [
+    "automatic shut-off valve",
+    "flow sensor",
+    "main water supply line",
+    "pressure sensor",
+    "temperature sensor",
+    "water leak detection",
+    "drip detection",
+    "Wi-Fi connectivity",
+    "mobile app dashboard",
+    "real-time water usage",
+    "conservation goals",
+    "water usage by category (irrigation, showers, etc.)",
+    "historical usage learning",
+    "health test for leaks",
+    "troubleshooting tips in app",
+    "remote alerts/notifications",
+    "false alarm management",
+    "pipes freezing prevention",
+    "system integration with smart thermostat",
+    "home safety from water damage",
+    "comparing market options for shut-off sensors",
+    "habits learning in smart water systems",
+    "data cadence and monitoring frequency",
+    "ownership and maintenance considerations"
+  ],
+  "sections": [
+    {
+      "start": "00:01:10",
+      "end": "00:02:10",
+      "title": "System concept and team introduction",
+      "concepts": [
+        "introducing smart valve concept",
+        "team background (plumbing and legal claims experience)",
+        "objective to prevent catastrophic water damage",
+        "automatic shut-off goal"
+      ],
+      "description": "Gabe and Ross introduce the goal of the project: a smart automatic water shut-off valve that can prevent major water damage by combining a valve with leak-detection sensors and data analytics."
+    },
+    {
+      "start": "00:02:36",
+      "end": "00:03:12",
+      "title": "Main-line flow sensor and automatic shut-off",
+      "concepts": [
+        "flow sensor on main supply",
+        "automatic shut-off activation",
+        "valve actuation feedback"
+      ],
+      "description": "Explanation of the main flow sensor mounted on the water supply line and how detected abnormal flow can trigger the valve to shut off water to prevent further damage."
+    },
+    {
+      "start": "00:03:06",
+      "end": "00:03:19",
+      "title": "Additional sensing: pressure and temperature",
+      "concepts": [
+        "pressure sensor",
+        "temperature sensor",
+        "freeze-prevention"
+      ],
+      "description": "Introduction of the pressure and temperature sensors, highlighting their roles in detecting high pressure, aging piping, and freezing conditions that can cause bursts."
+    },
+    {
+      "start": "00:04:29",
+      "end": "00:04:46",
+      "title": "Wi‑Fi connectivity and remote alerts",
+      "concepts": [
+        "Wi‑Fi capability",
+        "remote notifications",
+        "app communication"
+      ],
+      "description": "Discussion of how the device communicates via Wi‑Fi to alert the user and aid in troubleshooting when leaks are detected."
+    },
+    {
+      "start": "00:04:49",
+      "end": "00:06:40",
+      "title": "Dashboard, usage history, and conservation goals",
+      "concepts": [
+        "daily water usage",
+        "conservation goal",
+        "habits learning",
+        "category breakdown (irrigation, showers)"
+      ],
+      "description": "Showcase of the dashboard that tracks today’s water usage, the homeowner’s conservation goal, and a learned history of how water is used (noting irrigation as a major use, followed by showers)."
+    },
+    {
+      "start": "00:06:53",
+      "end": "00:07:14",
+      "title": "Leak health test and drip detection",
+      "concepts": [
+        "sensitive leak detection",
+        "drip per minute",
+        "in-app troubleshooting tips"
+      ],
+      "description": "Demonstration of a health test capable of detecting a small drip and providing troubleshooting steps within the app to locate leaks."
+    },
+    {
+      "start": "00:07:16",
+      "end": "00:07:38",
+      "title": "Future integrations and smart-home safety",
+      "concepts": [
+        "device intercommunication",
+        "integration with smart thermostat",
+        "enhanced home safety"
+      ],
+      "description": "Discussion of plans for devices to communicate with each other, including potential thermostat-triggered actions to prevent pipe freezing and improve overall safety."
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:08:55",
+      "title": "Market context and closing reflections",
+      "concepts": [
+        "comparison to other devices",
+        "false alarms vs. true leaks",
+        "user awareness and learning curve"
+      ],
+      "description": "Overall reflections on the range of similar devices on the market, the trade-off between nuisance alarms and actual leaks, and the value of measuring and learning from water usage to reduce catastrophic damage."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Main-water-supply flow sensor and automatic shut-off valve operation",
+      "timestamp": "00:02:36",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Pressure and temperature sensing for leak prevention and freeze protection",
+      "timestamp": "00:03:06",
+      "confidence": 0.85
+    },
+    {
+      "technique": "App dashboard with real-time water usage and conservation goals",
+      "timestamp": "00:04:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Leak health test with drip detection and in-app troubleshooting",
+      "timestamp": "00:06:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Smart-home integration concepts (future thermostat control)",
+      "timestamp": "00:07:20",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:08:00.506874+00:00"
+}

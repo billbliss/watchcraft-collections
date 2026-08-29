@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "video": "BuxvKbIIYLU.youtube",
+  "title": "Installation and operation of a gas-fired combination boiler and domestic hot water system (combi boiler) — This Old House",
+  "date": {
+    "display": "November 14, 2015",
+    "iso": "2015-11-14",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement installation area",
+      "confidence": 0.9,
+      "basis": "Transcript: 'all of our work is going to be down in the basement.'"
+    },
+    {
+      "name": "North side of the building (outdoor temperature sensor mounting)",
+      "confidence": 0.8,
+      "basis": "Transcript: 'outdoor temperature sensor … will mount on the north side of the building'."
+    },
+    {
+      "name": "Exterior sidewall venting location (intake and exhaust)",
+      "confidence": 0.8,
+      "basis": "Transcript: 'this side of the building is really a good location for the sidewall venting' and 'intake here … exhaust'."
+    },
+    {
+      "name": "Vent placement constraints (snow line, window distance, intake/exhaust separation)",
+      "confidence": 0.7,
+      "basis": "Transcript: 'above the snow line', 'intake … cannot be within 12 in of a window', 'no closer than one foot between intake and exhaust'."
+    }
+  ],
+  "summary": "The video documents converting a two‑unit heating setup—a gas-fired cast‑iron boiler plus a separate domestic hot water heater—into a single, compact gas-fired combination boiler (combi) that provides both space heating and domestic hot water. It explains how a flat plate heat exchanger within the combi substitutes the large iron block, how the system modulates to match load, and why venting, condensate handling, and proper sizing are critical. The host and installer emphasize efficiency gains, on‑demand hot water, and the practical limits of a combi unit (house size and DHW demand), along with exterior venting requirements and code-based clearances.",
+  "topics": [
+    "gas-fired combination boiler",
+    "domestic hot water on demand (DHW) with combi",
+    "flat plate heat exchanger",
+    "two‑unit vs single‑unit heating and DHW",
+    "modulating gas valve",
+    "outdoor temperature sensor",
+    "venting: sidewall exhaust and combustion air",
+    "venting clearances: snow line, window distance, intake/exhaust separation",
+    "PVC vent piping",
+    "condensing boiler efficiency",
+    "condensate neutralizer",
+    "condensate pump",
+    "circulator pump",
+    "hot water supply and return piping",
+    "gas supply and electrical hookups",
+    "system sizing and oversizing concerns",
+    "DHW priority when faucets are opened",
+    "limitations for large DHW demand (tubs, etc.)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:41:00",
+      "title": "Existing heating and hot water arrangement",
+      "concepts": [
+        "forced hot water heating with convectors",
+        "gas-fired cast iron boiler with a separate hot water tank",
+        "circulator pump circulating heated water to convectors",
+        "large BTU boiler sizing and potential oversizing"
+      ],
+      "description": "The system described uses a separate cast-iron boiler for space heating and a separate gas-fired storage-type water heater for domestic hot water. The boiler heats a large volume of water in a cast-iron block, and a circulator moves heated water to convectors upstairs while exhaust exits via a chimney."
+    },
+    {
+      "start": "01:43:24",
+      "end": "02:32:00",
+      "title": "Introduction to the combi boiler concept",
+      "concepts": [
+        "replacement of boiler + water heater with one device",
+        "compact unit called a Combi"
+      ],
+      "description": "Barry and crew introduce a gas-fired combination boiler that provides both space heating and domestic hot water in a single unit, replacing the two existing appliances."
+    },
+    {
+      "start": "02:32:00",
+      "end": "03:15:00",
+      "title": "How the combi works: heat exchanger and DHW",
+      "concepts": [
+        "reduced water volume inside the unit",
+        "circulator pump moves boiler water through the unit",
+        "flat plate heat exchanger transfers heat to potable water",
+        "domestic hot water is heated on demand and does not contact boiler water"
+      ],
+      "description": "The combi has a small stainless steel block with a circulator that heats water, which then transfers heat to the domestic water via a flat plate heat exchanger. This design enables on-demand hot water without a storage tank."
+    },
+    {
+      "start": "03:32:00",
+      "end": "05:14:00",
+      "title": "Venting and exterior venting plan",
+      "concepts": [
+        "two exterior openings: flue gas exhaust and combustion air intake",
+        "sidewall venting location",
+        "quality of venting (screening to keep birds/bugs)",
+        "vent clearance rules (above snow line, 12 inch from window, 1 foot separation)"
+      ],
+      "description": "To accommodate the combi’s efficient venting needs, two openings to the outdoors are planned. The crew highlights a favorable sidewall location, with the intake and exhaust positioned apart and screened, and notes code-based requirements such as staying above snow line, keeping a 12-inch distance from windows, and at least one foot between intake and exhaust."
+    },
+    {
+      "start": "05:58:00",
+      "end": "06:58:00",
+      "title": "Piping, gas supply, and electrical hookup",
+      "concepts": [
+        "hot and cold water distribution piping",
+        "supply and return to heating system",
+        "gas piping to the combi",
+        "electrical connections"
+      ],
+      "description": "Rough‑in of the plumbing is shown: hot and cold water lines, heating loop supply/return, gas supply to the new combi, and electrical connections, preparing for commissioning."
+    },
+    {
+      "start": "07:31:00",
+      "end": "08:34:00",
+      "title": "Condensing boiler fundamentals and DHW priority",
+      "concepts": [
+        "modulating gas valve (range: 75,000–177,000 BTU)",
+        "outdoor temperature sensor controlling modulation",
+        "condensing boiler efficiency and condensate handling",
+        "DHW priority when faucet is opened"
+      ],
+      "description": "The unit is a condensing boiler with a modulating gas valve that scales output to match demand, controlled by an outdoor sensor. It uses a flat-plate exchanger to heat potable water and captures condensate with a neutralizer and pump. When a hot water tap is opened, DHW is prioritized."
+    },
+    {
+      "start": "08:34:00",
+      "end": "09:15:00",
+      "title": "Limitations and practical considerations",
+      "concepts": [
+        "house size and available power affect combi suitability",
+        "DHW capacity constraints (e.g., large tubs 80–100 gallons)"
+      ],
+      "description": "The host discusses limitations of combi systems: they are best for appropriately sized homes and typical DHW demand; very large tub fills or oversized homes may not be ideal for a single combi unit."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gas-fired combination boiler (combi) that provides both space heating and domestic hot water",
+      "timestamp": "01:43:24",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Flat plate heat exchanger for domestic hot water in a combi",
+      "timestamp": "02:40:00",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Outdoor temperature sensor enabling modulating gas valve for load matching",
+      "timestamp": "06:18:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Condensing boiler operation with condensate handling (neutralizer and pump)",
+      "timestamp": "07:31:00",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Venting strategy: two external openings (flue gas and combustion air) with sidewall venting",
+      "timestamp": "04:41:00",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:57:47.184151+00:00"
+}

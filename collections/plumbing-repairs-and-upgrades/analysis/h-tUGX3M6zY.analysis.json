@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "video": "h-tUGX3M6zY.youtube",
+  "title": "How to Install a Utility Sink: Drain, Vent, and Water Supply Integration",
+  "date": {
+    "display": "July 1, 2014",
+    "iso": "2014-07-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement utility area (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript references being in a basement with a washer/dryer nearby; vent/drain layout discussed as if in a basement utility space"
+    }
+  ],
+  "summary": "This This Old House episode demonstrates installing a utility sink in a basement-style laundry area by modifying an existing washer drain and vent to accommodate a new sink drain. The tutorial covers evaluating the standpipe/drain layout, reducing and reconfiguring piping with 45° elbows to align drains, dry-fitting before glue, and using a slip/repair coupling for final connections. It also shows replacing an aging washing-machine shut-off valve, rerouting hot and cold supply lines to the sink, and installing a faucet with a pull-out spray. The workflow emphasizes venting considerations, accurate marks for reassembly, careful deburring and cleaning of PVC joints, glue application, leak testing with water, and verifying both hot and cold water supply during the final test.",
+  "topics": [
+    "basement laundry area",
+    "washer standpipe height",
+    "basement vent function",
+    "Double Y drainage configuration",
+    "40/45-degree elbows for horizontal drainage",
+    "marking drain center reference",
+    "dry-fitting drainage components",
+    "cutting PVC pipe with PVC saw",
+    "deburring and cleaning pipe ends",
+    "slip coupling / repair coupling",
+    "PVC primer and cement application",
+    "rotating fittings to avoid obstructions",
+    "venting considerations after drain modification",
+    "replacing washing machine shut-off valve",
+    "hot and cold supply valve installation",
+    "pull-out spray faucet with counterweight",
+    "P-trap installation",
+    "testing for leaks with water",
+    "final hose connections to washer valve",
+    "testing hot and cold water supply"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:20:00",
+      "title": "Drain and vent planning in a basement utility area",
+      "concepts": [
+        "basement/washers and dryers present",
+        "standpipe and vent positioning",
+        "vent prevents drain gurgling by breaking vacuum"
+      ],
+      "description": "Introductory assessment of the space, noting the presence of a washer/dryer, a standpipe feeding the drain, and an above-ground vent that prevents gurgling. The narrator discusses the need to lower or reconfigure piping to accommodate a sink drain and the relationship between venting and drainage height."
+    },
+    {
+      "start": "01:20:00",
+      "end": "03:13:00",
+      "title": "Dry fitting and reconfiguration of the drain for dual-outlet needs",
+      "concepts": [
+        "marking center of the drain",
+        "using 45° fittings to reorient toward horizontal",
+        "creating a Double Y to accept both washer and utility sink drains",
+        "dry-fit to confirm fit and angles"
+      ],
+      "description": "Demonstrates marking and aligning new drain connections, cutting and reconfiguring piping with 45° elbows, and preparing a Double Y arrangement to serve both the washer drain and a new utility sink drain. Emphasizes the purpose of dry-fitting before final glue-up."
+    },
+    {
+      "start": "03:13:00",
+      "end": "07:54:00",
+      "title": "Glues, final assembly, water supply, and testing",
+      "concepts": [
+        "debris removal and pipe preparation before glue",
+        "slip/repair coupling for final connection",
+        "gluing PVC joints with primer and cement",
+        "installing valves and faucet",
+        "testing hot and cold water supply and leaks"
+      ],
+      "description": "Covers cleaning pipe ends, applying primer and cement, using a slip/repair coupling to finalize a connection, installing the sink trap, and routing hot/cold supply lines. Concludes with a live test: turning on water to verify operation and leak absence, including the pull-out spray faucet."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dry-fitting drainage components to verify fit and alignment",
+      "timestamp": "00:02:50.879",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using a Double Y drainage to combine washer and utility sink drains",
+      "timestamp": "00:02:14.400",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Re-routing drain with 45° elbows to achieve horizontal outlet",
+      "timestamp": "00:01:16.720",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Slip coupling / repair coupling for final connection",
+      "timestamp": "00:02:50.879",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Deburring and cleaning pipe ends before glue",
+      "timestamp": "00:02:08.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Gluing PVC joints with primer and cement",
+      "timestamp": "00:03:25.680",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Leak testing using water capture bucket and live drain checks",
+      "timestamp": "00:04:26.400",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Replacing washing machine shut-off valve and updating supply elbows",
+      "timestamp": "00:05:02.120",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Installing a pull-out spray faucet with counterweight",
+      "timestamp": "00:06:21.360",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Testing water supply by powering hot and cold lines and verifying operation",
+      "timestamp": "00:07:36.120",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:12:24.463580+00:00"
+}

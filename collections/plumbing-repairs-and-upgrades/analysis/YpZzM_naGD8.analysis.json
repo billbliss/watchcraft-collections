@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "video": "YpZzM_naGD8.youtube",
+  "title": "High-Flow Tub Fill: Storage Tank, Mixing Valve, and Boiler Sizing in This Old House Hot-Water System",
+  "date": {
+    "display": "July 2, 2025",
+    "iso": "2025-07-02",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Downstairs storage/utility location (tank location)",
+      "confidence": 0.6,
+      "basis": "Transcript mentions \"tank downstairs\" indicating location within the house; shooting location not specified."
+    }
+  ],
+  "summary": "This Old House examines how to supply a large soaking tub with hot water by balancing high demand against stored energy. The host demonstrates the problem of filling a big tub fast when typical faucet aerator limits (and tub spout flow) can drive up to 10 GPM, while a compact storage volume exists. The solution combines a gas-fired condensing boiler with an internal heat exchanger that preheats water and feeds a 26-gallon stainless steel storage tank. A dedicated electric element maintains the tank, and a mixing valve enables storing more energy while providing ready hot water for the tub and other fixtures. The video frames the sizing challenge, introduces the storage-and-boiler approach, and shows how the system is configured to deliver quick tub fills without sacrificing efficiency.",
+  "topics": [
+    "GPM (gallons per minute) visualization for hot-water supply",
+    "Tub spout flow vs faucet aerator limits (up to 10 GPM)",
+    "GPM block demonstration (2.5 GPM per block)",
+    "Storage tank sizing (26 gallons)",
+    "Gas-fired condensing boiler as heat source",
+    "Internal heat exchanger feeding a storage tank",
+    "Stainless steel insulated storage tank",
+    "Electrical immersion heater for tank standby heat",
+    "Mixing valve to store more energy and manage temperature",
+    "Integration of storage with distribution (kitchen/bath)",
+    "Energy storage versus peak flow for high-demand fixtures",
+    "Regulatory considerations for GPM in the US"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:04",
+      "title": "Tub Fill Challenge Setup",
+      "concepts": [
+        "Tub hot-water demand",
+        "GPM blocks demonstration",
+        "max tub spout flow 10 GPM",
+        "26-gallon storage tank",
+        "filling-time implications"
+      ],
+      "description": "Introduce the hot-water challenge of filling a large tub. The host uses GPM blocks to visualize flow limits, notes the tub spout can deliver up to ~10 GPM, and identifies the storage tank’s 26 gallons as a bottleneck, prompting the question of how to fill the tub efficiently."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:01:16",
+      "title": "Overview of the Combined Appliance",
+      "concepts": [
+        "Gas-fired condensing boiler",
+        "Internal heat exchanger",
+        "Storage-tacK heat delivery"
+      ],
+      "description": "The host introduces the concept of a combined appliance that couples a boiler with an integrated heat exchanger to begin delivering hot water to storage."
+    },
+    {
+      "start": "00:01:16",
+      "end": "00:01:30",
+      "title": "Heat Exchanger to Storage Tank",
+      "concepts": [
+        "Internal heat exchanger",
+        "Stored hot water supply",
+        "Heat transfer to 26-gallon tank"
+      ],
+      "description": "Explains how the boiler’s internal heat exchanger sends heated water down to the storage tank, creating a readily available hot-water reserve for fixtures."
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:01:46",
+      "title": "Storage Tank and Standby Heat",
+      "concepts": [
+        "Stainless steel insulated tank",
+        "Electrical immersion heater",
+        "Tank standby heat"
+      ],
+      "description": "Details the storage tank: a stainless steel, well-insulated reservoir with an electrical element to maintain standby temperature for quick usage."
+    },
+    {
+      "start": "00:01:46",
+      "end": "00:01:50",
+      "title": "Mixing Valve and Energy Management",
+      "concepts": [
+        "Mixing valve",
+        "Store more energy",
+        "Temperature control"
+      ],
+      "description": "Introduces a top-mounted mixing valve that enables storing more energy and better control of distribution to hot-water outlets."
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:02:06",
+      "title": "Tub-Fill Readiness and Wrap-Up",
+      "concepts": [
+        "Ready-to-fill tub on demand",
+        "System readiness",
+        "Closing statements"
+      ],
+      "description": "Concludes with the practical outcome: on-demand, ready-to-use hot water for tub fills, followed by closing remarks and calls to explore more This Old House videos."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "GPM-based visualization to size hot-water supply (gallons per minute blocks)",
+      "timestamp": "00:00:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Combination boiler + storage tank with internal heat exchanger feeding stored hot water",
+      "timestamp": "00:01:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mixing valve integration with storage to increase usable energy and control distribution",
+      "timestamp": "00:01:46",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:34:41.842648+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-28T22:35:09.197586+00:00"
+}

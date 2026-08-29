@@ -1,0 +1,2962 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "Plumbing Repairs and Upgrades",
+    "collection_id": "plumbing-repairs-and-upgrades",
+    "description": "A Watchcraft collection generated from the Plumbing Repairs and Upgrades YouTube playlist.",
+    "source": {
+      "type": "youtube-playlist",
+      "playlist_id": "PLkJADc1qDrr_0MRi-qB9a5w2iyaBS-Ivb",
+      "url": "https://www.youtube.com/playlist?list=PLkJADc1qDrr_0MRi-qB9a5w2iyaBS-Ivb",
+      "excluded_video_ids": [
+        "0ctxDRVojPU"
+      ],
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse"
+    },
+    "publisher": "This Old House"
+  },
+  "sources": {
+    "iyiGJ-uwmKU.youtube": {
+      "source_id": "youtube:iyiGJ-uwmKU",
+      "type": "youtube",
+      "video_id": "iyiGJ-uwmKU",
+      "url": "https://www.youtube.com/watch?v=iyiGJ-uwmKU",
+      "title": "How to Fix a Bathroom Sink Stopper | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/iyiGJ-uwmKU/hqdefault.jpg",
+      "duration_seconds": 329,
+      "published_at": "2012-11-06T16:22:35-08:00",
+      "chapters": [],
+      "position": 1,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "H6gEUGT0HpM.youtube": {
+      "source_id": "youtube:H6gEUGT0HpM",
+      "type": "youtube",
+      "video_id": "H6gEUGT0HpM",
+      "url": "https://www.youtube.com/watch?v=H6gEUGT0HpM",
+      "title": "How to Repair a Shower Valve Stem | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/H6gEUGT0HpM/hqdefault.jpg",
+      "duration_seconds": 435,
+      "published_at": "2016-09-10T05:00:01-07:00",
+      "chapters": [],
+      "position": 2,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "AQC_shrv8KA.youtube": {
+      "source_id": "youtube:AQC_shrv8KA",
+      "type": "youtube",
+      "video_id": "AQC_shrv8KA",
+      "url": "https://www.youtube.com/watch?v=AQC_shrv8KA",
+      "title": "How to Get Hot Water with a Recirculating Pump | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/AQC_shrv8KA/hqdefault.jpg",
+      "duration_seconds": 264,
+      "published_at": "2016-05-16T19:00:01-07:00",
+      "chapters": [],
+      "position": 3,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "p0t6yyKf-4s.youtube": {
+      "source_id": "youtube:p0t6yyKf-4s",
+      "type": "youtube",
+      "video_id": "p0t6yyKf-4s",
+      "url": "https://www.youtube.com/watch?v=p0t6yyKf-4s",
+      "title": "How to Install a Whole-House Water Softener | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/p0t6yyKf-4s/hqdefault.jpg",
+      "duration_seconds": 312,
+      "published_at": "2016-01-28T19:00:00-08:00",
+      "chapters": [],
+      "position": 4,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "gKoQHqVwxrA.youtube": {
+      "source_id": "youtube:gKoQHqVwxrA",
+      "type": "youtube",
+      "video_id": "gKoQHqVwxrA",
+      "url": "https://www.youtube.com/watch?v=gKoQHqVwxrA",
+      "title": "How to Prevent Frozen and Burst Pipes | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/gKoQHqVwxrA/hqdefault.jpg",
+      "duration_seconds": 141,
+      "published_at": "2016-01-17T17:00:00-08:00",
+      "chapters": [],
+      "position": 5,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "NoW1Kc30k70.youtube": {
+      "source_id": "youtube:NoW1Kc30k70",
+      "type": "youtube",
+      "video_id": "NoW1Kc30k70",
+      "url": "https://www.youtube.com/watch?v=NoW1Kc30k70",
+      "title": "How to Install a Timed Washing-Machine Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/NoW1Kc30k70/hqdefault.jpg",
+      "duration_seconds": 418,
+      "published_at": "2015-12-20T17:00:00-08:00",
+      "chapters": [],
+      "position": 6,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "hBDBwM1MWt8.youtube": {
+      "source_id": "youtube:hBDBwM1MWt8",
+      "type": "youtube",
+      "video_id": "hBDBwM1MWt8",
+      "url": "https://www.youtube.com/watch?v=hBDBwM1MWt8",
+      "title": "How to Solder a Pipe | Ask Richard | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/hBDBwM1MWt8/hqdefault.jpg",
+      "duration_seconds": 112,
+      "published_at": "2015-12-10T19:00:00-08:00",
+      "chapters": [],
+      "position": 7,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "7UbXmKW-v6o.youtube": {
+      "source_id": "youtube:7UbXmKW-v6o",
+      "type": "youtube",
+      "video_id": "7UbXmKW-v6o",
+      "url": "https://www.youtube.com/watch?v=7UbXmKW-v6o",
+      "title": "How to Repair a Leaky Kitchen Faucet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/7UbXmKW-v6o/hqdefault.jpg",
+      "duration_seconds": 460,
+      "published_at": "2015-11-28T05:00:00-08:00",
+      "chapters": [],
+      "position": 8,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "BuxvKbIIYLU.youtube": {
+      "source_id": "youtube:BuxvKbIIYLU",
+      "type": "youtube",
+      "video_id": "BuxvKbIIYLU",
+      "url": "https://www.youtube.com/watch?v=BuxvKbIIYLU",
+      "title": "How to Install a Combination Boiler/Water Heater | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/BuxvKbIIYLU/hqdefault.jpg",
+      "duration_seconds": 559,
+      "published_at": "2015-11-14T05:00:01-08:00",
+      "chapters": [],
+      "position": 9,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "d4X1yg-Fb88.youtube": {
+      "source_id": "youtube:d4X1yg-Fb88",
+      "type": "youtube",
+      "video_id": "d4X1yg-Fb88",
+      "url": "https://www.youtube.com/watch?v=d4X1yg-Fb88",
+      "title": "How to Connect an Ice Maker | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/d4X1yg-Fb88/hqdefault.jpg",
+      "duration_seconds": 136,
+      "published_at": "2015-04-02T19:00:01-07:00",
+      "chapters": [],
+      "position": 10,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "2l8STssse5w.youtube": {
+      "source_id": "youtube:2l8STssse5w",
+      "type": "youtube",
+      "video_id": "2l8STssse5w",
+      "url": "https://www.youtube.com/watch?v=2l8STssse5w",
+      "title": "How to Clean a Faucet Aerator | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/2l8STssse5w/hqdefault.jpg",
+      "duration_seconds": 140,
+      "published_at": "2014-12-26T05:00:06-08:00",
+      "chapters": [],
+      "position": 11,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "UPwKs00bw5Y.youtube": {
+      "source_id": "youtube:UPwKs00bw5Y",
+      "type": "youtube",
+      "video_id": "UPwKs00bw5Y",
+      "url": "https://www.youtube.com/watch?v=UPwKs00bw5Y",
+      "title": "How to Replace a Pedestal Sink Pop-Up Assembly | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/UPwKs00bw5Y/hqdefault.jpg",
+      "duration_seconds": 254,
+      "published_at": "2014-12-23T19:00:03-08:00",
+      "chapters": [],
+      "position": 14,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "3akJBmn_GpE.youtube": {
+      "source_id": "youtube:3akJBmn_GpE",
+      "type": "youtube",
+      "video_id": "3akJBmn_GpE",
+      "url": "https://www.youtube.com/watch?v=3akJBmn_GpE",
+      "title": "How to Install a Whole-House Water Filter | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/3akJBmn_GpE/hqdefault.jpg",
+      "duration_seconds": 311,
+      "published_at": "2014-12-01T19:00:02-08:00",
+      "chapters": [],
+      "position": 15,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "HkFTnnFbh-s.youtube": {
+      "source_id": "youtube:HkFTnnFbh-s",
+      "type": "youtube",
+      "video_id": "HkFTnnFbh-s",
+      "url": "https://www.youtube.com/watch?v=HkFTnnFbh-s",
+      "title": "How to Replace a PVC Sink Trap | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/HkFTnnFbh-s/hqdefault.jpg",
+      "duration_seconds": 256,
+      "published_at": "2014-12-01T19:00:02-08:00",
+      "chapters": [],
+      "position": 16,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "uxwrKd1CpA4.youtube": {
+      "source_id": "youtube:uxwrKd1CpA4",
+      "type": "youtube",
+      "video_id": "uxwrKd1CpA4",
+      "url": "https://www.youtube.com/watch?v=uxwrKd1CpA4",
+      "title": "How to Replace a Bathtub Drum Trap | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/uxwrKd1CpA4/hqdefault.jpg",
+      "duration_seconds": 251,
+      "published_at": "2014-11-29T05:00:03-08:00",
+      "chapters": [],
+      "position": 17,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "OHAGyEzrzWs.youtube": {
+      "source_id": "youtube:OHAGyEzrzWs",
+      "type": "youtube",
+      "video_id": "OHAGyEzrzWs",
+      "url": "https://www.youtube.com/watch?v=OHAGyEzrzWs",
+      "title": "How to Repair a Garbage Disposer | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/OHAGyEzrzWs/hqdefault.jpg",
+      "duration_seconds": 215,
+      "published_at": "2014-11-28T05:00:04-08:00",
+      "chapters": [],
+      "position": 18,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "ejEkBEtEFgk.youtube": {
+      "source_id": "youtube:ejEkBEtEFgk",
+      "type": "youtube",
+      "video_id": "ejEkBEtEFgk",
+      "url": "https://www.youtube.com/watch?v=ejEkBEtEFgk",
+      "title": "How to Hook Up Washing Machine Plumbing | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/ejEkBEtEFgk/hqdefault.jpg",
+      "duration_seconds": 252,
+      "published_at": "2014-11-05T19:00:01-08:00",
+      "chapters": [],
+      "position": 19,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "HK8wLbs9bSE.youtube": {
+      "source_id": "youtube:HK8wLbs9bSE",
+      "type": "youtube",
+      "video_id": "HK8wLbs9bSE",
+      "url": "https://www.youtube.com/watch?v=HK8wLbs9bSE",
+      "title": "How to Install a Drain Pump for a Basement Sink | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/HK8wLbs9bSE/hqdefault.jpg",
+      "duration_seconds": 292,
+      "published_at": "2014-10-16T19:00:02-07:00",
+      "chapters": [],
+      "position": 20,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "POQ_wkrZFmk.youtube": {
+      "source_id": "youtube:POQ_wkrZFmk",
+      "type": "youtube",
+      "video_id": "POQ_wkrZFmk",
+      "url": "https://www.youtube.com/watch?v=POQ_wkrZFmk",
+      "title": "How to Install a Pull-Out Kitchen Faucet | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/POQ_wkrZFmk/hqdefault.jpg",
+      "duration_seconds": 379,
+      "published_at": "2014-10-09T19:00:01-07:00",
+      "chapters": [],
+      "position": 23,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "gZPazhP6Dvs.youtube": {
+      "source_id": "youtube:gZPazhP6Dvs",
+      "type": "youtube",
+      "video_id": "gZPazhP6Dvs",
+      "url": "https://www.youtube.com/watch?v=gZPazhP6Dvs",
+      "title": "How to Choose and Maintain a Garbage Disposer | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/gZPazhP6Dvs/hqdefault.jpg",
+      "duration_seconds": 264,
+      "published_at": "2014-09-22T14:04:38-07:00",
+      "chapters": [],
+      "position": 24,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "crpvmMBsd9Y.youtube": {
+      "source_id": "youtube:crpvmMBsd9Y",
+      "type": "youtube",
+      "video_id": "crpvmMBsd9Y",
+      "url": "https://www.youtube.com/watch?v=crpvmMBsd9Y",
+      "title": "How to Replace a Whole-House Plumbing Trap | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/crpvmMBsd9Y/hqdefault.jpg",
+      "duration_seconds": 249,
+      "published_at": "2014-09-29T19:00:05-07:00",
+      "chapters": [],
+      "position": 25,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "M1d_puqCq3A.youtube": {
+      "source_id": "youtube:M1d_puqCq3A",
+      "type": "youtube",
+      "video_id": "M1d_puqCq3A",
+      "url": "https://www.youtube.com/watch?v=M1d_puqCq3A",
+      "title": "How to Add a Second Sink to a Bath Vanity | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/M1d_puqCq3A/hqdefault.jpg",
+      "duration_seconds": 289,
+      "published_at": "2014-09-25T19:00:02-07:00",
+      "chapters": [],
+      "position": 26,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "8jSd_G-rRXg.youtube": {
+      "source_id": "youtube:8jSd_G-rRXg",
+      "type": "youtube",
+      "video_id": "8jSd_G-rRXg",
+      "url": "https://www.youtube.com/watch?v=8jSd_G-rRXg",
+      "title": "How to Fix a Noisy Faucet | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/8jSd_G-rRXg/hqdefault.jpg",
+      "duration_seconds": 238,
+      "published_at": "2014-08-31T19:00:03-07:00",
+      "chapters": [],
+      "position": 28,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "azfY1-JRh6Q.youtube": {
+      "source_id": "youtube:azfY1-JRh6Q",
+      "type": "youtube",
+      "video_id": "azfY1-JRh6Q",
+      "url": "https://www.youtube.com/watch?v=azfY1-JRh6Q",
+      "title": "How to Install the Plumbing for a Kitchen Sink | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/azfY1-JRh6Q/hqdefault.jpg",
+      "duration_seconds": 289,
+      "published_at": "2014-09-03T19:00:02-07:00",
+      "chapters": [],
+      "position": 29,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "C06cfhLWFrw.youtube": {
+      "source_id": "youtube:C06cfhLWFrw",
+      "type": "youtube",
+      "video_id": "C06cfhLWFrw",
+      "url": "https://www.youtube.com/watch?v=C06cfhLWFrw",
+      "title": "How to Replace a Faucet Aerator | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/C06cfhLWFrw/hqdefault.jpg",
+      "duration_seconds": 140,
+      "published_at": "2014-08-26T19:00:02-07:00",
+      "chapters": [],
+      "position": 32,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "zMH61Yabdj0.youtube": {
+      "source_id": "youtube:zMH61Yabdj0",
+      "type": "youtube",
+      "video_id": "zMH61Yabdj0",
+      "url": "https://www.youtube.com/watch?v=zMH61Yabdj0",
+      "title": "How to Repair a Leaking Faucet | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/zMH61Yabdj0/hqdefault.jpg",
+      "duration_seconds": 280,
+      "published_at": "2014-08-22T05:00:11-07:00",
+      "chapters": [],
+      "position": 33,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "yY3TN_O2pxg.youtube": {
+      "source_id": "youtube:yY3TN_O2pxg",
+      "type": "youtube",
+      "video_id": "yY3TN_O2pxg",
+      "url": "https://www.youtube.com/watch?v=yY3TN_O2pxg",
+      "title": "How to Add a New Dishwasher to a Kitchen | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/yY3TN_O2pxg/hqdefault.jpg",
+      "duration_seconds": 368,
+      "published_at": "2014-08-17T17:00:03-07:00",
+      "chapters": [],
+      "position": 34,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "nVdrZoiT98M.youtube": {
+      "source_id": "youtube:nVdrZoiT98M",
+      "type": "youtube",
+      "video_id": "nVdrZoiT98M",
+      "url": "https://www.youtube.com/watch?v=nVdrZoiT98M",
+      "title": "How to Test for Hard Water and Add Softeners | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/nVdrZoiT98M/hqdefault.jpg",
+      "duration_seconds": 255,
+      "published_at": "2014-08-03T17:00:02-07:00",
+      "chapters": [],
+      "position": 35,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "MCNJAHh7-hI.youtube": {
+      "source_id": "youtube:MCNJAHh7-hI",
+      "type": "youtube",
+      "video_id": "MCNJAHh7-hI",
+      "url": "https://www.youtube.com/watch?v=MCNJAHh7-hI",
+      "title": "How to Repair a Clogged Kitchen Sink Hose | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/MCNJAHh7-hI/hqdefault.jpg",
+      "duration_seconds": 236,
+      "published_at": "2014-07-24T19:00:02-07:00",
+      "chapters": [],
+      "position": 36,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "_TEVf4DubtI.youtube": {
+      "source_id": "youtube:_TEVf4DubtI",
+      "type": "youtube",
+      "video_id": "_TEVf4DubtI",
+      "url": "https://www.youtube.com/watch?v=_TEVf4DubtI",
+      "title": "How to Install a Fiberglass Tub and Surround | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/_TEVf4DubtI/hqdefault.jpg",
+      "duration_seconds": 265,
+      "published_at": "2014-07-20T17:00:03-07:00",
+      "chapters": [],
+      "position": 37,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "T_QJf3TKvLM.youtube": {
+      "source_id": "youtube:T_QJf3TKvLM",
+      "type": "youtube",
+      "video_id": "T_QJf3TKvLM",
+      "url": "https://www.youtube.com/watch?v=T_QJf3TKvLM",
+      "title": "How to Repair a Kitchen Sink Drain Trap | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/T_QJf3TKvLM/hqdefault.jpg",
+      "duration_seconds": 273,
+      "published_at": "2014-07-13T17:00:02-07:00",
+      "chapters": [],
+      "position": 38,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "h-tUGX3M6zY.youtube": {
+      "source_id": "youtube:h-tUGX3M6zY",
+      "type": "youtube",
+      "video_id": "h-tUGX3M6zY",
+      "url": "https://www.youtube.com/watch?v=h-tUGX3M6zY",
+      "title": "How to Install a Utility Sink | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/h-tUGX3M6zY/hqdefault.jpg",
+      "duration_seconds": 478,
+      "published_at": "2014-07-01T19:00:02-07:00",
+      "chapters": [],
+      "position": 39,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "BVItL66doqw.youtube": {
+      "source_id": "youtube:BVItL66doqw",
+      "type": "youtube",
+      "video_id": "BVItL66doqw",
+      "url": "https://www.youtube.com/watch?v=BVItL66doqw",
+      "title": "How to Prevent Frozen Pipes | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/BVItL66doqw/hqdefault.jpg",
+      "duration_seconds": 220,
+      "published_at": "2014-01-26T17:00:01-08:00",
+      "chapters": [],
+      "position": 40,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "jvAvD7ZdQOo.youtube": {
+      "source_id": "youtube:jvAvD7ZdQOo",
+      "type": "youtube",
+      "video_id": "jvAvD7ZdQOo",
+      "url": "https://www.youtube.com/watch?v=jvAvD7ZdQOo",
+      "title": "How to Install a Kitchen Sink | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/jvAvD7ZdQOo/hqdefault.jpg",
+      "duration_seconds": 186,
+      "published_at": "2013-08-27T13:22:33-07:00",
+      "chapters": [],
+      "position": 42,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "r_43osKtKr8.youtube": {
+      "source_id": "youtube:r_43osKtKr8",
+      "type": "youtube",
+      "video_id": "r_43osKtKr8",
+      "url": "https://www.youtube.com/watch?v=r_43osKtKr8",
+      "title": "How to Install a Garbage Disposal | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/r_43osKtKr8/hqdefault.jpg",
+      "duration_seconds": 265,
+      "published_at": "2013-08-27T13:00:58-07:00",
+      "chapters": [],
+      "position": 43,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Oq1pkZD7DGo.youtube": {
+      "source_id": "youtube:Oq1pkZD7DGo",
+      "type": "youtube",
+      "video_id": "Oq1pkZD7DGo",
+      "url": "https://www.youtube.com/watch?v=Oq1pkZD7DGo",
+      "title": "How to Replace a Bathroom Vanity | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Oq1pkZD7DGo/hqdefault.jpg",
+      "duration_seconds": 246,
+      "published_at": "2013-08-27T10:06:16-07:00",
+      "chapters": [],
+      "position": 44,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "PgnpmnY7Dok.youtube": {
+      "source_id": "youtube:PgnpmnY7Dok",
+      "type": "youtube",
+      "video_id": "PgnpmnY7Dok",
+      "url": "https://www.youtube.com/watch?v=PgnpmnY7Dok",
+      "title": "How to Replace an Old Faucet | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/PgnpmnY7Dok/hqdefault.jpg",
+      "duration_seconds": 243,
+      "published_at": "2013-08-27T09:50:47-07:00",
+      "chapters": [],
+      "position": 45,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "zZa3SRQ568A.youtube": {
+      "source_id": "youtube:zZa3SRQ568A",
+      "type": "youtube",
+      "video_id": "zZa3SRQ568A",
+      "url": "https://www.youtube.com/watch?v=zZa3SRQ568A",
+      "title": "How to Replace a Kitchen Sink | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/zZa3SRQ568A/hqdefault.jpg",
+      "duration_seconds": 280,
+      "published_at": "2013-08-27T09:44:31-07:00",
+      "chapters": [],
+      "position": 46,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "PnXezZt6OMk.youtube": {
+      "source_id": "youtube:PnXezZt6OMk",
+      "type": "youtube",
+      "video_id": "PnXezZt6OMk",
+      "url": "https://www.youtube.com/watch?v=PnXezZt6OMk",
+      "title": "How to Install a New Toilet Flange | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/PnXezZt6OMk/hqdefault.jpg",
+      "duration_seconds": 253,
+      "published_at": "2013-08-27T09:40:50-07:00",
+      "chapters": [],
+      "position": 47,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "5nBqjqCLbj0.youtube": {
+      "source_id": "youtube:5nBqjqCLbj0",
+      "type": "youtube",
+      "video_id": "5nBqjqCLbj0",
+      "url": "https://www.youtube.com/watch?v=5nBqjqCLbj0",
+      "title": "How to Install a Sump Pump | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/5nBqjqCLbj0/hqdefault.jpg",
+      "duration_seconds": 176,
+      "published_at": "2012-11-06T16:49:47-08:00",
+      "chapters": [],
+      "position": 48,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "tatkojgzc80.youtube": {
+      "source_id": "youtube:tatkojgzc80",
+      "type": "youtube",
+      "video_id": "tatkojgzc80",
+      "url": "https://www.youtube.com/watch?v=tatkojgzc80",
+      "title": "How to Install a Toilet Below Grade | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/tatkojgzc80/hqdefault.jpg",
+      "duration_seconds": 212,
+      "published_at": "2014-11-26T19:00:07-08:00",
+      "chapters": [],
+      "position": 49,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "NLrh7Jowr78.youtube": {
+      "source_id": "youtube:NLrh7Jowr78",
+      "type": "youtube",
+      "video_id": "NLrh7Jowr78",
+      "url": "https://www.youtube.com/watch?v=NLrh7Jowr78",
+      "title": "How to Install a Dual-Flush Toilet | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/NLrh7Jowr78/hqdefault.jpg",
+      "duration_seconds": 256,
+      "published_at": "2014-11-21T05:00:13-08:00",
+      "chapters": [],
+      "position": 50,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "JMa8hur4XhM.youtube": {
+      "source_id": "youtube:JMa8hur4XhM",
+      "type": "youtube",
+      "video_id": "JMa8hur4XhM",
+      "url": "https://www.youtube.com/watch?v=JMa8hur4XhM",
+      "title": "How to Convert a Toilet to Dual-Flush | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/JMa8hur4XhM/hqdefault.jpg",
+      "duration_seconds": 411,
+      "published_at": "2014-10-30T19:00:02-07:00",
+      "chapters": [],
+      "position": 51,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "abOX0uGC2LI.youtube": {
+      "source_id": "youtube:abOX0uGC2LI",
+      "type": "youtube",
+      "video_id": "abOX0uGC2LI",
+      "url": "https://www.youtube.com/watch?v=abOX0uGC2LI",
+      "title": "How to Rebuild a Toilet Tank | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/abOX0uGC2LI/hqdefault.jpg",
+      "duration_seconds": 420,
+      "published_at": "2014-09-30T19:00:04-07:00",
+      "chapters": [],
+      "position": 52,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "iP7KXv2ab-o.youtube": {
+      "source_id": "youtube:iP7KXv2ab-o",
+      "type": "youtube",
+      "video_id": "iP7KXv2ab-o",
+      "url": "https://www.youtube.com/watch?v=iP7KXv2ab-o",
+      "title": "How to Change a Toilet Seat | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/iP7KXv2ab-o/hqdefault.jpg",
+      "duration_seconds": 173,
+      "published_at": "2014-08-20T19:00:01-07:00",
+      "chapters": [],
+      "position": 53,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "rijY5LeotMs.youtube": {
+      "source_id": "youtube:rijY5LeotMs",
+      "type": "youtube",
+      "video_id": "rijY5LeotMs",
+      "url": "https://www.youtube.com/watch?v=rijY5LeotMs",
+      "title": "How to Install a Towel Warmer | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/rijY5LeotMs/hqdefault.jpg",
+      "duration_seconds": 240,
+      "published_at": "2013-08-27T13:04:07-07:00",
+      "chapters": [],
+      "position": 54,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "I5kxToxiVC8.youtube": {
+      "source_id": "youtube:I5kxToxiVC8",
+      "type": "youtube",
+      "video_id": "I5kxToxiVC8",
+      "url": "https://www.youtube.com/watch?v=I5kxToxiVC8",
+      "title": "How to Install a Frost-Proof Faucet with PEX Piping | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/I5kxToxiVC8/hqdefault.jpg",
+      "duration_seconds": 262,
+      "published_at": "2014-10-15T19:00:03-07:00",
+      "chapters": [],
+      "position": 55,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "RFVSR-7GfkU.youtube": {
+      "source_id": "youtube:RFVSR-7GfkU",
+      "type": "youtube",
+      "video_id": "RFVSR-7GfkU",
+      "url": "https://www.youtube.com/watch?v=RFVSR-7GfkU",
+      "title": "How to Replace an Outdoor Faucet with a Frost-Proof Sillcock | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/RFVSR-7GfkU/hqdefault.jpg",
+      "duration_seconds": 286,
+      "published_at": "2014-09-10T19:00:01-07:00",
+      "chapters": [],
+      "position": 56,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "z_YGXXmBFV8.youtube": {
+      "source_id": "youtube:z_YGXXmBFV8",
+      "type": "youtube",
+      "video_id": "z_YGXXmBFV8",
+      "url": "https://www.youtube.com/watch?v=z_YGXXmBFV8",
+      "title": "How to Prevent Household Plumbing Leaks | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/z_YGXXmBFV8/hqdefault.jpg",
+      "duration_seconds": 295,
+      "published_at": "2014-09-05T05:00:04-07:00",
+      "chapters": [],
+      "position": 57,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "jHeCP21ik7w.youtube": {
+      "source_id": "youtube:jHeCP21ik7w",
+      "type": "youtube",
+      "video_id": "jHeCP21ik7w",
+      "url": "https://www.youtube.com/watch?v=jHeCP21ik7w",
+      "title": "When to Use Sealants on Threaded Plumbing Connections | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/jHeCP21ik7w/hqdefault.jpg",
+      "duration_seconds": 229,
+      "published_at": "2014-08-11T19:00:02-07:00",
+      "chapters": [],
+      "position": 58,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "7jhE7AsYVyQ.youtube": {
+      "source_id": "youtube:7jhE7AsYVyQ",
+      "type": "youtube",
+      "video_id": "7jhE7AsYVyQ",
+      "url": "https://www.youtube.com/watch?v=7jhE7AsYVyQ",
+      "title": "How to Fix a Leaky Shut-Off Valve | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/7jhE7AsYVyQ/hqdefault.jpg",
+      "duration_seconds": 151,
+      "published_at": "2014-09-15T19:00:02-07:00",
+      "chapters": [],
+      "position": 59,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "qnLMwkbU1V0.youtube": {
+      "source_id": "youtube:qnLMwkbU1V0",
+      "type": "youtube",
+      "video_id": "qnLMwkbU1V0",
+      "url": "https://www.youtube.com/watch?v=qnLMwkbU1V0",
+      "title": "How to Replace a Clogged Shower Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/qnLMwkbU1V0/hqdefault.jpg",
+      "duration_seconds": 316,
+      "published_at": "2015-11-07T05:00:01-08:00",
+      "chapters": [],
+      "position": 60,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "MHGA7ivhPwU.youtube": {
+      "source_id": "youtube:MHGA7ivhPwU",
+      "type": "youtube",
+      "video_id": "MHGA7ivhPwU",
+      "url": "https://www.youtube.com/watch?v=MHGA7ivhPwU",
+      "title": "How to Replace a Vessel Sink with a Self-Rimming Sink | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/MHGA7ivhPwU/hqdefault.jpg",
+      "duration_seconds": 460,
+      "published_at": "2015-11-08T17:00:00-08:00",
+      "chapters": [],
+      "position": 61,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "iDK_5nPiPJ0.youtube": {
+      "source_id": "youtube:iDK_5nPiPJ0",
+      "type": "youtube",
+      "video_id": "iDK_5nPiPJ0",
+      "url": "https://www.youtube.com/watch?v=iDK_5nPiPJ0",
+      "title": "How to Avoid Rookie Plumbing Mistakes | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/iDK_5nPiPJ0/hqdefault.jpg",
+      "duration_seconds": 153,
+      "published_at": "2016-01-07T19:00:00-08:00",
+      "chapters": [],
+      "position": 62,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "b6Pk7RQA9ag.youtube": {
+      "source_id": "youtube:b6Pk7RQA9ag",
+      "type": "youtube",
+      "video_id": "b6Pk7RQA9ag",
+      "url": "https://www.youtube.com/watch?v=b6Pk7RQA9ag",
+      "title": "How to Install an Anti-Scald Shower Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/b6Pk7RQA9ag/hqdefault.jpg",
+      "duration_seconds": 685,
+      "published_at": "2016-03-05T05:00:02-08:00",
+      "chapters": [],
+      "position": 63,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "8hMo-HI56oY.youtube": {
+      "source_id": "youtube:8hMo-HI56oY",
+      "type": "youtube",
+      "video_id": "8hMo-HI56oY",
+      "url": "https://www.youtube.com/watch?v=8hMo-HI56oY",
+      "title": "How to Drain and Vent a Bathroom Sink | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/8hMo-HI56oY/hqdefault.jpg",
+      "duration_seconds": 369,
+      "published_at": "2018-07-23T13:00:00-07:00",
+      "chapters": [],
+      "position": 64,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "rVpbmHl9Mpc.youtube": {
+      "source_id": "youtube:rVpbmHl9Mpc",
+      "type": "youtube",
+      "video_id": "rVpbmHl9Mpc",
+      "url": "https://www.youtube.com/watch?v=rVpbmHl9Mpc",
+      "title": "How to Diagnose Plumbing Drain Problems | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/rVpbmHl9Mpc/hqdefault.jpg",
+      "duration_seconds": 720,
+      "published_at": "2017-05-14T16:00:03-07:00",
+      "chapters": [],
+      "position": 65,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "2ALEi8EqkGs.youtube": {
+      "source_id": "youtube:2ALEi8EqkGs",
+      "type": "youtube",
+      "video_id": "2ALEi8EqkGs",
+      "url": "https://www.youtube.com/watch?v=2ALEi8EqkGs",
+      "title": "How To Replace Polybutylene Water Piping | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/2ALEi8EqkGs/hqdefault.jpg",
+      "duration_seconds": 408,
+      "published_at": "2018-12-27T13:00:00-08:00",
+      "chapters": [],
+      "position": 66,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Gw7BSrWH1Ck.youtube": {
+      "source_id": "youtube:Gw7BSrWH1Ck",
+      "type": "youtube",
+      "video_id": "Gw7BSrWH1Ck",
+      "url": "https://www.youtube.com/watch?v=Gw7BSrWH1Ck",
+      "title": "How to Rebuild a Hose Spigot | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Gw7BSrWH1Ck/hqdefault.jpg",
+      "duration_seconds": 491,
+      "published_at": "2018-03-18T13:00:00-07:00",
+      "chapters": [],
+      "position": 67,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "zDY2MCQZRic.youtube": {
+      "source_id": "youtube:zDY2MCQZRic",
+      "type": "youtube",
+      "video_id": "zDY2MCQZRic",
+      "url": "https://www.youtube.com/watch?v=zDY2MCQZRic",
+      "title": "How to Repair a Three Handle Shower Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/zDY2MCQZRic/hqdefault.jpg",
+      "duration_seconds": 732,
+      "published_at": "2018-04-22T16:00:02-07:00",
+      "chapters": [],
+      "position": 68,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "nVom-6VROxo.youtube": {
+      "source_id": "youtube:nVom-6VROxo",
+      "type": "youtube",
+      "video_id": "nVom-6VROxo",
+      "url": "https://www.youtube.com/watch?v=nVom-6VROxo",
+      "title": "Soldering for the First Time | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/nVom-6VROxo/hqdefault.jpg",
+      "duration_seconds": 338,
+      "published_at": "2018-05-18T13:00:02-07:00",
+      "chapters": [],
+      "position": 69,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "DKff22CT3Ng.youtube": {
+      "source_id": "youtube:DKff22CT3Ng",
+      "type": "youtube",
+      "video_id": "DKff22CT3Ng",
+      "url": "https://www.youtube.com/watch?v=DKff22CT3Ng",
+      "title": "Replacing a Kitchen Sink | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/DKff22CT3Ng/hqdefault.jpg",
+      "duration_seconds": 462,
+      "published_at": "2019-03-04T16:00:01-08:00",
+      "chapters": [],
+      "position": 70,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "IQ1FSw2xVUs.youtube": {
+      "source_id": "youtube:IQ1FSw2xVUs",
+      "type": "youtube",
+      "video_id": "IQ1FSw2xVUs",
+      "url": "https://www.youtube.com/watch?v=IQ1FSw2xVUs",
+      "title": "How to Install a Tankless Water Heater | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/IQ1FSw2xVUs/hqdefault.jpg",
+      "duration_seconds": 649,
+      "published_at": "2018-01-21T16:00:00-08:00",
+      "chapters": [],
+      "position": 71,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "YTilMO3w7kI.youtube": {
+      "source_id": "youtube:YTilMO3w7kI",
+      "type": "youtube",
+      "video_id": "YTilMO3w7kI",
+      "url": "https://www.youtube.com/watch?v=YTilMO3w7kI",
+      "title": "Solving a Spitting Faucet Mystery | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/YTilMO3w7kI/hqdefault.jpg",
+      "duration_seconds": 592,
+      "published_at": "2018-02-18T16:00:01-08:00",
+      "chapters": [],
+      "position": 73,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "_Hz-BAFh3rI.youtube": {
+      "source_id": "youtube:_Hz-BAFh3rI",
+      "type": "youtube",
+      "video_id": "_Hz-BAFh3rI",
+      "url": "https://www.youtube.com/watch?v=_Hz-BAFh3rI",
+      "title": "How to Work with Gas Pipes | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/_Hz-BAFh3rI/hqdefault.jpg",
+      "duration_seconds": 250,
+      "published_at": "2019-01-21T13:00:01-08:00",
+      "chapters": [],
+      "position": 74,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "2CKJQpSLxGM.youtube": {
+      "source_id": "youtube:2CKJQpSLxGM",
+      "type": "youtube",
+      "video_id": "2CKJQpSLxGM",
+      "url": "https://www.youtube.com/watch?v=2CKJQpSLxGM",
+      "title": "How to Bring Hot Water Outside | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/2CKJQpSLxGM/hqdefault.jpg",
+      "duration_seconds": 229,
+      "published_at": "2018-06-29T13:00:00-07:00",
+      "chapters": [],
+      "position": 75,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "9kjabzIcLRA.youtube": {
+      "source_id": "youtube:9kjabzIcLRA",
+      "type": "youtube",
+      "video_id": "9kjabzIcLRA",
+      "url": "https://www.youtube.com/watch?v=9kjabzIcLRA",
+      "title": "Common Water Heater Myths Answered | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/9kjabzIcLRA/hqdefault.jpg",
+      "duration_seconds": 300,
+      "published_at": "2019-01-09T13:00:00-08:00",
+      "chapters": [],
+      "position": 77,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "jR917D0PpD4.youtube": {
+      "source_id": "youtube:jR917D0PpD4",
+      "type": "youtube",
+      "video_id": "jR917D0PpD4",
+      "url": "https://www.youtube.com/watch?v=jR917D0PpD4",
+      "title": "How to Repair a Damaged Main Shutoff Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/jR917D0PpD4/hqdefault.jpg",
+      "duration_seconds": 185,
+      "published_at": "2018-04-09T13:00:03-07:00",
+      "chapters": [],
+      "position": 78,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "YcVh_0nKcI8.youtube": {
+      "source_id": "youtube:YcVh_0nKcI8",
+      "type": "youtube",
+      "video_id": "YcVh_0nKcI8",
+      "url": "https://www.youtube.com/watch?v=YcVh_0nKcI8",
+      "title": "How to Install a Reverse Osmosis Water Filter | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/YcVh_0nKcI8/hqdefault.jpg",
+      "duration_seconds": 369,
+      "published_at": "2018-12-03T13:00:02-08:00",
+      "chapters": [],
+      "position": 79,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "VzFYO3BpYdE.youtube": {
+      "source_id": "youtube:VzFYO3BpYdE",
+      "type": "youtube",
+      "video_id": "VzFYO3BpYdE",
+      "url": "https://www.youtube.com/watch?v=VzFYO3BpYdE",
+      "title": "How to Connect an Ice Maker Like a Pro | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/VzFYO3BpYdE/hqdefault.jpg",
+      "duration_seconds": 384,
+      "published_at": "2018-05-14T13:00:01-07:00",
+      "chapters": [],
+      "position": 80,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "NnlxQGIju4Q.youtube": {
+      "source_id": "youtube:NnlxQGIju4Q",
+      "type": "youtube",
+      "video_id": "NnlxQGIju4Q",
+      "url": "https://www.youtube.com/watch?v=NnlxQGIju4Q",
+      "title": "How to Diagnose and Repair a Leaking Water Heater | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/NnlxQGIju4Q/hqdefault.jpg",
+      "duration_seconds": 349,
+      "published_at": "2017-10-15T16:00:01-07:00",
+      "chapters": [],
+      "position": 81,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "weDLgHiSiCw.youtube": {
+      "source_id": "youtube:weDLgHiSiCw",
+      "type": "youtube",
+      "video_id": "weDLgHiSiCw",
+      "url": "https://www.youtube.com/watch?v=weDLgHiSiCw",
+      "title": "How to Diagnose a Gurgling Sink | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/weDLgHiSiCw/hqdefault.jpg",
+      "duration_seconds": 179,
+      "published_at": "2018-01-28T16:00:01-08:00",
+      "chapters": [],
+      "position": 82,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "cua4YDSALmo.youtube": {
+      "source_id": "youtube:cua4YDSALmo",
+      "type": "youtube",
+      "video_id": "cua4YDSALmo",
+      "url": "https://www.youtube.com/watch?v=cua4YDSALmo",
+      "title": "How to Install a Water Filter Under the Sink | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/cua4YDSALmo/hqdefault.jpg",
+      "duration_seconds": 331,
+      "published_at": "2019-04-26T16:00:02-07:00",
+      "chapters": [],
+      "position": 83,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "MkPcCmYkG4Q.youtube": {
+      "source_id": "youtube:MkPcCmYkG4Q",
+      "type": "youtube",
+      "video_id": "MkPcCmYkG4Q",
+      "url": "https://www.youtube.com/watch?v=MkPcCmYkG4Q",
+      "title": "How to Replace a Shower Cartridge | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/MkPcCmYkG4Q/hqdefault.jpg",
+      "duration_seconds": 569,
+      "published_at": "2018-11-12T13:00:01-08:00",
+      "chapters": [],
+      "position": 84,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "MhuIOwdWuDk.youtube": {
+      "source_id": "youtube:MhuIOwdWuDk",
+      "type": "youtube",
+      "video_id": "MhuIOwdWuDk",
+      "url": "https://www.youtube.com/watch?v=MhuIOwdWuDk",
+      "title": "Testing the Newest Low Consumption Toilets | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/MhuIOwdWuDk/hqdefault.jpg",
+      "duration_seconds": 504,
+      "published_at": "2019-02-18T16:00:01-08:00",
+      "chapters": [],
+      "position": 85,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "YxVQDtDT1CM.youtube": {
+      "source_id": "youtube:YxVQDtDT1CM",
+      "type": "youtube",
+      "video_id": "YxVQDtDT1CM",
+      "url": "https://www.youtube.com/watch?v=YxVQDtDT1CM",
+      "title": "A Tour of Antique Plumbing and the Toilet of the Future | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/YxVQDtDT1CM/hqdefault.jpg",
+      "duration_seconds": 248,
+      "published_at": "2017-04-09T16:00:01-07:00",
+      "chapters": [],
+      "position": 86,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "TiWi2MBUhz8.youtube": {
+      "source_id": "youtube:TiWi2MBUhz8",
+      "type": "youtube",
+      "video_id": "TiWi2MBUhz8",
+      "url": "https://www.youtube.com/watch?v=TiWi2MBUhz8",
+      "title": "How to Install a Water Conditioner | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/TiWi2MBUhz8/hqdefault.jpg",
+      "duration_seconds": 456,
+      "published_at": "2017-10-08T16:00:01-07:00",
+      "chapters": [],
+      "position": 87,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "L5nbl633IRw.youtube": {
+      "source_id": "youtube:L5nbl633IRw",
+      "type": "youtube",
+      "video_id": "L5nbl633IRw",
+      "url": "https://www.youtube.com/watch?v=L5nbl633IRw",
+      "title": "How to Install a Water Saving Toilet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/L5nbl633IRw/hqdefault.jpg",
+      "duration_seconds": 271,
+      "published_at": "2018-03-23T13:00:01-07:00",
+      "chapters": [],
+      "position": 88,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "HNnUO3-fj8Q.youtube": {
+      "source_id": "youtube:HNnUO3-fj8Q",
+      "type": "youtube",
+      "video_id": "HNnUO3-fj8Q",
+      "url": "https://www.youtube.com/watch?v=HNnUO3-fj8Q",
+      "title": "How to Replace a Steam Radiator | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/HNnUO3-fj8Q/hqdefault.jpg",
+      "duration_seconds": 510,
+      "published_at": "2017-11-05T16:00:01-08:00",
+      "chapters": [],
+      "position": 89,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "TpmNDrBHcno.youtube": {
+      "source_id": "youtube:TpmNDrBHcno",
+      "type": "youtube",
+      "video_id": "TpmNDrBHcno",
+      "url": "https://www.youtube.com/watch?v=TpmNDrBHcno",
+      "title": "How to Snake a Clogged Drain | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/TpmNDrBHcno/hqdefault.jpg",
+      "duration_seconds": 135,
+      "published_at": "2018-08-13T13:00:00-07:00",
+      "chapters": [],
+      "position": 90,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "ntJNuEv5Mw0.youtube": {
+      "source_id": "youtube:ntJNuEv5Mw0",
+      "type": "youtube",
+      "video_id": "ntJNuEv5Mw0",
+      "url": "https://www.youtube.com/watch?v=ntJNuEv5Mw0",
+      "title": "How to Install an Industrial Kitchen Faucet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/ntJNuEv5Mw0/hqdefault.jpg",
+      "duration_seconds": 286,
+      "published_at": "2018-09-03T13:00:04-07:00",
+      "chapters": [],
+      "position": 91,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "4XhswR5UGck.youtube": {
+      "source_id": "youtube:4XhswR5UGck",
+      "type": "youtube",
+      "video_id": "4XhswR5UGck",
+      "url": "https://www.youtube.com/watch?v=4XhswR5UGck",
+      "title": "Plumbing Tool Essentials for Beginners | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/4XhswR5UGck/hqdefault.jpg",
+      "duration_seconds": 217,
+      "published_at": "2018-08-03T13:00:02-07:00",
+      "chapters": [],
+      "position": 92,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "qwaaL6cgvX0.youtube": {
+      "source_id": "youtube:qwaaL6cgvX0",
+      "type": "youtube",
+      "video_id": "qwaaL6cgvX0",
+      "url": "https://www.youtube.com/watch?v=qwaaL6cgvX0",
+      "title": "Wrenches that Make Plumbing Easier | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/qwaaL6cgvX0/hqdefault.jpg",
+      "duration_seconds": 187,
+      "published_at": "2018-06-06T13:00:01-07:00",
+      "chapters": [],
+      "position": 93,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Wqw7V0QbGFs.youtube": {
+      "source_id": "youtube:Wqw7V0QbGFs",
+      "type": "youtube",
+      "video_id": "Wqw7V0QbGFs",
+      "url": "https://www.youtube.com/watch?v=Wqw7V0QbGFs",
+      "title": "Understanding the Cycles of a Dishwasher | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wqw7V0QbGFs/hqdefault.jpg",
+      "duration_seconds": 245,
+      "published_at": "2017-05-07T16:00:01-07:00",
+      "chapters": [],
+      "position": 94,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "QLm89HA4EFU.youtube": {
+      "source_id": "youtube:QLm89HA4EFU",
+      "type": "youtube",
+      "video_id": "QLm89HA4EFU",
+      "url": "https://www.youtube.com/watch?v=QLm89HA4EFU",
+      "title": "How to Install a Whole-House Water Filter | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/QLm89HA4EFU/hqdefault.jpg",
+      "duration_seconds": 377,
+      "published_at": "2017-04-30T16:00:01-07:00",
+      "chapters": [],
+      "position": 97,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "cLx1Vj0HdxY.youtube": {
+      "source_id": "youtube:cLx1Vj0HdxY",
+      "type": "youtube",
+      "video_id": "cLx1Vj0HdxY",
+      "url": "https://www.youtube.com/watch?v=cLx1Vj0HdxY",
+      "title": "This Old House | Pro2Pro: Focus on Plumbing, Episode 1 | FULL EPISODE",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/cLx1Vj0HdxY/hqdefault.jpg",
+      "duration_seconds": 1871,
+      "published_at": "2018-11-15T08:20:33-08:00",
+      "chapters": [],
+      "position": 98,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "BjB3TfKOYKk.youtube": {
+      "source_id": "youtube:BjB3TfKOYKk",
+      "type": "youtube",
+      "video_id": "BjB3TfKOYKk",
+      "url": "https://www.youtube.com/watch?v=BjB3TfKOYKk",
+      "title": "How to Select a Portable Air Conditioner | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/BjB3TfKOYKk/hqdefault.jpg",
+      "duration_seconds": 249,
+      "published_at": "2018-09-16T13:00:01-07:00",
+      "chapters": [],
+      "position": 99,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Ewsxmtn3dwk.youtube": {
+      "source_id": "youtube:Ewsxmtn3dwk",
+      "type": "youtube",
+      "video_id": "Ewsxmtn3dwk",
+      "url": "https://www.youtube.com/watch?v=Ewsxmtn3dwk",
+      "title": "How to Shorten a Gas Pipe to Fit an Oven | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ewsxmtn3dwk/hqdefault.jpg",
+      "duration_seconds": 399,
+      "published_at": "2019-05-08T16:00:02-07:00",
+      "chapters": [],
+      "position": 100,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "OYCYUIhZDCI.youtube": {
+      "source_id": "youtube:OYCYUIhZDCI",
+      "type": "youtube",
+      "video_id": "OYCYUIhZDCI",
+      "url": "https://www.youtube.com/watch?v=OYCYUIhZDCI",
+      "title": "How to Change a Toilet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/OYCYUIhZDCI/hqdefault.jpg",
+      "duration_seconds": 378,
+      "published_at": "2017-10-29T16:00:02-07:00",
+      "chapters": [],
+      "position": 101,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "F4v_T98QZzQ.youtube": {
+      "source_id": "youtube:F4v_T98QZzQ",
+      "type": "youtube",
+      "video_id": "F4v_T98QZzQ",
+      "url": "https://www.youtube.com/watch?v=F4v_T98QZzQ",
+      "title": "Smart Water Valve | Future House | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/F4v_T98QZzQ/hqdefault.jpg",
+      "duration_seconds": 537,
+      "published_at": "2019-06-26T16:00:00-07:00",
+      "chapters": [],
+      "position": 102,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "oyq4gTWVRhA.youtube": {
+      "source_id": "youtube:oyq4gTWVRhA",
+      "type": "youtube",
+      "video_id": "oyq4gTWVRhA",
+      "url": "https://www.youtube.com/watch?v=oyq4gTWVRhA",
+      "title": "How to Quiet Noisy Baseboard Heat | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/oyq4gTWVRhA/hqdefault.jpg",
+      "duration_seconds": 343,
+      "published_at": "2018-12-23T13:00:02-08:00",
+      "chapters": [],
+      "position": 103,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "brumHe2lmWg.youtube": {
+      "source_id": "youtube:brumHe2lmWg",
+      "type": "youtube",
+      "video_id": "brumHe2lmWg",
+      "url": "https://www.youtube.com/watch?v=brumHe2lmWg",
+      "title": "The Story Behind Antique Bath Fixtures | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/brumHe2lmWg/hqdefault.jpg",
+      "duration_seconds": 297,
+      "published_at": "2017-01-15T16:00:01-08:00",
+      "chapters": [],
+      "position": 104,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "JJIJ8Pg1z04.youtube": {
+      "source_id": "youtube:JJIJ8Pg1z04",
+      "type": "youtube",
+      "video_id": "JJIJ8Pg1z04",
+      "url": "https://www.youtube.com/watch?v=JJIJ8Pg1z04",
+      "title": "What's The Difference Between CPVC and PEX? | Pro2Pro | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/JJIJ8Pg1z04/hqdefault.jpg",
+      "duration_seconds": 114,
+      "published_at": "2019-03-19T14:51:01-07:00",
+      "chapters": [],
+      "position": 105,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "VJQ7-KNQKmo.youtube": {
+      "source_id": "youtube:VJQ7-KNQKmo",
+      "type": "youtube",
+      "video_id": "VJQ7-KNQKmo",
+      "url": "https://www.youtube.com/watch?v=VJQ7-KNQKmo",
+      "title": "How to Fix a Wobbly Toilet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/VJQ7-KNQKmo/hqdefault.jpg",
+      "duration_seconds": 500,
+      "published_at": "2018-01-14T16:00:01-08:00",
+      "chapters": [],
+      "position": 106,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Nyb5I0ZOSV4.youtube": {
+      "source_id": "youtube:Nyb5I0ZOSV4",
+      "type": "youtube",
+      "video_id": "Nyb5I0ZOSV4",
+      "url": "https://www.youtube.com/watch?v=Nyb5I0ZOSV4",
+      "title": "A Safe Septic System for Nearby Waterways | Pro2Pro | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Nyb5I0ZOSV4/hqdefault.jpg",
+      "duration_seconds": 305,
+      "published_at": "2019-06-13T16:00:04-07:00",
+      "chapters": [],
+      "position": 107,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "JrMpdSQ2WGg.youtube": {
+      "source_id": "youtube:JrMpdSQ2WGg",
+      "type": "youtube",
+      "video_id": "JrMpdSQ2WGg",
+      "url": "https://www.youtube.com/watch?v=JrMpdSQ2WGg",
+      "title": "How to Install an Electric Heat Pump Water Heater | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/JrMpdSQ2WGg/hqdefault.jpg",
+      "duration_seconds": 387,
+      "published_at": "2018-10-07T16:00:03-07:00",
+      "chapters": [],
+      "position": 108,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "riDY_Juwqr4.youtube": {
+      "source_id": "youtube:riDY_Juwqr4",
+      "type": "youtube",
+      "video_id": "riDY_Juwqr4",
+      "url": "https://www.youtube.com/watch?v=riDY_Juwqr4",
+      "title": "How to Install a New Kitchen Faucet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/riDY_Juwqr4/hqdefault.jpg",
+      "duration_seconds": 230,
+      "published_at": "2018-05-23T13:00:02-07:00",
+      "chapters": [],
+      "position": 110,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "gwlYMR4vzRw.youtube": {
+      "source_id": "youtube:gwlYMR4vzRw",
+      "type": "youtube",
+      "video_id": "gwlYMR4vzRw",
+      "url": "https://www.youtube.com/watch?v=gwlYMR4vzRw",
+      "title": "How to Rotate a Toilet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/gwlYMR4vzRw/hqdefault.jpg",
+      "duration_seconds": 434,
+      "published_at": "2018-07-16T13:00:00-07:00",
+      "chapters": [],
+      "position": 111,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "cZ53GbAcfPo.youtube": {
+      "source_id": "youtube:cZ53GbAcfPo",
+      "type": "youtube",
+      "video_id": "cZ53GbAcfPo",
+      "url": "https://www.youtube.com/watch?v=cZ53GbAcfPo",
+      "title": "Brookline Plumbing with Kevin and Richard | LIVE | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/cZ53GbAcfPo/hqdefault.jpg",
+      "duration_seconds": 981,
+      "published_at": "2018-10-25T09:57:29-07:00",
+      "chapters": [],
+      "position": 112,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "F3V7UjX_rFE.youtube": {
+      "source_id": "youtube:F3V7UjX_rFE",
+      "type": "youtube",
+      "video_id": "F3V7UjX_rFE",
+      "url": "https://www.youtube.com/watch?v=F3V7UjX_rFE",
+      "title": "How to Install a Gas Clothes Dryer | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/F3V7UjX_rFE/hqdefault.jpg",
+      "duration_seconds": 536,
+      "published_at": "2019-02-27T16:00:00-08:00",
+      "chapters": [],
+      "position": 113,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "ucZRoR9UiE8.youtube": {
+      "source_id": "youtube:ucZRoR9UiE8",
+      "type": "youtube",
+      "video_id": "ucZRoR9UiE8",
+      "url": "https://www.youtube.com/watch?v=ucZRoR9UiE8",
+      "title": "How to Prevent Plumbing Leaks Automatically | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/ucZRoR9UiE8/hqdefault.jpg",
+      "duration_seconds": 171,
+      "published_at": "2017-10-22T17:00:01-07:00",
+      "chapters": [],
+      "position": 114,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "80j5sXJ4dsU.youtube": {
+      "source_id": "youtube:80j5sXJ4dsU",
+      "type": "youtube",
+      "video_id": "80j5sXJ4dsU",
+      "url": "https://www.youtube.com/watch?v=80j5sXJ4dsU",
+      "title": "Can A Plumbing Leak Ruin Your Home? | Pro2Pro | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/80j5sXJ4dsU/hqdefault.jpg",
+      "duration_seconds": 71,
+      "published_at": "2019-03-20T16:00:00-07:00",
+      "chapters": [],
+      "position": 115,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "c_aOFqL6bc8.youtube": {
+      "source_id": "youtube:c_aOFqL6bc8",
+      "type": "youtube",
+      "video_id": "c_aOFqL6bc8",
+      "url": "https://www.youtube.com/watch?v=c_aOFqL6bc8",
+      "title": "How to Diagnose and Repair a Humid Air Conditioner | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/c_aOFqL6bc8/hqdefault.jpg",
+      "duration_seconds": 403,
+      "published_at": "2019-05-27T16:00:02-07:00",
+      "chapters": [],
+      "position": 116,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "WSk4L21-kv8.youtube": {
+      "source_id": "youtube:WSk4L21-kv8",
+      "type": "youtube",
+      "video_id": "WSk4L21-kv8",
+      "url": "https://www.youtube.com/watch?v=WSk4L21-kv8",
+      "title": "How to Repair a Rocking Toilet | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/WSk4L21-kv8/hqdefault.jpg",
+      "duration_seconds": 116,
+      "published_at": "2018-12-14T13:00:02-08:00",
+      "chapters": [],
+      "position": 117,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "1YljdhInklo.youtube": {
+      "source_id": "youtube:1YljdhInklo",
+      "type": "youtube",
+      "video_id": "1YljdhInklo",
+      "url": "https://www.youtube.com/watch?v=1YljdhInklo",
+      "title": "How to Install an Indirect Water Heater on a Boiler | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/1YljdhInklo/hqdefault.jpg",
+      "duration_seconds": 526,
+      "published_at": "2017-02-19T16:00:01-08:00",
+      "chapters": [],
+      "position": 119,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "AcgErpZ_D0c.youtube": {
+      "source_id": "youtube:AcgErpZ_D0c",
+      "type": "youtube",
+      "video_id": "AcgErpZ_D0c",
+      "url": "https://www.youtube.com/watch?v=AcgErpZ_D0c",
+      "title": "How to Caulk Around a Bathtub | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/AcgErpZ_D0c/hqdefault.jpg",
+      "duration_seconds": 528,
+      "published_at": "2019-04-21T16:00:00-07:00",
+      "chapters": [],
+      "position": 120,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "gUFnf9EaQM4.youtube": {
+      "source_id": "youtube:gUFnf9EaQM4",
+      "type": "youtube",
+      "video_id": "gUFnf9EaQM4",
+      "url": "https://www.youtube.com/watch?v=gUFnf9EaQM4",
+      "title": "How to Maximize Comfort with a Thermostat | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/gUFnf9EaQM4/hqdefault.jpg",
+      "duration_seconds": 375,
+      "published_at": "2019-05-17T16:00:07-07:00",
+      "chapters": [],
+      "position": 122,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "gOZWyZMOASA.youtube": {
+      "source_id": "youtube:gOZWyZMOASA",
+      "type": "youtube",
+      "video_id": "gOZWyZMOASA",
+      "url": "https://www.youtube.com/watch?v=gOZWyZMOASA",
+      "title": "How to Diagnose Problems with a Hot Water Heating System | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/gOZWyZMOASA/hqdefault.jpg",
+      "duration_seconds": 448,
+      "published_at": "2017-01-29T16:00:16-08:00",
+      "chapters": [],
+      "position": 123,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "l7FWGTeYGXE.youtube": {
+      "source_id": "youtube:l7FWGTeYGXE",
+      "type": "youtube",
+      "video_id": "l7FWGTeYGXE",
+      "url": "https://www.youtube.com/watch?v=l7FWGTeYGXE",
+      "title": "Drinking Water from Thin Air | Future House | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/l7FWGTeYGXE/hqdefault.jpg",
+      "duration_seconds": 408,
+      "published_at": "2017-12-31T16:00:04-08:00",
+      "chapters": [],
+      "position": 124,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "lb0UgFisz1E.youtube": {
+      "source_id": "youtube:lb0UgFisz1E",
+      "type": "youtube",
+      "video_id": "lb0UgFisz1E",
+      "url": "https://www.youtube.com/watch?v=lb0UgFisz1E",
+      "title": "How to Install a Whole-House Ductless System | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/lb0UgFisz1E/hqdefault.jpg",
+      "duration_seconds": 399,
+      "published_at": "2018-08-17T13:00:03-07:00",
+      "chapters": [],
+      "position": 125,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Oc7EOqMpckc.youtube": {
+      "source_id": "youtube:Oc7EOqMpckc",
+      "type": "youtube",
+      "video_id": "Oc7EOqMpckc",
+      "url": "https://www.youtube.com/watch?v=Oc7EOqMpckc",
+      "title": "Are Plastic Water Heaters Worthwhile? | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Oc7EOqMpckc/hqdefault.jpg",
+      "duration_seconds": 174,
+      "published_at": "2018-05-04T13:00:01-07:00",
+      "chapters": [],
+      "position": 126,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Wzsr-B6MK_k.youtube": {
+      "source_id": "youtube:Wzsr-B6MK_k",
+      "type": "youtube",
+      "video_id": "Wzsr-B6MK_k",
+      "url": "https://www.youtube.com/watch?v=Wzsr-B6MK_k",
+      "title": "Revisiting Our Hybrid Water Heater Install | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wzsr-B6MK_k/hqdefault.jpg",
+      "duration_seconds": 482,
+      "published_at": "2017-04-16T16:00:03-07:00",
+      "chapters": [],
+      "position": 127,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "SulbQvWKjaA.youtube": {
+      "source_id": "youtube:SulbQvWKjaA",
+      "type": "youtube",
+      "video_id": "SulbQvWKjaA",
+      "url": "https://www.youtube.com/watch?v=SulbQvWKjaA",
+      "title": "Pliers & Wrenches | Ask Richard | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/SulbQvWKjaA/hqdefault.jpg",
+      "duration_seconds": 138,
+      "published_at": "2014-12-07T17:00:01-08:00",
+      "chapters": [],
+      "position": 128,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "pE3gD8P2_r4.youtube": {
+      "source_id": "youtube:pE3gD8P2_r4",
+      "type": "youtube",
+      "video_id": "pE3gD8P2_r4",
+      "url": "https://www.youtube.com/watch?v=pE3gD8P2_r4",
+      "title": "How to Prevent Plumbing Sulfur Smells | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/pE3gD8P2_r4/hqdefault.jpg",
+      "duration_seconds": 138,
+      "published_at": "2015-10-11T17:00:03-07:00",
+      "chapters": [],
+      "position": 129,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "YLFUuEDf_YQ.youtube": {
+      "source_id": "youtube:YLFUuEDf_YQ",
+      "type": "youtube",
+      "video_id": "YLFUuEDf_YQ",
+      "url": "https://www.youtube.com/watch?v=YLFUuEDf_YQ",
+      "title": "Why Dishwasher Soap Matters | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/YLFUuEDf_YQ/hqdefault.jpg",
+      "duration_seconds": 180,
+      "published_at": "2017-02-12T16:00:01-08:00",
+      "chapters": [],
+      "position": 130,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "ylX2gfggu_o.youtube": {
+      "source_id": "youtube:ylX2gfggu_o",
+      "type": "youtube",
+      "video_id": "ylX2gfggu_o",
+      "url": "https://www.youtube.com/watch?v=ylX2gfggu_o",
+      "title": "Understanding Improvements to PVC Gas Ventilation | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/ylX2gfggu_o/hqdefault.jpg",
+      "duration_seconds": 186,
+      "published_at": "2020-01-10T15:00:13-08:00",
+      "chapters": [],
+      "position": 131,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "4IjXXohWaOQ.youtube": {
+      "source_id": "youtube:4IjXXohWaOQ",
+      "type": "youtube",
+      "video_id": "4IjXXohWaOQ",
+      "url": "https://www.youtube.com/watch?v=4IjXXohWaOQ",
+      "title": "How to Upgrade to a Pressure Balanced Shower Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/4IjXXohWaOQ/hqdefault.jpg",
+      "duration_seconds": 639,
+      "published_at": "2020-02-09T16:00:00-08:00",
+      "chapters": [],
+      "position": 132,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "HGknuTxiXPA.youtube": {
+      "source_id": "youtube:HGknuTxiXPA",
+      "type": "youtube",
+      "video_id": "HGknuTxiXPA",
+      "url": "https://www.youtube.com/watch?v=HGknuTxiXPA",
+      "title": "How to Install a Radiant Floor Heat System in a Garage | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/HGknuTxiXPA/hqdefault.jpg",
+      "duration_seconds": 231,
+      "published_at": "2020-03-13T15:00:00-07:00",
+      "chapters": [],
+      "position": 133,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "yGgx_UFQIfw.youtube": {
+      "source_id": "youtube:yGgx_UFQIfw",
+      "type": "youtube",
+      "video_id": "yGgx_UFQIfw",
+      "url": "https://www.youtube.com/watch?v=yGgx_UFQIfw",
+      "title": "How to Install PVC Plumbing | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/yGgx_UFQIfw/hqdefault.jpg",
+      "duration_seconds": 274,
+      "published_at": "2020-03-11T15:00:06-07:00",
+      "chapters": [],
+      "position": 134,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "JIBIyf0JdPM.youtube": {
+      "source_id": "youtube:JIBIyf0JdPM",
+      "type": "youtube",
+      "video_id": "JIBIyf0JdPM",
+      "url": "https://www.youtube.com/watch?v=JIBIyf0JdPM",
+      "title": "How to Install Ductwork | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/JIBIyf0JdPM/hqdefault.jpg",
+      "duration_seconds": 280,
+      "published_at": "2020-03-20T15:01:35-07:00",
+      "chapters": [],
+      "position": 135,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "hZulTP0LpRA.youtube": {
+      "source_id": "youtube:hZulTP0LpRA",
+      "type": "youtube",
+      "video_id": "hZulTP0LpRA",
+      "url": "https://www.youtube.com/watch?v=hZulTP0LpRA",
+      "title": "How to Clean and Maintain Your Mini Split | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/hZulTP0LpRA/hqdefault.jpg",
+      "duration_seconds": 344,
+      "published_at": "2025-04-12T15:00:41-07:00",
+      "chapters": [],
+      "position": 136,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "9bLwiF3hWUA.youtube": {
+      "source_id": "youtube:9bLwiF3hWUA",
+      "type": "youtube",
+      "video_id": "9bLwiF3hWUA",
+      "url": "https://www.youtube.com/watch?v=9bLwiF3hWUA",
+      "title": "PEX vs Copper Pipes | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/9bLwiF3hWUA/hqdefault.jpg",
+      "duration_seconds": 250,
+      "published_at": "2025-04-26T15:00:09-07:00",
+      "chapters": [],
+      "position": 137,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "CWSyA4AiBOE.youtube": {
+      "source_id": "youtube:CWSyA4AiBOE",
+      "type": "youtube",
+      "video_id": "CWSyA4AiBOE",
+      "url": "https://www.youtube.com/watch?v=CWSyA4AiBOE",
+      "title": "18th Century Water Works | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/CWSyA4AiBOE/hqdefault.jpg",
+      "duration_seconds": 283,
+      "published_at": "2025-05-20T15:00:11-07:00",
+      "chapters": [],
+      "position": 138,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "b4LMBlXumjY.youtube": {
+      "source_id": "youtube:b4LMBlXumjY",
+      "type": "youtube",
+      "video_id": "b4LMBlXumjY",
+      "url": "https://www.youtube.com/watch?v=b4LMBlXumjY",
+      "title": "Navigating Rough Plumbing | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/b4LMBlXumjY/hqdefault.jpg",
+      "duration_seconds": 222,
+      "published_at": "2025-06-09T15:00:41-07:00",
+      "chapters": [],
+      "position": 139,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "qylSbf0Szms.youtube": {
+      "source_id": "youtube:qylSbf0Szms",
+      "type": "youtube",
+      "video_id": "qylSbf0Szms",
+      "url": "https://www.youtube.com/watch?v=qylSbf0Szms",
+      "title": "Ducting an Old House | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/qylSbf0Szms/hqdefault.jpg",
+      "duration_seconds": 198,
+      "published_at": "2025-06-13T15:00:55-07:00",
+      "chapters": [],
+      "position": 140,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "slhlD0DOVeY.youtube": {
+      "source_id": "youtube:slhlD0DOVeY",
+      "type": "youtube",
+      "video_id": "slhlD0DOVeY",
+      "url": "https://www.youtube.com/watch?v=slhlD0DOVeY",
+      "title": "Roughing Plumbing for a New Bathroom | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/slhlD0DOVeY/hqdefault.jpg",
+      "duration_seconds": 273,
+      "published_at": "2025-08-06T15:01:11-07:00",
+      "chapters": [],
+      "position": 142,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "eA5E6yr0cCs.youtube": {
+      "source_id": "youtube:eA5E6yr0cCs",
+      "type": "youtube",
+      "video_id": "eA5E6yr0cCs",
+      "url": "https://www.youtube.com/watch?v=eA5E6yr0cCs",
+      "title": "Drain Pipe Puzzle | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/eA5E6yr0cCs/hqdefault.jpg",
+      "duration_seconds": 358,
+      "published_at": "2025-11-29T15:00:54-08:00",
+      "chapters": [],
+      "position": 143,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "NTrGR7qi4K8.youtube": {
+      "source_id": "youtube:NTrGR7qi4K8",
+      "type": "youtube",
+      "video_id": "NTrGR7qi4K8",
+      "url": "https://www.youtube.com/watch?v=NTrGR7qi4K8",
+      "title": "Plumbing Fixture Shopping | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/NTrGR7qi4K8/hqdefault.jpg",
+      "duration_seconds": 354,
+      "published_at": "2026-02-28T15:00:20-08:00",
+      "chapters": [],
+      "position": 144,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "vppittbHByg.youtube": {
+      "source_id": "youtube:vppittbHByg",
+      "type": "youtube",
+      "video_id": "vppittbHByg",
+      "url": "https://www.youtube.com/watch?v=vppittbHByg",
+      "title": "Using a Coffered Ceiling to Hide Plumbing | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/vppittbHByg/hqdefault.jpg",
+      "duration_seconds": 177,
+      "published_at": "2026-03-14T15:00:53-07:00",
+      "chapters": [],
+      "position": 145,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "wpKYS1Yst4k.youtube": {
+      "source_id": "youtube:wpKYS1Yst4k",
+      "type": "youtube",
+      "video_id": "wpKYS1Yst4k",
+      "url": "https://www.youtube.com/watch?v=wpKYS1Yst4k",
+      "title": "How to Prevent Sink Clogs | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/wpKYS1Yst4k/hqdefault.jpg",
+      "duration_seconds": 376,
+      "published_at": "2026-03-28T15:00:00-07:00",
+      "chapters": [],
+      "position": 146,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "25gybh69JdA.youtube": {
+      "source_id": "youtube:25gybh69JdA",
+      "type": "youtube",
+      "video_id": "25gybh69JdA",
+      "url": "https://www.youtube.com/watch?v=25gybh69JdA",
+      "title": "Upgrading Water and Sewer Lines | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/25gybh69JdA/hqdefault.jpg",
+      "duration_seconds": 339,
+      "published_at": "2026-04-13T15:00:06-07:00",
+      "chapters": [],
+      "position": 147,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "zCTAW2qQar4.youtube": {
+      "source_id": "youtube:zCTAW2qQar4",
+      "type": "youtube",
+      "video_id": "zCTAW2qQar4",
+      "url": "https://www.youtube.com/watch?v=zCTAW2qQar4",
+      "title": "How to Replace a Small Kitchen | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/zCTAW2qQar4/hqdefault.jpg",
+      "duration_seconds": 251,
+      "published_at": "2015-01-01T19:00:05-08:00",
+      "chapters": [],
+      "position": 12,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Or4XevbRfz0.youtube": {
+      "source_id": "youtube:Or4XevbRfz0",
+      "type": "youtube",
+      "video_id": "Or4XevbRfz0",
+      "url": "https://www.youtube.com/watch?v=Or4XevbRfz0",
+      "title": "How to Clear a Clogged Sink Drain | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/Or4XevbRfz0/hqdefault.jpg",
+      "duration_seconds": 214,
+      "published_at": "2014-12-26T05:00:06-08:00",
+      "chapters": [],
+      "position": 13,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "JWZklniOo_4.youtube": {
+      "source_id": "youtube:JWZklniOo_4",
+      "type": "youtube",
+      "video_id": "JWZklniOo_4",
+      "url": "https://www.youtube.com/watch?v=JWZklniOo_4",
+      "title": "How to Clear a Clogged Bathtub Drain | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/JWZklniOo_4/hqdefault.jpg",
+      "duration_seconds": 250,
+      "published_at": "2014-10-15T19:00:03-07:00",
+      "chapters": [],
+      "position": 21,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "AHwG7PsF2vQ.youtube": {
+      "source_id": "youtube:AHwG7PsF2vQ",
+      "type": "youtube",
+      "video_id": "AHwG7PsF2vQ",
+      "url": "https://www.youtube.com/watch?v=AHwG7PsF2vQ",
+      "title": "How to Replace a Smelly Dishwasher Drain Hose | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/AHwG7PsF2vQ/hqdefault.jpg",
+      "duration_seconds": 310,
+      "published_at": "2014-10-05T17:00:03-07:00",
+      "chapters": [],
+      "position": 22,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "6WA3P_R46pA.youtube": {
+      "source_id": "youtube:6WA3P_R46pA",
+      "type": "youtube",
+      "video_id": "6WA3P_R46pA",
+      "url": "https://www.youtube.com/watch?v=6WA3P_R46pA",
+      "title": "How to Connect a Refrigerator Water and Ice Dispenser | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/6WA3P_R46pA/hqdefault.jpg",
+      "duration_seconds": 243,
+      "published_at": "2014-09-05T05:00:03-07:00",
+      "chapters": [],
+      "position": 27,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "LcPdUbhvEVU.youtube": {
+      "source_id": "youtube:LcPdUbhvEVU",
+      "type": "youtube",
+      "video_id": "LcPdUbhvEVU",
+      "url": "https://www.youtube.com/watch?v=LcPdUbhvEVU",
+      "title": "How to Use Graywater in Toilet Tanks | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/LcPdUbhvEVU/hqdefault.jpg",
+      "duration_seconds": 92,
+      "published_at": "2014-08-25T19:00:01-07:00",
+      "chapters": [],
+      "position": 30,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "3lhNME-kj0k.youtube": {
+      "source_id": "youtube:3lhNME-kj0k",
+      "type": "youtube",
+      "video_id": "3lhNME-kj0k",
+      "url": "https://www.youtube.com/watch?v=3lhNME-kj0k",
+      "title": "How to Install a Water Filter With A Separate Faucet | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/3lhNME-kj0k/hqdefault.jpg",
+      "duration_seconds": 276,
+      "published_at": "2014-10-28T19:00:01-07:00",
+      "chapters": [],
+      "position": 31,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "3ZM7Tjpem4w.youtube": {
+      "source_id": "youtube:3ZM7Tjpem4w",
+      "type": "youtube",
+      "video_id": "3ZM7Tjpem4w",
+      "url": "https://www.youtube.com/watch?v=3ZM7Tjpem4w",
+      "title": "How to Install an Under-Sink Water Filter | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/3ZM7Tjpem4w/hqdefault.jpg",
+      "duration_seconds": 244,
+      "published_at": "2013-08-27T13:33:54-07:00",
+      "chapters": [],
+      "position": 41,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "z0ydjY_sALc.youtube": {
+      "source_id": "youtube:z0ydjY_sALc",
+      "type": "youtube",
+      "video_id": "z0ydjY_sALc",
+      "url": "https://www.youtube.com/watch?v=z0ydjY_sALc",
+      "title": "How to Replace a Main Shutoff Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/z0ydjY_sALc/hqdefault.jpg",
+      "duration_seconds": 286,
+      "published_at": "2018-12-09T13:00:06-08:00",
+      "chapters": [],
+      "position": 72,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "mKLot_EgcJw.youtube": {
+      "source_id": "youtube:mKLot_EgcJw",
+      "type": "youtube",
+      "video_id": "mKLot_EgcJw",
+      "url": "https://www.youtube.com/watch?v=mKLot_EgcJw",
+      "title": "How to Vent a Clothes Dryer | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/mKLot_EgcJw/hqdefault.jpg",
+      "duration_seconds": 449,
+      "published_at": "2019-01-27T16:00:02-08:00",
+      "chapters": [],
+      "position": 76,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "OwAFtayK4bE.youtube": {
+      "source_id": "youtube:OwAFtayK4bE",
+      "type": "youtube",
+      "video_id": "OwAFtayK4bE",
+      "url": "https://www.youtube.com/watch?v=OwAFtayK4bE",
+      "title": "How to Install a Natural Gas Grill | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/OwAFtayK4bE/hqdefault.jpg",
+      "duration_seconds": 361,
+      "published_at": "2017-04-11T07:25:57-07:00",
+      "chapters": [],
+      "position": 95,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "TI77VQPNuGY.youtube": {
+      "source_id": "youtube:TI77VQPNuGY",
+      "type": "youtube",
+      "video_id": "TI77VQPNuGY",
+      "url": "https://www.youtube.com/watch?v=TI77VQPNuGY",
+      "title": "How to Rebuild a Shut Off Valve | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/TI77VQPNuGY/hqdefault.jpg",
+      "duration_seconds": 256,
+      "published_at": "2018-05-23T13:00:00-07:00",
+      "chapters": [],
+      "position": 96,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "VDLP3d41RXk.youtube": {
+      "source_id": "youtube:VDLP3d41RXk",
+      "type": "youtube",
+      "video_id": "VDLP3d41RXk",
+      "url": "https://www.youtube.com/watch?v=VDLP3d41RXk",
+      "title": "How to Install a GPS-Enabled Smart Thermostat | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/VDLP3d41RXk/hqdefault.jpg",
+      "duration_seconds": 345,
+      "published_at": "2019-03-13T16:00:05-07:00",
+      "chapters": [],
+      "position": 109,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "x5Vw9P3x5i8.youtube": {
+      "source_id": "youtube:x5Vw9P3x5i8",
+      "type": "youtube",
+      "video_id": "x5Vw9P3x5i8",
+      "url": "https://www.youtube.com/watch?v=x5Vw9P3x5i8",
+      "title": "Do Plumbers Need A License? | Pro2Pro | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/x5Vw9P3x5i8/hqdefault.jpg",
+      "duration_seconds": 146,
+      "published_at": "2019-03-21T16:00:04-07:00",
+      "chapters": [],
+      "position": 118,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "IJbVK5UBRT8.youtube": {
+      "source_id": "youtube:IJbVK5UBRT8",
+      "type": "youtube",
+      "video_id": "IJbVK5UBRT8",
+      "url": "https://www.youtube.com/watch?v=IJbVK5UBRT8",
+      "title": "How to Safely Treat Water with Lead | Ask This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/IJbVK5UBRT8/hqdefault.jpg",
+      "duration_seconds": 256,
+      "published_at": "2016-10-02T17:00:00-07:00",
+      "chapters": [],
+      "position": 121,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "YpZzM_naGD8.youtube": {
+      "source_id": "youtube:YpZzM_naGD8",
+      "type": "youtube",
+      "video_id": "YpZzM_naGD8",
+      "url": "https://www.youtube.com/watch?v=YpZzM_naGD8",
+      "title": "Overall Hot Water System | This Old House",
+      "publisher": "This Old House",
+      "publisher_url": "https://www.youtube.com/@thisoldhouse",
+      "thumbnail_url": "https://i.ytimg.com/vi/YpZzM_naGD8/hqdefault.jpg",
+      "duration_seconds": 129,
+      "published_at": "2025-07-02T15:00:46-07:00",
+      "chapters": [],
+      "position": 141,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    }
+  }
+}

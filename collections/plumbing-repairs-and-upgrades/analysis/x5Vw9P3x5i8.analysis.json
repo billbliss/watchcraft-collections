@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "x5Vw9P3x5i8.youtube",
+  "title": "Do Plumbers Need A License? A Practical Look at Plumbing Licensing",
+  "date": {
+    "display": "March 21, 2019",
+    "iso": "2019-03-21",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Long Island, New York",
+      "confidence": 0.65,
+      "basis": "Transcript identifies Ken Kogan as from Suffolk Plumbing on Long Island; explicit mention of Long Island in the dialogue"
+    },
+    {
+      "name": "Massachusetts, USA",
+      "confidence": 0.9,
+      "basis": "Transcript explicitly references a Massachusetts licensing framework for plumbers"
+    }
+  ],
+  "summary": "This interview-heavy segment examines whether plumbers require licenses and contrasts licensing expectations across regions. The guest discusses a Long Island pathway that involves seven years of work under a licensed master plumber (with no standalone LI license), cites Massachusetts as having a formal apprentice-to-journeyman-to-master ladder (three years of apprenticeship plus 300 hours of schooling), and frames licensure within broader calls to strengthen the skilled trades workforce. The conversation also emphasizes the public-health role of licensed plumbers and ends with a pro-trades career message encouraging youth away from a purely college-centric path.",
+  "topics": [
+    "HomeServe sponsorship",
+    "Do plumbers need a license?",
+    "Long Island licensing pathway",
+    "7-year apprenticeship under a master plumber",
+    "Differences between licensing models (apprenticeship vs state licensure)",
+    "Massachusetts plumber licensing (journeyman and master)",
+    "Three-year apprenticeship and 300 hours of schooling (Massachusetts)",
+    "Skilled trades workforce crisis",
+    "Generation Next",
+    "Encouragement to pursue skilled trades over college",
+    "Public health and professional responsibility in plumbing",
+    "Motto: 'We are responsible for the health of the nation'"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:39",
+      "title": "Sponsorship and central question",
+      "concepts": [
+        "sponsor",
+        "central licensing question",
+        "host/guest setup"
+      ],
+      "description": "The video opens with HomeServe as sponsor and introduces the core question of whether plumbing requires licensure, setting up the ensuing regional comparisons."
+    },
+    {
+      "start": "00:00:39",
+      "end": "00:01:08",
+      "title": "Long Island licensing path (7 years under a master plumber)",
+      "concepts": [
+        "LI apprenticeship",
+        "master plumber oversight",
+        "local practice"
+      ],
+      "description": "The speaker describes a Long Island pathway where a person works for seven years under a licensed master plumber to gain qualification, noting that LI does not use a standalone license at this stage and contrasting with apprenticeship avenues elsewhere."
+    },
+    {
+      "start": "00:01:08",
+      "end": "00:01:56",
+      "title": "Massachusetts licensing structure (journeyman and master)",
+      "concepts": [
+        "journeyman license",
+        "master plumber",
+        "three-year apprenticeship",
+        "300 hours of schooling"
+      ],
+      "description": "A second regional example is given from Massachusetts: licensure includes a journeyman license and a master plumber, requiring at least three years of apprenticeship and 300 hours of schooling."
+    },
+    {
+      "start": "00:01:56",
+      "end": "00:02:24",
+      "title": "Skilled trades workforce and career messaging",
+      "concepts": [
+        "Generation Next",
+        "skilled trades crisis",
+        "alternative to college",
+        "public health responsibility"
+      ],
+      "description": "The discussion pivots to a broader industry challenge—recruiting younger people into skilled trades—and promotes trades as a viable path to success. It also ties licensure to the public-health responsibility of plumbers, ending with a reminder that not everyone needs a college degree."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Expert interview with practicing plumber about licensure",
+      "timestamp": "00:00:05",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Regional licensure comparison (Long Island vs Massachusetts)",
+      "timestamp": "00:00:49",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Career advocacy for skilled trades and Generation Next",
+      "timestamp": "00:01:10",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Linking licensure to public health and societal responsibility",
+      "timestamp": "00:02:21",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:31:29.971007+00:00"
+}

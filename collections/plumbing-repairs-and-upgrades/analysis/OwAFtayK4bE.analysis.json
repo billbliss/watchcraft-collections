@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "video": "OwAFtayK4bE.youtube",
+  "title": "Natural Gas Grill Installation: Gas Line Tie-In, Fittings, and Leak Testing (Ask This Old House)",
+  "date": {
+    "display": "April 11, 2017",
+    "iso": "2017-04-11",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House walks through upgrading from a propane, hand-me-down grill to a natural-gas fed unit. The episode covers planning the gas-line run from the street, verifying capacity with the existing meter, and routing the line outside the building. It demonstrates both traditional threaded piping with pipe dope and a modern compression/O-ring connection for gas-tight seals, including offset elbows to correct alignment. A drip leg is installed to trap rust before it reaches the burner, followed by a soap-solution leak test. The video emphasizes consulting a licensed gas fitter and obtaining the necessary permit, and ends with a tour of the grill’s built-in features (pancake/waffle option, wok insert, beer-can chicken, pizza stone) and turning the grill on.",
+  "topics": [
+    "natural gas grill installation",
+    "gas line routing outside building",
+    "capacity assessment of gas service",
+    "permit and licensed gas fitter",
+    "cutting into gas line at meter cap",
+    "shut-off valve and gas meter",
+    "threaded steel pipe with pipe dope",
+    "threaded fittings and wrenches",
+    "offset elbows for gas line alignment",
+    "3ft/4ft/5ft pipe lengths and assembly",
+    "O-ring compression gas fittings",
+    "non-threaded push-to-connect gas connections",
+    "pipe cleaning/sanding for O-ring seal",
+    "drip leg installation",
+    "quick-connect for grill",
+    "leak testing with soap solution",
+    "grill accessories: pancake insert, wok insert, beer can chicken, pizza stone"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:23",
+      "title": "Upgrade rationale and new grill overview",
+      "concepts": [
+        "old propane grill replacement",
+        "switch to natural gas",
+        "new grill features and components",
+        "licensing and permitting requirement"
+      ],
+      "description": "Intro compares the old propane setup to a new natural-gas grill and notes that a licensed professional and permit are required for the installation."
+    },
+    {
+      "start": "00:01:23",
+      "end": "00:04:49",
+      "title": "Gas-line run, cut-in, and pipe assembly",
+      "concepts": [
+        "planning gas line route along exterior of building",
+        "meter/cap assessment for capacity",
+        "shut-off valve and service connections",
+        "cut-in at cap near street gas line",
+        "threaded steel pipe with pipe dope",
+        "offset elbows for alignment",
+        "pre-fabricated pipe lengths",
+        "O-ring compression fittings"
+      ],
+      "description": "The installer plans and executes the exterior gas-line run, assesses capacity, cuts into the line at a cap, shuts off gas, and assembles with threaded pipe and a modern compression/O-ring system for a tight seal."
+    },
+    {
+      "start": "00:04:49",
+      "end": "00:05:57",
+      "title": "Leak testing and grill feature demonstration",
+      "concepts": [
+        "drip leg as rust/condensation trap",
+        "quick-connect fitting",
+        "soap-solution leak testing",
+        "grill accessory demonstrations: pancakes, wok insert, beer can chicken, pizza stone",
+        "final steps to cooking readiness"
+      ],
+      "description": "After completing connections, the system is tested for leaks with a soap solution. The segment then showcases the grill’s removable features and various cooking accessories before final ignition."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "O-ring compression gas fitting (non-threaded) with external compression tool",
+      "timestamp": "00:03:16.440",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Drip leg installation to trap debris/condensation",
+      "timestamp": "00:04:29.400",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Soap-solution leak testing for propane/natural gas lines",
+      "timestamp": "00:04:51.880",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Push-to-connect style gas fitting approach as an alternative to threaded joints",
+      "timestamp": "00:03:20.519",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Offset elbow method to align a gas run",
+      "timestamp": "00:02:51.760",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Threaded steel pipe with pipe dope and two-wrench tightening",
+      "timestamp": "00:02:35.920",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cap removal and integration of a shut-off valve into the service line",
+      "timestamp": "00:02:04.360",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:42:43.223014+00:00"
+}

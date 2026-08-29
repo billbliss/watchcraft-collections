@@ -1,0 +1,159 @@
+{
+  "schema_version": 2,
+  "video": "8hMo-HI56oY.youtube",
+  "title": "Drain and Vent a Bathroom Sink: Converting a Double Trap to a Single Trap with a Mechanical Vent and Faucet Replacement",
+  "date": {
+    "display": "July 23, 2018",
+    "iso": "2018-07-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House’s Ask This Old House episode demonstrates diagnosing and correcting a bathroom sink drainage problem caused by an unvented, double-trap configuration (a full S-trap) and replacing the faucet along the way. The host explains how two traps can siphon water from each other, potentially leaving traps dry and allowing sewer gases to back up. To fix the system without wall demolition, the team installs a single-trap drain and uses a mechanical vent (air-admittance valve) to admit air when water flows, preventing vacuum pull while blocking sewer gases. The episode also covers updating the faucet and drain components (plumber’s putty, pop-up drain, and PVC glue) and confirms proper function with flow and vent tests after assembly. The narrative blends diagnosis, DIY faucet replacement, drain redesign, and testing to illustrate a practical retrofit that avoids major renovation.",
+  "topics": [
+    "double trap under sink",
+    "S-trap problems",
+    "unvented drain risks",
+    "venting vs. roof vent",
+    "mechanical vent / air-admittance valve (AAV)",
+    "single-trap drain configuration",
+    "drain tee fitting",
+    "PVC solvent cement glue",
+    "plumber's putty for drain connections",
+    "pop-up drain installation",
+    "faucet replacement and mounting",
+    "three-hole countertop vs single-hole faucet compatibility",
+    "drain assembly testing",
+    "basin fill test for venting",
+    "hot and cold faucet supply considerations",
+    "basin vacuum test demonstration"
+  ],
+  "sections": [
+    {
+      "start": "00:00:19.800",
+      "end": "01:50.000",
+      "title": "Diagnosis: doubled traps, S-trap, and vent absence",
+      "concepts": [
+        "two traps under the sink",
+        "S-trap behavior",
+        "no venting present",
+        "risk of siphoning and dry traps",
+        "potential sewer gas issues"
+      ],
+      "description": "Initial diagnosis: the drainage side has two traps (a double/trap loop) and no vent. The explanation covers why two traps form an S-trap configuration that can siphon water from traps, leaving no water in the seals and allowing sewer gas to vent back into the bathroom."
+    },
+    {
+      "start": "05:04:000",
+      "end": "05:58:000",
+      "title": "Glue-up, connections, and final prep",
+      "concepts": [
+        "plumber’s putty at drain connections",
+        "PVC glue/solvent cement",
+        "drain assembly finalization",
+        "system cleanup"
+      ],
+      "description": "The drain assembly is glued and sealed. Plumber’s putty is applied, PVC connections are cemented, and preparations for final testing are completed."
+    },
+    {
+      "start": "05:58:000",
+      "end": "06:04:000",
+      "title": "Final test and verification",
+      "concepts": [
+        "faucet test (hot/cold)",
+        "drain operation test",
+        "mechanical vent testing with basin fill",
+        "no gurgle confirmation"
+      ],
+      "description": "The system is tested: hot and cold water flow from the faucet is confirmed, the drain functions with the new single-trap and mechanical vent, and a basin-fill test is performed to observe the vent’s effect and ensure a proper drain without gurgling."
+    },
+    {
+      "start": "01:50.000",
+      "end": "03:04.000",
+      "title": "Faucet removal and pre-installation considerations",
+      "concepts": [
+        "removing old faucet",
+        "new faucet selection",
+        "three-hole countertop vs single-hole mounting",
+        "pop-up drain compatibility"
+      ],
+      "description": "Transition to updating fixtures; note of a new brushed-nickel waterfall faucet and the countertop’s three-hole arrangement, with planning to install a faucet that fits the existing holes and includes a matching pop-up drain."
+    },
+    {
+      "start": "03:04.000",
+      "end": "04:21.000",
+      "title": "Faucet installation and under-sink prep",
+      "concepts": [
+        "plumber’s putty application",
+        "under-sink mounting hardware",
+        "secure faucet and seal",
+        "pop-up drain prep"
+      ],
+      "description": "The faucet is mounted and sealed using putty, and the under-mount connections are prepared. The host demonstrates tightening the mounting nut to compress putty and create a seal, and plans for the new pop-up drain assembly."
+    },
+    {
+      "start": "04:21.000",
+      "end": "04:45.000",
+      "title": "Drain redesign plan: single trap and venting approach",
+      "concepts": [
+        "remove dual traps",
+        "install single trap",
+        "drain through a single trap",
+        "avoid wall demolition"
+      ],
+      "description": "Plan to replace the old two-trap configuration with a single trap and route the drain to a venting solution that does not require opening walls."
+    },
+    {
+      "start": "04:45.000",
+      "end": "05:04:000",
+      "title": "Introduction to the mechanical vent concept",
+      "concepts": [
+        "mechanical vent (air-admittance valve)",
+        "no roof vent through walls",
+        "how the vent admits air",
+        "preventing sewer gas escape"
+      ],
+      "description": "Introduction of using a mechanical vent as an alternative to a roof vent, explaining that it allows air to enter to break the vacuum during draining but blocks sewer gases from escaping."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Mechanical vent (air-admittance valve) installation as an alternative to roof venting",
+      "timestamp": "00:04:21",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Converting a double-trap S-trap to a single-trap drain",
+      "timestamp": "04:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Faucet replacement and under-sink mounting",
+      "timestamp": "02:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Pop-up drain installation and finish sealing",
+      "timestamp": "02:48",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Plumber’s putty application and gasket sealing at drain connections",
+      "timestamp": "03:04",
+      "confidence": 0.7
+    },
+    {
+      "technique": "PVC pipe solvent cement/glue for drain connections",
+      "timestamp": "04:49",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Drain system testing with basin fill to verify venting and drainage",
+      "timestamp": "05:30",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:45:55.925887+00:00"
+}

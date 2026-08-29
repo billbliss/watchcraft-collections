@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "video": "iP7KXv2ab-o.youtube",
+  "title": "How to Change a Toilet Seat",
+  "date": {
+    "display": "August 20, 2014",
+    "iso": "2014-08-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House’s quick-guide demonstrates how to replace a toilet seat, covering seat sizing (round-front vs. elongated), accessing and removing top bolts with proper tools, and handling common hardware issues. It contrasts plastic fasteners with older brass hardware, explains why space constraints matter, and offers practical techniques such as using a basin wrench for tight spaces, a deep socket for corrosion, penetrant oil, and careful cutting with a hacksaw while protecting the porcelain with a putty knife.",
+  "topics": [
+    "toilet seat sizing",
+    "round-front vs elongated seats",
+    "toilet seat back-to-front measurement",
+    "exposing top bolt",
+    "cover removal",
+    "top bolt installation/removal",
+    "wing nut behavior",
+    "plastic vs brass fasteners",
+    "choosing screwdriver size to avoid damage",
+    "use of a proper blade screwdriver",
+    "counterclockwise loosening",
+    "basin wrench for tight spaces",
+    "tight-space tool alternatives (adjustable wrench, ratchet)",
+    "brass hinge bolts",
+    "corrosion on bottom nut",
+    "deep socket use for brass bolts",
+    "penetrating oil for corrosion",
+    "bolts cutting as a last resort",
+    "mini hacksaw blade holder",
+    "porcelain protection during cutting",
+    "putty knife as shield for china"
+  ],
+  "sections": [
+    {
+      "start": "00:00:12",
+      "end": "00:00:25",
+      "title": "Choosing the correct toilet seat size",
+      "concepts": [
+        "round-front seat (~16 in from back to front)",
+        "elongated seat (~18 in from back to front)"
+      ],
+      "description": "Introduces the two common seat shapes and their back-to-front measurements to ensure the new seat fits the toilet correctly."
+    },
+    {
+      "start": "00:00:33",
+      "end": "00:01:07",
+      "title": "Accessing and removing the top bolt",
+      "concepts": [
+        "exposed top bolt under cover",
+        "plastic bolt versus metal hardware",
+        "wing-nut on modern plastic hardware",
+        "using a proper blade screwdriver"
+      ],
+      "description": "Shows exposing the top bolt, avoiding damage by using an appropriately sized screwdriver, and beginning to loosen the bolt counterclockwise. Explains that modern plastic nuts are often wing-nuts."
+    },
+    {
+      "start": "00:01:24",
+      "end": "00:01:46",
+      "title": "Working in tight spaces with constrained access",
+      "concepts": [
+        "tight space next to tub/vanity/wall",
+        "basin wrench as a reach-tool",
+        "alternative tools for limited access"
+      ],
+      "description": "Discusses how space constraints complicate removing the lower nut and introduces the basin wrench as a tool designed for tight access, with note of other compact options."
+    },
+    {
+      "start": "00:01:49",
+      "end": "00:02:15",
+      "title": "Older brass hardware and corrosion",
+      "concepts": [
+        "brass hinge bolts",
+        "metal hardware vs plastic",
+        "bottom nut corrosion",
+        "deep socket strategy",
+        "penetrating oil as a first-step aid"
+      ],
+      "description": "Addresses the common difficulty of older toilets with brass hardware and corroded bottom nuts, recommending a deep socket to back off the nut and suggesting penetrating oil to break down corrosion."
+    },
+    {
+      "start": "00:02:22",
+      "end": "00:02:46",
+      "title": "Last-resort bolt removal and porcelain protection",
+      "concepts": [
+        "cutting bolt with mini hacksaw blade holder",
+        "protecting the china with a broad knife/putty knife",
+        "steady strokes to avoid damage"
+      ],
+      "description": "If the bolt cannot be removed, demonstrates cutting the bolt off while using a putty knife or broad knife to shield the porcelain and prevent chipping or cracking."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Expose top bolt and remove wing-nut with proper screwdriver",
+      "timestamp": "00:00:33",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Loosen plastic wing-nut by turning counterclockwise and manage nut with hand when possible",
+      "timestamp": "00:00:58",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Use basin wrench to reach and hold bottom nut in tight spaces",
+      "timestamp": "00:01:26",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Alternative tight-space tool: adjustable wrench with ratchet or 90-degree orientation",
+      "timestamp": "00:01:41",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Loosen or back off corroded brass bottom nut with a deep socket",
+      "timestamp": "00:02:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Penetrating oil to break down corrosion before forcing nuts",
+      "timestamp": "00:02:12",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cut bolt off with mini hacksaw blade holder, while protecting porcelain",
+      "timestamp": "00:02:22",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Protect porcelain during cutting using a broad knife or putty knife",
+      "timestamp": "00:02:33",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:20:32.398064+00:00"
+}

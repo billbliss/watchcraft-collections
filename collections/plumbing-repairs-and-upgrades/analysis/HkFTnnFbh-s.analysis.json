@@ -1,0 +1,109 @@
+{
+  "schema_version": 2,
+  "video": "HkFTnnFbh-s.youtube",
+  "title": "Replacing a Leaking PVC Sink Trap: Cut, Remove, and Rebuild the Kitchen Drain",
+  "date": {
+    "display": "December 1, 2014",
+    "iso": "2014-12-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under kitchen sink (probable filming location in cabinet)",
+      "confidence": 0.65,
+      "basis": "Transcript references the kitchen sink drain and the trap located under the sink; no explicit shooting location is stated."
+    }
+  ],
+  "summary": "This Old House demonstrates diagnosing a leaking PVC sink trap and replacing a glued, in-wall drain run with a new, correctly sized assembly. The video explains why glued PVC joints must be cut out rather than unsoldered, shows how to drain and remove the old trap, uses a drill-mounted cutter head to extract remaining in-wall pipe, and then fabricates a new drainage run that reduces from a 2-inch wall pipe to a 1.5-inch trap. The sequence includes dry-fitting in a tight cabinet, gluing the wall connection, assembling compression fittings, and testing the finished install with a bowl and paper towel to verify a watertight connection.",
+  "topics": [
+    "PVC sink trap",
+    "Leak diagnosis under sink",
+    "Glues and PVC cement for drainage",
+    "Cutting glued PVC at base of Y",
+    "Removing glued drain assembly",
+    "In-wall PVC pipe removal with drill-mounted cutter head",
+    "Special cutter head with guide disc",
+    "In-wall pipe removal technique",
+    "2-inch to 1.5-inch reducing coupling",
+    "Dry-fitting multiple fittings in tight space",
+    "Cleaning pipe and fittings before gluing",
+    "PVC piping glue sequence",
+    "Compression fittings in drain assemblies",
+    "Water test for drainage leaks",
+    "Paper towel test under trap",
+    "Final leak verification"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:10",
+      "title": "Identify leak and plan removal",
+      "concepts": [
+        "PVC drain trap",
+        "leak under sink",
+        "glued joints",
+        "need to cut out damaged section",
+        "Y-fitting location"
+      ],
+      "description": "The presenter notes a leaking PVC trap after final inspection and explains that PVC joints are glued and cannot be unsoldered, necessitating cutting out the damaged assembly."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:02:53",
+      "title": "Remove old glued assembly and clear in-wall pipe",
+      "concepts": [
+        "base of the Y cut",
+        "removal of glued trap",
+        "in-wall pipe removal",
+        "drill-mounted cutter head",
+        "special cutter head with guide disc"
+      ],
+      "description": "The old assembly is taken apart by cutting at the base of the Y; remaining in-wall PVC is removed with a drill-mounted cutter head designed to avoid damaging fittings."
+    },
+    {
+      "start": "00:02:54",
+      "end": "00:04:10",
+      "title": "Fabricate and install new drain run; test",
+      "concepts": [
+        "2\" wall pipe vs 1.5\" trap",
+        "reducing coupling",
+        "gluing and dry-fitting",
+        "compression connections",
+        "water test with bowl and paper towel"
+      ],
+      "description": "A new run is assembled with a 2-inch wall pipe reduced to 1.5-inch to fit the trap; joints are glued after cleaning, parts are dry-fitted in a tight space, and compression connections are completed before a water test verifies watertightness."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cutting the base of the Y to remove a glued PVC trap",
+      "timestamp": "00:00:46",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using a drill-mounted cutter head with a guide disc to remove in-wall PVC",
+      "timestamp": "00:01:42",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Reducing a 2\" wall drain to 1.5\" to fit a kitchen sink trap (2\" to 1.5\" coupling)",
+      "timestamp": "00:02:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gluing and dry-fitting a new PVC drain run in a tight cabinet",
+      "timestamp": "00:02:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Water test for leaks using a bowl and paper towel under the trap",
+      "timestamp": "00:03:59",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:15:56.894408+00:00"
+}

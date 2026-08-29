@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "video": "b6Pk7RQA9ag.youtube",
+  "title": "Installing a Single-Lever, Anti-Scald Shower Valve (Pressure-Balance) in a Bathroom",
+  "date": {
+    "display": "March 5, 2016",
+    "iso": "2016-03-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Bathroom",
+      "confidence": 0.95,
+      "basis": "Explicitly shown and discussed as the work area in the transcript"
+    },
+    {
+      "name": "Basement",
+      "confidence": 0.9,
+      "basis": "Explicitly referenced as the place to turn off the water"
+    }
+  ],
+  "summary": "This Old House presents a step-by-step installation of a modern single-lever, pressure-balanced anti-scald shower valve to replace a failing old three-valve tub/shower setup. The episode covers diagnosing the risk of scalding due to pressure fluctuations, removing the old valve and surrounding tile, templating and cutting the wall for a new valve, dry-fitting and soldering copper connections, installing the trim plate and safety limit, and testing the finished shower for both temperature stability and leak-free operation, all while discussing code implications for anti-scald valves and permits when remodeling.",
+  "topics": [
+    "three-valve tub/shower valve",
+    "single-lever pressure-balanced shower valve",
+    "anti-scald valve",
+    "diverter in tub/shower assemblies",
+    "escutcheon/cover plate",
+    "handle puller",
+    "valve stem removal",
+    "valve body removal",
+    "wall template and witness lines",
+    "tile removal and mud bed construction",
+    "oscillating saw with carbide blade",
+    "reciprocating saw",
+    "dry-fitting copper connections",
+    "flux and soldering copper pipe",
+    "spindle handling and reinstallation",
+    "leak testing after soldering",
+    "temperature limit adjustment",
+    "gasket, putty, and watertight seal",
+    "code considerations for anti-scald installations"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:12:00",
+      "title": "Problem identification: Old three-valve system and scald risk",
+      "concepts": [
+        "three-valve tub/shower valve",
+        "diverter",
+        "hot/cold water mixing",
+        "pressure fluctuations causing scalding"
+      ],
+      "description": "Richard explains how the old three-valve setup mixes hot and cold water at a single diverter and how pressure drops elsewhere in the house can cause sudden hot water inflow, creating a scald risk. The plan is to replace with a single-lever, pressure-balanced valve to stabilize temperature."
+    },
+    {
+      "start": "01:12:00",
+      "end": "05:11:00",
+      "title": "Preparation and wall prep: cover plate, shutoff, and removal",
+      "concepts": [
+        "manufacturer cover plate",
+        "escutcheon/trim plate",
+        "shutoff in basement",
+        "removing handles with a puller",
+        "removing the escutcheons and stems",
+        "template and witness lines for wall cutout"
+      ],
+      "description": "To avoid retiling, a cover plate is used to conceal old valve openings. The water is shut off in the basement, and the old handles, escutcheons, and stems are removed with a handle puller. The wall opening is planned using a manufacturer template and witness lines to mark the cutout."
+    },
+    {
+      "start": "05:11:00",
+      "end": "08:33:00",
+      "title": "Valve installation: dry-fit, soldering, and safety checks",
+      "concepts": [
+        "dry-fit of the new valve",
+        "copper pipe cleaning and flux",
+        "soldering copper connections",
+        "spindle handling",
+        "leak testing after assembly"
+      ],
+      "description": "The single-lever pressure-balanced valve is dry-fitted in the wall, then the hot and cold supplies, shower head, and tub spout connections are prepared with cleaned fittings and flux before soldering. The spindle is removed and later reinstalled, and a leak test is performed after reassembly."
+    },
+    {
+      "start": "08:33:00",
+      "end": "11:16:00",
+      "title": "Finish trim, setting temperature limit, and final test",
+      "concepts": [
+        "gasket and putty for a watertight seal",
+        "escutcheon and trim plate installation",
+        "temperature limit adjustment",
+        "final test drive",
+        "code considerations and safety discussion"
+      ],
+      "description": "The trim plate and escutcheon are installed with a gasket and putty to seal the wall. A temperature limit is set using a screw and a thermometer to keep the shower output around 120 F or lower. The finish is tested with a shower run, including checks of the diverter function between tub and shower, and a safety-code discussion about anti-scald requirements and permits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explain the operation of an old three-valve tub/shower valve and how pressure fluctuations can cause scalding",
+      "timestamp": "00:01:12",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Replace with a single-lever, pressure-balanced shower valve to stabilize temperature",
+      "timestamp": "00:01:14",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Use a manufacturer cover plate to conceal old valve openings and avoid retiling",
+      "timestamp": "01:12:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Remove old handles with a handle puller",
+      "timestamp": "02:57",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Remove valve stems with a pipe wrench after escutcheon removal",
+      "timestamp": "03:26",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Mark wall cutout using a template and witness lines for precise tile removal",
+      "timestamp": "03:55",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Remove tile and mud bed with oscillating saw and carbide blade",
+      "timestamp": "04:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Cut the wall with a reciprocating saw to free the old valve",
+      "timestamp": "05:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Dry-fit and solder copper pipe connections with flux for the new valve",
+      "timestamp": "05:20",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Test for leaks by turning water back on after soldering and spindle reinstallation",
+      "timestamp": "06:19",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Set a temperature limit on the pressure-balanced valve to prevent scalding",
+      "timestamp": "08:01",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Install trim plate, gasket, cap, and test the finished temperature",
+      "timestamp": "08:33",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Discuss code and safety considerations for anti-scald valves and permitting in remodeling",
+      "timestamp": "10:39",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:55:08.372053+00:00"
+}

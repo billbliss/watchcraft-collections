@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "video": "Oc7EOqMpckc.youtube",
+  "title": "Are Plastic Water Heaters Worth It? This Old House – Plastic-Tank vs Glass-Lined Steel Comparison",
+  "date": {
+    "display": "May 4, 2018",
+    "iso": "2018-05-04",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "North Carolina",
+      "confidence": 0.75,
+      "basis": "Transcript explicitly places Stacey in North Carolina"
+    },
+    {
+      "name": "home center (hardware store)",
+      "confidence": 0.7,
+      "basis": "Transcript states she walked into the home center; used as a location reference"
+    }
+  ],
+  "summary": "This Old House hosts evaluate whether a plastic water heater is a worthwhile upgrade by contrasting a 50-gallon plastic-tank unit with a traditional glass-lined steel tank. The discussion covers upfront cost (~$1,200), the plastic tank’s lifetime warranty on the tank, and improved insulation, then contrasts corrosion protection (anode rods) and maintenance implications (heating element replacements) with the conventional tank. They quantify modest electrical efficiency gains (about 5–10%), note that the warranty on plastic tanks often applies only to the tank itself, and emphasize weighing the economics against anticipated, long-term occupancy in the home when making a purchase decision.",
+  "topics": [
+    "Plastic water heater (50-gallon) tank",
+    "Upfront cost (~$1,200)",
+    "Lifetime warranty on the plastic tank",
+    "Two inches insulation on the plastic tank",
+    "Comparison to glass-lined steel tank",
+    "Anode rod sacrificial protection",
+    "Electrolysis and corrosion in water heaters",
+    "Electric heating elements inside the tank",
+    "Maintenance: heating element replacement",
+    "Electrical efficiency gain: 5-10%",
+    "Payback period considerations",
+    "Warranty scope: tank vs parts"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:30:00",
+      "title": "Context and initial inquiry",
+      "concepts": [
+        "Stacey in North Carolina seeking information about plastic water heaters",
+        "Introduction of a 50-gallon plastic tank and its lifetime warranty on the tank",
+        "Price observation (~$1,200) and initial impression vs conventional tanks"
+      ],
+      "description": "Introduces the homeowner’s question about whether a plastic tank water heater is a better choice than a traditional glass-lined steel tank, including the price and warranty setup."
+    },
+    {
+      "start": "00:30:00",
+      "end": "01:01:00",
+      "title": "Plastic tank features vs traditional tank",
+      "concepts": [
+        "Plastic tank construction and 2 inches of insulation",
+        "Warranty on the tank being lifetime",
+        "Direct comparison to conventional glass-lined steel tanks"
+      ],
+      "description": "Outlines the plastic tank’s stated advantages (lifetime tank warranty, better insulation) and frames the comparison against a standard glass-lined steel tank."
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:30:00",
+      "title": "Corrosion protection: Anode rods and electrolysis",
+      "concepts": [
+        "Anode rod as sacrificial protection inside the tank",
+        "Electrolysis risk and corrosion of ferrous metals",
+        "What the anode rod is made of (manganese or aluminum)"
+      ],
+      "description": "Explains the core failure mechanism for traditional tanks and how an anode rod is intended to prevent corrosion; includes expectation vs. reality of anode rod condition."
+    },
+    {
+      "start": "01:30:00",
+      "end": "02:02:00",
+      "title": "Efficiency, cost, and payback",
+      "concepts": [
+        "Electrical efficiency difference between plastic-tank and conventional tanks",
+        "Upfront cost around $1,200",
+        "Estimated energy savings of ~5–10%",
+        "Payback considerations and staying duration in the home"
+      ],
+      "description": "Discusses whether the modest efficiency gains justify the higher upfront cost, emphasizing that payback depends on how long the homeowner remains in the house."
+    },
+    {
+      "start": "02:02:00",
+      "end": "02:51:00",
+      "title": "Inside the tank: elements and maintenance decisions",
+      "concepts": [
+        "Heating elements inside electric water heaters are steel",
+        "Elements will eventually require replacement",
+        "Warranty distinction: tank vs parts (and what that means for ongoing maintenance)",
+        "Decision factors: how long you expect to stay in the home"
+      ],
+      "description": "Describes the internal components (two heating elements, steel construction) and the maintenance lifecycle, highlighting that element replacement is a future consideration and tying it back to the decision to buy."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Anode rod sacrificial protection to prevent tank corrosion",
+      "timestamp": "01:09:04",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Electrolysis and corrosion risk in water heaters",
+      "timestamp": "01:01:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Plastic tank insulation and design versus glass-lined steel",
+      "timestamp": "00:40:48",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Maintenance planning: heating element replacement in electric tanks",
+      "timestamp": "02:06:48",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cost vs efficiency gain and payback considerations",
+      "timestamp": "01:53:52",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:39:06.204702+00:00"
+}

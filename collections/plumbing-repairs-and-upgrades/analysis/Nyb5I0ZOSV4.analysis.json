@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "video": "Nyb5I0ZOSV4.youtube",
+  "title": "Advantech On-Site Septic System: Aerobic Nitrification for Watershed Protection",
+  "date": {
+    "display": "June 13, 2019",
+    "iso": "2019-06-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Westerly, Rhode Island (on-site project)",
+      "confidence": 0.8,
+      "basis": "Transcript explicitly identifies the speaker as being at a project in Westerly, RI"
+    }
+  ],
+  "summary": "This This Old House Pro2Pro segment documents an on-site septic system upgrade near water resources in Westerly, RI. The host contrasts a conventional 1,500-gallon septic tank with an Advantech aerobic treatment system housed in a vault. The conventional design uses anaerobic digestion in a two-chamber tank, where solids are separated and ammonia/nitrogen byproducts can enter groundwater. The Advantech setup adds an aerobic stage with distribution ports, screens, and aerobic bacteria that oxidize ammonia to nitrogen, which is vented through a roof exhaust. The treated effluent then passes to a sand/gravel dispersion field contained by a PVC liner to protect below-grade wood and meet code. The video highlights practical considerations such as system access for maintenance and cautions about decks over the system. Overall, the presentation argues that the Advantech approach yields substantially cleaner discharge (in the order of ten times cleaner) and better watershed protection than a conventional septic system.",
+  "topics": [
+    "Advantech septic system",
+    "two-chamber septic tank",
+    "septic tank baffle",
+    "anaerobic bacteria",
+    "ammonia management",
+    "nitrogen in effluent",
+    "aerobic bacteria in vault",
+    "ammonia oxidation to nitrogen",
+    "nitrogen gas vent",
+    "roof venting",
+    "effluent discharge quality",
+    "sand pit dispersion field",
+    "gravel and sand filtration",
+    "PVC liner containment",
+    "below-grade wood protection",
+    "code-compliant construction below grade",
+    "deck placement considerations",
+    "maintenance access",
+    "float-controlled pump",
+    "gravity-fed distribution",
+    "on-site wastewater treatment near waterways"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:40",
+      "title": "Site context and system overview",
+      "concepts": [
+        "project location in Westerly RI",
+        "absence of city sewer",
+        "proximity to a pond and ocean",
+        "introduction to Advantech system",
+        "high-level goal to protect watershed"
+      ],
+      "description": "The host explains the project site, its lack of public sewer, and the need for a septic solution near sensitive waterways. The Advantech system is introduced as the higher-performance option for this watershed-adjacent site."
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:03:25",
+      "title": "Conventional septic tank operation and nitrogen risk",
+      "concepts": [
+        "1,500-gallon conventional septic tank",
+        "two-chamber layout with a baffle",
+        "solids in the first chamber",
+        "anaerobic bacteria digestion",
+        "risk of ammonia and nitrogen in discharged effluent"
+      ],
+      "description": "A description of the conventional two-chamber septic tank: solids settle in the first chamber, anaerobic bacteria digest materials, and the process can release nitrogenous compounds into the effluent if not adequately managed."
+    },
+    {
+      "start": "00:03:25",
+      "end": "00:04:10",
+      "title": "Advantech aerobic vault and nitrification",
+      "concepts": [
+        "vault with distribution ports",
+        "screens and filtration",
+        "aerobic bacteria consuming ammonia",
+        "conversion of ammonia to nitrogen",
+        "nitrogen-rich water cycling within the vault"
+      ],
+      "description": "The Advantech system's aerobic stage is described: a vault with distribution ports and screens hosts aerobic bacteria that oxidize ammonia to nitrogen, with water cycling within the chamber to sustain the process and reduce ammonia levels."
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:04:50",
+      "title": "Final discharge, filtration, and containment",
+      "concepts": [
+        "gravity-driven discharge to a sand/gravel field",
+        "three feet of sand below the distribution",
+        "PVC liner containment on the sides",
+        "below-grade wood considerations and code"
+      ],
+      "description": "Discharged effluent passes through a sand/gravel dispersion field. A PVC liner helps contain the system and protect any wooden components below grade, in line with code considerations for material use."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:04:59",
+      "title": "Deck considerations and maintenance access",
+      "concepts": [
+        "deck placement over the treatment area",
+        "possible self-supported deck requirement",
+        "importance of maintaining service access",
+        "risk of contaminant material if access is obstructed"
+      ],
+      "description": "The presenter discusses whether a deck can be built over the system and emphasizes ensuring access for ongoing maintenance and servicing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Advantech on-site septic system (aerobic vault) demonstration",
+      "timestamp": "00:03:25",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Aerobic nitrification in vault using distribution ports and screens",
+      "timestamp": "00:03:40",
+      "confidence": 0.68
+    },
+    {
+      "technique": "Nitrogen gas formation and roof venting of vented effluent",
+      "timestamp": "00:03:50",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Pump and float-activated distribution from the vault",
+      "timestamp": "00:03:36",
+      "confidence": 0.63
+    },
+    {
+      "technique": "Sand/gravel dispersion field with PVC liner containment",
+      "timestamp": "00:04:10",
+      "confidence": 0.66
+    },
+    {
+      "technique": "Code-compliant below-grade wood treatment and containment",
+      "timestamp": "00:04:22",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:38:23.285866+00:00"
+}

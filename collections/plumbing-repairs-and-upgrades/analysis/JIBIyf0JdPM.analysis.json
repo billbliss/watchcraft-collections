@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "video": "JIBIyf0JdPM.youtube",
+  "title": "Traditional Rigid Ductwork Installation: Assembly, Sealing, and Insulation",
+  "date": {
+    "display": "March 20, 2020",
+    "iso": "2020-03-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House segment demonstrates a classic approach to installing rigid sheet-metal ductwork. It shows assembling two halves of rectangular duct, joining them with male/female connections using S-clips and drive cleats, and fastening with zip screws. It then covers sealing the seams with mastic products (mastic tape for longitudinal seams and elastomeric mastic for butt seams) and finally insulating the run with two-inch fiberglass insulation. The host notes the purpose of insulation in keeping conditioned air in the ducts and reducing energy loss, providing practical, step-by-step guidance on traditional duct installation.",
+  "topics": [
+    "Rigid ductwork basics (rectangular/square duct components)",
+    "Two-halves duct construction",
+    "Tin knocking and nail alignment (male/female duct ends)",
+    "Notching corners for mating joints",
+    "Bending with a metal brake for clean edges",
+    "S-clip use to couple duct pieces",
+    "Drive cleat positioning for joint strength",
+    "Zip screws securing duct corners",
+    "Sealing longitudinal seams with mastic tape",
+    "Sealing butt seams with elastomeric mastic",
+    "Applying tape over wet mastic seam areas",
+    "Insulation of duct with 2-inch fiberglass insulation",
+    "Foil-faced fiberglass insulation characteristics",
+    "Securing insulation with staples",
+    "Importance of insulation for energy efficiency and correct heat/cool distribution"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02.080",
+      "end": "00:02:43.680",
+      "title": "Rigid duct assembly and jointing",
+      "concepts": [
+        "Traditional rigid duct halves (rectangular/square)",
+        "Two-halves joining and male/female connections",
+        "Notching corners to prepare for mating joints",
+        "Tin knocking as a joining method",
+        "Using a brake to bend edges for clean lines",
+        "S-clip alignment and function",
+        "Drive cleat placement for joint alignment",
+        "Zip screws securing corners"
+      ],
+      "description": "Introduces the traditional rigid ductwork approach, explaining that ductwork typically arrives in two halves that are joined together. Demonstrates notching, bending with a brake, aligning S-clips, drive cleats, and securing with zip screws to create a solid, detachable joint."
+    },
+    {
+      "start": "00:02:52.000",
+      "end": "00:03:33.360",
+      "title": "Sealing and securing seams",
+      "concepts": [
+        "Longitudinal seam sealing with mastic tape",
+        "Butt seam sealing with elastomeric mastic",
+        "Taping over wet mastic areas to reinforce seal"
+      ],
+      "description": "Shows how to create airtight duct runs by sealing all longitudinal seams with mastic tape and butt seams with elastomer mastic, then applying additional tape over the wet material to ensure a durable seal."
+    },
+    {
+      "start": "00:03:33.360",
+      "end": "00:04:19.280",
+      "title": "Insulation and finishing",
+      "concepts": [
+        "Two-inch insulation",
+        "Fiberglass insulation with foil facing",
+        "Pulling insulation snug and stapling to secure",
+        "Purpose of insulation: keep conditioned air and improve efficiency"
+      ],
+      "description": "Covers installing 2-inch insulation around the duct, ensuring a snug fit, and securing it with staples. Explains why insulation is important for keeping heat or cooling where it belongs and for energy efficiency."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Joining two halves of rigid duct using S-clips and drive cleats",
+      "timestamp": "00:01:37.680",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Notching corners to prepare for mating joints",
+      "timestamp": "00:01:08.640",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Bending edges with a metal brake for straight alignment",
+      "timestamp": "00:01:18.960",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sealing longitudinal seams with mastic tape",
+      "timestamp": "00:02:56.080",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sealing butt seams with elastomeric mastic",
+      "timestamp": "00:03:04.720",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Insulating duct with 2-inch fiberglass insulation (foil-faced)",
+      "timestamp": "00:03:38.319",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Securing insulation with staples",
+      "timestamp": "00:03:56.959",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Tin knocking (nailing joint alignment) as a joining cue",
+      "timestamp": "00:00:58.800",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Zip screws securing duct corners",
+      "timestamp": "00:02:36.400",
+      "confidence": 0.8
+    },
+    {
+      "technique": "General two-halves rectangular duct assembly method",
+      "timestamp": "00:00:32.719",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:23:09.707658+00:00"
+}

@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "c_aOFqL6bc8.youtube",
+  "title": "Diagnosing Humidity in a 3-Ton A/C System: Heat-Gain Calculation, UV Light Impact, and Filtration Upgrades",
+  "date": {
+    "display": "May 27, 2019",
+    "iso": "2019-05-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Attic (air handler)",
+      "confidence": 0.85,
+      "basis": "Explicit mention of the air handler being in the attic"
+    }
+  ],
+  "summary": "The video documents a humidity problem following a new air conditioner installation. The host evaluates whether the system is correctly sized, performs a heat gain check, and confirms the unit is a three-ton system appropriate for the building’s insulation and envelope. It then examines how a smart thermostat and a UV germicidal light may be influencing humidity and fan behavior, identifying unintended consequences that can worsen moisture control. The solution centers on improving filtration and airflow: upgrading to a high-density, five-inch pleated filter, modifying the return duct to accommodate the larger filter housing, sealing the air path, and adjusting the thermostat to run the fan during cooling to enhance dehumidification. The UV feature is noted to be limited in addressing allergens, reinforcing filtration as the key strategy for reducing humidity and allergens.",
+  "topics": [
+    "Heat gain calculation",
+    "HVAC tonnage sizing",
+    "Three-ton system",
+    "Attic insulation status",
+    "Concrete block walls insulation",
+    "Building envelope factors (roof, walls, sun exposure, trees)",
+    "Heat gain app",
+    "System sizing verification",
+    "Smart thermostat behavior and humidity",
+    "Humidity swings after thermostat cycling",
+    "Continuous fan operation and UV light interaction",
+    "UV germicidal light limitations",
+    "Allergy vs. filtration",
+    "1-inch pleated air filter",
+    "5-inch pleated air filter",
+    "Filter replacement frequency",
+    "Return duct modification for filter housing",
+    "Foil tape sealing",
+    "Cover plate installation",
+    "Contractor involvement (Terry McClellan)",
+    "Thermostat fan operation during cooling"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:16",
+      "title": "Assess system size and heat gain",
+      "concepts": [
+        "Heat gain calculation",
+        "Tonnage sizing",
+        "Attic air handler location",
+        "Roof insulation status",
+        "Concrete block walls insulation",
+        "Sun exposure and shading",
+        "Heat gain app input",
+        "Three-ton system stated"
+      ],
+      "description": "The speaker introduces extreme humidity after a new install and attributes it to potential oversizing. He explains the importance of a heat gain calculation to determine the correct tonnage and checks the attic-installed unit and envelope (noting the roof has no insulation and walls are concrete block) to see if the three-ton system is appropriate."
+    },
+    {
+      "start": "00:02:16",
+      "end": "00:04:04",
+      "title": "Thermostat behavior and UV light impact",
+      "concepts": [
+        "Smart thermostat impact on humidity",
+        "Narrowing humidity setpoints and operating window",
+        "Humidity dynamics when the thermostat turns off",
+        "UV germicidal light and its effect on airflow",
+        "Fan operation and how it influences moisture"
+      ],
+      "description": "Discussion shifts to how a smart thermostat can create humidity swings if the system short-cycles or is left off during the day. The host also identifies a UV light in the air handler that is designed to reduce germs but may cause the fan to run constantly, affecting humidity dynamics."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:06:31",
+      "title": "Filtration upgrades and air path modifications",
+      "concepts": [
+        "1-inch pleated filter limitations",
+        "5-inch pleated filter (high-density filtration)",
+        "Return duct modification for filter housing",
+        "Foil tape sealing and cover plate installation",
+        "Contractor involvement"
+      ],
+      "description": "The video demonstrates upgrading filtration by replacing a dirty 1-inch filter with a high-density five-inch pleated filter, installing a dedicated filter cabinet in the return air path, sealing the assembly with foil tape, and reattaching the return. The contractor Terry McClellan performs the cutout, filter installation, and sealing while the host notes the thermostat setting adjustment to improve dehumidification."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Heat gain calculation to determine proper system size (tons)",
+      "timestamp": "00:01:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Verify equipment size and building envelope insulation via attic inspection",
+      "timestamp": "00:02:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Assess impact of smart thermostat on humidity and define narrower humidity setpoints",
+      "timestamp": "00:02:44",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Identify unintended consequences of UV germicidal light on humidity and continuous fan",
+      "timestamp": "00:03:34",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Upgrade filtration from 1-inch to 5-inch pleated filter for better air quality",
+      "timestamp": "00:05:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Modify return duct to accommodate higher-efficiency filter housing",
+      "timestamp": "00:05:37",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Seal air path with foil tape and install cover plate for airtight filter installation",
+      "timestamp": "00:05:52",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Configure thermostat to run the fan in cooling mode to improve dehumidification",
+      "timestamp": "00:06:16",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Educate on UV light limitations for allergy control and emphasize filtration",
+      "timestamp": "00:04:40",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:59:25.037208+00:00"
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "video": "gZPazhP6Dvs.youtube",
+  "title": "Garbage Disposers: Selection, Features, Septic Options, and Jam Clearing",
+  "date": {
+    "display": "September 22, 2014",
+    "iso": "2014-09-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the kitchen sink cabinet",
+      "confidence": 0.75,
+      "basis": "Transcript notes include 'crawl underneath the sink' and discussion of internal components visible in the cabinet space"
+    },
+    {
+      "name": "Above the sink area (visibility of components/Cutaways)",
+      "confidence": 0.6,
+      "basis": "Transcript line 'Here's what you see above the sink right here' indicates viewpoint above the sink for certain cutaways"
+    }
+  ],
+  "summary": "This Old House presents a practical primer on choosing and maintaining a garbage disposer. The video compares models by horsepower, insulation, and features such as auto-reverse anti-jamming and batch-feed operation; it notes a septic-system option with an enzymatic additive. It explains the internal grinding mechanism (splash guard, collar, stainless-steel grinding wheel and teeth), how waste travels to the discharge, and common jam culprits (coins, jewelry, and stringy foods). The host demonstrates jam-clearing methods, including using the built-in reset button and an included Allen wrench, and surveys additional tools (extractor, tongs, broomsticks) for freeing a jam—emphasizing safety and not placing hands inside the unit.",
+  "topics": [
+    "Disposer horsepower tiers (1/3 hp, 3/4 hp, 1 hp)",
+    "Insulation and noise considerations",
+    "Auto-reverse anti-jamming feature",
+    "Batch-feed versus wall-switch activation",
+    "Batch-feed safety advantages",
+    "Septic-system compatible disposers",
+    "Enzymatic additive design for septic discharge",
+    "Internal components: splash guard, collar, stainless-steel grinding wheel, teeth",
+    "Grinding plate and perforations, discharge path",
+    "Common jam culprits: coins and jewelry",
+    "Culprit foods and stringy vegetables to avoid",
+    "Reset button as jam-reset mechanism",
+    "Allen-wrench access for jam clearance",
+    "Extractor tool for tight clearance jams",
+    "Alternative jam-clearing methods: broomsticks and leverage",
+    "Safety practices: avoid putting hands down; proper tool use"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:58",
+      "title": "Disposer options and feature overview",
+      "concepts": [
+        "low-end disposer with motor and no insulation",
+        "mid-range 3/4 horsepower with insulation",
+        "top-end ~1 horsepower with insulation and auto-reverse"
+      ],
+      "description": "Introduces three model tiers, noting price and features (horsepower, insulation, and anti-jamming via auto-reverse)."
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:06:00",
+      "title": "Batch-feed versus wall-switch operation",
+      "concepts": [
+        "batch-feed operation",
+        "activation by pressing a contact/lever",
+        "safety advantages over wall-switch models"
+      ],
+      "description": "Explains that higher-end units include batch-feed activation, which only runs when the user engages the feed mechanism rather than a wall switch."
+    },
+    {
+      "start": "01:06:00",
+      "end": "01:31:00",
+      "title": "Septic-system disposer option",
+      "concepts": [
+        "septic-compatible disposer",
+        "enzymatic additive in discharge",
+        "benefit for septic systems"
+      ],
+      "description": "Describes a disposer designed for septic systems and how an added enzyme helps break down discharge."
+    },
+    {
+      "start": "01:31:00",
+      "end": "02:21:00",
+      "title": "Internal anatomy and grinding mechanism",
+      "concepts": [
+        "splash guard",
+        "collar",
+        "stainless steel grinding wheel",
+        "teeth",
+        "discharge flow"
+      ],
+      "description": "Shows the cutaway view inside the disposer and explains how the wheel and teeth grind food and push it toward the discharge."
+    },
+    {
+      "start": "02:24:00",
+      "end": "02:59:00",
+      "title": "Common jam culprits",
+      "concepts": [
+        "foreign objects (coins, jewelry)",
+        "stringy foods (corn husks, celery strings, artichoke leaves)"
+      ],
+      "description": "Lists items that can jam disposers and explains why certain foods resist pulverizing through small holes."
+    },
+    {
+      "start": "03:01:00",
+      "end": "04:18:00",
+      "title": "Jam clearing tools and safety steps",
+      "concepts": [
+        "reset button",
+        "allen wrench",
+        "manual back-and-forth movement to free jam",
+        "extraction tool",
+        "tongs",
+        "broomsticks for leverage",
+        "specialized jam-clearing tool",
+        "avoidance of hand-internal contact"
+      ],
+      "description": "Demonstrates jam clearing: locate and press reset, use the included Allen wrench to reverse or free the jam, and employ extraction tools or household items (tongs, broomsticks) for leverage; emphasizes never putting hands inside the unit."
+    },
+    {
+      "start": "04:18:00",
+      "end": "04:19:00",
+      "title": "Safety wrap-up",
+      "concepts": [
+        "hand safety",
+        "use of proper tools",
+        "clearance before re-use"
+      ],
+      "description": "Brief closing reminder on safety and tool-based jam clearance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Auto-reverse anti-jamming",
+      "timestamp": "00:00:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Batch-feed activation mechanism",
+      "timestamp": "00:00:53",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Septic-system compatible disposer with enzymatic additive",
+      "timestamp": "01:22",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Internal grinding assembly anatomy (splash guard, teeth, wheel)",
+      "timestamp": "02:01",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Jam clearing with Allen wrench and reset button",
+      "timestamp": "03:21",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Extraction tool for jam removal",
+      "timestamp": "03:45",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Alternative jam-clearing leverage (broomsticks, tongs)",
+      "timestamp": "04:04",
+      "confidence": 0.77
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:11:48.993524+00:00"
+}

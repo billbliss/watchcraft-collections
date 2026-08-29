@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "video": "IJbVK5UBRT8.youtube",
+  "title": "Understanding Lead in Home Water: History, Testing, and Filtration (Ask This Old House)",
+  "date": {
+    "display": "October 2, 2016",
+    "iso": "2016-10-02",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Flint, Michigan (lead in water supply context)",
+      "confidence": 0.75,
+      "basis": "Transcript explicitly discusses Flint's lead-related water issues"
+    },
+    {
+      "name": "Boston, MA (urban housing lead risk example)",
+      "confidence": 0.6,
+      "basis": "Transcript references Boston as a city with lead concerns in homes"
+    }
+  ],
+  "summary": "This Old House frames lead in domestic water by tracing a historical arc from early lead plumbing to modern materials, explains how lead persists in some main water lines and why risk remains—particularly for vulnerable groups—and outlines practical paths for assessment and treatment. The video blends a basic history of pipe materials (lead, brass, galvanized steel, copper, plastic) with a practical discussion of testing options and filtration approaches, including point-of-use filters and reverse osmosis systems, while clarifying that ingestion is the primary exposure pathway to address for safety.",
+  "topics": [
+    "lead plumbing history",
+    "sheet lead fabrication",
+    "cup joint and lead-to-copper transition",
+    "early pipe materials (lead, brass, galvanized steel, copper, plastic)",
+    "main water supply and foundation plumbing",
+    "mineral deposition as insulation on lead",
+    "Flint water crisis context",
+    "lead health risks (neurodevelopment, pregnant women, children)",
+    "lead testing options (DIY kits, third-party testing)",
+    "filters that do not treat lead",
+    "point-of-use filtration vs whole-house filtration",
+    "reverse osmosis (RO) filtration",
+    "RO system components (pre-filter, membrane, post-filter, holding tank, dedicated faucet)",
+    "ingestion vs non-ingestion exposure to lead",
+    "studies of water chemistry and lead leaching"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:15",
+      "title": "Historical lead piping fabrication",
+      "concepts": [
+        "Lead piping fabrication",
+        "Sheet lead around a dowel",
+        "Hammering and torch work to form fittings",
+        "Craggy fittings and finishing touches"
+      ],
+      "description": "Host describes how early plumbing used sheet lead wrapped around a dowel, heated and hammered to form pipes and fittings, illustrating the labor-intensive fabrication of lead piping before standardization."
+    },
+    {
+      "start": "00:01:15",
+      "end": "00:02:28",
+      "title": "Evolution of pipe materials",
+      "concepts": [
+        "Brass fittings",
+        "Galvanized steel",
+        "Copper piping",
+        "Plastic piping",
+        "Material transitions over time"
+      ],
+      "description": "Narration traces the shift from lead to brass, galvanized steel, copper, and today plastics, noting that some older homes still contain lead in certain assemblies and transitions."
+    },
+    {
+      "start": "00:02:28",
+      "end": "00:02:58",
+      "title": "Lead in main water supply and health risks",
+      "concepts": [
+        "Water main and foundation plumbing",
+        "Cup joint",
+        "Mineral deposits insulating lead",
+        "Ingestion-related health risks"
+      ],
+      "description": "Discussion of the main water supply through foundations, the cup joint where lead transitions to copper, and how mineral deposits once insulated lead—changes in water chemistry contributed to leaching and exposure risks."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:04:03",
+      "title": "Testing and filtration options",
+      "concepts": [
+        "Lead testing kits",
+        "Third-party testing",
+        "Point-of-use filtration",
+        "Whole-house filtration",
+        "Taste/odor filters and their limitations"
+      ],
+      "description": "Guidance on testing for lead (DIY kits or professional testing) and distinguishing filters that merely address taste/odor from those that treat lead; emphasizes correct application of filtration (point-of-use vs whole-house)."
+    },
+    {
+      "start": "00:04:03",
+      "end": "00:04:12",
+      "title": "Reverse osmosis explained for drinking water",
+      "concepts": [
+        "RO membrane",
+        "Pre-filter and post-filter",
+        "Holding tanks",
+        "Dedicated drinking faucet"
+      ],
+      "description": "RO filtration is explained: water passes through a semi-permeable membrane that removes impurities, with holding tanks and a dedicated drinking faucet to supply treated water."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Lead piping fabrication (historical) — sheet lead, dowel, hammering, torching to form fittings",
+      "timestamp": "00:00:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Lead-to-Copper transitions in old houses (cup joint) and foundation plumbing",
+      "timestamp": "00:01:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mineral deposition insulating lead in mains; changes in water chemistry increase leaching",
+      "timestamp": "00:02:12",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Reverse osmosis system anatomy (pre-filter, membrane, post-filter, holding tank, faucet)",
+      "timestamp": "00:03:40",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Water-testing approaches (DIY kit vs third-party)",
+      "timestamp": "00:02:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Point-of-use filtration vs whole-house and limitations (lead treatment caveat)",
+      "timestamp": "00:03:12",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:19:49.492017+00:00"
+}

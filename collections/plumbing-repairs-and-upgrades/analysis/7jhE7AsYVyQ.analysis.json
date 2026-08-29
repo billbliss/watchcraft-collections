@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "video": "7jhE7AsYVyQ.youtube",
+  "title": "Repacking a Leaky Shut-Off Valve with Teflon Packing",
+  "date": {
+    "display": "September 15, 2014",
+    "iso": "2014-09-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House clip demonstrates repairing a leaky shut-off valve by rebuilding the bonnet packing with a new Teﬂon wrap. The presenters first shut off the main water supply, remove the bonnet nut with an open-end wrench, and note the absence of a gasket. They then apply Teﬂon packing around the spindle, reseat and tighten the bonnet, and finally reopen the main valve to verify that water flows normally without leaks. The sequence emphasizes careful wrapping of packing, thread alignment, and a cautious test to confirm a leak-free seal.",
+  "topics": [
+    "Main shut-off valve",
+    "Bonnet nut",
+    "Open-end wrench",
+    "Gasket/packing inspection",
+    "Teflon packing (PTFE) replacement",
+    "Spindle packing",
+    "Bonnet reassembly",
+    "Thread engagement",
+    "Tightening technique (snug then wrench-driven)",
+    "Valve operation test",
+    "Moment of Truth (leak check)",
+    "System pressure restoration"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:00:34",
+      "title": "Shutoff and bonnet access",
+      "concepts": [
+        "Main shut-off valve",
+        "Bonnet nut",
+        "Open-end wrench",
+        "Initial valve inspection"
+      ],
+      "description": "The operator shuts the main water supply and uses an open-end wrench to access the bonnet nut on the valve, preparing for disassembly. Notes that no gasket is present at the bonnet, implying replacement is needed."
+    },
+    {
+      "start": "00:00:38",
+      "end": "00:01:26",
+      "title": "Install Teﬂon packing and reseat bonnet",
+      "concepts": [
+        "Teflon packing",
+        "Spindle",
+        "Bonnet seating",
+        "Thread alignment"
+      ],
+      "description": "New Teﬂon packing is wrapped around the valve spindle and the bonnet is reinserted, with attention to catching the threads and seating the components for reassembly."
+    },
+    {
+      "start": "00:01:26",
+      "end": "00:02:15",
+      "title": "Tighten, reopen, and test",
+      "concepts": [
+        "Snug bonnet with wrench",
+        "Wrench technique (pull, then rotate)",
+        "Opening main valve",
+        "Leak test (Moment of Truth)"
+      ],
+      "description": "The bonnet nut is snugged by hand and then tightened with a wrench for a secure seal. The main shut-off valve is opened counterclockwise to restore pressure, and water flow is observed to confirm the repair is leak-free."
+    },
+    {
+      "start": "00:02:15",
+      "end": "00:02:28",
+      "title": "Post-test wrap-up",
+      "concepts": [
+        "Return to normal operation",
+        "Light wrap-up cues"
+      ],
+      "description": "The video concludes with verification of restored flow and a light, non-technical wrap-up cue, including addressing incidental items (e.g., returning items to place) after the test."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Replacing valve packing with Teﬂon packing on a shut-off bonnet",
+      "timestamp": "00:00:38",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Threading and reseating the bonnet nut to compress packing",
+      "timestamp": "00:01:04",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Testing valve operation by restoring main water supply and observing for leaks",
+      "timestamp": "00:02:05",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:44:10.047668+00:00"
+}

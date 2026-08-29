@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "video": "UPwKs00bw5Y.youtube",
+  "title": "Replacing a Pedestal Sink Pop-Up Assembly (This Old House)",
+  "date": {
+    "display": "December 23, 2014",
+    "iso": "2014-12-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House guides a practical replacement of a pedestal sink pop-up assembly. The video identifies the worn component as the entire pop-up unit housed in the pedestal, then walks through shutting off the water, disconnecting the hot and cold lines, and detaching the drain before removing the pedestal. It then covers disassembling the old pop-up to pass it through the sink, preparing and installing the new unit with plumber’s putty, threading and tightening the connections from beneath the sink, and finally aligning the popup rod with its linkage and restoring water to test the operation. The finish includes a note on how the new stopper reassembles to allow through-sink installation and a brief assessment of the result.\"",
+  "topics": [
+    "pedestal sink",
+    "pop-up drain assembly",
+    "stopper",
+    "drain trap",
+    "hot water shut-off",
+    "cold water shut-off",
+    "5/8 inch wrench",
+    "pliers",
+    "plumber's putty",
+    "through-sink installation",
+    "top-down installation",
+    "underside nut",
+    "popup rod linkage",
+    "water test",
+    "sealing with nut"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:00:14",
+      "title": "Overview of the popup assembly and worn part",
+      "concepts": [
+        "popup stopper",
+        "pedestal sink",
+        "pop-up assembly"
+      ],
+      "description": "Introduces the new popup assembly and explains the stopper’s up-down function; identifies the worn component as the entire unit inside the pedestal. "
+    },
+    {
+      "start": "00:00:29",
+      "end": "00:01:04",
+      "title": "Prepare to remove the sink: shut off water and disconnect supply",
+      "concepts": [
+        "hot/cold shut-offs",
+        "5/8 inch wrench",
+        "pliers",
+        "valve"
+      ],
+      "description": "Shuts off the water and demonstrates breaking the supply connections with a 5/8 inch open-end wrench while bracing the valve with pliers; aims to loosen the connection counterclockwise."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:01:26",
+      "title": "Drain connection and pedestal removal",
+      "concepts": [
+        "drain connection",
+        "nut behind pedestal",
+        "trap"
+      ],
+      "description": "Notes that the pedestal sits over a trap; locates the accessible nut behind the pedestal to loosen so the pedestal can be removed from the wall; mentions avoiding floor damage."
+    },
+    {
+      "start": "00:01:37",
+      "end": "00:02:11",
+      "title": "Remove old pop-up and prep new unit",
+      "concepts": [
+        "old pop-up assembly",
+        "trap",
+        "new pop-up assembly",
+        "stopper disassembly"
+      ],
+      "description": "Removes the old pop-up and introduces the new unit; explains that the stopper disassembles into two to pass up through the sink, and that the connection can be bottom- or top-fed."
+    },
+    {
+      "start": "00:02:13",
+      "end": "00:03:01",
+      "title": "Disassemble and pass-through installation of the new unit",
+      "concepts": [
+        "nut loosening",
+        "threading",
+        "top/bottom passage",
+        "putty"
+      ],
+      "description": "Shows loosening the nut to separate the unit for passage through the sink, possibly using pliers, and discusses the old unit as removed for reference while preparing to install the new one; introduces the use of putty under the connection."
+    },
+    {
+      "start": "00:03:04",
+      "end": "00:03:28",
+      "title": "Threading, tightening, and watertight seal",
+      "concepts": [
+        "underside nut",
+        "thread engagement",
+        "tightening",
+        "watertight connection"
+      ],
+      "description": "Demonstates threading the new unit, catching the thread, and tightening the underside nut to create a watertight seal; emphasizes keeping the popup rod away from the wall to allow linkage connection."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:04:10",
+      "title": "Final test and appearance",
+      "concepts": [
+        "water on",
+        "testing",
+        "alignment",
+        "appearance"
+      ],
+      "description": "Restores hot and cold water, tests the popup operation, and comments on the finish—praising the new assembly for its look and functionality."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Disassemble popup stopper to pass through sink (top/bottom options)",
+      "timestamp": "00:01:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Shut off water and disconnect supply with 5/8 inch wrench while bracing the valve",
+      "timestamp": "00:00:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tighten underside nut to form watertight seal",
+      "timestamp": "00:03:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Apply plumber’s putty under the connection",
+      "timestamp": "00:02:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Align popup rod with linkage during tightening",
+      "timestamp": "00:03:52",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:26:11.446882+00:00"
+}

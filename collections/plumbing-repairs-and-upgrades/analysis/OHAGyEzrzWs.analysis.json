@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "OHAGyEzrzWs.youtube",
+  "title": "Repairing a Garbage Disposer: Jam Clearing and Manual Rotation Techniques",
+  "date": {
+    "display": "November 28, 2014",
+    "iso": "2014-11-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under-sink disposer area (probable, kitchen)",
+      "confidence": 0.55,
+      "basis": "Transcript references to components located under the sink and at the bottom of the sink; explicit filming location not stated"
+    }
+  ],
+  "summary": "This Old House shows how to diagnose and clear a jam in a kitchen garbage disposer. The video identifies the main parts (flange, locking ring, splash guard, and cutter wheel), explains how jams cause the motor to hum and trip an overload switch, and demonstrates sequential techniques to free a blockage using an Allen wrench, manual rotation, and improvised high-torque tools before testing the unit to verify operation.",
+  "topics": [
+    "garbage disposer anatomy",
+    "flange",
+    "locking ring",
+    "splash guard",
+    "cutter wheel",
+    "disposer housing",
+    "dishwasher inlet/discharge connection",
+    "motor and switch",
+    "overload protection / reset button",
+    "jam causes (foreign objects or excessive food)",
+    "Allen wrench access to disposer shaft",
+    "manual rotation of cutter wheel",
+    "improvised high-torque clearing (broomsticks)",
+    "professional torque tool for access (pro wrench)",
+    "disposer testing after clearing a jam"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:18",
+      "title": "Disposer mounting components and access points",
+      "concepts": [
+        "flange",
+        "locking ring",
+        "splash guard"
+      ],
+      "description": "Identify the main mounting parts (flange, locking ring, splash guard) and how the disposer attaches under the sink."
+    },
+    {
+      "start": "00:00:18",
+      "end": "00:01:46",
+      "title": "Jam scenarios and overload protection",
+      "concepts": [
+        "jam causes (foreign objects/food buildup)",
+        "motor hum",
+        "overload protection / reset button"
+      ],
+      "description": "Explain how a jam makes the motor hum and may trip an overload/reset switch, and introduce the overload protection mechanism."
+    },
+    {
+      "start": "00:01:46",
+      "end": "00:02:21",
+      "title": "Allen-wrench access and initial clearance attempts",
+      "concepts": [
+        "Allen wrench access to the shaft",
+        "manual rotation of the cutter wheel",
+        "removal of visible obstructions"
+      ],
+      "description": "Demonstrate using the built-in Allen wrench to rotate the cutter wheel and clear small jams or visible obstructions."
+    },
+    {
+      "start": "00:02:21",
+      "end": "00:02:59",
+      "title": "Escalating torque with improvised tools",
+      "concepts": [
+        "improvised high-torque (broomsticks)",
+        "professional wrench",
+        "deck access via splash guard"
+      ],
+      "description": "If initial clearance fails, show applying higher torque with improvised tools and a pro wrench for better access."
+    },
+    {
+      "start": "00:02:59",
+      "end": "00:03:22",
+      "title": "Applying torque to free the jam",
+      "concepts": [
+        "torque application on the cutter wheel",
+        "counterclockwise rotation"
+      ],
+      "description": "Continue applying torque on the cutter wheel to dislodge the jam, turning counterclockwise as needed."
+    },
+    {
+      "start": "00:03:22",
+      "end": "00:03:32",
+      "title": "Test run and confirmation of operation",
+      "concepts": [
+        "test run",
+        "verification of operation",
+        "audible success"
+      ],
+      "description": "With the jam cleared, perform a test run to verify the disposer operates smoothly and correctly."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual rotation of the cutter wheel using the built-in Allen wrench",
+      "timestamp": "00:02:02",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Inspecting and clearing a jam by turning the wheel to dislodge foreign objects",
+      "timestamp": "00:02:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using improvised high-torque with broomsticks to turn the disposer shaft",
+      "timestamp": "00:02:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Employing a pro wrench to access the deck and apply torque safely",
+      "timestamp": "00:02:36",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Resetting the overload switch after a jam and performing a test run",
+      "timestamp": "00:01:33",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:39:31.739144+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-28T21:40:53.443569+00:00"
+}

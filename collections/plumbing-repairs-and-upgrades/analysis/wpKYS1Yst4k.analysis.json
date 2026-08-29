@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "wpKYS1Yst4k.youtube",
+  "title": "How to Prevent Sink Clogs",
+  "date": {
+    "display": "March 28, 2026",
+    "iso": "2026-03-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "kitchen sink",
+      "confidence": 0.75,
+      "basis": "Transcript centers on the kitchen sink trap and grease management; explicit mentions."
+    },
+    {
+      "name": "shower drain",
+      "confidence": 0.6,
+      "basis": "Mentions shower hair catcher and drain; used as example in discussion of hair-related clogs."
+    },
+    {
+      "name": "basement plumbing (PVC vs galvanized/cast iron)",
+      "confidence": 0.5,
+      "basis": "Transcript discusses pipe materials and friction affecting grease buildup; not explicit filming location."
+    }
+  ],
+  "summary": "This video explains the common causes of sink clogs and practical prevention strategies. It starts with the plumbing trap under a kitchen sink and the water seal that keeps sewer gases out, illustrating how solids, like jewelry or hair, can get trapped. The narration emphasizes grease as a major culprit that can re-coagulate in long horizontal runs, especially in older galvanized or cast-iron piping, and recommends saving grease for disposal instead of pouring it down the drain. A grease demonstration shows how liquid grease cools and layers over time, gradually closing off the pipe. Hair and the sink’s pop-up stopper and strainer are highlighted as frequent clog points, with suggestions to use removable strainers and a shower hair catcher. The video then compares harsh chemical cleaners (lye) with safer organic options—baking soda plus vinegar and enzyme-based cleaners—and cautions about pipe damage from caustics, advocating prevention and safer methods over aggressive chemicals.",
+  "topics": [
+    "p-trap",
+    "water seal",
+    "trap maintenance",
+    "grease disposal",
+    "grease coagulation",
+    "PVC pipe",
+    "galvanized steel",
+    "cast iron pipe",
+    "pop-up drain",
+    "sink strainer",
+    "hair in drains",
+    "shower hair catcher",
+    "chemical drain cleaners (sodium hydroxide/lye)",
+    "caustic cleaner risks",
+    "organic drain cleaners (baking soda + vinegar)",
+    "enzyme-based cleaners",
+    "grease prevention",
+    "drain maintenance best practices"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:29",
+      "title": "Causes of Sink Clogs",
+      "concepts": [
+        "p-trap and water seal",
+        "trap as debris catcher",
+        "solids getting stuck (example items)",
+        "grease as a leading cause",
+        "long-term buildup in pipes"
+      ],
+      "description": "Overview of how the trap and water seal can catch solids and grease, with examples of objects that commonly clog traps and an explanation that grease can build up over time, especially in older piping."
+    },
+    {
+      "start": "00:02:38",
+      "end": "00:03:50",
+      "title": "Hair, Strainers, and Shower Catchers",
+      "concepts": [
+        "pop-up drain assembly",
+        "sink strainer",
+        "hair as a persistent clog source",
+        "removable strainers",
+        "shower hair catcher"
+      ],
+      "description": "Discussion of hair as a clog source and how it collects at the pop-up and strainer, alongside demonstrations of removable strainers and a hair catcher for showers."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:05:48",
+      "title": "Chemical and Organic Cleaning Options",
+      "concepts": [
+        "sodium hydroxide (lye) reaction",
+        "heat generation from caustic cleaners",
+        "risk to old or thin-wall pipes",
+        "organic options: baking soda + vinegar",
+        "enzyme-based cleaners"
+      ],
+      "description": "Evaluation of caustic chemical cleaners and their potential to damage pipes and harm downstream workers, followed by safer organic alternatives and enzyme-based cleaners that digest organic material over time."
+    },
+    {
+      "start": "00:05:49",
+      "end": "00:06:12",
+      "title": "Practical Prevention Takeaways",
+      "concepts": [
+        "proper grease disposal",
+        "use of strainers and pop-up stoppers",
+        "enzymes for ongoing grease digestion",
+        "baking soda and vinegar as a maintenance method",
+        "prevention over harsh chemicals"
+      ],
+      "description": "Wrapping guidance emphasizing debris removal at the source, installing and cleaning strainers, and preferring longer-term organic or enzymatic approaches over harsh chemicals."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Grease coagulation demonstration in cold pipe, showing layered buildup leading to a stoppage",
+      "timestamp": "00:01:33",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Hair and debris management using pop-up drain and removable strainer",
+      "timestamp": "00:02:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Chemical drain cleaning with sodium hydroxide (lye) and cautions about heat and pipe damage",
+      "timestamp": "00:04:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Organic drain cleaning with baking soda and vinegar as a non-caustic option",
+      "timestamp": "00:05:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Enzyme-based cleaners that digest organic matter over time",
+      "timestamp": "00:05:35",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:29:35.607223+00:00"
+}

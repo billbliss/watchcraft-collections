@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "video": "1YljdhInklo.youtube",
+  "title": "Indirect Hot Water Heater Installation on a Steam Boiler (This Old House)",
+  "date": {
+    "display": "February 19, 2017",
+    "iso": "2017-02-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement",
+      "confidence": 0.9,
+      "basis": "Explicit transcript reference: 'in the basement Rich and here's the boiler'"
+    }
+  ],
+  "summary": "This Old House demonstrates converting a steam boiler that serves a house with radiant heat into a domestic hot water source by installing an indirect hot water heater. The video explains the limitations of boiler-derived hot water and then details an indirect tank with an internal coil that transfers heat from boiler water to a larger volume of potable water, eliminating the need for a direct-flame water heater. The program covers the tank’s construction (stainless steel, thick insulation), coil arrangement, filtration to protect the system, and the piping and valve hardware required (temperating valve, aquastat, relay, and circulator). It also walks through the installation steps: isolating the boiler, draining the system, mounting and leveling the tank, copper piping and soldering, adding a feed strainer, wiring controls, and starting the system to verify hot water supply.",
+  "topics": [
+    "Indirect hot water heater",
+    "Steam boiler with domestic hot water heating",
+    "Indirect tank with internal coil",
+    "Heat exchange between boiler water and domestic water",
+    "Stainless steel insulated tank",
+    "Two-inch insulation on indirect tank",
+    "Copper pipe connections and soldering",
+    "Shim and level indirect tank",
+    "Water supply and return piping layout",
+    "Water filtration/strainer (to protect pump and heat exchanger)",
+    "Tempering valve / thermostatic mixing valve",
+    "Aquastat (sensor) and well",
+    "Relay control for boiler burner",
+    "Circulator pump integration",
+    "Draining and purging a steam boiler before retrofit",
+    "Temperature regulation for domestic hot water",
+    "Safety and water quality considerations in steam boiler systems",
+    "Startup sequence and verification of hot water output"
+  ],
+  "sections": [
+    {
+      "start": "00:00:33",
+      "end": "00:03:00",
+      "title": "System overview: steam boiler and the indirect water heating concept",
+      "concepts": [
+        "steam-based home heating system",
+        "domestic hot water using boiler water",
+        "limitations of relying on boiler for DHW",
+        "introduction to indirect hot water heater"
+      ],
+      "description": "The host explains how the existing steam boiler heats the home and is also used for faucets, then introduces the indirect hot water heater as a method to heat domestic water without a direct-fired water heater."
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:04:15",
+      "title": "Indirect heater anatomy and operation",
+      "concepts": [
+        "indirect tank analogy (giant Thermos bottle)",
+        "tank construction: stainless steel inner tank, insulation",
+        "internal coil and heat transfer from boiler water to tank water"
+      ],
+      "description": "Details of the indirect tank: stainless interior, two inches of insulation, an internal coil that transfers boiler heat to the potable water, and the concept of heating via boiler water rather than a flame."
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:05:00",
+      "title": "Preparation and planning",
+      "concepts": [
+        "shutting off boiler water",
+        "draining the steam system",
+        "prepping the indirect tank with shims for level"
+      ],
+      "description": "Preparation steps begin with isolating the boiler, draining the system, and positioning the new indirect tank with shims to ensure level mounting."
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:20",
+      "title": "Piping and copper work",
+      "concepts": [
+        "copper pipe measurements and cuts",
+        "soldering copper connections",
+        "ensuring proper alignment and level of piping"
+      ],
+      "description": "The crew makes copper connections to feed and return, performing measurements, cuts, and soldering to complete the piping layout for the indirect heater."
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:07:20",
+      "title": "Filtration and protection",
+      "concepts": [
+        "in-system filtration",
+        "W-strainer near the boiler feed to trap debris",
+        "protecting pump and heat exchanger from solids"
+      ],
+      "description": "A strainer is installed in the boiler feed line to trap impurities and protect downstream components."
+    },
+    {
+      "start": "00:07:20",
+      "end": "00:07:50",
+      "title": "Heat exchanger integration and tempering",
+      "concepts": [
+        "heat exchanger within the indirect tank",
+        "top hot water outlet and bottom cold water inlet",
+        "tempering/thermostatic mixing valve to regulate domestic water temperature"
+      ],
+      "description": "The system explains the flow through the tank: boiler water heats a coil exchanger inside the tank, with a tempering valve ensuring safe DHW temperatures."
+    },
+    {
+      "start": "00:07:50",
+      "end": "00:08:16",
+      "title": "Controls: aquastat and relay",
+      "concepts": [
+        "aquastat sensor in a well",
+        "relay to fire the boiler and run the circulator",
+        "return-water-driven on/off control"
+      ],
+      "description": "Control logic is described: the aquastat senses water temperature, sends a signal to a relay which fires the boiler and runs the circulator as needed."
+    },
+    {
+      "start": "00:08:16",
+      "end": "00:08:44",
+      "title": "Startup and verification",
+      "concepts": [
+        "wiring completed",
+        "tank full and boiler refilled",
+        "systems turned on and hot water confirmed"
+      ],
+      "description": "The final startup steps include confirming wiring, refilled tank, and successful generation of hot water for use."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Indirect hot water heater installation on a steam boiler (concept)",
+      "timestamp": "00:02:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Internal coil heat exchanger inside insulated tank",
+      "timestamp": "00:03:15",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Shut off main water and drain boiler to begin installation",
+      "timestamp": "00:04:18",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Shim and level the new indirect tank",
+      "timestamp": "00:04:55",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Copper piping and soldering for the indirect system",
+      "timestamp": "00:05:28",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Install strainer (water filter) on boiler feed",
+      "timestamp": "00:06:05",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tempering/thermostatic valve to regulate outlet temp",
+      "timestamp": "00:06:57",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Aquastat, relay, and circulator integration",
+      "timestamp": "00:07:24",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Startup, testing hot water availability",
+      "timestamp": "00:08:14",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:36:18.110869+00:00"
+}

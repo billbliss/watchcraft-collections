@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "video": "slhlD0DOVeY.youtube",
+  "title": "Roughing Plumbing for a New Bathroom: Drain Routing, Wall Relocation, and Joist Reinforcement",
+  "date": {
+    "display": "August 6, 2025",
+    "iso": "2025-08-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Probable second-floor bathroom rough-in area (over a first-floor space beneath)",
+      "confidence": 0.65,
+      "basis": "Transcript references: 'three bathrooms on the second floor,' 'standing in what used to be a wide open hallway,' and later a section 'down here on the first floor, we're directly underneath where the toilet wants to go' indicate upstairs bathroom work with a second-floor-to-first-floor relationship; no explicit shooting location is given"
+    }
+  ],
+  "summary": "This Old House staff walkthrough demonstrates rough-in plumbing for a new bathroom in a wood-frame house, focusing on layout constraints and practical fixes. The crew explains tub, vanity, and toilet positions, and shows how relocating the toilet drain by building a short wall can place the rough-in correctly without drilling through multiple joists. They compare wood-frame versus poured-concrete floors for drain routing, discuss required clearances (such as keeping a 12–13 inch rough-in from the finished wall for a toilet), and describe structural reinforcement—sistering joists with 3/4 plywood and using glue and nails. The segment emphasizes planning and measurements to avoid notching or excessive bore holes while maintaining proper pitch and clearance, culminating in a plan to drill safely after reinforcement.",
+  "topics": [
+    "bathroom rough-in layout",
+    "toilet rough-in distance (12-13 inches)",
+    "drain-waste-vent (DWV) routing",
+    "tub drain alignment with left-hand tub due to roof overhang",
+    "vanity drain and sink drain routing",
+    "wall construction to relocate drain",
+    "drilling through joists: bore size and pitch",
+    "minimum joist preservation: leave 1-3/4 inches on top and bottom",
+    "notching restrictions",
+    "4-inch drain holes and hole coordination across joists",
+    "joist reinforcement with 3/4 inch plywood (sistering)",
+    "glue and nail fastening for sistered joists",
+    "planning and coordination in remodeling"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:01",
+      "title": "Initial space assessment and rough-in planning for tub, vanity, and toilet",
+      "concepts": [
+        "space constraints in a remodel",
+        "tub placement influenced by roof overhang (left-hand tub)",
+        "logical locations for vanity and wall-mounted fixtures",
+        "early discussion of toilet rough-in location (12–13 in away from finished wall)"
+      ],
+      "description": "The presenters identify the room layout and constraints: a tub positioned with a left-hand drain due to roof overhang, a logical vanity location, and a still-to-be-determined toilet rough-in. They discuss the standard toilet rough-in dimension (12–13 inches from a finished wall) and begin considering routing the drains back toward a central stack, setting up the problem before any structural changes or drilling occur."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:03:58",
+      "title": "Downstairs check and drain routing strategy: relocating the toilet via a short wall",
+      "concepts": [
+        "drain routing to minimize joist drilling",
+        "build a wall to shift the toilet rough-in",
+        "placing the toilet drain on the appropriate side of a joist",
+        "explanation of why routing would differ if the floor were poured concrete"
+      ],
+      "description": "The crew moves to the downstairs space to confirm where the toilet will be located above, using this to justify a strategy: instead of drilling through multiple joists in a poured-concrete floor scenario, they propose building a wall to shift the toilet drain path. They discuss moving the drain laterally to avoid cutting through several joists, and they describe how the new wall arrangement places the drain on the favorable side of the joist, enabling the rest of the plumbing to inherit a straight path toward the main line."
+    },
+    {
+      "start": "00:03:58",
+      "end": "00:04:25",
+      "title": "Joist bore planning and structural considerations",
+      "concepts": [
+        "drilling through joists: required clearance and pitch",
+        "minimum wood left on top and bottom of joists when boring",
+        "avoidance of notches",
+        "spatial planning across multiple joists when routing a 4-inch drain",
+        "using a pad wall as a potential alternative"
+      ],
+      "description": "This section lays out the structural rules governing boring through joists: the team notes the need to leave a minimum thickness on the top and bottom (1-3/4 inches in this case), the importance of accounting for pitch (holes must be higher to maintain slope), and the risk of violating these minimums if the bore paths extend too far. They also contrast wood-frame construction with poured concrete floors, illustrating how that affects pipe routing and drilling strategy."
+    },
+    {
+      "start": "00:04:25",
+      "end": "00:04:30",
+      "title": "Protection and final planning: joist reinforcement and ready-to-drill",
+      "concepts": [
+        "sistering joists with 3/4 plywood on both sides",
+        "gluing and nailing the sistered plywood",
+        "final plan to drill after reinforcement",
+        "closing remarks on planning outcome"
+      ],
+      "description": "The speakers summarize the reinforcement step: they plan to sister 3/4-inch plywood on both sides of the joists, glued and nailed, to provide adequate backing before drilling the rough-in openings. This reinforces the structure and ensures the upcoming holes can be bored safely. The segment closes with a nod to planning and collaboration that led to a fit-for-purpose layout."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Relocating the toilet rough-in by building a wall to shift the drain path",
+      "timestamp": "00:01:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Plan drainage path to minimize joist drilling and route tub/vanity drains toward main stack",
+      "timestamp": "00:01:52",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Maintain structural limits when boring: preserve minimum top/bottom joist material (1-3/4 inches)",
+      "timestamp": "00:02:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Drill planning for a 4-inch hole while accounting for pitch and multiple joists",
+      "timestamp": "00:02:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sistering joists with 3/4-inch plywood on both sides, glued and nailed",
+      "timestamp": "00:03:48",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:21:33.458052+00:00"
+}

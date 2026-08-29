@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "video": "nVdrZoiT98M.youtube",
+  "title": "Hard Water Testing and Ion-Exchange Softening Demonstration (This Old House)",
+  "date": {
+    "display": "August 3, 2014",
+    "iso": "2014-08-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Bathroom",
+      "confidence": 0.55,
+      "basis": "Speaker describes toilet bowl filled with black sediment."
+    },
+    {
+      "name": "Town well area",
+      "confidence": 0.6,
+      "basis": "Transcript discusses town wells and pipe flushing/switching wells."
+    },
+    {
+      "name": "Basement (water entry point)",
+      "confidence": 0.9,
+      "basis": "Transcript notes sediment filter and water entering the house in the basement."
+    }
+  ],
+  "summary": "The video introduces hard water symptoms in a house that relies on a town well, documents a hardness reading of 150 mg/L, and demonstrates a portable ion-exchange water softener. It explains the resin bead mechanism and sodium exchange, then compares hard and softened water with a soap test. The latter part outlines the recommended treatment train order (sediment filter first, then the water softener) and describes the salt-brine tank, regeneration, and basic maintenance (refilling salt) along with service contracts.",
+  "topics": [
+    "Hard water",
+    "Water hardness threshold",
+    "Hardness reading (mg/L)",
+    "150 mg/L hardness",
+    "Soap test demonstration",
+    "Ion-exchange water softening",
+    "Resin beads",
+    "Sodium exchange",
+    "Softened water characteristics",
+    "Sediment filter in treatment train",
+    "Spun cartridge filter",
+    "Filtration sequence (basement entry)",
+    "Water softener resin tank",
+    "Salt brine tank",
+    "Regeneration cycle",
+    "Electronic control board",
+    "Multi-well town water supply adaptation",
+    "Maintenance: refill salt",
+    "Service contracts for softeners"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:05:00",
+      "title": "Hard water problem and hardness measurement",
+      "concepts": [
+        "hard water",
+        "toilet sediment",
+        "laundry staining",
+        "hardness threshold",
+        "150 mg/L reading"
+      ],
+      "description": "The speaker describes alarming water issues (black sediment in the toilet) and persistent staining in laundry. He explains that the hardness reading is 150 mg/L, noting that anything over 50 is hard water and over 100 is problematic, establishing the problem context."
+    },
+    {
+      "start": "01:05:00",
+      "end": "02:54:00",
+      "title": "Ion-exchange softening: beads, resin, and sodium exchange",
+      "concepts": [
+        "ion exchange",
+        "resin beads",
+        "sodium exchange",
+        "softened water",
+        "portable water softener"
+      ],
+      "description": "The demonstration introduces ion-exchange: resin beads inside the softener are negatively charged and exchange minerals in water for sodium. The host shows the softened water outcome and discusses how the beads trade minerals for sodium to produce softer water."
+    },
+    {
+      "start": "02:19:00",
+      "end": "02:54:00",
+      "title": "Soap test demonstration: hard vs softened water",
+      "concepts": [
+        "soap test",
+        "soap scum",
+        "hard water vs soft water"
+      ],
+      "description": "A soap test compares regular tap water to softened water, illustrating the soap scum that appears with hard water and the lack of scum with softened water, highlighting observable differences due to hardness."
+    },
+    {
+      "start": "02:56:00",
+      "end": "04:07:00",
+      "title": "Water treatment train order and maintenance",
+      "concepts": [
+        "sediment filter first",
+        "basement filtration",
+        "spun cartridge",
+        "water enters house",
+        "water softener",
+        "salt brine tank",
+        "regeneration",
+        "maintenance: refill salt",
+        "service contracts"
+      ],
+      "description": "The video presents the correct order of treatment: sediment filter first, then the water softener. It details components (basement placement, spun cartridge, resin tank, salt tank) and notes that the salt tank requires periodic refilling or maintenance via service contracts."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Ion-exchange water softening (beads/resin)",
+      "timestamp": "00:01:26",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Sodium exchange mechanism in resin beads",
+      "timestamp": "00:01:50",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Soap test to compare hard vs softened water",
+      "timestamp": "00:02:30",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Sediment filter first in home water treatment train",
+      "timestamp": "00:02:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Salt brine tank and automatic regeneration concept",
+      "timestamp": "00:03:45",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Maintenance practice: refilling salt and service contracts",
+      "timestamp": "00:04:00",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:37:17.933923+00:00"
+}

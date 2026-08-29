@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "video": "abOX0uGC2LI.youtube",
+  "title": "How to Rebuild a Toilet Tank: Replacing Fill and Flush Valves (This Old House)",
+  "date": {
+    "display": "September 30, 2014",
+    "iso": "2014-09-30",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House presents a step-by-step, tool-agnostic repair guide for diagnosing and fixing a leaking or constantly running toilet by rebuilding the tank internals. The host explains the tank anatomy (flapper/flush valve, fill valve, and float) and contrasts older copper floats with modern plastic/embedded floats. The segment identifies common leak scenarios (running toilet, overfill,-condensation nuances) and then demonstrates a complete tank rebuild: shutting off water, draining the tank, disconnecting the supply line, removing bolts, and replacing both the fill and flush valves with a universal kit priced around $20. Finally, it covers reassembly, adjusting the refill height and float, and verifying proper operation, including cautions against overtightening and ensuring the overflow height is correctly set to prevent spills.",
+  "topics": [
+    "toilet tank anatomy",
+    "flapper/flush valve",
+    "fill valve / ballcock",
+    "float types (copper vs plastic)",
+    "overflow tube",
+    "shut-off valve",
+    "draining a toilet tank",
+    "disconnecting supply line",
+    "removing tank bolts",
+    "spud gasket",
+    "universal valve kit",
+    "replacement valve height adjustment",
+    "refill tube placement",
+    "float height adjustment",
+    "condensation vs leaking water",
+    "leak diagnosis in toilets",
+    "tolerance for overtightening",
+    "cost of repair kit (~$20)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:41",
+      "title": "Anatomy of the Toilet Tank and Core Functions",
+      "concepts": [
+        "flapper",
+        "flush valve",
+        "fill valve",
+        "float",
+        "overflow tube"
+      ],
+      "description": "Introduces the tank's two essential tasks: flushing water out via the flapper/flush valve and refilling the tank via the fill valve, with the float regulating shutoff. Explains the path water takes from tank to bowl and contrasts older copper floats with modern plastic/embedded floats."
+    },
+    {
+      "start": "01:42",
+      "end": "02:54",
+      "title": "Common Leaks and Running-Toilet Diagnoses",
+      "concepts": [
+        "running toilet",
+        "flapper misalignment",
+        "fill valve misadjustment",
+        "overflow behavior",
+        "condensation vs. leakage"
+      ],
+      "description": "Details how a toilet can run continuously when the flapper doesn’t seal properly or the fill valve is misadjusted, causing water to overflow or run into the bowl. Discusses the role of the overflow tube and signs of external leakage (condensation vs. actual water loss)."
+    },
+    {
+      "start": "02:56",
+      "end": "03:40",
+      "title": "Preparation: Isolating Water and Draining the Tank",
+      "concepts": [
+        "shut-off valve",
+        "supply-line disconnection",
+        "draining the tank",
+        "rag under connection",
+        "turkey baster / wet vac"
+      ],
+      "description": "Shows how to shut off the water supply, flush to empty the tank, and prepare to disconnect the supply line, including practical tips for handling residual water with a turkey baster or wet vac."
+    },
+    {
+      "start": "03:28",
+      "end": "04:12",
+      "title": "Disassembly: Removing Old Valves and Bolts",
+      "concepts": [
+        "brass bolts",
+        "nut removal",
+        "tank bolts",
+        "spud location",
+        "three-bolt pattern"
+      ],
+      "description": "Demonstrates loosening and removing the mounting bolts and old valve hardware from the toilet tank, identifying the potential leak points (three bolts, fill/flush valve, spud area)."
+    },
+    {
+      "start": "04:46",
+      "end": "05:16",
+      "title": "Installing a Universal Valve Kit",
+      "concepts": [
+        "universal valve kit",
+        "fill valve",
+        "flush valve",
+        "spud gasket"
+      ],
+      "description": "Introduces a complete valve kit and explains its components, including an adjustable fill valve and a replaceable flush valve, designed to fit multiple tank sizes. Notes approximate cost (~$20) and the benefit of replacing multiple wear points at once."
+    },
+    {
+      "start": "05:53",
+      "end": "06:54",
+      "title": "Reassembly, Adjustment, and First Test",
+      "concepts": [
+        "tank alignment",
+        "refill tube into overflow",
+        "overflow height",
+        "float adjustment",
+        "don’t overtighten"
+      ],
+      "description": "Guides reinstalling the tank, tightening bolts with care to avoid cracking, seating the spud gasket, aligning the refill tube with the overflow, setting the refill height just below the overflow, and finally adjusting the float to achieve the correct water level. Ends with a practical nod to verifying operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explain and identify tank components (flapper, flush valve, fill valve, float) and how they interact during a flush",
+      "timestamp": "00:23:36",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Diagnose common toilet leaks and running symptoms (flapper misalignment, misadjusted fill valve, overflow/condensation considerations)",
+      "timestamp": "01:45:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Drain and disassemble: shut off, drain, and disconnect supply to prepare for tank removal",
+      "timestamp": "02:56:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Install a universal two-valve kit (fill valve and flush valve) and connect spud gasket",
+      "timestamp": "04:46:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Adjust refill tube height and float for proper tank fill level",
+      "timestamp": "06:37:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:50:15.629731+00:00"
+}

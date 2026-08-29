@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "hZulTP0LpRA.youtube",
+  "title": "Mini Split Cleaning and Maintenance: Filters, Coils, and Safety",
+  "date": {
+    "display": "April 12, 2025",
+    "iso": "2025-04-12",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House video demonstrates practical DIY maintenance for a ductless mini-split system. It structures the work from a basic overview of components and airflow to hands-on steps for cleaning or replacing the indoor air filter, accessing and cleaning interior coils, and protecting walls during washing. The guide covers a safe approach to disassembly (power off, screws, cowl and diffusion vein removal), vacuuming and brushing the evaporator coils, applying a coil cleaner, and managing exterior coil cleaning with a containment setup. It emphasizes letting cleaned parts dry before reassembly, then reinstalling the filter and testing the unit. The video notes that routine filter care is within a homeowner’s reach, while deeper coil cleaning may require caution and potential professional involvement later on.",
+  "topics": [
+    "mini split components",
+    "indoor unit",
+    "outdoor unit",
+    "ductless vs. ducted",
+    "air filter location",
+    "filter cleaning",
+    "filter replacement",
+    "vacuum cleaning of filters",
+    "washing filters with hose",
+    "cowl removal",
+    "diffusion veins",
+    "evaporator coils",
+    "coil cleaning with bristle brush",
+    "coil cleaner usage",
+    "water safety and containment",
+    "magnetic screwdriver",
+    "screw collector",
+    "tools for HVAC maintenance",
+    "protective kit for walls",
+    "outdoor coil cleaning",
+    "drying time after cleaning",
+    "reassembly of mini split",
+    "unit testing after maintenance",
+    "maintenance frequency"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:55",
+      "title": "Mini split basics and filter location",
+      "concepts": [
+        "mini split components",
+        "indoor unit",
+        "outdoor unit",
+        "ductless system",
+        "airflow path through filter"
+      ],
+      "description": "Defines what a mini split is (indoor and outdoor units connected by refrigerant piping, no ductwork) and explains that the indoor filter protects airflow by catching airborne dirt; emphasizes the need for regular filter maintenance."
+    },
+    {
+      "start": "00:01:55",
+      "end": "00:03:53",
+      "title": "Indoor filter removal, cleaning, and replacement",
+      "concepts": [
+        "removing the filter",
+        "vacuum cleaning of filter",
+        "washing filters in sink or outside",
+        "basic replacement of filters"
+      ],
+      "description": "Shows how to open the indoor unit to expose the basic filter, describes quick cleaning by vacuum or hose, and notes that changing filters may be sufficient maintenance to keep airflow clean."
+    },
+    {
+      "start": "00:03:53",
+      "end": "00:05:02",
+      "title": "Deep cleaning indoor core and exterior coil care",
+      "concepts": [
+        "cowl removal",
+        "diffusion veins",
+        "evaporator coils",
+        "bristle brush vacuum",
+        "coil cleaner application",
+        "water safety and containment",
+        "protective guidelines"
+      ],
+      "description": "Describes accessing deeper internal components by removing the cowl and diffusion veins, vacuuming the interior coils with a bristle brush, and applying a coil cleaner with safety steps (power off, protect electrical components and walls) and containment to collect runoff, acknowledging the need for drying before reassembly."
+    },
+    {
+      "start": "00:05:02",
+      "end": "00:05:42",
+      "title": "Reassembly, test, and maintenance mindset",
+      "concepts": [
+        "reinstalling filter",
+        "powering on",
+        "unit test",
+        "maintenance mindset"
+      ],
+      "description": "Reinstalls the indoor filter, restores power, and tests the unit to verify operation, while underscoring that this is a maintenance task you may not perform tomorrow, but will be needed someday by a homeowner or a professional."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Inspect and clean the indoor air filter (vacuum or rinse)",
+      "timestamp": "00:01:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Disassemble inner cabinet: remove cowl and access diffusion veins",
+      "timestamp": "00:01:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Vacuum evaporator coils with bristle brush",
+      "timestamp": "00:03:21",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Apply coil cleaner to indoor coils with safety measures",
+      "timestamp": "00:03:57",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Outdoors coil cleaning setup (vacuum + coil cleaner) and containment",
+      "timestamp": "00:04:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Reinstall filter and perform a test run after drying",
+      "timestamp": "00:05:10",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:17:05.060490+00:00"
+}

@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "video": "gOZWyZMOASA.youtube",
+  "title": "Diagnosing a Cold Radiator in a 1950s Forced-Hot-Water Heating System (Monoflow/Diverter Tee)",
+  "date": {
+    "display": "January 29, 2017",
+    "iso": "2017-01-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "basement",
+      "confidence": 0.8,
+      "basis": "Explicit statement in transcript: 'Let's start in the basement' and subsequent basement-level discussion"
+    }
+  ],
+  "summary": "The video documents a diagnostic walkthrough of a hydronic (hot-water) heating system in a mid-20th-century house. An expert distinguishes between gravity and pumped (circulator) hot-water systems, confirms the boiler type (oil-fired in this case) and essential components (pressure reducing valve, expansion tank, and pressure relief valve), and then explains the 1950s-era Monad/Monoflow approach with a diverter (monoflow) tee that feeds multiple radiators from a single trunk. The section demonstrates practical checks—verifying boiler operation, water pressure, and air in radiators—and uses a smartphone thermal camera to visualize heat distribution. The root cause of the non-heating radiator is traced to zone control: a radiator was turned off at the base of the stairs, which effectively isolated it from the heated loop. The host reinforces the lesson to check simple causes before pursuing more complex mechanical fixes.",
+  "topics": [
+    "forced-hot-water heating",
+    "gravity vs. pumped hydronic systems",
+    "oil-fired boiler burner",
+    "pressure reducing valve",
+    "system expansion tank",
+    "pressure relief valve",
+    "circulator pump",
+    "monoflow / diverter tee",
+    "Venturi effect",
+    "radiator feed paths in monoflow systems",
+    "radiator venting and air removal",
+    "zone control and radiator isolation",
+    "radiator temperature distribution",
+    "thermographic (thermal) imaging",
+    "valve operation checks",
+    "basement as heating plant location",
+    "post-WWII housing heating expansion",
+    "diagnostic workflow for hot-water heating"
+  ],
+  "sections": [
+    {
+      "start": "00:00:50",
+      "end": "01:01:36",
+      "title": "Baseline: Forced hot water heating in a 1950s house",
+      "concepts": [
+        "forced hot water systems",
+        "gravity vs circulator operation",
+        "mid-20th-century housing heating layout"
+      ],
+      "description": "Introduction to the system context: radiators on one side work, the house dates to the 1950s, and the discussion distinguishes between gravity-hydronic beginnings and later pumped (circulator) setups. The scene establishes the operating radiators and the non-working unit as the focus of diagnosis."
+    },
+    {
+      "start": "01:01:36",
+      "end": "02:12:00",
+      "title": "Boiler and fuel: essential components and fuel type",
+      "concepts": [
+        "boiler as a vessel for hot water",
+        "burner requirement to heat water",
+        "oil vs gas fuel possibilities",
+        "heater placement and boiler shape"
+      ],
+      "description": "The host clarifies that every boiler needs a burner and demonstrates that in this example the burner is oil-fired (with note that gas is also possible). The boiler serves as the primary vessel for heating water in the system."
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:59:00",
+      "title": "Pressure management and expansion",
+      "concepts": [
+        "pressure in the heating loop",
+        "city water pressure vs. system pressure",
+        "pressure reducing valve",
+        "expansion tank and diaphragm"
+      ],
+      "description": "Discussion of keeping system pressure around 12 psi versus city pressures higher, the presence and role of a pressure-reducing valve, and the expansion tank's diaphragm separating water and air to absorb pressure fluctuations."
+    },
+    {
+      "start": "02:59:00",
+      "end": "03:10:00",
+      "title": "Circulator pump and circulation check",
+      "concepts": [
+        "circulator pump",
+        "distribution across zones",
+        "verification that other radiators heat"
+      ],
+      "description": "The routine check confirms the circulator pump is circulating and that other zones heat, indicating the issue may be localized rather than a whole-system failure."
+    },
+    {
+      "start": "03:10:00",
+      "end": "04:58:00",
+      "title": "Monoflow system and diverter tees: historical efficiency in piping",
+      "concepts": [
+        "monoflow (diverter) tee",
+        "single trunk heating around a building",
+        "reduction in material use for loops"
+      ],
+      "description": "The host explains the 1950s innovation: a monoflow/diverter tee where water from a single trunk is directed to radiators via restricted tees, creating a Venturi effect that pulls water through the radiator and helps equalize temperatures across radiators with less piping."
+    },
+    {
+      "start": "04:58:00",
+      "end": "05:58:00",
+      "title": "Diverter tee operation and radiator feed path",
+      "concepts": [
+        "diverter tee function",
+        "local radiator feed vs main trunk",
+        "visualizing water flow and restriction"
+      ],
+      "description": "A close look at how the water path diverts from the main trunk through a radiator and why the restricted path (the diverter tee) helps pull water through each radiator, ensuring temperature balance."
+    },
+    {
+      "start": "05:58:00",
+      "end": "06:15:00",
+      "title": "Radiator fill, air removal, and burping",
+      "concepts": [
+        "air in radiator",
+        "vent/bleed mechanism",
+        "ensuring radiator is water-filled"
+      ],
+      "description": "The radiator is checked for air pockets; the host explains that a fully filled radiator should have a vent to burp any trapped air, and demonstrates that there is no air in this radiator at test time."
+    },
+    {
+      "start": "06:15:00",
+      "end": "06:24:00",
+      "title": "Re-engaging service and heat verification",
+      "concepts": [
+        "service switch",
+        "observing heat after restarting boiler"
+      ],
+      "description": "The boiler is re-energized and the expectation of heat delivery is shown, including a brief setup for the thermographic demonstration."
+    },
+    {
+      "start": "06:25:00",
+      "end": "06:41:00",
+      "title": "Thermographic (thermal) imaging verification",
+      "concepts": [
+        "smartphone thermal camera",
+        "visualizing heat distribution",
+        "color changes indicating temperature"
+      ],
+      "description": "A smartphone-based infrared camera is used to visualize heat distribution. The host points out the color changes as the radiator warms, providing a non-contact method to confirm heat delivery."
+    },
+    {
+      "start": "06:52:00",
+      "end": "07:11:00",
+      "title": "Root cause: radiator was shut off via zone control",
+      "concepts": [
+        "zone control",
+        "previous owner adjustment",
+        "impact on radiator heating"
+      ],
+      "description": "The radiator at the base of the stairs had been effectively isolated by a closed valve, functioning as zone control. This explains the lack of heat despite a functioning boiler and circulating pump; the fix is to restore the radiator to the active zone."
+    },
+    {
+      "start": "07:11:00",
+      "end": "07:19:00",
+      "title": "Takeaway: verify simple causes before complex repairs",
+      "concepts": [
+        "pilot error vs mechanical failure",
+        "importance of checking simple controls first"
+      ],
+      "description": "A closing reminder that many heating issues arise from simple settings or local valve positions, not complex equipment failures, underscoring a practical diagnostic approach."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Monoflow (diverter) tee operation and Venturi effect explanation",
+      "timestamp": "00:03:10–00:04:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Diverter Tee and radiator feed path visualization",
+      "timestamp": "00:04:58–00:05:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Thermographic camera verification of radiator heat",
+      "timestamp": "00:06:25–00:06:41",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Zone-control diagnosis leading to radiator restoration",
+      "timestamp": "00:06:52–00:07:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Air venting and water-fill check for radiators",
+      "timestamp": "00:05:25–00:05:40",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:09:24.745503+00:00"
+}

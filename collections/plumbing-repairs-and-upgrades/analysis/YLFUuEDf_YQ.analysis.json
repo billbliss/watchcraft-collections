@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "video": "YLFUuEDf_YQ.youtube",
+  "title": "Dish Soap vs Dishwasher Detergent: A This Old House Demonstration on Why Soap Matters in Dishwashers",
+  "date": {
+    "display": "February 12, 2017",
+    "iso": "2017-02-12",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "kitchen (probable)",
+      "confidence": 0.6,
+      "basis": "Transcript references the kitchen context (foam covering the kitchen) but affords no explicit filming location; treating as probable scene context rather than confirmed shooting location."
+    }
+  ],
+  "summary": "This video contrasts dish liquid (hand-washing soap) with dishwasher detergent gel, emphasizing that they are not interchangeable. Through narration and a live in-dishwasher test, the hosts show how using ordinary dish soap in a dishwasher creates heavy suds that overflow the basin, leak from the door, and can contaminate the floor. The demonstration uses interior camera views to observe the wash cycle, revealing foam choking the wash arm and a mounting mess that requires cleanup with a wet vac and mop. The host then confesses that the mess was caused by putting the wrong product in, underscoring the practical lesson: always use the proper dishwasher detergent and keep dish soap for handwashing. The segment ends with cleanup tips and a reminder that soaps differ in concentration and formulation.",
+  "topics": [
+    "dish liquid (hand-washing soap)",
+    "dishwasher detergent gel",
+    "concentration differences between soaps",
+    "not interchangeable: dish soap vs dishwasher detergent",
+    "soap door and pre-rinse",
+    "basin full of water during a cycle",
+    "foam and suds dynamics in a dishwasher",
+    "wash arm obstruction by suds",
+    "foam overflow onto kitchen floor",
+    "in-dishwasher cameras monitoring cycle",
+    "cleanup with wet vacuum",
+    "mopping for residue removal",
+    "confession: wrong product used in dishwasher",
+    "kitchen context and real-world risk"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "01:25:00",
+      "title": "Dish Soap vs Dishwasher Detergent: What Goes in the Dishwasher",
+      "concepts": [
+        "dish liquid (hand-washing soap)",
+        "dishwasher detergent gel",
+        "concentration differences",
+        "not interchangeable",
+        "misuse risk when substituting products"
+      ],
+      "description": "The host introduces the topic by distinguishing dish liquid, used for hand washing and known to be highly concentrated, from dishwasher detergent gel, formulated specifically for dishwashers and less concentrated. The explanation stresses that not all soaps are created equal and that using the wrong product can lead to poor or dangerous results, especially if a full load is treated as if it were compatible with dishwasher detergent."
+    },
+    {
+      "start": "01:25:01",
+      "end": "02:49:00",
+      "title": "Live Test: What Happens When Dish Soap Is Used in a Dishwasher",
+      "concepts": [
+        "wash cycle",
+        "soap door",
+        "basin full of water",
+        "foam and suds",
+        "wash arm obstruction by suds",
+        "foam propagation beyond the basin"
+      ],
+      "description": "A live test using the dishwasher demonstrates the consequences of using dish soap instead of dishwasher detergent. The narrator notes that the soap door opens during the cycle, bubbles erupt, and foam clogs the wash arm. Cameras inside the appliance capture the foam and its spread, with foam leaking out and dripping onto the floor. The segment highlights how the detergent’s concentration and formulation affect performance during the pre-rinse and wash phases, resulting in a kitchen-wide foam overflow."
+    },
+    {
+      "start": "02:49:01",
+      "end": "02:56:00",
+      "title": "Cleanup and Confession",
+      "concepts": [
+        "wet vac cleanup",
+        "mop cleanup",
+        "consequence management",
+        "confession: wrong product used"
+      ],
+      "description": "The hosts explain cleanup steps after the overflow: using a wet vac and mopping to remove suds and residue, since the concentrated detergent can linger at the bottom. A humorous confession reveals that the mess was caused by putting the wrong product in, underscoring the practical takeaway: always use the correct dishwasher detergent and avoid substitutions."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Demonstration of the difference between dish liquid for hand washing and dishwasher detergent gel, illustrating concentration and formulation disparities.",
+      "timestamp": "00:00:20",
+      "confidence": 0.6
+    },
+    {
+      "technique": "In-dishwasher observation using interior cameras to monitor cycle behavior and suds development.",
+      "timestamp": "01:42",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Live test of the dishwasher with the wrong product to visualize overflow and mechanical impact on the wash arm.",
+      "timestamp": "01:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Post-event cleanup protocol using wet vac and mop to remove suds and residue.",
+      "timestamp": "02:31",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:33:42.885447+00:00"
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "7UbXmKW-v6o.youtube",
+  "title": "How to Repair a Leaky Kitchen Faucet (Ball Valve to Ceramic Cartridge) | This Old House",
+  "date": {
+    "display": "November 28, 2015",
+    "iso": "2015-11-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates a kitchen faucet repair focused on a common ball-valve style faucet. The host shows how to shut off the water, access and disassemble the handle, inspect the ball and seats for wear, and replace worn seats and springs with a kit. A pencil is used to guide installation of the new seats, and a cam assembly with a gasket is installed to control travel. The top cap is reassembled and the gland nut tension adjusted to restore a tight seal. The video then contrasts the traditional ball valve with the newer ceramic-disc cartridge, explaining how ceramic discs reduce wear and can last longer, and notes that if leaks persist you can swap the entire cartridge. The takeaway is that wear parts drive leaks, and with the right parts and careful reassembly, a leaky faucet can be fixed or upgraded for improved longevity.",
+  "topics": [
+    "turn off water supply",
+    "rag to prevent parts from entering drain",
+    "remove index cap",
+    "Allen wrench for handle screw",
+    "remove faucet handle",
+    "ball valve assembly",
+    "spanner wrench for top-cap",
+    "remove top cap",
+    "hot and cold seats",
+    "valve seat wear marks",
+    "springs under seats",
+    "new valve seats and springs",
+    "wear pattern on seats",
+    "guide seating with number two pencil",
+    "cam assembly with gasket",
+    "cam cap alignment and keyways",
+    "top cap tension / gland nut",
+    "reassemble and test",
+    "turn water back on and adjust tension",
+    "stainless steel ball vs ceramic disc cartridge",
+    "ceramic-disc cartridge advantages",
+    "rubber seats vs ceramic discs",
+    "how to replace a cartridge if leaks persist",
+    "importance of matching parts to faucet model",
+    "common failure modes of faucet cartridges"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:00:50",
+      "title": "Shut off water and prep for disassembly",
+      "concepts": [
+        "turn off water supply to sink",
+        "place rag to catch parts",
+        "remove index cap to access screw"
+      ],
+      "description": "The repair begins with turning off the sink water, placing a rag to prevent parts from going down the drain, and removing the red/blue index cap to expose the underlying screw."
+    },
+    {
+      "start": "00:00:50",
+      "end": "00:01:58",
+      "title": "Disassemble handle and access ball valve assembly",
+      "concepts": [
+        "loosen handle screw with Allen wrench",
+        "remove handle",
+        "expose ball assembly and top-cap",
+        "kit tools: Allen wrench and spanner wrench"
+      ],
+      "description": "Using the kit’s Allen wrench, the handle is removed, then the top-cap is loosened with the spanner wrench to reveal the ball valve assembly beneath."
+    },
+    {
+      "start": "00:01:58",
+      "end": "00:02:59",
+      "title": "Observe ball seating and hot/cold orientation",
+      "concepts": [
+        "ball rests on seats",
+        "hot and cold sides identified",
+        "water pressure present"
+      ],
+      "description": "The ball sits against rubber seats; moving the handle reveals how hot and cold water mix through the two seats and how full pressure feeds through the spout."
+    },
+    {
+      "start": "00:02:59",
+      "end": "00:04:05",
+      "title": "Remove worn valve seats and springs",
+      "concepts": [
+        "inspect wear on seats",
+        "remove worn seats and springs",
+        "identify scoring that causes leaks"
+      ],
+      "description": "The worn seats show surface scoring (nicks) that contribute to leaks under pressure, and the springs beneath them are removed and examined."
+    },
+    {
+      "start": "00:04:05",
+      "end": "00:05:25",
+      "title": "Install new seats, springs, and cam assembly",
+      "concepts": [
+        "install new seats and springs",
+        "guide seats with pencil",
+        "install cam assembly and gasket",
+        "align keyways for proper orientation"
+      ],
+      "description": "New seats and springs are installed, guided by a pencil for proper seating, followed by the cam assembly and gasket, with keyways aligned to ensure correct operation range."
+    },
+    {
+      "start": "00:05:25",
+      "end": "00:07:39",
+      "title": "Reassemble, test, and cartridge vs ball valve discussion",
+      "concepts": [
+        "reassemble chrome cap and tighten gland nut",
+        "restore water and test faucet",
+        "adjust gland nut tension for feel",
+        "compare ball-valve faucet to ceramic-disc cartridge",
+        "benefits of ceramic discs: fewer rubber gaskets and longevity"
+      ],
+      "description": "The top is rebuilt, the gland nut is tensioned for a solid seal, and water is turned back on to test. The host then contrasts the classic ball-valve design with the newer ceramic-disc cartridge, noting improved longevity and the absence of rubber gaskets in the cartridge, and mentions that if leaks persist a cartridge replacement may be performed."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Remove faucet handle using Allen wrench and access ball valve assembly",
+      "timestamp": "00:00:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Loosen top cap with spanner wrench and access ball assembly",
+      "timestamp": "00:01:10",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Inspect and identify wear on valve seats (score marks)",
+      "timestamp": "00:02:13",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Guide new seats into place with a pencil",
+      "timestamp": "00:03:05",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Install cam assembly with gasket and align keyways",
+      "timestamp": "00:03:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tighten gland nut and test water flow",
+      "timestamp": "00:04:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Discuss cartridge vs ball-valve technology and longevity",
+      "timestamp": "00:05:25",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:44:47.157254+00:00"
+}

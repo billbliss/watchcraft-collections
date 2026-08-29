@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "video": "VJQ7-KNQKmo.youtube",
+  "title": "How to Fix a Wobbly Toilet (This Old House) — WOBBLE DIAGNOSIS, FLOOR SETTLEMENT, AND LEVELING WITH SHIMS",
+  "date": {
+    "display": "January 14, 2018",
+    "iso": "2018-01-14",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this hands-on repair episode, the host investigates a toilet wobble that worsened after a temporary fix. The investigation reveals that the wobble is not caused by the wax seal alone, but by a floor that has settled, which allows the closet flange to sit out of level. After pulling the toilet, inspecting the flange, and confirming the floor’s movement, the installer re-seats the toilet using shims to fill the gap, replaces the closet bolts with lock-washer hardware, and uses a foam gasket with a base cap to create a stable seating surface. The reinstall is carried out with careful, even tightening and bolt trimming, then tested for solid connectivity and proper seal. The video also mentions alternative approaches (floor sistering or base material replacement) as bigger jobs that would be more involved, while noting that this shim-and-gasket solution provides a functional, lower-cost fix. ",
+  "topics": [
+    "toilet wobble diagnosis",
+    "shut-off valve and water management",
+    "toilet removal and reinstallation",
+    "closet bolts and lock washers",
+    "wax ring inspection",
+    "flange inspection",
+    "floor settlement and leveling",
+    "shim usage for leveling",
+    "plastic ribbed shims",
+    "foam gasket vs wax ring",
+    "base cap and washer function",
+    "nut tightening and torque",
+    "bolts trimming with hacksaw",
+    "leveling with a spirit/laser level",
+    "cosmetic considerations (caulk/putty)",
+    "alternative repair options (floor sistering, base material replacement)",
+    "missing hardware and part identification"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "Diagnose wobble and initial assessment",
+      "concepts": [
+        "toilet wobble",
+        "wax seal suspicion",
+        "short-term fix evaluation",
+        "planning to pull toilet"
+      ],
+      "description": "The host introduces a wobbly toilet problem and tests whether a quick fix helped. The wobble is linked to the attachment bolts and the wax seal, but the plan is to pull the toilet for a thorough inspection after the initial assessment."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:03:50",
+      "title": "Remove toilet and inspect flange and floor condition",
+      "concepts": [
+        "toilet removal",
+        "draining water",
+        "closet bolts",
+        "wax seal removal",
+        "flange inspection",
+        "floor settlement evidence"
+      ],
+      "description": "Water is drained, the toilet is removed, and the wax seal is removed for inspection. The flange appears intact, but the floor is visibly settled, confirming the wobble is aggravated by structural movement rather than a defective flange alone."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:05:58",
+      "title": "Plan leveling strategy: shims, bolts, and gasket choice",
+      "concepts": [
+        "shim leveling",
+        "lock washers",
+        "flange security",
+        "foam gasket vs wax ring",
+        "new closet bolts"
+      ],
+      "description": "With the flange inspected, the installer identifies the need to address floor settlement by introducing shims and readying new closet bolts with lock washers. A foam gasket is chosen in place of the traditional wax ring to accommodate deformation and ensure a reliable seal."
+    },
+    {
+      "start": "00:05:58",
+      "end": "00:06:55",
+      "title": "Reassembly: base cap, bolts, and height adjustment",
+      "concepts": [
+        "base cap/washer system",
+        "half-inch nuts",
+        "bolt height adjustment",
+        "compressing gasket",
+        "shim integration"
+      ],
+      "description": "The toilet is aligned over the bolts, a white base cap is added to improve load distribution, and the nuts are snugged on both sides. The shims are positioned to support the toilet at the correct height, compressing the gasket to form a solid seal."
+    },
+    {
+      "start": "00:06:55",
+      "end": "00:08:13",
+      "title": "Final adjustments, testing, and considerations",
+      "concepts": [
+        "level check",
+        "water restoration and test flush",
+        "cosmetic considerations (caulk/putty)",
+        "common missing hardware",
+        "bigger repair options (floor sistering)"
+      ],
+      "description": "The installer verifies that the toilet is solid and doesn’t move, reopens water, and tests the flush. They discuss cosmetic finishing (caulking over exposed shims) and briefly compare the shim-based fix to more extensive options like floor sistering, noting what was not necessary for a functional repair."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identifying wobble cause: flange vs. floor settlement",
+      "timestamp": "00:02:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Removing the toilet and inspecting the wax seal",
+      "timestamp": "00:02:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using shims to level a toilet on an uneven floor",
+      "timestamp": "00:04:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Installing lock-washer closet bolts",
+      "timestamp": "00:03:16",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Replacing wax ring with foam gasket for better deformability",
+      "timestamp": "00:03:45",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Using a base cap to distribute load on the toilet bolts",
+      "timestamp": "00:05:02",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cutting bolts flush with a mini hacksaw",
+      "timestamp": "00:05:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Leveling the toilet with a spirit/laser level (conceptual reference)",
+      "timestamp": "00:04:51",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:27:31.682325+00:00"
+}

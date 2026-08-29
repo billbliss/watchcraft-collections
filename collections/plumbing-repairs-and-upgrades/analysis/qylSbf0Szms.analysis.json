@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "video": "qylSbf0Szms.youtube",
+  "title": "Ducting an Old House: Hidden Oval Trunk Ducts, Sound Attenuators, and Aesthetic Concealment",
+  "date": {
+    "display": "June 13, 2025",
+    "iso": "2025-06-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Kitchen",
+      "confidence": 0.95,
+      "basis": "Transcript: \"We're sitting in the kitchen now and we're right above the basement\" (00:00:30.160)"
+    },
+    {
+      "name": "Basement (above which the kitchen is located)",
+      "confidence": 0.9,
+      "basis": "Transcript: \"we're right above the basement that is finished\" (00:00:32.559)"
+    },
+    {
+      "name": "Original Pantry (duct routing area)",
+      "confidence": 0.85,
+      "basis": "Transcript: \"In the original pantry right here, we needed to get our duct work to upstairs\" (00:01:07.920)"
+    },
+    {
+      "name": "Original Bedroom",
+      "confidence": 0.85,
+      "basis": "Transcript: \"up here in the original bedroom\" (00:01:28.320)"
+    },
+    {
+      "name": "Future Bathroom",
+      "confidence": 0.85,
+      "basis": "Transcript: \"to this future bathroom\" (00:01:30.479)"
+    }
+  ],
+  "summary": "This Old House walks through retrofitting HVAC in a 200+ year-old residence with tight spaces and structural constraints. The crew identifies a hidden solution: an oval duct trunk tucked into a pantry to supply a upstairs zone, while ductwork and drains are concealed within walls to preserve historic spaces. They describe sound-attenuation components to quiet the system, a central return strategy, and a plan to finish metals unobtrusively—potentially painting and trimming attenuators to resemble old knot-work. The episode emphasizes a load-driven approach to sizing attenuators and outlets, along with practical tactics for running trunks under joists, hiding drains, and concealing mechanicals behind woodwork for a seamless aesthetic in a historic shell.",
+  "topics": [
+    "Hidden oval trunk duct in pantry",
+    "Pantry as duct routing path",
+    "Basement/low headroom retrofit considerations",
+    "Duct routing to upstairs via old joists",
+    "Concealing bathroom drain lines in padded wall",
+    "Trunk routing to original bedroom and future bathroom",
+    "Sound attenuators with cloth-core design",
+    "Central return vs per-room returns",
+    "Duct takeoffs and interlocks",
+    "Sealing joints with tape to prevent air leakage",
+    "Load-based duct design: attenuators/outlets per 10x12 area",
+    "Material options for registers/attenuators (wood types, stain/paint)",
+    "Aesthetic concealment: trim old boards and paint attenuators to resemble knot",
+    "Retrofit sequencing in historic homes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:18",
+      "end": "00:01:03",
+      "title": "Initial constraints and trunk location planning",
+      "concepts": [
+        "HVAC retrofit in historic building",
+        "space constraints",
+        "hidden duct paths"
+      ],
+      "description": "The team frames the challenge of adding air conditioning and improved heating in a 200-year-old space, highlighting limited room for hidden ductwork and the need to plan discreetly."
+    },
+    {
+      "start": "00:01:07",
+      "end": "00:01:13",
+      "title": "Pantry routing and rubble clearing",
+      "concepts": [
+        "pantry as duct corridor",
+        "old joist rubble removal"
+      ],
+      "description": "In the original pantry, they describe carving a path for ducts to travel upstairs, including clearing rubble from original joists to allow routing."
+    },
+    {
+      "start": "00:01:28",
+      "end": "00:01:34",
+      "title": "Trunk routing to upstairs and future bathroom",
+      "concepts": [
+        "upstairs trunk run",
+        "future bathroom"
+      ],
+      "description": "Trunks are traced to the upstairs area and toward a future bathroom, illustrating how ducts are staged within the historic plan."
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:01:52",
+      "title": "Sound attenuation components",
+      "concepts": [
+        "sound attenuators",
+        "cloth-core design",
+        "per-room attenuation with central return"
+      ],
+      "description": "Introduction of sound attenuators that provide quiet operation with a cloth-core, including the approach of one attenuator per room and a single central return."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:02:11",
+      "title": "Main trunk takeoffs and interlocks",
+      "concepts": [
+        "takeoffs from main trunks",
+        "interlocking connections",
+        "air-seal technique"
+      ],
+      "description": "They describe making takeoffs from the main trunks, using interlocks, and sealing joints with tape to prevent air loss."
+    },
+    {
+      "start": "00:02:26",
+      "end": "00:02:31",
+      "title": "Load-based design guideline",
+      "concepts": [
+        "room load",
+        "one attenuator per 10x12 area"
+      ],
+      "description": "A rule-of-thumb for sizing: approximately one attenuator/outlet per 10x12 area, tied to the building load."
+    },
+    {
+      "start": "00:02:38",
+      "end": "00:02:56",
+      "title": "Aesthetic and finish options",
+      "concepts": [
+        "wood species",
+        "staining/painting to blend with decor",
+        "disappearing hardware"
+      ],
+      "description": "Discussion of choosing wood types and finishes so the duct hardware can blend with the room’s aesthetics."
+    },
+    {
+      "start": "00:02:38",
+      "end": "00:02:56",
+      "title": "Aesthetic concealment through trim and finish",
+      "concepts": [
+        "old-board trim",
+        "painted attenuator",
+        "look like knot-work"
+      ],
+      "description": "A proposed method to conceal attenuators by trimming with reclaimed boards and painting the hardware to emulate old knot-work for a quieter, integrated look."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hidden oval trunk duct in pantry (supply)",
+      "timestamp": "00:00:53",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sound attenuators with cloth-core (quiet HVAC)",
+      "timestamp": "00:01:40",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Main trunk takeoffs with interlocks and tape sealing",
+      "timestamp": "00:02:07",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Load-based design guideline: 1 attenuator per 10x12",
+      "timestamp": "00:02:26",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Aesthetic concealment: trim boards and paint attenuator to resemble knot-work",
+      "timestamp": "00:02:45",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:49:36.723121+00:00"
+}

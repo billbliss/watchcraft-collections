@@ -1,0 +1,124 @@
+{
+  "schema_version": 2,
+  "video": "jR917D0PpD4.youtube",
+  "title": "Repairing a Damaged Main Shutoff Valve: Gate Valve Failure, Curb Stop, and Pipe-Freezing Methods",
+  "date": {
+    "display": "April 9, 2018",
+    "iso": "2018-04-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement shutoff area (near water meter)",
+      "confidence": 0.85,
+      "basis": "Transcript: 'go down to the basement to shut the water off' and 'next to the water meter there's the water main here.'"
+    },
+    {
+      "name": "Curb stop (municipal shutoff, street-side)",
+      "confidence": 0.9,
+      "basis": "Transcript: 'curb stop' and description of town shutoff procedure that occurs outside the building."
+    }
+  ],
+  "summary": "This Old House presents a practical sequence for addressing a damaged main shutoff valve. When the in-house gate valve spins and won’t move, the host explains how these valves operate and why wear at the valve stem can render them unusable. With access to the town curb stop often required, the segment then discusses external shutoff options and the rationale for isolating the line when internal valves fail. To perform a valve replacement without risking water damage, the video demonstrates two pipe-freezing approaches (a CO2 canister method and a refrigeration-based freezing tool) to hard-freeze a short section of pipe, allowing the old valve to be cut out and a new valve installed. The replacement highlighted is a ball valve (full-port stainless steel) with a solderless connection to speed installation and guard against backflow while the work is completed. The overall lesson blends problem diagnosis, municipal shutoff basics, and rapid, fire-safe valve replacement techniques suitable for both residential and larger-scale plumbing scenarios.",
+  "topics": [
+    "gate valve",
+    "main shutoff",
+    "valve stem electrolysis wear",
+    "basement shutoff location",
+    "water main",
+    "curb stop",
+    "municipal shutoff",
+    "CO2 pipe freezing",
+    "CO2 canister",
+    "pipe freezing tool",
+    "refrigerant-based pipe freezing clamps",
+    "valve replacement",
+    "ball valve",
+    "full-port valve",
+    "solderless connection",
+    "backflow risk",
+    "while-work water isolation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:18",
+      "title": "Identify failed main shutoff valve (gate valve)",
+      "concepts": [
+        "gate valve",
+        "main shutoff",
+        "valve operation (bronze guillotine)",
+        "electrolysis wear on valve stem"
+      ],
+      "description": "The host reveals a spinning, stuck main shutoff valve—consistent with a gate valve whose stem threads have corroded or worn. He explains how a gate valve uses a bronze guillotine to seal and notes that wear can prevent the valve from moving up or down, signaling a failed shutoff."
+    },
+    {
+      "start": "00:01:18",
+      "end": "00:02:10",
+      "title": "Municipal shutoffs and curb stop as alternative control",
+      "concepts": [
+        "curb stop",
+        "municipal shutoff",
+        "town-specific valve control",
+        "special wrench for curb stop"
+      ],
+      "description": "The video describes the curb stop as the town-controlled shutoff located outside the building and explains how crews use a special wrench to shut it off when internal valves are compromised or inaccessible."
+    },
+    {
+      "start": "00:01:25",
+      "end": "00:02:40",
+      "title": "Pipe freezing methods to isolate the line for valve work",
+      "concepts": [
+        "CO2 pipe freezing",
+        "CO2 canister",
+        "freeze the pipe briefly to create an ice plug",
+        "refrigeration-based freezing clamps"
+      ],
+      "description": "To safely replace the valve without letting water flow, the presenter introduces pipe-freezing techniques: first a CO2 canister freezes a short pipe section, then an alternative refrigeration-based freezing tool uses ultra-cold clamps to accomplish the same isolation, enabling valve replacement without soldering in a wet environment."
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:03:02",
+      "title": "Valve replacement options: ball valve and solderless connection",
+      "concepts": [
+        "ball valve",
+        "full-port stainless steel ball valve",
+        "solderless (compression) connection",
+        "backflow and dripping considerations"
+      ],
+      "description": "After isolation, the team discusses replacing the damaged gate valve with a ball valve for easier operation. They highlight a full-port stainless steel ball valve and advocate using a solderless connection to speed installation and minimize issues with soldering in a damp environment."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "CO2 pipe freezing to isolate a live water line",
+      "timestamp": "00:01:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Refrigeration-clamp pipe freezing for rapid isolation",
+      "timestamp": "00:02:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Replacing a damaged gate valve with a ball valve (full-port stainless steel)",
+      "timestamp": "00:02:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Solderless/compression connection as a fast valve install",
+      "timestamp": "00:02:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Diagnosing gate valve failure due to stem wear (electrolysis wear)",
+      "timestamp": "00:00:37",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:24:53.110701+00:00"
+}

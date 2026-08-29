@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "gUFnf9EaQM4.youtube",
+  "title": "Maximizing Comfort with Thermostats: Humidity, radiant temperature, and smart controls",
+  "date": {
+    "display": "May 17, 2019",
+    "iso": "2019-05-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House’s segment describes a multi-factor approach to comfort beyond just setting a numeric thermostat. The host explains four core factors—temperature, humidity, air velocity, and mean radiant temperature—and how humidity and surface temperature affect perceived warmth or coolness. It contrasts traditional on/off thermostats with smart, connected controls that use motion sensing, geofencing, and room-level wireless sensors to better match heating with occupancy and occupancy patterns, while noting efficiency considerations and potential rebates. The discussion also covers how oversized boilers, single-zone systems, and the difference between dry winter air versus humidified air influence comfort, and why upgrading controls can yield energy savings without replacing equipment. ",
+  "topics": [
+    "Thermostat setpoints (e.g., 68°F vs 72°F)",
+    "Humidity's effect on comfort",
+    "Relative humidity ranges (20% winter/30-40% with humidifier)",
+    "Air velocity and comfort in forced-air systems",
+    "Mean radiant temperature and surface effects on comfort",
+    "Surface temperature implications (windows, radiators)",
+    "Traditional clock thermostats and setback strategies",
+    "Programmable vs smart thermostats",
+    "Motion sensing and occupancy-based heating",
+    "Geofencing and GPS-driven temperature control",
+    "Whole-house wireless sensors and zoning concepts",
+    "Furnace/boiler sizing and efficiency impacts",
+    "Utility rebates and cost considerations for upgrading controls"
+  ],
+  "sections": [
+    {
+      "start": "00:44",
+      "end": "01:04",
+      "title": "Four factors of comfort",
+      "concepts": [
+        "Temperature",
+        "Humidity",
+        "Air velocity",
+        "Mean radiant temperature"
+      ],
+      "description": "The host identifies four factors that determine comfort: temperature, humidity, air movement, and the mean radiant temperature of surfaces surrounding the body."
+    },
+    {
+      "start": "00:49",
+      "end": "01:22",
+      "title": "Humidity and perceived temperature",
+      "concepts": [
+        "Humidity level",
+        "Dry air vs humid air",
+        "Comfort impact of humidity"
+      ],
+      "description": "Humidity is highlighted as a key but often overlooked component; low humidity can feel cold or dry, while higher humidity can increase comfort at the same air temperature."
+    },
+    {
+      "start": "01:26",
+      "end": "01:50",
+      "title": "Air velocity and comfort in hot-air systems",
+      "concepts": [
+        "Forced-air systems",
+        "Air velocity",
+        "Moisture evaporation from skin"
+      ],
+      "description": "Air moving through ducts can evaporate moisture from skin, making occupants feel colder even if the air is warm, which may lead to raising the set temperature."
+    },
+    {
+      "start": "02:04",
+      "end": "02:41",
+      "title": "Mean radiant temperature and surface warmth",
+      "concepts": [
+        "Mean radiant temperature",
+        "Surface warmth",
+        "Radiant heat sources"
+      ],
+      "description": "The idea that the perceived temperature depends on radiant heat exchange with surrounding surfaces; warmer surfaces raise comfort by increasing mean radiant temperature."
+    },
+    {
+      "start": "03:16",
+      "end": "04:12",
+      "title": "From standard to smart thermostats",
+      "concepts": [
+        "Programmable thermostat",
+        "Setback programming",
+        "Ease of use versus legacy models"
+      ],
+      "description": "The transition from simple on/off thermostats to smarter versions that are easier to program and often linked to a phone for remote control."
+    },
+    {
+      "start": "04:46",
+      "end": "05:12",
+      "title": "Geofencing and occupancy-aware heating",
+      "concepts": [
+        "Geofencing",
+        "GPS-based occupancy detection",
+        "Remote pre-heating"
+      ],
+      "description": "Smart thermostats leverage GPS on a smartphone to anticipate when you’re approaching home and begin warming up accordingly."
+    },
+    {
+      "start": "05:04",
+      "end": "05:12",
+      "title": "Room-level sensing and wireless sensors",
+      "concepts": [
+        "Room sensors",
+        "Motion sensing",
+        "Occupancy-based control"
+      ],
+      "description": "Wireless sensors placed around the home can sense movement and occupancy in specific rooms to deliver comfort where you spend time."
+    },
+    {
+      "start": "05:36",
+      "end": "05:46",
+      "title": "Economics and rebates for upgrading controls",
+      "concepts": [
+        "Efficiency",
+        "Rebates",
+        "Operating cost vs. purchase price"
+      ],
+      "description": "The host notes that upgrading to modern controls can be cost-effective, with utilities offering rebates and often lower ongoing operating costs compared with older equipment."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identifying four core comfort factors (temperature, humidity, air velocity, mean radiant temperature)",
+      "timestamp": "00:44",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Describing humidity’s impact on perceived temperature and comfort ranges",
+      "timestamp": "00:48",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Explaining how air velocity from forced-air systems affects comfort",
+      "timestamp": "01:31",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Introducing mean radiant temperature and surface warmth concepts",
+      "timestamp": "02:04",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Contrast between traditional thermostats and smart/connected controls",
+      "timestamp": "03:16",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Geofencing as occupancy-aware heating",
+      "timestamp": "04:46",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Use of wireless room sensors to target comfort",
+      "timestamp": "05:04",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Discussion of upgrades, efficiency, and rebates",
+      "timestamp": "05:39",
+      "confidence": 0.81
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:09:49.886755+00:00"
+}

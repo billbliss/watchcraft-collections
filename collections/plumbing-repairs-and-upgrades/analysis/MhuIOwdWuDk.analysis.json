@@ -1,0 +1,237 @@
+{
+  "schema_version": 2,
+  "video": "MhuIOwdWuDk.youtube",
+  "title": "Dual-valve, air-sealed siphon-jet toilet with rim-wash optimization",
+  "date": {
+    "display": "February 18, 2019",
+    "iso": "2019-02-18",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "California (testing standards)",
+      "confidence": 0.65,
+      "basis": "Transcript cites California as the context for the strict water-restriction standard (1.28 gpf) used in tests."
+    }
+  ],
+  "summary": "This Old House explores the development of a low-consumption toilet at an engineering design facility. The episode traces the workflow from computer-driven hydraulics simulations to rapid prototyping and a battery of bench tests designed to preserve flushing performance under tighter water use. A core innovation demonstrated is a dual-flush system that separates the rim-wash function from the siphon-jet bowl flush and is sealed to air to avoid an air-gap that would sap flush power. The tests cover drain-line carry (4-inch pipe, pitch, and length), low-water flush (1.28 gal per flush), bulk waste removal (miso paste), and mixed-media flush performance, with attention to rim cleanliness and the elimination of dirt-trapping undercuts. The video also includes a cutaway explanation of toilet internals (trap seal, siphon jet, flush valves) and notes homeowner complaints about rim-wash under low-flow conditions.",
+  "topics": [
+    "low-flow toilets",
+    "dual-flush valves",
+    "rim wash optimization",
+    "siphon jet mechanism",
+    "air gap in flush systems",
+    "hydraulic simulations",
+    "rapid prototyping in plumbing design",
+    "drain line carry test",
+    "4-inch drain line pitch",
+    "California water restrictions",
+    "1.28 gpf",
+    "bulk waste testing",
+    "miso paste test",
+    "mixed-media flush test",
+    "rim undercuts elimination",
+    "toilet cutaway diagram",
+    "trap seal",
+    "flush valve design",
+    "bowl cleanliness"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:12",
+      "title": "Facility purpose and water-efficiency goals",
+      "concepts": [
+        "engineering design facility",
+        "water efficiency",
+        "three functions of a toilet",
+        "global water use pressures"
+      ],
+      "description": "Introduces the engineering facility’s mission to re-engineer plumbing products for higher efficiency while maintaining bulk waste removal, bowl cleaning, and drain-line performance. Sets the context that toilets are a major home water consumer and must meet growing efficiency demands."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:01:46",
+      "title": "Computer simulations of hydraulics and performance goals",
+      "concepts": [
+        "velocity measurement",
+        "flow power",
+        "water consumption",
+        "computer simulations",
+        "optimization"
+      ],
+      "description": "Shows computer simulations used to measure water velocity, flow power, and consumption, with the aim of achieving an optimum hydraulic performance before physical prototyping."
+    },
+    {
+      "start": "00:01:46",
+      "end": "00:02:16",
+      "title": "Planning for rapid prototyping and integration of form and function",
+      "concepts": [
+        "rapid prototyping",
+        "engine testing",
+        "aesthetics vs. function"
+      ],
+      "description": "Outlines the transition from virtual models to physical prototypes and emphasizes planning to test performance before finalizing the toilet’s look."
+    },
+    {
+      "start": "00:02:16",
+      "end": "00:02:50",
+      "title": "Design-to-test alignment with industry standards",
+      "concepts": [
+        "industry tests",
+        "standard tests",
+        "final appearance vs. reliability"
+      ],
+      "description": "Discusses designing the toilet to meet industry standards while also developing a visually appealing product."
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:03:12",
+      "title": "Drain line carry test setup and specifications",
+      "concepts": [
+        "4 inch drain line",
+        "pitch per foot",
+        "drain efficiency",
+        "California restrictions"
+      ],
+      "description": "Details the drain-line carry test using a 4-inch drain line with a typical 1/4 inch per foot pitch, referencing the toughest water-restriction standards (California) to validate performance."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:03:31",
+      "title": "Poly-ball flush test and preliminary results",
+      "concepts": [
+        "poly balls",
+        "40+ ft test",
+        "1.28 gpf"
+      ],
+      "description": "Describes flushing 103? (poly balls) to simulate waste and verify the system clears the line to around 40+ feet with a 1.28 gallons-per-flush standard."
+    },
+    {
+      "start": "00:03:31",
+      "end": "00:04:09",
+      "title": "Mixed-media flush test (bulk removal capability)",
+      "concepts": [
+        "mixed media",
+        "buoyancy variation",
+        "flush success rate"
+      ],
+      "description": "Introduces a mixed-media test (2500 items with varied buoyancies) to confirm the toilet can flush out nearly all material from the bowl under low-water conditions."
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:04:39",
+      "title": "Bulk-waste removal test with miso paste",
+      "concepts": [
+        "bulk-waste testing",
+        "miso paste",
+        "test length"
+      ],
+      "description": "Demonstrates testing with miso paste in a sleeve, progressively challenging the system to remove bulk waste beyond minimum requirements (up to 12 links)."
+    },
+    {
+      "start": "00:04:39",
+      "end": "00:05:19",
+      "title": "Rim-wash concerns and internal cutaway explanation",
+      "concepts": [
+        "rim-wash performance",
+        "internal toilet anatomy",
+        "trap seal"
+      ],
+      "description": "Addresses homeowner complaints about rim-wash effectiveness and presents a cutaway showing how water and waste move through the trap seal and rim during flush."
+    },
+    {
+      "start": "00:05:19",
+      "end": "00:06:16",
+      "title": "Air-gap issue and siphon-jet power preservation",
+      "concepts": [
+        "air gap",
+        "siphon jet",
+        "flush velocity",
+        "water displacement"
+      ],
+      "description": "Explains how an air gap between bowl and tank can reduce flush velocity, and why solving this is critical to maintaining power in low-flow toilets."
+    },
+    {
+      "start": "00:06:16",
+      "end": "00:07:15",
+      "title": "Dual-valve approach: rim area vs siphon-jet area",
+      "concepts": [
+        "dual flush valves",
+        "rim valve",
+        "siphon-jet valve",
+        "air sealing"
+      ],
+      "description": "Shows the separation of the rim-area flush valve from the bowl siphon-jet valve, with the siphon-jet valve sealed to air to prevent air ingress."
+    },
+    {
+      "start": "00:07:15",
+      "end": "00:07:40",
+      "title": "Water-split optimization for flush power",
+      "concepts": [
+        "30/70 water split",
+        "trap flush",
+        "rim wash dedication"
+      ],
+      "description": "Describes the targeted water split: about 30% to fire the siphon trap and 70% for rim wash to keep the bowl clean."
+    },
+    {
+      "start": "00:07:40",
+      "end": "00:08:13",
+      "title": "Final flush demonstration and design takeaways",
+      "concepts": [
+        "1.28 gal flush",
+        "rim-dirt removal",
+        "final testing insights"
+      ],
+      "description": "Demonstrates a flush using 1.28 gallons, showing effective removal and highlighting design changes like eliminating undercuts and creating a strong cleaning jet."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dual-flush valve separation (rim area vs siphon-jet valve)",
+      "timestamp": "00:06:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Air-sealed siphon-jet valve to prevent air ingress",
+      "timestamp": "00:06:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Rim-wash optimization by increasing rim-wash share to 70%",
+      "timestamp": "00:07:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Drain-line carry testing on a 4-inch line with 1/4 inch per foot pitch",
+      "timestamp": "00:02:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "1.28 gpf flush demonstration as performance target",
+      "timestamp": "00:02:59",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Bulk-waste testing with miso paste (7-12 links to 12 links)",
+      "timestamp": "00:04:27",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mixed-media flush testing (2500 items) achieving 95% removal",
+      "timestamp": "00:03:51",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Computer simulations of hydraulics (velocity, consumption) guiding design",
+      "timestamp": "00:01:18",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:31:57.494239+00:00"
+}

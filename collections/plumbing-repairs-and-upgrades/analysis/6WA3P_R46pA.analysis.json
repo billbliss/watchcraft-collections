@@ -1,0 +1,162 @@
+{
+  "schema_version": 2,
+  "video": "6WA3P_R46pA.youtube",
+  "title": "How to Connect a Refrigerator Water and Ice Dispenser | This Old House",
+  "date": {
+    "display": "September 5, 2014",
+    "iso": "2014-09-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement utility space under the stove area (evidence includes moving to basement to locate cold water line, mentions two floor holes and an abandoned hot water line).",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly moves to the basement and notes the stove area; mentions two holes in the floor and an abandoned hot water line near a cold-water line with a shut-off valve."
+    }
+  ],
+  "summary": "This Old House walks through connecting a refrigerator’s water dispenser to a cold-water supply. The host locates the existing cold-water line and shut-off valve in the basement, identifies an abandoned hot-water line, and then demonstrates copper-pipe preparation, soldering a transition to a compression line, and attaching the refrigerator’s supply line. The process covers pipe cleaning, fluxing, a soldered copper joint, threading with Teflon tape, tightening with two wrenches, and finally testing the dispenser for flow.",
+  "topics": [
+    "refrigerator water line",
+    "cold water shut-off valve",
+    "basement plumbing access",
+    "abandoned hot water line",
+    "copper pipe preparation",
+    "emery cloth cleaning",
+    "wire brush fitting cleaning",
+    "flux application",
+    "soldering copper joint",
+    "tubing cutter use",
+    "transition fitting to compression tubing",
+    "teflon tape threading",
+    "thread sealant (pipe dope) application",
+    "ground joint connection",
+    "two-wrench tightening technique",
+    "refrigerator supply line connection",
+    "testing water at dispenser",
+    "leak check after installation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "title": "Assess fridge readiness and locate cold water supply",
+      "concepts": [
+        "refrigerator water line",
+        "cold water supply",
+        "shut-off valve",
+        "basement plumbing context"
+      ],
+      "description": "The video opens with the host noting that the fridge is already ready internally and only needs a connection to a cold water line. The narrator then begins by locating the cold-water line and nearby plumbing access in the basement."
+    },
+    {
+      "start": "00:00:42",
+      "end": "00:01:16",
+      "title": "Explore plumbing path and identify lines",
+      "concepts": [
+        "two floor access holes",
+        "abandoned hot-water line",
+        "cold water line with shut-off valve"
+      ],
+      "description": "The host goes to the basement, observes two floor holes (originally for a washing machine), and identifies an abandoned hot-water line and a functional cold-water line with a shut-off valve, establishing feasibility for a connection."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:01:49",
+      "title": "Prepare and cut copper pipe",
+      "concepts": [
+        "copper pipe",
+        "tubing cutter",
+        "pipe cleaning ( Emery cloth )"
+      ],
+      "description": "The copper pipe is prepared and cut with a tubing cutter, and the exposed surface is cleaned with Emery cloth to ensure proper solder adhesion."
+    },
+    {
+      "start": "00:01:49",
+      "end": "00:02:06",
+      "title": "Soldering prep and initial joint setup",
+      "concepts": [
+        "flux application",
+        "fitting cleaning",
+        "soldering basic technique"
+      ],
+      "description": "The presenter explains fluxing both the pipe and the fitting to prepare for soldering, and emphasizes clean, uniform surfaces to ensure a good solder joint."
+    },
+    {
+      "start": "00:02:06",
+      "end": "00:02:57",
+      "title": "Threading prep and compression connection setup",
+      "concepts": [
+        "teflon tape on threads",
+        "compression fitting",
+        "new fitting alignment"
+      ],
+      "description": "Three wraps of Teflon tape are applied to the new fitting. The pipe is threaded into the fitting and aligned for tightening, with emphasis on avoiding cross-threading and ensuring a straight orientation."
+    },
+    {
+      "start": "00:02:57",
+      "end": "00:04:04",
+      "title": "Connect supply line and test the dispenser",
+      "concepts": [
+        "ground joint connection",
+        "nut and cone adapter",
+        "pipe dope (sealant)",
+        "two-wrench tightening",
+        "turning water back on",
+        "test at dispenser"
+      ],
+      "description": "The supply line is connected to the refrigerator using a ground joint fitting with a light sealant, tightened with two wrenches, and the water is turned back on. The dispenser is then tested to confirm flow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify cold water supply and shut-off valve in basement plumbing",
+      "timestamp": "00:00:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clean and prepare copper pipe surface with Emery cloth",
+      "timestamp": "00:00:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Clean fitting with wire brush before assembly",
+      "timestamp": "00:01:18",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Apply flux to pipe and fitting prior to solder",
+      "timestamp": "00:01:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Solder copper joint using opposite-side heat to draw solder",
+      "timestamp": "00:01:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Apply teflon tape (thread sealant) to threaded fitting",
+      "timestamp": "00:02:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Thread and tighten new compression fitting with two wrenches",
+      "timestamp": "00:02:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Install ground joint connection and sealant at supply line",
+      "timestamp": "00:03:03",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Test refrigerator water dispenser for operation after connection",
+      "timestamp": "00:03:56",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:43:41.610170+00:00"
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "video": "NnlxQGIju4Q.youtube",
+  "title": "Diagnosis and Repair of a Leaking Water Heater: T&P Valve, High Pressure, and Expansion Tank",
+  "date": {
+    "display": "October 15, 2017",
+    "iso": "2017-10-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Main water supply entry to the building (near the water heater) showing the point where the city supply is split to irrigation and the house",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly identifies the water main coming in from the street and a split to two meters; the equipment is shown around the heater area, suggesting the main feed location is in the same vicinity."
+    }
+  ],
+  "summary": "This instructional video analyzes a leaking water heater scenario by tracing upstream causes to high incoming water pressure and insufficient expansion accommodation in a closed hot-water system. The hosts identify the T&P (temperature and pressure) relief valve as the leak point and diagnose excessive pressure arising from a city supply that previously fed a pressure-reducing valve (PRV) installed for irrigation. They explain how a PRV can behave like a check valve, potentially preventing expansion from dissipating in the system and driving pressure back toward the heater. The solution demonstrated is installing a potable water expansion tank to provide a dedicated expansion cavity, paired with push-fit fittings for a leak-tolerant install. The segment emphasizes safe handling of the T&P valve, the relationship between service pressure and appliance longevity, and the concrete steps to add an expansion tank to a domestic potable water system.",
+  "topics": [
+    "Temperature and Pressure Relief Valve (T&P valve)",
+    "T&P valve safety function",
+    "T&P valve leakage and proper drainage",
+    "City water pressure",
+    "Pressure gauge on irrigation feed",
+    "100 psi water pressure",
+    "Pressure-reducing valve (PRV) for incoming supply",
+    "PRV as a one-way/check valve",
+    "Backflow prevention concepts",
+    "Dip tube in water heater",
+    "Cold water supply line to heater",
+    "Thermal expansion in a closed system",
+    "Expansion path for heated water",
+    "Expansion tank basics",
+    "Potable water expansion tank vs heating-system tank",
+    "Non-rusting potable expansion tanks",
+    "Push-fit fittings vs soldering for repairs",
+    "Soldering challenges and leak avoidance",
+    "Impact of occupancy/use patterns on hot-water demand",
+    "Cutting and draining pipes for installation",
+    "Leak diagnosis workflow"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:59",
+      "title": "Identify T&P valve and leakage behavior",
+      "concepts": [
+        "T&P valve",
+        "Safety device",
+        "Leakage through valve",
+        "Draining to a bucket"
+      ],
+      "description": "Introduction to the temperature and pressure relief valve, its safety role, and proper drainage behavior when a leak is observed."
+    },
+    {
+      "start": "00:59:52",
+      "end": "01:24:00",
+      "title": "High city pressure and PRV role",
+      "concepts": [
+        "City water supply",
+        "Pressure gauge on irrigation feed",
+        "100 psi reading",
+        "Impact on house fixtures"
+      ],
+      "description": "Observation of elevated incoming pressure via a gauge on the outdoor irrigation line and discussion of how a pressure-reducing valve reduces that pressure for household use, with implications for wear and leakage."
+    },
+    {
+      "start": "01:28:00",
+      "end": "02:07:40",
+      "title": "PRV as check valve and directional flow",
+      "concepts": [
+        "PRV backflow prevention",
+        "One-way flow",
+        "Effect on expansion",
+        "Consequences for heater pressure"
+      ],
+      "description": "Explanation that the PRV functions as a check valve, allowing flow in only one direction and potentially influencing where expansion pressure can relieve, which may contribute to the T&P valve issue."
+    },
+    {
+      "start": "02:13:00",
+      "end": "04:20:00",
+      "title": "Thermal expansion, dip tube, and system balance",
+      "concepts": [
+        "dip tube",
+        "expansion of heated water",
+        "open faucet relief",
+        "need for an expansion path"
+      ],
+      "description": "Discussion of how heated water expands, the role of the dip tube in delivering cold water to the bottom, and the necessity of a proper expansion path to prevent pressure buildup."
+    },
+    {
+      "start": "04:24:00",
+      "end": "04:56:00",
+      "title": "Install potable water expansion tank",
+      "concepts": [
+        "potable expansion tank",
+        "neoprene diaphragm",
+        "air charge",
+        "non-rusting materials"
+      ],
+      "description": "Proposal to install a potable water expansion tank to provide a dedicated expansion reservoir and to address the observed overpressure without compromising potable water safety."
+    },
+    {
+      "start": "05:21:00",
+      "end": "05:41:00",
+      "title": "Repair completion and testing",
+      "concepts": [
+        "push-fit fittings",
+        "draining and refilling",
+        "leak-free verification"
+      ],
+      "description": "Final installation steps for the potable expansion tank using push-fit connections, refilling the system, and confirming the absence of leaks."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Measuring main water pressure with a gauge on the irrigation feed",
+      "timestamp": "01:12",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Identifying and explaining the T&P valve and its safety function",
+      "timestamp": "00:10",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Explaining thermal expansion and installing a potable water expansion tank",
+      "timestamp": "04:24",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using push-fit fittings to connect an expansion tank",
+      "timestamp": "05:21",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:34:26.626121+00:00"
+}

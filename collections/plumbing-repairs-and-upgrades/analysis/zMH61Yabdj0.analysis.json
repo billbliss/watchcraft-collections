@@ -1,0 +1,100 @@
+{
+  "schema_version": 2,
+  "video": "zMH61Yabdj0.youtube",
+  "title": "Faucet Repair Fundamentals: Handle Removal, Washer/Seat Inspection, and Seal Repair",
+  "date": {
+    "display": "August 22, 2014",
+    "iso": "2014-08-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House presents a hands-on guide to repairing a leaking faucet, starting with how to remove the handle (including hidden screws and the use of a handle puller for stubborn fittings), then distinguishing between modern cartridge-based faucets and traditional stem-and-washer designs. The video proceeds to inspect the bottom washer and the associated screw, highlighting wear and the risk of stripping a screw head. For older valves, it demonstrates removing and inspecting the valve seat, and discusses options to restore a tight seal—ranging from replacing washers and ends to using a seat wrench, grinding or reaming the seat, or replacing the seat itself—and emphasizes that a proper seal hinges on mating flat surfaces between the washer and the seat.",
+  "topics": [
+    "handle removal",
+    "hidden screws under button covers",
+    "handle puller",
+    "faucet vintage identification",
+    "modern cartridge replacement",
+    "traditional stem with washer",
+    "bottom washer wear",
+    "screw head integrity",
+    "clean Phillips head",
+    "end of stem wear and retainer ring",
+    "washer replacement",
+    "seat removal with seat wrench",
+    "seat wear: pitting and cracks",
+    "grinding/reaming a seat",
+    "seat replacement",
+    "sealing washer to seat"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "01:02:08",
+      "title": "Handle removal and faucet type identification",
+      "concepts": [
+        "hidden screw under hot/cold button",
+        "push down and counterclockwise to engage screw",
+        "handle puller use to free stubborn handles",
+        "distinguishing cartridge-based modern faucets from traditional stem-based designs"
+      ],
+      "description": "Introductory primer on how to remove a faucet handle, including locating the small screw under a button cover, how to push and counterclockwise turn, and using a handle puller when mineral buildup fuses the handle. The segment also explains the difference between modern cartridge faucets and older stem-based configurations, including how water flow is controlled and where to expect a cartridge versus a stubby stem."
+    },
+    {
+      "start": "01:02:08",
+      "end": "02:31:46",
+      "title": "Disassembly and wear assessment of traditional stem-based faucets",
+      "concepts": [
+        "traditional stem unit vs bottom washer",
+        "indicators of wear in the bottom washer",
+        "screw condition and the risk of stripping",
+        "importance of clean Phillips head hardware"
+      ],
+      "description": "Discussion moves into older, traditional faucets with a stem unit, where the bottom washer and its seat are critical. It covers identifying the type of faucet, recognizing that the bottom washer can be worn, and that screws seated in water over years are prone to stripping without proper tool contact. The segment emphasizes careful screwdriver technique to avoid head stripping and the consequences of a stripped screw."
+    },
+    {
+      "start": "02:31:46",
+      "end": "04:34:35",
+      "title": "Seat inspection, end modification, and sealing strategies",
+      "concepts": [
+        "replacing worn end on the stem with a new end and retainer ring",
+        "removing the seat with a seat wrench",
+        "options for a worn or pitted seat (replacement, grinding, reaming)",
+        "goal of a tight seal between washer and seat"
+      ],
+      "description": "The final section covers reviving a leaking traditional faucet by addressing the end of the stem, including breaking off the worn end, grinding it to accommodate a retainer ring, and installing a new end. It then shows how to extract the seat with a seat wrench, evaluate for pitting or cracks, and choose among seating options (new seat, grinding with emery cloth, or seat reaming). The overarching principle is achieving a tight seal between the washer and the seat to stop leaks."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Use of a handle puller to remove a stubborn faucet handle",
+      "timestamp": "00:00:37",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Identifying faucet type (cartridge vs stem) and planning replacement path",
+      "timestamp": "01:04:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "End modification on stem with retainer ring to restore a seal",
+      "timestamp": "02:52:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Seat removal with a seat wrench and evaluation for pitting/cracking",
+      "timestamp": "03:24:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Achieving a tight seal by mating flat washer and seat surfaces",
+      "timestamp": "04:24:00",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:40:31.032611+00:00"
+}

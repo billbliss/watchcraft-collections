@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "video": "yGgx_UFQIfw.youtube",
+  "title": "PVC Drain-Waste-Vent Layout and Glue in a Master Bathroom (This Old House)",
+  "date": {
+    "display": "March 11, 2020",
+    "iso": "2020-03-11",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Master bathroom (upstairs)",
+      "confidence": 0.66,
+      "basis": "Transcript states the plan is to run plumbing to the master bathroom above the crew’s location and describes fixtures (toilet, tub, lavatory, shower) in that space."
+    }
+  ],
+  "summary": "This Old House demonstrates planning and installing a PVC drain-waste-vent (DWV) run in a master bathroom. The host outlines typical pipe sizes by fixture (3\" for the toilet, 2\" for the shower, 1.5\" for the lav/vent) and reviews a range of fittings and angles (90° and 45° elbows, plus 60° and 22° variants; street side/male-to-female adapters for tight spaces). The video covers layout considerations, including drilling holes upstairs, dry-fitting with hangers, and ensuring proper pitch. It then covers joint preparation with cleaner and cement, marking witness lines, and performing a quick-set cementing process (five seconds) to ensure solid, drip-free connections for the tub, toilet, lavatory, and shower later in the project.",
+  "topics": [
+    "DWV plumbing basics",
+    "Toilet drain size (3 inch)",
+    "Shower drain size (2 inch)",
+    "Lavatory drain/vent size (1.5 inch)",
+    "Vent piping and upstairs connections",
+    "PVC elbows: 90 degree",
+    "PVC elbows: 45 degree",
+    "Additional angles: 60 degree, 22 degree",
+    "Hub-to-hub vs street/male-to-female fittings",
+    "T fittings for traps and lav drains",
+    "Cleanouts and access for drains",
+    "Specialty fittings for tight spaces",
+    "Glue and cleaner for PVC joints",
+    "Dry-fitting before gluing",
+    "Witness marks for joint alignment",
+    "Hole drilling and layout planning",
+    "Pipe hangers and proper pitch",
+    "Five-second cement setup",
+    "Drip control during bonding"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:11",
+      "title": "DWV layout basics and common pipe sizes",
+      "concepts": [
+        "DWV system overview (drain, waste, vent)",
+        "Three-inch toilet drain; two-inch shower drain; 1.5-inch lav/vent",
+        "Vent lines run upstairs to reconnect",
+        "Common pipe angles: 90° and 45°"
+      ],
+      "description": "Introduction to the planned master-bath DWV layout, naming fixtures and corresponding pipe sizes, and noting the presence of vent lines. The host also highlights standard elbow angles (90° and 45°) and mentions additional angles and specialized fittings for tight spaces."
+    },
+    {
+      "start": "00:02:11",
+      "end": "00:03:10",
+      "title": "Fittings, branches, and space-conscious variations",
+      "concepts": [
+        "T-fitting usage for traps and transitions",
+        "Cleanouts for accessing and clearing drains",
+        "Specialty fittings for tight spaces",
+        "Hub-to-hub vs street side / male-to-female variations"
+      ],
+      "description": "Discussion of common and specialty fittings, including T fittings for transitions (e.g., traps to verticals), the role of cleanouts, and variations that aid installation in tight spaces."
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:04:00",
+      "title": "Layout planning: holes, dry-fit, and pitch",
+      "concepts": [
+        "Drilling holes upstairs for routing",
+        "Dry-fitting the pipe run before final assembly",
+        "Verifying hangers and slope (pitch)",
+        "Using witness marks as layout references"
+      ],
+      "description": "The crew moves upstairs to drill for pipe routing, performs a dry-fit, checks hanger placement and pitch, and marks joints to guide later assembly."
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:04:34",
+      "title": "Gluing, joints, and project wrap-up",
+      "concepts": [
+        "Cleaning pipe and fittings with cleaner before glue",
+        "One-shot cementing with a five-second set",
+        "Inserting pipe fully into fittings and aligning with witness marks",
+        "Holding joints to set and managing drips"
+      ],
+      "description": "Final steps cover joint preparation, solvent cement application, and securing quick-set connections with attention to cleanups and alignment, concluding the segment with a recap and call to check other videos."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "DWV pipe sizing by fixture type (toilet 3\", shower 2\", lav/vent 1.5\")",
+      "timestamp": "00:00:32.640",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Elbow fittings and common angles (90°, 45°)",
+      "timestamp": "00:01:00.879",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Alternative fittings for tight spaces (street side / male-to-female)",
+      "timestamp": "00:01:34.400",
+      "confidence": 0.75
+    },
+    {
+      "technique": "T-fitting use for traps and lav drain transitions",
+      "timestamp": "00:01:47.600",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cleanouts and access for drains",
+      "timestamp": "00:01:53.920",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dry-fit, witness marks, and cleaning before glue",
+      "timestamp": "00:03:00.159",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gluing technique with five-second set and no-drip timing",
+      "timestamp": "00:03:40.640",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:33:07.204837+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "Wqw7V0QbGFs.youtube",
+  "title": "Understanding the Cycles of a Dishwasher (Ask This Old House)",
+  "date": {
+    "display": "May 7, 2017",
+    "iso": "2017-05-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video tours the inner workings of a residential dishwasher and demonstrates a complete cycle, highlighting how the machine draws in hot water, uses a float switch to regulate fill, heats water with an electric element, and distributes it via bottom and upper wash arms. It explains how cycle length is controlled by the control settings (e.g., light versus heavy), and then walks through loading, detergent and drying-agent placement, pre-purge, multiple washes and rinses, and the final drying phase powered by a bottom heating element that vents warm air. Practical notes touch on keeping the bottom sump clear and the typical operating temperature (around 120°F) rather than crank-starting the home's water heater to a higher temperature. The result is a concise, inside-the-appliance look at what happens during a dishwasher cycle and how to optimize loading and cycle choices.",
+  "topics": [
+    "dishwasher",
+    "dishwasher cycle",
+    "cycle options (light vs heavy)",
+    "pre-wash",
+    "load staging",
+    "wash arms (bottom)",
+    "wash arms (upper)",
+    "float switch",
+    "water inlet valve",
+    "basin/pump",
+    "heating element",
+    "drain/discharge",
+    "rinse and final rinse",
+    "drying by heated air",
+    "detergent placement",
+    "rinse aid",
+    "hot water temperature",
+    "pre-purge",
+    "emptying/discharge timing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:21",
+      "end": "00:01:33",
+      "title": "Dishwasher anatomy and cycle options",
+      "concepts": [
+        "18-inch width vs standard 24-inch width",
+        "three electrical connections: hot water in, drain out, electrical supply",
+        "cycle length controlled by control panel: light wash vs heavy wash",
+        "bottom spray arm and presence/role of an optional upper spray arm"
+      ],
+      "description": "The host sets the stage by noting the compact size and basic plumbing connections of a typical dishwasher, then explains that cycle length is what the user primarily controls (light vs heavy) via the front panel. He also references the spray arms that wash dishes in the bottom and the potential upper arm. This section frames how a cycle is selected and what parts are involved in cleaning."
+    },
+    {
+      "start": "00:01:33",
+      "end": "00:02:33",
+      "title": "Water inlet, float switch, and heating element",
+      "concepts": [
+        "water enters via inlet and fills the basin",
+        "float switch senses water level and shuts off fill",
+        "electrical heating element heats water",
+        "pump at the bottom circulates water to the wash arms",
+        "keep the bottom area clean to prevent clogs"
+      ],
+      "description": "This section details how water is introduced, measured, and heated inside the tub. The float switch controls fill level, the heating element raises water temperature, and a pump moves water to the spray arms. The host also emphasizes maintenance of the bottom sump to prevent debris buildup."
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:03:30",
+      "title": "Loading, detergent and drying agent placement",
+      "concepts": [
+        "pre-wash area vs main wash loading",
+        "detergent placement in the regular wash compartment",
+        "drying agent placement (rinse aid)",
+        "timing of the normal wash cycle and the door mechanism popping open"
+      ],
+      "description": "This section covers how items are placed for the regular wash, including the location for pre-washed items, where to put detergent, and where a drying agent might be added. It also mentions a timer mechanism that opens the detergent door mid-cycle."
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:04:01",
+      "title": "Cycle operation: pre-purge, wash, rinse, and drying",
+      "concepts": [
+        "pre-purge clears residual water from the previous cycle",
+        "basin fills and main wash begins with spray arms",
+        "drain and refill sequences for rinsing",
+        "final discharge and drying via bottom heating element (hot air)",
+        "exhaust of warm air to aid drying"
+      ],
+      "description": "The final section follows the actual cycle from startup to finish: a pre-purge to remove old water, filling, main wash with spray arms, one or more rinses, final discharge, and a drying phase driven by the lower heating element that also vents heated air to help dry dishes."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Pre-purge and basin fill before washing",
+      "timestamp": "00:02:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Float switch controls fill level",
+      "timestamp": "00:01:12",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Bottom wash arm rotation and upper wash arm operation",
+      "timestamp": "00:01:36",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Drying via lower heating element and heated air exhaust",
+      "timestamp": "00:03:47",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:30:04.290544+00:00"
+}

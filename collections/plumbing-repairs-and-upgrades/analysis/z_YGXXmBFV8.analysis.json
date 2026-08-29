@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "video": "z_YGXXmBFV8.youtube",
+  "title": "Prevent Household Plumbing Leaks: Under-Sink Checks, Washer Pan, Hose Maintenance, and Pipe Insulation",
+  "date": {
+    "display": "September 5, 2014",
+    "iso": "2014-09-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Finished second-floor laundry room",
+      "confidence": 0.85,
+      "basis": "Transcript states 'finished laundry room on the second floor' as the context for washer-leak risk"
+    },
+    {
+      "name": "Basment area near exterior wall with single-pane window (unheated)",
+      "confidence": 0.75,
+      "basis": "Transcript describes basement, unheated area near exterior wall and a single-pane window"
+    }
+  ],
+  "summary": "This Old House presents practical steps to prevent household plumbing leaks by teaching how to inspect common leak points under sinks and around appliances, mitigate washer-related flood risk with a plumbed catch pan and optional shut-off devices, recognize and prevent hose failures, and winterize exposed pipes with insulation. The host demonstrates visual leak indicators (moisture, bubbling, discoloration), discusses the limitations of catch pans, and covers proactive maintenance like hose replacement and installing moisture-sensing or manual shut-off solutions. The segment concludes with insulation techniques for unheated spaces to reduce freezing and subsequent bursting.",
+  "topics": [
+    "drain pipe seal inspection and dryness check",
+    "moisture detection around supply line connections",
+    "bubbling and discoloration as indicators of past leaks",
+    "identifying supply lines to faucet, dishwasher, and fridge ice maker",
+    "pulling appliances out to inspect floor for moisture or stains",
+    "washing machine leak risk in a finished second-floor laundry",
+    "installing a catch pan under a washing machine",
+    "making sure the catch pan is plumbed to a drain",
+    "burst hoses: rubber vs braided hose failure examples",
+    "proactive hose maintenance and replacement every 3-5 years",
+    "manual shut-off valve at the hose for when away from home",
+    "automatic moisture-sensing shut-off device for hose lines",
+    "basement unheated space: frozen pipe risk near exterior walls",
+    "insulating exposed pipes with wrap or foam insulation",
+    "easy installation of pipe insulation and the purpose of preventing freeze-induced leaks"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:24",
+      "title": "Under-sink and appliance connection leak checks",
+      "concepts": [
+        "drain seal condition",
+        "supply line connections",
+        "dishwasher supply line",
+        "refrigerator ice maker line"
+      ],
+      "description": "Inspect drain and supply lines for moisture, seal integrity, discoloration, and potential past leaks. Look for moisture at connections and signs of past water intrusion."
+    },
+    {
+      "start": "01:26:00",
+      "end": "01:49:00",
+      "title": "Washer-leak risk and catch-pan recommendation",
+      "concepts": [
+        "washer location risk",
+        "pan underneath washer",
+        "pan plumbed to drain"
+      ],
+      "description": "In a finished space, place a drain-pan beneath the washing machine and ensure the pan has a path to drain to capture leaks."
+    },
+    {
+      "start": "02:47:00",
+      "end": "04:50:00",
+      "title": "Hose failure prevention and pipe insulation",
+      "concepts": [
+        "hose maintenance",
+        "manual shut-off and auto shut-off options",
+        "moisture sensor",
+        "pipe insulation for unheated spaces"
+      ],
+      "description": "Discusses hose failure risks with examples, recommends hose replacement every 3-5 years, describes manual shut-offs and moisture-sensing devices, and covers insulating exposed pipes to prevent freezing and bursts."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install a plumbed catch pan under the washing machine",
+      "timestamp": "01:42",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Use a manual shut-off valve at the washing machine hose",
+      "timestamp": "02:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Install an automatic moisture-sensing shut-off device for the washing machine",
+      "timestamp": "03:25",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Regularly replace washing machine hoses every 3-5 years",
+      "timestamp": "02:52",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Inspect supply lines for moisture, bubbling, cracks, and discoloration at connections",
+      "timestamp": "00:34",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Insulate exposed pipes in unheated spaces with wraps or foam insulation",
+      "timestamp": "04:16",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:38:39.416058+00:00"
+}

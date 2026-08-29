@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "video": "I5kxToxiVC8.youtube",
+  "title": "Frost-Proof Garden Faucet Installed with PEX Piping (This Old House)",
+  "date": {
+    "display": "October 15, 2014",
+    "iso": "2014-10-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior wall installation of frost-proof sillcock (garden faucet)",
+      "confidence": 0.65,
+      "basis": "Transcript describes a frost-proof garden faucet (silcock) with the shut-off inside; outdoor connection is demonstrated."
+    }
+  ],
+  "summary": "This instructional video shows converting a garden frost-proof sink valve (sillcock) to a PEX-fed supply. The presenter runs PEX tubing from inside the building to the exterior faucet, seals threaded connections with Teflon tape, and uses a transition fitting to connect PEX to copper inside. A PEX expansion tool and sleeve are employed to prepare the exterior run, followed by caulking for a watertight exterior joint. Inside a copper-to-PEX transition, copper is fluxed and soldered first (to protect the PEX from heat), with PEX kept supported by nail clips. The tube is cut square, sleeve and expansion are repeated, the valve is reassembled, and a test confirms the faucet operates correctly.",
+  "topics": [
+    "frost-proof sillcock",
+    "silcock",
+    "frost-proof faucet design",
+    "PEX piping",
+    "exterior water supply line",
+    "drilling hole for PEX",
+    "Teflon tape on threaded fittings",
+    "transition fitting (PEX to copper)",
+    "PEX expansion tool",
+    "PEX sleeve",
+    "caulking / caulk",
+    "copper cleaning",
+    "flux application",
+    "soldering copper-to-PEX transition",
+    "Pex support clips / nail clips",
+    "cutting PEX to length",
+    "square cut",
+    "reassembly of valve",
+    "pressure test / leak check"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:25",
+      "title": "Intro: frost-proof sillcock and PEX option",
+      "concepts": [
+        "frost-proof sillcock",
+        "silcock",
+        "frost-proof design",
+        "PEX piping"
+      ],
+      "description": "Defines frost-proof garden faucet (silcock) and explains that the shut-off point is inside, reducing freezing risk; introduces PEX as the potable-water supply alternative."
+    },
+    {
+      "start": "00:00:25",
+      "end": "00:01:13",
+      "title": "Preparing exterior run and initial connections",
+      "concepts": [
+        "drill hole",
+        "PEX exterior run",
+        "outside feed"
+      ],
+      "description": "Describes drilling a hole and feeding PEX tubing to the exterior connection; establishes the outside portion of the run."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:01:46",
+      "title": "Exterior connection assembly: tape, fittings, and expansion prep",
+      "concepts": [
+        "Teflon tape",
+        "threaded fittings",
+        "transition fitting",
+        "two wrenches",
+        "sleeve",
+        "PEX expansion"
+      ],
+      "description": "Outdoors, applies Teflon tape to threads, installs a transition fitting, tightens with two wrenches, and introduces the PEX expansion and sleeve prep for a leak-free joint."
+    },
+    {
+      "start": "00:01:46",
+      "end": "00:02:12",
+      "title": "Caulking and exterior sealing steps",
+      "concepts": [
+        "caulk",
+        "waterproof seal"
+      ],
+      "description": "Before final seating, applies caulking to seal the exterior joint and secure the assembly."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:03:11",
+      "title": "Inside copper-to-PEX preparation: flux, soldering order, and supports",
+      "concepts": [
+        "flux",
+        "cleaning copper",
+        "copper-to-PEX transition",
+        "soldering order",
+        "PEX support clips"
+      ],
+      "description": "On the interior side, cleans copper, applies flux, and notes the rule to solder the copper fitting first before attaching PEX, because PEX can melt when soldering; also discusses using nail clips to support PEX."
+    },
+    {
+      "start": "00:03:11",
+      "end": "00:04:18",
+      "title": "Final assembly, sleeve fitting, and test",
+      "concepts": [
+        "cutting PEX to length",
+        "square cut",
+        "expansion and sleeve",
+        "valve handle reinstallation",
+        "leak test"
+      ],
+      "description": "Cuts PEX to length, applies the expansion sleeve, slides the sleeve onto the fitting, reattaches the valve handle, and performs a test to confirm the faucet operates properly."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Frost-proof garden faucet (sillcock) installation concept",
+      "timestamp": "00:00:03",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Applying Teflon tape to threaded connections",
+      "timestamp": "00:00:52",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Transition fitting to PEX with external connection",
+      "timestamp": "00:01:13",
+      "confidence": 0.85
+    },
+    {
+      "technique": "PEX expansion with expansion tool and sleeve",
+      "timestamp": "00:01:34",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Caulking exterior joints for watertight seal",
+      "timestamp": "00:02:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Fluxing copper and copper-to-PEX transition before soldering",
+      "timestamp": "00:02:24",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Soldering copper fitting prior to attaching PEX",
+      "timestamp": "00:02:35",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Securing PEX with nail clips for support",
+      "timestamp": "00:02:50",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Cutting PEX square and repeating sleeve expansion",
+      "timestamp": "00:03:20",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Reassembling valve handle and performing a functional test",
+      "timestamp": "00:04:04",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:18:05.809460+00:00"
+}

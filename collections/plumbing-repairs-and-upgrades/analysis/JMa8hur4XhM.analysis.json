@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "video": "JMa8hur4XhM.youtube",
+  "title": "Convert a Toilet to Dual-Flush: Two-Button Actuator and Valve Upgrades",
+  "date": {
+    "display": "October 30, 2014",
+    "iso": "2014-10-30",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Bathroom in owner's house (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript references 'this bathroom down here' and 'the original toilet to the house we moved in about 20 years ago,' implying a home bathroom likely inside the house being shown."
+    }
+  ],
+  "summary": "This Old House demonstrates converting an existing 3.5-gallon-per-flush toilet to a dual-flush system using a low-cost conversion device. The host explains how most uses are liquid flushes and shows how a two-button actuator (one for liquids, one for solids) can reduce water usage without replacing the toilet. The process includes measuring current usage with a temporary water meter, removing the old flapper and lever, installing a new dual-flush valve with a blue gasket, mounting the two-button actuator, and reconnecting the supply. When the bowl refill is insufficient after the initial install, they upgrade the fill valve to improve bowl refilling, enabling reliable liquid flush performance. The video concludes with a demonstration of flushing liquids and solids, noting significant water savings while maintaining effective solids flushing.",
+  "topics": [
+    "toilet",
+    "dual-flush",
+    "conversion kit",
+    "two-button actuator",
+    "flush valve",
+    "fill valve",
+    "flapper",
+    "overflow tube",
+    "left-handed tank lever",
+    "tank water shutoff",
+    "water meter",
+    "gallons per flush (gpf)",
+    "3.5 gpf original toilet",
+    "1.6 gpf target (mentioned as option)",
+    "liquids vs solids flush",
+    "refill tube",
+    "cable tie securing valve",
+    "blue gasket",
+    "bowl refill optimization",
+    "cost of device ($25)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:05:00",
+      "title": "Assessment, measurements, and plan",
+      "concepts": [
+        "current toilet flush volume (3.5 gpf)",
+        "water-meter based usage tracking",
+        "planning to convert to dual-flush without replacing toilet"
+      ],
+      "description": "The hosts identify high water use from an existing 3.5 gpf toilet, show a temporary water meter reading (~330 gallons in 7 days), and discuss converting the existing toilet to a dual-flush system using a ~$25 conversion device rather than buying a new 1.6 gpf unit."
+    },
+    {
+      "start": "01:05:00",
+      "end": "04:10:00",
+      "title": "Install new flush hardware and two-button actuator",
+      "concepts": [
+        "removing old tank hardware (flapper, chain, and lever)",
+        "installing new flush valve with blue gasket",
+        "mounting overflow-tube bracket and securing with a cable tie",
+        "configuring two-button actuator (liquids vs solids)"
+      ],
+      "description": "After shutting off water, the old flapper is disconnected, the chain removed, and the tank lever is removed (noting left-handed thread). A new flush valve with a blue gasket is installed, and the overflow tube bracket is attached to hold the gasket in place. The dual-function actuator (two buttons) is assembled, oriented for liquids on top and solids on bottom, and connected to the tank."
+    },
+    {
+      "start": "04:10:00",
+      "end": "06:49:00",
+      "title": "Troubleshooting, refill optimization, and final test",
+      "concepts": [
+        "refill-valve upgrade to improve bowl refill",
+        "adjustable fill valve to increase bowl refill after smaller liquid flush",
+        "testing the liquid flush and confirming proper operation"
+      ],
+      "description": "The team identifies that with reduced tank discharge, the bowl may not fill enough for reliable liquid flush. They replace the fill valve with a model designed to allow more water to refill the bowl while the tank fills, and they adjust the refill to deliver adequate bowl water. After installation, they test flushing liquids and solids, confirm the liquid button uses less water while solids still use the original volume, and verify the overall system saves water while maintaining performance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dual-flush conversion with two-button actuator",
+      "timestamp": "00:00:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Remove and replace flush hardware (flapper, lever, and chain)",
+      "timestamp": "01:03:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Install dual-flush flush valve with blue gasket and overflow-tube bracket",
+      "timestamp": "02:37:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Configure two-button actuator with liquids/solids orientation",
+      "timestamp": "03:08:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Upgrade fill valve to improve bowl refill for liquid flush",
+      "timestamp": "04:11:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Test flush performance and confirm water savings",
+      "timestamp": "05:54:00",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T21:24:17.451909+00:00"
+}

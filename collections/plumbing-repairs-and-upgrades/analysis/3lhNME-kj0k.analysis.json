@@ -1,0 +1,124 @@
+{
+  "schema_version": 2,
+  "video": "3lhNME-kj0k.youtube",
+  "title": "Installing a Water Filter with a Separate Faucet: Under-Sink Plumbing and Fittings",
+  "date": {
+    "display": "October 28, 2014",
+    "iso": "2014-10-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "kitchen sink / under-sink area",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly references mounting at the kitchen sink and drilling through the sink; mentions 'under the kitchen sink'."
+    }
+  ],
+  "summary": "This Old House demonstrates installing a dedicated filtered-water faucet and an under-sink carbon-block filter. The host introduces the faucet and filter assembly, explains how the carbon block works by showing a cut block, and then guides the viewer through drilling a 3/4-inch hole in a stainless-steel kitchen sink using a slug cutter. The faucet is mounted with a backing plate and tightened with a basin wrench in a tight space. The cold-water supply is disconnected and re-routed to feed the filter, with fittings and a tee to supply the filter. The upper housing is mounted, the cartridge is installed with a quarter-turn, and the supply tubes are connected with quick-connect fittings. The video concludes with re-pressurizing the cold water and noting the cartridge life (approximately six months at around four gallons per day).",
+  "topics": [
+    "faucet installation",
+    "under-sink water filter",
+    "carbon block filter",
+    "slug cutter",
+    "stainless steel sink drilling",
+    "pilot hole drilling",
+    "basin wrench",
+    "faucet mounting hardware",
+    "cold-water supply to filter",
+    "filter cartridge installation",
+    "quick-connect tubing",
+    "water filter cartridge life",
+    "drilling a hole in metal",
+    "backing plate mounting",
+    "tool selection for plumbing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:33",
+      "title": "Overview of components and filter concept",
+      "concepts": [
+        "new faucet",
+        "filtered-water faucet",
+        "under-sink filter unit",
+        "carbon block filter",
+        "tubing connections"
+      ],
+      "description": "Introduction to the new filtered-water faucet, the under-sink carbon-block filter, and how water flows through the filter to produce filtered water at the faucet."
+    },
+    {
+      "start": "00:01:33",
+      "end": "00:02:58",
+      "title": "Faucet installation and securing it with a basin wrench",
+      "concepts": [
+        "hole location marking",
+        "pilot hole drilling",
+        "slug cutter",
+        "nut and backing plate",
+        "basin wrench"
+      ],
+      "description": "Marking the faucet location, drilling a 3/4-inch hole with a slug cutter to avoid deforming the sink, threading the faucet through the hole, and securing the nut with a basin wrench in a tight space."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:04:07",
+      "title": "Connecting filter to cold-water supply and mounting",
+      "concepts": [
+        "fittings to faucet",
+        "cold-water supply to filter",
+        "upper housing mounting",
+        "hanger bracket"
+      ],
+      "description": "Disconnecting the cold-water side, attaching the filter fittings to the faucet, connecting the cold supply to the filter, and mounting the filter housing under the sink."
+    },
+    {
+      "start": "00:04:07",
+      "end": "00:04:34",
+      "title": "Filter cartridge installation and system check",
+      "concepts": [
+        "quarter-turn cartridge",
+        "supply-tube connections",
+        "quick-connect fittings",
+        "cartridge life"
+      ],
+      "description": "Installing the filter cartridge with a quarter-turn, connecting the supply tubes, re-pressurizing the cold line, and noting an approximate cartridge life (about six months at four gallons per day)."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Slug cutter hole drilling in stainless steel sink",
+      "timestamp": "00:00:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Basin wrench for securing faucet in tight spaces",
+      "timestamp": "00:02:40",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Push-to-connect water line fittings for quick installation",
+      "timestamp": "00:04:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Quarter-turn filter cartridge installation",
+      "timestamp": "00:04:06",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Carbon block filter explanation via cut block model",
+      "timestamp": "00:00:19",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Estimated filter cartridge life at four gallons/day",
+      "timestamp": "00:04:23",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:40:24.946841+00:00"
+}

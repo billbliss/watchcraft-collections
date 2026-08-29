@@ -1,0 +1,162 @@
+{
+  "schema_version": 2,
+  "video": "rVpbmHl9Mpc.youtube",
+  "title": "Diagnosing Sewer Gas, Vent Blockage, and Sagging Main Drain with Camera Inspection in a 60-Year-Old Home",
+  "date": {
+    "display": "May 14, 2017",
+    "iso": "2017-05-14",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Behind the bathroom → main drain/vent stack area",
+      "confidence": 0.6,
+      "basis": "Transcript identifies a drain, waste, and vent system located behind the bathroom and references main drain access."
+    },
+    {
+      "name": "Rooftop vent termination",
+      "confidence": 0.5,
+      "basis": "Transcript notes a vent pipe going out through the top of the roof to vent sewer gases."
+    },
+    {
+      "name": "Basement access/cleanout area",
+      "confidence": 0.6,
+      "basis": "Transcript mentions a cleanout and a camera/snakes inserted from a location beneath the bathroom; discussion of access and possible basement toilet in the mockup."
+    }
+  ],
+  "summary": "This Old House follows a diagnostic workflow for a bathroom that smells like sewer gas and exhibits abnormal water movement when fixtures upstream are used. A camera is run down the vent and then through a disguised main drain to assess the line. Observations reveal water in the drain where it should be dry, a possible house trap (rat trap) under the floor, and a pipe path that unexpectedly angles downward. Using a camera locator, the team pinpoints the location of the camera head and depth, then performs a water-level test to determine whether there is a restriction. The analysis leads to a sagged main drain with an aging cast-iron/lead joint system, suggesting the need to open the floor, replace the main line, remodel the bathroom, and address venting to prevent future sewer-gas issues.",
+  "topics": [
+    "sewer smell",
+    "venting system",
+    "toilet water level changes with upstairs fixture",
+    "drain-waste-vent (DWV) system",
+    "cleanout access",
+    "main drain",
+    "house trap / rat trap",
+    "cast iron pipe and lead joints",
+    "sand under bathroom floor (historic installation)",
+    "drain camera inspection",
+    "drain camera locator",
+    "water in drain line as diagnostic clue",
+    "mockup of main drain/vent system",
+    "wet vent concept",
+    "remodel considerations for venting and drainage"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:04",
+      "title": "Symptom discovery and initial assessment",
+      "concepts": [
+        "sudden sewer smell in bathroom",
+        "intermittent odor tied to fixture use",
+        "upstream toilet flush causes water level movement in the fixture"
+      ],
+      "description": "Houseowners report a sewer odor in the bathroom and note that the water level in the toilet bounces when the upstairs toilet is flushed or the shower is used, suggesting a venting issue."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:02:31",
+      "title": "Vent/ DWV system overview and initial camera steps",
+      "concepts": [
+        "drain-waste-vent (DWV) system behind the bathroom",
+        "reference to a cleanout and the main drain path under the bathroom",
+        "upstairs fixtures affecting basement/ground-floor plumbing"
+      ],
+      "description": "A plumber explains the DWV layout behind the bathroom and the role of the roof vent, setting up for a later camera inspection down the vent and the drain."
+    },
+    {
+      "start": "00:02:31",
+      "end": "00:04:28",
+      "title": "Finding water in the drain and locating the trap hypothesis",
+      "concepts": [
+        "water accumulation about 22 feet from the access",
+        "drain path not leading directly to the street; potential old line or alternate route",
+        "early speculation about a trap/obstruction near the access"
+      ],
+      "description": "The team notes that water is present in the drain at a distance, which is abnormal for a drainage line that should be mostly dry, prompting further excavation and exploration."
+    },
+    {
+      "start": "00:04:28",
+      "end": "00:06:13",
+      "title": "House trap concept and the need for access points",
+      "concepts": [
+        "house trap (aka rat trap) in the system",
+        "why traps complicate snaking and cleaning",
+        "role of cleanouts and access in servicing the main line"
+      ],
+      "description": "A PVC mockup introduces the house trap concept, explaining how a trap fills with water and blocks access to clear the line, and why cleanouts were historically used."
+    },
+    {
+      "start": "00:06:13",
+      "end": "00:07:27",
+      "title": "Camera head locator demonstration and localization",
+      "concepts": [
+        "drain camera locator detects camera head",
+        "magnetic poles mark the head and equator for depth and direction",
+        "measurements show the head is about 2 ft 8 in down"
+      ],
+      "description": "The crew uses a locator to pinpoint the camera head, confirming the line direction and depth, and to determine where to dig for the trap."
+    },
+    {
+      "start": "00:07:27",
+      "end": "00:09:33",
+      "title": "Water-level testing to diagnose obstruction vs. sag",
+      "concepts": [
+        "flush test to see if trap or line obstructs flow",
+        "observing water level behavior during repeated flushes",
+        "evidence pointing toward a sagged pipe rather than a simple obstruction"
+      ],
+      "description": "A toilet flush test is used to verify whether water in the line is obstructed; subsequent observations indicate the water level behavior is inconsistent with a simple obstruction, suggesting a sagging pipe."
+    },
+    {
+      "start": "00:09:33",
+      "end": "00:11:56",
+      "title": "Diagnosis and proposed remediation: sag, venting, and remodel",
+      "concepts": [
+        "pipe sag indicates movement of fittings and potential traps",
+        "aging cast-iron joints and sand under the bathroom area",
+        "solution: open the floor, replace the main drain, remodel bathroom, and address venting",
+        "possible removal/adjustment of the house trap to restore future accessibility"
+      ],
+      "description": "The team concludes the main drain has sagged, creating a secondary trap and sewer-gas pathways; the recommended fix is a major repair: open the floor, replace the pipe, remodel the bathroom, and ensure proper venting and future access."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Camera inspection of vent and main drain progression",
+      "timestamp": "00:01:53",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Observation of water presence in a drain line as diagnostic clue",
+      "timestamp": "00:02:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Use of a drain camera locator to locate camera head and depth",
+      "timestamp": "00:05:22",
+      "confidence": 0.8
+    },
+    {
+      "technique": "PVC mockup to illustrate house trap and venting constraints",
+      "timestamp": "00:03:50",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Toilet flush water-level test to assess obstruction vs. obstruction-free flow",
+      "timestamp": "00:06:37",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Analytical reasoning about sag in old cast-iron joints and sand support",
+      "timestamp": "00:08:18",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:20:49.940088+00:00"
+}

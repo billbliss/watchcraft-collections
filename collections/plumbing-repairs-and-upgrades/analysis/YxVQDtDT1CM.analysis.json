@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "YxVQDtDT1CM.youtube",
+  "title": "A Tour of Antique Plumbing and the Toilet of the Future (Ask This Old House)",
+  "date": {
+    "display": "April 9, 2017",
+    "iso": "2017-04-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Boston, MA (historical context for origins of the family business)",
+      "confidence": 0.6,
+      "basis": "Transcript notes founders were Boston firefighters and mentions a local Boston foundry; these are historical context rather than filming location."
+    }
+  ],
+  "summary": "This This Old House segment pairs a historical tour of plumbing fixtures with a look at a modern, high-tech toilet. It traces the evolution from the earliest, nonstandard lead piping to the rise of standardized, mass-produced baths in the early 20th century, illustrated with artifacts, engravings, and a 1930 catalog that introduces the Neo-angle bath. It also discusses retrofit challenges in older housing (even fitting a bathroom into unlikely spaces). The episode culminates in a contemporary demonstration of a “toilet of the future” featuring a sensor-activated, no-touch interface, a heated seat, a built-in bidet with UV self-cleaning, odor control, a nightlight, and automatic lid and flush capabilities—blending historical context with a current technology showcase.",
+  "topics": [
+    "Lead piping",
+    "Nonstandard fittings",
+    "On-site fabrication",
+    "Local foundry (Boston)",
+    "Engraving/branding on fixtures",
+    "Custom vs standardized fixtures",
+    "Early 20th-century standardization",
+    "Neo-angle bath",
+    "4 ft x 4 ft bathing well",
+    "5 ft tub (60 in) standardization",
+    "Bathroom retrofits/integrating baths in tight spaces",
+    "Staircase/front hall bathroom retrofit",
+    "Toilet of the future features",
+    "Sensor-activated toilet",
+    "No-touch operation",
+    "Heated toilet seat",
+    "Built-in bidet",
+    "Bidet self-cleaning with UV",
+    "Odor control",
+    "Self-flush and auto-lid close",
+    "Humor/house-history framing"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:04",
+      "title": "Origins and nonstandard beginnings of plumbing",
+      "concepts": [
+        "Lead piping in early plumbing",
+        "Lack of standardization",
+        "On-site fabrication and fitting",
+        "Local foundry origins",
+        "Engraving/trademarking on fixtures"
+      ],
+      "description": "Introduces the earliest days of plumbing with lead piping and nonstandard fittings, highlighting the ad hoc nature of early installations and artifacts from local foundries; frames plumbing history as a family business with deep roots in Boston."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:02:26",
+      "title": "From custom to standardized fixtures (early 20th century)",
+      "concepts": [
+        "Semi-custom to standardized production",
+        "National manufacturing shift",
+        "1930 catalog",
+        "Neo-angle bath (advertised as bath of the future)",
+        "4 ft x 4 ft bathing well",
+        "Bathtub dimensions and apron tiling"
+      ],
+      "description": "Discusses the move from handmade, custom fixtures to standardized, nationally manufactured baths. Includes references to a 1930 catalog, the Neo-angle bath concept, and the shift to a standardized 4 ft x 4 ft bathing well and related bath/shower configurations."
+    },
+    {
+      "start": "00:02:26",
+      "end": "00:02:54",
+      "title": "Retrofit and placement of bathrooms in old houses",
+      "concepts": [
+        "Retrofit planning in historic homes",
+        "Unusual installation sites (e.g., stairs/front hall)",
+        "20th-century bathroom expansion timelines"
+      ],
+      "description": "Covers how 20th-century housing stock was retrofitted with bathrooms, including plans to fit a bath into unlikely spaces like stairwells or front halls, illustrating evolving urban housing needs."
+    },
+    {
+      "start": "00:02:54",
+      "end": "00:04:02",
+      "title": "The Toilet of the Future: features and demonstration",
+      "concepts": [
+        "Sensor-activated presence detection",
+        "No-touch operation",
+        "Nightlight for visibility",
+        "Heated toilet seat",
+        "Built-in bidet with hand-sensor logic",
+        "Bidet self-cleaning with UV cycle",
+        "Odor control features",
+        "Self-flushing and automatic lid closing"
+      ],
+      "description": "Showcases a modern, sensor-activated toilet with a non-contact interface, a heated seat, a built-in bidet that activates with a skin-sensor cue, UV self-cleaning for the bidet, odor-control features, a nightlight, and an automatic lid/flush system, presented with humor and context about past bathroom innovations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Sensor-activated toilet with non-touch operation",
+      "timestamp": "00:02:41",
+      "confidence": 0.78
+    },
+    {
+      "technique": "No-touch lid lifting and flush",
+      "timestamp": "00:03:47",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Built-in bidet with UV self-cleaning cycle",
+      "timestamp": "00:03:32",
+      "confidence": 0.74
+    },
+    {
+      "technique": "Heated toilet seat",
+      "timestamp": "00:02:55",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Nightlight for nighttime orientation",
+      "timestamp": "00:02:42",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:36:22.689164+00:00"
+}

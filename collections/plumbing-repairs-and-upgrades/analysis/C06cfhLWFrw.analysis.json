@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "video": "C06cfhLWFrw.youtube",
+  "title": "How to Replace a Faucet Aerator",
+  "date": {
+    "display": "August 26, 2014",
+    "iso": "2014-08-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates diagnosing and addressing a clogged faucet aerator. The host explains that aerators incorporate a flow restrictor and can accumulate debris that reduces water pressure. The tutorial covers removing the aerator with an adjustable wrench, inspecting and cleaning the interior (noting debris such as coffee grounds), and deciding to replace the aerator rather than clean it when debris buildup is significant. A replacement cost hint (~$5–$6) is given, followed by a hot-and-cold water test to confirm proper function after replacement.",
+  "topics": [
+    "faucet aerator",
+    "flow restrictor",
+    "aerator debris",
+    "removal with adjustable wrench",
+    "two-flat-edge aerator",
+    "protective rag usage during removal",
+    "interior debris cleaning",
+    "spout flushing",
+    "aerator replacement decision",
+    "aerator replacement cost",
+    "hot and cold water test",
+    "maintenance of fixtures"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:50:50",
+      "title": "Aerator function and symptoms of blockage",
+      "concepts": [
+        "Flow restrictor",
+        "Aerator purpose",
+        "Pressure symptoms",
+        "Debris as a blockage factor"
+      ],
+      "description": "The video explains that aerators were designed to create a clearer stream and conserve water via a flow restrictor that funnels all water through a small hole. The host suggests debris between the flow path and the aerator can cause partial or complete flow shutoff, setting up the diagnostic moment."
+    },
+    {
+      "start": "00:50:52",
+      "end": "01:16:48",
+      "title": "Removing the aerator with an adjustable wrench",
+      "concepts": [
+        "Aerator removal",
+        "Two-flat-edge design",
+        "Protective technique for edges",
+        "Hand-tight vs tool-assisted removal"
+      ],
+      "description": "To remove the aerator, the presenter uses an adjustable open-end wrench on the two flat edges, taking care to avoid scratching if the aerator is round and noting that some fittings are only hand-tight."
+    },
+    {
+      "start": "01:16:48",
+      "end": "01:54:00",
+      "title": "Inspecting interior and debris cleaning",
+      "concepts": [
+        "Interior debris",
+        "Coffee grounds",
+        "Flushing the spout",
+        "Assessing cleanliness"
+      ],
+      "description": "Upon inspection, a buildup of debris (described as coffee grinds) is found inside the aerator. The host flushes the spout with a rag to evaluate whether cleaning alone will restore proper flow."
+    },
+    {
+      "start": "01:54:00",
+      "end": "02:12:53",
+      "title": "Replacement decision and final test",
+      "concepts": [
+        "Replacement decision",
+        "Replacement vs cleaning rationale",
+        "Aerator cost",
+        "Functional test (hot and cold)"
+      ],
+      "description": "The presenter decides to replace the aerator due to significant debris, cites a rough replacement cost of $5–$6, and performs a hot-and-cold water test to confirm both flows are functioning after replacement."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Remove aerator with adjustable wrench on two-flat-edge design",
+      "timestamp": "00:50:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Inspect interior for debris (e.g., coffee grounds)",
+      "timestamp": "01:25:40",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Flush spout to verify cleanliness",
+      "timestamp": "01:33:40",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Replace aerator due to debris buildup",
+      "timestamp": "01:52:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Test hot and cold water after replacement",
+      "timestamp": "02:06:14",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T20:58:49.877902+00:00"
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "video": "zZa3SRQ568A.youtube",
+  "title": "Self-Rim Kitchen Sink Installation with Disposer Replacement (This Old House)",
+  "date": {
+    "display": "August 27, 2013",
+    "iso": "2013-08-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "kitchen",
+      "confidence": 0.65,
+      "basis": "Transcript centers on kitchen sink installation; no explicit shooting location given"
+    }
+  ],
+  "summary": "This This Old House guide walks through replacing a kitchen sink with a self-rimming (top-mount) sink, detailing the considerations that precede installation (undercounter vs. self-rim), removing the old sink and disposal, fitting the new sink, and then installing and connecting the disposer, dishwasher knockout, faucet supply lines, and PVC drain piping. The program emphasizes preassembly up top, proper sealing with plumber’s putty and caulk, alignment checks to ensure the sink sits square, and a final test run including spraying with a hose. Throughout, it notes potential complications such as drain misalignment requiring piping changes and the need to reassemble disposer components before tightening.",
+  "topics": [
+    "sink mounting types",
+    "self-rim sink",
+    "undercounter sink",
+    "basket strainer installation",
+    "plumber’s putty",
+    "silicone caulk/caulking",
+    "garbage disposer installation",
+    "disposer hardware (flange, rings, snap ring)",
+    "dishwasher knockout",
+    "electrical connections for disposer",
+    "faucet hot/cold supply lines",
+    "PVC drain piping (glue, dry-fit)",
+    "P-trap alignment",
+    "sink alignment and squareness",
+    "spray hose connection",
+    "final water test"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:39",
+      "title": "Sink type selection and countertop edge considerations",
+      "concepts": [
+        "undercounter_mount",
+        "self_rim_sink",
+        "countertop_edge",
+        "silicone_calking"
+      ],
+      "description": "Introduction to mounting options for the kitchen sink. The speaker explains that an undercounter mount requires a finished edge along a counter edge, while a self-rim sink sits on top and seals with caulk; laminate countertops may reveal unfinished edge if the old sink is removed."
+    },
+    {
+      "start": "00:00:40",
+      "end": "01:12:00",
+      "title": "Remove old sink and prepare for new sink",
+      "concepts": [
+        "disassemble_water_waste",
+        "basket_strainer",
+        "sink_removal"
+      ],
+      "description": "Disconnection of water supply and waste lines and removal of the old sink. The basket strainer is removed, enabling the sink to be pushed out in preparation for the new installation."
+    },
+    {
+      "start": "01:13:00",
+      "end": "02:29:00",
+      "title": "Positioning and preassembly of the new sink",
+      "concepts": [
+        "sink_placement",
+        "alignment_check",
+        "preassembly"
+      ],
+      "description": "The new self-rimming sink is positioned to cover the opening. The installer checks for square alignment, notes the drain hole position, and preassembles parts above the counter to minimize below-counter work."
+    },
+    {
+      "start": "02:29:00",
+      "end": "03:12:00",
+      "title": "Garbage disposer installation (preassembly and mounting)",
+      "concepts": [
+        "putty_on_flange",
+        "rings_and_snap_ring",
+        "disposer_mounting"
+      ],
+      "description": "Preparation and installation of the garbage disposer: applying putty to the flange, feeding components from the underside, assembling the ring stack (first, second, third, and snap ring), and tightening the mounting screws."
+    },
+    {
+      "start": "03:12:00",
+      "end": "04:12:00",
+      "title": "Sink set, electrical, and disposer connection",
+      "concepts": [
+        "sink_cocking",
+        "electrical_connections",
+        "weight_support"
+      ],
+      "description": "Setting the sink in place, securing it squarely, and connecting the disposer electrically. The weight of the sink is supported during installation, and the electrical wiring is completed with a wire nut."
+    },
+    {
+      "start": "04:12:00",
+      "end": "04:20:00",
+      "title": "Dishwasher knockout and faucet connections prep",
+      "concepts": [
+        "dishwasher_knockout",
+        "faucet_hydraulic_connections",
+        "hot_cold_lines"
+      ],
+      "description": "Knock out the dishwasher discharge port as needed and begin preparing hot and cold supply connections to the faucet, including pre-fitting PVC-related components."
+    },
+    {
+      "start": "04:20:00",
+      "end": "04:38:00",
+      "title": "Final test and spray hose demonstration",
+      "concepts": [
+        "water_test",
+        "spray_hose"
+      ],
+      "description": "With the water supply reconnected, the system is tested. The disposer, faucet, and spray hose operation are demonstrated, confirming the installation looks and functions as intended."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Self-rim sink installation with top-edge sealing",
+      "timestamp": "00:00:33",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Basket strainer installation using plumber’s putty",
+      "timestamp": "00:01:57",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Garbage disposer replacement with flange, rings, and snap ring",
+      "timestamp": "00:02:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Electrical connections for disposer (wire nut)",
+      "timestamp": "00:03:44",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Dishwasher knock-out creation and drain hookup prep",
+      "timestamp": "00:04:02",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Dry-fit and glue for new PVC drain/water lines",
+      "timestamp": "00:04:15",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Final water test and spray hose check",
+      "timestamp": "00:04:26",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:41:15.066687+00:00"
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "video": "ucZRoR9UiE8.youtube",
+  "title": "Automatic Whole-House Water Leak Prevention: Wireless Sensor Network and Main Shutoff",
+  "date": {
+    "display": "October 22, 2017",
+    "iso": "2017-10-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "near water heater",
+      "confidence": 0.7,
+      "basis": "Transcript states sensors can be placed near the water heater (00:01:17-00:01:22)"
+    },
+    {
+      "name": "near boiler",
+      "confidence": 0.65,
+      "basis": "Transcript mentions placing sensors near the boiler (00:01:19-00:01:20)"
+    },
+    {
+      "name": "behind washing machine",
+      "confidence": 0.7,
+      "basis": "Transcript notes positioning puck sensors behind the washing machine (00:01:22-00:01:25)"
+    },
+    {
+      "name": "second-floor washing machine",
+      "confidence": 0.65,
+      "basis": "Transcript mentions second-floor washing machine as a placement possibility (00:01:25-00:01:29)"
+    },
+    {
+      "name": "under the kitchen sink",
+      "confidence": 0.75,
+      "basis": "Transcript lists under the kitchen sink as a suitable sensor location (00:01:21-00:01:22)"
+    },
+    {
+      "name": "under the refrigerator",
+      "confidence": 0.65,
+      "basis": "Transcript lists under the refrigerator as a sensor location (00:01:21-00:01:22)"
+    },
+    {
+      "name": "near the toilet",
+      "confidence": 0.6,
+      "basis": "Transcript includes 'toilet' among possible sensor placements (00:01:23-00:01:25)"
+    },
+    {
+      "name": "basement (for low-temperature alarm)",
+      "confidence": 0.65,
+      "basis": "Transcript discusses a basement location for a low-temperature alarm (00:02:31-00:02:39)"
+    },
+    {
+      "name": "at the water main",
+      "confidence": 0.6,
+      "basis": "System shown sits at the water main with a full-port ball valve (00:00:32-00:00:41)"
+    }
+  ],
+  "summary": "This Old House demonstrates an automatic leak-prevention system centered on a master emergency shutoff installed at the water main. A full-port ball valve closes the main line in response to detected moisture, stopping water flow to the entire house. Detection is modernized with a wireless network: a single wired connection from the valve to a hub and an RF/wifi-based array of puck sensors that can be placed around the home (near water heater, boiler, behind appliances, under sinks, etc.). When moisture is detected, a red alarm indicator pins the location of the triggered sensor, and the system shuts off water automatically; a manual override and reset are provided. Additional protection includes a low-temperature alarm suitable for basements to prevent freezing. The video emphasizes multiple common leak points (hoses, appliances) and positions sensors to cover those risk areas as an ounce of prevention against catastrophic water damage.",
+  "topics": [
+    "automatic shutoff valve",
+    "master emergency shutoff at water main",
+    "full-port ball valve",
+    "wireless leak detection network",
+    "hub/receiver interaction",
+    "RF/Wi-Fi puck sensors",
+    "sensor placement strategy",
+    "near-water-point placement (water heater, boiler, sinks, fridge)",
+    "alarm indication and reset",
+    "manual override capability",
+    "low-temperature basement alarm",
+    "home flood risk points (washers, hoses, etc.)",
+    "preventative water-damage measures",
+    "drill-down on leak detection timing",
+    "system demonstration of leak event",
+    "maintenance of automatic shutoff systems",
+    "second-floor wiring considerations",
+    "basement freezing risk mitigation",
+    "water main flow control",
+    "toilet area sensor applicability"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:25",
+      "title": "Problem setup and the automatic shutoff concept",
+      "concepts": [
+        "catastrophic water damage risk",
+        "primary locations of water supply and potential leaks",
+        "master emergency shutoff at the water main",
+        "full-port ball valve mechanism"
+      ],
+      "description": "The host outlines the threat of flooding from failed heaters, hoses, and appliances, and introduces a centralized master emergency shutoff positioned at the water main. The valve is a full-port ball valve capable of rapid closure in response to a sensor signal."
+    },
+    {
+      "start": "00:01:25",
+      "end": "00:02:16",
+      "title": "System components: wireless sensors, hub, and placement strategy",
+      "concepts": [
+        "one-wire connection from valve to hub",
+        "hub/receiver with antenna",
+        "RF/Wi‑Fi communication",
+        "puck sensors (space for up to ~78)"
+      ],
+      "description": "The demonstration explains the transition from wired-only sensing to a wireless network. One wire runs from the valve to a central hub; a hub communicates with wireless puck sensors placed around the building in strategic locations (near water heater, boiler, behind washing machine, under sinks, etc.)."
+    },
+    {
+      "start": "00:02:16",
+      "end": "00:02:43",
+      "title": "Detection, alarm, shutoff, and reset workflow",
+      "concepts": [
+        "water detection triggers alarm",
+        "automatic shutoff engages",
+        "red indicator points to the triggered sensor",
+        "manual override and reset procedure"
+      ],
+      "description": "A leak is simulated by a small water drip; the system immediately sounds an alarm and shuts off the main supply. The operator can locate the cause via the red-flashing sensor indicator, then reset and restore water with a manual override if needed."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Automatic shutoff at water main using a full-port ball valve",
+      "timestamp": "00:00:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Wireless sensor network with hub and puck sensors",
+      "timestamp": "00:01:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Alarm signaling and sensor-localization of fault location (red flash indicator)",
+      "timestamp": "00:01:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Manual override and reset capability for automatic shutoff systems",
+      "timestamp": "00:02:16",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Low-temperature basement alarm for freeze protection",
+      "timestamp": "00:02:32",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-28T22:25:34.919206+00:00"
+}

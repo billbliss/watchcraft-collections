@@ -1,6 +1,7 @@
 {
   "kind": "watchcraft.collection-directory",
   "schema_version": 1,
+  "base_url": "https://collections.watchcraft.stream",
   "description": "A non-authoritative directory of publicly advertised Watchcraft collections.",
   "collections": [
     {
@@ -8,7 +9,7 @@
       "title": "Hello, Watchcraft! — Managed",
       "description": "A tiny self-contained video downloaded into Watchcraft’s private storage.",
       "media_modes": ["managed-local"],
-      "manifest_url": "https://billbliss.github.io/watchcraft-collections/collections/hello-world-managed/collection.json",
+      "manifest_url": "https://collections.watchcraft.stream/collections/hello-world-managed/collection.json",
       "archived": true
     },
     {
@@ -16,7 +17,7 @@
       "title": "Hello, Watchcraft! — Referenced",
       "description": "The same tiny video kept in a folder that remains under your control.",
       "media_modes": ["referenced-local"],
-      "package_url": "https://billbliss.github.io/watchcraft-collections/downloads/hello-world-referenced.zip",
+      "package_url": "https://collections.watchcraft.stream/downloads/hello-world-referenced.zip",
       "archived": true
     },
     {
@@ -24,21 +25,49 @@
       "title": "Learning Adobe Premiere Pro",
       "description": "Four public YouTube lessons with searchable topics and chapter navigation.",
       "media_modes": ["remote"],
-      "manifest_url": "https://billbliss.github.io/watchcraft-collections/collections/premiere-pro-ai-tools/collection.json"
+      "manifest_url": "https://collections.watchcraft.stream/collections/premiere-pro-ai-tools/collection.json"
     },
     {
       "collection_id": "davinci-resolve",
       "title": "DaVinci Resolve",
       "description": "Five public YouTube lessons with searchable topics and chapter navigation.",
       "media_modes": ["remote"],
-      "manifest_url": "https://billbliss.github.io/watchcraft-collections/collections/davinci-resolve/collection.json"
+      "manifest_url": "https://collections.watchcraft.stream/collections/davinci-resolve/collection.json"
     },
     {
       "collection_id": "official-ptgui-tutorial",
       "title": "Official PTGUI Tutorial",
       "description": "Nine public YouTube lessons with searchable topics and chapter navigation.",
       "media_modes": ["remote"],
-      "manifest_url": "https://billbliss.github.io/watchcraft-collections/collections/ptgui-tutorial/collection.json"
+      "manifest_url": "https://collections.watchcraft.stream/collections/ptgui-tutorial/collection.json"
+    },
+    {
+      "collection_id": "essence-of-linear-algebra",
+      "title": "Essence of linear algebra",
+      "description": "Sixteen visual lessons that build an intuitive understanding of vectors, matrices, determinants, and related ideas.",
+      "media_modes": ["remote"],
+      "manifest_url": "https://collections.watchcraft.stream/collections/essence-of-linear-algebra/collection.json"
+    },
+    {
+      "collection_id": "justinguitar-grade-1-beginner-guitar-course",
+      "title": "JustinGuitar Grade 1 - Beginner Guitar Course",
+      "description": "Seventy-nine beginner guitar lessons covering essential chords, rhythm, technique, practice, and songs.",
+      "media_modes": ["remote"],
+      "manifest_url": "https://collections.watchcraft.stream/collections/justinguitar-grade-1-beginner-guitar-course/collection.json"
+    },
+    {
+      "collection_id": "plumbing-repairs-and-upgrades",
+      "title": "Plumbing Repairs and Upgrades",
+      "description": "One hundred forty-seven practical lessons on household plumbing repairs, installation, maintenance, and upgrades.",
+      "media_modes": ["remote"],
+      "manifest_url": "https://collections.watchcraft.stream/collections/plumbing-repairs-and-upgrades/collection.json"
+    },
+    {
+      "collection_id": "techniquely-with-lan-lam-america-s-test-kitchen",
+      "title": "Techniquely with Lan Lam | America's Test Kitchen",
+      "description": "Fifty-one cooking lessons that explain the techniques and food science behind better results in the kitchen.",
+      "media_modes": ["remote"],
+      "manifest_url": "https://collections.watchcraft.stream/collections/techniquely-with-lan-lam-america-s-test-kitchen/collection.json"
     }
   ]
 }

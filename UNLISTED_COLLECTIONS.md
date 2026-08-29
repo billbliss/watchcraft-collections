@@ -15,13 +15,13 @@ and select their local media folder in Watchcraft.
 Every collection URL is derived from its folder name:
 
 ```text
-https://billbliss.github.io/watchcraft-collections/collections/<slug>/collection.json
+https://collections.watchcraft.stream/collections/<slug>/collection.json
 ```
 
 For a folder named `collections/my-course`, the installation URL is:
 
 ```text
-https://billbliss.github.io/watchcraft-collections/collections/my-course/collection.json
+https://collections.watchcraft.stream/collections/my-course/collection.json
 ```
 
 The folders under `collections/` are therefore the source of truth for remembering
@@ -82,6 +82,7 @@ cd /Users/billbliss/dev/watchcraft/authoring
 .venv/bin/python watchcraft_author.py youtube add \
   --workspace "$WORKSPACE" \
   --collection-title "My YouTube Course" \
+  --unlisted \
   --playlist 'YOUTUBE_PLAYLIST_URL'
 
 .venv/bin/python watchcraft_author.py process \
@@ -94,8 +95,11 @@ the generated manifest and analysis are publishable.
 
 ## Keep it unlisted and publish it
 
-Do not add the collection to `site/collections.json`, and do not add it to the
-public collection list in `README.md`. Commit only its folder:
+The `--unlisted` choice is stored in `watchcraft-authoring.json`. Successful
+rebuilds therefore keep the collection out of `site/collections.json`; without
+that option, repository collection workspaces are advertised by default. Do not
+add an unlisted collection to the public collection list in `README.md`. Commit
+only its folder:
 
 ```bash
 cd /Users/billbliss/dev/watchcraft-collections
@@ -122,23 +126,23 @@ installed on the same computer.
 The published manifest is:
 
 ```text
-https://billbliss.github.io/watchcraft-collections/collections/marc-adamus-videos/collection.json
+https://collections.watchcraft.stream/collections/marc-adamus-videos/collection.json
 ```
 
 Open it with [Watchcraft
-Beta](watchcraft-beta://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json),
+Beta](watchcraft-beta://install?url=https%3A%2F%2Fcollections.watchcraft.stream%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json),
 or copy the deep link:
 
 ```text
-watchcraft-beta://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json
+watchcraft-beta://install?url=https%3A%2F%2Fcollections.watchcraft.stream%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json
 ```
 
 Open it with [stable
-Watchcraft](watchcraft://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json),
+Watchcraft](watchcraft://install?url=https%3A%2F%2Fcollections.watchcraft.stream%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json),
 or copy the deep link:
 
 ```text
-watchcraft://install?url=https%3A%2F%2Fbillbliss.github.io%2Fwatchcraft-collections%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json
+watchcraft://install?url=https%3A%2F%2Fcollections.watchcraft.stream%2Fcollections%2Fmarc-adamus-videos%2Fcollection.json
 ```
 
 The browser may ask for permission to open Watchcraft. After confirming the

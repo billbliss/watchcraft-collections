@@ -11,6 +11,11 @@ Watchcraft website, not an authority required by the application.
 Directory entries with `"archived": true` remain directly installable but are
 omitted from the website's available-collections list.
 
+Authoring workspaces under `collections/` are added to the directory after a
+successful build by default. The directory's `base_url` supplies their public
+manifest URLs. Use the authoring command's `--unlisted` option to opt out; later
+builds preserve that choice.
+
 To publish an unlisted collection, publish its folder under `collections/` but
 omit it from `site/collections.json`. Anyone with the manifest URL can install
 it, while the Watchcraft website does not advertise it. URL-installed
@@ -30,19 +35,27 @@ collections](UNLISTED_COLLECTIONS.md) for the complete workflow.
   Resolve** YouTube collection
 - [`ptgui-tutorial`](collections/ptgui-tutorial/) — nine-video **Official PTGUI
   Tutorial** YouTube collection
+- [`essence-of-linear-algebra`](collections/essence-of-linear-algebra/) —
+  sixteen-video **Essence of Linear Algebra** course
+- [`justinguitar-grade-1-beginner-guitar-course`](collections/justinguitar-grade-1-beginner-guitar-course/)
+  — seventy-nine-video **JustinGuitar Grade 1** beginner course
+- [`plumbing-repairs-and-upgrades`](collections/plumbing-repairs-and-upgrades/)
+  — 147-video household plumbing collection
+- [`techniquely-with-lan-lam-america-s-test-kitchen`](collections/techniquely-with-lan-lam-america-s-test-kitchen/)
+  — fifty-one-video **Techniquely with Lan Lam** cooking collection
 
 ## Installable manifest URLs
 
 - Managed local media:
-  <https://billbliss.github.io/watchcraft-collections/collections/hello-world-managed/collection.json>
+  <https://collections.watchcraft.stream/collections/hello-world-managed/collection.json>
 - Referenced local media package:
-  <https://billbliss.github.io/watchcraft-collections/downloads/hello-world-referenced.zip>
+  <https://collections.watchcraft.stream/downloads/hello-world-referenced.zip>
 - Remote media:
-  <https://billbliss.github.io/watchcraft-collections/collections/premiere-pro-ai-tools/collection.json>
+  <https://collections.watchcraft.stream/collections/premiere-pro-ai-tools/collection.json>
 - Remote DaVinci Resolve media:
-  <https://billbliss.github.io/watchcraft-collections/collections/davinci-resolve/collection.json>
+  <https://collections.watchcraft.stream/collections/davinci-resolve/collection.json>
 - Remote PTGUI tutorial media:
-  <https://billbliss.github.io/watchcraft-collections/collections/ptgui-tutorial/collection.json>
+  <https://collections.watchcraft.stream/collections/ptgui-tutorial/collection.json>
 
 Install the managed and remote manifests directly from their URLs. For the
 referenced example, download and extract the ZIP, then choose the extracted

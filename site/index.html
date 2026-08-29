@@ -13,6 +13,8 @@
       .collection { margin-top: 1.5rem; padding: 1.25rem; border: 1px solid #355343; border-radius: 1rem; background: #111a15; }
       h2 { margin: 0 0 .4rem; }
       a { color: #a7efbd; }
+      .actions { display: flex; flex-wrap: wrap; gap: .9rem; }
+      .mode { color: #77a988; font-size: .85rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
       code { overflow-wrap: anywhere; }
     </style>
   </head>
@@ -20,22 +22,11 @@
     <main>
       <p>WATCHCRAFT</p>
       <h1>Collections</h1>
-      <p class="tagline">Portable examples for “Learn a craft by watching.” This site is a publisher, not a central registry. <a href="https://billbliss.github.io/watchcraft/">Download Watchcraft and browse collections on the main site.</a></p>
-      <section class="collection">
-        <h2>Hello, Watchcraft! — Managed local media</h2>
-        <p>Install one tiny original video directly from its manifest URL. Watchcraft owns the downloaded copy.</p>
-        <p><a href="collections/hello-world-managed/collection.json">Open managed collection manifest</a></p>
-      </section>
-      <section class="collection">
-        <h2>Hello, Watchcraft! — Referenced local media</h2>
-        <p>Download and extract the package, then choose its folder in Watchcraft. The video remains user-owned.</p>
-        <p><a href="downloads/hello-world-referenced.zip">Download referenced collection ZIP</a></p>
-      </section>
-      <section class="collection">
-        <h2>Learning Adobe Premiere Pro</h2>
-        <p>A four-video remote-media collection using public YouTube sources.</p>
-        <p><a href="collections/premiere-pro-ai-tools/collection.json">Open remote collection manifest</a></p>
-      </section>
+      <p class="tagline">Portable examples for “Learn a craft by watching.” This site is a publisher, not a central registry. <a href="https://watchcraft.stream/">Download Watchcraft and browse collections on the main site.</a></p>
+      <div id="collection-grid" aria-live="polite">
+        <p>Loading available collections…</p>
+      </div>
     </main>
+    <script type="module" src="app.js"></script>
   </body>
 </html>

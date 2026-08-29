@@ -25,7 +25,9 @@ jobs:
         run: |
           mkdir _site
           cp site/index.html _site/index.html
+          cp site/app.js _site/app.js
           cp site/collections.json _site/collections.json
+          cp site/collections.json _site/directory.json
           cp -R collections _site/collections
           mkdir -p _site/downloads
           (cd collections && zip -qr ../_site/downloads/hello-world-referenced.zip hello-world-referenced)

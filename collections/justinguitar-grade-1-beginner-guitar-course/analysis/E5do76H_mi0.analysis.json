@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "video": "E5do76H_mi0.youtube",
+  "title": "Two-Chord Practice: A and D Chords for Beginners (Dance The Night Away & More)",
+  "date": {
+    "display": "May 15, 2020",
+    "iso": "2020-05-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "JustinGuitar's beginner-focused tutorial demonstrates practicing with songs that use only two chords, A and D, to improve chord changes and rhythm. He explains that the early days will be challenging, advises selecting songs with minimal chord changes or slowing the tempo, and promotes using his Beginner Song Course app to tailor speed and accompaniment. The video spotlights the two-chord pattern in Dance The Night Away by The Mavericks (D for a bar, then A for a bar, repeated) and mentions additional two-chord options such as Born In The USA, You Sound Good To Me, and Silence Is Easy. It also covers anchor finger technique, counting and strumming on the beat, and the value of play-alongs—both in-app and on the website—for a more song-like practice experience. The message emphasizes persistence, a practical 10-minute practice window, and forgiving oneself during the early learning process.",
+  "topics": [
+    "Two-chord songs (A and D)",
+    "Chord changes practice (A <-> D)",
+    "Tempo control and slowing down tempo for beginners",
+    "Beginner Song Course app features (iOS/Android)",
+    "Speed adjustment for practice sessions",
+    "Play-alongs with drums, bass, and piano melody",
+    "Dance The Night Away chord pattern (D-A-D-A)",
+    "Anchor finger technique and finger positioning",
+    "Strumming pattern and beat counting (1-2-3-4; strum 2-3-4)",
+    "Additional two-chord songs: Born In The USA; You Sound Good To Me; Silence Is Easy",
+    "Free play-alongs on the website",
+    "10-minute practice blocks and progression",
+    "Encouragement and resilient mindset in early learning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "title": "Playing your first song ever",
+      "concepts": [
+        "Two-chord focus: A and D",
+        "Acknowledgement of initial difficulty for beginners",
+        "Guidance to choose songs with few chord changes or slower tempo"
+      ],
+      "description": "Justin introduces the concept of practicing with songs that use only A and D, warns that the first days will be challenging, and recommends keeping tempo easy and selecting simple two-chord patterns to build the initial feel for chord changes."
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:23",
+      "title": "Easy Song - Dance the Night Away by the Mavericks",
+      "concepts": [
+        "Two-chord focus: A and D",
+        "Acknowledgement of initial difficulty for beginners",
+        "Guidance to choose songs with few chord changes or slower tempo",
+        "D chord for a bar (2, 3, 4)",
+        "A chord for a bar (3, 4)",
+        "Back to D and A for the remainder of the song",
+        "Use of tempo control to slow down songs in the Beginner Song Course app",
+        "Recommendation to structure practice in short blocks (about 10 minutes at a time)"
+      ],
+      "description": "Demonstrates the core two-chord sequence for the Mavericks' Dance The Night Away, reinforcing a steady 4-beat pattern and anchor finger positioning for a continuous D–A–D–A loop."
+    },
+    {
+      "start": "00:02:23",
+      "end": "00:04:00",
+      "title": "How to practice your first song",
+      "concepts": [
+        "Use of tempo control to slow down songs in the Beginner Song Course app",
+        "Recommendation to structure practice in short blocks (about 10 minutes at a time)",
+        "In-app drums, bass, and piano melody to simulate playing with a full arrangement",
+        "Royalties and paid nature of the app",
+        "Website play-alongs as a free alternative"
+      ],
+      "description": "Addresses adjusting song speed within the app and frames practice as short, focused blocks to avoid monotony and build consistency with chord changes."
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:05:47",
+      "title": "Easy beginner song",
+      "concepts": [
+        "\"Born In The USA\" (Bruce Springsteen) with potentially longer holds",
+        "\"Dance The Night Away\" (revisited)",
+        "\"You Sound Good To Me\" (two bars per chord)",
+        "\"Silence Is Easy\" (Starsailor)",
+        "Early-stage difficulty is normal",
+        "Focus on getting used to the feel of playing and counting rhythm",
+        "Be forgiving of yourself and stay motivated"
+      ],
+      "description": "Lists several two-chord song options and notes their relative difficulty based on chord hold length and simplicity of the D/A patterns."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Two-chord changes between A and D (basic A↔D drill)",
+      "timestamp": "00:00:01",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Dance The Night Away chord pattern: D for a bar, then A for a bar, repeated",
+      "timestamp": "00:01:34",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Tempo control and speed adjustment within the Beginner Song Course app",
+      "timestamp": "00:02:11",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Play-alongs with drums, bass, and piano melody to simulate a real song",
+      "timestamp": "00:03:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Anchor finger technique and steady finger placement",
+      "timestamp": "00:01:58",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Use of free play-alongs on the website as alternatives to paid app",
+      "timestamp": "00:03:46",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Selection of two-chord songs with varying chord hold lengths",
+      "timestamp": "00:04:20",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:15:36.544460+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

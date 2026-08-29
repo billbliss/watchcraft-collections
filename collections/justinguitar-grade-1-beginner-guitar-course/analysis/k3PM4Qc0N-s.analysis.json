@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "k3PM4Qc0N-s.youtube",
+  "title": "Beginner Open-Chord Songs: Eleanor Rigby, Get Lucky, and Pearl Jam",
+  "date": {
+    "display": "May 25, 2020",
+    "iso": "2020-05-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this JustinGuitar video, the instructor curates beginner-friendly songs that align with the course’s open-chord focus, emphasizing C and Em while noting that G will be introduced in the next lesson. He highlights Eleanor Rigby as a first choice using C and Em, with a nod to interesting chord changes during barre sections and the flexibility to vary strumming patterns. He also covers Get Lucky by Daft Punk as a simplified, repetitive strummed progression based on Am–C–Em–D, pointing out D as a common hurdle. A brief mention of Pearl Jam illustrates how some favorites fit the course via chords already taught, specifically using C but not G. Viewers are encouraged to pick one song or rotate among several, and to check a website-listed set of recommended songs. Overall, the video emphasizes chord familiarity, careful changes, and practical strumming across recognizable tunes.",
+  "topics": [
+    "C chord",
+    "Em chord",
+    "G chord (upcoming in next lesson)",
+    "barre chords",
+    "Eleanor Rigby",
+    "C–Em progression",
+    "strumming patterns",
+    "simplified strumming",
+    "Get Lucky",
+    "Am",
+    "C",
+    "Em",
+    "D chord",
+    "Pearl Jam",
+    "chords taught in course",
+    "practice strategy (one song vs rotating songs)",
+    "website list of recommended songs"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:46",
+      "title": "Easy Songs for Beginners using the C Chord",
+      "concepts": [
+        "C chord",
+        "G chord",
+        "open chords",
+        "lesson 5",
+        "practice songs"
+      ],
+      "description": "Justin introduces a set of beginner-friendly songs that align with lesson 5, noting that G will be introduced in the next lesson. He emphasizes practicing with chords learned (primarily C, with Em), and mentions a site list of recommended songs while inviting audience input for additional suggestions."
+    },
+    {
+      "start": "00:00:46",
+      "end": "00:01:24",
+      "title": "Easy Songs for Beginners - Eleanor Rigby by The Beatles",
+      "concepts": [
+        "C chord",
+        "G chord",
+        "open chords",
+        "lesson 5",
+        "practice songs",
+        "Eleanor Rigby",
+        "Em chord",
+        "barre",
+        "barre changes",
+        "strumming patterns",
+        "The Beatles"
+      ],
+      "description": "The first choice discussed is Eleanor Rigby, which uses C and Em. The instructor notes occasional chord changes in the middle of a barre and encourages learning those transitions, while suggesting that multiple strumming patterns can be applied. The Beatles are referenced as a cultural touchstone."
+    },
+    {
+      "start": "00:01:24",
+      "end": "00:01:54",
+      "title": "Easy Songs for Beginners - Get Lucky by Daft Punk",
+      "concepts": [
+        "Eleanor Rigby",
+        "C chord",
+        "Em chord",
+        "barre",
+        "barre changes",
+        "strumming patterns",
+        "The Beatles"
+      ],
+      "description": "The first choice discussed is Eleanor Rigby, which uses C and Em. The instructor notes occasional chord changes in the middle of a barre and encourages learning those transitions, while suggesting that multiple strumming patterns can be applied. The Beatles are referenced as a cultural touchstone."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:02:29",
+      "title": "Easy Songs for Beginners - Black by Pearl Jam",
+      "concepts": [
+        "Get Lucky",
+        "Am",
+        "C",
+        "Em",
+        "D",
+        "simplified strumming",
+        "repetitive chord sequence",
+        "D chord difficulty",
+        "Pearl Jam",
+        "C chord",
+        "no G chord",
+        "practice options",
+        "website list"
+      ],
+      "description": "Get Lucky is presented as a disco-style tune with a simplified strummed pattern, maintaining a consistent chord sequence throughout: Am to C to Em to D. The D chord is noted as a common sticking point, highlighting its inclusion as a useful practice target within the established chord set."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Simplified strumming pattern for Get Lucky",
+      "timestamp": "00:01:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Am–C–Em–D chord progression for Get Lucky",
+      "timestamp": "00:01:38",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Eleanor Rigby: C and Em with barre-change awareness",
+      "timestamp": "00:00:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Barre-chord awareness during Eleanor Rigby",
+      "timestamp": "00:01:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Pearl Jam chord usage: relies on course chords without G",
+      "timestamp": "00:02:04",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:22:52.990102+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

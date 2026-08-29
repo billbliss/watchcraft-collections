@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "video": "9xsG7n4Jalo.youtube",
+  "title": "Guitar TAB Basics: Six-String Layout, Frets, Chords, and Rhythm Essentials",
+  "date": {
+    "display": "May 19, 2020",
+    "iso": "2020-05-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "JustinGuitar’s beginner-focused tutorial introduces guitar tablature (TAB) as a practical alternative to traditional notation for guitarists. The video explains that TAB uses six horizontal lines representing the six strings, with the bottom line corresponding to the thickest (low E) string and the top line to the thinnest (high E). Numbers on the lines indicate frets to press, while a zero means the string is played open. The presenter demonstrates a C-like idea of fretting across the six strings by showing an E major-like layout (0-2-2-1-0-0) and explains that notes can be played on multiple strings, so rhythm in TAB is not shown by default. He also notes that fingering isn’t specified by TAB—the learner must apply logic or follow guidance—emphasizing that early TAB literacy is a valuable skill. The video concludes by contrasting TAB’s lack of rhythm notation with the importance of listening to a riff or song for rhythm and by recommending that beginners begin reading TAB as soon as possible.",
+  "topics": [
+    "Guitar tablature (TAB) vs standard notation",
+    "Six-line TAB layout",
+    "String orientation: bottom (bass) vs top (treble)",
+    "TAB header and string labeling (treble vs bass)",
+    "Interpreting fret numbers on strings",
+    "0 as open string indicator",
+    "Chords in TAB: simultaneous notes on multiple strings",
+    "Example: E major chord shown in TAB (0-2-2-1-0-0)",
+    "Fingering in TAB is not specified; use logic or instruction",
+    "Rhythm in TAB: TAB typically does not show rhythm",
+    "Listening-based rhythm reading and simple strumming patterns",
+    "Why beginners should learn TAB early"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:49",
+      "title": "Guitar TABs vs Traditional Notation",
+      "concepts": [
+        "TAB as a writing system for guitar music",
+        "Traditional notation (dots) vs TAB on guitar",
+        "Guitar's multiple fingerings for a single written pitch"
+      ],
+      "description": "JustinGuitar introduces guitar TAB as a widely used way to notate guitar music, highlighting that standard notation can be less intuitive on guitar due to multiple possible fingerings for the same pitch."
+    },
+    {
+      "start": "00:00:49",
+      "end": "00:01:47",
+      "title": "How to read guitar TABs",
+      "concepts": [
+        "TAB as a writing system for guitar music",
+        "Traditional notation (dots) vs TAB on guitar",
+        "Guitar's multiple fingerings for a single written pitch",
+        "TAB uses six lines to represent the six guitar strings",
+        "Bottom line = thickest string (low E), Top line = thinnest string (high E)",
+        "Visualizing strings as bass to treble when the guitar is laid out"
+      ],
+      "description": "The video clarifies that the six lines correspond to the six strings and provides a mental model for reading TAB with the bass strings at the bottom and treble strings at the top."
+    },
+    {
+      "start": "00:01:47",
+      "end": "00:02:11",
+      "title": "TABs: Which fingers to use",
+      "concepts": [
+        "TAB uses six lines to represent the six guitar strings",
+        "Bottom line = thickest string (low E), Top line = thinnest string (high E)",
+        "Visualizing strings as bass to treble when the guitar is laid out",
+        "Numbers on TAB lines indicate the fret to press",
+        "0 means the string is played open",
+        "Fingering is not specified by TAB"
+      ],
+      "description": "Examples are given to illustrate how frets are read on each string and how an open string (0) is read across different strings, underscoring that TAB tells you where to place fingers, not which finger to use."
+    },
+    {
+      "start": "00:02:11",
+      "end": "00:02:58",
+      "title": "Reading TABs: What does the 0 mean",
+      "concepts": [
+        "Numbers on TAB lines indicate the fret to press",
+        "0 means the string is played open",
+        "Fingering is not specified by TAB"
+      ],
+      "description": "Examples are given to illustrate how frets are read on each string and how an open string (0) is read across different strings, underscoring that TAB tells you where to place fingers, not which finger to use."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:38",
+      "title": "Reading TABs: Playing more than one string",
+      "concepts": [
+        "Notes written on multiple strings at the same time are played together",
+        "E major-like example demonstrates chord across six strings",
+        "TAB typically doesn’t encode rhythm",
+        "Rhythm can be added in some transcriptions, but beginners benefit from listening",
+        "Practice tip: focus on rhythm patterns for strumming and use listening to guide playing"
+      ],
+      "description": "The speaker explains that when numbers align across strings, they form a chord, illustrated with a six-string layout showing open strings and fretted notes."
+    },
+    {
+      "start": "00:03:38",
+      "end": "00:04:56",
+      "title": "Reading TABs: What about the Rhythm",
+      "concepts": [
+        "TAB typically doesn’t encode rhythm",
+        "Rhythm can be added in some transcriptions, but beginners benefit from listening",
+        "Practice tip: focus on rhythm patterns for strumming and use listening to guide playing"
+      ],
+      "description": "The video cautions that rhythm is not shown in basic TAB and recommends listening to riffs or songs and using simple strumming patterns to grasp rhythm, while suggesting that early TAB literacy is a key skill to develop."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Six-line TAB layout and string orientation",
+      "timestamp": "00:00:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Fret numbers on strings; open-string indicator (0)",
+      "timestamp": "00:01:55",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Chord representation in TAB (simultaneous notes across strings; E-major example)",
+      "timestamp": "00:02:58",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Rhythm not shown in basic TAB; listening-based rhythm practice",
+      "timestamp": "00:03:24",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Encouragement to start reading TAB early as a core skill",
+      "timestamp": "00:04:18",
+      "confidence": 0.86
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:08:22.322812+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

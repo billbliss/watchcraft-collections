@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "video": "Ah-brqdByAY.youtube",
+  "title": "Note Circle, Sharps, Flats, and Enharmonic Equivalents — Beginner Guitar Theory",
+  "date": {
+    "display": "May 25, 2020",
+    "iso": "2020-05-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "JustinGuitar’s lesson introduces the note circle (the chromatic twelve-note system), the concept of octaves as duplicates across the fretboard, and the basic wiring of natural notes (A–G) with sharps and flats. The video defines enharmonic equivalents (notes that sound the same but have different names, such as A# and Bb), explains semitone and tone (whole-step) as steps around the note circle, and uses practical guitar references (e.g., the 12th fret octave cue and the 5th-fret A example) to map semitone movement to frets. It also covers why some intervals do not have sharps/flats between certain pairs of notes (B–C and E–F) and how spellings like B#, Cb, E#, and F can be equivalent to other notes. The content is framed as foundational music theory for beginners and as a precursor to more advanced theory later in the course.",
+  "topics": [
+    "note circle",
+    "chromatic 12-note system",
+    "octave concept",
+    "double dots on the 12th fret (guitar reference)",
+    "natural notes A–G",
+    "letters without H in standard naming",
+    "enharmonic equivalents (e.g., A# = Bb)",
+    "sharp vs flat definitions",
+    "semitone (half step) and whole step (tone)",
+    "clock-face analogy for the note circle",
+    "American terminology: semitone as half step",
+    "mapping semitone to guitar frets (one semitone = one fret)",
+    "A on the 5th fret example",
+    "B–C and E–F gaps (no sharps/flats between them)",
+    "B#, Cb, E#, and F equivalences",
+    "F flats and E equivalents",
+    "notions of theory depth in beginner course",
+    "practical application to chords and open strings"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:54",
+      "title": "Understanding The Note Circle",
+      "concepts": [
+        "note circle",
+        "12 western notes",
+        "octave concept",
+        "double dots on 12th fret as octave cue",
+        "fretboard navigation reference"
+      ],
+      "description": "Introduces the 12-note note circle and explains that an octave is the same note one octave higher or lower, with emphasis on the 12th-fret double-dot cue used on many guitars to mark octave positions."
+    },
+    {
+      "start": "00:00:54",
+      "end": "00:01:24",
+      "title": "What are White Notes",
+      "concepts": [
+        "natural notes A–G",
+        "no H in standard naming",
+        "difference between white keys on piano and letter naming"
+      ],
+      "description": "Covers the natural white-note set (A–G) and notes that do not carry sharps or flats in this naming scheme, noting that German usage includes H, which is not adopted here."
+    },
+    {
+      "start": "00:01:24",
+      "end": "00:02:05",
+      "title": "What are Sharps and Flats",
+      "concepts": [
+        "enharmonic equivalents",
+        "A sharp = Bb as a pair",
+        "two different names for the same pitch"
+      ],
+      "description": "Introduces enharmonic equivalents with examples such as A sharp and B flat being the same pitch, and explains the idea of multiple names for the same note."
+    },
+    {
+      "start": "00:02:05",
+      "end": "00:04:13",
+      "title": "What are Semitones and Tones",
+      "concepts": [
+        "enharmonic equivalents",
+        "A sharp = Bb as a pair",
+        "two different names for the same pitch",
+        "semitone",
+        "tone",
+        "clock-face analogy for the note circle",
+        "one semitone = one step",
+        "two semitones = a tone",
+        "A to A# movement",
+        "one fret = one semitone",
+        "A is at the 5th fret on the guitar",
+        "naming of sharps on the fretboard",
+        "no sharp or flat between B–C and E–F",
+        "B sharp = C; C flat = B",
+        "E sharp = F; F flat = E"
+      ],
+      "description": "Distinguishes semitone as one step around the circle and defines tone as two steps, using the clock-face analogy to orient learners."
+    },
+    {
+      "start": "00:04:13",
+      "end": "00:06:05",
+      "title": "B and C & E and F: No Sharps, No Flats!",
+      "concepts": [
+        "no sharp or flat between B–C and E–F",
+        "B sharp = C; C flat = B",
+        "E sharp = F; F flat = E",
+        "enharmonic relationships in practice",
+        "conceptual importance of note circle",
+        "how sharps/flats will be used in later theory",
+        "practical grounding for chords and open strings"
+      ],
+      "description": "Explains why some adjacent notes lack sharps/flats between them and illustrates how sharp/flat spellings relate to enharmonic equivalents (e.g., B# vs C)."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Note circle explanation (12-note chromatic system)",
+      "timestamp": "00:00:03.330",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Enharmonic equivalents introduced (A# = Bb)",
+      "timestamp": "00:01:41.692",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Semitone and whole-step definitions with clock-face analogy",
+      "timestamp": "00:02:12.854",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Guitar fretboard semitone mapping (one fret per semitone)",
+      "timestamp": "00:03:04.819",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Enharmonic relationships and diatonic gaps (B–C, E–F; B#=C, E#=F)",
+      "timestamp": "00:04:50.558",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:09:58.668727+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

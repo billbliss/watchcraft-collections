@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "n45PDizCRLw.youtube",
+  "title": "Your First Strumming Pattern: Beat-1 Strum in 4/4 Time (JustinGuitar)",
+  "date": {
+    "display": "May 11, 2020",
+    "iso": "2020-05-11",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "JustinGuitar’s beginner-focused lesson introduces the foundational strumming pattern by teaching players to strike on the first beat of a 4/4 bar. The video explains that early material uses 4/4 time (four beats per bar), shows how to count 1–2–3–4, and then guides the learner to strum down on beat 1 while keeping the hand moving on beats 2–4. It emphasizes coordinating chord changes with beat 1, acknowledges common early-week difficulties, and suggests practicing with a backing track or the Beginner Song Course app to reinforce the on-beat strum. The aim is a solid, repeatable beat-1 strum as a foundation for playing songs, with a realistic progression from beat-1-only strumming toward fuller rhythm once coordination improves.\"",
+  "topics": [
+    "4/4 time basics",
+    "Counting beats 1-4",
+    "Downstroke on beat 1",
+    "Strumming on beat 1 while arm moves on 2-4",
+    "Arm movement through non-strummed beats",
+    "Chord change timing with beat 1",
+    "Practice progression for beginners",
+    "Using backing tracks or the Beginner Song Course app",
+    "Early-week practice expectations",
+    "Beat-1 strum as song-playing foundation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Strumming: songs with 4 beats in a bar",
+      "concepts": [
+        "4/4 time",
+        "beats per bar",
+        "count to 4",
+        "beat counting rationale",
+        "down strum on beat 1",
+        "strum on 1",
+        "arm movement on 2–4"
+      ],
+      "description": "The video establishes that most beginner material uses 4/4 time and introduces counting 1–2–3–4 as the framework for rhythm, setting the stage for the subsequent strumming practice."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:01:43",
+      "title": "Strumming on the first bar",
+      "concepts": [
+        "down strum on beat 1",
+        "strum on 1",
+        "arm movement on 2–4"
+      ],
+      "description": "Demonstrates the core pattern: strum down on beat 1 and keep the arm moving through beats 2–4, even when not actively strumming, to build rhythmic consistency."
+    },
+    {
+      "start": "00:01:43",
+      "end": "00:02:58",
+      "title": "Strumming for Beginners - Keep your hands moving!",
+      "concepts": [
+        "down strum on beat 1",
+        "strum on 1",
+        "arm movement on 2–4",
+        "chord changes timing",
+        "aligning changes with beat 1",
+        "practice progression",
+        "backing track/app usage"
+      ],
+      "description": "Explains coordinating chord changes to land on beat 1, notes that beginners may start with slower changes and still aim to strike on beat 1, and points toward practice with backing tracks or the Beginner Song Course app to reinforce the habit."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:04:47",
+      "title": "How to strum and change chords",
+      "concepts": [
+        "chord changes timing",
+        "aligning changes with beat 1",
+        "practice progression",
+        "backing track/app usage"
+      ],
+      "description": "Explains coordinating chord changes to land on beat 1, notes that beginners may start with slower changes and still aim to strike on beat 1, and points toward practice with backing tracks or the Beginner Song Course app to reinforce the habit."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Strum on beat 1 (downstroke)",
+      "timestamp": "00:01:04",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Counting 4/4 time (1-2-3-4)",
+      "timestamp": "00:00:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Arm movement through beats 2-4 while not strumming",
+      "timestamp": "00:01:21",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Coordinate chord changes with beat 1",
+      "timestamp": "00:02:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Practice with backing track or app (Beginner Song Course)",
+      "timestamp": "00:04:12",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:30:17.567317+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

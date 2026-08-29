@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "video": "-SkW_7GcBvQ.youtube",
+  "title": "JustinGuitar Lessons & Songs App Global Launch — Feature Highlights",
+  "date": {
+    "display": "September 3, 2021",
+    "iso": "2021-09-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "JustinGuitar studio",
+      "confidence": 0.75,
+      "basis": "explicit mention in transcript: 'coming to you from my almost finished new studio'"
+    }
+  ],
+  "summary": "This 53-second YouTube Shorts promo presents the global launch of the JustinGuitar Lessons and Songs app. The speaker highlights key features—backing tracks that sound like the original recording, a new interface, and alignment of the beginner course with the site—along with a free tuner and a giveaway of 10 free subscriptions. Viewers are directed to a link in the description to enter, and feedback is invited, with a closing note encouraging use of the tuner regardless of subscription status.",
+  "topics": [
+    "global launch",
+    "app feature overview",
+    "backing tracks sounding like the original recording",
+    "new app interface",
+    "beginner course alignment with website",
+    "free tuner",
+    "subscription giveaway (10 free subscriptions)",
+    "link in description for entry",
+    "request for user feedback",
+    "studio setting (video context)",
+    "cross-promotion with existing content"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:00:12.640",
+      "title": "Intro and Studio Update",
+      "concepts": [
+        "intro",
+        "studio setup",
+        "upcoming lessons"
+      ],
+      "description": "Opening greeting from the creator and note about the near-complete studio with new lessons on the way."
+    },
+    {
+      "start": "00:00:12.640",
+      "end": "00:00:19.320",
+      "title": "Global Launch Announcement",
+      "concepts": [
+        "global launch",
+        "app release",
+        "promotion"
+      ],
+      "description": "Announces the global launch of the JustinGuitar Lessons and Songs app and signals the promotion period to follow."
+    },
+    {
+      "start": "00:00:19.320",
+      "end": "00:00:22.400",
+      "title": "Backing Tracks Feature Highlight",
+      "concepts": [
+        "backing tracks",
+        "original-recording feel"
+      ],
+      "description": "Highlights that the app’s backing tracks now sound like the original recording."
+    },
+    {
+      "start": "00:00:22.400",
+      "end": "00:00:25.120",
+      "title": "Beginner Course Alignment with Website",
+      "concepts": [
+        "beginner course alignment",
+        "website integration"
+      ],
+      "description": "States that the beginner course in the app aligns with the website’s beginner course."
+    },
+    {
+      "start": "00:00:25.120",
+      "end": "00:00:26.760",
+      "title": "Brand-New Interface",
+      "concepts": [
+        "new interface",
+        "updated UI"
+      ],
+      "description": "Notes the brand-new interface and the refreshed user experience."
+    },
+    {
+      "start": "00:00:26.760",
+      "end": "00:00:31.760",
+      "title": "Launch Celebration: Free Subscriptions Giveaway",
+      "concepts": [
+        "giveaway",
+        "free subscriptions"
+      ],
+      "description": "Promotes a giveaway of 10 free subscriptions to celebrate the launch."
+    },
+    {
+      "start": "00:00:31.760",
+      "end": "00:00:33.760",
+      "title": "Call to Action: How to Enter",
+      "concepts": [
+        "entry instructions",
+        "description link"
+      ],
+      "description": "Indicates there will be a link in the description to explain how to enter the giveaway."
+    },
+    {
+      "start": "00:00:33.760",
+      "end": "00:00:35.360",
+      "title": "Entry Details and Link Placement",
+      "concepts": [
+        "link location",
+        "entry details"
+      ],
+      "description": "Confirms the link in the description where viewers can learn entry details."
+    },
+    {
+      "start": "00:00:37.320",
+      "end": "00:00:40.560",
+      "title": "Free Tuner Availability",
+      "concepts": [
+        "free tuner",
+        "tuner access"
+      ],
+      "description": "Reminds viewers that the tuner is always free, even if they don’t subscribe."
+    },
+    {
+      "start": "00:00:40.560",
+      "end": "00:00:47.280",
+      "title": "Tuner Upgrade and Encouragement",
+      "concepts": [
+        "tuner upgrade",
+        "endorsement"
+      ],
+      "description": "Describes the tuner as a serious upgrade and encourages trying it out, with openness to viewer feedback."
+    },
+    {
+      "start": "00:00:47.280",
+      "end": "00:00:50.320",
+      "title": "Feedback Request and Day's End",
+      "concepts": [
+        "feedback request",
+        "viewer input"
+      ],
+      "description": "Requests feedback on the app and features and continues with warm closing sentiments."
+    },
+    {
+      "start": "00:00:50.320",
+      "end": "00:00:54.000",
+      "title": "Final Farewell",
+      "concepts": [
+        "closing",
+        "sign-off"
+      ],
+      "description": "Provides a final goodbye and sign-off to the audience."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Global product launch and feature overview for a guitar app",
+      "timestamp": "00:00:12",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Backtracking audio feature: backing tracks sounding like the original recording",
+      "timestamp": "00:00:19",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Free tuner feature highlighted during promo",
+      "timestamp": "00:00:39",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:00:31.837510+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-29T06:01:28.169791+00:00"
+}

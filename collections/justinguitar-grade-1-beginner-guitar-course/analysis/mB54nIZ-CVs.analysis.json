@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "video": "mB54nIZ-CVs.youtube",
+  "title": "Music Theory for Guitarists: Practical, Fun and Fast (JustinGuitar)",
+  "date": {
+    "display": "May 28, 2020",
+    "iso": "2020-05-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "JustinGuitar argues that music theory is a practical, beginner-accessible tool for guitarists that serves as a shortcut to faster, better music-making. He contrasts theory’s practical utility with traditional classroom approaches, emphasizes chord manipulation from a single grip, and explains how understanding chords within a key accelerates learning and improvisation. He links ear training with theory for stronger results, introduces Sus chords as a theoretical substitute, and covers basics like notes, sharps/flats, and the major scale. The video also notes that Grades 1–2 are free as an entry point to his paid Music Theory Course and encourages songwriting once playing is possible, while acknowledging that theory isn’t mandatory for everyone.",
+  "topics": [
+    "major scale construction",
+    "chord manipulation from a single grip",
+    "chords in a key and related progressions",
+    "sus chords substitution",
+    "notes and sharps/flats",
+    "major scale and improvisation",
+    "ear training and theory synergy",
+    "songwriting with basic chords",
+    "beginner accessibility of theory",
+    "practice speed and shortcuts in learning",
+    "campfire-friendly playing (example scenario)",
+    "course structure and free Grade 1-2 access"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:30",
+      "title": "How to not learn music theory",
+      "concepts": [
+        "theory as practical and fun",
+        "early exposure benefits",
+        "contrast with traditional schooling approaches"
+      ],
+      "description": "Justin argues that theory can be a practical, enjoyable shortcut to faster, better playing, and that it need not be boring or inaccessible."
+    },
+    {
+      "start": "00:00:30",
+      "end": "00:02:32",
+      "title": "Why you should learn music theory",
+      "concepts": [
+        "theory as practical and fun",
+        "early exposure benefits",
+        "contrast with traditional schooling approaches",
+        "one chord grip can become other chords",
+        "understanding chord construction reduces memorization",
+        "speeding up song learning through manipulation",
+        "learning chords in a key",
+        "identifying related chords",
+        "how to decide what chords to try next"
+      ],
+      "description": "Focus on using a single chord grip and manipulating it to derive other chords, highlighting a practical approach to building chord vocabulary."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:04:24",
+      "title": "How music theory helps your guitar journey",
+      "concepts": [
+        "learning chords in a key",
+        "identifying related chords",
+        "how to decide what chords to try next",
+        "notes, sharps, flats and their roles",
+        "major scale construction",
+        "beginners can improvise and write songs",
+        "songwriting with basic chords",
+        "theory as optional but helpful",
+        "free Grade 1-2 access vs paid course"
+      ],
+      "description": "Encourages songwriting once playing ability is established, clarifies that theory isn’t mandatory for everyone, and promotes the free entry to Grades 1–2 with paid content thereafter."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Chord manipulation from a single grip to derive other chords",
+      "timestamp": "00:01:14.675",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using chords in a key to predict likely chords and progressions",
+      "timestamp": "00:01:36.654",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Ear training and theory synergy as a learning accelerator",
+      "timestamp": "01:52:427",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sus chords substitution explained by theory (replacing major/minor with Sus)",
+      "timestamp": "00:02:10.005",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Major scale foundations enabling beginner improvisation",
+      "timestamp": "00:02:40.598",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Songwriting from basic chord knowledge; practical approach",
+      "timestamp": "00:02:59.489",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Course entry point: free Grades 1-2 with paid content thereafter",
+      "timestamp": "00:03:50.736",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:26:26.723631+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

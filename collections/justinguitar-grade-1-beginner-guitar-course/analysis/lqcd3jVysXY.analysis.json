@@ -1,0 +1,89 @@
+{
+  "schema_version": 2,
+  "video": "lqcd3jVysXY.youtube",
+  "title": "E minor chord (Em) from E major — left-hand lift and third-string emphasis",
+  "date": {
+    "display": "May 18, 2020",
+    "iso": "2020-05-18",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This short JustinGuitar lesson demonstrates forming the E minor chord by lifting the index finger off the G string (the open G string marks the minor quality when the other fingers hold the E major shape). It emphasizes a common muting issue: if the third finger (ring finger) settles too flat, it can mute the G string and obscure whether the chord sounds major or minor. The instructor stresses keeping the index finger’s contact with the G string on the tip, so the G string can ring clearly, and notes that the critical cue for the Em sound is the ringing of the third string during any strum. The video then guides a quick practice check: when strumming, ensure the third string rings out rather than relying on a full six-string strum, reinforcing a practical approach to distinguishing E major vs. E minor by ear and finger placement during basic chord work.",
+  "topics": [
+    "E major chord shape",
+    "E minor (Em) chord from E major",
+    "lifting index finger from G string (3rd string)",
+    "tip-focused finger placement to avoid muting",
+    "risk of muting the G string by left-hand position",
+    "role of the G string in determining chord quality",
+    "strumming with emphasis on the G string",
+    "checking G string resonance during practice",
+    "common beginner muting errors on open chords"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:24",
+      "title": "How to play the Em Chord",
+      "concepts": [
+        "E major shape",
+        "lifting index finger from G string",
+        "G string becomes open",
+        "minor quality expressed on the third string"
+      ],
+      "description": "The video begins with the suggestion to base the Em shape on the familiar E major chord, then lift the index finger off the G string (3rd string) to make the G string open, creating the E minor sound. Viewers are reminded that the third string is key to whether the chord is major or minor, and that lifting the finger can introduce a muting risk from the other fingers if their positions shift."
+    },
+    {
+      "start": "00:00:24",
+      "end": "00:01:24",
+      "title": "The Em Chord - Avoid these mistakes",
+      "concepts": [
+        "E major shape",
+        "lifting index finger from G string",
+        "G string becomes open",
+        "minor quality expressed on the third string",
+        "third finger muting risk",
+        "tip placement for the index finger on G string",
+        "muting as a false indicator of chord quality"
+      ],
+      "description": "The video begins with the suggestion to base the Em shape on the familiar E major chord, then lift the index finger off the G string (3rd string) to make the G string open, creating the E minor sound. Viewers are reminded that the third string is key to whether the chord is major or minor, and that lifting the finger can introduce a muting risk from the other fingers if their positions shift."
+    },
+    {
+      "start": "00:01:24",
+      "end": "00:01:53",
+      "title": "How to practice the Em Chord",
+      "concepts": [
+        "third finger muting risk",
+        "tip placement for the index finger on G string",
+        "muting as a false indicator of chord quality",
+        "G string ringing as verification",
+        "focused strum on the third string",
+        "practice cue to verify chord quality"
+      ],
+      "description": "The closing guidance is to actively check that the third string rings when you strum the Em shape. The emphasized cue is listening for the ringing G string as you practice, rather than assuming the chord sounds correct from a full strum alone."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Transform E major to E minor by lifting the index finger",
+      "timestamp": "00:00:15",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Muting troubleshooting: keep the G string from being muted by finger placement",
+      "timestamp": "00:01:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "G-string focus during strum to verify Em quality",
+      "timestamp": "00:01:31",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:24:24.698987+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

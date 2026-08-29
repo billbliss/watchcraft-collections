@@ -1,0 +1,101 @@
+{
+  "schema_version": 2,
+  "video": "SNYMRZqopi8.youtube",
+  "title": "Practice Common Chord Changes: Song-Based Prioritization and 1-Minute Drills",
+  "date": {
+    "display": "May 27, 2020",
+    "iso": "2020-05-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "JustinGuitar’s short tutorial centers on practicing common guitar chord changes efficiently. It starts from the premise that eight learned chords yield 64 possible ordered changes (8x8), with about 56 distinct transitions after accounting for overlaps, and identifies 25 chord changes worth practicing. Rather than drilling all 25 changes in isolation, the approach advocates selecting 5–6 songs you want to play, analyzing the chord changes within those songs, identifying the most difficult transitions, and prioritizing practice around those. The plan emphasizes a practical, song-driven method (including a social test at a party or barbecue) and notes that some changes (such as D to Dm) may be postponed until they appear in a chosen song. A 1-minute-per-change drill is mentioned as a benchmark, used to justify focused, efficient practice rather than rote repetition of every possible change.",
+  "topics": [
+    "8 chords learned",
+    "8x8 = 64 theoretical chord-change pairs",
+    "56 distinct changes after accounting for overlap",
+    "25 essential chord changes",
+    "time budgeting: 25 minutes if 1 minute per change",
+    "practical filtering: focus on changes needed for songs",
+    "select 5-6 songs to learn",
+    "song-based chord-change analysis",
+    "identify and prioritize difficult changes",
+    "note difficult changes and target them in practice",
+    "practice for real-life contexts (party/barbecue test)",
+    "avoid rote drilling of all 25 changes",
+    "not all changes are necessary upfront",
+    "D to Dm (Ré à Ré mineur) as an optional early target"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Which chord changes to practice",
+      "concepts": [
+        "eight chords learned (8)",
+        "theoretical combinations (8x8 = 64)",
+        "distinct vs. duplicate changes (~56 distinct)",
+        "identification of 25 essential chord changes",
+        "practice changes needed to play the songs you enjoy",
+        "choose 5–6 songs to focus on",
+        "test yourself at a social gathering (party/barbecue)",
+        "during practice, observe which changes are hardest and note them"
+      ],
+      "description": "Justin explains that with 8 chords you can form 64 ordered changes, but there are about 56 distinct possibilities and, after filtering, a curated list of 25 changes that are worth practicing."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:01:30",
+      "title": "Which chord changes NOT to practice",
+      "concepts": [
+        "practice changes needed to play the songs you enjoy",
+        "choose 5–6 songs to focus on",
+        "test yourself at a social gathering (party/barbecue)",
+        "during practice, observe which changes are hardest and note them",
+        "not all 25 changes are immediately necessary",
+        "focus on changes that occur in the chosen repertoire",
+        "example: D to Dm (Ré à Ré mineur) can be postponed until encountered in a song"
+      ],
+      "description": "A cautionary note to avoid overloading practice time with all possible changes. D to Dm is given as an example of a change that should be practiced when it appears in a song rather than upfront."
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:19",
+      "title": "Chord Changes - Practice schedule",
+      "concepts": [],
+      "description": "Chord Changes - Practice schedule"
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "1-minute-per-change drill (conceptual, time-budgeted practice)",
+      "timestamp": "00:00:24",
+      "confidence": 0.8
+    },
+    {
+      "technique": "song-based prioritization: pick 5–6 songs and drill only their changes",
+      "timestamp": "00:00:33",
+      "confidence": 0.8
+    },
+    {
+      "technique": "identify and target the most difficult changes from chosen songs",
+      "timestamp": "00:00:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "avoid drilling all 25 changes; focus on transitions you actually need",
+      "timestamp": "00:01:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "D to Dm as an optional target to be tackled when it appears in a song",
+      "timestamp": "00:01:06",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:37:11.719386+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

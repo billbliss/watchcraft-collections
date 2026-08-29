@@ -1,0 +1,232 @@
+{
+  "schema_version": 2,
+  "video": "IE5HWnrP9Wk.youtube",
+  "title": "JustinGuitar Practice Assistant: Build and Track Guitar Practice Routines (Free)",
+  "date": {
+    "display": "May 15, 2020",
+    "iso": "2020-05-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video is a practical walkthrough of the Practice Assistant feature in JustinGuitar’s platform. It demonstrates setting up a new routine, creating and editing practice items (for example 'Chord Changes' with a metric like 'Number of Changes'), and how to attach related links and statistics. The presenter shows item-level actions (edit, duplicate, archive) and adds items from the site (such as finger gym) into routines, then refreshes the page to reflect changes. The tutorial covers managing multiple routines, making one active, starting a practice session with a countdown, and using notes, a metronome with tempo and subdivisions, and end-of-minute alerts. It also explains how to record statistics (e.g., chord changes), switch between items mid-practice, import preset routines ( Blues Licks ), and view overall practice stats with graphs. A closing note highlights that the Practice Assistant is free and invites support via a donation button.",
+  "topics": [
+    "Practice Assistant dashboard",
+    "Create routine",
+    "Add new item",
+    "Item title and description",
+    "Related link",
+    "Statistic name and metric",
+    "Save item",
+    "Edit item",
+    "Duplicate item",
+    "Archive item",
+    "Add practice item from site (Finger Gym)",
+    "Refresh page after changes",
+    "Routines list and editing",
+    "Make active routine",
+    "Reset routine",
+    "Start practice timer",
+    "Notes per item",
+    "Metronome settings",
+    "End-of-minute flash and chime",
+    "Record statistic",
+    "Switching between items mid-practice",
+    "Import preset routines",
+    "Blues Licks preset",
+    "Replace current routine",
+    "Stats page and graphs",
+    "Donations"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:50",
+      "title": "My Practice Assistant: Get started",
+      "concepts": [
+        "Dashboard overview",
+        "Accessing Practice Assistant",
+        "Create Routine",
+        "Item title and description",
+        "Setting duration",
+        "Related links",
+        "Statistic name",
+        "Edit button",
+        "Duplicate item",
+        "Managing multiple items",
+        "Adding items from the site",
+        "Finger Gym example",
+        "Refreshing the page to reflect new items",
+        "Routines list",
+        "Editing and reordering items"
+      ],
+      "description": "Demonstrates creating a new routine (suggested name 'Test'), adding a first item titled 'Chord Changes', describing it ('How many chord changes in a minute'), setting a duration of one minute, and attaching a related link and a statistic name ('Number of Changes')."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:05:12",
+      "title": "My Practice Assistant: Set up your routines",
+      "concepts": [
+        "Routines list",
+        "Editing and reordering items",
+        "Make Active Routine",
+        "Deleting routines"
+      ],
+      "description": "Guides through the Routines tab, selecting multiple items, reordering them with arrows, saving, creating a second routine ('Test 2'), and activating or removing routines (with a caution about permanent deletion)."
+    },
+    {
+      "start": "00:05:12",
+      "end": "00:06:05",
+      "title": "My Practice Assistant: Set up your practices",
+      "concepts": [
+        "Routines list",
+        "Editing and reordering items",
+        "Make Active Routine",
+        "Deleting routines",
+        "Starting a practice",
+        "Countdown timer",
+        "Notes per item",
+        "Metronome toggle and tempo",
+        "8th and 16th note subdivisions"
+      ],
+      "description": "Shows starting a practice, the countdown, adding persistent notes for reminders, and using the metronome with tempo adjustments and subdivisions to support timing."
+    },
+    {
+      "start": "00:06:05",
+      "end": "00:06:36",
+      "title": "My Practice Assistant: Using the metronome",
+      "concepts": [
+        "Starting a practice",
+        "Countdown timer",
+        "Notes per item",
+        "Metronome toggle and tempo",
+        "8th and 16th note subdivisions"
+      ],
+      "description": "Shows starting a practice, the countdown, adding persistent notes for reminders, and using the metronome with tempo adjustments and subdivisions to support timing."
+    },
+    {
+      "start": "00:06:36",
+      "end": "00:07:24",
+      "title": "My Practice Assistant: Managing the statistics",
+      "concepts": [
+        "Starting a practice",
+        "Countdown timer",
+        "Notes per item",
+        "Metronome toggle and tempo",
+        "8th and 16th note subdivisions",
+        "End-of-minute alert",
+        "Recording a statistic",
+        "Switching between items mid-practice",
+        "Video-integration notes and related links"
+      ],
+      "description": "Covers the end-of-minute notification, entering the number of repetitions (e.g., chord changes), and the ability to jump to other items (such as the Finger Gym) during a session, plus notes about embedded video where available."
+    },
+    {
+      "start": "00:07:24",
+      "end": "00:08:42",
+      "title": "My Practice Assistant: Importing items from lessons",
+      "concepts": [
+        "End-of-minute alert",
+        "Recording a statistic",
+        "Switching between items mid-practice",
+        "Video-integration notes and related links",
+        "Importing routines",
+        "Blues Licks preset",
+        "Replacing or adding to current routine"
+      ],
+      "description": "Demonstrates importing a preset blues routine and choosing how to integrate it with existing routines (replace vs. add)."
+    },
+    {
+      "start": "00:08:42",
+      "end": "00:10:05",
+      "title": "My Practice Assistant: Track your progress (stats",
+      "concepts": [
+        "Importing routines",
+        "Blues Licks preset",
+        "Replacing or adding to current routine",
+        "Stats page",
+        "Viewing daily practice",
+        "Graphical stats",
+        "Donor/Support prompt"
+      ],
+      "description": "Concludes with the Stats page, viewing detailed practice data and graphs, and ends with a note about keeping the tool free and a donation prompt."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Create a new routine and add the first item",
+      "timestamp": "00:00:33",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Edit and duplicate a practice item",
+      "timestamp": "00:02:20",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Add items from site (Finger Gym) to a routine",
+      "timestamp": "00:03:07",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Refresh page to reflect changes",
+      "timestamp": "00:03:28",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Make Active Routine and manage multiple routines",
+      "timestamp": "00:04:55",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Reset routine",
+      "timestamp": "00:05:26",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Start practice timer and countdown",
+      "timestamp": "00:05:37",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Notes per item",
+      "timestamp": "00:05:46",
+      "confidence": 0.91
+    },
+    {
+      "technique": "Metronome with tempo and subdivisions",
+      "timestamp": "00:06:07",
+      "confidence": 0.93
+    },
+    {
+      "technique": "End-of-minute flash and chime",
+      "timestamp": "00:06:29",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Record statistic (e.g., chord changes)",
+      "timestamp": "00:06:41",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Import preset routines and replace/add to current routine",
+      "timestamp": "00:08:03",
+      "confidence": 0.88
+    },
+    {
+      "technique": "View and interpret stats graphs",
+      "timestamp": "00:08:45",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Donor prompt and keeping it free",
+      "timestamp": "00:09:51",
+      "confidence": 0.84
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:19:07.921600+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

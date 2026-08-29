@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "video": "uBZsLmmOz9I.youtube",
+  "title": "JustinGuitar Lesson 1 Practice Routine — 20-Minute Daily Plan",
+  "date": {
+    "display": "May 11, 2020",
+    "iso": "2020-05-11",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video outlines JustinGuitar’s Lesson 1 practice routine for beginners, prescribing a 20-minute daily practice window with a recommended four sessions per week (daily if possible). It emphasizes focused chord work using a “Chord Perfect Practice” method on the D and A chords, followed by an Anchor Finger drill to position fingers lightly and accurately. The routine includes brief One Minute Changes drills (A to D) with progress logging, then a 10-minute block dedicated to song practice aimed at building repertoire. The session stresses using the practice assistant or related apps to time and log practice, encourages playing songs rather than scales for motivation, and offers scheduling tips to promote regular daily practice.",
+  "topics": [
+    "20-minute daily practice routine",
+    "Frequency: four sessions per week (daily option)",
+    "Chord Perfect Practice (D chord)",
+    "Chord Perfect Practice (A chord)",
+    "3-minute chord drills per chord",
+    "Anchor Finger Work (soft touch, light pressure)",
+    "Anchor finger motion within the same fret",
+    "Two-minute to three-minute drill structure",
+    "One Minute Changes (A to D)",
+    "Logging daily changes (practice assistant / notebook)",
+    "10-minute song practice",
+    "Song-focused practice over scales",
+    "Beginner song options (Beginner Song Course app, web play-alongs, original recordings)",
+    "Singing while playing (caution / difficulty in initial sessions)",
+    "Play songs without apps to gauge progress",
+    "Regular practice as the key to progress",
+    "Daily scheduling tips (morning, lunch, evening)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:45",
+      "title": "Have a practice routine",
+      "concepts": [
+        "Introduction to Lesson 1 practice routine",
+        "20-minute practice window",
+        "Recommendation of four sessions per week",
+        "Option to practice daily if feasible"
+      ],
+      "description": "Justin introduces the overall goal of Lesson 1 practice and outlines the recommended frequency and daily commitment."
+    },
+    {
+      "start": "00:00:45",
+      "end": "00:01:35",
+      "title": "Get perfect chord changes",
+      "concepts": [
+        "D chord drill: 3 minutes",
+        "A chord drill: 3 minutes",
+        "Timer use, finger placement, strumming, corrections",
+        "Confirming the correct chord shape",
+        "Light touch, no heavy pressing",
+        "Fingers positioned on A and D chords without full strength",
+        "Anchor finger motion: the first finger moves within the same fret"
+      ],
+      "description": "Structured timed chord blocks per chord, emphasizing steady finger placement and quick corrections."
+    },
+    {
+      "start": "00:01:35",
+      "end": "00:02:40",
+      "title": "Get fast chord changes",
+      "concepts": [
+        "Light touch, no heavy pressing",
+        "Fingers positioned on A and D chords without full strength",
+        "Anchor finger motion: the first finger moves within the same fret",
+        "Two 1-minute change cycles (A to D)",
+        "Start timer, count changes, note results",
+        "Ten minutes of song practice",
+        "Split emphasis: half time on songs",
+        "Move toward playing songs to build repertoire"
+      ],
+      "description": "Short, timed chord-change practice with an emphasis on counting and recording progress."
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:05:14",
+      "title": "Practice songs",
+      "concepts": [
+        "Ten minutes of song practice",
+        "Split emphasis: half time on songs",
+        "Move toward playing songs to build repertoire",
+        "Regular practice is key to progress",
+        "Aim for four sessions per week or carve out a daily slot",
+        "Practical time options (morning, lunch, evening)"
+      ],
+      "description": "A strong shift toward song-based practice to build real-world playing ability and motivation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Chord Perfect Practice (D then A)",
+      "timestamp": "00:00:45",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Anchor Finger Work (soft touch & anchor positioning)",
+      "timestamp": "00:01:28",
+      "confidence": 0.8
+    },
+    {
+      "technique": "One Minute Changes with Logging",
+      "timestamp": "00:02:02",
+      "confidence": 0.78
+    },
+    {
+      "technique": "10-Minute Song Practice",
+      "timestamp": "00:02:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Regular Scheduling & Progress Logging",
+      "timestamp": "00:04:09",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-29T06:38:57.921819+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

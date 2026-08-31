@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "video": "1TZ47h_UUSc.youtube",
+  "title": "Grounding a Two-Prong Outlet in an Unfinished Basement: GFCI Option and AFCI Laundry-Circuit Upgrade",
+  "date": {
+    "display": "April 12, 2020",
+    "iso": "2020-04-12",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "unfinished basement",
+      "confidence": 0.75,
+      "basis": "Explicit mention as the installation area for the new receptacle and wiring in the transcript (00:02:29–00:02:46)"
+    },
+    {
+      "name": "behind the washing machine",
+      "confidence": 0.7,
+      "basis": "Explicit statement that a receptacle behind the washing machine has violations (00:03:16–00:03:20)"
+    },
+    {
+      "name": "concrete wall",
+      "confidence": 0.8,
+      "basis": "Metal electrical box mounted to concrete wall (00:03:39–00:04:03)"
+    },
+    {
+      "name": "laundry area",
+      "confidence": 0.65,
+      "basis": "The circuit is described as a laundry circuit and the receptacle is intended for laundry use (00:04:34–00:04:41)"
+    }
+  ],
+  "summary": "The video identifies an ungrounded two-prong outlet and explains how grounding works, then presents two remediation paths: installing a GFCI receptacle to provide protection without pulling a new ground, or running a dedicated equipment-grounding conductor (EGC) by replacing wiring. The team opts for upgrading the laundry circuit with 12‑gauge wire, a conduit-fed metal box on a concrete wall, and an AFCI protected breaker, followed by testing with a receptacle tester to verify ground status and correct polarity. The segment emphasizes safety, code considerations (12 AWG for laundry, AFCI protection), and verification steps before re-energizing the circuit.",
+  "topics": [
+    "ungrounded receptacle",
+    "two-prong vs three-prong outlets",
+    "grounding wire (bare copper)",
+    "equipment grounding conductor (EGC)",
+    "ground fault circuit interrupter (GFCI) receptacle",
+    "arc fault circuit interrupter (AFCI) breaker",
+    "12 gauge (12 AWG) laundry circuit",
+    "conduit bending tool",
+    "metal electrical box mounting to concrete",
+    "testing receptacles with a tester",
+    "open ground condition",
+    "hot/neutral orientation and reversal",
+    "main breaker safety shutoff",
+    "neutral bar and grounding bar connections",
+    "open neutral/hot indicators on testers"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:45:00",
+      "title": "Ungrounded outlet and grounding basics",
+      "concepts": [
+        "ungrounded receptacle",
+        "hot and neutral",
+        "grounding wire",
+        "two-prong vs three-prong outlet",
+        "why grounding matters"
+      ],
+      "description": "Host identifies an ungrounded two-prong receptacle and explains the basic electrical flow (hot, neutral) and the role of a grounding conductor in preventing shock by tripping a breaker on faults."
+    },
+    {
+      "start": "01:46:00",
+      "end": "03:12:00",
+      "title": "Options for grounding and protection",
+      "concepts": [
+        "GFCI receptacle as an immediate protection method",
+        "open ground indication",
+        "when to run new cable with a dedicated EGC",
+        "code considerations for unfinished basement install"
+      ],
+      "description": "Discussion of two paths: install a GFCI receptacle in the existing wiring, or run a new cable with an equipment grounding conductor for a proper ground, with emphasis on basement installation constraints."
+    },
+    {
+      "start": "03:12:00",
+      "end": "05:20:00",
+      "title": "Upgrading for laundry circuit: new run and AFCI protection",
+      "concepts": [
+        "dedicated laundry circuit",
+        "12 gauge wire",
+        "conduit and metal box",
+        "arc fault breaker (AFCI)",
+        "neutral and ground connections"
+      ],
+      "description": "Plan and execution of upgrading the laundry receptacle by installing a dedicated laundry circuit with appropriate conductor size, routing via conduit to a metal box on a concrete wall, and protecting the circuit with an AFCI breaker."
+    },
+    {
+      "start": "05:24:00",
+      "end": "06:54:00",
+      "title": "Verification, testing, and safety notes",
+      "concepts": [
+        "receptacle tester for grounding status",
+        "open ground vs hot/neutral reversal indicators",
+        "power-off verification at main breaker",
+        "final safety checks and takeaways"
+      ],
+      "description": "Power-down verification, testing the receptacle with a tester to confirm ground status and proper hot/neutral orientation, and closing remarks on safety and next steps."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install GFCI receptacle to address an ungrounded outlet",
+      "timestamp": "00:01:55",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Run new equipment grounding conductor (EGC) with 12 AWG for a proper ground",
+      "timestamp": "00:02:41",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Install AFCI breaker for laundry circuit protection",
+      "timestamp": "00:05:02",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Mount metal electrical box to concrete wall",
+      "timestamp": "00:03:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Bend conduit to fit box using conduit bending tool",
+      "timestamp": "00:04:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Test receptacle grounding and polarity with a tester",
+      "timestamp": "00:05:42",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Power-off verification using main breaker before service work",
+      "timestamp": "00:04:55",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:09:15.978784+00:00"
+}

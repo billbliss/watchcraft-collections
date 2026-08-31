@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "us5wIKRoY_I.youtube",
+  "title": "How 3-Way Switches Work: Travelers, Commons, and Troubleshooting (Ask This Old House)",
+  "date": {
+    "display": "February 8, 2026",
+    "iso": "2026-02-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House episode presents a practical, hands-on explanation of how 3-way switches operate to control a light from two locations. The hosts introduce the need for a three-conductor cable (black, red, white), distinguish travelers from the common, and show how power in, a load out, and a continuous neutral path are arranged in a two-switch circuit. Through a box mockup and guided narration, they demonstrate wiring travelers to brass screws, the common connection point, and how the circuit is completed from either end to allow multi-location control. The segment also covers common pitfalls when adding or replacing a dimmer in a 3-way circuit, such as misidentifying wires or using a single-pole dimmer, and ends with troubleshooting tips and practical wiring heuristics.",
+  "topics": [
+    "Three-way switch fundamentals",
+    "Travelers vs. common screws",
+    "Three-conductor cable (black, red, white)",
+    "Power-in and load-out wiring",
+    "Neutral path in multi-location circuits",
+    "Wire nuts for neutrals and feeds",
+    "Dimmer compatibility in 3-way circuits",
+    "Troubleshooting miswired 3-way circuits",
+    "Common mistakes when replacing 3-way switches",
+    "Identifying travelers and common by screw color",
+    "Cutaway/explanatory mockups in electrical learning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:12",
+      "title": "Intro and cutaway rationale",
+      "concepts": [
+        "cutaway demonstration",
+        "three-way switch overview",
+        "learning through visuals"
+      ],
+      "description": "The hosts discuss the goal of a cutaway to illustrate how three-way switches work when multiple locations control a single light, and note the challenge of opening a real switch to show internals, leading to a custom mockup."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:02:04",
+      "title": "Single-pole circuit refresher",
+      "concepts": [
+        "feed and neutral",
+        "power in/out",
+        "neutral path",
+        "open/closed circuit"
+      ],
+      "description": "A review of the basic two-wire circuit: power in (black) and neutral (white) feeding a load (light), with the switch completing or breaking the circuit to control the load."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:03:14",
+      "title": "Three-way basics: introducing three-conductor cable and common vs travelers",
+      "concepts": [
+        "three-wire cable (black, red, white)",
+        "travelers",
+        "common screw"
+      ],
+      "description": "Introduces the need for a three-conductor cable between two 3-way switches and the distinction between traveler wires and the common (base point) on each switch."
+    },
+    {
+      "start": "00:03:14",
+      "end": "00:04:01",
+      "title": "Wiring the 3-way in the box: travelers on brass, common on screws",
+      "concepts": [
+        "traveler wires on brass screws",
+        "common screw as base point",
+        "two commons (power and load)"
+      ],
+      "description": "Shows how black and red are used as travelers on the brass screws and how the remaining conductor serves as the common, with each switch box containing a common for either feed or load."
+    },
+    {
+      "start": "00:04:01",
+      "end": "00:04:21",
+      "title": "Path from two locations: how the circuit is completed or broken",
+      "concepts": [
+        "two-location control",
+        "neutral remains continuous",
+        "path to load"
+      ],
+      "description": "Explains that lighting control operates by completing or breaking the circuit at either switch, while the neutral path remains uninterrupted."
+    },
+    {
+      "start": "00:04:21",
+      "end": "00:06:04",
+      "title": "Dimmer considerations and common miswiring",
+      "concepts": [
+        "three-way dimmer vs single-pole dimmer",
+        "miswiring when replacing 3-way",
+        "identify common vs travelers"
+      ],
+      "description": "Addresses common scenarios when adding or replacing dimmers in a 3-way circuit, including why a single-pole dimmer often cannot be used and how miswiring (mixing up common and travelers) leads to partial or nonfunctional operation."
+    },
+    {
+      "start": "00:06:04",
+      "end": "00:06:44",
+      "title": "Best practices and recap",
+      "concepts": [
+        "identify travelers as black and red",
+        "designate the remaining wire as common",
+        "simplified troubleshooting"
+      ],
+      "description": "Concludes with practical tips: consistently use black and red as travelers, identify the remaining conductor as the common, and follow a straightforward approach to diagnose and fix 3-way wiring issues."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Three-way switch wiring using travelers (red/black) and a common screw",
+      "timestamp": "00:02:04",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Using three-conductor cable (black, red, white) between two switches",
+      "timestamp": "00:02:04",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Identifying common vs travelers by screw color and circuit function",
+      "timestamp": "00:02:54",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Wire-nutting neutrals and feeds inside the switch box",
+      "timestamp": "00:03:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Troubleshooting 3-way miswiring when adding a dimmer",
+      "timestamp": "00:04:46",
+      "confidence": 0.83
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:37:08.257524+00:00"
+}

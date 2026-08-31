@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "video": "lLQ3miK4GQE.youtube",
+  "title": "File formats in Photoshop: PSD/PSB, PDF, TIFF, JPEG/PNG/GIF and exporting workflow",
+  "date": {
+    "display": "September 3, 2025",
+    "iso": "2025-09-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 3 in the 30 Days of Photoshop series demonstrates how to manage and save image files with layers, and to export finalized images for web, print, and social media. The tutorial covers saving layered PSD (and PSB for very large files), PDF and TIFF options for preserving vector data and color depth, and the differences between flattened formats like JPEG and lossless PNG/GIF. It also walks through a practical edit using brightness/contrast adjustments, layer masks with a radial gradient, and a gradient map for color grading, followed by a detailed walkthrough of the Export As dialog to produce web- and print-ready assets at multiple sizes while preserving layer fidelity for future edits.",
+  "topics": [
+    "PSD",
+    "PSB (Large Document Format)",
+    "Photoshop PDF",
+    "TIFF",
+    "JPEG",
+    "PNG",
+    "GIF",
+    "Layered file",
+    "Adjustment layer",
+    "Layer mask",
+    "Brightness/Contrast",
+    "Gradient tool",
+    "Radial gradient",
+    "Gradient map",
+    "Opacity",
+    "sRGB",
+    "Export As",
+    "Web optimization",
+    "Print optimization",
+    "Color space",
+    "Embedded fonts",
+    "Color grading",
+    "Artwork preservation",
+    "Export scales"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:12",
+      "title": "Intro and layered workflow for file formats",
+      "concepts": [
+        "layered Photoshop document (PSD)",
+        "flattened export for web/print",
+        "two-file-save strategy (layered vs export)"
+      ],
+      "description": "Introductory segment outlining the two-file approach: keep a layered PSD/PSB for edits, and save a flattened export for web, print, and social use."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:03:26",
+      "title": "Brightness/Contrast adjustment with masking",
+      "concepts": [
+        "Brightness/Contrast adjustment layer",
+        "layer mask",
+        "gradient masking to isolate subject"
+      ],
+      "description": "Demonstrates applying a brightness/contrast adjustment and using a layer mask with a gradient to brighten the subject selectively without affecting the whole image."
+    },
+    {
+      "start": "00:03:26",
+      "end": "00:04:49",
+      "title": "Color grading with gradient map (adjustable opacity)",
+      "concepts": [
+        "Gradient Map adjustment",
+        "opacity control on adjustment layer",
+        "color grading workflow"
+      ],
+      "description": "Introduces gradient map for color grading, followed by reducing the gradient map's opacity to keep the effect subtle."
+    },
+    {
+      "start": "00:04:49",
+      "end": "00:06:01",
+      "title": "Saving layered work and preparing exports",
+      "concepts": [
+        "save layered file for re-editing",
+        "export-ready version"
+      ],
+      "description": "Emphasizes saving a layered Photoshop document for future edits and creating an export-ready version for non-destructive sharing."
+    },
+    {
+      "start": "00:06:01",
+      "end": "00:08:04",
+      "title": "PSD vs Large Document Format (PSB) and PDF basics",
+      "concepts": [
+        "PSD",
+        "PSB (Large Document Format)",
+        "PDF (Photoshop PDF)"
+      ],
+      "description": "Defines when to use PSD versus PSB for very large files, and introduces PDF as a format that can preserve raster and vector data along with fonts when embedded."
+    },
+    {
+      "start": "00:08:04",
+      "end": "00:14:00",
+      "title": "Export workflow and multi-format options (Export As)",
+      "concepts": [
+        "Export As dialog",
+        "PNG",
+        "JPEG",
+        "GIF",
+        "scale presets"
+      ],
+      "description": "Demonstrates the Export As workflow, showing how to export in PNG, JPEG, and GIF, including image scale options and previewing file sizes and quality."
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:16:03",
+      "title": "Practical export settings and quick-reference guidelines",
+      "concepts": [
+        "JPEG quality vs file size",
+        "color space (sRGB) and embedding",
+        "PNG transparency",
+        "GIF color limitations",
+        "multi-size exports"
+      ],
+      "description": "Provides practical rules of thumb for choosing JPEG quality, ensuring sRGB color profile embedding, leveraging PNG transparency, and creating multiple export sizes for web and sharing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Selective brightening using a Brightness/Contrast adjustment layer with a gradient mask",
+      "timestamp": "00:01:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color grading with Gradient Map and controlled opacity",
+      "timestamp": "00:03:35",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Export As workflow with format choices and scale presets",
+      "timestamp": "00:09:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Saving and re-opening PSD to preserve layers; setting sRGB color profile for JPEG",
+      "timestamp": "00:11:20",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:04:51.102417+00:00"
+}

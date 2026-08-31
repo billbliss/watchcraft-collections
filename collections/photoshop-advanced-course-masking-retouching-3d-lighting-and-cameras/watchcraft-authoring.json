@@ -1,0 +1,101 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras",
+    "collection_id": "photoshop-advanced-course-masking-retouching-3d-lighting-and-cameras",
+    "description": "A Watchcraft collection generated from the Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras YouTube playlist.",
+    "source": {
+      "type": "youtube-playlist",
+      "playlist_id": "PLttcEXjN1UcE1sK7MQIJ1fDbH0T8BiJz9",
+      "url": "https://www.youtube.com/playlist?list=PLttcEXjN1UcE1sK7MQIJ1fDbH0T8BiJz9",
+      "excluded_video_ids": [],
+      "publisher": "Bring Your Own Laptop",
+      "publisher_url": "https://www.youtube.com/@BringYourOwnLaptop"
+    },
+    "listed": true,
+    "publisher": "Bring Your Own Laptop"
+  },
+  "sources": {
+    "QICjqTAnHXE.youtube": {
+      "source_id": "youtube:QICjqTAnHXE",
+      "type": "youtube",
+      "video_id": "QICjqTAnHXE",
+      "url": "https://www.youtube.com/watch?v=QICjqTAnHXE",
+      "title": "Adobe Photoshop CC – Advanced Training Course Tutorial Introduction",
+      "publisher": "Bring Your Own Laptop",
+      "publisher_url": "https://www.youtube.com/@BringYourOwnLaptop",
+      "thumbnail_url": "https://i.ytimg.com/vi/QICjqTAnHXE/hqdefault.jpg",
+      "duration_seconds": 226,
+      "published_at": "2018-08-09T15:41:58-07:00",
+      "chapters": [],
+      "position": 1,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "X-4IFMG-_nQ.youtube": {
+      "source_id": "youtube:X-4IFMG-_nQ",
+      "type": "youtube",
+      "video_id": "X-4IFMG-_nQ",
+      "url": "https://www.youtube.com/watch?v=X-4IFMG-_nQ",
+      "title": "Advanced selections & masking in Adobe Photoshop - Select Anything! - Adobe Photoshop CC",
+      "publisher": "Bring Your Own Laptop",
+      "publisher_url": "https://www.youtube.com/@BringYourOwnLaptop",
+      "thumbnail_url": "https://i.ytimg.com/vi/X-4IFMG-_nQ/hqdefault.jpg",
+      "duration_seconds": 8108,
+      "published_at": "2018-08-15T16:00:18-07:00",
+      "chapters": [],
+      "position": 2,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "t3mHXTYypLQ.youtube": {
+      "source_id": "youtube:t3mHXTYypLQ",
+      "type": "youtube",
+      "video_id": "t3mHXTYypLQ",
+      "url": "https://www.youtube.com/watch?v=t3mHXTYypLQ",
+      "title": "The Complete Guide to Retouching in Adobe Photoshop: Fixing Eyes, Skin & Teeth",
+      "publisher": "Bring Your Own Laptop",
+      "publisher_url": "https://www.youtube.com/@BringYourOwnLaptop",
+      "thumbnail_url": "https://i.ytimg.com/vi/t3mHXTYypLQ/hqdefault.jpg",
+      "duration_seconds": 5706,
+      "published_at": "2018-08-16T15:54:19-07:00",
+      "chapters": [],
+      "position": 3,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    },
+    "HXSh5ueFPTo.youtube": {
+      "source_id": "youtube:HXSh5ueFPTo",
+      "type": "youtube",
+      "video_id": "HXSh5ueFPTo",
+      "url": "https://www.youtube.com/watch?v=HXSh5ueFPTo",
+      "title": "Adobe Photoshop Tutorial: 3D Text & 3D Logos",
+      "publisher": "Bring Your Own Laptop",
+      "publisher_url": "https://www.youtube.com/@BringYourOwnLaptop",
+      "thumbnail_url": "https://i.ytimg.com/vi/HXSh5ueFPTo/hqdefault.jpg",
+      "duration_seconds": 3708,
+      "published_at": "2018-08-17T16:30:04-07:00",
+      "chapters": [],
+      "position": 4,
+      "captions": {
+        "language": "en",
+        "language_name": "English",
+        "generated": false,
+        "source": "youtube-captions"
+      }
+    }
+  }
+}

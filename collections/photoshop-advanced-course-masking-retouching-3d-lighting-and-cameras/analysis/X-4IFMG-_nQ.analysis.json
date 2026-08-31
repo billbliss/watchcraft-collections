@@ -1,0 +1,266 @@
+{
+  "schema_version": 2,
+  "video": "X-4IFMG-_nQ.youtube",
+  "title": "Advanced selections & masking in Adobe Photoshop - Color Range, Subject, Channel Masks, Focus Area",
+  "date": {
+    "display": "August 15, 2018",
+    "iso": "2018-08-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Los Angeles, California, USA",
+      "confidence": 0.65,
+      "basis": "Explicit mention of Adobe MAX in LA in the transcript (01:56–01:59)."
+    },
+    {
+      "name": "Las Vegas, Nevada, USA",
+      "confidence": 0.65,
+      "basis": "Explicit mention of Adobe MAX being in Vegas (01:13:57)."
+    },
+    {
+      "name": "Perth Canyon National Park, Australia",
+      "confidence": 0.5,
+      "basis": "Explicit mention of a photo taken there during the Deep Fill demonstration (02:10:57)."
+    }
+  ],
+  "summary": "This long-form Adobe Photoshop CC tutorial guides advanced masking and selection workflows, weaving together Select Subject, Color Range, Channel Masks, and Focus Area to create complex, non-destructive composites. It demonstrates rapid initial masking with Select Subject, then meticulous refinement in Select & Mask, including Edge Detection, Smart Radius, and Decontaminate Colors. The lesson progresses through several subjects (people and objects), emphasizing techniques to isolate skin, foliage, and colored elements, and extends into color-based masking with Color Range, localized color clusters, and grayscale previews. Practical tips include painting touch-ups with the Brush tool, moving masks between documents and into groups, saving selections, duplicating layers, and building layered shadows for realistic composites. The instructor also shows how to combine multiple techniques non-destructively via adjustment layers and layer masks, and wraps with class projects that reinforce masking and compositing concepts.",
+  "topics": [
+    "Select Subject",
+    "Select Subject 1-5 exercises",
+    "Select & Mask",
+    "Edge Detection",
+    "Smart Radius",
+    "Decontaminate Colors",
+    "Focus Area",
+    "Channel Mask",
+    "Color Range",
+    "Localized Color Clusters",
+    "Selection Preview",
+    "Hue/Saturation",
+    "Vibrance",
+    "Layer Masks",
+    "Adjustment Layers",
+    "Copy/Paste Layer Mask",
+    "Group Mask",
+    "Smart Objects",
+    "Overlay brush for edge cleanup",
+    "X key toggle foreground/background",
+    "P key toggle mask visibility",
+    "Save Selections",
+    "Drop Shadow and Layer Styles",
+    "Color Range Skin Tones",
+    "Channel Mask workflow with Focus Area"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:43",
+      "title": "Video overview and masking targets",
+      "concepts": [
+        "masking overview",
+        "Select Subject",
+        "Color Range",
+        "Group masking"
+      ],
+      "description": "Introduction to broad masking goals: isolating people, fruit, grass, and sky; preview of techniques (Select Subject, Color Range) and assembling multiple graphics."
+    },
+    {
+      "start": "00:02:43",
+      "end": "00:04:04",
+      "title": "Exercise files and Subject 1-5 prep",
+      "concepts": [
+        "Exercise files",
+        "Select Subject versions",
+        "Subject 1-5"
+      ],
+      "description": "Directs the viewer to download exercise files from the course and loads five Subject images to demonstrate progressive difficulty; notes Photoshop version requirements."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:09:31",
+      "title": "Subject 1 workflow and initial mask",
+      "concepts": [
+        "Select Subject",
+        "Create mask",
+        "On Black background",
+        "Layer mask",
+        "P key toggling"
+      ],
+      "description": "First Subject 1 demonstration: quick selection with Select Subject, add a mask, and review its accuracy; introduces contrast aids (On Black) and keyboard toggles (P) for inspection."
+    },
+    {
+      "start": "00:09:31",
+      "end": "00:12:50",
+      "title": "Refining with Select & Mask",
+      "concepts": [
+        "Select & Mask",
+        "Edge Detection",
+        "Smart Radius",
+        "Decontaminate Colors"
+      ],
+      "description": "Dives into refining a rough mask using Select & Mask, testing Edge Detection and Smart Radius, and applying Decontaminate Colors to improve edge fidelity."
+    },
+    {
+      "start": "00:12:50",
+      "end": "00:16:25",
+      "title": "Hair and edge refinements with manual touch-ups",
+      "concepts": [
+        "Brush tool",
+        "Alt/Option key",
+        "Refine Edge brush",
+        "Manual painting"
+      ],
+      "description": "Progresses to subjects with hair; uses brushing and targeted refinements, including Alt/Option-assisted precision to fix shoulder/ear hair and refine edges."
+    },
+    {
+      "start": "00:16:25",
+      "end": "00:19:49",
+      "title": "Mask transfer and duplication tricks",
+      "concepts": [
+        "Copy/Paste masks",
+        "Duplicate Layer",
+        "Group masking"
+      ],
+      "description": "Shows how to move masks between documents, duplicate layers, and group multiple masks for consolidated control across a composite."
+    },
+    {
+      "start": "00:19:49",
+      "end": "00:25:00",
+      "title": "Color Range basics and workflow",
+      "concepts": [
+        "Color Range",
+        "Sampled Color",
+        "Fuzziness",
+        "Localized Color Clusters"
+      ],
+      "description": "Introduces Color Range as a color-based selection tool, demonstrates using Sampled Color with fuzziness (100) and the plus/minus approach to isolate subjects, and previews saving selections."
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:39:32",
+      "title": "Color Range in practice: fruit and background tuning",
+      "concepts": [
+        "Hue & Saturation adjustments",
+        "Vibrance",
+        "Adjustment Layers",
+        "Non-destructive editing"
+      ],
+      "description": "Practical application of Color Range to isolate blues/greens and adjust color with Hue/Saturation and Vibrance on adjustment layers, preserving non-destructive workflows while reframing a scene."
+    },
+    {
+      "start": "00:39:32",
+      "end": "00:46:53",
+      "title": "Skin tones and color-range caveats",
+      "concepts": [
+        "Skin Tones",
+        "Detect Faces",
+        "Vibrance adjustments",
+        "Brush cleanup"
+      ],
+      "description": "Explores Color Range for skin tones (Skin Tones preset), considers detection of faces, and demonstrates targeted touch-ups with brushes to isolate skin while minimizing background bleed."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Select Subject",
+      "timestamp": "00:02:46",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Select & Mask",
+      "timestamp": "00:05:09",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Color Range (basic masking)",
+      "timestamp": "00:29:32",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Decontaminate Colors",
+      "timestamp": "00:07:30",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Smart Radius",
+      "timestamp": "00:06:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Edge Refinements in Select & Mask",
+      "timestamp": "00:05:58",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Overlay brush to tidy edges",
+      "timestamp": "01:34:41",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Copy/Paste Layer Mask across documents",
+      "timestamp": "00:19:36",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Localised Color Clusters (Color Range 2)",
+      "timestamp": "00:35:00",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Channel Mask",
+      "timestamp": "01:23:45",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Focus Area",
+      "timestamp": "01:39:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Hue & Saturation adjustments on masked regions",
+      "timestamp": "00:42:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Vibrance adjustments on skin selections",
+      "timestamp": "00:48:55",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Overlay brush for edge cleanup (non-destructive refinements)",
+      "timestamp": "01:34:41",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Drop Shadow and layered shadows on composites",
+      "timestamp": "01:53:49",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Smart Objects for scalable masking",
+      "timestamp": "01:04:00",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Save Selections",
+      "timestamp": "01:13:16",
+      "confidence": 0.7
+    },
+    {
+      "technique": "X key foreground/background toggle while painting",
+      "timestamp": "00:34:28",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Quick Selection Tool for tricky edges",
+      "timestamp": "00:21:02",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:48:47.800214+00:00"
+}

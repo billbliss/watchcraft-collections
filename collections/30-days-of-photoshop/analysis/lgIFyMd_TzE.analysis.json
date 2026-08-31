@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "video": "lgIFyMd_TzE.youtube",
+  "title": "PHLEARN 30 Days of Photoshop: Day 1 Tour — Interface, Workspaces, and Core Techniques",
+  "date": {
+    "display": "September 1, 2025",
+    "iso": "2025-09-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Day 1 tour from PHLEARN’s 30 Days of Photoshop introduces absolute beginners to Photoshop 2025 by outlining the program’s layout, core tools, and how to navigate and customize workspaces. The host demonstrates creating new documents with template options, loading sample assets, and opening images, then moves into hands-on workspace configuration—pinning and saving custom workspaces, switching between built-in layouts, and arranging panels. A practical photo-editing workflow is shown using selection tools, adjustment layers, and non-destructive techniques, followed by tips on preferences, history states, and help resources. The video emphasizes a non-destructive mindset and a tailored, efficient interface to accelerate learning across the 30-day curriculum, with several AI-enabled and modern features highlighted (Generative Crop, Select Subject) for discoverability and searchability.",
+  "topics": [
+    "New File dialog",
+    "Template-based documents",
+    "Flyer and print sizes (7x5)",
+    "Sample assets and day-one download",
+    "Adobe Photoshop 2025 splash/home screen",
+    "Workspace essentials (Essentials, Motion, Painting, Photography, Graphic & Web)",
+    "Contextual Taskbar",
+    "Curating and saving custom workspaces (Photo editing 2025)",
+    "Panels and modules (Color, Swatches, Libraries, History, Layers)",
+    "Move Tool",
+    "Ellipse Marquee Tool",
+    "Object Selection Tool",
+    "Quick Selection Tool",
+    "Frame Tool",
+    "Eyedropper Tool",
+    "Color sampling",
+    "Adjustment layers (Brightness/Contrast)",
+    "Layer masks",
+    "Gaussian Blur on layer masks",
+    "Generative Crop (AI)",
+    "Select Subject (AI object selection)",
+    "Generative workspace and tools",
+    "Two-finger trackpad panning and spacebar zoom",
+    "Tips for undo and history states",
+    "Help menu and searchable commands",
+    "Saving in background and auto-save settings",
+    "Asset downloads and resources (Adobe Stock)",
+    "Non-destructive editing philosophy"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:22",
+      "title": "Introduction and program goals",
+      "concepts": [
+        "Course overview",
+        "Navigate and customize Photoshop",
+        "Core toolset focus"
+      ],
+      "description": "PHLEARN introduces the 30 Days of Photoshop Day 1 tour, emphasizing orientation to the interface, how tools and modules relate, and the plan to customize workspaces for efficiency."
+    },
+    {
+      "start": "00:04:22",
+      "end": "00:12:12",
+      "title": "New file creation and templates",
+      "concepts": [
+        "New File dialog",
+        "Template gallery",
+        "Print and flyer sizes",
+        "Importing a sample image"
+      ],
+      "description": "Demonstrates creating new documents with width, height, and resolution, using built-in templates (including print sizes and flyers), and importing a sample image for practice."
+    },
+    {
+      "start": "00:12:12",
+      "end": "00:31:24",
+      "title": "Workspace basics and customization",
+      "concepts": [
+        "Tool options bar",
+        "Contextual taskbar",
+        "Panels and modules",
+        "Built-in workspaces (Essentials, Motion, Painting, Photography, Graphic & Web)",
+        "Resetting and saving workspaces"
+      ],
+      "description": "Explains the interface’s left toolbar, top options, right-hand modules, and how to switch among built-in workspaces. Shows how to reposition and pin the contextual taskbar, then demonstrates creating and saving a custom workspace (Photo editing 2025) to streamline future sessions."
+    },
+    {
+      "start": "00:31:24",
+      "end": "00:38:23",
+      "title": "Photo editing workflow and preferences",
+      "concepts": [
+        "Non-destructive editing",
+        "Adjustment layers and layer masks",
+        "AI-assisted selections",
+        "Common tools overview and shortcuts",
+        "Preferences (save in background; history states)"
+      ],
+      "description": "Covers a practical editing workflow: selecting subjects, applying brightness/contrast through adjustment layers, using layer masks with Gaussian blur for edge feathering, exploring AI tools like Generative Crop and Select Subject, and configuring preferences to protect work with autosave and extended history."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gaussian blur applied to a layer mask to feather the edge",
+      "timestamp": "00:17:26",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Select Subject using the Object Selection Tool",
+      "timestamp": "00:19:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Generative Crop to expand canvas with AI fill",
+      "timestamp": "00:20:52",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Adjustment layer paired with a targeted selection for brightness/contrast",
+      "timestamp": "00:16:25",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Non-destructive editing workflow using adjustment layers and masks",
+      "timestamp": "00:34:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Eyedropper tool to sample color from a subject (shirt)",
+      "timestamp": "00:25:04",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Saving a custom workspace (Photo editing 2025)",
+      "timestamp": "00:30:44",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Two-finger trackpad gesture and spacebar technique for pan/zoom",
+      "timestamp": "00:23:42",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:03:59.845022+00:00"
+}

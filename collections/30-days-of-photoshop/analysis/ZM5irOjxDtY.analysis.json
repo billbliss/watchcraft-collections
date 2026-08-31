@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "ZM5irOjxDtY.youtube",
+  "title": "Photoshop: Non-destructive Scale, Rotate & Align with Smart Objects and Alignment Tools (Day 12)",
+  "date": {
+    "display": "September 12, 2025",
+    "iso": "2025-09-12",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This 30 Days of Photoshop tutorial demonstrates a non-destructive workflow for scaling, rotating, and aligning layers. It starts with placing a stock image into a background frame as a Smart Object, then explores transform options (center vs corner pivot, alt/option-centered scaling, width/height linking), and uses keyboard modifiers to skew, perspective, and rotate. The lesson then shows masking a frame and adding an inner shadow for depth, followed by extracting a signature from a JPEG, converting it to a Smart Object, and using color range and fills to shape the result. The core focus culminates in alignment techniques: aligning multiple layers and aligning within selections using Photoshop’s Move tool and alignment controls, including converting layer masks to selections for precise placement. All steps illustrate a non-destructive approach with easily toggled visibility and editable transforms.",
+  "topics": [
+    "Drag stock image from Finder into Photoshop to create a Smart Object",
+    "Smart Object benefits: preserve resolution when scaling (1% to 100%)",
+    "Transform basics: Ctrl/Cmd+T to scale/rotate",
+    "Center-based vs corner-based scaling and moving",
+    "Alt/Option key for center-origin scaling",
+    "Anchor point control and moving the transform center",
+    "Linking (chain icon) vs unlinking width/height during transform",
+    "Shift to temporarily unlink while transforming; relinking when done",
+    "Transform from a specific point using the top transform options",
+    "Ctrl/Cmd with corners to create various aspect ratios",
+    "Skew, Perspective, and combined transforms with Ctrl/Shift/Alt",
+    "Flipping and rotating with the transform controls and increments",
+    "Applying transforms with Enter or the check box (non-destructive workflow)",
+    "Masking: polygonal lasso tool to create a frame selection",
+    "Inner Shadow to simulate matting and depth",
+    "Extracting a signature from a JPEG using Color Range",
+    "Filling a selection with Foreground color",
+    "Converting a layer to a Smart Object for scalable editing",
+    "Creating a rectangle frame and matching color from the image",
+    "Alignment tools: aligning multiple layers (left/center/right, top/center/bottom)",
+    "Alignment within a selection using the Move tool",
+    "Converting a layer mask to a selection to drive alignment",
+    "Non-destructive editing: toggling visibility and transforms"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:35",
+      "title": "Intro and initial background replacement using a Smart Object",
+      "concepts": [
+        "Smart Object introduction",
+        "Dragging a stock image into Photoshop",
+        "Non-destructive scaling of Smart Objects",
+        "Background replacement within a frame"
+      ],
+      "description": "Introduces Day 12 goal and demonstrates placing a stock image as a Smart Object, then begins non-destructive scaling and transformation workflows to integrate a new image into the composition."
+    },
+    {
+      "start": "00:04:35",
+      "end": "00:07:16",
+      "title": "Transform basics: center vs corner, anchor point, and chain controls",
+      "concepts": [
+        "Transform from Center vs from Corner",
+        "Alt/Option pivot behavior",
+        "Top bar transform controls and the chain link for aspect ratio",
+        "Centering the transform origin and moving the object"
+      ],
+      "description": "Explains transforming with Ctrl/Cmd+T, scaling around the center or a chosen corner, and how to reposition while keeping or adjusting aspect ratio using the chain link and pivot options."
+    },
+    {
+      "start": "00:07:16",
+      "end": "00:11:32",
+      "title": "Advanced transform controls and applying transforms",
+      "concepts": [
+        "Skew and Perspective with additive modifiers",
+        "Real-time aspect ratios and corner-based transforms",
+        "Flipping and 90° rotations",
+        "Applying transforms with Enter or the check box"
+      ],
+      "description": "Covers more advanced transform commands, including skew and perspective via modifier combinations, rotation increments, and how to commit or revert a transformation."
+    },
+    {
+      "start": "00:11:32",
+      "end": "00:14:50",
+      "title": "Masking and matting: isolating a frame and adding depth",
+      "concepts": [
+        "Polygonal Lasso Tool for precise selection",
+        "Creating a layer mask from a selection",
+        "Inner Shadow to simulate a matting/frame"
+      ],
+      "description": "Demonstrates selecting a frame region, converting it into a layer mask, and applying an inner shadow to create a subtle frame depth around the image."
+    },
+    {
+      "start": "00:14:50",
+      "end": "00:16:59",
+      "title": "Preparing signature and frame for alignment",
+      "concepts": [
+        "Creating a new signature layer from a JPEG",
+        "Color sampling and foreground color assertion",
+        "Converting the signature to a Smart Object",
+        "Rectangle frame creation for alignment context"
+      ],
+      "description": "Shows extraction of a signature from a JPEG, coloring and filling, and converting to a Smart Object in preparation for alignment demonstrations."
+    },
+    {
+      "start": "00:16:59",
+      "end": "00:20:46",
+      "title": "Alignment across layers and selections",
+      "concepts": [
+        "Using multiple layers with Shift-click to select",
+        "Move tool alignment options (left/center/right, top/center/bottom)",
+        "Centering within a frame or relative to a larger object",
+        "Aligning within a selection by converting a layer mask to a selection",
+        "Non-destructive alignment and toggling visibility"
+      ],
+      "description": "Demonstrates both layer-to-layer alignment and alignment within a selection, including converting a layer mask to a selection and using the alignment tools to achieve precise positioning all while preserving the original layers."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Smart Object scaling preserves original resolution during dramatic size changes (1% to 100%)",
+      "timestamp": "00:02:01",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Pivot-based scaling: center-origin vs designated anchor point (Alt/Option) during transform",
+      "timestamp": "00:02:54",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Skew, Perspective, and combined transforms via Ctrl/Shift/Alt modifiers",
+      "timestamp": "00:05:26",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Layer masking: convert a selection to a layer mask to fit content into a frame",
+      "timestamp": "00:08:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Inner Shadow to create a realistic matting effect around a frame",
+      "timestamp": "00:10:39",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Global alignment across multiple layers using Move tool alignment controls",
+      "timestamp": "00:16:39",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Converting a layer mask to a selection to drive alignment within a frame",
+      "timestamp": "00:19:28",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:18:04.538353+00:00"
+}

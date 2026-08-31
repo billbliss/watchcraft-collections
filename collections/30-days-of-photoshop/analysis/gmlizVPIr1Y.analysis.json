@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "video": "gmlizVPIr1Y.youtube",
+  "title": "Color Match in Photoshop - Day 25",
+  "date": {
+    "display": "September 25, 2025",
+    "iso": "2025-09-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this PHLEARN Day 25 tutorial, Aaron Nace demonstrates practical methods for color-matching colors from one photo to another in Photoshop. After acknowledging that automatic tools like Match Color and Neural Filters Color Transfer exist, he shows why they can fall short and then teaches a manual, non-destructive workflow centered on a Levels adjustment layer on a smart object. The method includes side-by-side comparison, sampling highlights and shadows with the Eyedropper, and adjusting individual RGB color channels to reproduce the color relationships between images. The video emphasizes iterative tweaking, color theory relationships (opposites for red/cyan, green/magenta, blue/yellow), and straightforward export options for delivering the final result.",
+  "topics": [
+    "Photoshop",
+    "Color matching",
+    "Match Color tool",
+    "Image > Adjustments",
+    "Neural Filters",
+    "Color Transfer",
+    "Smart Objects",
+    "Convert for Smart Filters",
+    "Levels adjustment layer",
+    "Eyedropper tool",
+    "RGB color channels",
+    "Red vs Cyan",
+    "Green vs Magenta",
+    "Blue vs Yellow",
+    "Shadow and highlight adjustments",
+    "Side-by-side image comparison",
+    "Crop tool",
+    "Move tool",
+    "Export as JPEG",
+    "PSD export",
+    "Free PSD download"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:02",
+      "title": "Intro and Setup",
+      "concepts": [
+        "Goal: color-match colors from one photo to another",
+        "Workflow overview: simple, practical methods",
+        "Image import: dragging multiple images into Photoshop"
+      ],
+      "description": "Aaron introduces the Day 25 lesson, outlining the goal of analyzing colors from a source image and applying them to a target image. He notes that free download images are provided for follow-along and mentions that the session will start with simple demonstrations and move toward controlled, non-destructive edits."
+    },
+    {
+      "start": "00:01:02",
+      "end": "00:02:34",
+      "title": "Automatic Color Matching Tools (Match Color and Neural Filters)",
+      "concepts": [
+        "Match Color: source selection (O2, O1)",
+        "Adjustments: luminance, color intensity, fade",
+        "Limitations: background layer impact and imperfect results",
+        "Neural Filters: Color Transfer with custom source image"
+      ],
+      "description": "The workflow walks through Image > Adjustments > Match Color, selecting a source image (Match Color O2), and tweaking sliders to influence luminance, color intensity, and fade. Aaron also demonstrates Neural Filters > Color Transfer, using a custom source image and outputting to a new layer, and notes that these automated methods do not always yield the desired result compared with a manual approach."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:13:00",
+      "title": "Manual Color Matching with Levels and Smart Objects",
+      "concepts": [
+        "Convert layer to Smart Object for non-destructive edits",
+        "Levels adjustment as the core tool",
+        "Viewing both images side-by-side for comparison",
+        "Eyedropper sampling to analyze highlights and shadows",
+        "Understanding color relationships and channel-specific adjustments"
+      ],
+      "description": "The tutorial shifts to a manual strategy: turn the target layer into a Smart Object (Filter > Convert for Smart Filters) so Level adjustments stay non-destructive, then apply a Levels adjustment. Aaron emphasizes viewing the two images side-by-side, using the Eyedropper to sample highlight and shadow colors, and analyzing color temperature and relationships to guide adjustments. He explains the color-opposite pairs (red/cyan, green/magenta, blue/yellow) and demonstrates sampling and analyzing both the highlights and shadows to inform subsequent channel adjustments."
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:15:20",
+      "title": "Final Adjustments, Comparison, and Export",
+      "concepts": [
+        "Fine-tuning with RGB channel adjustments",
+        "Adjusting central, shadow, and highlight sliders for balance",
+        "Turn the Levels layer on/off to compare before/after",
+        "Compare manual result with automated Match Color output",
+        "Export options: PSD, and exporting a single layer as JPEG"
+      ],
+      "description": "Aaron demonstrates a sequence of refinements in the RGB channels, adjusting shadows, midtones, and highlights to push the manual result toward the target color palette. He reiterates the benefit of non-destructive editing via Smart Objects and Levels, compares the manual outcome to the automated Match Color result, and shows how to export either the entire document as PSD or just the single color-matched layer as a JPEG for sharing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual color matching using a Levels adjustment layer on a Smart Object",
+      "timestamp": "00:02:34",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color channel-based adjustments (RGB channels) to tweak color balance",
+      "timestamp": "00:08:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Side-by-side analysis and sampling with Eyedropper to guide color decisions",
+      "timestamp": "00:03:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exporting a single layer as JPEG while keeping the document as PSD",
+      "timestamp": "00:14:24",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:57:17.803439+00:00"
+}

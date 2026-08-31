@@ -1,0 +1,272 @@
+{
+  "schema_version": 2,
+  "video": "UUAAj9-Lu0A.youtube",
+  "title": "Layer Masks in Photoshop - Day 6",
+  "date": {
+    "display": "September 6, 2025",
+    "iso": "2025-09-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 6 tutorial demonstrates practical layer-mask techniques for creating a composite in Photoshop. The presenter guides viewers through isolating a subject with a mask, layering background elements (mountains and clouds), using AI Generative Fill to extend the background, and blending the pieces with mask-based adjustments. The video covers refining edges with Select and Mask (including Refine Edge and decontamination of color), adjusting mask density and feathering, unlinking and relinking layer and mask for independent movement, and applying lens blur via Camera Raw on a grouped background. It finishes with adjustment-layer masking (brightness/contrast and gradient maps) to achieve a cohesive, non-destructive final composite, and emphasizes saving as PSD to preserve masks.",
+  "topics": [
+    "Layer masks basics: white reveals and black hides",
+    "Select Subject tool to quickly select the main subject",
+    "Create a layer mask from a selection",
+    "Mask viewing modes and Alt/Option view for masks",
+    "Mask density and feathering adjustments",
+    "Select and Mask workflow for edge refinement",
+    "Refine Edge brush for hair/fur detail",
+    "Decontaminate Colors in mask refinements",
+    "AI Generative Fill to extend background",
+    "Merging layers (Ctrl/Cmd E) for a consolidated background",
+    "Unlinking and relinking layer and mask for independent movement",
+    "Blending clouds with a sky mask and Screen blend mode",
+    "Lens Blur via Camera Raw Filter on a Smart Object background",
+    "Smart Object workflow for background editing",
+    "Gradient masking for vignette with brightness/contrast adjustments",
+    "Gradient Map adjustment for color cohesion",
+    "Non-destructive editing: masks preserved when saving and re-opening PSD",
+    "Mask usage on adjustment layers and color grading workflows"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:04",
+      "title": "Intro and Project Setup",
+      "concepts": [
+        "Layer masks overview: hide/show parts of a layer",
+        "Import subject and background assets into Photoshop",
+        "Plan the composite workflow"
+      ],
+      "description": "PHLEARN Day 6 introduces layer masks and outlines the composite project: cut the subject from its background and assemble mountains and clouds to build the scene."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:01:52",
+      "title": "Initial Masking: Subject from Background",
+      "concepts": [
+        "Select Subject tool",
+        "Load selection into layer mask",
+        "Mask reveals background through the subject"
+      ],
+      "description": "Demonstrates selecting the subject and converting the selection into a mask to start isolating the subject from the background."
+    },
+    {
+      "start": "00:01:52",
+      "end": "00:02:16",
+      "title": "Arranging Background Elements",
+      "concepts": [
+        "Position background layers",
+        "Basic composition adjustments",
+        "Previewing through the mask to see underlying elements"
+      ],
+      "description": "Shows moving the mountains and clouds into place so the masked subject reveals the intended background."
+    },
+    {
+      "start": "00:02:16",
+      "end": "00:03:03",
+      "title": "Background Extension with Generative Fill and Merging",
+      "concepts": [
+        "AI Generative Fill to extend the sky",
+        "Merging layers to consolidate background elements",
+        "Working with multiple background layers"
+      ],
+      "description": "Extends the sky using Generative Fill and merges related background layers to create a larger, coherent backdrop."
+    },
+    {
+      "start": "00:03:03",
+      "end": "00:04:08",
+      "title": "Masking the Sky and Blending Clouds",
+      "concepts": [
+        "Select Sky for masking clouds",
+        "Apply layer mask to clouds",
+        "Screen blend mode for better sky/cloud integration"
+      ],
+      "description": "Isolates the sky area on clouds and blends the clouds with the sky using a Screen blend for seamless composition."
+    },
+    {
+      "start": "00:04:08",
+      "end": "00:04:56",
+      "title": "Mask Viewing Modes and Basic Mask Tools",
+      "concepts": [
+        "Mask viewing modes (layers, overlay)",
+        "Alt/Option view for masks",
+        "Mask density and feathering adjustments"
+      ],
+      "description": "Introduces how to view and inspect masks and adjust basic mask properties to assess edge quality."
+    },
+    {
+      "start": "00:04:56",
+      "end": "00:06:58",
+      "title": "Edge Refinement with Select and Mask",
+      "concepts": [
+        "Select and Mask refinements",
+        "Feathering and edge adjustments",
+        "Refine Edge brush and decontaminate colors"
+      ],
+      "description": "Guides using Select and Mask to soften edges, refine difficult boundaries (hair/fur), and reduce color spill for realism."
+    },
+    {
+      "start": "00:06:58",
+      "end": "00:10:02",
+      "title": "Layer-Mask Relationship and Independent Movement",
+      "concepts": [
+        "Default layer+mask linkage",
+        "Unlinking to move layer vs. mask independently",
+        "Relinking for unified editing"
+      ],
+      "description": "Explains how a layer and its mask move together by default and how to unlink/relink them to reposition elements independently."
+    },
+    {
+      "start": "00:10:02",
+      "end": "00:12:50",
+      "title": "Lens Blur on Background via Camera Raw",
+      "concepts": [
+        "Convert background to Smart Object",
+        "Camera Raw Filter > Lens Blur",
+        "Visualize Depth and painting blur regions"
+      ],
+      "description": "Applies lens blur to the background via Camera Raw on a smart object to create realistic depth behind the subject."
+    },
+    {
+      "start": "00:12:50",
+      "end": "00:13:08",
+      "title": "Smart Object Grouping for Unified Blur",
+      "concepts": [
+        "Grouping clouds and mountains into a single Smart Object",
+        "Consistent blur across background elements",
+        "Maintaining non-destructive edits"
+      ],
+      "description": "Groups background elements into one smart object so the blur applies uniformly, keeping edits non-destructive."
+    },
+    {
+      "start": "00:13:08",
+      "end": "00:15:22",
+      "title": "Adjustment-Layer Masking: Vignette Techniques",
+      "concepts": [
+        "Using a mask on an adjustment layer",
+        "Gradient tool for vignette",
+        "Center-focused light control"
+      ],
+      "description": "Shows applying a vignette by masking a brightness/contrast adjustment layer and using a radial gradient on the mask."
+    },
+    {
+      "start": "00:15:22",
+      "end": "00:16:53",
+      "title": "Gradient Map for Color Cohesion",
+      "concepts": [
+        "Gradient Map adjustment layer",
+        "Low opacity to blend colors",
+        "Reverse gradient option"
+      ],
+      "description": "Introduces a subtle gradient map to unify color tonality across the composite with controlled opacity."
+    },
+    {
+      "start": "00:16:53",
+      "end": "00:18:11",
+      "title": "Non-Destructive Workflow and PSD Saving",
+      "concepts": [
+        "Non-destructive masking workflow",
+        "Saving as PSD to preserve masks",
+        "Reopening and verifying masks are intact"
+      ],
+      "description": "Emphasizes non-destructive editing practices and confirms masks survive closing and re-opening the file."
+    },
+    {
+      "start": "00:18:11",
+      "end": "00:18:32",
+      "title": "Wrap-Up and Next Topic Preview",
+      "concepts": [
+        "Recap of masking techniques",
+        "Preview: curves vs levels for next video"
+      ],
+      "description": "Concludes the day's masking techniques and teases the upcoming topic on curves versus levels."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Layer masks basics: white reveals and black hides; Alt/Option view of mask",
+      "timestamp": "00:05:06",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Select Subject to create an initial mask on the subject layer",
+      "timestamp": "00:01:22",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Load selection into a layer mask to cut subject from background",
+      "timestamp": "00:01:46",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Mask the sky and clouds: Select Sky, then load into a layer mask on clouds; blend via Screen",
+      "timestamp": "00:03:54",
+      "confidence": 0.9
+    },
+    {
+      "technique": "AI Generative Fill to extend the background (increase sky area)",
+      "timestamp": "00:02:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Merge layers (Ctrl/Cmd E) to consolidate background elements",
+      "timestamp": "00:02:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Refine edge with Refine Edge brush in Select and Mask; improve feathering",
+      "timestamp": "00:07:57",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Decontaminate colors in Select and Mask to reduce color spill and unify tones",
+      "timestamp": "00:08:29",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Lens Blur via Camera Raw Filter on a Smart Object background for realistic depth",
+      "timestamp": "00:11:32",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Visualize Depth toggle and painting blur regions in Lens Blur",
+      "timestamp": "00:12:06",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Unlinking/movement of layer and mask for independent repositioning",
+      "timestamp": "00:09:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gradient masking for vignette using a radial gradient on the adjustment-layer mask",
+      "timestamp": "00:14:35",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gradient Map adjustment for global color cohesion (low opacity 10-20%)",
+      "timestamp": "00:16:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Non-destructive workflow: saving as PSD and reopening to verify masks are intact",
+      "timestamp": "00:17:53",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Smart Object workflow for background group: enables global blur and edits while keeping edits non-destructive",
+      "timestamp": "00:11:02",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:12:25.537195+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-31T07:13:00.751446+00:00"
+}

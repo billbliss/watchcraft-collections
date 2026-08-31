@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "qPrDFI8SZLE.youtube",
+  "title": "Liquify Tool in Photoshop: Non-destructive clean-up of clothing edges (Day 15 of 30 Days of Photoshop)",
+  "date": {
+    "display": "September 15, 2025",
+    "iso": "2025-09-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this PHLEARN tutorial, Aaron Nace demonstrates a practical, non-destructive workflow for using Photoshop's Liquify tool to clean and tighten lines on fashion imagery. The lesson starts with converting the layer to a Smart Object to enable non-destructive edits, then walks through the Forward Warp tool for shaping clothing, the Reconstruct brush as a controlled undo, and the more specialized tools (Pucker, Bloat, Pluck/Blow). A Freeze Mask is introduced to restrict edits, and the session concludes with a strong emphasis on using Generative Fill to remove wrinkles and refine texture, followed by a before/after comparison and guidance on applying these techniques to fashion shoots.",
+  "topics": [
+    "Liquify filter basics",
+    "Convert for Smart Filters (non-destructive workflow)",
+    "Filter > Liquify",
+    "Forward Warp Tool",
+    "Brush size, pressure, and density controls",
+    "Reconstruct Tool (global undo) and usage",
+    "Pucker Tool",
+    "Bloat Tool",
+    "Pluck, Blow, and related liquify tools (less frequently used)",
+    "Freeze Mask",
+    "Erase Freeze Mask",
+    "Generative Fill for wrinkle removal",
+    "Contextual Taskbar and Generate action",
+    "Before/after comparison using Smart Objects",
+    "Clothing edge refinement in fashion imagery",
+    "Background distortion awareness during liquify edits"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:21",
+      "title": "Introduction and Smart Object Preparation",
+      "concepts": [
+        "Liquify tool overview",
+        "Non-destructive workflow with Smart Objects",
+        "Goals: clean lines on clothing"
+      ],
+      "description": "Introduction to the day’s focus on liquify for fashion edits. Aaron outlines non-destructive editing by converting the layer to a Smart Object (Filter > Convert for Smart Filters) and previews the goal: cleaner lines on clothing to improve the overall image."
+    },
+    {
+      "start": "00:01:21",
+      "end": "00:03:41",
+      "title": "Forward Warp Tool: Basic Use and Controls",
+      "concepts": [
+        "Forward Warp Tool",
+        "Brush size, pressure, density",
+        "Zoom and practice on clothing edges"
+      ],
+      "description": "Explains how to access the Liquify filter and demonstrates the Forward Warp tool: clicking and dragging to push/pull areas, using brush size adjustments with [ and ], and leveraging non-destructive edits by zooming in and testing changes while preserving background integrity."
+    },
+    {
+      "start": "00:03:41",
+      "end": "00:04:58",
+      "title": "Reconstruct Tool: Undo-like Refinement",
+      "concepts": [
+        "Reconstruct tool",
+        "Brush-based undo",
+        "Applying edits to pockets and seams"
+      ],
+      "description": "Introduces the Reconstruct tool as an on-screen brush-based undo, enabling restoration to a prior state if changes go too far. Demonstrates refining pockets and edges while noting background interaction and the goal of minimizing unintended background shifts."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:06:59",
+      "title": "Additional Liquify Tools and Practical Guidance",
+      "concepts": [
+        "Pucker tool",
+        "Bloat tool",
+        "Pluck/Blow/ Pucker family",
+        "Preference for Forward Warp in many cases"
+      ],
+      "description": "Reviews other liquify options (pucker, bloat, and related tools) and discusses practical usage. Emphasizes that while these tools exist, the Forward Warp tool often provides more reliable control for clothing edits and line clean-up."
+    },
+    {
+      "start": "00:07:08",
+      "end": "00:08:52",
+      "title": "Freeze Mask and Reconstruct Emphasis",
+      "concepts": [
+        "Freeze Mask",
+        "Masking areas to avoid affecting them",
+        "Reconstruct with a suggested 74% setting",
+        "Non-destructive toggling of Smart Object"
+      ],
+      "description": "Shows how to paint a Freeze Mask to protect specific areas, then uses Reconstruct again with a suggested 74% amount to balance edits. Emphasizes keeping edits non-destructive by testing the Smart Object on/off for comparison."
+    },
+    {
+      "start": "00:08:52",
+      "end": "00:10:24",
+      "title": "Generative Fill: Wrinkle Removal and Refinement",
+      "concepts": [
+        "Generative Fill in Liquify",
+        "Contextual Taskbar and Generate",
+        "Before/after comparison of clothing edges"
+      ],
+      "description": "Highlights the AI-assisted wrinkle removal workflow: paint over wrinkles with the selection brush, then use Generative Fill to remove them. Demonstrates how the result improves exterior lines and interiors, followed by a before/after comparison to illustrate impact."
+    },
+    {
+      "start": "00:10:24",
+      "end": "00:11:15",
+      "title": "Takeaways and Series Teaser",
+      "concepts": [
+        "Fashion/clothing retouching applications",
+        "Non-destructive comparisons",
+        "Next video teaser: Smart Objects"
+      ],
+      "description": "Concludes with practical takeaways for fashion imagery, reiterating the power of liquify for cleaning exterior lines and edges. Ends with a teaser for the next day in the series, focusing on Smart Objects."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Convert layer to Smart Object and apply Liquify as a Smart Filter",
+      "timestamp": "00:01:15",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Forward Warp Tool (brush size, pressure, density adjustments)",
+      "timestamp": "00:01:35",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Reconstruct Tool for controlled undo within Liquify",
+      "timestamp": "00:03:41",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Pucker and Bloat tools (less frequently used) in Liquify",
+      "timestamp": "00:05:23",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Freeze Mask to protect areas during Liquify edits",
+      "timestamp": "00:07:11",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Generative Fill for wrinkle removal and texture wrapping",
+      "timestamp": "00:10:01",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Selective refinement using Reconstruct with a 74% amount",
+      "timestamp": "00:08:15",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:11:21.464949+00:00"
+}

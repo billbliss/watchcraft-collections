@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "Ot-092VAsxU.youtube",
+  "title": "Track Lighting Installation: Two-Circuit Track with App-Controlled Heads",
+  "date": {
+    "display": "April 17, 2016",
+    "iso": "2016-04-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The video demonstrates installing a linear track lighting system powered from an existing outlet, using a two-circuit track that allows independent control of light heads. The host covers wiring power to the track, concealing wiring with surface raceway and back clips, routing around corners with Flex conduit, and mounting the track to a ceiling beam with screws. It also shows dimming the heads and explains how the two circuits can be controlled either by a separate switch or via a mobile app, with the later segment highlighting Bluetooth-enabled fixtures that enable lighting control and music playback from a phone. Throughout, the steps emphasize practical wiring, mounting hardware, and the interaction between physical controls and app-based features.",
+  "topics": [
+    "linear track lighting",
+    "two-circuit track",
+    "hot and neutral wiring",
+    "power feed from outlet",
+    "surface raceway wiring",
+    "back clips for raceway",
+    "anti-short bushings",
+    "Flex conduit around corners",
+    "wire concealment on brick and ceiling",
+    "track head installation",
+    "beam mounting",
+    "screw mounting",
+    "dimmer control",
+    "two-circuit head separation",
+    "pull chain option",
+    "app-controlled lighting",
+    "Bluetooth-enabled fixtures",
+    "phone-based dimming",
+    "music playback via lighting system"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:01",
+      "title": "Track basics and power delivery",
+      "concepts": [
+        "linear track",
+        "hot and neutral",
+        "two-circuit track"
+      ],
+      "description": "Introduction to the linear track and how power is fed from one end to supply hot and neutral along the length of the track; explanation that each light fixture requires hot and neutral and that a two-circuit track can split control across heads."
+    },
+    {
+      "start": "00:01:18",
+      "end": "00:01:28",
+      "title": "Wiring concealment with surface raceway",
+      "concepts": [
+        "Surface Raceway",
+        "back clips",
+        "wire concealment"
+      ],
+      "description": "Switching to conceal the wire, using surface raceway with special back clips to attach to brick and ceiling, enabling neat routing of wiring."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:02:29",
+      "title": "Power connection to track",
+      "concepts": [
+        "outlet tapping",
+        "neutral",
+        "hot",
+        "ground",
+        "connector"
+      ],
+      "description": "Power is wired to the track from the circuit, detailing neutral, hot, and ground connections and how a raceway connector fits into the track."
+    },
+    {
+      "start": "00:03:01",
+      "end": "00:03:31",
+      "title": "Mounting the track on a beam",
+      "concepts": [
+        "beam mounting",
+        "centered alignment",
+        "screws"
+      ],
+      "description": "Positioning the track on a beam, centering it, and securing sections with screws."
+    },
+    {
+      "start": "00:03:43",
+      "end": "00:04:14",
+      "title": "Power up, dimming, and two-circuit behavior",
+      "concepts": [
+        "dimmer",
+        "two-circuit control"
+      ],
+      "description": "Power is restored; the track includes a dimmer control. The two-circuit system allows one set of heads to be on one circuit while another set is controlled separately."
+    },
+    {
+      "start": "00:04:03",
+      "end": "00:04:39",
+      "title": "App-controlled lighting and Bluetooth features",
+      "concepts": [
+        "app control",
+        "Bluetooth",
+        "music playback"
+      ],
+      "description": "The fixtures support app-based control to turn lights on and dim them. The system also announces built-in Bluetooth functionality for music playback and phone control, highlighting a degree of smart-home integration."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Two-circuit track with independent head control",
+      "timestamp": "00:00:39",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Concealing wiring using surface raceway and back clips",
+      "timestamp": "00:01:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "App- and Bluetooth-enabled track lighting with dimming",
+      "timestamp": "00:04:09",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Integration of track lighting with built-in speaker and music control",
+      "timestamp": "00:04:21",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:26:49.531905+00:00"
+}

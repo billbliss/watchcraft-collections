@@ -1,0 +1,206 @@
+{
+  "schema_version": 2,
+  "video": "Y8mn2bXH4ps.youtube",
+  "title": "Crop, Straighten, and AI-Expand in Photoshop (Day 13) — Composition via Crop Tool",
+  "date": {
+    "display": "September 13, 2025",
+    "iso": "2025-09-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In Day 13 of PHLEARN’s 30 Days of Photoshop, the instructor demonstrates how to crop and straighten an image and then expand the canvas using AI to improve composition. The lesson emphasizes starting with a crooked horizon, choosing and adjusting crop ratios (including square 1:1 and film-like sizes), and using overlays such as rule of thirds and golden spiral to plan placement of subjects. The video contrasts manual straightening via the horizon-drag/rotate approach with the built-in Straighten tool, and shows how to toggle crop shield opacity and reset fixed ratios with the Clear button. A major focus is the Generative Expand AI fill, which can extend the image beyond its original bounds and generate variations in real time to create a more balanced composition. The instructor demonstrates reapplying overlays after AI expansion and iterating between square and other aspect ratios to achieve a final, more intentional crop with improved space around the subjects, guided by compositional rules (rule of thirds, golden spiral) but ultimately flexible to user intent.",
+  "topics": [
+    "Crop Tool basics (C key)",
+    "Aspect ratio presets (1:1 square)",
+    "Non-destructive cropping with Fixed Ratios",
+    "Clear button to reset crop constraints",
+    "Crop Shield opacity and visibility",
+    "Repositioning the crop area by dragging the center",
+    "Overlay: Rule of Thirds",
+    "Overlays: Golden Spiral composition tool",
+    "Overlay utility vs. necessity in composition",
+    "Horizon straightening via Curved Arrow (straighten) in crop",
+    "Straighten tool: click-and-drag horizon to align",
+    "Auto-straighten effect upon release",
+    "Freeform crop vs. constrained ratio",
+    "Switching to other aspect ratios (e.g., 16:9) for film look",
+    "Golden Spiral overlay adjustments to guide eye",
+    "AI-based Generative Expand for expanding canvas",
+    "Generative Expand vs. Transparent fill options",
+    "Generating AI-filled variations and selecting preferred result",
+    "Iterative refinement: reusing AI-expanded content with overlays",
+    "Final composition concepts: rule of thirds, balance, space around subjects",
+    "Comparing original vs AI-expanded crops to assess composition improvements"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:16",
+      "title": "Intro: Cropping, straightening, and expanding for better composition",
+      "concepts": [
+        "Crop tool",
+        "Straighten",
+        "Expand with AI"
+      ],
+      "description": "Introduction to the day’s objectives: improve composition by cropping, straightening the horizon, and expanding the image with AI."
+    },
+    {
+      "start": "00:00:16",
+      "end": "00:01:55",
+      "title": "Crop tool basics and ratio options",
+      "concepts": [
+        "Crop tool selection (C)",
+        "Aspect ratio presets",
+        "Contextual taskbar and ratios"
+      ],
+      "description": "Selecting the crop tool, exploring the ratio options, and using the contextual taskbar to choose sizes (including 1:1 square) and reposition the crop."
+    },
+    {
+      "start": "00:01:55",
+      "end": "00:02:46",
+      "title": "Crop shield and freeform adjustments",
+      "concepts": [
+        "Crop Shield opacity",
+        "Center the crop",
+        "Clear to freeform crop"
+      ],
+      "description": "Adjusting crop shield opacity to preview; using Clear to remove a fixed ratio so the crop can be resized freely."
+    },
+    {
+      "start": "00:02:46",
+      "end": "00:03:44",
+      "title": "Overlay guide: Rule of thirds",
+      "concepts": [
+        "Rule of Thirds overlay",
+        "Horizon alignment with thirds"
+      ],
+      "description": "Activating and interpreting the rule of thirds overlay to position the horizon and subjects for stronger composition."
+    },
+    {
+      "start": "00:03:44",
+      "end": "00:04:13",
+      "title": "Horizon straightening via crop rotate",
+      "concepts": [
+        "Curved-arrow straighten control",
+        "Rotation within crop"
+      ],
+      "description": "Using the outside edge curved arrow to straighten the horizon within the crop while previewing the result."
+    },
+    {
+      "start": "00:04:11",
+      "end": "00:04:41",
+      "title": "Alternative straightening: Straighten tool",
+      "concepts": [
+        "Straighten tool",
+        "Drag on horizon",
+        "Auto-straighten on release"
+      ],
+      "description": "Demonstrating the dedicated Straighten tool to click and drag across the horizon, producing an automatic straightened image when released."
+    },
+    {
+      "start": "00:04:41",
+      "end": "00:05:29",
+      "title": "Free-cropping with composition planning",
+      "concepts": [
+        "Rule of thirds application",
+        "16x9 and square options"
+      ],
+      "description": "Continuing crop with ratio-free control, applying rule of thirds or switching to other ratios (like 16x9) to plan composition while preserving subject placement."
+    },
+    {
+      "start": "00:05:29",
+      "end": "00:06:30",
+      "title": "Overlay tools: Golden Spiral for composition",
+      "concepts": [
+        "Golden Spiral overlay",
+        "Visual flow and balance"
+      ],
+      "description": "Introducing the golden spiral overlay as an alternative compositional aid to guide the viewer’s eye through the image."
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:12",
+      "title": "AI-augmented cropping: Generative Expand (intro)",
+      "concepts": [
+        "Generative Expand",
+        "Fill options: Generative Expand vs Transparent"
+      ],
+      "description": "Shifting focus to AI-assisted expansion; selecting Generative Expand to fill newly created canvas areas during the crop workflow."
+    },
+    {
+      "start": "00:08:12",
+      "end": "00:09:53",
+      "title": "AI expansion in action: generating variations",
+      "concepts": [
+        "Generate button",
+        "AI-filled variations",
+        "Real-time expansion"
+      ],
+      "description": "Generating AI-filled variations as the crop expands, observing multiple options and choosing a preferred variation."
+    },
+    {
+      "start": "00:09:53",
+      "end": "00:11:12",
+      "title": "Refining composition with AI and overlays",
+      "concepts": [
+        "Revisiting overlays",
+        "Rule of thirds after AI",
+        "Space around subjects"
+      ],
+      "description": "Reapplying overlays (rule of thirds, golden spiral) after AI expansion to refine placement and balance; iterating until satisfied with space around subjects."
+    },
+    {
+      "start": "00:11:12",
+      "end": "00:12:09",
+      "title": "Summary and next steps",
+      "concepts": [
+        "Final comparison",
+        "AI-assisted crop outcomes",
+        "teaser for next video"
+      ],
+      "description": "Recap of the before-and-after results, encouragement to experiment with overlays and AI expansion, and a teaser for the next day’s topic."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Crop tool: aspect ratio presets and freeform resizing",
+      "timestamp": "00:01:25",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Crop Shield opacity control",
+      "timestamp": "00:02:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rule of Thirds overlay usage",
+      "timestamp": "00:02:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Straighten tool: horizon alignment within crop",
+      "timestamp": "00:04:15",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Generative Expand: AI-based expansion of canvas",
+      "timestamp": "00:08:11",
+      "confidence": 0.9
+    },
+    {
+      "technique": "AI-generated fill variations within expansion",
+      "timestamp": "00:09:03",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Golden Spiral overlay for composition flow",
+      "timestamp": "00:06:06",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:14:50.981803+00:00"
+}

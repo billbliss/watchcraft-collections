@@ -1,0 +1,397 @@
+{
+  "schema_version": 2,
+  "video": "Til_xsAkc7g.youtube",
+  "title": "Master Creative Tools - Photoshop for Beginners | Lesson 3",
+  "date": {
+    "display": "April 28, 2026",
+    "iso": "2026-04-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PiXimperfect lesson introduces core Photoshop creative tools for beginners through hands‑on brushing, coloring, and non‑destructive editing techniques. The video demonstrates painting with the brush on different blend modes (notably Difference) to reveal interaction with underlying colors, switching between foreground and background colors, and using new layers to keep edits non‑destructive. It covers essential brush fundamentals (tip shapes, opacity vs flow, and smoothing), practical shortcuts ( Bracket keys for size; tilde for erasing while painting; keyboard shortcuts for tools), and the Rotate View/Sticky Shortcuts workflow that accelerates tool switching. The session also dives into removal and healing workflows (Remove Tool, Patch Tool, Content‑Aware Fill) with both manual and AI‑assisted options, and culminates with advanced selection techniques (Lasso, Select Subject, Object Selection with cloud vs device processing) and quick background removal via masks and adjustment layers. The overall message encourages experimentation and non‑destructive practice using practice files or personal images.",
+  "topics": [
+    "Brush tool basics",
+    "Soft Round Brush",
+    "Hard Round Brush",
+    "Foreground color",
+    "Background color",
+    "Color picker",
+    "Blend modes: Normal vs Difference",
+    "Non-destructive painting on new layers",
+    "Layer management and creation",
+    "X key to swap foreground/background colors",
+    "TilDE erasing (tilde ~ key)",
+    "Eraser tool (E) shortcut",
+    "Brush opacity vs flow",
+    "Flow as dynamic sketch-like intensity",
+    "Brush smoothing",
+    "Shift trick for straight lines",
+    "Rotate View Tool (R) as a sticky shortcut",
+    "Sticky shortcuts for tool switching (R, L, J, etc.)",
+    "Sampling from all layers",
+    "Opacity/flow vs brush interaction on layers",
+    "Remove Tool basics",
+    "Find distractions (People, Wires) in Remove Tool",
+    "Generative AI options in Remove Tool",
+    "Patch Tool (Source vs Destination)",
+    "Content-Aware Fill",
+    "Select Subject / Object Selection Tool",
+    "Object Finder and cloud vs device processing",
+    "Adjustment layers for targeted selections",
+    "Generative Fill (Firefly) and upscaling in properties",
+    "Non-destructive duplication (Ctrl/Cmd J)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:18",
+      "title": "Pattern Trick with Brush",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:02:18",
+      "end": "00:05:17",
+      "title": "Brush Tool - Basics",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:05:17",
+      "end": "00:08:25",
+      "title": "Brush Tool - The Tilde Key",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:08:25",
+      "end": "00:10:43",
+      "title": "Brush Tool - Default Brushes and Recovery",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:10:43",
+      "end": "00:15:11",
+      "title": "Brush Tool - Opacity and Flow",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:15:11",
+      "end": "00:17:59",
+      "title": "Brush Tool - Shift Trick and Straight Lines",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:17:59",
+      "end": "00:19:56",
+      "title": "Brush Tool - Smoothing",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:19:56",
+      "end": "00:22:28",
+      "title": "Brush Tool - Size and Hardness Shortcuts",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:22:28",
+      "end": "00:24:35",
+      "title": "Sticky Tool Shortcuts",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:24:35",
+      "end": "00:25:51",
+      "title": "Cycle Between Similar Tools",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:25:51",
+      "end": "00:27:51",
+      "title": "Remove Tool - Basics",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:27:51",
+      "end": "00:28:43",
+      "title": "Remove Tool - Layer Your Edits",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:28:43",
+      "end": "00:31:01",
+      "title": "Remove Tool - Find Distractions",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:31:01",
+      "end": "00:33:01",
+      "title": "Remove Tool - Generative AI",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:33:01",
+      "end": "00:35:45",
+      "title": "Patch Tool - Basics",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:35:45",
+      "end": "00:36:55",
+      "title": "Patch Tool - vs. Remove Tool",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:36:55",
+      "end": "00:37:18",
+      "title": "What is a Selection?",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:37:18",
+      "end": "00:44:29",
+      "title": "Manual Selection - Lasso Tool",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:44:29",
+      "end": "00:48:22",
+      "title": "Automatic Selection - Object Selection Tool",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:48:22",
+      "end": "00:51:52",
+      "title": "Select Subject",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    },
+    {
+      "start": "00:51:52",
+      "end": "00:52:51",
+      "title": "Conclusion",
+      "concepts": [
+        "Brush tool introduction",
+        "Difference blend mode behavior",
+        "Foreground color vs. background color",
+        "Color picker and foreground color assignment",
+        "Brush tip shape selection (Soft Round)"
+      ],
+      "description": "Introduces the brush tool, demonstrates how the Difference blend mode interacts with underlying colors, and explains foreground/background color handling and the color picker. It also covers selecting and applying a soft round brush and the effect of brush color on the canvas."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Live brush interaction with Difference blend mode to reveal how strokes interact with underlying colors",
+      "timestamp": "00:07:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Non-destructive painting on new layers to maintain edit flexibility",
+      "timestamp": "04:58",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Til тел de erasing while painting using the tilde key",
+      "timestamp": "05:44",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rotate View Tool used as a sticky shortcut by holding R with brush selected",
+      "timestamp": "23:18",
+      "confidence": 0.74
+    },
+    {
+      "technique": "Sticky shortcuts to switch between closely related tools (e.g., Remove, Healing, Patch) with J and Shift",
+      "timestamp": "34:10",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Remove Tool vs Patch Tool: Source vs Destination options for texture replacement",
+      "timestamp": "34:06",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Content-Aware Fill to automatically fill selections with sampled content",
+      "timestamp": "39:41",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Select Subject and Object Selection with cloud vs device processing and auto masking",
+      "timestamp": "49:46",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Generative Fill (Firefly model) for hair and other complex fills with upscaling options",
+      "timestamp": "42:50",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Adjusting brush opacity and flow concepts with practical visual demonstrations",
+      "timestamp": "11:57",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Lasso tool plus/minus/subtract/add mode toggles for refined selections",
+      "timestamp": "41:16",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Shift + click to draw straight lines or connected strokes with the brush",
+      "timestamp": "15:25",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Object Finder and automatic selection of multiple objects for quick masking",
+      "timestamp": "45:00",
+      "confidence": 0.73
+    },
+    {
+      "technique": "Invert selection (Cmd/Ctrl+Shift+I) to quickly target outside areas",
+      "timestamp": "38:40",
+      "confidence": 0.72
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T05:42:29.997573+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "-Cs4y-6ltfo.youtube",
+  "title": "Color Grading in Photoshop: Camera Raw workflow (Day 21 of 30 Days of Photoshop)",
+  "date": {
+    "display": "September 21, 2025",
+    "iso": "2025-09-21",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PHLEARN tutorial demonstrates a non-destructive color grading workflow in Photoshop using the Camera Raw filter. The presenter converts the background layer to a smart object, applies a Camera Raw filter as a smart filter, and then uses the Color Grading panel to selectively adjust midtones, shadows, and highlights with Hue/Saturation/Luminance controls. The process emphasizes visual experimentation, a before/after toggle, and blending and balance controls to fine-tune how color grades interact with different tonal ranges. A second sample image is used to show the same workflow in a more romantic, straightforward style. The video also covers re-opening Camera Raw for iterative tweaks and using the filter’s opacity for subtler effects, all within a non-destructive editing setup.",
+  "topics": [
+    "Camera Raw filter in Photoshop",
+    "Smart Object conversion",
+    "Convert for Smart Filters",
+    "Color Grading panel",
+    "Three-way color grading (midtones, shadows, highlights)",
+    "Hue/Saturation/Luminance controls",
+    "Head-up display color picker",
+    "Saturation and luminance adjustments",
+    "Hue shifts for artistic color",
+    ",",
+    "Before/after toggle",
+    "Blending and balance",
+    "Opacity control in Camera Raw",
+    "Non-destructive editing with Camera Raw",
+    "Re-opening Camera Raw via double-click",
+    "Global color vs tonal-targeted color",
+    "Sample image demonstrations (Color Grading O2)",
+    "Break-and-review workflow for color grading",
+    "Moody vs romantic color grading styles",
+    "Saturation and luminance adjustments in highlights",
+    "Smart filters versus direct edits",
+    "Color grading as a tonal storytelling tool"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:57:00",
+      "title": "Intro and setup: Color grading in Photoshop with Camera Raw",
+      "concepts": [
+        "Color grading",
+        "Camera Raw filter",
+        "Non-destructive workflow",
+        "Smart Object basics"
+      ],
+      "description": "Introduction to the Day 21 technique: using the Camera Raw filter for color grading and the non-destructive workflow enabled by converting the background layer to a Smart Object and applying a Camera Raw filter as a Smart Filter."
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:57:00",
+      "title": "Create a smart object and open Camera Raw",
+      "concepts": [
+        "Convert for Smart Filters",
+        "Smart Object",
+        "Camera Raw Filter"
+      ],
+      "description": "Convert the background layer to a Smart Object, then apply Filter > Camera Raw Filter. This establishes a non-destructive, editable color grading pipeline."
+    },
+    {
+      "start": "00:58:00",
+      "end": "03:00:00",
+      "title": "Color Grading panel and three-way controls",
+      "concepts": [
+        "Color Grading panel",
+        "Three-way adjustment (midtones, shadows, highlights)",
+        "Hue/Saturation/Luminance",
+        "Heads-up display",
+        "Before/after toggle"
+      ],
+      "description": "Explore the Color Grading panel. Use midtones, shadows, and highlights with hue, saturation, and luminance controls. Utilize the heads-up display to tweak values and the eye icon to compare before/after."
+    },
+    {
+      "start": "04:41:00",
+      "end": "05:57:00",
+      "title": "Blending, balance, and committing changes",
+      "concepts": [
+        "Blending and balance",
+        "Default settings toggle",
+        "Commit changes",
+        "Re-editing Camera Raw"
+      ],
+      "description": "Use Blending and Balance to prioritize shadows or highlights. Toggle default settings, commit the changes, and note that the Smart Filter remains editable (re-openable) for adjustments."
+    },
+    {
+      "start": "07:46:00",
+      "end": "11:10:00",
+      "title": "Second example: Color grading O2 and tips",
+      "concepts": [
+        "Second sample workflow",
+        "Same Camera Raw workflow",
+        "Global color option and selective color"
+      ],
+      "description": "Apply the same Camera Raw color grading workflow to a second image (O2). Discuss preferred color tendencies (cool shadows, warm highlights) and mention the option to apply a global color or keep targeted color in shadows/highlights. Conclude with tips on taking breaks to reassess color grading."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Camera Raw color grading panel in Photoshop",
+      "timestamp": "00:58:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Convert background layer to a Smart Object and apply Camera Raw as a Smart Filter",
+      "timestamp": "00:31:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Three-way color grading (midtones/shadows/highlights) with Hue/Saturation/Luminance",
+      "timestamp": "01:27:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blending and balance controls to blend color grading with shadows and highlights",
+      "timestamp": "04:41:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using the opacity control of the Camera Raw filter for subtler color grading",
+      "timestamp": "09:58:00",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:47:34.804010+00:00"
+}

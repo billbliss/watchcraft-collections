@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "video": "GWJXMNA5OSM.youtube",
+  "title": "Blend If in Photoshop: Sky Replacement and Color Grading (Day 17, PHLEARN)",
+  "date": {
+    "display": "September 17, 2025",
+    "iso": "2025-09-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN's Day 17 in the 30 Days of Photoshop series demonstrates the Blend If feature in Photoshop as a non-destructive method to composite images by controlling visibility with light levels. The video covers basic concepts of Blend If, how to access and interpret the two sliders (current layer and underlying layer), and the use of control points and feathering (via Alt/Option) to create realistic blends. A practical sky replacement workflow illustrates unlinking layer and layer mask, selecting the sky, and adjusting Blend If across both current and underlying layers to harmonize the new sky with the original lighting. The tutorial also explores color grading techniques using a solid color fill layer and a gradient map, showing how Blend If can modulate visibility by color channels, highlights, or shadows. Overall, the video emphasizes non-destructive, adjustable blending for realistic compositing, with before/after comparisons to verify improvements.",
+  "topics": [
+    "Blend If basics",
+    "Two sliders: current layer vs underlying layer",
+    "Accessing layer style: double-click gray area or FX > Blending Options",
+    "Control points in Blend If and gradient sliders",
+    "Feathering with Alt/Option to split control points",
+    "Current layer visibility controlled by gradient",
+    "Underlying layer visibility controlled by gradient",
+    "Gradient-driven testing of darks vs lights",
+    "Unlinking layer and layer mask for independent movement",
+    "Sky replacement workflow: Select > Sky and layer mask",
+    "Chain-link vs unlink: impact on sky composites",
+    "Non-destructive nature of Blend If (does not bake into layer)",
+    "Color channel blending in Blend If",
+    "Solid color fill layer for color grading with Blend If",
+    "Blending modes for color fills: Normal, Soft Light, Hard Light, Screen",
+    "Gradient Map for color toning with Blend If",
+    "Reverse gradient map and targeted highlights/shadows",
+    "Previewing with before/after to evaluate realism"
+  ],
+  "sections": [
+    {
+      "start": "00:00:30",
+      "end": "00:01:40",
+      "title": "Blend If concept and two sliders",
+      "concepts": [
+        "Definition of Blend If",
+        "Two sliders: current layer and underlying layer",
+        "Use case: photocompositing with light-based masking"
+      ],
+      "description": "Introduction to Blend If and its ability to mask a layer based on light values; sets the stage for a sky replacement demo."
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:02:40",
+      "title": "Accessing Blend If via Layer Style",
+      "concepts": [
+        "Layer Style with two sliders",
+        "Double-click in gray area to open Blending Options",
+        "FX > Blending Options path"
+      ],
+      "description": "Shows how to reach the Blend If controls from the layer style panel for practical use."
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:03:55",
+      "title": "Current vs Underlying sliders and their effect",
+      "concepts": [
+        "Current layer slider controls visibility based on the current layer",
+        "Underlying layer slider controls visibility based on the layer beneath"
+      ],
+      "description": "Demonstrates how dragging the sliders alters which parts of the current or underlying layer are visible or hidden."
+    },
+    {
+      "start": "00:03:55",
+      "end": "00:04:40",
+      "title": "Feathering control points (Alt/Option split)",
+      "concepts": [
+        "Alt/Option to split a control point into two",
+        "Feathering for more realistic edges"
+      ],
+      "description": "Explains and demonstrates feathering with split control points to soften transitions."
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:06:10",
+      "title": "Testing Blend If with a gradient to simulate lighting",
+      "concepts": [
+        "Using a black-to-white gradient to visualize masking",
+        "Contrast between darks and lights with the gradient"
+      ],
+      "description": "Uses a simple gradient layer to illustrate how Blend If responds to light values on current or underlying layers."
+    },
+    {
+      "start": "00:05:28",
+      "end": "00:07:00",
+      "title": "Sky replacement workflow: selection, mask, and unlink",
+      "concepts": [
+        "Select > Sky to isolate the sky",
+        "Apply a layer mask to reveal the new sky",
+        "Unlink layer and layer mask for independent movement"
+      ],
+      "description": "Walks through preparing a new sky, masking, and removing the constraint of the layer-mask chain for flexible placement."
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:10",
+      "title": "Practical Blend If for cohesive sky composition",
+      "concepts": [
+        "Using Blend If to blend new sky with background lighting",
+        "Previewing before/after to refine the blend"
+      ],
+      "description": "Shows how to fine-tune the sky replacement so the sky integrates with the original light of the photo."
+    },
+    {
+      "start": "00:09:10",
+      "end": "00:11:00",
+      "title": "Color grading with fill layers and Blend If",
+      "concepts": [
+        "Solid color fill layer for color additions",
+        "Adjusting blend modes (Normal, Soft Light, Hard Light, etc.)",
+        "Using Gradient Map for color toning"
+      ],
+      "description": "Explores color treatment options using Fill and Gradient Map layers, controlled by Blend If to target shadows or highlights."
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:55",
+      "title": "Advanced color toning with Gradient Map and final tips",
+      "concepts": [
+        "Gradient Map to color-tone shadows and highlights",
+        "Reverse and opacity tweaks",
+        "Comparing before/after to assess realism"
+      ],
+      "description": "Demonstrates targeted color toning and refinement using Gradient Map in conjunction with Blend If, concluding with practical tips for realistic composites."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Blend If basics: current vs underlying layer sliders",
+      "timestamp": "00:01:32",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Feathering control points with Alt/Option to split",
+      "timestamp": "00:03:43",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Unlinking layer and layer mask to allow independent movement (sky replacement)",
+      "timestamp": "00:06:12",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Selecting sky with Select > Sky and applying a layer mask",
+      "timestamp": "00:05:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Solid color fill layer for color grading with Blend If",
+      "timestamp": "00:10:15",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Gradient Map for color toning with Blend If",
+      "timestamp": "00:11:55",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Blend If applied to color channels",
+      "timestamp": "00:04:52",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Testing with a black-to-white gradient to demonstrate blending",
+      "timestamp": "00:00:57",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Trying multiple blending modes on color fills (Normal, Soft Light, Hard Light, Screen)",
+      "timestamp": "00:10:40",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Preview before/after to compare Blend If results",
+      "timestamp": "00:09:30",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:58:24.143930+00:00"
+}

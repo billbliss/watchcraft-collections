@@ -1,0 +1,132 @@
+{
+  "schema_version": 2,
+  "video": "Vmbi5LiZCp0.youtube",
+  "title": "Three 20-Minute Vegan Meals for Beginners: Tacos, Creamy Tomato Pasta, and Chickpea-Broccoli Sesame Rice Bowl",
+  "date": {
+    "display": "April 23, 2022",
+    "iso": "2022-04-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Kitchen",
+      "confidence": 0.85,
+      "basis": "Transcript line 00:00:00 explicitly states 'i'm cooking in the kitchen'"
+    }
+  ],
+  "summary": "This Goodful video features two hosts guiding a beginner vegan through three fast, 20-minute meals: vegan tacos with crumbled tofu and a quick chipotle crema, a creamy one-pot tomato pasta seasoned with a paprika-like blend and enhanced with nutrition yeast, and a chickpea–broccoli sesame rice bowl with a glossy sauce. The presenters emphasize simple, plant-based substitutions (onion powder instead of onions, almond milk, vegan mayo and sour cream, nutritional yeast) and practical assembly tips (bottom-layer sauce in tacos, batch-friendly prep, and a takeout-inspired vibe). Interwoven with cooking, they discuss motivations for going vegan and the challenges of a 30-day transition, ending with a channel plug for Joyce’s vegan journey. The result is a beginner-friendly, time-conscious collection of recipes that showcase flavor, texture, and plant-based substitutions suitable for new vegans or curious cooks.",
+  "topics": [
+    "tofu crumbles for taco filling",
+    "oil-based sautéing of tofu",
+    "soy sauce-seasoning base",
+    "tomato sauce and chili powder seasoning",
+    "garlic powder and cumin",
+    "black pepper and cayenne for heat",
+    "chipotle crema (vegan mayo + vegan sour cream + lime + chipotle powder)",
+    "no-blender crema technique",
+    "nutritional yeast for cheesy flavor",
+    "onion powder as an onion substitute",
+    "olive oil for sautéing",
+    "campanelle pasta",
+    "almond milk as dairy-free milk",
+    "vegetable broth for pasta sauce",
+    "kale addition for greens",
+    "salty, savory seasoning with lime and salt",
+    "vegan cheese topping options",
+    "rice, chickpeas, and broccoli as a bowl base",
+    "sesame oil and garlic for stir-fry glaze",
+    "rice vinegar, maple syrup, and sriracha in glaze",
+    "cornstarch slurry to thicken sauce",
+    "batch-friendly, 20-minute meals",
+    "takeout-inspired plating and vibes",
+    "30-day vegan journey and channel plug"
+  ],
+  "sections": [
+    {
+      "start": "00:00:37",
+      "end": "00:04:03",
+      "title": "Vegan Tacos: Crumbled Tofu with Chipotle Crema",
+      "concepts": [
+        "tofu crumbling by hand",
+        "oil heating and tofu moisture release",
+        "seasoning base: soy sauce, tomato sauce, chili powder, garlic powder, cumin, pepper, cayenne",
+        "base sauce as filling for tacos",
+        "layering sauce on bottom for even distribution",
+        "simple crema: vegan mayo + vegan sour cream + lime + chipotle powder",
+        "no blender required for crema"
+      ],
+      "description": "Merle and Joyce crumble tofu in oil, season with a quick soy-tomato-spice mix, and assemble tacos with a bottom-layer sauce, greens, tomatoes, and vegan cheese. They finish with a chipotle crema and note substitutions for heat and dairy-free options."
+    },
+    {
+      "start": "00:04:08",
+      "end": "00:06:38",
+      "title": "Creamy One-Pot Tomato Pasta",
+      "concepts": [
+        "olive oil, tomato paste, and garlic base",
+        "onion powder instead of onions",
+        "vegetable broth and non-dairy milk (almond milk) for creaminess",
+        "campanelle pasta",
+        "cooking pasta to simmer and thicken",
+        "kale wilt addition",
+        "nutritional yeast for cheesy flavor"
+      ],
+      "description": "A quick, dairy-free pasta built around tomato paste, a no-onion base, and a creamy plant-based finish. Kale is added for greens; nutritional yeast provides a cheesy depth without dairy."
+    },
+    {
+      "start": "00:06:57",
+      "end": "00:09:58",
+      "title": "Chickpea & Broccoli Sesame Rice Bowl",
+      "concepts": [
+        "rice cooked separately (approx. 20 minutes)",
+        "frozen broccoli and chickpeas sautéed in neutral oil",
+        "sesame-flavored glaze: sesame oil, soy sauce, rice vinegar, maple syrup, sriracha",
+        "cornstarch slurry for thickening",
+        "serve over rice with toppings"
+      ],
+      "description": "A takeout-inspired bowl leveraging pantry staples: rice, chickpeas, frozen broccoli, and a glossy sesame sauce thickened with cornstarch, finished with a plant-based garnish approach."
+    },
+    {
+      "start": "00:10:02",
+      "end": "00:10:43",
+      "title": "Outtro and Channel Plug",
+      "concepts": [
+        "Joyce plugs her own channel and vegan journey",
+        "call to follow and watch for the 30-day plan",
+        "closing music"
+      ],
+      "description": "The hosts wrap with a channel plug for Joyce’s personal journey and invite viewers to follow along the 30-day vegan plan, ending with credits and music."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Crumbling tofu by hand to create a meat-like texture",
+      "timestamp": "00:53:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Chipotle crema made without a blender (vegan mayo + vegan sour cream + lime + chipotle powder)",
+      "timestamp": "02:40:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Onion powder substitution for onions in the pasta base",
+      "timestamp": "04:32:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Cornstarch slurry to thicken sesame sauce",
+      "timestamp": "08:32:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Nutritional yeast as a cheesy flavor in vegan pasta",
+      "timestamp": "06:14:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T18:56:19.435699+00:00"
+}

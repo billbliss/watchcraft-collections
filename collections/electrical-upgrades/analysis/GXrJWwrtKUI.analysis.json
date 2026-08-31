@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "video": "GXrJWwrtKUI.youtube",
+  "title": "Wiring a Portable Generator to a Home: Transfer Switch, Interlock, and Safety",
+  "date": {
+    "display": "February 24, 2020",
+    "iso": "2020-02-24",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video demonstrates practical approaches to powering a home with a portable generator. It covers essential safety guidance for outdoor operation to avoid carbon monoxide poisoning, methods to feed a home from a generator using a power inlet box and backfed wiring, and two main approaches for safe electrical integration: a transfer switch that selects critical circuits and an interlock that isolates the generator from street power. The host emphasizes prioritizing critical loads (furnace, refrigerator, heating) and performing a controlled restoration by turning on loads one by one to avoid overloading the generator. It also cautions against running high-draw appliances (oven, dryer, central air) during a outage and notes that a generator has limited capacity relative to a whole-house load.",
+  "topics": [
+    "portable generator safety outdoors",
+    "carbon monoxide risk and prevention",
+    "generator CO sensor and automatic shut-off",
+    "outdoor operation vs indoor use",
+    "power inlet box wiring",
+    "extension cords vs home-internal wiring",
+    "backfeed wiring to a home panel",
+    "transfer switch basics",
+    "10-circuit transfer switch",
+    "critical-load selection (furnace, refrigerator, heating)",
+    "interlock device in electrical panels",
+    "main breaker and interlock safety",
+    "generator startup sequence",
+    "load restoration sequence (one circuit at a time)",
+    "avoidance of heavy loads (oven, dryer, central AC)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:40",
+      "title": "Safety: CO hazards and outdoor use",
+      "concepts": [
+        "portable generator",
+        "carbon monoxide risk",
+        "outdoor operation",
+        "CO sensor shut-off"
+      ],
+      "description": "The hosts warn about carbon monoxide from portable generators and insist they be operated outside. One unit reputedly includes a built-in CO sensor that can shut the generator off if CO is detected."
+    },
+    {
+      "start": "00:00:46",
+      "end": "00:01:12",
+      "title": "CO safety and external power connections",
+      "concepts": [
+        "extension cords",
+        "power inlet box",
+        "outdoor feeding"
+      ],
+      "description": "Extension cords are commonly used but not ideal for powering a home. The discussion introduces feeding the home through a power inlet box rather than running power directly into living spaces."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:01:50",
+      "title": "Wiring from power inlet to back of the house and main panel",
+      "concepts": [
+        "power inlet box",
+        "back of the house wiring",
+        "main panel",
+        "generator feed"
+      ],
+      "description": "A cord from the generator is connected to a power inlet box, which then feeds wiring back to the home and ties into the main panel."
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:02:20",
+      "title": "Transfer switch approach for selective circuits",
+      "concepts": [
+        "transfer switch",
+        "10-circuit unit",
+        "critical circuits"
+      ],
+      "description": "The transfer switch option is introduced: a 10-circuit unit is used to select the most critical circuits to power when the grid is down."
+    },
+    {
+      "start": "00:02:20",
+      "end": "00:02:54",
+      "title": "Interlock method: generator inlet and safety isolation",
+      "concepts": [
+        "interlock",
+        "main breaker",
+        "generator inlet",
+        "backfeed safety"
+      ],
+      "description": "An interlock approach is described as an alternative to a transfer switch, where the outside inlet connects to a breaker and the interlock prevents backfeeding when the main is on."
+    },
+    {
+      "start": "00:02:54",
+      "end": "00:03:16",
+      "title": "Startup sequence and safe switching with interlock",
+      "concepts": [
+        "generator start",
+        "turning off main",
+        "interlock operation",
+        "reconfiguring power feed"
+      ],
+      "description": "Demonstrates the sequence: turn the main power off, use the interlock, start the generator, and perform controlled switching to energize circuits."
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:03:46",
+      "title": "Load management during restoration",
+      "concepts": [
+        "one-by-one restoration",
+        "essential loads",
+        "furnace, refrigerator, lighting"
+      ],
+      "description": "Guidance on restoring critical services by bringing loads back online one at a time to avoid overloading the generator."
+    },
+    {
+      "start": "00:03:52",
+      "end": "00:04:09",
+      "title": "Cautions and closing guidance",
+      "concepts": [
+        "avoid large loads",
+        "central air, oven, dryer",
+        "channel subscription"
+      ],
+      "description": "Reaffirms safety cautions about large appliances and closes with general channel guidance and a call to action."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Outdoor operation of a generator with built-in CO protection",
+      "timestamp": "00:00:33",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Feeding the home through a power inlet box instead of direct interior wiring",
+      "timestamp": "00:01:14",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Using a 10-circuit transfer switch to isolate generator power to critical circuits",
+      "timestamp": "00:01:28",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Interlock method to prevent backfeed and allow controlled restoration",
+      "timestamp": "00:02:18",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Load-by-load restoration to avoid generator overload",
+      "timestamp": "00:03:21",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:20:33.467369+00:00"
+}

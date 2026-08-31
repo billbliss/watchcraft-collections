@@ -1,0 +1,161 @@
+{
+  "schema_version": 2,
+  "video": "yYm2SN0IOaU.youtube",
+  "title": "Open, Edit, and Save in Photoshop (Day 2): Gradient Sun Rays, PSD Workflow, and JPEG Export",
+  "date": {
+    "display": "September 2, 2025",
+    "iso": "2025-09-02",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN's Day 2 Photoshop tutorial demonstrates a practical workflow for opening various image files, editing with layered gradients to simulate sunlight, and saving and exporting in multiple formats. The instructor walks through opening images via drag-and-drop, the Open dialog, keyboard shortcuts, and recent files; builds a gradient sun effect with a radial gradient on a dedicated layer using the Screen blend mode; samples sky colors with the Eyedropper; creates light rays with a brush on a new layer, applies a radial blur, duplicates and merges layers, then transforms and refines the result with a layer mask. The session emphasizes keeping a layered PSD for future edits and producing a compressed JPEG for sharing, including sRGB conversion and quality settings. The video also contrasts PSD retention with export workflows and previews the topic of file formats in the next lesson.",
+  "topics": [
+    "Open document dialog in Photoshop",
+    "Drag-and-drop image into Photoshop",
+    "Keyboard shortcut: Ctrl/Cmd + O",
+    "Open Recent documents",
+    "Opening documents into new vs existing Photoshop documents",
+    "Photoshop tabbed document interface and window management",
+    "Gradient Tool basics",
+    "Gradient Editor and gradient types (foreground-to-background, foreground-to-transparent, black-to-white)",
+    "Radial gradient vs linear gradient",
+    "Eyedropper color sampling from the sky",
+    "Applying a gradient fill layer and adjusting blend modes (Screen)",
+    "Brush tool for light-ray accents on a new layer",
+    "Radial Blur filter to simulate light rays",
+    "Duplicating and merging layers to intensify effects",
+    "Transform (Ctrl/Cmd + T) to adjust light-ray geometry",
+    "Layer masks to refine light-ray visibility",
+    "Saving a layered file as PSD for later editing",
+    "Exporting as JPEG: Export As options and quality control",
+    "sRGB conversion for web/mobile sharing",
+    "Workflow: Open, save as PSD, then re-export JPEG"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:49",
+      "title": "Opening and Accessing Photoshop Documents",
+      "concepts": [
+        "Open dialogue from the splash screen",
+        "Drag-and-drop into Photoshop",
+        "Open dialog -> Finder/Explorer",
+        "Open, Open Recent, and keyboard shortcuts",
+        "Drag into existing document vs. open as new document (via tabs)"
+      ],
+      "description": "The video introduces multiple ways to open images: use the Open dialog, drag files directly into Photoshop, or leverage shortcuts like Ctrl/Cmd+O and Open Recent. It demonstrates initial document handling, including importing a JPEG from the download and previewing how dragging into an existing document creates a new document tab, or dragging onto the tab bar opens a new document. It also notes that recent files appear on the home screen for quick reopening and highlights the dual document model (existing vs new) via the tabbed interface and the Window menu."
+    },
+    {
+      "start": "00:02:49",
+      "end": "00:12:21",
+      "title": "Gradient Sun Rays: Setup, Colors, and Application",
+      "concepts": [
+        "Gradient Tool (G) setup",
+        "Gradient Editor and color selection",
+        "Foreground-to-background gradient",
+        "Foreground-to-transparent gradient",
+        "Radial gradient type",
+        "Choosing sky-derived colors with Eyedropper",
+        "Applying gradient on a gradient fill layer",
+        "Blending mode: Screen",
+        "Gradient size and color adjustments"
+      ],
+      "description": "This section covers building the sun-ray effect with a new gradient fill layer. The instructor selects a radial gradient, changes the foreground color using an Eyedropper to sampled sky tones, and explains gradient types (foreground-to-background and foreground-to-transparent). He demonstrates switching to a radial gradient, applying the gradient by dragging, adjusting its size, and changing the layer’s blend mode from Normal to Screen to create a sunlight glow. The gradient color can be altered at any point, and the gradient layer remains adjustable in opacity and scale."
+    },
+    {
+      "start": "00:12:21",
+      "end": "00:16:58",
+      "title": "PSD Workflow and Light-Ray Creation",
+      "concepts": [
+        "Saving as PSD to preserve layers",
+        "Creating a new layer for light rays",
+        "Brush tool usage and color sampling",
+        "Brush size and hardness adjustments",
+        "Dot-based light-ray placement"
+      ],
+      "description": "The tutorial emphasizes saving your work as a layered PSD to retain editability, then proceeds to create light rays by painting on a new layer with the Brush tool. The instructor samples sky colors with the Eyedropper, adjusts brush hardness and size, and lays down multiple dots to simulate rays. After laying out the dots, a radial blur filter is introduced to shape the light rays, and options for sharpening or expanding the effect are demonstrated. Duplicating the layer strengthens the effect, and the workflow includes frequent saves to preserve progress."
+    },
+    {
+      "start": "00:16:58",
+      "end": "00:17:40",
+      "title": "Refinement, Re-Save, and Final Export Considerations",
+      "concepts": [
+        "Layer masking to refine light rays",
+        "Saving the PSD after edits",
+        "Exporting for sharing vs. keeping layers"
+      ],
+      "description": "The presenter shows how to refine the effect with a layer mask to selectively hide parts of the light rays, then saves the PSD again to preserve the edits. He introduces the export step to prepare a flattened JPEG version for sharing and discusses the distinction between maintaining a PSD for future edits and exporting a compressed image for distribution."
+    },
+    {
+      "start": "00:17:40",
+      "end": "00:17:56",
+      "title": "Conclusion and Look Ahead",
+      "concepts": [
+        "Next video teaser: file formats overview"
+      ],
+      "description": "The video wraps with a quick recap and teases tomorrow's lesson, which will compare PSDs, JPEGs, PNGs, GIFs, and TIFFs among other formats."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Radial gradient gradient fill to simulate sun rays",
+      "timestamp": "00:04:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Eyedropper color sampling to match sky tones",
+      "timestamp": "00:05:10",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gradient fill layer with Screen blend mode for glow",
+      "timestamp": "00:06:08",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Brush tool on a new layer to paint light rays",
+      "timestamp": "00:08:48",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Radial Blur filter to transform dots into rays",
+      "timestamp": "00:09:50",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Duplicating layer to intensify light-ray effect",
+      "timestamp": "00:11:02",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Merging layers and applying Screen blend mode",
+      "timestamp": "00:11:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Transform (Ctrl/Cmd+T) to rotate/reposition light rays",
+      "timestamp": "00:11:43",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Layer masks to refine light-ray visibility",
+      "timestamp": "00:16:16",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Export As: JPEG with quality, resolution, and sRGB conversion",
+      "timestamp": "00:13:48",
+      "confidence": 0.87
+    },
+    {
+      "technique": "PSD vs JPEG workflow: preserve layers vs export for sharing",
+      "timestamp": "00:12:31",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:16:55.602330+00:00"
+}

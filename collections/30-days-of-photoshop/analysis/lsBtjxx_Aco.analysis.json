@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "video": "lsBtjxx_Aco.youtube",
+  "title": "Realistic Sky Replacement in Photoshop: Masking, Color Matching, and Light Integration (Day 27)",
+  "date": {
+    "display": "September 27, 2025",
+    "iso": "2025-09-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PHLEARN tutorial (Day 27 of 30 Days of Photoshop) guides learners through replacing a sky in a photograph and making the result look realistic by matching lighting and color. The instructor starts with assessing the original light in the image, selects a warm sky with compatible direction, places the sky into the background, and masks it. He demonstrates unlinking the sky mask to reposition the new sky, flipping the sky to better align light direction, and applying a gradient on a grouped sky to fade it toward the horizon. The core of the workflow centers on color and light harmonization: sampling the original sky color, clipping color balance and levels adjustments to the sky, and tweaking midtones, highlights, and shadows to achieve a natural blend with the foreground. The video emphasizes iterative before/after checks and concludes with tips for final tweaking and the option to download the PSD for study.",
+  "topics": [
+    "scene lighting analysis",
+    "sky replacement workflow",
+    "foreground-sky color matching",
+    "warm vs cool sky tones",
+    "placing a replacement sky into a background",
+    "layer masks",
+    "unlink layer mask from its layer",
+    "move sky independently",
+    "flip sky horizontally",
+    "transform and scale sky",
+    "gradient mask for blending",
+    "grouping layers for masking",
+    "gradient tool usage (black-to-white)",
+    "three-layer masking approach (sky, mask for fade, temporary comparison)",
+    "Eyedropper tool for color sampling",
+    "color balance adjustment layer clipped to sky",
+    "levels adjustment clipped to sky",
+    "midtones/highlights/shadows adjustments",
+    "before/after comparison",
+    "PSD download for study"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:55",
+      "title": "Analyze original light and select a compatible sky",
+      "concepts": [
+        "lighting direction",
+        "color temperature",
+        "warm sky preference",
+        "matching sun position and highlights"
+      ],
+      "description": "The instructor instructs to start by analyzing the original scene lighting: the light appears to come from the right, with warm sky tones, and a sun direction that should guide the choice of a replacement sky. He emphasizes selecting a sky with similar lighting and warmth rather than a generic blue sky, to improve realism."
+    },
+    {
+      "start": "00:01:55",
+      "end": "00:03:16",
+      "title": "Place sky and begin masking",
+      "concepts": [
+        "drag-and-drop sky into background",
+        "basic masking setup",
+        "selecting the sky and applying a layer mask"
+      ],
+      "description": "A sky image is chosen and dragged into the background. The replacement sky is positioned and its visibility toggled, followed by applying a layer mask to isolate the sky portion. The narrator notes the need to adjust later for a convincing blend."
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:05:18",
+      "title": "Transform, align, and prepare for blending",
+      "concepts": [
+        "unlink mask for independent sky movement",
+        "transform and flip horizontally",
+        "match light direction via orientation"
+      ],
+      "description": "The sky mask is detached from the sky layer so the sky can be moved independently. The sky layer is flipped horizontally to better align the lighting direction with the foreground, and the sky is scaled as needed, preparing for color and light blending."
+    },
+    {
+      "start": "00:05:18",
+      "end": "00:14:35",
+      "title": "Color matching, blending, and final adjustments",
+      "concepts": [
+        "eyedropper sampling of original sky color",
+        "gradient masking to fade sky into horizon",
+        "grouping and layered masks",
+        "color balance adjustment clipped to sky",
+        "levels adjustment clipped to sky",
+        "midtones/highlights/shadows tuning",
+        "before/after evaluation"
+      ],
+      "description": "The color and light of the new sky are harmonized with the original scene. An eyedropper samples the original sky colors to guide adjustments. A gradient on a grouped sky layer fades the new sky toward the horizon to improve realism. The sky is then color-balanced and leveled with adjustment layers clipped to the sky to constrain edits to the replacement. The instructor demonstrates adjusting midtones, highlights, and shadows to more closely match the original sky, showing before/after comparisons. A final note covers optional toggling of masks and the option to download the PSD for study."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Select Sky and apply a layer mask",
+      "timestamp": "00:02:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Unlink sky layer mask for independent sky movement",
+      "timestamp": "00:02:50",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Flip sky horizontally via Transform",
+      "timestamp": "00:03:19",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gradient mask to fade the replacement sky into the original",
+      "timestamp": "00:04:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Group sky and apply a gradient-masked group for blending",
+      "timestamp": "00:04:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Eyedropper sampling to match original sky color",
+      "timestamp": "00:03:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color Balance adjustment clipped to sky (Alt/Option to clip)",
+      "timestamp": "00:07:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Levels adjustment clipped to sky",
+      "timestamp": "00:10:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color and light matching via midtones/highlights/shadows adjustments",
+      "timestamp": "00:08:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Before/after comparison to judge realism",
+      "timestamp": "00:05:18",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:05:39.128945+00:00"
+}

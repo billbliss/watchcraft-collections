@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "cIggkNOFQ-0.youtube",
+  "title": "I Turned Leftover Bean Juice Into Vegan Meringues",
+  "date": {
+    "display": "March 2, 2022",
+    "iso": "2022-03-02",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This BuzzFeed Nifty video demonstrates making vegan meringues from aquafaba, the liquid from canned chickpeas. The presenter cites Alton Brown as the recipe source, whips the aquafaba with cream of tartar and sugar, then pipes the foam into meringue shapes using a parchment-tube method before baking at a low temperature for about 90 minutes. The transcript also notes the etymology of aquafaba (Latin roots aqua and faba) and describes the resulting meringues as a crisp, sugar-cloud texture with a pleasant crunch, providing both practical steps and light culinary science around aquafaba as an egg-white substitute.",
+  "topics": [
+    "Aquafaba as egg-white substitute",
+    "Cream of tartar stabilizer in aquafaba",
+    "Whipping aquafaba to foam and stiff peaks",
+    "Sugar incorporation during whipping",
+    "Vanilla addition to aquafaba meringue",
+    "Piping meringues using parchment",
+    "Aquafaba etymology (Latin roots aqua and faba)",
+    "Using canned aquafaba as a store-bought option",
+    "Oven temperature set to 200 degrees",
+    "Baking time of 1.5 hours",
+    "Attribution to Alton Brown's recipe",
+    "Texture and taste of vegan meringues",
+    "Bean juice as pantry ingredient",
+    "Sound and texture cues in meringue eating"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:56",
+      "title": "Intro and aquafaba basics",
+      "concepts": [
+        "Aquafaba as egg-white substitute",
+        "Aquafaba origin and use",
+        "Recipe attribution to Alton Brown"
+      ],
+      "description": "Opening discussion introduces aquafaba as a vegan alternative to egg whites, credits Alton Brown for the recipe concept, and notes using about 3/4 cup aquafaba."
+    },
+    {
+      "start": "00:00:56",
+      "end": "00:01:08",
+      "title": "Whipping and stabilizers",
+      "concepts": [
+        "Cream of tartar stabilizer",
+        "Foaming aquafaba"
+      ],
+      "description": "Cream of tartar is added to aquafaba as a stabilizer before whipping the liquid into a foam."
+    },
+    {
+      "start": "00:01:08",
+      "end": "00:01:18",
+      "title": "Sweetening and peaks",
+      "concepts": [
+        "Sugar incorporation during whipping",
+        "Vanilla addition",
+        "Forming stiff peaks"
+      ],
+      "description": "A half cup of sugar is added with vanilla, followed by whipping on high until the aquafaba forms stiff peaks."
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:01:18",
+      "title": "Shaping meringues",
+      "concepts": [
+        "Parchment-paper piping",
+        "Meringue shaping"
+      ],
+      "description": "A piping tube is fashioned from parchment paper and used to pipe the meringues."
+    },
+    {
+      "start": "00:01:26",
+      "end": "00:01:35",
+      "title": "Oven prep and bake",
+      "concepts": [
+        "Oven temperature 200 degrees",
+        "Baking duration 1.5 hours"
+      ],
+      "description": "The oven is preheated to 200 degrees and the meringues are baked for about an hour and a half."
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:02:10",
+      "title": "Taste and closure",
+      "concepts": [
+        "Texture and taste notes",
+        "Final tasting reaction"
+      ],
+      "description": "Tasting commentary describes the result as a light, sweet, crunchy sugar-cloud with positive flavor and texture feedback."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Whipping aquafaba to stiff peaks",
+      "timestamp": "00:01:04",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Stabilizing foam with cream of tartar",
+      "timestamp": "00:00:43",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Piping meringues using parchment paper (parchment bag)",
+      "timestamp": "00:01:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Baking aquafaba meringues at 200 degrees for ~90 minutes",
+      "timestamp": "00:01:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Aquafaba described as an egg-white substitute",
+      "timestamp": "00:00:29",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Aquafaba etymology (Latin roots aqua and faba)",
+      "timestamp": "00:01:21",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:19:08.002316+00:00"
+}

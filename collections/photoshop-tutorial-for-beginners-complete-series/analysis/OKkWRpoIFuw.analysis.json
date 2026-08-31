@@ -1,0 +1,477 @@
+{
+  "schema_version": 2,
+  "video": "OKkWRpoIFuw.youtube",
+  "title": "Photoshop Beginner Lesson 1: Workspace, Panels, and Basic File Management (PiXimperfect)",
+  "date": {
+    "display": "April 2, 2026",
+    "iso": "2026-04-02",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PiXimperfect’s Photoshop for Complete Beginners: Start Here (Lesson 1) guides new users through core concepts and setup for Photoshop. It starts with what Photoshop does and explains pixels and megapixels, then covers installing or updating via Creative Cloud, and distinguishes the Home screen from the work space. The video demonstrates how to switch and customize workspaces, save a personal setup, and organize panels, followed by a practical hands-on project that introduces brushes, text, and layers. It then walks through saving practices (Save, Save As, PSD), exporting for web (JPEG/PNG), and essential navigation shortcuts, including transform controls, zoom/pan techniques, and the contextual taskbar that adapts to the active tool. The session culminates with quick tips on undo/redo, layout fundamentals (canvas/tools/panels), and a reminder of how to access any missing panels via the Window menu.",
+  "topics": [
+    "Photoshop basics",
+    "Pixels and megapixels",
+    "Creative Cloud installation",
+    "Home screen vs workspace",
+    "Photoshop workspaces (Photography, Graphic Design, Painting)",
+    "Customizing and saving a workspace",
+    "Panels (Layers, History, Properties)",
+    "Opening and creating files",
+    "Drag-and-drop file import",
+    "Brush tool and foreground/background color",
+    "Text tool and typography",
+    "Move tool and transform controls",
+    "Layer-based non-destructive editing",
+    "Save vs Save As vs Save a Copy",
+    "PSD vs JPEG/PNG export",
+    "Export options (Quick Export, Export As)",
+    "Contextual taskbar",
+    "Options bar, Status bar, Menu bar",
+    "Undo/Redo shortcuts",
+    "Zoom and pan shortcuts (Spacebar, scrubby zoom, H key)",
+    "Lasso tool and selections",
+    "Mask concepts (brief mention)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:23",
+      "title": "A Promise",
+      "concepts": [
+        "What Photoshop is",
+        "Pixels",
+        "Megapixels",
+        "Trial and Creative Cloud access"
+      ],
+      "description": "Intro to Photoshop as a pixel-based image editor; explains what a pixel is and how image size relates to pixel count. Mentions how to start with a free trial or discounts and points to links for practice files and notes."
+    },
+    {
+      "start": "00:00:23",
+      "end": "00:00:38",
+      "title": "What is Photoshop",
+      "concepts": [
+        "What Photoshop is",
+        "Pixels",
+        "Megapixels",
+        "Trial and Creative Cloud access"
+      ],
+      "description": "Intro to Photoshop as a pixel-based image editor; explains what a pixel is and how image size relates to pixel count. Mentions how to start with a free trial or discounts and points to links for practice files and notes."
+    },
+    {
+      "start": "00:00:38",
+      "end": "00:02:10",
+      "title": "What is a Pixel",
+      "concepts": [
+        "What Photoshop is",
+        "Pixels",
+        "Megapixels",
+        "Trial and Creative Cloud access"
+      ],
+      "description": "Intro to Photoshop as a pixel-based image editor; explains what a pixel is and how image size relates to pixel count. Mentions how to start with a free trial or discounts and points to links for practice files and notes."
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:38",
+      "title": "How to Install & Update Photoshop",
+      "concepts": [
+        "What Photoshop is",
+        "Pixels",
+        "Megapixels",
+        "Trial and Creative Cloud access"
+      ],
+      "description": "Intro to Photoshop as a pixel-based image editor; explains what a pixel is and how image size relates to pixel count. Mentions how to start with a free trial or discounts and points to links for practice files and notes."
+    },
+    {
+      "start": "00:03:38",
+      "end": "00:04:52",
+      "title": "The Photoshop Home Screen",
+      "concepts": [
+        "What Photoshop is",
+        "Pixels",
+        "Megapixels",
+        "Trial and Creative Cloud access",
+        "Home screen",
+        "Workspace",
+        "Built-in workspaces (Photography, Graphic Design, Painting)"
+      ],
+      "description": "Describes the home screen and the work space, introduces built-in Photoshop workspaces, and sets up the idea of using a personalized workspace for efficiency."
+    },
+    {
+      "start": "00:04:52",
+      "end": "00:05:34",
+      "title": "Intro to Photoshop Workspace",
+      "concepts": [
+        "Home screen",
+        "Workspace",
+        "Built-in workspaces (Photography, Graphic Design, Painting)"
+      ],
+      "description": "Describes the home screen and the work space, introduces built-in Photoshop workspaces, and sets up the idea of using a personalized workspace for efficiency."
+    },
+    {
+      "start": "00:05:34",
+      "end": "00:07:09",
+      "title": "Switch Between Home Screen and Workspace",
+      "concepts": [
+        "Home screen",
+        "Workspace",
+        "Built-in workspaces (Photography, Graphic Design, Painting)"
+      ],
+      "description": "Describes the home screen and the work space, introduces built-in Photoshop workspaces, and sets up the idea of using a personalized workspace for efficiency."
+    },
+    {
+      "start": "00:07:09",
+      "end": "00:12:48",
+      "title": "Create and Save Your Own Workspace",
+      "concepts": [
+        "Home screen",
+        "Workspace",
+        "Built-in workspaces (Photography, Graphic Design, Painting)",
+        "Window > Workspace",
+        "New workspace",
+        "Reset essentials",
+        "Panel arrangement"
+      ],
+      "description": "Describes the home screen and the work space, introduces built-in Photoshop workspaces, and sets up the idea of using a personalized workspace for efficiency."
+    },
+    {
+      "start": "00:12:48",
+      "end": "00:14:24",
+      "title": "Find Hidden or Missing Panels",
+      "concepts": [
+        "Window > Workspace",
+        "New workspace",
+        "Reset essentials",
+        "Panel arrangement"
+      ],
+      "description": "Shows how to create and save a custom workspace, reset to defaults, and remove or dock panels to optimize the workspace for the user."
+    },
+    {
+      "start": "00:14:24",
+      "end": "00:16:39",
+      "title": "3 Major Parts of a Workspace",
+      "concepts": [
+        "Window > Workspace",
+        "New workspace",
+        "Reset essentials",
+        "Panel arrangement"
+      ],
+      "description": "Shows how to create and save a custom workspace, reset to defaults, and remove or dock panels to optimize the workspace for the user."
+    },
+    {
+      "start": "00:16:39",
+      "end": "00:17:06",
+      "title": "The OCS of Photoshop",
+      "concepts": [
+        "Window > Workspace",
+        "New workspace",
+        "Reset essentials",
+        "Panel arrangement"
+      ],
+      "description": "Shows how to create and save a custom workspace, reset to defaults, and remove or dock panels to optimize the workspace for the user."
+    },
+    {
+      "start": "00:17:06",
+      "end": "00:20:54",
+      "title": "How to Open a File",
+      "concepts": [
+        "Window > Workspace",
+        "New workspace",
+        "Reset essentials",
+        "Panel arrangement"
+      ],
+      "description": "Shows how to create and save a custom workspace, reset to defaults, and remove or dock panels to optimize the workspace for the user."
+    },
+    {
+      "start": "00:20:54",
+      "end": "00:22:15",
+      "title": "How to Create a File",
+      "concepts": [
+        "Window > Workspace",
+        "New workspace",
+        "Reset essentials",
+        "Panel arrangement",
+        "Brush tool",
+        "Foreground/background color",
+        "New layers",
+        "Text tool",
+        "Move tool",
+        "Transform controls",
+        "Layer order"
+      ],
+      "description": "Hands-on demonstration of a basic project: painting with brushes on multiple layers, adding text, and using the Move and Transform tools to position and resize elements."
+    },
+    {
+      "start": "00:22:15",
+      "end": "00:27:42",
+      "title": "Fun Project 1 - Text Design",
+      "concepts": [
+        "Brush tool",
+        "Foreground/background color",
+        "New layers",
+        "Text tool",
+        "Move tool",
+        "Transform controls",
+        "Layer order"
+      ],
+      "description": "Hands-on demonstration of a basic project: painting with brushes on multiple layers, adding text, and using the Move and Transform tools to position and resize elements."
+    },
+    {
+      "start": "00:27:42",
+      "end": "00:33:01",
+      "title": "How to Save",
+      "concepts": [
+        "Brush tool",
+        "Foreground/background color",
+        "New layers",
+        "Text tool",
+        "Move tool",
+        "Transform controls",
+        "Layer order"
+      ],
+      "description": "Hands-on demonstration of a basic project: painting with brushes on multiple layers, adding text, and using the Move and Transform tools to position and resize elements."
+    },
+    {
+      "start": "00:33:01",
+      "end": "00:34:45",
+      "title": "Fun Project 2 - Double Exposure",
+      "concepts": [
+        "Brush tool",
+        "Foreground/background color",
+        "New layers",
+        "Text tool",
+        "Move tool",
+        "Transform controls",
+        "Layer order",
+        "Save vs Save As",
+        "PSD format",
+        "Export vs Save for Web",
+        "JPEG/PNG export"
+      ],
+      "description": "Hands-on demonstration of a basic project: painting with brushes on multiple layers, adding text, and using the Move and Transform tools to position and resize elements."
+    },
+    {
+      "start": "00:34:45",
+      "end": "00:37:16",
+      "title": "Save As",
+      "concepts": [
+        "Save vs Save As",
+        "PSD format",
+        "Export vs Save for Web",
+        "JPEG/PNG export"
+      ],
+      "description": "Explains saving behavior for new and existing documents, formats that support layers, and the difference between Save, Save As, and exporting images for web use."
+    },
+    {
+      "start": "00:37:16",
+      "end": "00:40:15",
+      "title": "Export As",
+      "concepts": [
+        "Save vs Save As",
+        "PSD format",
+        "Export vs Save for Web",
+        "JPEG/PNG export"
+      ],
+      "description": "Explains saving behavior for new and existing documents, formats that support layers, and the difference between Save, Save As, and exporting images for web use."
+    },
+    {
+      "start": "00:40:15",
+      "end": "00:40:37",
+      "title": "The Three OSM Bars in Photoshop",
+      "concepts": [
+        "Save vs Save As",
+        "PSD format",
+        "Export vs Save for Web",
+        "JPEG/PNG export"
+      ],
+      "description": "Explains saving behavior for new and existing documents, formats that support layers, and the difference between Save, Save As, and exporting images for web use."
+    },
+    {
+      "start": "00:40:37",
+      "end": "00:43:45",
+      "title": "Options Bar",
+      "concepts": [
+        "Save vs Save As",
+        "PSD format",
+        "Export vs Save for Web",
+        "JPEG/PNG export",
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:43:45",
+      "end": "00:44:58",
+      "title": "Status Bar",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:44:58",
+      "end": "00:45:55",
+      "title": "Menu Bar",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:45:55",
+      "end": "00:46:35",
+      "title": "How to Undo and Redo",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:46:35",
+      "end": "00:51:02",
+      "title": "Master Navigation - Zoom and Pan",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:51:02",
+      "end": "00:52:44",
+      "title": "Turn This Photoshop Setting Off",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:52:44",
+      "end": "00:53:46",
+      "title": "The New Contextual Task Bar",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:53:46",
+      "end": "00:59:35",
+      "title": "Fun Project 3 - Contextual Task Bar",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:59:35",
+      "end": "00:59:51",
+      "title": "How to Really Master Photoshop",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    },
+    {
+      "start": "00:59:51",
+      "end": "01:00:35",
+      "title": "One Favor",
+      "concepts": [
+        "Options bar",
+        "Status bar",
+        "Menu bar",
+        "Contextual taskbar",
+        "Undo/Redo",
+        "Zoom and pan shortcuts"
+      ],
+      "description": "Covers the three main UI bars, how the contextual taskbar adapts to the current tool, and essential navigation shortcuts (undo/redo, fit to screen, zoom/pan, and related tips)."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Saving a custom workspace and recalling it later",
+      "timestamp": "00:11:22",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using the contextual taskbar to tailor tool options",
+      "timestamp": "00:59:05",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Spacebar panning and scrubby zoom for quick navigation",
+      "timestamp": "00:47:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Rolls-Royce (H-key) bird’s-eye zoom for targeted areas",
+      "timestamp": "00:49:46",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Exporting for web via Quick Export/Export As",
+      "timestamp": "00:37:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Save vs Save As and versioning workflow",
+      "timestamp": "00:35:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Lasso tool context-aware selection with contextual bar",
+      "timestamp": "00:55:03",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T05:41:40.668151+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

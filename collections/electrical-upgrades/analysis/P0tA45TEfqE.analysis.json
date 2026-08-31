@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "video": "P0tA45TEfqE.youtube",
+  "title": "Repairing a Three-Way Light Switch: Wiring, Testing, and Troubleshooting",
+  "date": {
+    "display": "July 23, 2016",
+    "iso": "2016-07-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "An Ask This Old House segment demonstrates diagnosing and repairing a miswired three-way light switch that controls a chandelier from two switches. The hosts cover the anatomy of single-pole versus three-way switches, show how to identify traveler wires and the common wire using a continuity tester and a lamp accessory, and guide the viewer through safely turning off power, labeling conductors, wiring the three-way correctly (traveler wires to the traveler screws and the common wire to the common terminal), and testing the setup to ensure both switches control the fixture as intended. A wiring diagram is used to illustrate how a typical three-way circuit functions, helping homeowners understand why the miswiring prevented operation.",
+  "topics": [
+    "three-way switch anatomy",
+    "single-pole switch basics",
+    "traveler wires",
+    "common wire",
+    "ground wire",
+    "voltmeter safety check",
+    "continuity tester",
+    "lamp accessory for testing continuity",
+    "identifying traveler conductors with continuity",
+    "three-way circuit diagram",
+    "two-switch control of a single fixture",
+    "wiring travelers to traveler screws",
+    "wiring common to common terminal",
+    "power-off safety procedure",
+    "retest after rewiring",
+    "final test of three-way operation",
+    "preventing miswiring of three-way switches"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:12",
+      "title": "Problem setup and miswiring with a chandelier",
+      "concepts": [
+        "two switches controlling one fixture",
+        "three-way switch box with extra wires"
+      ],
+      "description": "Pam asks about a problem where two switches control a single chandelier, and the box contains extra wires, indicating potential miswiring during three-way switch installation."
+    },
+    {
+      "start": "00:01:42",
+      "end": "00:03:05",
+      "title": "Switch anatomy: single-pole vs. three-way",
+      "concepts": [
+        "grounding",
+        "two terminals vs. three screws",
+        "common vs traveler identification"
+      ],
+      "description": "The hosts introduce ground, contrast single-pole switches with three-way switches, and explain how the latter has three screws (two travelers and one common)."
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:04:11",
+      "title": "Three-way circuit diagram and operation",
+      "concepts": [
+        "two traveler wires",
+        "common wire",
+        "diagrams of current paths",
+        "how flips affect circuit"
+      ],
+      "description": "A diagram illustrates a typical three-way circuit: two traveler wires between switches and a common wire, showing how switch positions route current to light the fixture."
+    },
+    {
+      "start": "00:04:22",
+      "end": "00:04:31",
+      "title": "Diagnosis plan: suspect miswired common/traveler",
+      "concepts": [
+        "common vs traveler wires mixed up",
+        "plan to straighten wiring"
+      ],
+      "description": "The host suspects the common and traveler wires are mixed and outlines a plan to correct the wiring."
+    },
+    {
+      "start": "00:04:35",
+      "end": "00:04:46",
+      "title": "Safety and power-off verification",
+      "concepts": [
+        "turn off circuit",
+        "volt meter verification"
+      ],
+      "description": "Safety steps include shutting the circuit off at the panel and verifying absence of power with a voltmeter before touching wiring."
+    },
+    {
+      "start": "00:04:49",
+      "end": "00:06:11",
+      "title": "Isolating and identifying conductors with a continuity tester",
+      "concepts": [
+        "continuity tester",
+        "two traveler conductors",
+        "wires in each box"
+      ],
+      "description": "Both switches are removed, and a continuity tester (with an internal power source) is used to identify traveler conductors by testing continuity between boxes."
+    },
+    {
+      "start": "00:06:11",
+      "end": "00:06:34",
+      "title": "Confirming traveler wires and wiring plan",
+      "concepts": [
+        "two traveler wires identified",
+        "labeling for traveler screws"
+      ],
+      "description": "The two traveler conductors are confirmed and prepared to be connected to the traveler terminals on the three-way switch."
+    },
+    {
+      "start": "00:06:34",
+      "end": "00:06:53",
+      "title": "Final wiring test: correct three-way operation",
+      "concepts": [
+        "connect travelers to traveler screws",
+        "connect common to common",
+        "power-on test"
+      ],
+      "description": "With power restored, the traveler and common conductors are wired to the correct terminals and the three-way switches are tested, demonstrating proper operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explaining three-way switch anatomy (common vs traveler wires)",
+      "timestamp": "00:02:26",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using a continuity tester to identify traveler wires across switch boxes",
+      "timestamp": "00:05:11",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Using a lamp accessory with the continuity tester to confirm continuity and audible/visual feedback",
+      "timestamp": "00:05:21",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Power-off safety verification with a voltmeter before handling wires",
+      "timestamp": "00:04:40",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Wiring a three-way switch: travelers to the traveler screws and the common to the common screw",
+      "timestamp": "00:06:19",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Using a wiring diagram to illustrate how a typical three-way circuit routes power",
+      "timestamp": "00:03:10",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:27:44.126845+00:00"
+}

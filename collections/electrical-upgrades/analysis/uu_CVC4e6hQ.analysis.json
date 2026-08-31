@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "video": "uu_CVC4e6hQ.youtube",
+  "title": "Hidden Cabinet Outlets: Concealed Under-Cabinet Plugs for a Clean Kitchen",
+  "date": {
+    "display": "January 6, 2026",
+    "iso": "2026-01-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Kitchen area (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript discusses backsplashes and cabinets; no explicit shooting location."
+    }
+  ],
+  "summary": "This Old House presents a solution to avoid visible electrical outlets on a large kitchen backsplash by installing under-cabinet plug modules. With a stated code requirement of six outlets, the video shows pre-existing wiring and the installers connecting and tucking in modules under each cabinet, achieving a tidy look with no traditional outlet boxes on the backsplash. The demonstration concludes with testing an appliance in use and a brief outro inviting viewers to watch more videos and subscribe.",
+  "topics": [
+    "under-cabinet plug modules",
+    "concealed outlets",
+    "kitchen electrical outlets",
+    "backsplash aesthetics",
+    "code requirement for outlets on backsplash",
+    "in-cabinet wiring",
+    "pre-existing wiring",
+    "installation workflow",
+    "testing power with an appliance",
+    "outlet-free backsplash",
+    "This Old House video format",
+    "home improvement channel"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:37",
+      "title": "Problem framing and proposed concealed outlets",
+      "concepts": [
+        "backsplash outlets",
+        "code requirement for outlets",
+        "six outlets",
+        "under cabinet plug modules",
+        "cabinet-mounted outlets"
+      ],
+      "description": "The homeowners favor large backsplash pieces and want to avoid visible outlets. The presenters reference a code requirement for six outlets and propose under-cabinet plug modules installed under each cabinet to preserve the backsplash aesthetic."
+    },
+    {
+      "start": "00:00:37",
+      "end": "00:01:00",
+      "title": "Under-cabinet module installation and wiring",
+      "concepts": [
+        "wiring already in place",
+        "connect wires",
+        "install under each cabinet",
+        "power on",
+        "no visible outlets"
+      ],
+      "description": "Wires are described as already present; the modules are connected and tucked under cabinets, resulting in concealed outlets with power available."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:01:12",
+      "title": "Conclusion and call to action",
+      "concepts": [
+        "video outro",
+        "subscribe",
+        "home improvement videos"
+      ],
+      "description": "The video closes with a typical This Old House outro encouraging viewers to watch more videos and subscribe for updates."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Under-cabinet plug modules for concealed outlets",
+      "timestamp": "00:00:21",
+      "confidence": 0.75
+    },
+    {
+      "technique": "In-cabinet wiring with pre-existing lines",
+      "timestamp": "00:00:32",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Testing power with an appliance to verify concealment",
+      "timestamp": "00:00:50",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Aesthetic concealment: no visible outlets on backsplash",
+      "timestamp": "00:00:27",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:37:44.717463+00:00"
+}

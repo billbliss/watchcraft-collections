@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "video": "OS5R_xJOnr8.youtube",
+  "title": "5 Minute vs. 5 Hour Vegan Tiramisu",
+  "date": {
+    "display": "June 8, 2021",
+    "iso": "2021-06-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "Goodful’s Merle leads viewers through two vegan tiramisu variations in a single video: a rapid 5-minute version built on a creamy silken tofu filling layered with crushed speculoos cookies and coffee, and a more traditional 5-hour version featuring a homemade vegan mascarpone, a sponge-like vegan ladyfinger cake, and espresso-dunked cake layers. The video provides ingredient lists, equipment, and time cues for each method, including blending the tofu filling, crumbling cookies, building layers in a jar for the quick version, baking and cooling a vegan sponge for the longer version, espresso-soaking and layering with mascarpone, followed by refrigeration to set. The tone is casual and encouraging, ending with tasting notes and a prompt for audience engagement.",
+  "topics": [
+    "silken tofu",
+    "full-fat coconut milk",
+    "lemon juice",
+    "organic sugar",
+    "vanilla extract",
+    "blender/food processor",
+    "speculoos cookies",
+    "speculoos crumbs",
+    "cold brew coffee",
+    "coffee liqueur (optional)",
+    "raspberries",
+    "five-minute tiramisu",
+    "layered tiramisu",
+    "espresso",
+    "Marsala wine",
+    "dark rum",
+    "ladyfinger cake",
+    "flour",
+    "sugar",
+    "baking soda",
+    "salt",
+    "non-dairy milk",
+    "vanilla",
+    "apple cider vinegar",
+    "oil",
+    "vegan mascarpone",
+    "refrigeration"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06.720",
+      "end": "00:01:53.600",
+      "title": "Five-minute vegan tiramisu",
+      "concepts": [
+        "silken tofu",
+        "coconut milk",
+        "speculoos cookies",
+        "cold brew coffee",
+        "layering in a jar",
+        "raspberries"
+      ],
+      "description": "Merle blends silken tofu with coconut milk, lemon juice, sugar, and vanilla to create a quick, creamy base, then builds a layered dessert in a mason jar using crushed speculoos cookies and a coffee mixture, finishing with raspberries."
+    },
+    {
+      "start": "00:02:00.719",
+      "end": "00:04:45.170",
+      "title": "Five-hour vegan tiramisu (traditional-style)",
+      "concepts": [
+        "vegan ladyfinger cake",
+        "vegan mascarpone",
+        "espresso soak",
+        "Marsala wine",
+        "dark rum",
+        "refrigeration"
+      ],
+      "description": "A more complex vegan tiramisu is assembled with a homemade vegan ladyfinger cake, a blender-made vegan mascarpone, and espresso-dunked layers. The cake is sliced, soaked in espresso with Marsala (or dark rum) and sugar, then layered with mascarpone in a dish and chilled for about three hours or overnight."
+    },
+    {
+      "start": "00:04:48.000",
+      "end": "00:05:50.080",
+      "title": "Tasting and final thoughts",
+      "concepts": [
+        "taste evaluation",
+        "vegan verdict",
+        "flavor development over time"
+      ],
+      "description": "Post-set, Merle tastes the final tiramisu, comments on flavor development and the value of the extra time for depth of flavor, and invites viewer feedback and future recipe ideas."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Tofu-based vegan cream for quick tiramisu",
+      "timestamp": "00:00:24.080",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Layering with speculoos cookies and coffee in a jar",
+      "timestamp": "00:00:50.079",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Espresso-dunked vegan tiramisu layers with Marsala/dark rum",
+      "timestamp": "00:04:01.040",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Homemade vegan mascarpone using vegan cream cheese",
+      "timestamp": "00:03:16.400",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Chill/set period to develop flavor and texture",
+      "timestamp": "00:04:39.280",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T18:10:47.323823+00:00"
+}

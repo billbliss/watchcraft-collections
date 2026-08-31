@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "video": "YwSWiB5ajOE.youtube",
+  "title": "Adjustment Layers in Photoshop – Day 5 (PHLEARN)",
+  "date": {
+    "display": "September 5, 2025",
+    "iso": "2025-09-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 5 lesson on adjustment layers teaches non-destructive color and light editing in Photoshop. The video defines what adjustment layers are, explains their nondestructive nature and the role of layer masks for selective visibility, and demonstrates how to access and organize these layers via three pathways (Layer menu, layers panel icon, and the Adjustments panel). It then walks through a broad set of adjustment types—starting with a basic Brightness/Contrast example and progressing through Levels, Curves, Exposure, Vibrance, Hue/Saturation, Color Balance, Black & White, Photo Filter, Channel Mixer, Color Lookup (LUTs), and Gradient Map—while illustrating masking techniques, clipping masks, auto-generation, reset, and practical tips for color grading. The session also covers grouping adjustments, saving and re-opening PSDs to preserve edits, and emphasizes using masks and opacity for subtle, non-destructive results.",
+  "topics": [
+    "Adjustment layers concept",
+    "Non-destructive editing",
+    "Layer masks for visibility control",
+    "Clipping masks and how to constrain effects",
+    "Access methods for adjustment layers",
+    "Workspace arrangement for adjustment editing",
+    "Brightness/Contrast adjustment layer",
+    "Levels adjustment layer",
+    "Curves adjustment layer",
+    "Exposure adjustment layer",
+    "Vibrance vs. Saturation",
+    "Hue/Saturation adjustment layer with masking",
+    "Color Balance adjustment layer",
+    "Black & White adjustment layer with tint and presets",
+    "Photo Filter adjustment layer",
+    "Channel Mixer adjustment layer",
+    "Color Lookup (LUTs) and 3D LUT presets",
+    "Gradient Map for color grading",
+    "Gradient masks for selective masking",
+    "Mask editing techniques (brush, gradient, selections)",
+    "Grouping adjustment layers",
+    "Saving PSDs to preserve adjustment layers",
+    "Opacity and blend modes on adjustment layers",
+    "Auto and reset functions within adjustment panels",
+    "Practical color grading workflows"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:15",
+      "title": "Intro: What are adjustment layers and why they matter",
+      "concepts": [
+        "definition of adjustment layer",
+        "non-destructive editing",
+        "layer masks for visibility control"
+      ],
+      "description": "Introduces adjustment layers as a means to edit light and color without altering the original image, highlighting the ability to toggle visibility and modify settings at any time, using layer masks to constrain effects."
+    },
+    {
+      "start": "00:02:15",
+      "end": "00:04:20",
+      "title": "Accessing adjustment layers and arranging the workflow",
+      "concepts": [
+        "Layer > New Adjustment Layer",
+        "Layers panel icon access",
+        "Adjustments panel access (Window > Adjustments)",
+        "Workspace docking for adjustments and properties"
+      ],
+      "description": "Outlines three main ways to create adjustment layers and demonstrates docking the Adjustments panel and Properties panel for an efficient workflow."
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:06:05",
+      "title": "Understanding panel focus: adjustments vs masks",
+      "concepts": [
+        "selection of adjustment vs layer mask",
+        "properties panel behavior"
+      ],
+      "description": "Explains how selecting the adjustment layer vs its mask changes the properties shown, reinforcing how masks govern where the adjustments apply."
+    },
+    {
+      "start": "00:06:05",
+      "end": "00:09:59",
+      "title": "First practical example: brightness/contrast and basic controls",
+      "concepts": [
+        "creating a new adjustment layer",
+        "frequency of properties and sliders",
+        "auto button and its effect"
+      ],
+      "description": "Demonstrates the Brightness/Contrast adjustment with its sliders, the auto button, and the concept of on/off toggling for iterative edits."
+    },
+    {
+      "start": "00:09:59",
+      "end": "00:12:50",
+      "title": "Layer masks and selective visibility with gradient masking",
+      "concepts": [
+        "gradient tool on layer masks",
+        "dark = invisible, light = visible",
+        "reversing gradients",
+        "center vs. edge visibility"
+      ],
+      "description": "Shows how to use a gradient on a layer mask to control where an adjustment appears, including reversing the gradient and understanding mask semantics."
+    },
+    {
+      "start": "00:12:50",
+      "end": "00:19:39",
+      "title": "Levels and Curves: color tonality and channel editing",
+      "concepts": [
+        "Levels vs. Curves overview",
+        "RGB channel adjustments",
+        "auto and multi-point control",
+        "color channel nuance and selective adjustments"
+      ],
+      "description": "Dives into Levels and Curves, compares their behavior, demonstrates channel-specific edits, and explains how these tools can be used for tonal and color adjustments."
+    },
+    {
+      "start": "00:19:39",
+      "end": "00:28:38",
+      "title": "Advanced adjustments and final workflow: color lookups, gradient maps, and organization",
+      "concepts": [
+        "Vibrance vs. Saturation",
+        "Hue/Saturation with masking",
+        "Color Balance for warm/cool shifts",
+        "Black & White with tint and presets",
+        "Photo Filter presets and strength",
+        "Channel Mixer for artistic color mixing",
+        "Color Lookup (LUTs) and gradient map for color grading",
+        "Opacity and blend modes on adjustment layers",
+        "Grouping adjustments and saving PSDs"
+      ],
+      "description": "Covers a suite of creative and color-grading adjustments, explains masking and selective application across many tools, demonstrates how to group layers for organization, and emphasizes saving PSDs to preserve editable adjustment layers."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Non-destructive adjustment layers with masks",
+      "timestamp": "00:00:14.799",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Three access methods to adjustment layers (Layer menu, Layers panel icon, Adjustments panel)",
+      "timestamp": "00:01:03.200",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Clipping mask to constrain an adjustment to a single layer",
+      "timestamp": "00:04:54.800",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Gradient masking: black = invisible, white = visible; radial gradient example",
+      "timestamp": "00:06:26.639",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Levels vs. Curves: color channel control and multi-point adjustment",
+      "timestamp": "00:14:00.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Color grading with Gradient Map and opacity adjustment",
+      "timestamp": "00:26:57.200",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Color Lookup (LUTs) and built-in presets for creative looks",
+      "timestamp": "00:23:39.000",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:15:34.035771+00:00"
+}

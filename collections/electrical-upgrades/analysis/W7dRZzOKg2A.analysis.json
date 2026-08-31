@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "video": "W7dRZzOKg2A.youtube",
+  "title": "Hardwired Interconnected Smoke and CO Detectors: Installation, Placement, and Testing (Ask This Old House)",
+  "date": {
+    "display": "April 3, 2026",
+    "iso": "2026-04-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Bedroom (3-5 ft from door)",
+      "confidence": 0.8,
+      "basis": "Transcript specifies placing one detector in each bedroom, preferably within 3 to 5 feet of the door."
+    },
+    {
+      "name": "Hallway",
+      "confidence": 0.8,
+      "basis": "Detector placement discussed down the hallway, with guidance to place 3-5 ft from doors and to maintain separation from drafts."
+    },
+    {
+      "name": "Base of stairs (ceiling)",
+      "confidence": 0.85,
+      "basis": "Transcript states the requirement to place a detector at the base of all stairs, on the ceiling, to protect means of egress."
+    },
+    {
+      "name": "Garage ceiling (center)",
+      "confidence": 0.85,
+      "basis": "Mention of a minimum detector in the garage located in the center of the ceiling."
+    }
+  ],
+  "summary": "The video documents a homeowner’s plan to upgrade from battery-operated smoke detectors to hardwired, interconnected smoke and carbon monoxide alarms, guided by a fire chief. The discussion covers detector types (ionization vs photocell, and CO integration), the benefits of interconnection for whole-house alerts, and the features of combo detectors with voice and tone. It then outlines practical placement guidelines for bedrooms, hallways, stairs, and an attached garage, along with wiring specifics (14-3 NM; black/white/red wiring; ground) and the use of a 10-year sealed battery in hardwired units. A hands-on installation follows, including attic routing, hole sawing for old-work boxes, wire pulling with fish tapes, and testing the system to confirm audible and speech indications for either smoke or CO events. The video closes with safety reminders to consult local fire departments for guidance and proper detector selection.",
+  "topics": [
+    "Hardwired interconnected smoke detectors",
+    "Carbon monoxide integration",
+    "Ionization vs photoelectric detector types",
+    "Photoelectric detectors with carbon monoxide integration",
+    "Voice and tone alerts on CO/smoke detectors",
+    "Placement guidelines: bedrooms (3-5 ft from door), hallways, base of stairs, garage",
+    "Distance from vents and fans to detectors",
+    "Detector placement near kitchens and bathrooms considerations",
+    "Interconnect wiring: red interconnect, 14-3 NM cable, color coding",
+    "Grounding and electrical box wiring practices",
+    "10-year sealed battery detectors vs traditional batteries",
+    "End-of-life indicators and manufacturing date on detectors",
+    "Attic wiring routing and use of old-work boxes",
+    "Hole saw sizing (3-3/4 in) and fish tape for routing",
+    "System testing: test button, audible cycles, and voice announcements",
+    "Safety guidance: consult local fire department for installation help"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05.000",
+      "end": "00:01:50.000",
+      "title": "Intro and Fire Chief Consultation",
+      "concepts": [
+        "Fire safety importance of early detection",
+        "Involving a local fire chief to explain detector choices and placement",
+        "Context for upgrading from battery-operated to hardwired interconnected detectors"
+      ],
+      "description": "The host introduces the project and enlists a fire chief to discuss detector selection and proper placement in the home."
+    },
+    {
+      "start": "00:02:04.000",
+      "end": "00:03:12.000",
+      "title": "Detector Types and Interconnection Overview",
+      "concepts": [
+        "Ionization vs photoelectric detectors",
+        "Code considerations for remodels and new installs",
+        "Interconnected alarms for whole-house warning"
+      ],
+      "description": "Chief explains the differences between ionization and photoelectric detectors, and why interconnected alarms provide earlier, more reliable warning across multiple rooms."
+    },
+    {
+      "start": "00:03:11.959",
+      "end": "00:04:04.000",
+      "title": "Placement Strategy for Bedrooms, Hallways, and Garage",
+      "concepts": [
+        "One detector per bedroom",
+        "Placement within 3-5 ft of the door; avoid proximity to ceilings fans",
+        "Detector placement 3-5 ft down the hallway from bedrooms",
+        "Base-of-stairs placement on the ceiling; garage detector on ceiling center"
+      ],
+      "description": "Discussion establishes where detectors should be located to maximize detection and minimize false alarms, including hallway and garage specifics."
+    },
+    {
+      "start": "00:05:12.000",
+      "end": "00:06:20.000",
+      "title": "Hardwired vs Battery and Wiring Overview",
+      "concepts": [
+        "Hardwired detectors with battery backup",
+        "10-year sealed battery option",
+        "Color-to-color wiring (black, white, red) and grounding",
+        "Interconnect loop continuity"
+      ],
+      "description": "Comparison of detector types, highlighting the advantages of hardwired systems with a long-life battery and interconnection wiring."
+    },
+    {
+      "start": "00:06:20.000",
+      "end": "00:07:40.680",
+      "title": "Wiring Route and Box Preparation",
+      "concepts": [
+        "Hole saw installation for new boxes",
+        "Attic routing and pulling wires with fish tape",
+        "Blocking and box alignment for multiple detectors"
+      ],
+      "description": "The installer demonstrates attic access, hole sizing, and planning for routing 14-3 NM cable to each detector box."
+    },
+    {
+      "start": "00:10:29.360",
+      "end": "00:11:10.400",
+      "title": "Testing and Safety Recap",
+      "concepts": [
+        "Test procedure and audible/voice indicators",
+        "Interpretation of cycles to distinguish smoke vs CO",
+        "Final safety reminder to consult local fire department"
+      ],
+      "description": "All detectors are installed and tested; the audible cycles confirm proper operation and voice alerts indicate the event type. The segment ends with safety reminders."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hardwired interconnected smoke and carbon monoxide detectors with 10-year sealed battery",
+      "timestamp": "00:05:18.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wiring interconnect: color-to-color wiring (black to black, white to white, red to red) with grounded installation",
+      "timestamp": "00:05:24.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Interconnect loop across multiple detectors to ensure all units alert together",
+      "timestamp": "00:10:10.000",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Detector placement guidelines: bedrooms 3-5 ft from door; avoid proximity to vents/fans",
+      "timestamp": "00:03:23.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Garage detector placement at the center of the ceiling",
+      "timestamp": "00:04:00.000",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Use of attic access and fiberglass fish tapes to route 14-3 NM cable to boxes",
+      "timestamp": "00:07:40.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Hole saw sizing for old-work boxes (3-3/4 in) and setting up front boxes before upstairs wiring",
+      "timestamp": "00:08:03.000",
+      "confidence": 0.7
+    },
+    {
+      "technique": "10-year sealed battery detectors with visible end-of-life indicators",
+      "timestamp": "00:05:50.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Test procedure: using test button to cycle through smoke vs CO with audible/voice alerts",
+      "timestamp": "00:10:38.000",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:38:25.778553+00:00"
+}

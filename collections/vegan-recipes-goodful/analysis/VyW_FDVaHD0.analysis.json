@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "video": "VyW_FDVaHD0.youtube",
+  "title": "Vegan Ice Cream to Cookies: Bakery Taste Tests and a Home Recipe (Goodful Can It Satisfy)",
+  "date": {
+    "display": "May 28, 2025",
+    "iso": "2025-05-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Los Angeles, CA",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly references LA and 'here in LA' and the Diddy Riese cookie shop in LA."
+    },
+    {
+      "name": "Diddy Riese Cookies, Los Angeles, CA",
+      "confidence": 0.75,
+      "basis": "Transcript explicitly names Diddy Riese as a favorite LA cookie shop."
+    }
+  ],
+  "summary": "In this Goodful episode, a host and guest explore vegan desserts by sampling store-bought vegan ice creams (including Salt & Straw lavender honey) and a studio-made vegan ice cream, then visit an all-vegan bakery to search for a chocolate-chip cookie that can stand up to traditional versions. They discuss vegan ice cream base formulations (oatmeal and coconut milk), fats (coconut oil), sweeteners, acids, and the use of add-ins and sauces. Back in the studio, they attempt a vegan chocolate chip cookie using egg-free substitutes (fruit purées), arrowroot, and garbanzo bean flour, prioritizing crispy edges and chewy centers. The episode closes with a tasting ranking, a comparison to non-vegan benchmarks (e.g., Lavender Honey from Salt & Straw), and a home-friendly recipe so viewers can recreate the results without traveling to vegan hubs.",
+  "topics": [
+    "vegan ice cream base: oatmeal + coconut milk",
+    "vegan fat: coconut oil",
+    "sweeteners: unrefined cane sugar",
+    "acid in ice cream base",
+    "eight-flavor ice cream concept",
+    "blueberry cheesecake vegan ice cream (cream cheese)",
+    "salt & straw lavender honey ice cream",
+    "pineapple/pina colada flavor in vegan ice cream",
+    "add-ins in vegan ice cream: cookies, brownies, blondies",
+    "sauces for vegan ice cream: caramel, fudge, strawberry syrup",
+    "ice cream churning and freezing process",
+    "vegan chocolate chip cookie ingredients: coconut oil",
+    "egg-free binding with fruit purée",
+    "arrowroot starch as binder",
+    "garbanzo bean flour (garbanzo fava flour)",
+    "texture goals: crispy edges, chewy centers",
+    "short-bread texture from coconut oil",
+    "comparison to non-vegan bakeries (Van Leeuwen)",
+    "Diddy Riese and Erin McKenna's vegan bakery context in LA",
+    "Salt & Straw as flavor benchmark",
+    "Dear Bella ice cream/cookie references from the segment",
+    "taste-testing and ranking (perfect-ten style)",
+    "home-version of vegan cookies to avoid bakery trips"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:40",
+      "title": "Intro, ice cream preferences, and vegan dessert vibe",
+      "concepts": [
+        "vegan ice cream enthusiasm",
+        "favorite flavors (lavender honey)",
+        "skepticism about vegan desserts"
+      ],
+      "description": "Host and guest discuss their sweet-tooth expectations and set up a vegan dessert challenge, referencing a lavender honey ice cream flavor (Salt & Straw) and establishing their skepticism/enthusiasm about vegan options."
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:04:46",
+      "title": "Visit to all-vegan bakery and cookie conversation",
+      "concepts": [
+        "vegan bakery context in LA",
+        "comparing vegan vs. omnivore cookies",
+        "search for a vegan chocolate chip cookie comparable to traditional versions"
+      ],
+      "description": "The group plans a stop at an all-vegan bakery to find a cookie as good as non-vegan versions, framing the challenge around texture and flavor expectations for vegan chocolate cookies."
+    },
+    {
+      "start": "00:04:46",
+      "end": "00:07:05",
+      "title": "Bakery ice cream process and tasting",
+      "concepts": [
+        "ice cream base and flavor development",
+        "mix-ins and sauces",
+        "flavor samples (Lavender Honey, blueberry cheesecake, Dear Bella cookies)"
+      ],
+      "description": "A bakery demonstrator explains the vegan ice cream process: base (oatmeal + coconut milk), fat, sweetener, acid, and flavoring options; notes add-ins (cookies, brownies, blondies) and potential sauces, followed by tasting highlights including Lavender Honey and blueberry cheesecake flavors and a reference to Dear Bella."
+    },
+    {
+      "start": "00:07:05",
+      "end": "00:08:11",
+      "title": "Home bake-off and closing critique",
+      "concepts": [
+        "home vegan chocolate chip cookie recipe",
+        "coconut oil texture, egg-free substitutions",
+        "arrowroot and garbanzo bean flour as binders",
+        "taste tests and final rankings",
+        "home-friendly takeaway"
+      ],
+      "description": "Back in the studio, the participants compare bakery cookies to a home-made vegan chocolate chip version, discuss texture (crispy exterior, chewy interior), and offer a home recipe and final ratings as takeaways for viewers."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Vegan ice cream base formulation",
+      "timestamp": "00:02:42",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Incorporating mix-ins and flavorings into vegan ice cream",
+      "timestamp": "00:02:58",
+      "confidence": 0.55
+    },
+    {
+      "technique": "Churning and freezing vegan ice cream",
+      "timestamp": "00:03:03",
+      "confidence": 0.55
+    },
+    {
+      "technique": "Vegan chocolate chip cookie dough using coconut oil and fruit purées",
+      "timestamp": "00:03:31",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Egg-free binding with arrowroot and garbanzo bean flour",
+      "timestamp": "00:03:51",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Texture control: crispy edges and chewy centers in vegan cookies",
+      "timestamp": "00:04:04",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Evaluative tasting: perfect-ten-like scoring and comparison",
+      "timestamp": "00:07:22",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T18:57:08.652364+00:00"
+}

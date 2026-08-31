@@ -8,7 +8,9 @@
       "collection_id": "hello-world-managed",
       "title": "Hello, Watchcraft! — Managed",
       "description": "A tiny self-contained video downloaded into Watchcraft’s private storage.",
-      "media_modes": ["managed-local"],
+      "media_modes": [
+        "managed-local"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/hello-world-managed/collection.json",
       "archived": true
     },
@@ -16,7 +18,9 @@
       "collection_id": "hello-world-referenced",
       "title": "Hello, Watchcraft! — Referenced",
       "description": "The same tiny video kept in a folder that remains under your control.",
-      "media_modes": ["referenced-local"],
+      "media_modes": [
+        "referenced-local"
+      ],
       "package_url": "https://collections.watchcraft.stream/downloads/hello-world-referenced.zip",
       "archived": true
     },
@@ -24,50 +28,109 @@
       "collection_id": "premiere-pro-ai-tools",
       "title": "Learning Adobe Premiere Pro",
       "description": "Four public YouTube lessons with searchable topics and chapter navigation.",
-      "media_modes": ["remote"],
+      "media_modes": [
+        "remote"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/premiere-pro-ai-tools/collection.json"
     },
     {
       "collection_id": "davinci-resolve",
       "title": "DaVinci Resolve",
       "description": "Five public YouTube lessons with searchable topics and chapter navigation.",
-      "media_modes": ["remote"],
+      "media_modes": [
+        "remote"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/davinci-resolve/collection.json"
     },
     {
       "collection_id": "official-ptgui-tutorial",
       "title": "Official PTGUI Tutorial",
       "description": "Nine public YouTube lessons with searchable topics and chapter navigation.",
-      "media_modes": ["remote"],
+      "media_modes": [
+        "remote"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/ptgui-tutorial/collection.json"
     },
     {
       "collection_id": "essence-of-linear-algebra",
       "title": "Essence of linear algebra",
       "description": "Sixteen visual lessons that build an intuitive understanding of vectors, matrices, determinants, and related ideas.",
-      "media_modes": ["remote"],
+      "media_modes": [
+        "remote"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/essence-of-linear-algebra/collection.json"
     },
     {
       "collection_id": "justinguitar-grade-1-beginner-guitar-course",
       "title": "JustinGuitar Grade 1 - Beginner Guitar Course",
       "description": "Seventy-nine beginner guitar lessons covering essential chords, rhythm, technique, practice, and songs.",
-      "media_modes": ["remote"],
+      "media_modes": [
+        "remote"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/justinguitar-grade-1-beginner-guitar-course/collection.json"
     },
     {
       "collection_id": "plumbing-repairs-and-upgrades",
       "title": "Plumbing Repairs and Upgrades",
       "description": "One hundred forty-seven practical lessons on household plumbing repairs, installation, maintenance, and upgrades.",
-      "media_modes": ["remote"],
+      "media_modes": [
+        "remote"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/plumbing-repairs-and-upgrades/collection.json"
     },
     {
       "collection_id": "techniquely-with-lan-lam-america-s-test-kitchen",
       "title": "Techniquely with Lan Lam | America's Test Kitchen",
       "description": "Fifty-one cooking lessons that explain the techniques and food science behind better results in the kitchen.",
-      "media_modes": ["remote"],
+      "media_modes": [
+        "remote"
+      ],
       "manifest_url": "https://collections.watchcraft.stream/collections/techniquely-with-lan-lam-america-s-test-kitchen/collection.json"
+    },
+    {
+      "collection_id": "photoshop-tutorial-for-beginners-complete-series",
+      "title": "Photoshop Tutorial for Beginners | Complete Series",
+      "description": "A Watchcraft collection generated from the Photoshop Tutorial for Beginners | Complete Series YouTube playlist.",
+      "media_modes": [
+        "remote"
+      ],
+      "manifest_url": "https://collections.watchcraft.stream/collections/photoshop-tutorial-for-beginners-complete-series/collection.json"
+    },
+    {
+      "collection_id": "electrical-upgrades",
+      "title": "Electrical Upgrades",
+      "description": "A Watchcraft collection generated from the Electrical Upgrades YouTube playlist.",
+      "media_modes": [
+        "remote"
+      ],
+      "manifest_url": "https://collections.watchcraft.stream/collections/electrical-upgrades/collection.json"
+    },
+    {
+      "collection_id": "photoshop-advanced-course-masking-retouching-3d-lighting-and-cameras",
+      "title": "Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras",
+      "description": "A Watchcraft collection generated from the Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras YouTube playlist.",
+      "media_modes": [
+        "remote"
+      ],
+      "manifest_url": "https://collections.watchcraft.stream/collections/photoshop-advanced-course-masking-retouching-3d-lighting-and-cameras/collection.json"
+    },
+    {
+      "collection_id": "30-days-of-photoshop",
+      "title": "30 Days of Photoshop",
+      "description": "A Watchcraft collection generated from the 30 Days of Photoshop YouTube playlist.",
+      "media_modes": [
+        "remote"
+      ],
+      "manifest_url": "https://collections.watchcraft.stream/collections/30-days-of-photoshop/collection.json"
+    },
+    {
+      "collection_id": "vegan-recipes-goodful",
+      "title": "Vegan Recipes | Goodful",
+      "description": "A Watchcraft collection generated from the Vegan Recipes | Goodful YouTube playlist.",
+      "media_modes": [
+        "remote"
+      ],
+      "manifest_url": "https://collections.watchcraft.stream/collections/vegan-recipes-goodful/collection.json"
     }
   ]
 }

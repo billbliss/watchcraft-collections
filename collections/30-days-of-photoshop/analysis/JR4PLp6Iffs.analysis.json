@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "video": "JR4PLp6Iffs.youtube",
+  "title": "Change Color in Photoshop – Day 8: Targeted Hue/Saturation Edits and Colorize Techniques",
+  "date": {
+    "display": "September 8, 2025",
+    "iso": "2025-09-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 8 lesson demonstrates how to change the color of objects in Photoshop using a hue/saturation adjustment layer, with emphasis on precise targeting via selection and masking. The tutorial covers selecting the object (a Volkswagen bus) with the Object Selection tool, loading the selection as a layer mask, and using color-based adjustments to alter hue, saturation, and lightness. It shows sampling target colors with the Eyedropper, refining edits with layer masks (painting with black to hide adjustments), and applying multiple Hue/Saturation layers to affect greens, blues, and even a blanket color using the Colorize option. The session concludes with a gradient-based mask for controlled transitions and a reminder to group layers for organization. The workflow is framed as adjustable and non-destructive, enabling quick re-tuning of colors at any time.",
+  "topics": [
+    "Hue/Saturation adjustment layer",
+    "Object Selection tool with AI features",
+    "Load selection as layer mask",
+    "Eyedropper tool for color targeting",
+    "Adjusting hue, saturation, and lightness",
+    "Layer masks to restrict color edits",
+    "Painting on masks with brush tool (black to hide edits)",
+    "Colorize option for blanket coloring",
+    "Gradient masking for localized color application",
+    "Multiple hue/saturation layers for selective colors (greens, blues, road)",
+    "Blending and realism considerations in color changes",
+    "Before/after comparison workflow",
+    "Layer organization and grouping"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:14:50",
+      "title": "Introduction and goal: change color on any object",
+      "concepts": [
+        "30 Days of Photoshop Day 8 overview",
+        "Changing color of any object",
+        "Non-destructive color edits",
+        "Realistic color changes and use of gradients"
+      ],
+      "description": "PHLEARN introduces the objective: learn to change the color of an object using Hue/Saturation, including selecting the object, isolating edits with masks, and exploring gradient-based refinements."
+    },
+    {
+      "start": "00:14:50",
+      "end": "01:12:24",
+      "title": "Workspace setup and initial Hue/Saturation workflow",
+      "concepts": [
+        "Opening and docking Adjustments panel",
+        "Creating hue/saturation adjustment layer",
+        "Selecting the object (Volkswagen bus) with Object Selection tool",
+        "Loading selection into a layer mask"
+      ],
+      "description": "Demonstrates arranging panels for visibility, adding a Hue/Saturation adjustment layer, and using the object selection tool to isolate the bus for color edits."
+    },
+    {
+      "start": "01:12:24",
+      "end": "03:45:00",
+      "title": "Targeting specific color with Eyedropper and refining color",
+      "concepts": [
+        "Eyedropper sampling to pick the exact color to affect",
+        "Adjusting hue on the targeted color",
+        "Mask ensures edits affect only the selected object"
+      ],
+      "description": "Shows sampling the exact color via Eyedropper, observing color changes as the hue is adjusted, and confirming that the layer mask confines edits to the bus."
+    },
+    {
+      "start": "03:45:00",
+      "end": "06:23:00",
+      "title": "Refining the mask to exclude non-target areas",
+      "concepts": [
+        "Layer mask updates to limit adjustments",
+        "Painting black on the mask to hide effects",
+        "Brush hardness and size controls (100% hardness; brackets for size)"
+      ],
+      "description": "Explains that hue/saturation affects nearby colors; edits are refined by painting black on the layer mask to exclude headlights and other non-target regions, preserving original colors elsewhere."
+    },
+    {
+      "start": "06:23:00",
+      "end": "09:12:00",
+      "title": "Expanding to additional color edits with more layers",
+      "concepts": [
+        "Creating new Hue/Saturation layers for foliage and sky",
+        "Targeting greens with Eyedropper",
+        "Targeting blues for the sky",
+        "Using separate masks per color"
+      ],
+      "description": "Demonstrates adding multiple Hue/Saturation layers to selectively alter greens and blues, each with its own mask to maintain control over different regions of the image."
+    },
+    {
+      "start": "09:12:00",
+      "end": "12:07:00",
+      "title": "Colorizing the road and gradient masking for subtle transitions",
+      "concepts": [
+        "Colorize option to blanket color",
+        "Gradient mask to limit visibility to a border between road and ground",
+        "Fine-tuning hue, saturation, and lightness for the road color",
+        "Comparison of Colorize vs traditional color-edit methods"
+      ],
+      "description": "Introduces the Colorize adjustment as a blanket color tool, followed by applying a gradient on the mask to create smooth, localized transitions and achieve a cohesive look with the surrounding scene."
+    },
+    {
+      "start": "12:07:00",
+      "end": "12:30:00",
+      "title": "Wrap-up and next steps",
+      "concepts": [
+        "Grouping layers for organization",
+        "Before/after comparisons",
+        "Previewing the next lesson: selecting the subject and optimizing its appearance"
+      ],
+      "description": "Recaps the multi-layer approach to color edits, emphasizes non-destructive workflow, and teases subsequent topics on subject enhancement."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hue/Saturation adjustment layer",
+      "timestamp": "00:00:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Object Selection tool with AI features to isolate the model for color changes",
+      "timestamp": "00:01:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Eyedropper to sample and dial in a precise target color",
+      "timestamp": "00:03:10",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Layer mask refinement by painting black to hide adjustments",
+      "timestamp": "00:05:30",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Colorize option for blanket coloration",
+      "timestamp": "00:10:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Gradient masking to create controlled, localized color transitions",
+      "timestamp": "00:11:05",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using multiple Hue/Saturation layers for greens, blues, and road",
+      "timestamp": "00:08:18",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Grouping adjustment layers for organization",
+      "timestamp": "00:12:14",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:01:17.168459+00:00"
+}

@@ -1,0 +1,238 @@
+{
+  "schema_version": 2,
+  "video": "t3mHXTYypLQ.youtube",
+  "title": "Photoshop Retouching Essentials: Healing Brush, Clone Stamp, Patch Tool, Liquify, Vanishing Point, and Teeth/Eye Enhancements",
+  "date": {
+    "display": "August 16, 2018",
+    "iso": "2018-08-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This YouTube tutorial from Bring Your Own Laptop presents a comprehensive, technique-forward approach to Photoshop retouching. Across multiple segments, the presenter demonstrates non-destructive workflows and precise tool applications for improving facial skin, eyes, and teeth, while also showing how to handle large edits and perspective-based composites. The course launches with Healing Brush fundamentals and layered non-destructive editing, then moves into Clone Stamp and Patch Tool tricks, followed by advanced use of Liquify (including Face Aware Liquify), Vanishing Point for perspective-based mockups, quick skin tone selections, and culminates with in-depth eye and teeth retouching. The video repeatedly emphasizes working on separate layers, masking, and using adjustment layers to keep edits reversible and controllable, with exercise files and class projects included for hands-on practice.",
+  "topics": [
+    "Healing Brush",
+    "Spot Healing Brush",
+    "Sample All Layers",
+    "Retouch Layer",
+    "Layering and non-destructive editing",
+    "Clone Tool Stamp",
+    "Clone Source",
+    "Rotate/angle sampling in Clone Source",
+    "Lock/align sampling with Aligned On/Off",
+    "Patch Tool",
+    "Source vs Destination in Patch Tool",
+    "Fade Patch Selection",
+    "Revert (File) and history states",
+    "Liquify",
+    "Face Aware Liquify",
+    "Forward Warp / Face Tool",
+    "Smart Object for Liquify",
+    "Vanishing Point (perspective planes / walls)",
+    "Perspective matching with Vanishing Point",
+    "Soft Light / Multiply / Hard Light / Luminosity (Blending Modes)",
+    "Masking and feathering on Groups",
+    "Quick Selection / Skin Tone selection",
+    "Color Balance / Levels / Hue/Saturation (skin tone work)",
+    "Dodge & Burn for eyes",
+    "Sponge Tool (color saturation in eyes)",
+    "Teeth whitening (Hue/Saturation, White rectangle, Layer Masks)",
+    "Eyes enhancement (breath of realism vs. faking)",
+    "Class projects and workflow guidance",
+    "Exercise files and class projects in '10 Retouching' folder"
+  ],
+  "sections": [
+    {
+      "start": "00:02:33.370",
+      "end": "00:04:58.000",
+      "title": "Healing Brush foundations and Layered workflow",
+      "concepts": [
+        "Healing Brush",
+        "Spot Healing Brush",
+        "Sample All Layers",
+        "Retouch Layer"
+      ],
+      "description": "Introduction to Healing Brush on a dedicated Retouch layer, with guidance to sample from all layers and to avoid edges, setting up non-destructive edits before proceeding."
+    },
+    {
+      "start": "00:04:58.000",
+      "end": "00:10:00.000",
+      "title": "Healing Brush advanced techniques and opacity control",
+      "concepts": [
+        "Brush hard/soft, sampling points, Shift joining",
+        "Opacity control on Move Tool",
+        "Aligned On/Off concept"
+      ],
+      "description": "Advanced tips for larger corrections, using Shift to join sampled regions, and adjusting opacity for realism while edits stay on a dedicated Retouch layer."
+    },
+    {
+      "start": "00:10:44.000",
+      "end": "00:12:00.000",
+      "title": "Clone Tool Stamp overview",
+      "concepts": [
+        "Clone Tool Stamp",
+        "Target sampling on a layer",
+        "Non-blended cloning vs Healing Brush"
+      ],
+      "description": "Initial look at cloning as a copy-paste brush, highlighting when to prefer cloning to preserve hard edges and avoid milky blends."
+    },
+    {
+      "start": "00:12:00.000",
+      "end": "00:14:59.000",
+      "title": "Clone Source rotation and multi-source sampling",
+      "concepts": [
+        "Clone Source window",
+        "Rotate sampling source",
+        "Multiple sampling points"
+      ],
+      "description": "Technique for rotating clone sources to match angles and textures, with tips on sourcing light and texture from multiple points for realism."
+    },
+    {
+      "start": "00:16:54.000",
+      "end": "00:23:34.000",
+      "title": "Patch Tool introduction and use for larger edits",
+      "concepts": [
+        "Patch Tool (Source)",
+        "Lasso/Quick Selection integration",
+        "From Source vs Destination",
+        "Deselect and refine"
+      ],
+      "description": "Patch Tool as an intentionality-based replacement method for larger areas, including how to sample from a chosen source region and refine with Deselect and subsequent touch-ups."
+    },
+    {
+      "start": "00:25:57.000",
+      "end": "01:01:00.000",
+      "title": "Liquify and Face Aware Liquify workflows",
+      "concepts": [
+        "Smart Object for reversible edits",
+        "Face Aware Liquify controls",
+        "Forward Warp / eyes, lips, jaw adjustments"
+      ],
+      "description": "Comprehensive Liquify demonstration with face-aware controls, linking facial features, and methods for subtle vs. extreme adjustments; emphasis on non-destructive practice via Smart Objects."
+    },
+    {
+      "start": "00:32:28.000",
+      "end": "00:41:11.000",
+      "title": "Vanishing Point: perspective planes on walls",
+      "concepts": [
+        "Vanishing Point tool",
+        "Planar guides",
+        "Edges and perspective alignment"
+      ],
+      "description": "Intro to using Vanishing Point to create planes for textures on walls, including defining planes and testing alignment using white reference squares."
+    },
+    {
+      "start": "00:44:43.000",
+      "end": "00:55:50.000",
+      "title": "Vanishing Point: advanced plane duplication and blending",
+      "concepts": [
+        "Multiple planes",
+        "Copy/paste between planes",
+        "Blending modes within Vanishing Point context"
+      ],
+      "description": "Further Vanishing Point techniques, including duplicating planes, merging with transformed layers, and managing edges for realistic compositions."
+    },
+    {
+      "start": "00:56:51.000",
+      "end": "01:02:56.000",
+      "title": "Skin tone quick selections and color balance",
+      "concepts": [
+        "Skin Tone color range",
+        "Color Balance adjustments",
+        "Mask painting to restrict edits"
+      ],
+      "description": "Efficient methods for quick skin selections using Color Range, Skin Tones presets, and color balance adjustments to warm skin tones while preserving non-skin areas with masks."
+    },
+    {
+      "start": "01:02:56.000",
+      "end": "01:10:56.000",
+      "title": "Eyes retouching: Phase 1 (saturation, dodge & burn)",
+      "concepts": [
+        "Sponge Tool (Desaturate/Saturate)",
+        "Dodge & Burn on eye highlights and shadows",
+        "Layered retouch on dedicated layer"
+      ],
+      "description": "A phased approach to eyes: saturate iris color, then apply dodge to brighten highlights and burn to deepen pupils, using a separate Retouch layer for toggling opacity."
+    },
+    {
+      "start": "01:10:56.000",
+      "end": "01:19:57.000",
+      "title": "Eyes retouching: Phase 2 (faking detail and color tweaks)",
+      "concepts": [
+        "Phase 2: synthetic detail with brushes",
+        "Blending modes (Color Dodge, Soft Light)",
+        "Custom eye color and subtle highlight work"
+      ],
+      "description": "Second phase explores more advanced, semi-artificial eye detail using brushes and blending modes, including eye color tweaks and subtle edge definition for realism."
+    },
+    {
+      "start": "01:21:44.000",
+      "end": "01:34:23.000",
+      "title": "Teeth whitening workflow with group-layer efficiency",
+      "concepts": [
+        "Hue/Saturation colorize",
+        "White rectangle + masking",
+        "Group masking to reuse edits",
+        "Levels adjustments"
+      ],
+      "description": "Teeth whitening using colorization, a white fill layer with masking, and grouped masks for multi-image reuse; final color balance and levels to restore natural tooth shade and contrast."
+    },
+    {
+      "start": "01:24:18.000",
+      "end": "01:34:23.000",
+      "title": "Class project guidance and practice targets",
+      "concepts": [
+        "Healing Brush on a dedicated layer",
+        "Clone Tool Stamp usage around clothing",
+        "Patch Tool for large areas"
+      ],
+      "description": "Guided class project workflow: apply three retouching tools (Healing Brush, Clone Stamp, Patch Tool) to a single image, with emphasis on natural results and sharing work for feedback."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Healing Brush on separate Retouch layer with Sample All Layers",
+      "timestamp": "00:02:33.370",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Clone Tool Stamp with Rotate/Source control via Clone Source",
+      "timestamp": "00:12:20.000",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Patch Tool with Source and Fade Patch Selection",
+      "timestamp": "00:16:54.000",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Liquify - Face Aware Liquify (two modes: global and per-feature adjustments)",
+      "timestamp": "00:25:57.000",
+      "confidence": 0.94
+    },
+    {
+      "technique": "Vanishing Point for perspective-based textures/walls",
+      "timestamp": "00:32:28.000",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Skin tone quick selections using Color Range and Skin Tones",
+      "timestamp": "00:56:51.000",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Eye retouching: Saturation (Sponge Tool) + Dodge & Burn on a separate layer",
+      "timestamp": "01:02:56.000",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Teeth whitening: Hue/Saturation colorize + white fill layer + masking",
+      "timestamp": "01:23:46.000",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:47:30.743263+00:00"
+}

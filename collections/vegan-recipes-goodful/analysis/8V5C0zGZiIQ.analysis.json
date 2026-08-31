@@ -1,0 +1,100 @@
+{
+  "schema_version": 2,
+  "video": "8V5C0zGZiIQ.youtube",
+  "title": "Vegan Hangover Recovery: Potassium-Rich Foods, Hydration, and a Tofu Burrito",
+  "date": {
+    "display": "July 2, 2022",
+    "iso": "2022-07-02",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The Goodful video presents a plant-based approach to easing hangover symptoms, emphasizing hydration and electrolytes alongside nutrient-dense foods. It highlights oatmeal as a complex carbohydrate for stable blood sugar, almonds for magnesium, bananas and avocado for potassium, spinach for folate, and sweet potatoes for magnesium, potassium, and vitamin A. A tofu scrambled breakfast burrito is offered as a practical demonstration that combines these elements. Hydration is framed as the key antidote, with recommendations for water, vegetable broth or miso soup, and coconut water, plus nausea relief via ginger and a lemon-ginger tea recipe to soothe the stomach.",
+  "topics": [
+    "oatmeal",
+    "almonds",
+    "bananas",
+    "potassium",
+    "avocado",
+    "guacamole",
+    "sweet potatoes",
+    "spinach",
+    "folate",
+    "tofu scrambled breakfast burrito",
+    "hydration",
+    "water",
+    "vegetable broth",
+    "miso soup",
+    "coconut water",
+    "ginger",
+    "lemon ginger tea"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:08:00",
+      "title": "Hangover causes and nutrient strategy",
+      "concepts": [
+        "dehydration",
+        "electrolytes",
+        "stomach irritation",
+        "inflammation",
+        "magnesium depletion",
+        "blood sugar stability",
+        "no magical cure"
+      ],
+      "description": "Explains that hangovers arise from dehydration, electrolyte loss, sleep disruption, stomach irritation, inflammation, and withdrawal symptoms. Introduces the idea that certain foods may ease symptoms, focusing on oatmeal forComplex carbohydrates, almonds for magnesium, and bananas for potassium as a trio to support recovery."
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:46:00",
+      "title": "Potassium- and folate-rich foods and tofu burrito",
+      "concepts": [
+        "potassium",
+        "avocado",
+        "spinach",
+        "sweet potatoes",
+        "folate",
+        "tofu",
+        "burrito"
+      ],
+      "description": "Discusses high-potassium foods (avocado, spinach, bananas) and notes spinach folate content, leading into a plant-based tofu scrambled breakfast burrito demonstration that combines these elements."
+    },
+    {
+      "start": "02:58:00",
+      "end": "04:32:00",
+      "title": "Hydration strategies and rehydration beverages",
+      "concepts": [
+        "water",
+        "broth",
+        "miso soup",
+        "coconut water",
+        "electrolytes",
+        "ginger",
+        "tea"
+      ],
+      "description": "Emphasizes hydration as a primary hangover remedy. Recommends fluids such as vegetable broth or miso soup for electrolytes, coconut water for natural electrolytes, and ginger and lemon-ginger tea for stomach relief and soothing effects."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Tofu scrambled breakfast burrito",
+      "timestamp": "01:46:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Lemon ginger tea recipe",
+      "timestamp": "03:31:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Hydration-focused rehydration liquids (broth, miso, coconut water)",
+      "timestamp": "03:12:00",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:09:52.819268+00:00"
+}

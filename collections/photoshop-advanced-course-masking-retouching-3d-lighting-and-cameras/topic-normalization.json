@@ -1,0 +1,1991 @@
+{
+  "assignments": {
+    "- adjusting extrusion depth and 3d object alignment": {
+      "alias_source_keys": [],
+      "canonical_key": "- adjusting extrusion depth and 3d object alignment",
+      "canonical_label": "- Adjusting extrusion depth and 3D object alignment",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "rationale": "This is about adjusting extrusion depth and aligning a 3D object.",
+      "source_key": "- adjusting extrusion depth and 3d object alignment",
+      "source_label": "- Adjusting extrusion depth and 3D object alignment"
+    },
+    "- class project instructions and sharing results": {
+      "alias_source_keys": [],
+      "canonical_key": "- class project instructions and sharing results",
+      "canonical_label": "- Class project instructions and sharing results",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "rationale": "The topic is class project instructions and sharing results.",
+      "source_key": "- class project instructions and sharing results",
+      "source_label": "- Class project instructions and sharing results"
+    },
+    "- depth of field and camera controls (rad view)": {
+      "alias_source_keys": [],
+      "canonical_key": "- depth of field and camera controls (rad view)",
+      "canonical_label": "- Depth of Field and camera controls (Rad View)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-3d-camera-and-view-f07dd3a9"
+      ],
+      "rationale": "It covers depth of field and camera controls in a 3D view.",
+      "source_key": "- depth of field and camera controls (rad view)",
+      "source_label": "- Depth of Field and camera controls (Rad View)"
+    },
+    "- extrusion workflow for text and shapes": {
+      "alias_source_keys": [],
+      "canonical_key": "- extrusion workflow for text and shapes",
+      "canonical_label": "- Extrusion workflow for text and shapes",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "rationale": "Extruding text and shapes is a core 3D modeling workflow.",
+      "source_key": "- extrusion workflow for text and shapes",
+      "source_label": "- Extrusion workflow for text and shapes"
+    },
+    "- fake 3d / 2.5d with gradient ellipses and mixer brush": {
+      "alias_source_keys": [],
+      "canonical_key": "- fake 3d / 2.5d with gradient ellipses and mixer brush",
+      "canonical_label": "- Fake 3D / 2.5D with gradient ellipses and Mixer Brush",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-fake-3d-effects-2871cdf1"
+      ],
+      "rationale": "This is explicitly a fake 3D or 2.5D technique.",
+      "source_key": "- fake 3d / 2.5d with gradient ellipses and mixer brush",
+      "source_label": "- Fake 3D / 2.5D with gradient ellipses and Mixer Brush"
+    },
+    "- ground plane, environment/shadow settings, and how to disable unwanted planes": {
+      "alias_source_keys": [],
+      "canonical_key": "- ground plane, environment/shadow settings, and how to disable unwanted planes",
+      "canonical_label": "- Ground plane, environment/shadow settings, and how to disable unwanted planes",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "rationale": "Ground plane, environment shadow, and plane visibility are lighting and shadow settings.",
+      "source_key": "- ground plane, environment/shadow settings, and how to disable unwanted planes",
+      "source_label": "- Ground plane, environment/shadow settings, and how to disable unwanted planes"
+    },
+    "- importing vector logos via place embedded and extruding them": {
+      "alias_source_keys": [],
+      "canonical_key": "- importing vector logos via place embedded and extruding them",
+      "canonical_label": "- Importing vector logos via Place Embedded and extruding them",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "rationale": "Importing and extruding vector logos is part of building 3D objects.",
+      "source_key": "- importing vector logos via place embedded and extruding them",
+      "source_label": "- Importing vector logos via Place Embedded and extruding them"
+    },
+    "- interacting with multiple lights and combined lighting results": {
+      "alias_source_keys": [],
+      "canonical_key": "- interacting with multiple lights and combined lighting results",
+      "canonical_label": "- Interacting with multiple lights and combined lighting results",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "rationale": "The focus is on how multiple lights interact in a scene.",
+      "source_key": "- interacting with multiple lights and combined lighting results",
+      "source_label": "- Interacting with multiple lights and combined lighting results"
+    },
+    "- lighting types (infinite light, environmental ibl, point light, spotlight)": {
+      "alias_source_keys": [],
+      "canonical_key": "- lighting types (infinite light, environmental ibl, point light, spotlight)",
+      "canonical_label": "- Lighting types (Infinite Light, Environmental IBL, Point Light, Spotlight)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "rationale": "This lists Photoshop 3D light types and related illumination modes.",
+      "source_key": "- lighting types (infinite light, environmental ibl, point light, spotlight)",
+      "source_label": "- Lighting types (Infinite Light, Environmental IBL, Point Light, Spotlight)"
+    },
+    "- loading additional materials from adobe (get more content)": {
+      "alias_source_keys": [],
+      "canonical_key": "- loading additional materials from adobe (get more content)",
+      "canonical_label": "- Loading additional materials from Adobe (Get More Content)",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-3d-texturing-6e8d09a8"
+      ],
+      "rationale": "Loading additional materials from Adobe is a texturing/material workflow.",
+      "source_key": "- loading additional materials from adobe (get more content)",
+      "source_label": "- Loading additional materials from Adobe (Get More Content)"
+    },
+    "- materials and textures (diffusion color, reflection, roughness, bump, opacity)": {
+      "alias_source_keys": [],
+      "canonical_key": "- materials and textures (diffusion color, reflection, roughness, bump, opacity)",
+      "canonical_label": "- Materials and textures (diffusion color, reflection, roughness, bump, opacity)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-3d-texturing-6e8d09a8"
+      ],
+      "rationale": "The topic names material channels like diffusion, reflection, roughness, bump, and opacity.",
+      "source_key": "- materials and textures (diffusion color, reflection, roughness, bump, opacity)",
+      "source_label": "- Materials and textures (diffusion color, reflection, roughness, bump, opacity)"
+    },
+    "- merging multiple 3d layers into a single scene": {
+      "alias_source_keys": [],
+      "canonical_key": "- merging multiple 3d layers into a single scene",
+      "canonical_label": "- Merging multiple 3D layers into a single scene",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-3d-scene-assembly-0f119508"
+      ],
+      "rationale": "Merging multiple 3D layers into one scene is scene assembly.",
+      "source_key": "- merging multiple 3d layers into a single scene",
+      "source_label": "- Merging multiple 3D layers into a single scene"
+    },
+    "- moving/manipulating 3d objects and camera with 3d tools": {
+      "alias_source_keys": [],
+      "canonical_key": "- moving/manipulating 3d objects and camera with 3d tools",
+      "canonical_label": "- Moving/manipulating 3D objects and camera with 3D tools",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-3d-scene-assembly-0f119508",
+        "family-3d-camera-and-view-f07dd3a9"
+      ],
+      "rationale": "It involves manipulating 3D objects and the camera with 3D tools.",
+      "source_key": "- moving/manipulating 3d objects and camera with 3d tools",
+      "source_label": "- Moving/manipulating 3D objects and camera with 3D tools"
+    },
+    "- path-based 3d (pen/curvature tool) and interlocking text effects": {
+      "alias_source_keys": [],
+      "canonical_key": "- path-based 3d (pen/curvature tool) and interlocking text effects",
+      "canonical_label": "- Path-based 3D (Pen/Curvature Tool) and interlocking text effects",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "rationale": "Pen/Curvature-based 3D paths and interlocking text effects are modeling setup work.",
+      "source_key": "- path-based 3d (pen/curvature tool) and interlocking text effects",
+      "source_label": "- Path-based 3D (Pen/Curvature Tool) and interlocking text effects"
+    },
+    "- photoshop 3d prerequisites (64-bit, vram requirements)": {
+      "alias_source_keys": [],
+      "canonical_key": "- photoshop 3d prerequisites (64-bit, vram requirements)",
+      "canonical_label": "- Photoshop 3D prerequisites (64-bit, VRAM requirements)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-3d-setup-and-workspace-cad14164"
+      ],
+      "rationale": "This covers Photoshop 3D system prerequisites like 64-bit and VRAM.",
+      "source_key": "- photoshop 3d prerequisites (64-bit, vram requirements)",
+      "source_label": "- Photoshop 3D prerequisites (64-bit, VRAM requirements)"
+    },
+    "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)": {
+      "alias_source_keys": [],
+      "canonical_key": "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)",
+      "canonical_label": "- Photoshop 3D workspace setup (Window > Workspace > 3D; Reset 3D)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-3d-setup-and-workspace-cad14164"
+      ],
+      "rationale": "Workspace setup and Reset 3D are environment configuration tasks.",
+      "source_key": "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)",
+      "source_label": "- Photoshop 3D workspace setup (Window > Workspace > 3D; Reset 3D)"
+    },
+    "- postcard 3d workflow (background planes)": {
+      "alias_source_keys": [],
+      "canonical_key": "- postcard 3d workflow (background planes)",
+      "canonical_label": "- Postcard 3D workflow (background planes)",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "rationale": "A postcard workflow uses a background plane as a basic 3D setup.",
+      "source_key": "- postcard 3d workflow (background planes)",
+      "source_label": "- Postcard 3D workflow (background planes)"
+    },
+    "- render performance tips (image size, vram, shadow quality, performance preferences)": {
+      "alias_source_keys": [],
+      "canonical_key": "- render performance tips (image size, vram, shadow quality, performance preferences)",
+      "canonical_label": "- Render performance tips (Image Size, VRAM, Shadow Quality, Performance preferences)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-3d-rendering-and-export-3a4b5a50"
+      ],
+      "rationale": "The topic is about improving render performance and quality settings.",
+      "source_key": "- render performance tips (image size, vram, shadow quality, performance preferences)",
+      "source_label": "- Render performance tips (Image Size, VRAM, Shadow Quality, Performance preferences)"
+    },
+    "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)": {
+      "alias_source_keys": [],
+      "canonical_key": "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)",
+      "canonical_label": "- Rendering basics and previews (Render, Esc to stop, Rectangle Marquee for partial renders)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-3d-rendering-and-export-3a4b5a50"
+      ],
+      "rationale": "It covers rendering previews, stopping renders, and partial renders.",
+      "source_key": "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)",
+      "source_label": "- Rendering basics and previews (Render, Esc to stop, Rectangle Marquee for partial renders)"
+    },
+    "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)": {
+      "alias_source_keys": [],
+      "canonical_key": "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)",
+      "canonical_label": "- Rendering exports (Saving as JPEG, turning 3D off, importing into InDesign/Illustrator)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-3d-rendering-and-export-3a4b5a50"
+      ],
+      "rationale": "This is about final render export and sending results to other apps.",
+      "source_key": "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)",
+      "source_label": "- Rendering exports (Saving as JPEG, turning 3D off, importing into InDesign/Illustrator)"
+    },
+    "- saving and switching between camera views (rad view, current view, scene)": {
+      "alias_source_keys": [],
+      "canonical_key": "- saving and switching between camera views (rad view, current view, scene)",
+      "canonical_label": "- Saving and switching between camera views (Rad View, Current View, Scene)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-3d-camera-and-view-f07dd3a9"
+      ],
+      "rationale": "Saving and switching camera views belongs to camera and view management.",
+      "source_key": "- saving and switching between camera views (rad view, current view, scene)",
+      "source_label": "- Saving and switching between camera views (Rad View, Current View, Scene)"
+    },
+    "- shadow softness, light color, intensity, and hotspot controls": {
+      "alias_source_keys": [],
+      "canonical_key": "- shadow softness, light color, intensity, and hotspot controls",
+      "canonical_label": "- Shadow softness, light color, intensity, and hotspot controls",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "rationale": "Shadow softness, light color, intensity, and hotspot are lighting controls.",
+      "source_key": "- shadow softness, light color, intensity, and hotspot controls",
+      "source_label": "- Shadow softness, light color, intensity, and hotspot controls"
+    },
+    "3d in photoshop": {
+      "alias_source_keys": [],
+      "canonical_key": "3d in photoshop",
+      "canonical_label": "3D in Photoshop",
+      "confidence": 0.55,
+      "family_ids": [
+        "family-3d-setup-and-workspace-cad14164"
+      ],
+      "rationale": "This broad introduction mentions 3D in Photoshop, but not a specific workflow.",
+      "source_key": "3d in photoshop",
+      "source_label": "3D in Photoshop"
+    },
+    "adjustment layers": {
+      "alias_source_keys": [],
+      "canonical_key": "adjustment layers",
+      "canonical_label": "Adjustment Layers",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "rationale": "Adjustment layers are a standard tonal and color editing tool.",
+      "source_key": "adjustment layers",
+      "source_label": "Adjustment Layers"
+    },
+    "advanced retouching: healing, cloning, patching; teeth and eye corrections": {
+      "alias_source_keys": [],
+      "canonical_key": "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "canonical_label": "Advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-retouching-tools-09c908c4",
+        "family-portrait-retouching-9c376815"
+      ],
+      "rationale": "Healing, cloning, patching, and facial corrections are retouching tasks.",
+      "source_key": "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "source_label": "Advanced retouching: healing, cloning, patching; teeth and eye corrections"
+    },
+    "advanced selection techniques": {
+      "alias_source_keys": [
+        "save selections"
+      ],
+      "canonical_key": "advanced selection techniques",
+      "canonical_label": "Advanced selection techniques",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "The topic is about advanced selection techniques, and Save Selections is a true alias.",
+      "source_key": "advanced selection techniques",
+      "source_label": "Advanced selection techniques"
+    },
+    "artboards and social media post sizing": {
+      "alias_source_keys": [],
+      "canonical_key": "artboards and social media post sizing",
+      "canonical_label": "Artboards and social media post sizing",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-typography-and-layout-24770b41"
+      ],
+      "rationale": "Artboards and social media sizing are layout-related design workflows.",
+      "source_key": "artboards and social media post sizing",
+      "source_label": "Artboards and social media post sizing"
+    },
+    "channel mask": {
+      "alias_source_keys": [],
+      "canonical_key": "channel mask",
+      "canonical_label": "Channel Mask",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "A channel mask is a masking technique used for selections.",
+      "source_key": "channel mask",
+      "source_label": "Channel Mask"
+    },
+    "channel mask workflow with focus area": {
+      "alias_source_keys": [],
+      "canonical_key": "channel mask workflow with focus area",
+      "canonical_label": "Channel Mask workflow with Focus Area",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Channel mask workflow with Focus Area is still a masking workflow.",
+      "source_key": "channel mask workflow with focus area",
+      "source_label": "Channel Mask workflow with Focus Area"
+    },
+    "class projects and workflow guidance": {
+      "alias_source_keys": [],
+      "canonical_key": "class projects and workflow guidance",
+      "canonical_label": "Class projects and workflow guidance",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "rationale": "This is class project and workflow guidance.",
+      "source_key": "class projects and workflow guidance",
+      "source_label": "Class projects and workflow guidance"
+    },
+    "clone source": {
+      "alias_source_keys": [],
+      "canonical_key": "clone source",
+      "canonical_label": "Clone Source",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Clone Source is part of clone-based retouching.",
+      "source_key": "clone source",
+      "source_label": "Clone Source"
+    },
+    "clone tool stamp": {
+      "alias_source_keys": [],
+      "canonical_key": "clone tool stamp",
+      "canonical_label": "Clone Tool Stamp",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Clone Stamp is a core retouching tool.",
+      "source_key": "clone tool stamp",
+      "source_label": "Clone Tool Stamp"
+    },
+    "color balance / levels / hue/saturation (skin tone work)": {
+      "alias_source_keys": [],
+      "canonical_key": "color balance / levels / hue/saturation (skin tone work)",
+      "canonical_label": "Color Balance / Levels / Hue/Saturation (skin tone work)",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15",
+        "family-portrait-retouching-9c376815"
+      ],
+      "rationale": "These adjustments are used specifically for skin tone work in portrait retouching.",
+      "source_key": "color balance / levels / hue/saturation (skin tone work)",
+      "source_label": "Color Balance / Levels / Hue/Saturation (skin tone work)"
+    },
+    "color range": {
+      "alias_source_keys": [
+        "color range skin tones"
+      ],
+      "canonical_key": "color range",
+      "canonical_label": "Color Range",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "rationale": "Color Range is a color-based selection method, and the alias matches exactly.",
+      "source_key": "color range",
+      "source_label": "Color Range"
+    },
+    "color range skin tones": {
+      "alias_source_keys": [
+        "color range"
+      ],
+      "canonical_key": "color range skin tones",
+      "canonical_label": "Color Range Skin Tones",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "rationale": "Color Range Skin Tones is a specific Color Range variant for selecting skin tones.",
+      "source_key": "color range skin tones",
+      "source_label": "Color Range Skin Tones"
+    },
+    "copy/paste layer mask": {
+      "alias_source_keys": [],
+      "canonical_key": "copy/paste layer mask",
+      "canonical_label": "Copy/Paste Layer Mask",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-selections-and-masking-4341d617",
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "Copying and pasting layer masks is a masking and layer workflow.",
+      "source_key": "copy/paste layer mask",
+      "source_label": "Copy/Paste Layer Mask"
+    },
+    "creating more of something (content generation)": {
+      "alias_source_keys": [],
+      "canonical_key": "creating more of something (content generation)",
+      "canonical_label": "Creating more of something (content generation)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-content-aware-and-generation-01aa5eb7"
+      ],
+      "rationale": "Creating more of something refers to generating additional content.",
+      "source_key": "creating more of something (content generation)",
+      "source_label": "Creating more of something (content generation)"
+    },
+    "decontaminate colors": {
+      "alias_source_keys": [],
+      "canonical_key": "decontaminate colors",
+      "canonical_label": "Decontaminate Colors",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Decontaminate Colors is part of refining selections and masks.",
+      "source_key": "decontaminate colors",
+      "source_label": "Decontaminate Colors"
+    },
+    "distortion, bending, and reshaping images": {
+      "alias_source_keys": [],
+      "canonical_key": "distortion, bending, and reshaping images",
+      "canonical_label": "Distortion, bending, and reshaping images",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "rationale": "Distortion, bending, and reshaping images map directly to warping and liquify-style edits.",
+      "source_key": "distortion, bending, and reshaping images",
+      "source_label": "Distortion, bending, and reshaping images"
+    },
+    "dodge & burn for eyes": {
+      "alias_source_keys": [],
+      "canonical_key": "dodge & burn for eyes",
+      "canonical_label": "Dodge & Burn for eyes",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-portrait-retouching-9c376815",
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Dodge and burn for eyes is a portrait enhancement retouching technique.",
+      "source_key": "dodge & burn for eyes",
+      "source_label": "Dodge & Burn for eyes"
+    },
+    "downloadable exercise files and class projects": {
+      "alias_source_keys": [
+        "exercise files and class projects in '10 retouching' folder"
+      ],
+      "canonical_key": "downloadable exercise files and class projects",
+      "canonical_label": "Downloadable exercise files and class projects",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "rationale": "This is the same exercise-file/class-project concept phrased differently.",
+      "source_key": "downloadable exercise files and class projects",
+      "source_label": "Downloadable exercise files and class projects"
+    },
+    "drop shadow and layer styles": {
+      "alias_source_keys": [],
+      "canonical_key": "drop shadow and layer styles",
+      "canonical_label": "Drop Shadow and Layer Styles",
+      "confidence": 0.47,
+      "family_ids": [
+        "family-special-effects-d32524c2"
+      ],
+      "rationale": "Drop Shadow is a layer-style visual effect rather than masking or retouching.",
+      "source_key": "drop shadow and layer styles",
+      "source_label": "Drop Shadow and Layer Styles"
+    },
+    "edge detection": {
+      "alias_source_keys": [],
+      "canonical_key": "edge detection",
+      "canonical_label": "Edge Detection",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Edge Detection is part of refining selection edges.",
+      "source_key": "edge detection",
+      "source_label": "Edge Detection"
+    },
+    "enlarging images without distortion": {
+      "alias_source_keys": [],
+      "canonical_key": "enlarging images without distortion",
+      "canonical_label": "Enlarging images without distortion",
+      "confidence": 0.22,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "rationale": "This sounds like a general course workflow tip, not a specific listed family.",
+      "source_key": "enlarging images without distortion",
+      "source_label": "Enlarging images without distortion"
+    },
+    "exercise files and class projects in '10 retouching' folder": {
+      "alias_source_keys": [
+        "downloadable exercise files and class projects"
+      ],
+      "canonical_key": "exercise files and class projects in '10 retouching' folder",
+      "canonical_label": "Exercise files and class projects in '10 Retouching' folder",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "rationale": "This is the same exercise-file/class-project concept in reverse wording.",
+      "source_key": "exercise files and class projects in '10 retouching' folder",
+      "source_label": "Exercise files and class projects in '10 Retouching' folder"
+    },
+    "eyes enhancement (breath of realism vs. faking)": {
+      "alias_source_keys": [],
+      "canonical_key": "eyes enhancement (breath of realism vs. faking)",
+      "canonical_label": "Eyes enhancement (breath of realism vs. faking)",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-portrait-retouching-9c376815"
+      ],
+      "rationale": "Eye enhancement is a portrait retouching task.",
+      "source_key": "eyes enhancement (breath of realism vs. faking)",
+      "source_label": "Eyes enhancement (breath of realism vs. faking)"
+    },
+    "face aware liquify": {
+      "alias_source_keys": [],
+      "canonical_key": "face aware liquify",
+      "canonical_label": "Face Aware Liquify",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "rationale": "Face Aware Liquify is a named Liquify workflow.",
+      "source_key": "face aware liquify",
+      "source_label": "Face Aware Liquify"
+    },
+    "fade patch selection": {
+      "alias_source_keys": [],
+      "canonical_key": "fade patch selection",
+      "canonical_label": "Fade Patch Selection",
+      "confidence": 0.41,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "The phrase appears to refer to patch-tool workflow, not saving selections.",
+      "source_key": "fade patch selection",
+      "source_label": "Fade Patch Selection"
+    },
+    "focus area": {
+      "alias_source_keys": [],
+      "canonical_key": "focus area",
+      "canonical_label": "Focus Area",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Focus Area is a selection tool for isolating subjects.",
+      "source_key": "focus area",
+      "source_label": "Focus Area"
+    },
+    "forward warp / face tool": {
+      "alias_source_keys": [],
+      "canonical_key": "forward warp / face tool",
+      "canonical_label": "Forward Warp / Face Tool",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "rationale": "Forward Warp and Face Tool are Liquify deformation controls.",
+      "source_key": "forward warp / face tool",
+      "source_label": "Forward Warp / Face Tool"
+    },
+    "group mask": {
+      "alias_source_keys": [],
+      "canonical_key": "group mask",
+      "canonical_label": "Group Mask",
+      "confidence": 0.73,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Group masks belong to layer organization and masking workflows.",
+      "source_key": "group mask",
+      "source_label": "Group Mask"
+    },
+    "hard and blurry image fixes": {
+      "alias_source_keys": [],
+      "canonical_key": "hard and blurry image fixes",
+      "canonical_label": "Hard and blurry image fixes",
+      "confidence": 0.28,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "rationale": "This is too vague, but it suggests fixing contrast/sharpness issues.",
+      "source_key": "hard and blurry image fixes",
+      "source_label": "Hard and blurry image fixes"
+    },
+    "healing brush": {
+      "alias_source_keys": [
+        "spot healing brush"
+      ],
+      "canonical_key": "healing brush",
+      "canonical_label": "Healing Brush",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Spot Healing Brush is a true alias of Healing Brush in this context.",
+      "source_key": "healing brush",
+      "source_label": "Healing Brush"
+    },
+    "hue/saturation": {
+      "alias_source_keys": [],
+      "canonical_key": "hue/saturation",
+      "canonical_label": "Hue/Saturation",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "rationale": "Hue/Saturation is a standard color adjustment.",
+      "source_key": "hue/saturation",
+      "source_label": "Hue/Saturation"
+    },
+    "layer masks": {
+      "alias_source_keys": [
+        "copy/paste layer mask"
+      ],
+      "canonical_key": "layer masks",
+      "canonical_label": "Layer Masks",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-selections-and-masking-4341d617",
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "Copying or pasting layer masks is a masking workflow on layers.",
+      "source_key": "layer masks",
+      "source_label": "Layer Masks"
+    },
+    "layering and non-destructive editing": {
+      "alias_source_keys": [],
+      "canonical_key": "layering and non-destructive editing",
+      "canonical_label": "Layering and non-destructive editing",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "Layering and non-destructive editing centers on layered workflows.",
+      "source_key": "layering and non-destructive editing",
+      "source_label": "Layering and non-destructive editing"
+    },
+    "levels and curves adjustments": {
+      "alias_source_keys": [],
+      "canonical_key": "levels and curves adjustments",
+      "canonical_label": "Levels and curves adjustments",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "rationale": "Levels and Curves are tonal adjustment tools.",
+      "source_key": "levels and curves adjustments",
+      "source_label": "Levels and curves adjustments"
+    },
+    "liquify": {
+      "alias_source_keys": [],
+      "canonical_key": "liquify",
+      "canonical_label": "Liquify",
+      "confidence": 1.0,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "rationale": "Liquify is the core reshape/warp tool.",
+      "source_key": "liquify",
+      "source_label": "Liquify"
+    },
+    "localized color clusters": {
+      "alias_source_keys": [],
+      "canonical_key": "localized color clusters",
+      "canonical_label": "Localized Color Clusters",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "rationale": "Localized Color Clusters refers to selecting by clustered color regions.",
+      "source_key": "localized color clusters",
+      "source_label": "Localized Color Clusters"
+    },
+    "lock/align sampling with aligned on/off": {
+      "alias_source_keys": [],
+      "canonical_key": "lock/align sampling with aligned on/off",
+      "canonical_label": "Lock/align sampling with Aligned On/Off",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Aligned On/Off controls source sampling behavior for clone/healing work.",
+      "source_key": "lock/align sampling with aligned on/off",
+      "source_label": "Lock/align sampling with Aligned On/Off"
+    },
+    "masking and feathering on groups": {
+      "alias_source_keys": [],
+      "canonical_key": "masking and feathering on groups",
+      "canonical_label": "Masking and feathering on Groups",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-selections-and-masking-4341d617",
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "Group masking and feathering combine masking with layer-group structure.",
+      "source_key": "masking and feathering on groups",
+      "source_label": "Masking and feathering on Groups"
+    },
+    "masking efficiency": {
+      "alias_source_keys": [],
+      "canonical_key": "masking efficiency",
+      "canonical_label": "Masking efficiency",
+      "confidence": 0.56,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Masking efficiency is a workflow topic for selection and mask use.",
+      "source_key": "masking efficiency",
+      "source_label": "Masking efficiency"
+    },
+    "object removal and content-aware techniques": {
+      "alias_source_keys": [],
+      "canonical_key": "object removal and content-aware techniques",
+      "canonical_label": "Object removal and content-aware techniques",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-content-aware-and-generation-01aa5eb7"
+      ],
+      "rationale": "Object removal and content-aware techniques belong to fill and removal workflows.",
+      "source_key": "object removal and content-aware techniques",
+      "source_label": "Object removal and content-aware techniques"
+    },
+    "overlay brush for edge cleanup": {
+      "alias_source_keys": [],
+      "canonical_key": "overlay brush for edge cleanup",
+      "canonical_label": "Overlay brush for edge cleanup",
+      "confidence": 0.62,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Overlay brush cleanup is used to refine selection edges.",
+      "source_key": "overlay brush for edge cleanup",
+      "source_label": "Overlay brush for edge cleanup"
+    },
+    "p key toggle mask visibility": {
+      "alias_source_keys": [],
+      "canonical_key": "p key toggle mask visibility",
+      "canonical_label": "P key toggle mask visibility",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Toggling mask visibility is a masking workflow shortcut.",
+      "source_key": "p key toggle mask visibility",
+      "source_label": "P key toggle mask visibility"
+    },
+    "patch tool": {
+      "alias_source_keys": [],
+      "canonical_key": "patch tool",
+      "canonical_label": "Patch Tool",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Patch Tool is a classic retouching tool.",
+      "source_key": "patch tool",
+      "source_label": "Patch Tool"
+    },
+    "perspective matching with vanishing point": {
+      "alias_source_keys": [],
+      "canonical_key": "perspective matching with vanishing point",
+      "canonical_label": "Perspective matching with Vanishing Point",
+      "confidence": 0.71,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Vanishing Point is being used for perspective-aware retouching.",
+      "source_key": "perspective matching with vanishing point",
+      "source_label": "Perspective matching with Vanishing Point"
+    },
+    "quick selection / skin tone selection": {
+      "alias_source_keys": [],
+      "canonical_key": "quick selection / skin tone selection",
+      "canonical_label": "Quick Selection / Skin Tone selection",
+      "confidence": 0.74,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "rationale": "Quick Selection tied to skin-tone selection fits color/region-based selection.",
+      "source_key": "quick selection / skin tone selection",
+      "source_label": "Quick Selection / Skin Tone selection"
+    },
+    "retouch layer": {
+      "alias_source_keys": [],
+      "canonical_key": "retouch layer",
+      "canonical_label": "Retouch Layer",
+      "confidence": 0.6,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "A retouch layer is a reusable non-destructive layer structure.",
+      "source_key": "retouch layer",
+      "source_label": "Retouch Layer"
+    },
+    "reusable mock-ups and workflow optimization": {
+      "alias_source_keys": [],
+      "canonical_key": "reusable mock-ups and workflow optimization",
+      "canonical_label": "Reusable mock-ups and workflow optimization",
+      "confidence": 0.57,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "rationale": "Reusable mock-ups and workflow optimization is general project/process guidance.",
+      "source_key": "reusable mock-ups and workflow optimization",
+      "source_label": "Reusable mock-ups and workflow optimization"
+    },
+    "revert (file) and history states": {
+      "alias_source_keys": [],
+      "canonical_key": "revert (file) and history states",
+      "canonical_label": "Revert (File) and history states",
+      "confidence": 0.45,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "rationale": "Revert and history states are general workflow controls rather than a topic specialty.",
+      "source_key": "revert (file) and history states",
+      "source_label": "Revert (File) and history states"
+    },
+    "rotate/angle sampling in clone source": {
+      "alias_source_keys": [],
+      "canonical_key": "rotate/angle sampling in clone source",
+      "canonical_label": "Rotate/angle sampling in Clone Source",
+      "confidence": 0.85,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Clone Source rotation is a cloning/sampling control.",
+      "source_key": "rotate/angle sampling in clone source",
+      "source_label": "Rotate/angle sampling in Clone Source"
+    },
+    "sample all layers": {
+      "alias_source_keys": [],
+      "canonical_key": "sample all layers",
+      "canonical_label": "Sample All Layers",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-retouching-tools-09c908c4",
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "Sample All Layers is a non-destructive sampling option used in retouching.",
+      "source_key": "sample all layers",
+      "source_label": "Sample All Layers"
+    },
+    "save selections": {
+      "alias_source_keys": [],
+      "canonical_key": "save selections",
+      "canonical_label": "Save Selections",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Saving selections is a core selection-management task.",
+      "source_key": "save selections",
+      "source_label": "Save Selections"
+    },
+    "select & mask": {
+      "alias_source_keys": [],
+      "canonical_key": "select & mask",
+      "canonical_label": "Select & Mask",
+      "confidence": 1.0,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Select and Mask is explicitly a selection refinement workflow.",
+      "source_key": "select & mask",
+      "source_label": "Select & Mask"
+    },
+    "select subject": {
+      "alias_source_keys": [],
+      "canonical_key": "select subject",
+      "canonical_label": "Select Subject",
+      "confidence": 1.0,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Select Subject is an automatic selection feature.",
+      "source_key": "select subject",
+      "source_label": "Select Subject"
+    },
+    "select subject 1-5 exercises": {
+      "alias_source_keys": [
+        "select subject"
+      ],
+      "canonical_key": "select subject 1-5 exercises",
+      "canonical_label": "Select Subject 1-5 exercises",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "This is the exercises variant of Select Subject, not a different concept.",
+      "source_key": "select subject 1-5 exercises",
+      "source_label": "Select Subject 1-5 exercises"
+    },
+    "selection preview": {
+      "alias_source_keys": [],
+      "canonical_key": "selection preview",
+      "canonical_label": "Selection Preview",
+      "confidence": 0.73,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Selection Preview is part of evaluating and refining selections.",
+      "source_key": "selection preview",
+      "source_label": "Selection Preview"
+    },
+    "skin tone and color enhancements": {
+      "alias_source_keys": [],
+      "canonical_key": "skin tone and color enhancements",
+      "canonical_label": "Skin tone and color enhancements",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15",
+        "family-portrait-retouching-9c376815"
+      ],
+      "rationale": "Skin tone and color enhancements mix color correction with portrait work.",
+      "source_key": "skin tone and color enhancements",
+      "source_label": "Skin tone and color enhancements"
+    },
+    "smart object for liquify": {
+      "alias_source_keys": [
+        "smart objects"
+      ],
+      "canonical_key": "smart object for liquify",
+      "canonical_label": "Smart Object for Liquify",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "rationale": "Smart Object for Liquify is a smart-object workflow enabling non-destructive liquify edits.",
+      "source_key": "smart object for liquify",
+      "source_label": "Smart Object for Liquify"
+    },
+    "smart objects": {
+      "alias_source_keys": [
+        "smart object for liquify"
+      ],
+      "canonical_key": "smart objects",
+      "canonical_label": "Smart Objects",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "Smart Objects is the standard Photoshop term and fits non-destructive layer-based workflow.",
+      "source_key": "smart objects",
+      "source_label": "Smart Objects"
+    },
+    "smart radius": {
+      "alias_source_keys": [],
+      "canonical_key": "smart radius",
+      "canonical_label": "Smart Radius",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "Smart Radius is a Select and Mask refinement setting used for selection edges.",
+      "source_key": "smart radius",
+      "source_label": "Smart Radius"
+    },
+    "soft light / multiply / hard light / luminosity (blending modes)": {
+      "alias_source_keys": [],
+      "canonical_key": "soft light / multiply / hard light / luminosity (blending modes)",
+      "canonical_label": "Soft Light / Multiply / Hard Light / Luminosity (Blending Modes)",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-portrait-retouching-9c376815",
+        "family-special-effects-d32524c2"
+      ],
+      "rationale": "These blending modes are used here for eye-detail enhancement and color treatment.",
+      "source_key": "soft light / multiply / hard light / luminosity (blending modes)",
+      "source_label": "Soft Light / Multiply / Hard Light / Luminosity (Blending Modes)"
+    },
+    "source vs destination in patch tool": {
+      "alias_source_keys": [],
+      "canonical_key": "source vs destination in patch tool",
+      "canonical_label": "Source vs Destination in Patch Tool",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Source versus Destination is a Patch Tool workflow detail.",
+      "source_key": "source vs destination in patch tool",
+      "source_label": "Source vs Destination in Patch Tool"
+    },
+    "sponge tool (color saturation in eyes)": {
+      "alias_source_keys": [],
+      "canonical_key": "sponge tool (color saturation in eyes)",
+      "canonical_label": "Sponge Tool (color saturation in eyes)",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-portrait-retouching-9c376815"
+      ],
+      "rationale": "The Sponge Tool is being used to adjust eye saturation in a portrait retouching context.",
+      "source_key": "sponge tool (color saturation in eyes)",
+      "source_label": "Sponge Tool (color saturation in eyes)"
+    },
+    "spot healing brush": {
+      "alias_source_keys": [
+        "healing brush"
+      ],
+      "canonical_key": "spot healing brush",
+      "canonical_label": "Spot Healing Brush",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Spot Healing Brush is a standard retouching tool, and Healing Brush is the close alias supplied.",
+      "source_key": "spot healing brush",
+      "source_label": "Spot Healing Brush"
+    },
+    "teeth whitening (hue/saturation, white rectangle, layer masks)": {
+      "alias_source_keys": [],
+      "canonical_key": "teeth whitening (hue/saturation, white rectangle, layer masks)",
+      "canonical_label": "Teeth whitening (Hue/Saturation, White rectangle, Layer Masks)",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-portrait-retouching-9c376815",
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "rationale": "This is a targeted teeth-whitening portrait edit using adjustment layers and masks.",
+      "source_key": "teeth whitening (hue/saturation, white rectangle, layer masks)",
+      "source_label": "Teeth whitening (Hue/Saturation, White rectangle, Layer Masks)"
+    },
+    "trending visual styles: duo tones, glitches, color grading": {
+      "alias_source_keys": [],
+      "canonical_key": "trending visual styles: duo tones, glitches, color grading",
+      "canonical_label": "Trending visual styles: Duo Tones, glitches, color grading",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-special-effects-d32524c2"
+      ],
+      "rationale": "Duotones, glitches, and color grading are stylized visual-effect treatments.",
+      "source_key": "trending visual styles: duo tones, glitches, color grading",
+      "source_label": "Trending visual styles: Duo Tones, glitches, color grading"
+    },
+    "typography workflows: typekit, font guessing, ligatures, variable fonts": {
+      "alias_source_keys": [],
+      "canonical_key": "typography workflows: typekit, font guessing, ligatures, variable fonts",
+      "canonical_label": "Typography workflows: Typekit, font guessing, ligatures, variable fonts",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-typography-and-layout-24770b41"
+      ],
+      "rationale": "The topic is centered on font and type workflows in Photoshop.",
+      "source_key": "typography workflows: typekit, font guessing, ligatures, variable fonts",
+      "source_label": "Typography workflows: Typekit, font guessing, ligatures, variable fonts"
+    },
+    "vanishing point (perspective planes / walls)": {
+      "alias_source_keys": [],
+      "canonical_key": "vanishing point (perspective planes / walls)",
+      "canonical_label": "Vanishing Point (perspective planes / walls)",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-retouching-tools-09c908c4",
+        "family-fake-3d-effects-2871cdf1"
+      ],
+      "rationale": "Vanishing Point is used here for perspective-based compositing on walls.",
+      "source_key": "vanishing point (perspective planes / walls)",
+      "source_label": "Vanishing Point (perspective planes / walls)"
+    },
+    "vibrance": {
+      "alias_source_keys": [],
+      "canonical_key": "vibrance",
+      "canonical_label": "Vibrance",
+      "confidence": 0.73,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15",
+        "family-color-based-selection-e42e8d67"
+      ],
+      "rationale": "Vibrance is an adjustment topic, and the context references color-range targeting.",
+      "source_key": "vibrance",
+      "source_label": "Vibrance"
+    },
+    "video editing in photoshop; parallax and cinemagraphs (living images)": {
+      "alias_source_keys": [],
+      "canonical_key": "video editing in photoshop; parallax and cinemagraphs (living images)",
+      "canonical_label": "Video editing in Photoshop; parallax and Cinemagraphs (Living Images)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-motion-and-video-9f26bcd9"
+      ],
+      "rationale": "The topic explicitly covers Photoshop video editing, parallax, and cinemagraphs.",
+      "source_key": "video editing in photoshop; parallax and cinemagraphs (living images)",
+      "source_label": "Video editing in Photoshop; parallax and Cinemagraphs (Living Images)"
+    },
+    "x key toggle foreground/background": {
+      "alias_source_keys": [],
+      "canonical_key": "x key toggle foreground/background",
+      "canonical_label": "X key toggle foreground/background",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "rationale": "The X key toggle is a selection and masking workflow shortcut for foreground and background colors.",
+      "source_key": "x key toggle foreground/background",
+      "source_label": "X key toggle foreground/background"
+    }
+  },
+  "collection_id": "photoshop-advanced-course-masking-retouching-3d-lighting-and-cameras",
+  "created_at": "2026-08-31T06:48:48.935191+00:00",
+  "display_label_prompt_version": 1,
+  "display_labels": {
+    "- adjusting extrusion depth and 3d object alignment": "Extrusion Depth Control",
+    "- class project instructions and sharing results": "Class Project Sharing",
+    "- depth of field and camera controls (rad view)": "Depth of Field",
+    "- extrusion workflow for text and shapes": "Text Extrusion Workflow",
+    "- fake 3d / 2.5d with gradient ellipses and mixer brush": "Fake 3D Techniques",
+    "- ground plane, environment/shadow settings, and how to disable unwanted planes": "Ground Plane Settings",
+    "- importing vector logos via place embedded and extruding them": "Vector Logo Extrusion",
+    "- interacting with multiple lights and combined lighting results": "Multi Light Scene",
+    "- lighting types (infinite light, environmental ibl, point light, spotlight)": "3D Light Types",
+    "- loading additional materials from adobe (get more content)": "Adobe Materials Library",
+    "- materials and textures (diffusion color, reflection, roughness, bump, opacity)": "3D Material Textures",
+    "- merging multiple 3d layers into a single scene": "Merge 3D Layers",
+    "- moving/manipulating 3d objects and camera with 3d tools": "3D Move and Camera",
+    "- path-based 3d (pen/curvature tool) and interlocking text effects": "Path Based 3D",
+    "- photoshop 3d prerequisites (64-bit, vram requirements)": "3D Requirements",
+    "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)": "3D Workspace Setup",
+    "- postcard 3d workflow (background planes)": "Postcard 3D Workflow",
+    "- render performance tips (image size, vram, shadow quality, performance preferences)": "Render Performance Tips",
+    "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)": "Rendering Basics",
+    "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)": "Render Export Workflow",
+    "- saving and switching between camera views (rad view, current view, scene)": "Camera View Switching",
+    "- shadow softness, light color, intensity, and hotspot controls": "Shadow and Light",
+    "3d in photoshop": "3D in Photoshop",
+    "adjustment layers": "Adjustment Layers",
+    "advanced retouching: healing, cloning, patching; teeth and eye corrections": "Advanced Retouching",
+    "advanced selection techniques": "Advanced Selection Techniques",
+    "artboards and social media post sizing": "Artboards and Social Posts",
+    "channel mask": "Channel Mask",
+    "channel mask workflow with focus area": "Focus Area Masking",
+    "class projects and workflow guidance": "Project Workflow Guidance",
+    "clone source": "Clone Source Panel",
+    "clone tool stamp": "Clone Stamp Tool",
+    "color balance / levels / hue/saturation (skin tone work)": "Skin Tone Adjustments",
+    "color range": "Color Range",
+    "color range skin tones": "Skin Tone Range",
+    "copy/paste layer mask": "Layer Mask Copy",
+    "creating more of something (content generation)": "Content Generation",
+    "decontaminate colors": "Color Decontamination",
+    "distortion, bending, and reshaping images": "Liquify and Reshape",
+    "dodge & burn for eyes": "Eye Dodge and Burn",
+    "downloadable exercise files and class projects": "Exercise Files",
+    "drop shadow and layer styles": "Drop Shadow Styles",
+    "edge detection": "Edge Detection",
+    "enlarging images without distortion": "Image Upsizing",
+    "exercise files and class projects in '10 retouching' folder": "Retouching Exercise Files",
+    "eyes enhancement (breath of realism vs. faking)": "Eye Enhancement",
+    "face aware liquify": "Face-Aware Liquify",
+    "fade patch selection": "Patch Tool Cleanup",
+    "focus area": "Focus Area",
+    "forward warp / face tool": "Forward Warp Tool",
+    "group mask": "Group Masking",
+    "hard and blurry image fixes": "Blur Sharpen Fixes",
+    "healing brush": "Healing Brush",
+    "hue/saturation": "Hue Saturation",
+    "layer masks": "Layer Masks",
+    "layering and non-destructive editing": "Non-Destructive Editing",
+    "levels and curves adjustments": "Levels Curves",
+    "liquify": "Liquify Retouching",
+    "localized color clusters": "Color Clusters",
+    "lock/align sampling with aligned on/off": "Aligned Sampling",
+    "masking and feathering on groups": "Group Feathering",
+    "masking efficiency": "Masking Efficiency",
+    "object removal and content-aware techniques": "Content-Aware Removal",
+    "overlay brush for edge cleanup": "Overlay Brush Cleanup",
+    "p key toggle mask visibility": "Mask Preview Toggle",
+    "patch tool": "Patch Tool",
+    "perspective matching with vanishing point": "Vanishing Point",
+    "quick selection / skin tone selection": "Quick Selection",
+    "retouch layer": "Retouch Layer",
+    "reusable mock-ups and workflow optimization": "Workflow Optimization",
+    "revert (file) and history states": "History States",
+    "rotate/angle sampling in clone source": "Clone Source Rotation",
+    "sample all layers": "Sample All Layers",
+    "save selections": "Save Selections",
+    "select & mask": "Select and Mask",
+    "select subject": "Select Subject",
+    "select subject 1-5 exercises": "Subject Exercises",
+    "selection preview": "Selection Preview",
+    "skin tone and color enhancements": "Skin Tone Enhancements",
+    "smart object for liquify": "Liquify Smart Object",
+    "smart objects": "Smart Object Workflow",
+    "smart radius": "Select and Mask Radius",
+    "soft light / multiply / hard light / luminosity (blending modes)": "Blending Modes for Eyes",
+    "source vs destination in patch tool": "Patch Tool Source Destination",
+    "sponge tool (color saturation in eyes)": "Sponge Tool",
+    "spot healing brush": "Spot Healing Brush",
+    "teeth whitening (hue/saturation, white rectangle, layer masks)": "Teeth Whitening Workflow",
+    "trending visual styles: duo tones, glitches, color grading": "Duo Tones and Glitches",
+    "typography workflows: typekit, font guessing, ligatures, variable fonts": "Typography Workflows",
+    "vanishing point (perspective planes / walls)": "Vanishing Point Tools",
+    "vibrance": "Vibrance Adjustment",
+    "video editing in photoshop; parallax and cinemagraphs (living images)": "Photoshop Video Editing",
+    "x key toggle foreground/background": "Foreground Background Toggle"
+  },
+  "families": {
+    "family-3d-camera-and-view-f07dd3a9": {
+      "canonical_key": "3d camera and view",
+      "description": "Covers navigating, saving, and switching camera views plus depth-of-field and viewport controls.",
+      "family_id": "family-3d-camera-and-view-f07dd3a9",
+      "label": "3D Camera And View"
+    },
+    "family-3d-lighting-92e089d4": {
+      "canonical_key": "3d lighting",
+      "description": "Covers light types, shadow behavior, intensity, color, and multi-light scene setup in Photoshop 3D.",
+      "family_id": "family-3d-lighting-92e089d4",
+      "label": "3D Lighting"
+    },
+    "family-3d-modeling-workflow-409bbc4d": {
+      "canonical_key": "3d modeling workflow",
+      "description": "Covers creating and aligning extruded text, logos, postcards, and other 3D object setups.",
+      "family_id": "family-3d-modeling-workflow-409bbc4d",
+      "label": "3D Modeling Workflow"
+    },
+    "family-3d-rendering-and-export-3a4b5a50": {
+      "canonical_key": "3d rendering and export",
+      "description": "Covers preview rendering, performance tuning, final render output, and moving results into other apps.",
+      "family_id": "family-3d-rendering-and-export-3a4b5a50",
+      "label": "3D Rendering And Export"
+    },
+    "family-3d-scene-assembly-0f119508": {
+      "canonical_key": "3d scene assembly",
+      "description": "Covers combining 3D layers, manipulating objects, and organizing scene elements for a finished render.",
+      "family_id": "family-3d-scene-assembly-0f119508",
+      "label": "3D Scene Assembly"
+    },
+    "family-3d-setup-and-workspace-cad14164": {
+      "canonical_key": "3d setup and workspace",
+      "description": "Covers prerequisites, workspace configuration, and general Photoshop 3D readiness.",
+      "family_id": "family-3d-setup-and-workspace-cad14164",
+      "label": "3D Setup And Workspace"
+    },
+    "family-3d-texturing-6e8d09a8": {
+      "canonical_key": "3d texturing",
+      "description": "Covers applying, loading, and adjusting materials and surface textures for Photoshop 3D objects.",
+      "family_id": "family-3d-texturing-6e8d09a8",
+      "label": "3D Texturing"
+    },
+    "family-adjustment-editing-a0887f15": {
+      "canonical_key": "adjustment editing",
+      "description": "Covers tonal and color adjustments used for correction, enhancement, and targeted refinement.",
+      "family_id": "family-adjustment-editing-a0887f15",
+      "label": "Adjustment Editing"
+    },
+    "family-color-based-selection-e42e8d67": {
+      "canonical_key": "color-based selection",
+      "description": "Covers selecting subjects or regions by color, tones, and localized color clusters.",
+      "family_id": "family-color-based-selection-e42e8d67",
+      "label": "Color-Based Selection"
+    },
+    "family-content-aware-and-generation-01aa5eb7": {
+      "canonical_key": "content-aware and generation",
+      "description": "Covers removing, extending, or generating image content to add or replace visual material.",
+      "family_id": "family-content-aware-and-generation-01aa5eb7",
+      "label": "Content-Aware And Generation"
+    },
+    "family-fake-3d-effects-2871cdf1": {
+      "canonical_key": "fake 3d effects",
+      "description": "Covers 2.5D and illusion-based depth techniques using gradients, paths, and painting tools.",
+      "family_id": "family-fake-3d-effects-2871cdf1",
+      "label": "Fake 3D Effects"
+    },
+    "family-layers-and-smart-objects-19e35081": {
+      "canonical_key": "layers and smart objects",
+      "description": "Covers non-destructive layering, smart objects, group masks, and reusable edit structures.",
+      "family_id": "family-layers-and-smart-objects-19e35081",
+      "label": "Layers And Smart Objects"
+    },
+    "family-liquify-and-reshape-345e384b": {
+      "canonical_key": "liquify and reshape",
+      "description": "Covers liquify-based warping, face-aware adjustments, and general distortion or bending edits.",
+      "family_id": "family-liquify-and-reshape-345e384b",
+      "label": "Liquify And Reshape"
+    },
+    "family-motion-and-video-9f26bcd9": {
+      "canonical_key": "motion and video",
+      "description": "Covers Photoshop-based video editing, parallax animation, and cinemagraph-style motion projects.",
+      "family_id": "family-motion-and-video-9f26bcd9",
+      "label": "Motion And Video"
+    },
+    "family-portrait-retouching-9c376815": {
+      "canonical_key": "portrait retouching",
+      "description": "Covers skin, teeth, eyes, and facial feature enhancement workflows for human portrait edits.",
+      "family_id": "family-portrait-retouching-9c376815",
+      "label": "Portrait Retouching"
+    },
+    "family-retouching-tools-09c908c4": {
+      "canonical_key": "retouching tools",
+      "description": "Covers healing, cloning, patching, and source-sampling tools for cleanup work.",
+      "family_id": "family-retouching-tools-09c908c4",
+      "label": "Retouching Tools"
+    },
+    "family-selections-and-masking-4341d617": {
+      "canonical_key": "selections and masking",
+      "description": "Covers core selection creation, refinement, saving, and mask-based editing workflows.",
+      "family_id": "family-selections-and-masking-4341d617",
+      "label": "Selections And Masking"
+    },
+    "family-special-effects-d32524c2": {
+      "canonical_key": "special effects",
+      "description": "Covers stylized looks, blending-mode tricks, glitches, duotones, and other creative treatments.",
+      "family_id": "family-special-effects-d32524c2",
+      "label": "Special Effects"
+    },
+    "family-typography-and-layout-24770b41": {
+      "canonical_key": "typography and layout",
+      "description": "Covers type-related workflows, font handling, artboards, and social-ready layout sizing.",
+      "family_id": "family-typography-and-layout-24770b41",
+      "label": "Typography And Layout"
+    },
+    "family-workflow-and-projects-fc86ed99": {
+      "canonical_key": "workflow and projects",
+      "description": "Covers exercise files, class projects, sharing results, and broader process guidance.",
+      "family_id": "family-workflow-and-projects-fc86ed99",
+      "label": "Workflow And Projects"
+    }
+  },
+  "model": "gpt-5.4-mini",
+  "prompt_version": 2,
+  "related": {
+    "- adjusting extrusion depth and 3d object alignment": [
+      "- extrusion workflow for text and shapes",
+      "- importing vector logos via place embedded and extruding them",
+      "- path-based 3d (pen/curvature tool) and interlocking text effects",
+      "- postcard 3d workflow (background planes)"
+    ],
+    "- class project instructions and sharing results": [
+      "class projects and workflow guidance",
+      "downloadable exercise files and class projects",
+      "exercise files and class projects in '10 retouching' folder"
+    ],
+    "- depth of field and camera controls (rad view)": [
+      "- moving/manipulating 3d objects and camera with 3d tools",
+      "- saving and switching between camera views (rad view, current view, scene)"
+    ],
+    "- extrusion workflow for text and shapes": [
+      "- adjusting extrusion depth and 3d object alignment",
+      "- importing vector logos via place embedded and extruding them",
+      "- path-based 3d (pen/curvature tool) and interlocking text effects",
+      "- postcard 3d workflow (background planes)"
+    ],
+    "- fake 3d / 2.5d with gradient ellipses and mixer brush": [],
+    "- ground plane, environment/shadow settings, and how to disable unwanted planes": [
+      "- interacting with multiple lights and combined lighting results",
+      "- lighting types (infinite light, environmental ibl, point light, spotlight)",
+      "- shadow softness, light color, intensity, and hotspot controls"
+    ],
+    "- importing vector logos via place embedded and extruding them": [
+      "- adjusting extrusion depth and 3d object alignment",
+      "- extrusion workflow for text and shapes",
+      "- path-based 3d (pen/curvature tool) and interlocking text effects",
+      "- postcard 3d workflow (background planes)"
+    ],
+    "- interacting with multiple lights and combined lighting results": [
+      "- ground plane, environment/shadow settings, and how to disable unwanted planes",
+      "- lighting types (infinite light, environmental ibl, point light, spotlight)",
+      "- shadow softness, light color, intensity, and hotspot controls"
+    ],
+    "- lighting types (infinite light, environmental ibl, point light, spotlight)": [
+      "- ground plane, environment/shadow settings, and how to disable unwanted planes",
+      "- interacting with multiple lights and combined lighting results",
+      "- shadow softness, light color, intensity, and hotspot controls"
+    ],
+    "- loading additional materials from adobe (get more content)": [
+      "- materials and textures (diffusion color, reflection, roughness, bump, opacity)"
+    ],
+    "- materials and textures (diffusion color, reflection, roughness, bump, opacity)": [
+      "- loading additional materials from adobe (get more content)"
+    ],
+    "- merging multiple 3d layers into a single scene": [
+      "- moving/manipulating 3d objects and camera with 3d tools"
+    ],
+    "- moving/manipulating 3d objects and camera with 3d tools": [
+      "- depth of field and camera controls (rad view)",
+      "- merging multiple 3d layers into a single scene",
+      "- saving and switching between camera views (rad view, current view, scene)"
+    ],
+    "- path-based 3d (pen/curvature tool) and interlocking text effects": [
+      "- adjusting extrusion depth and 3d object alignment",
+      "- extrusion workflow for text and shapes",
+      "- importing vector logos via place embedded and extruding them",
+      "- postcard 3d workflow (background planes)"
+    ],
+    "- photoshop 3d prerequisites (64-bit, vram requirements)": [
+      "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)",
+      "3d in photoshop"
+    ],
+    "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)": [
+      "- photoshop 3d prerequisites (64-bit, vram requirements)",
+      "3d in photoshop"
+    ],
+    "- postcard 3d workflow (background planes)": [
+      "- adjusting extrusion depth and 3d object alignment",
+      "- extrusion workflow for text and shapes",
+      "- importing vector logos via place embedded and extruding them",
+      "- path-based 3d (pen/curvature tool) and interlocking text effects"
+    ],
+    "- render performance tips (image size, vram, shadow quality, performance preferences)": [
+      "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)",
+      "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)"
+    ],
+    "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)": [
+      "- render performance tips (image size, vram, shadow quality, performance preferences)",
+      "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)"
+    ],
+    "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)": [
+      "- render performance tips (image size, vram, shadow quality, performance preferences)",
+      "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)"
+    ],
+    "- saving and switching between camera views (rad view, current view, scene)": [
+      "- depth of field and camera controls (rad view)",
+      "- moving/manipulating 3d objects and camera with 3d tools"
+    ],
+    "- shadow softness, light color, intensity, and hotspot controls": [
+      "- ground plane, environment/shadow settings, and how to disable unwanted planes",
+      "- interacting with multiple lights and combined lighting results",
+      "- lighting types (infinite light, environmental ibl, point light, spotlight)"
+    ],
+    "3d in photoshop": [
+      "- photoshop 3d prerequisites (64-bit, vram requirements)",
+      "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)"
+    ],
+    "adjustment layers": [
+      "hue/saturation",
+      "levels and curves adjustments",
+      "vibrance"
+    ],
+    "advanced retouching: healing, cloning, patching; teeth and eye corrections": [
+      "clone source",
+      "clone tool stamp",
+      "healing brush",
+      "rotate/angle sampling in clone source",
+      "skin tone and color enhancements",
+      "spot healing brush"
+    ],
+    "advanced selection techniques": [
+      "masking efficiency",
+      "save selections",
+      "selection preview"
+    ],
+    "artboards and social media post sizing": [],
+    "channel mask": [
+      "channel mask workflow with focus area",
+      "copy/paste layer mask",
+      "group mask",
+      "layer masks",
+      "masking efficiency",
+      "p key toggle mask visibility",
+      "select & mask",
+      "smart radius"
+    ],
+    "channel mask workflow with focus area": [
+      "channel mask",
+      "copy/paste layer mask",
+      "focus area",
+      "group mask",
+      "layer masks",
+      "select & mask"
+    ],
+    "class projects and workflow guidance": [
+      "- class project instructions and sharing results",
+      "downloadable exercise files and class projects",
+      "exercise files and class projects in '10 retouching' folder",
+      "reusable mock-ups and workflow optimization",
+      "revert (file) and history states"
+    ],
+    "clone source": [
+      "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "clone tool stamp",
+      "rotate/angle sampling in clone source",
+      "sample all layers",
+      "source vs destination in patch tool",
+      "spot healing brush"
+    ],
+    "clone tool stamp": [
+      "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "clone source",
+      "rotate/angle sampling in clone source",
+      "sample all layers",
+      "source vs destination in patch tool",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "color balance / levels / hue/saturation (skin tone work)": [
+      "eyes enhancement (breath of realism vs. faking)",
+      "hue/saturation",
+      "levels and curves adjustments",
+      "skin tone and color enhancements",
+      "soft light / multiply / hard light / luminosity (blending modes)",
+      "sponge tool (color saturation in eyes)",
+      "teeth whitening (hue/saturation, white rectangle, layer masks)"
+    ],
+    "color range": [
+      "color range skin tones",
+      "localized color clusters",
+      "vibrance"
+    ],
+    "color range skin tones": [
+      "color range",
+      "localized color clusters",
+      "quick selection / skin tone selection",
+      "vibrance"
+    ],
+    "copy/paste layer mask": [
+      "channel mask",
+      "channel mask workflow with focus area",
+      "group mask",
+      "layer masks",
+      "select & mask",
+      "smart objects"
+    ],
+    "creating more of something (content generation)": [
+      "object removal and content-aware techniques"
+    ],
+    "decontaminate colors": [
+      "select & mask",
+      "select subject",
+      "select subject 1-5 exercises",
+      "selection preview",
+      "smart radius"
+    ],
+    "distortion, bending, and reshaping images": [],
+    "dodge & burn for eyes": [
+      "eyes enhancement (breath of realism vs. faking)",
+      "sample all layers",
+      "soft light / multiply / hard light / luminosity (blending modes)",
+      "sponge tool (color saturation in eyes)",
+      "teeth whitening (hue/saturation, white rectangle, layer masks)"
+    ],
+    "downloadable exercise files and class projects": [
+      "- class project instructions and sharing results",
+      "class projects and workflow guidance",
+      "enlarging images without distortion",
+      "exercise files and class projects in '10 retouching' folder",
+      "reusable mock-ups and workflow optimization",
+      "revert (file) and history states"
+    ],
+    "drop shadow and layer styles": [],
+    "edge detection": [
+      "overlay brush for edge cleanup",
+      "select & mask",
+      "select subject",
+      "selection preview",
+      "smart radius"
+    ],
+    "enlarging images without distortion": [
+      "downloadable exercise files and class projects",
+      "reusable mock-ups and workflow optimization"
+    ],
+    "exercise files and class projects in '10 retouching' folder": [
+      "- class project instructions and sharing results",
+      "class projects and workflow guidance",
+      "downloadable exercise files and class projects",
+      "revert (file) and history states"
+    ],
+    "eyes enhancement (breath of realism vs. faking)": [
+      "color balance / levels / hue/saturation (skin tone work)",
+      "dodge & burn for eyes",
+      "skin tone and color enhancements",
+      "soft light / multiply / hard light / luminosity (blending modes)",
+      "sponge tool (color saturation in eyes)"
+    ],
+    "face aware liquify": [
+      "forward warp / face tool",
+      "liquify",
+      "smart object for liquify"
+    ],
+    "fade patch selection": [
+      "healing brush",
+      "patch tool",
+      "sample all layers",
+      "source vs destination in patch tool",
+      "spot healing brush"
+    ],
+    "focus area": [
+      "channel mask workflow with focus area",
+      "select & mask",
+      "select subject",
+      "selection preview",
+      "smart radius"
+    ],
+    "forward warp / face tool": [
+      "face aware liquify",
+      "liquify",
+      "smart object for liquify"
+    ],
+    "group mask": [
+      "channel mask",
+      "channel mask workflow with focus area",
+      "copy/paste layer mask",
+      "layer masks",
+      "masking and feathering on groups",
+      "masking efficiency",
+      "p key toggle mask visibility",
+      "select & mask"
+    ],
+    "hard and blurry image fixes": [
+      "levels and curves adjustments"
+    ],
+    "healing brush": [
+      "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "fade patch selection",
+      "lock/align sampling with aligned on/off",
+      "patch tool",
+      "perspective matching with vanishing point",
+      "sample all layers",
+      "spot healing brush",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "hue/saturation": [
+      "adjustment layers",
+      "color balance / levels / hue/saturation (skin tone work)",
+      "vibrance"
+    ],
+    "layer masks": [
+      "channel mask",
+      "channel mask workflow with focus area",
+      "copy/paste layer mask",
+      "group mask",
+      "masking and feathering on groups",
+      "masking efficiency",
+      "p key toggle mask visibility",
+      "retouch layer",
+      "save selections",
+      "select & mask",
+      "select subject",
+      "select subject 1-5 exercises",
+      "smart objects"
+    ],
+    "layering and non-destructive editing": [
+      "masking and feathering on groups",
+      "retouch layer",
+      "sample all layers",
+      "smart object for liquify",
+      "teeth whitening (hue/saturation, white rectangle, layer masks)"
+    ],
+    "levels and curves adjustments": [
+      "adjustment layers",
+      "color balance / levels / hue/saturation (skin tone work)",
+      "hard and blurry image fixes",
+      "skin tone and color enhancements"
+    ],
+    "liquify": [
+      "face aware liquify",
+      "forward warp / face tool",
+      "smart object for liquify"
+    ],
+    "localized color clusters": [
+      "color range",
+      "color range skin tones",
+      "vibrance"
+    ],
+    "lock/align sampling with aligned on/off": [
+      "healing brush",
+      "perspective matching with vanishing point",
+      "rotate/angle sampling in clone source",
+      "source vs destination in patch tool",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "masking and feathering on groups": [
+      "group mask",
+      "layer masks",
+      "layering and non-destructive editing",
+      "retouch layer",
+      "smart object for liquify",
+      "teeth whitening (hue/saturation, white rectangle, layer masks)"
+    ],
+    "masking efficiency": [
+      "advanced selection techniques",
+      "channel mask",
+      "group mask",
+      "layer masks",
+      "select & mask"
+    ],
+    "object removal and content-aware techniques": [
+      "creating more of something (content generation)"
+    ],
+    "overlay brush for edge cleanup": [
+      "edge detection",
+      "select & mask",
+      "select subject",
+      "selection preview",
+      "smart radius",
+      "x key toggle foreground/background"
+    ],
+    "p key toggle mask visibility": [
+      "channel mask",
+      "group mask",
+      "layer masks",
+      "select & mask",
+      "x key toggle foreground/background"
+    ],
+    "patch tool": [
+      "fade patch selection",
+      "healing brush",
+      "perspective matching with vanishing point",
+      "sample all layers",
+      "source vs destination in patch tool",
+      "spot healing brush",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "perspective matching with vanishing point": [
+      "healing brush",
+      "lock/align sampling with aligned on/off",
+      "patch tool",
+      "rotate/angle sampling in clone source",
+      "sample all layers",
+      "source vs destination in patch tool",
+      "spot healing brush",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "quick selection / skin tone selection": [
+      "color range skin tones"
+    ],
+    "retouch layer": [
+      "layer masks",
+      "layering and non-destructive editing",
+      "masking and feathering on groups",
+      "sample all layers",
+      "smart object for liquify",
+      "teeth whitening (hue/saturation, white rectangle, layer masks)"
+    ],
+    "reusable mock-ups and workflow optimization": [
+      "class projects and workflow guidance",
+      "downloadable exercise files and class projects",
+      "enlarging images without distortion"
+    ],
+    "revert (file) and history states": [
+      "class projects and workflow guidance",
+      "downloadable exercise files and class projects",
+      "exercise files and class projects in '10 retouching' folder"
+    ],
+    "rotate/angle sampling in clone source": [
+      "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "clone source",
+      "clone tool stamp",
+      "lock/align sampling with aligned on/off",
+      "perspective matching with vanishing point",
+      "source vs destination in patch tool",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "sample all layers": [
+      "clone source",
+      "clone tool stamp",
+      "dodge & burn for eyes",
+      "fade patch selection",
+      "healing brush",
+      "layering and non-destructive editing",
+      "patch tool",
+      "perspective matching with vanishing point",
+      "retouch layer",
+      "source vs destination in patch tool",
+      "spot healing brush",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "save selections": [
+      "advanced selection techniques",
+      "layer masks",
+      "select & mask",
+      "select subject",
+      "selection preview",
+      "smart radius"
+    ],
+    "select & mask": [
+      "channel mask",
+      "channel mask workflow with focus area",
+      "copy/paste layer mask",
+      "decontaminate colors",
+      "edge detection",
+      "focus area",
+      "group mask",
+      "layer masks",
+      "masking efficiency",
+      "overlay brush for edge cleanup",
+      "p key toggle mask visibility",
+      "save selections",
+      "select subject",
+      "select subject 1-5 exercises",
+      "selection preview",
+      "smart radius",
+      "x key toggle foreground/background"
+    ],
+    "select subject": [
+      "decontaminate colors",
+      "edge detection",
+      "focus area",
+      "layer masks",
+      "overlay brush for edge cleanup",
+      "save selections",
+      "select & mask",
+      "select subject 1-5 exercises",
+      "selection preview",
+      "smart radius",
+      "x key toggle foreground/background"
+    ],
+    "select subject 1-5 exercises": [
+      "decontaminate colors",
+      "layer masks",
+      "select & mask",
+      "select subject",
+      "selection preview",
+      "smart radius"
+    ],
+    "selection preview": [
+      "advanced selection techniques",
+      "decontaminate colors",
+      "edge detection",
+      "focus area",
+      "overlay brush for edge cleanup",
+      "save selections",
+      "select & mask",
+      "select subject",
+      "select subject 1-5 exercises",
+      "smart radius",
+      "x key toggle foreground/background"
+    ],
+    "skin tone and color enhancements": [
+      "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "color balance / levels / hue/saturation (skin tone work)",
+      "eyes enhancement (breath of realism vs. faking)",
+      "levels and curves adjustments",
+      "sponge tool (color saturation in eyes)"
+    ],
+    "smart object for liquify": [
+      "face aware liquify",
+      "forward warp / face tool",
+      "layering and non-destructive editing",
+      "liquify",
+      "masking and feathering on groups",
+      "retouch layer",
+      "smart objects"
+    ],
+    "smart objects": [
+      "copy/paste layer mask",
+      "layer masks",
+      "smart object for liquify"
+    ],
+    "smart radius": [
+      "channel mask",
+      "decontaminate colors",
+      "edge detection",
+      "focus area",
+      "overlay brush for edge cleanup",
+      "save selections",
+      "select & mask",
+      "select subject",
+      "select subject 1-5 exercises",
+      "selection preview"
+    ],
+    "soft light / multiply / hard light / luminosity (blending modes)": [
+      "color balance / levels / hue/saturation (skin tone work)",
+      "dodge & burn for eyes",
+      "eyes enhancement (breath of realism vs. faking)",
+      "sponge tool (color saturation in eyes)",
+      "teeth whitening (hue/saturation, white rectangle, layer masks)"
+    ],
+    "source vs destination in patch tool": [
+      "clone source",
+      "clone tool stamp",
+      "fade patch selection",
+      "lock/align sampling with aligned on/off",
+      "patch tool",
+      "perspective matching with vanishing point",
+      "rotate/angle sampling in clone source",
+      "sample all layers",
+      "spot healing brush",
+      "vanishing point (perspective planes / walls)"
+    ],
+    "sponge tool (color saturation in eyes)": [
+      "color balance / levels / hue/saturation (skin tone work)",
+      "dodge & burn for eyes",
+      "eyes enhancement (breath of realism vs. faking)",
+      "skin tone and color enhancements",
+      "soft light / multiply / hard light / luminosity (blending modes)"
+    ],
+    "spot healing brush": [
+      "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "clone source",
+      "fade patch selection",
+      "healing brush",
+      "patch tool",
+      "perspective matching with vanishing point",
+      "sample all layers",
+      "source vs destination in patch tool"
+    ],
+    "teeth whitening (hue/saturation, white rectangle, layer masks)": [
+      "color balance / levels / hue/saturation (skin tone work)",
+      "dodge & burn for eyes",
+      "layering and non-destructive editing",
+      "masking and feathering on groups",
+      "retouch layer",
+      "soft light / multiply / hard light / luminosity (blending modes)"
+    ],
+    "trending visual styles: duo tones, glitches, color grading": [],
+    "typography workflows: typekit, font guessing, ligatures, variable fonts": [],
+    "vanishing point (perspective planes / walls)": [
+      "clone tool stamp",
+      "healing brush",
+      "lock/align sampling with aligned on/off",
+      "patch tool",
+      "perspective matching with vanishing point",
+      "rotate/angle sampling in clone source",
+      "sample all layers",
+      "source vs destination in patch tool"
+    ],
+    "vibrance": [
+      "adjustment layers",
+      "color range",
+      "color range skin tones",
+      "hue/saturation",
+      "localized color clusters"
+    ],
+    "video editing in photoshop; parallax and cinemagraphs (living images)": [],
+    "x key toggle foreground/background": [
+      "overlay brush for edge cleanup",
+      "p key toggle mask visibility",
+      "select & mask",
+      "select subject",
+      "selection preview"
+    ]
+  },
+  "schema_version": 1,
+  "source_hash": "27acc1ece4e078a3064b3e8bb821cf3947846199e15a06b44c6299d9ec18977a",
+  "stats": {
+    "canonical_topic_count": 93,
+    "display_label_count": 93,
+    "family_count": 20,
+    "raw_topic_count": 93,
+    "related_edge_count": 210
+  },
+  "status": "complete",
+  "updated_at": "2026-08-31T06:49:29.400429+00:00"
+}

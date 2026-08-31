@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "video": "5dJl_Lr5TGQ.youtube",
+  "title": "Explore Blending Modes in Photoshop - Day 18 (PHLEARN)",
+  "date": {
+    "display": "September 18, 2025",
+    "iso": "2025-09-18",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this PHLEARN tutorial, Day 18 of 30 Days of Photoshop systematically demonstrates blending modes and their practical uses. The instructor places blending modes into groups (Normal, Darken, Lighten, Overlay, and the Calculation family) and explains when each group is typically useful. Through a series of non-destructive, hands-on edits, he shows how to composite images, colorize light and color information, and creatively grade with gradient maps. Key techniques include: converting imported images to smart objects for non-destructive edits; using Levels to white out or darken backgrounds in conjunction with Multiply or Screen blend modes; leveraging light leaks and bokeh overlays with Screen or Lighten-based blends; and using gradient maps and Hue/Saturation to color-grade and harmonize a final image. The session emphasizes practical workflow over memorizing every mode, and demonstrates fast iteration with keyboard shortcuts to cycle blending modes.",
+  "topics": [
+    "Blending modes overview",
+    "Normal vs Dissolve",
+    "Darken group (Darken, Multiply, Color Burn, Linear Burn, Darker Color)",
+    "Lighten group (Lighten, Screen, Color Dodge, Linear Dodge, Lighter Color)",
+    "Overlay group (Overlay, Soft Light, Hard Light, Vivid Light, Linear Light, Pin Light, Hard Mix)",
+    "Difference, Exclusion, Subtraction, Divide (calculations group)",
+    "Hue, Saturation, Color (and Luminosity)",
+    "Levels adjustment (black/white points to whiten or blacken areas)",
+    "Gaussian Blur filter on color/lighting layers",
+    "Smart Objects and non-destructive editing (Convert for Smart Filters)",
+    "Move tool (V) and cycling blend modes with Shift + + / -",
+    "Place Linked and inserting external assets",
+    "Light leaks and bokeh overlays as Screen/Lighten elements",
+    "Colorizing overlays with Hue/Saturation (colorize option)",
+    "Gradient Map for color grading and its opacity control",
+    "Two-image workflow to adjust light and color using Soft Light and Overlay",
+    "Copy/transform workflow for repeated light-leak overlays",
+    "Non-destructive color/lighting edits using adjustment layers"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "Introduction to blending modes and goals",
+      "concepts": [
+        "blending modes",
+        "grouping into Normal, Darken, Lighten, Overlay, and Calculation categories"
+      ],
+      "description": "The host introduces blending modes as powerful tools for merging two images based on light, dark, or color information and outlines the plan to focus on the main blending groups and practical usage."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:50",
+      "title": "Blending mode groups explained",
+      "concepts": [
+        "Normal group (Normal, Dissolve)",
+        "Darken group (Darken, Multiply, Color Burn, Linear Burn, Darker Color)",
+        "Lighten group (Lighten, Screen, Color Dodge, Linear Dodge, Lighter Color)"
+      ],
+      "description": "Explanation of how each group affects visibility of light areas, dark areas, or color, with emphasis on how the birds vs background example demonstrates darkening vs lightening behavior."
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:50",
+      "title": "Practical guidance: commonly used modes and workflow",
+      "concepts": [
+        "top two modes per group are the most commonly used",
+        "cycling through modes with a keyboard shortcut"
+      ],
+      "description": "Advice to focus on the most-used options in each group and a preview of workflow efficiency using keyboard shortcuts to cycle through blending modes."
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:02",
+      "title": "Practical example 1: Multiply with a bird in a frame",
+      "concepts": [
+        "Smart Object for non-destructive editing",
+        "Levels to whiten the background",
+        "Multiply blend mode to hide background while keeping darks visible"
+      ],
+      "description": "Demonstrates placing a bird image into a frame, converting to a smart object, using Levels to make the background white, and applying Multiply to darken and integrate the subject without masking."
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:20",
+      "title": "Practical example 2: Light leaks and lighten-based edits",
+      "concepts": [
+        "Light leak overlays",
+        "Screen blend mode to reveal light areas",
+        "Levels adjustment to darken the edges and conceal the frame",
+        "Duplicating and transforming light leaks (Ctrl/Cmd J, Ctrl/Cmd T)"
+      ],
+      "description": "Shows adding light leaks on a dark background using Screen blending, refining with Levels, and duplicating/transforming overlays to create multiple light sources."
+    },
+    {
+      "start": "00:15:20",
+      "end": "00:18:50",
+      "title": "Color grading with bokeh and Hue/Saturation adjustments",
+      "concepts": [
+        "Bokeh overlay as lighting accent",
+        "Hue/Saturation adjustments and Colorize for overlay color",
+        "Opacity control to blend color over the image"
+      ],
+      "description": "Introduces color overlap with bokeh and colorized lighting via Hue/Saturation and opacity adjustments to harmonize the color palette."
+    },
+    {
+      "start": "00:18:50",
+      "end": "00:25:00",
+      "title": "Two-photo workflow: soft light, overlay, and gradient map for final color/lighting",
+      "concepts": [
+        "Two photos used to define light and color",
+        "Soft Light and Overlay blending for mood",
+        "Gaussian blur to diffuse color/light sources",
+        "Gradient Map for final color grading and vintage look",
+        "Opacity adjustments for subtlety",
+        "Final non-destructive edits via adjustment layers"
+      ],
+      "description": "Demonstrates a two-photo approach to control light and color, applying soft light/overlay blends, blur, and gradient map for a cohesive final look. Emphasizes non-destructive edits and color harmonization."
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:25:40",
+      "title": "Wrap-up and best-practices",
+      "concepts": [
+        "practice with sample assets",
+        "remember top-mode heuristics",
+        "use gradient maps and overlay techniques to harmonize color"
+      ],
+      "description": "Final tips on practicing with blended layers, leveraging the most impactful modes, and using gradient maps for consistent color grading."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Non-destructive editing with Smart Objects and Smart Filters",
+      "timestamp": "00:07:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "White-background isolation using Levels with Screen/Multiply",
+      "timestamp": "00:07:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Multiply blend mode to composite foreground over light background",
+      "timestamp": "00:08:25",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Light leak overlays using Screen blend mode",
+      "timestamp": "00:11:56",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Colorization and refinement of light leaks with Hue/Saturation",
+      "timestamp": "00:14:54",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Duplication and transformation of overlays for multi-source lighting",
+      "timestamp": "00:15:41",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Gradient Map for fast color grading and harmonization",
+      "timestamp": "00:17:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Two-image workflow using Soft Light/Overlay with Gaussian Blur for mood",
+      "timestamp": "00:18:50",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:50:30.156429+00:00"
+}

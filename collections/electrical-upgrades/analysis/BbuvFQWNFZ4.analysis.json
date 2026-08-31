@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "video": "BbuvFQWNFZ4.youtube",
+  "title": "Upgrading a 3-Way Switch to a Smart 3-Way System (This Old House)",
+  "date": {
+    "display": "January 3, 2026",
+    "iso": "2026-01-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Top of stairs (stairway light)",
+      "confidence": 0.72,
+      "basis": "Transcript explicitly references a three-way switch at the top of the stairs controlling the stair light."
+    },
+    {
+      "name": "Bottom of stairs (stairway light)",
+      "confidence": 0.72,
+      "basis": "Transcript explicitly references a three-way switch at the bottom of the stairs controlling the stair light."
+    }
+  ],
+  "summary": "This how-to video from This Old House teaches upgrading a traditional three-way lighting circuit to a smart three-way arrangement. It distinguishes single-pole versus three-way configurations, identifies the common vs travelers on a three-way switch, and walks through power-down safety, removal of existing switches, and wiring a smart master switch. The tutorial covers two approaches for the downstream box: using a remote add-on (or keeping the mechanical switch for guest use), wiring the master with ground and properly paired travelers, creating a feed/pigtail, and securely tucking conductors. It also demonstrates linking the master and add-on, and confirms two-location control by testing from both switch locations.",
+  "topics": [
+    "Identify single-pole vs three-way switches",
+    "Three-way terminology: common (black screw) vs travelers (brass screws)",
+    "Power off safety: switch off the breaker",
+    "Remove wall plate and existing switch",
+    "Box wiring analysis: feed wires and pigtails",
+    "Master smart switch wiring: ground, travelers, and common",
+    "Color mapping for smart switch wiring (red traveler to red, black to blue)",
+    "Use of wire nuts to join conductors and create a common feed",
+    "Bottom 3-way options: remote add-on vs maintaining a mechanical switch",
+    "Link master and add-on via 6-second pairing",
+    "Bottom-box reconfiguration: tying three wires under a single nut",
+    "Keep wires from pinching and ensure slack for movement",
+    "Testing: verify light operation from both top and bottom locations",
+    "Final considerations: guest use and integration with home lighting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:39",
+      "title": "Intro: switch types and the three-way concept",
+      "concepts": [
+        "single-pole",
+        "three-way",
+        "travelers",
+        "common",
+        "top-of-stairs example"
+      ],
+      "description": "Introduction to the two basic switch types and the three-way arrangement, with a stair-step example showing two switches controlling a light."
+    },
+    {
+      "start": "00:01:03",
+      "end": "00:02:34",
+      "title": "Safety prep and in-box wiring basics",
+      "concepts": [
+        "power-off safety",
+        "remove wall plate",
+        "identify common vs travelers",
+        "box wiring",
+        "feed wires and pigtails"
+      ],
+      "description": "Power is turned off, the wall plate and switch are removed, and the box is analyzed to distinguish the common (feed) from travelers and to observe possible multi-feed wiring."
+    },
+    {
+      "start": "00:02:39",
+      "end": "00:03:18",
+      "title": "Master smart switch installation (ground, travelers, common)",
+      "concepts": [
+        "ground connection",
+        "connect travelers",
+        "color-coding",
+        "common to feed"
+      ],
+      "description": "Installation of the smart master switch begins with grounding, then wiring the two traveler conductors to matching terminals, and finally connecting the common (feed) properly."
+    },
+    {
+      "start": "00:03:49",
+      "end": "00:04:50",
+      "title": "Bottom 3-way options: remote add-on vs keeping mechanical",
+      "concepts": [
+        "remote add-on option",
+        "keep mechanical switch",
+        "pairing process"
+      ],
+      "description": "Discusses two downstream options: using a remote add-on in the bottom box or retaining the mechanical switch for guest use, including how the add-on pairs with the master."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:06:11",
+      "title": "Bottom-box wiring and master remote integration",
+      "concepts": [
+        "tie three wires under wire nut",
+        "pigtail to common",
+        "reassign travelers to proper terminals"
+      ],
+      "description": "Details the bottom-box reconfiguration: binding the existing three wires under a single nut, mounting the remote, and ensuring the red traveler matches the corresponding master lead while the other traveler remains available."
+    },
+    {
+      "start": "00:06:37",
+      "end": "00:06:50",
+      "title": "Power-on test: two-location operation",
+      "concepts": [
+        "power restoration",
+        "test from both locations",
+        "two-location control"
+      ],
+      "description": "Power is restored and the system is tested to confirm the light can be controlled from both the top and bottom switches."
+    },
+    {
+      "start": "00:06:53",
+      "end": "00:07:07",
+      "title": "Wrap-up and next steps",
+      "concepts": [
+        "video call-to-action",
+        "subscribe"
+      ],
+      "description": "Closing remarks and encouragement to explore more This Old House videos."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Wiring a smart 3-way master switch in a three-way circuit (ground, travelers, and common)",
+      "timestamp": "00:02:42",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Pairing a remote/add-on with the master 3-way switch by a 6-second button press on both ends",
+      "timestamp": "00:04:32",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Reconfiguring the bottom 3-way to use a remote or to retain mechanical operation, including tying wires under a wire nut and creating a pigtail",
+      "timestamp": "00:04:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Testing two-location control after installation",
+      "timestamp": "00:06:42",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:14:58.802457+00:00"
+}

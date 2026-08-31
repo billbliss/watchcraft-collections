@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "video": "biFOHD2D04Y.youtube",
+  "title": "Sub Panel Siting, Feeder Strategy, and Service Upgrade Considerations",
+  "date": {
+    "display": "August 9, 2025",
+    "iso": "2025-08-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement of the main house",
+      "confidence": 0.9,
+      "basis": "Transcript line: 'Back in the basement of the main house.'"
+    },
+    {
+      "name": "Proposed sub panel location near open sectional wall (corner)",
+      "confidence": 0.55,
+      "basis": "Transcript lines indicate the corner/open sectional wall as the intended sub panel site: 'This is perfect for our 100 amp sub panel' and discussion of building out a wall after slab is poured."
+    },
+    {
+      "name": "Boiler room",
+      "confidence": 0.6,
+      "basis": "Transcript line: 'We have all our lines run from the boiler room which will feed our air handlers and so forth.'"
+    },
+    {
+      "name": "Office, Master Suite, Garage Mechanical Space (distant zones)",
+      "confidence": 0.6,
+      "basis": "Opening discussion notes these spaces are over 100 ft away from the main area and will be fed from the sub panel."
+    }
+  ],
+  "summary": "This Old House discusses installing and configuring a sub panel to serve a distant wing of a house (office, master suite, and garage mechanical space) when the main panel is remote. The video covers siting the sub panel in the proposed area near an open sectional wall, pouring a concrete slab and adding a 2x4 wall to mount the panel, and routing a single feeder cable into the sub panel rather than running many circuits. It then explains the relationship to the main service (initial 100 A panel in the main house), the plan to upgrade to a newer panel with arc-fault and GFCI protection, and the consideration of increasing service capacity from 100 A to 200 A or potentially 400 A based on load calculations that include heating/cooling, cooking, lighting, and future EV charging. The utility’s requirement to justify a 400 A service is highlighted, along with the practical steps of performing load calculations and the need to “homework” the sizing before upgrading.",
+  "topics": [
+    "Sub panel siting and location",
+    "Feeder size and single-cable feed strategy",
+    "Siting: slab pour and 2x4 wall mounting",
+    "Main electrical service location and size (basement panel)",
+    "Panel upgrade considerations (arc fault and GFCI)",
+    "Service upgrade to 200 A vs 400 A",
+    "Load calculation components (heating/cooling, electric cooking, lighting)",
+    "Electric vehicle charging load considerations",
+    "Utility approval process for 400 A service",
+    "Future-proofing electrical system planning"
+  ],
+  "sections": [
+    {
+      "start": "00:00:21",
+      "end": "00:01:22",
+      "title": "Sub panel siting and routing plan",
+      "concepts": [
+        "sub panel",
+        "location decision",
+        "slab prep",
+        "feed routing"
+      ],
+      "description": "Discussion of locating the sub panel in a distant portion of the house and feeding it from the main service. Includes considerations of slab pour, 2x4 wall, and plywood backing for mounting the panel and routing a single 100 A feeder."
+    },
+    {
+      "start": "00:01:23",
+      "end": "00:01:58",
+      "title": "Main panel status and upgrade rationale",
+      "concepts": [
+        "main panel location",
+        "panel age",
+        "arc fault and GFCI"
+      ],
+      "description": "Notes on the current main panel in the basement, its age, and the plan to upgrade to a newer panel with arc fault and GFCI protection for improved code compliance and future reliability."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:02:58",
+      "title": "Service sizing and load considerations",
+      "concepts": [
+        "100 A to 200 A upgrade",
+        "possible 400 A service",
+        "load calculation for future loads"
+      ],
+      "description": "Explanation that service could be upgraded from 100 A to 200 A, with the potential to reach 400 A after load calculations that include EV charging, heating, cooling, cooking, and lighting. Emphasizes the need to justify 400 A with utility."
+    },
+    {
+      "start": "00:02:39",
+      "end": "00:03:19",
+      "title": "Code interaction and house planning takeaway",
+      "concepts": [
+        "utility justification",
+        "engineering requirements",
+        "homeowner planning"
+      ],
+      "description": "Highlights the utility’s requirement to justify high-amp service, the importance of load calculations, and invites viewers to explore related home improvement topics in other videos."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Site/subpanel location planning for distant zones with a single feeder",
+      "timestamp": "00:00:27",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Pouring slab and building a 2x4 wall to mount a panel",
+      "timestamp": "00:00:57",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Routing a single 100 A feeder cable to a sub panel to feed multiple zones",
+      "timestamp": "00:01:15",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Upgrading electrical service size and discussing load calculations",
+      "timestamp": "00:02:29",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Evaluating EV charging and other high-demand loads in load calculations",
+      "timestamp": "00:02:15",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Understanding utility requirements for 400 A service (load justification)",
+      "timestamp": "00:02:39",
+      "confidence": 0.68
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:15:43.520255+00:00"
+}

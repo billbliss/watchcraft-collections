@@ -1,0 +1,2265 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "photoshop-tutorial-for-beginners-complete-series",
+  "title": "Photoshop Tutorial for Beginners | Complete Series",
+  "topic_scope": "collection",
+  "topic_normalization": {
+    "schema_version": 1,
+    "prompt_version": 2,
+    "model": "gpt-5.4-mini",
+    "source_hash": "251a7b77990797556c3beadbd2edbbad7f19f853cb21e4a38520eb83ef4b4b1b"
+  },
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "Photoshop Tutorial for Beginners | Complete Series",
+    "children": [
+      {
+        "type": "video",
+        "item_id": "video-photoshop-tutorial-for-beginners-complete-series-725641b4"
+      },
+      {
+        "type": "video",
+        "item_id": "video-photoshop-tutorial-for-beginners-complete-series-772bd430"
+      },
+      {
+        "type": "video",
+        "item_id": "video-photoshop-tutorial-for-beginners-complete-series-c1f0b091"
+      }
+    ]
+  },
+  "topics": {
+    "topic-adjustment-layers-for-targeted-selections-404ebdb5": {
+      "topic_id": "topic-adjustment-layers-for-targeted-selections-404ebdb5",
+      "canonical_key": "adjustment layers for targeted selections",
+      "label": "Adjustment Layers",
+      "aliases": [
+        "Adjustment layers for targeted selections"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "related_topic_ids": [
+        "topic-layer-based-non-destructive-editing-8124e0eb",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9"
+      ]
+    },
+    "topic-align-to-canvas-vs-selection-402c5cc8": {
+      "topic_id": "topic-align-to-canvas-vs-selection-402c5cc8",
+      "canonical_key": "align to canvas vs selection",
+      "label": "Align to Canvas",
+      "aliases": [
+        "Align to canvas vs selection"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "related_topic_ids": [
+        "topic-auto-select-toggle-3f319984",
+        "topic-move-tool-v-f477601f"
+      ]
+    },
+    "topic-alt-option-crop-from-center-5a0197b5": {
+      "topic_id": "topic-alt-option-crop-from-center-5a0197b5",
+      "canonical_key": "alt/option crop from center",
+      "label": "Center Crop Drag",
+      "aliases": [
+        "Alt/Option crop from center"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-freehand-crop-93e1ab99",
+        "topic-original-ratio-e28cb91e",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-straighten-tool-be3e9f4b"
+      ]
+    },
+    "topic-auto-select-toggle-3f319984": {
+      "topic_id": "topic-auto-select-toggle-3f319984",
+      "canonical_key": "auto select toggle",
+      "label": "Auto Select",
+      "aliases": [
+        "Auto Select toggle"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "related_topic_ids": [
+        "topic-align-to-canvas-vs-selection-402c5cc8",
+        "topic-ctrl-cmd-temporary-auto-select-11b336cb",
+        "topic-move-tool-v-f477601f"
+      ]
+    },
+    "topic-background-color-fc11115f": {
+      "topic_id": "topic-background-color-fc11115f",
+      "canonical_key": "background color",
+      "label": "Background Color",
+      "aliases": [
+        "Background color"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "related_topic_ids": [
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-color-picker-8d497410",
+        "topic-foreground-background-color-swap-x-8c266c03",
+        "topic-foreground-color-ed183efc",
+        "topic-x-key-to-swap-foreground-background-colors-cf701413"
+      ]
+    },
+    "topic-blend-modes-normal-vs-difference-1186c7e2": {
+      "topic_id": "topic-blend-modes-normal-vs-difference-1186c7e2",
+      "canonical_key": "blend modes: normal vs difference",
+      "label": "Blend Modes",
+      "aliases": [
+        "Blend modes: Normal vs Difference"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d"
+      ],
+      "related_topic_ids": [
+        "topic-layer-management-and-creation-ff85749e",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44"
+      ]
+    },
+    "topic-brush-opacity-vs-flow-d9bf71f4": {
+      "topic_id": "topic-brush-opacity-vs-flow-d9bf71f4",
+      "canonical_key": "brush opacity vs flow",
+      "label": "Brush Opacity Flow",
+      "aliases": [
+        "Brush opacity vs flow"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "related_topic_ids": [
+        "topic-brush-size-adjustments-and-keys-e2c8d631",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+        "topic-hard-round-brush-9f1e00c9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-soft-round-brush-fff535e9"
+      ]
+    },
+    "topic-brush-size-adjustments-and-keys-e2c8d631": {
+      "topic_id": "topic-brush-size-adjustments-and-keys-e2c8d631",
+      "canonical_key": "brush size adjustments ( [ and ] keys )",
+      "label": "Brush Size Shortcuts",
+      "aliases": [
+        "Brush size adjustments ( [ and ] keys )"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "related_topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-soft-round-brush-fff535e9"
+      ]
+    },
+    "topic-brush-smoothing-b4adf0ab": {
+      "topic_id": "topic-brush-smoothing-b4adf0ab",
+      "canonical_key": "brush smoothing",
+      "label": "Brush Smoothing",
+      "aliases": [
+        "Brush smoothing"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "related_topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-size-adjustments-and-keys-e2c8d631",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+        "topic-hard-round-brush-9f1e00c9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-soft-round-brush-fff535e9"
+      ]
+    },
+    "topic-brush-tool-6cd9bad1": {
+      "topic_id": "topic-brush-tool-6cd9bad1",
+      "canonical_key": "brush tool",
+      "label": "Brush Tool",
+      "aliases": [
+        "Brush tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "related_topic_ids": [
+        "topic-edit-toolbar-434d16cc",
+        "topic-tool-groups-and-access-hold-to-reveal-more-87a96fc3"
+      ]
+    },
+    "topic-brush-tool-and-foreground-background-color-90610932": {
+      "topic_id": "topic-brush-tool-and-foreground-background-color-90610932",
+      "canonical_key": "brush tool and foreground/background color",
+      "label": "Brush Color Basics",
+      "aliases": [
+        "Brush tool and foreground/background color"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89",
+        "family-color-control-7554f7f9"
+      ],
+      "related_topic_ids": [
+        "topic-background-color-fc11115f",
+        "topic-brush-size-adjustments-and-keys-e2c8d631",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-color-picker-8d497410",
+        "topic-foreground-background-color-swap-x-8c266c03",
+        "topic-foreground-color-ed183efc",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-x-key-to-swap-foreground-background-colors-cf701413"
+      ]
+    },
+    "topic-brush-tool-basics-5a37e28a": {
+      "topic_id": "topic-brush-tool-basics-5a37e28a",
+      "canonical_key": "brush tool basics",
+      "label": "Brush Basics",
+      "aliases": [
+        "Brush tool basics"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "related_topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-size-adjustments-and-keys-e2c8d631",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+        "topic-hard-round-brush-9f1e00c9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-soft-round-brush-fff535e9"
+      ]
+    },
+    "topic-catch-light-in-eyes-e36a15ac": {
+      "topic_id": "topic-catch-light-in-eyes-e36a15ac",
+      "canonical_key": "catch light in eyes",
+      "label": "Eye Catch Light",
+      "aliases": [
+        "Catch light in eyes"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "related_topic_ids": [
+        "topic-overlay-blend-mode-32fb5c8c",
+        "topic-tilde-key-eraser-98891379"
+      ]
+    },
+    "topic-color-picker-8d497410": {
+      "topic_id": "topic-color-picker-8d497410",
+      "canonical_key": "color picker",
+      "label": "Color Picker",
+      "aliases": [
+        "Color picker"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "related_topic_ids": [
+        "topic-background-color-fc11115f",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-foreground-background-color-swap-x-8c266c03",
+        "topic-foreground-color-ed183efc"
+      ]
+    },
+    "topic-content-aware-fill-cacdaa18": {
+      "topic_id": "topic-content-aware-fill-cacdaa18",
+      "canonical_key": "content-aware fill",
+      "label": "Content-Aware Fill",
+      "aliases": [],
+      "video_count": 2,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "related_topic_ids": [
+        "topic-generative-ai-options-in-remove-tool-cfd76ccc",
+        "topic-generative-expand-ai-expansion-fe16deb8",
+        "topic-generative-fill-firefly-and-upscaling-in-propert-a339ab47"
+      ]
+    },
+    "topic-contextual-taskbar-d3ba063a": {
+      "topic_id": "topic-contextual-taskbar-d3ba063a",
+      "canonical_key": "contextual taskbar",
+      "label": "Contextual Taskbar",
+      "aliases": [
+        "Contextual taskbar"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "related_topic_ids": [
+        "topic-customizing-and-saving-a-workspace-b35c281b",
+        "topic-options-bar-status-bar-menu-bar-a760e0f7",
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5"
+      ]
+    },
+    "topic-creative-cloud-installation-dafec14b": {
+      "topic_id": "topic-creative-cloud-installation-dafec14b",
+      "canonical_key": "creative cloud installation",
+      "label": "Creative Cloud Install",
+      "aliases": [
+        "Creative Cloud installation"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "related_topic_ids": [
+        "topic-photoshop-basics-e4d99fd9"
+      ]
+    },
+    "topic-crop-tool-c-shortcut-6fbfcf0c": {
+      "topic_id": "topic-crop-tool-c-shortcut-6fbfcf0c",
+      "canonical_key": "crop tool (c shortcut)",
+      "label": "Crop Tool",
+      "aliases": [
+        "Crop tool (C shortcut)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-freehand-crop-93e1ab99",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-straighten-tool-be3e9f4b"
+      ]
+    },
+    "topic-ctrl-cmd-temporary-auto-select-11b336cb": {
+      "topic_id": "topic-ctrl-cmd-temporary-auto-select-11b336cb",
+      "canonical_key": "ctrl/cmd temporary auto select",
+      "label": "Temporary Auto Select",
+      "aliases": [
+        "Ctrl/Cmd temporary Auto Select"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "related_topic_ids": [
+        "topic-auto-select-toggle-3f319984",
+        "topic-move-tool-v-f477601f"
+      ]
+    },
+    "topic-customizing-and-saving-a-workspace-b35c281b": {
+      "topic_id": "topic-customizing-and-saving-a-workspace-b35c281b",
+      "canonical_key": "customizing and saving a workspace",
+      "label": "Save Workspace",
+      "aliases": [
+        "Customizing and saving a workspace"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "related_topic_ids": [
+        "topic-contextual-taskbar-d3ba063a",
+        "topic-home-screen-vs-workspace-020bc304",
+        "topic-options-bar-status-bar-menu-bar-a760e0f7",
+        "topic-panels-layers-history-properties-ebd45d35",
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5"
+      ]
+    },
+    "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af": {
+      "topic_id": "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+      "canonical_key": "delete cropped pixels (crop tool setting)",
+      "label": "Delete Cropped Pixels",
+      "aliases": [
+        "Delete cropped pixels (crop tool setting)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-freehand-crop-93e1ab99",
+        "topic-original-ratio-e28cb91e",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-straighten-tool-be3e9f4b"
+      ]
+    },
+    "topic-drag-and-drop-file-import-0b143703": {
+      "topic_id": "topic-drag-and-drop-file-import-0b143703",
+      "canonical_key": "drag-and-drop file import",
+      "label": "Drag and Drop Import",
+      "aliases": [
+        "Drag-and-drop file import"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "related_topic_ids": [
+        "topic-export-options-quick-export-export-as-b66769ac",
+        "topic-opening-and-creating-files-86fa60d0",
+        "topic-psd-vs-jpeg-png-export-2dbe1fb0",
+        "topic-save-vs-save-as-vs-save-a-copy-23e4269a"
+      ]
+    },
+    "topic-edit-toolbar-434d16cc": {
+      "topic_id": "topic-edit-toolbar-434d16cc",
+      "canonical_key": "edit toolbar",
+      "label": "Edit Toolbar",
+      "aliases": [
+        "Edit toolbar"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "related_topic_ids": [
+        "topic-brush-tool-6cd9bad1",
+        "topic-tool-groups-and-access-hold-to-reveal-more-87a96fc3"
+      ]
+    },
+    "topic-eraser-tool-e-shortcut-3c0d894b": {
+      "topic_id": "topic-eraser-tool-e-shortcut-3c0d894b",
+      "canonical_key": "eraser tool (e) shortcut",
+      "label": "Eraser Tool",
+      "aliases": [
+        "Eraser tool (E) shortcut"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "related_topic_ids": [
+        "topic-sticky-shortcuts-for-tool-switching-r-l-j-etc-bc90b5f7"
+      ]
+    },
+    "topic-export-options-quick-export-export-as-b66769ac": {
+      "topic_id": "topic-export-options-quick-export-export-as-b66769ac",
+      "canonical_key": "export options (quick export, export as)",
+      "label": "Export Options",
+      "aliases": [
+        "Export options (Quick Export, Export As)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "related_topic_ids": [
+        "topic-drag-and-drop-file-import-0b143703",
+        "topic-opening-and-creating-files-86fa60d0",
+        "topic-psd-vs-jpeg-png-export-2dbe1fb0",
+        "topic-save-vs-save-as-vs-save-a-copy-23e4269a"
+      ]
+    },
+    "topic-find-distractions-people-wires-in-remove-tool-2d9ed471": {
+      "topic_id": "topic-find-distractions-people-wires-in-remove-tool-2d9ed471",
+      "canonical_key": "find distractions (people, wires) in remove tool",
+      "label": "Remove Tool Distractions",
+      "aliases": [
+        "Find distractions (People, Wires) in Remove Tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-patch-tool-source-vs-destination-1bac2c57",
+        "topic-remove-tool-4d2008b8",
+        "topic-remove-tool-basics-5d901486"
+      ]
+    },
+    "topic-fit-to-canvas-ctrl-cmd-0-6a6b5c5e": {
+      "topic_id": "topic-fit-to-canvas-ctrl-cmd-0-6a6b5c5e",
+      "canonical_key": "fit to canvas (ctrl/cmd 0)",
+      "label": "Fit to Canvas",
+      "aliases": [
+        "Fit to Canvas (Ctrl/Cmd 0)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-navigation-and-view-bd6c86a2"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3": {
+      "topic_id": "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+      "canonical_key": "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "label": "Fixed Aspect Ratios",
+      "aliases": [
+        "Fixed aspect ratios (16:9, 1:1 square, etc.)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-freehand-crop-93e1ab99",
+        "topic-original-ratio-e28cb91e",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-straighten-tool-be3e9f4b"
+      ]
+    },
+    "topic-flow-as-dynamic-sketch-like-intensity-082978e5": {
+      "topic_id": "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+      "canonical_key": "flow as dynamic sketch-like intensity",
+      "label": "Brush Flow",
+      "aliases": [
+        "Flow as dynamic sketch-like intensity"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "related_topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-hard-round-brush-9f1e00c9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917"
+      ]
+    },
+    "topic-foreground-color-ed183efc": {
+      "topic_id": "topic-foreground-color-ed183efc",
+      "canonical_key": "foreground color",
+      "label": "Foreground Color",
+      "aliases": [
+        "Foreground color"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "related_topic_ids": [
+        "topic-background-color-fc11115f",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-color-picker-8d497410",
+        "topic-foreground-background-color-swap-x-8c266c03"
+      ]
+    },
+    "topic-foreground-background-color-swap-x-8c266c03": {
+      "topic_id": "topic-foreground-background-color-swap-x-8c266c03",
+      "canonical_key": "foreground/background color swap (x)",
+      "label": "Color Swap",
+      "aliases": [
+        "Foreground/background color swap (X)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "related_topic_ids": [
+        "topic-background-color-fc11115f",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-color-picker-8d497410",
+        "topic-foreground-color-ed183efc",
+        "topic-x-key-to-swap-foreground-background-colors-cf701413"
+      ]
+    },
+    "topic-freehand-crop-93e1ab99": {
+      "topic_id": "topic-freehand-crop-93e1ab99",
+      "canonical_key": "freehand crop",
+      "label": "Freehand Crop",
+      "aliases": [
+        "Freehand crop"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-original-ratio-e28cb91e",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-straighten-tool-be3e9f4b"
+      ]
+    },
+    "topic-generative-ai-options-in-remove-tool-cfd76ccc": {
+      "topic_id": "topic-generative-ai-options-in-remove-tool-cfd76ccc",
+      "canonical_key": "generative ai options in remove tool",
+      "label": "Generative Remove Options",
+      "aliases": [
+        "Generative AI options in Remove Tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "related_topic_ids": [
+        "topic-content-aware-fill-cacdaa18",
+        "topic-generative-expand-ai-expansion-fe16deb8",
+        "topic-generative-fill-firefly-and-upscaling-in-propert-a339ab47"
+      ]
+    },
+    "topic-generative-expand-ai-expansion-fe16deb8": {
+      "topic_id": "topic-generative-expand-ai-expansion-fe16deb8",
+      "canonical_key": "generative expand (ai expansion)",
+      "label": "Generative Expand",
+      "aliases": [
+        "Generative Expand (AI expansion)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "related_topic_ids": [
+        "topic-content-aware-fill-cacdaa18",
+        "topic-generative-ai-options-in-remove-tool-cfd76ccc",
+        "topic-generative-fill-firefly-and-upscaling-in-propert-a339ab47"
+      ]
+    },
+    "topic-generative-fill-firefly-and-upscaling-in-propert-a339ab47": {
+      "topic_id": "topic-generative-fill-firefly-and-upscaling-in-propert-a339ab47",
+      "canonical_key": "generative fill (firefly) and upscaling in properties",
+      "label": "Generative Fill",
+      "aliases": [
+        "Generative Fill (Firefly) and upscaling in properties"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "related_topic_ids": [
+        "topic-content-aware-fill-cacdaa18",
+        "topic-generative-ai-options-in-remove-tool-cfd76ccc",
+        "topic-generative-expand-ai-expansion-fe16deb8"
+      ]
+    },
+    "topic-hard-round-brush-9f1e00c9": {
+      "topic_id": "topic-hard-round-brush-9f1e00c9",
+      "canonical_key": "hard round brush",
+      "label": "Hard Round Brush",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "related_topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-soft-round-brush-fff535e9"
+      ]
+    },
+    "topic-home-screen-vs-workspace-020bc304": {
+      "topic_id": "topic-home-screen-vs-workspace-020bc304",
+      "canonical_key": "home screen vs workspace",
+      "label": "Home Screen",
+      "aliases": [
+        "Home screen vs workspace"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "related_topic_ids": [
+        "topic-customizing-and-saving-a-workspace-b35c281b",
+        "topic-options-bar-status-bar-menu-bar-a760e0f7",
+        "topic-panels-layers-history-properties-ebd45d35",
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5"
+      ]
+    },
+    "topic-lasso-tool-and-selections-a66350c9": {
+      "topic_id": "topic-lasso-tool-and-selections-a66350c9",
+      "canonical_key": "lasso tool and selections",
+      "label": "Lasso Selections",
+      "aliases": [
+        "Lasso tool and selections"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "related_topic_ids": [
+        "topic-select-subject-object-selection-tool-6e417e61"
+      ]
+    },
+    "topic-layer-management-and-creation-ff85749e": {
+      "topic_id": "topic-layer-management-and-creation-ff85749e",
+      "canonical_key": "layer management and creation",
+      "label": "Layer Management",
+      "aliases": [
+        "Layer management and creation"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d"
+      ],
+      "related_topic_ids": [
+        "topic-blend-modes-normal-vs-difference-1186c7e2",
+        "topic-new-layer-59a0e00e",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44"
+      ]
+    },
+    "topic-layer-based-non-destructive-editing-8124e0eb": {
+      "topic_id": "topic-layer-based-non-destructive-editing-8124e0eb",
+      "canonical_key": "layer-based non-destructive editing",
+      "label": "Non-Destructive Layers",
+      "aliases": [
+        "Layer-based non-destructive editing"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "related_topic_ids": [
+        "topic-adjustment-layers-for-targeted-selections-404ebdb5",
+        "topic-mask-concepts-brief-mention-65a6e511",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44",
+        "topic-non-destructive-editing-e327ff37",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9"
+      ]
+    },
+    "topic-mask-concepts-brief-mention-65a6e511": {
+      "topic_id": "topic-mask-concepts-brief-mention-65a6e511",
+      "canonical_key": "mask concepts (brief mention)",
+      "label": "Layer Masks",
+      "aliases": [
+        "Mask concepts (brief mention)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "related_topic_ids": [
+        "topic-layer-based-non-destructive-editing-8124e0eb"
+      ]
+    },
+    "topic-move-tool-v-f477601f": {
+      "topic_id": "topic-move-tool-v-f477601f",
+      "canonical_key": "move tool (v)",
+      "label": "Move Tool",
+      "aliases": [
+        "Move tool (V)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "related_topic_ids": [
+        "topic-align-to-canvas-vs-selection-402c5cc8",
+        "topic-auto-select-toggle-3f319984",
+        "topic-ctrl-cmd-temporary-auto-select-11b336cb",
+        "topic-move-tool-and-transform-controls-0a9c1646"
+      ]
+    },
+    "topic-move-tool-and-transform-controls-0a9c1646": {
+      "topic_id": "topic-move-tool-and-transform-controls-0a9c1646",
+      "canonical_key": "move tool and transform controls",
+      "label": "Transform Controls",
+      "aliases": [
+        "Move tool and transform controls"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "related_topic_ids": [
+        "topic-move-tool-v-f477601f"
+      ]
+    },
+    "topic-new-layer-59a0e00e": {
+      "topic_id": "topic-new-layer-59a0e00e",
+      "canonical_key": "new layer",
+      "label": "New Layer",
+      "aliases": [
+        "New layer"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d"
+      ],
+      "related_topic_ids": [
+        "topic-layer-management-and-creation-ff85749e"
+      ]
+    },
+    "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44": {
+      "topic_id": "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44",
+      "canonical_key": "non-destructive duplication (ctrl/cmd j)",
+      "label": "Duplicate Layers",
+      "aliases": [
+        "Non-destructive duplication (Ctrl/Cmd J)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d",
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "related_topic_ids": [
+        "topic-blend-modes-normal-vs-difference-1186c7e2",
+        "topic-layer-based-non-destructive-editing-8124e0eb",
+        "topic-layer-management-and-creation-ff85749e",
+        "topic-non-destructive-editing-e327ff37",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9"
+      ]
+    },
+    "topic-non-destructive-editing-e327ff37": {
+      "topic_id": "topic-non-destructive-editing-e327ff37",
+      "canonical_key": "non-destructive editing",
+      "label": "Non-Destructive Editing",
+      "aliases": [
+        "Non-destructive editing"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "related_topic_ids": [
+        "topic-layer-based-non-destructive-editing-8124e0eb",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9"
+      ]
+    },
+    "topic-non-destructive-painting-on-new-layers-b9762bc9": {
+      "topic_id": "topic-non-destructive-painting-on-new-layers-b9762bc9",
+      "canonical_key": "non-destructive painting on new layers",
+      "label": "Non-Destructive Painting",
+      "aliases": [
+        "Non-destructive painting on new layers"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37",
+        "family-painting-techniques-cd5ab392"
+      ],
+      "related_topic_ids": [
+        "topic-adjustment-layers-for-targeted-selections-404ebdb5",
+        "topic-layer-based-non-destructive-editing-8124e0eb",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44",
+        "topic-non-destructive-editing-e327ff37",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-shift-trick-for-straight-lines-c401c799",
+        "topic-tilde-erasing-tilde-key-e4f2af74"
+      ]
+    },
+    "topic-object-finder-and-cloud-vs-device-processing-7addbc2d": {
+      "topic_id": "topic-object-finder-and-cloud-vs-device-processing-7addbc2d",
+      "canonical_key": "object finder and cloud vs device processing",
+      "label": "Object Finder",
+      "aliases": [
+        "Object Finder and cloud vs device processing"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "related_topic_ids": [
+        "topic-sampling-from-all-layers-f1054ee1",
+        "topic-select-subject-object-selection-tool-6e417e61"
+      ]
+    },
+    "topic-opacity-flow-vs-brush-interaction-on-layers-19112917": {
+      "topic_id": "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+      "canonical_key": "opacity/flow vs brush interaction on layers",
+      "label": "Opacity Flow Brush",
+      "aliases": [
+        "Opacity/flow vs brush interaction on layers"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89",
+        "family-painting-techniques-cd5ab392"
+      ],
+      "related_topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+        "topic-hard-round-brush-9f1e00c9",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9",
+        "topic-shift-trick-for-straight-lines-c401c799",
+        "topic-tilde-erasing-tilde-key-e4f2af74"
+      ]
+    },
+    "topic-opening-and-creating-files-86fa60d0": {
+      "topic_id": "topic-opening-and-creating-files-86fa60d0",
+      "canonical_key": "opening and creating files",
+      "label": "Open and Create Files",
+      "aliases": [
+        "Opening and creating files"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "related_topic_ids": [
+        "topic-drag-and-drop-file-import-0b143703",
+        "topic-export-options-quick-export-export-as-b66769ac",
+        "topic-psd-vs-jpeg-png-export-2dbe1fb0",
+        "topic-save-vs-save-as-vs-save-a-copy-23e4269a"
+      ]
+    },
+    "topic-options-bar-status-bar-menu-bar-a760e0f7": {
+      "topic_id": "topic-options-bar-status-bar-menu-bar-a760e0f7",
+      "canonical_key": "options bar, status bar, menu bar",
+      "label": "Three OSM Bars",
+      "aliases": [
+        "Options bar, Status bar, Menu bar"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "related_topic_ids": [
+        "topic-contextual-taskbar-d3ba063a",
+        "topic-customizing-and-saving-a-workspace-b35c281b",
+        "topic-home-screen-vs-workspace-020bc304",
+        "topic-panels-layers-history-properties-ebd45d35",
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5"
+      ]
+    },
+    "topic-original-ratio-e28cb91e": {
+      "topic_id": "topic-original-ratio-e28cb91e",
+      "canonical_key": "original ratio",
+      "label": "Original Aspect Ratio",
+      "aliases": [
+        "Original ratio"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-freehand-crop-93e1ab99",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-straighten-tool-be3e9f4b"
+      ]
+    },
+    "topic-overlay-blend-mode-32fb5c8c": {
+      "topic_id": "topic-overlay-blend-mode-32fb5c8c",
+      "canonical_key": "overlay blend mode",
+      "label": "Overlay Blend Mode",
+      "aliases": [
+        "Overlay blend mode"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "related_topic_ids": [
+        "topic-catch-light-in-eyes-e36a15ac"
+      ]
+    },
+    "topic-panels-layers-history-properties-ebd45d35": {
+      "topic_id": "topic-panels-layers-history-properties-ebd45d35",
+      "canonical_key": "panels (layers, history, properties)",
+      "label": "Workspace Panels",
+      "aliases": [
+        "Panels (Layers, History, Properties)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "related_topic_ids": [
+        "topic-customizing-and-saving-a-workspace-b35c281b",
+        "topic-home-screen-vs-workspace-020bc304",
+        "topic-options-bar-status-bar-menu-bar-a760e0f7",
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5"
+      ]
+    },
+    "topic-patch-tool-de36f8d7": {
+      "topic_id": "topic-patch-tool-de36f8d7",
+      "canonical_key": "patch tool",
+      "label": "Patch Tool",
+      "aliases": [
+        "Patch tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-patch-tool-source-vs-destination-1bac2c57",
+        "topic-remove-tool-4d2008b8"
+      ]
+    },
+    "topic-patch-tool-source-vs-destination-1bac2c57": {
+      "topic_id": "topic-patch-tool-source-vs-destination-1bac2c57",
+      "canonical_key": "patch tool (source vs destination)",
+      "label": "Patch Tool Basics",
+      "aliases": [
+        "Patch Tool (Source vs Destination)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-find-distractions-people-wires-in-remove-tool-2d9ed471",
+        "topic-patch-tool-de36f8d7",
+        "topic-remove-tool-basics-5d901486"
+      ]
+    },
+    "topic-photoshop-basics-e4d99fd9": {
+      "topic_id": "topic-photoshop-basics-e4d99fd9",
+      "canonical_key": "photoshop basics",
+      "label": "Photoshop Fundamentals",
+      "aliases": [
+        "Photoshop basics"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "related_topic_ids": [
+        "topic-creative-cloud-installation-dafec14b",
+        "topic-pixels-and-megapixels-330fc06b",
+        "topic-undo-redo-shortcuts-c8495067"
+      ]
+    },
+    "topic-photoshop-workspaces-photography-graphic-design--121c85a5": {
+      "topic_id": "topic-photoshop-workspaces-photography-graphic-design--121c85a5",
+      "canonical_key": "photoshop workspaces (photography, graphic design, painting)",
+      "label": "Photoshop Workspaces",
+      "aliases": [
+        "Photoshop workspaces (Photography, Graphic Design, Painting)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "related_topic_ids": [
+        "topic-contextual-taskbar-d3ba063a",
+        "topic-customizing-and-saving-a-workspace-b35c281b",
+        "topic-home-screen-vs-workspace-020bc304",
+        "topic-options-bar-status-bar-menu-bar-a760e0f7",
+        "topic-panels-layers-history-properties-ebd45d35"
+      ]
+    },
+    "topic-pixels-and-megapixels-330fc06b": {
+      "topic_id": "topic-pixels-and-megapixels-330fc06b",
+      "canonical_key": "pixels and megapixels",
+      "label": "Pixels and Megapixels",
+      "aliases": [
+        "Pixels and megapixels"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "related_topic_ids": [
+        "topic-photoshop-basics-e4d99fd9",
+        "topic-undo-redo-shortcuts-c8495067"
+      ]
+    },
+    "topic-psd-vs-jpeg-png-export-2dbe1fb0": {
+      "topic_id": "topic-psd-vs-jpeg-png-export-2dbe1fb0",
+      "canonical_key": "psd vs jpeg/png export",
+      "label": "PSD Export Formats",
+      "aliases": [
+        "PSD vs JPEG/PNG export"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "related_topic_ids": [
+        "topic-drag-and-drop-file-import-0b143703",
+        "topic-export-options-quick-export-export-as-b66769ac",
+        "topic-opening-and-creating-files-86fa60d0",
+        "topic-save-vs-save-as-vs-save-a-copy-23e4269a"
+      ]
+    },
+    "topic-reference-point-in-crop-d2f761cb": {
+      "topic_id": "topic-reference-point-in-crop-d2f761cb",
+      "canonical_key": "reference point in crop",
+      "label": "Crop Reference Point",
+      "aliases": [
+        "Reference point in crop"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-freehand-crop-93e1ab99",
+        "topic-original-ratio-e28cb91e",
+        "topic-straighten-tool-be3e9f4b"
+      ]
+    },
+    "topic-remove-tool-4d2008b8": {
+      "topic_id": "topic-remove-tool-4d2008b8",
+      "canonical_key": "remove tool",
+      "label": "Remove Tool",
+      "aliases": [
+        "Remove tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-find-distractions-people-wires-in-remove-tool-2d9ed471",
+        "topic-patch-tool-de36f8d7",
+        "topic-remove-tool-basics-5d901486"
+      ]
+    },
+    "topic-remove-tool-basics-5d901486": {
+      "topic_id": "topic-remove-tool-basics-5d901486",
+      "canonical_key": "remove tool basics",
+      "label": "Remove Tool Basics",
+      "aliases": [
+        "Remove Tool basics"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-find-distractions-people-wires-in-remove-tool-2d9ed471",
+        "topic-patch-tool-source-vs-destination-1bac2c57",
+        "topic-remove-tool-4d2008b8"
+      ]
+    },
+    "topic-rotate-view-tool-r-as-a-sticky-shortcut-15f9f624": {
+      "topic_id": "topic-rotate-view-tool-r-as-a-sticky-shortcut-15f9f624",
+      "canonical_key": "rotate view tool (r) as a sticky shortcut",
+      "label": "Rotate View Tool",
+      "aliases": [
+        "Rotate View Tool (R) as a sticky shortcut"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-navigation-and-view-bd6c86a2"
+      ],
+      "related_topic_ids": [
+        "topic-zoom-and-pan-shortcuts-spacebar-scrubby-zoom-h-k-9ec71d22"
+      ]
+    },
+    "topic-sample-all-layers-7d790987": {
+      "topic_id": "topic-sample-all-layers-7d790987",
+      "canonical_key": "sample all layers",
+      "label": "Sample All Layers",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "related_topic_ids": [
+        "topic-sampling-from-all-layers-f1054ee1"
+      ]
+    },
+    "topic-sampling-from-all-layers-f1054ee1": {
+      "topic_id": "topic-sampling-from-all-layers-f1054ee1",
+      "canonical_key": "sampling from all layers",
+      "label": "All Layers Sampling",
+      "aliases": [
+        "Sampling from all layers"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "related_topic_ids": [
+        "topic-object-finder-and-cloud-vs-device-processing-7addbc2d",
+        "topic-sample-all-layers-7d790987",
+        "topic-select-subject-object-selection-tool-6e417e61"
+      ]
+    },
+    "topic-save-vs-save-as-vs-save-a-copy-23e4269a": {
+      "topic_id": "topic-save-vs-save-as-vs-save-a-copy-23e4269a",
+      "canonical_key": "save vs save as vs save a copy",
+      "label": "Save As Options",
+      "aliases": [
+        "Save vs Save As vs Save a Copy"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "related_topic_ids": [
+        "topic-drag-and-drop-file-import-0b143703",
+        "topic-export-options-quick-export-export-as-b66769ac",
+        "topic-opening-and-creating-files-86fa60d0",
+        "topic-psd-vs-jpeg-png-export-2dbe1fb0"
+      ]
+    },
+    "topic-save-load-toolbar-presets-pix-minimal-64aeef9e": {
+      "topic_id": "topic-save-load-toolbar-presets-pix-minimal-64aeef9e",
+      "canonical_key": "save/load toolbar presets (pix minimal)",
+      "label": "Toolbar Presets",
+      "aliases": [
+        "Save/Load toolbar presets (Pix Minimal)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-select-subject-object-selection-tool-6e417e61": {
+      "topic_id": "topic-select-subject-object-selection-tool-6e417e61",
+      "canonical_key": "select subject / object selection tool",
+      "label": "Select Subject Tool",
+      "aliases": [
+        "Select Subject / Object Selection Tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "related_topic_ids": [
+        "topic-lasso-tool-and-selections-a66350c9",
+        "topic-object-finder-and-cloud-vs-device-processing-7addbc2d",
+        "topic-sampling-from-all-layers-f1054ee1"
+      ]
+    },
+    "topic-shift-trick-for-straight-lines-c401c799": {
+      "topic_id": "topic-shift-trick-for-straight-lines-c401c799",
+      "canonical_key": "shift trick for straight lines",
+      "label": "Straight Line Brush",
+      "aliases": [
+        "Shift trick for straight lines"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "related_topic_ids": [
+        "topic-non-destructive-painting-on-new-layers-b9762bc9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-tilde-erasing-tilde-key-e4f2af74"
+      ]
+    },
+    "topic-soft-round-brush-fff535e9": {
+      "topic_id": "topic-soft-round-brush-fff535e9",
+      "canonical_key": "soft round brush",
+      "label": "Soft Round Brush",
+      "aliases": [
+        "Soft round brush"
+      ],
+      "video_count": 2,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "related_topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-size-adjustments-and-keys-e2c8d631",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-hard-round-brush-9f1e00c9"
+      ]
+    },
+    "topic-sticky-shortcuts-for-tool-switching-r-l-j-etc-bc90b5f7": {
+      "topic_id": "topic-sticky-shortcuts-for-tool-switching-r-l-j-etc-bc90b5f7",
+      "canonical_key": "sticky shortcuts for tool switching (r, l, j, etc.)",
+      "label": "Tool Switching Shortcuts",
+      "aliases": [
+        "Sticky shortcuts for tool switching (R, L, J, etc.)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "related_topic_ids": [
+        "topic-eraser-tool-e-shortcut-3c0d894b"
+      ]
+    },
+    "topic-straighten-tool-be3e9f4b": {
+      "topic_id": "topic-straighten-tool-be3e9f4b",
+      "canonical_key": "straighten tool",
+      "label": "Straighten Tool",
+      "aliases": [
+        "Straighten tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "related_topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-freehand-crop-93e1ab99",
+        "topic-original-ratio-e28cb91e",
+        "topic-reference-point-in-crop-d2f761cb"
+      ]
+    },
+    "topic-text-tool-and-typography-d3690797": {
+      "topic_id": "topic-text-tool-and-typography-d3690797",
+      "canonical_key": "text tool and typography",
+      "label": "Text Tool",
+      "aliases": [
+        "Text tool and typography"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-typography-and-design-0ab93f15"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-tilde-erasing-tilde-key-e4f2af74": {
+      "topic_id": "topic-tilde-erasing-tilde-key-e4f2af74",
+      "canonical_key": "tilde erasing (tilde ~ key)",
+      "label": "Tilde Erasing",
+      "aliases": [
+        "TilDE erasing (tilde ~ key)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "related_topic_ids": [
+        "topic-non-destructive-painting-on-new-layers-b9762bc9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-shift-trick-for-straight-lines-c401c799",
+        "topic-tilde-key-eraser-98891379"
+      ]
+    },
+    "topic-tilde-key-eraser-98891379": {
+      "topic_id": "topic-tilde-key-eraser-98891379",
+      "canonical_key": "tilde key eraser",
+      "label": "Tilde Key Eraser",
+      "aliases": [
+        "Tilde key eraser"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "related_topic_ids": [
+        "topic-catch-light-in-eyes-e36a15ac",
+        "topic-tilde-erasing-tilde-key-e4f2af74"
+      ]
+    },
+    "topic-tool-groups-and-access-hold-to-reveal-more-87a96fc3": {
+      "topic_id": "topic-tool-groups-and-access-hold-to-reveal-more-87a96fc3",
+      "canonical_key": "tool groups and access (hold to reveal more)",
+      "label": "Tool Groups",
+      "aliases": [
+        "Tool groups and access (hold to reveal more)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "related_topic_ids": [
+        "topic-brush-tool-6cd9bad1",
+        "topic-edit-toolbar-434d16cc"
+      ]
+    },
+    "topic-undo-redo-shortcuts-c8495067": {
+      "topic_id": "topic-undo-redo-shortcuts-c8495067",
+      "canonical_key": "undo/redo shortcuts",
+      "label": "Undo Redo Shortcuts",
+      "aliases": [
+        "Undo/Redo shortcuts"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "related_topic_ids": [
+        "topic-photoshop-basics-e4d99fd9",
+        "topic-pixels-and-megapixels-330fc06b"
+      ]
+    },
+    "topic-x-key-to-swap-foreground-background-colors-cf701413": {
+      "topic_id": "topic-x-key-to-swap-foreground-background-colors-cf701413",
+      "canonical_key": "x key to swap foreground/background colors",
+      "label": "Swap Colors Key",
+      "aliases": [
+        "X key to swap foreground/background colors"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "related_topic_ids": [
+        "topic-background-color-fc11115f",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-foreground-background-color-swap-x-8c266c03"
+      ]
+    },
+    "topic-zoom-and-pan-shortcuts-spacebar-scrubby-zoom-h-k-9ec71d22": {
+      "topic_id": "topic-zoom-and-pan-shortcuts-spacebar-scrubby-zoom-h-k-9ec71d22",
+      "canonical_key": "zoom and pan shortcuts (spacebar, scrubby zoom, h key)",
+      "label": "Zoom and Pan Shortcuts",
+      "aliases": [
+        "Zoom and pan shortcuts (Spacebar, scrubby zoom, H key)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-navigation-and-view-bd6c86a2"
+      ],
+      "related_topic_ids": [
+        "topic-rotate-view-tool-r-as-a-sticky-shortcut-15f9f624"
+      ]
+    }
+  },
+  "topic_families": {
+    "family-alignment-and-transform-a684efc5": {
+      "family_id": "family-alignment-and-transform-a684efc5",
+      "canonical_key": "alignment and transform",
+      "label": "Alignment And Transform",
+      "description": "Positioning elements precisely with move, transform, alignment, and canvas/selection anchoring controls.",
+      "topic_ids": [
+        "topic-align-to-canvas-vs-selection-402c5cc8",
+        "topic-auto-select-toggle-3f319984",
+        "topic-ctrl-cmd-temporary-auto-select-11b336cb",
+        "topic-move-tool-and-transform-controls-0a9c1646",
+        "topic-move-tool-v-f477601f"
+      ],
+      "video_count": 2
+    },
+    "family-brush-fundamentals-4c8a5e89": {
+      "family_id": "family-brush-fundamentals-4c8a5e89",
+      "canonical_key": "brush fundamentals",
+      "label": "Brush Fundamentals",
+      "description": "Working with brush types, size, smoothing, opacity, flow, and stroke behavior.",
+      "topic_ids": [
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-brush-size-adjustments-and-keys-e2c8d631",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+        "topic-hard-round-brush-9f1e00c9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-soft-round-brush-fff535e9"
+      ],
+      "video_count": 3
+    },
+    "family-color-control-7554f7f9": {
+      "family_id": "family-color-control-7554f7f9",
+      "canonical_key": "color control",
+      "label": "Color Control",
+      "description": "Managing foreground and background colors, swapping them, and picking colors for painting tasks.",
+      "topic_ids": [
+        "topic-background-color-fc11115f",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-color-picker-8d497410",
+        "topic-foreground-background-color-swap-x-8c266c03",
+        "topic-foreground-color-ed183efc",
+        "topic-x-key-to-swap-foreground-background-colors-cf701413"
+      ],
+      "video_count": 3
+    },
+    "family-content-aware-and-generative-4a1fe53b": {
+      "family_id": "family-content-aware-and-generative-4a1fe53b",
+      "canonical_key": "content-aware and generative",
+      "label": "Content-Aware And Generative",
+      "description": "Using AI-assisted fill, expand, and removal features to extend or reconstruct image content.",
+      "topic_ids": [
+        "topic-content-aware-fill-cacdaa18",
+        "topic-generative-ai-options-in-remove-tool-cfd76ccc",
+        "topic-generative-expand-ai-expansion-fe16deb8",
+        "topic-generative-fill-firefly-and-upscaling-in-propert-a339ab47"
+      ],
+      "video_count": 2
+    },
+    "family-cropping-and-straightening-f35aeaa0": {
+      "family_id": "family-cropping-and-straightening-f35aeaa0",
+      "canonical_key": "cropping and straightening",
+      "label": "Cropping And Straightening",
+      "description": "Reframing images with crop options, ratios, reference points, and straighten controls.",
+      "topic_ids": [
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-freehand-crop-93e1ab99",
+        "topic-original-ratio-e28cb91e",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-straighten-tool-be3e9f4b"
+      ],
+      "video_count": 1
+    },
+    "family-file-handling-d311d55d": {
+      "family_id": "family-file-handling-d311d55d",
+      "canonical_key": "file handling",
+      "label": "File Handling",
+      "description": "Creating, opening, saving, and exporting files in the formats and workflows covered.",
+      "topic_ids": [
+        "topic-drag-and-drop-file-import-0b143703",
+        "topic-export-options-quick-export-export-as-b66769ac",
+        "topic-opening-and-creating-files-86fa60d0",
+        "topic-psd-vs-jpeg-png-export-2dbe1fb0",
+        "topic-save-vs-save-as-vs-save-a-copy-23e4269a"
+      ],
+      "video_count": 1
+    },
+    "family-layer-workflow-8cc77b3d": {
+      "family_id": "family-layer-workflow-8cc77b3d",
+      "canonical_key": "layer workflow",
+      "label": "Layer Workflow",
+      "description": "Creating, duplicating, arranging, and editing on layers to keep work flexible and editable.",
+      "topic_ids": [
+        "topic-blend-modes-normal-vs-difference-1186c7e2",
+        "topic-layer-management-and-creation-ff85749e",
+        "topic-new-layer-59a0e00e",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44"
+      ],
+      "video_count": 2
+    },
+    "family-navigation-and-view-bd6c86a2": {
+      "family_id": "family-navigation-and-view-bd6c86a2",
+      "canonical_key": "navigation and view",
+      "label": "Navigation And View",
+      "description": "Moving around the canvas with zoom, pan, fit, rotate view, and related view controls.",
+      "topic_ids": [
+        "topic-fit-to-canvas-ctrl-cmd-0-6a6b5c5e",
+        "topic-rotate-view-tool-r-as-a-sticky-shortcut-15f9f624",
+        "topic-zoom-and-pan-shortcuts-spacebar-scrubby-zoom-h-k-9ec71d22"
+      ],
+      "video_count": 3
+    },
+    "family-non-destructive-editing-e327ff37": {
+      "family_id": "family-non-destructive-editing-e327ff37",
+      "canonical_key": "non-destructive editing",
+      "label": "Non-Destructive Editing",
+      "description": "Preserving originals through adjustments, duplication, masks, and other reversible editing approaches.",
+      "topic_ids": [
+        "topic-adjustment-layers-for-targeted-selections-404ebdb5",
+        "topic-layer-based-non-destructive-editing-8124e0eb",
+        "topic-mask-concepts-brief-mention-65a6e511",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44",
+        "topic-non-destructive-editing-e327ff37",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9"
+      ],
+      "video_count": 3
+    },
+    "family-painting-techniques-cd5ab392": {
+      "family_id": "family-painting-techniques-cd5ab392",
+      "canonical_key": "painting techniques",
+      "label": "Painting Techniques",
+      "description": "Applying brush-based effects, straight lines, patterns, and non-destructive painting on layers.",
+      "topic_ids": [
+        "topic-catch-light-in-eyes-e36a15ac",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-overlay-blend-mode-32fb5c8c",
+        "topic-shift-trick-for-straight-lines-c401c799",
+        "topic-tilde-erasing-tilde-key-e4f2af74",
+        "topic-tilde-key-eraser-98891379"
+      ],
+      "video_count": 2
+    },
+    "family-performance-and-workflow-bcd42eca": {
+      "family_id": "family-performance-and-workflow-bcd42eca",
+      "canonical_key": "performance and workflow",
+      "label": "Performance And Workflow",
+      "description": "Installing Photoshop, customizing the workspace, and using shortcuts to speed common tasks.",
+      "topic_ids": [
+        "topic-creative-cloud-installation-dafec14b",
+        "topic-photoshop-basics-e4d99fd9",
+        "topic-pixels-and-megapixels-330fc06b",
+        "topic-save-load-toolbar-presets-pix-minimal-64aeef9e",
+        "topic-undo-redo-shortcuts-c8495067"
+      ],
+      "video_count": 2
+    },
+    "family-retouching-tools-09c908c4": {
+      "family_id": "family-retouching-tools-09c908c4",
+      "canonical_key": "retouching tools",
+      "label": "Retouching Tools",
+      "description": "Removing distractions and repairing image areas with fill, patch, remove, and related healing workflows.",
+      "topic_ids": [
+        "topic-find-distractions-people-wires-in-remove-tool-2d9ed471",
+        "topic-patch-tool-de36f8d7",
+        "topic-patch-tool-source-vs-destination-1bac2c57",
+        "topic-remove-tool-4d2008b8",
+        "topic-remove-tool-basics-5d901486"
+      ],
+      "video_count": 2
+    },
+    "family-selection-methods-fd0b9e3a": {
+      "family_id": "family-selection-methods-fd0b9e3a",
+      "canonical_key": "selection methods",
+      "label": "Selection Methods",
+      "description": "Making and refining selections with lasso, object-based selection, subject selection, and auto-select tools.",
+      "topic_ids": [
+        "topic-lasso-tool-and-selections-a66350c9",
+        "topic-object-finder-and-cloud-vs-device-processing-7addbc2d",
+        "topic-sample-all-layers-7d790987",
+        "topic-sampling-from-all-layers-f1054ee1",
+        "topic-select-subject-object-selection-tool-6e417e61"
+      ],
+      "video_count": 3
+    },
+    "family-tool-access-3487009c": {
+      "family_id": "family-tool-access-3487009c",
+      "canonical_key": "tool access",
+      "label": "Tool Access",
+      "description": "Using the toolbar, tool groups, sticky shortcuts, and quick switching to reach core tools efficiently.",
+      "topic_ids": [
+        "topic-brush-tool-6cd9bad1",
+        "topic-edit-toolbar-434d16cc",
+        "topic-eraser-tool-e-shortcut-3c0d894b",
+        "topic-sticky-shortcuts-for-tool-switching-r-l-j-etc-bc90b5f7",
+        "topic-tool-groups-and-access-hold-to-reveal-more-87a96fc3"
+      ],
+      "video_count": 2
+    },
+    "family-typography-and-design-0ab93f15": {
+      "family_id": "family-typography-and-design-0ab93f15",
+      "canonical_key": "typography and design",
+      "label": "Typography And Design",
+      "description": "Adding and managing text and basic layout elements for simple graphic design tasks.",
+      "topic_ids": [
+        "topic-text-tool-and-typography-d3690797"
+      ],
+      "video_count": 1
+    },
+    "family-workspace-setup-6d7d7c5c": {
+      "family_id": "family-workspace-setup-6d7d7c5c",
+      "canonical_key": "workspace setup",
+      "label": "Workspace Setup",
+      "description": "Getting oriented in Photoshop’s home screen, workspaces, panels, and interface bars.",
+      "topic_ids": [
+        "topic-contextual-taskbar-d3ba063a",
+        "topic-customizing-and-saving-a-workspace-b35c281b",
+        "topic-home-screen-vs-workspace-020bc304",
+        "topic-options-bar-status-bar-menu-bar-a760e0f7",
+        "topic-panels-layers-history-properties-ebd45d35",
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5"
+      ],
+      "video_count": 1
+    }
+  },
+  "items": {
+    "video-photoshop-tutorial-for-beginners-complete-series-772bd430": {
+      "item_id": "video-photoshop-tutorial-for-beginners-complete-series-772bd430",
+      "title": "Eye Highlights, Tool Groups, and Crop Tricks: Photoshop Tools for Beginners (Lesson 2)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "lO9cNUajts8",
+          "url": "https://www.youtube.com/watch?v=lO9cNUajts8"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/lO9cNUajts8.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This beginner-focused Photoshop lesson teaches practical, repeatable techniques for reinforcing non-destructive editing and core tool navigation. It starts with a quick, hands-on eye-light enhancement using a soft round brush on a new layer and an Overlay blend mode to create bright catch lights. The instructor then dissects the Photoshop toolbar into tool groups, demonstrates non-destructive workflows (new layers, sampling across layers, and tool settings via the Options bar), and walks through patching and removing on separate layers. The session continues with toolbar customization (editing, hiding, and saving presets such as Pix Minimal), followed by foundational cropping basics, including delete-cropped-pixels caution, fixed vs freehand ratios, and the straightening workflow with a reference point that can be moved with Alt/Option. The video also covers Generative Expand (AI-assisted content-aware expansion), model prompts, and option handling, plus Move tool behavior, alignment options (align to selection vs align to canvas), and a hybrid approach for temporarily enabling Auto Select with a Ctrl/Cmd modifier. Throughout, the educator emphasizes practical shortcuts, workflow hygiene, and practicing on a separate layer to stay non-destructive, ending with encouragement to follow along and apply these tools to own projects.",
+      "date": {
+        "display": "April 8, 2026",
+        "iso": "2026-04-08",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-brush-tool-6cd9bad1",
+        "topic-new-layer-59a0e00e",
+        "topic-foreground-background-color-swap-x-8c266c03",
+        "topic-soft-round-brush-fff535e9",
+        "topic-catch-light-in-eyes-e36a15ac",
+        "topic-overlay-blend-mode-32fb5c8c",
+        "topic-tilde-key-eraser-98891379",
+        "topic-brush-size-adjustments-and-keys-e2c8d631",
+        "topic-non-destructive-editing-e327ff37",
+        "topic-patch-tool-de36f8d7",
+        "topic-sample-all-layers-7d790987",
+        "topic-remove-tool-4d2008b8",
+        "topic-edit-toolbar-434d16cc",
+        "topic-tool-groups-and-access-hold-to-reveal-more-87a96fc3",
+        "topic-save-load-toolbar-presets-pix-minimal-64aeef9e",
+        "topic-delete-cropped-pixels-crop-tool-setting-a0cff7af",
+        "topic-crop-tool-c-shortcut-6fbfcf0c",
+        "topic-fixed-aspect-ratios-16-9-1-1-square-etc-b3df0cc3",
+        "topic-original-ratio-e28cb91e",
+        "topic-freehand-crop-93e1ab99",
+        "topic-straighten-tool-be3e9f4b",
+        "topic-reference-point-in-crop-d2f761cb",
+        "topic-alt-option-crop-from-center-5a0197b5",
+        "topic-generative-expand-ai-expansion-fe16deb8",
+        "topic-content-aware-fill-cacdaa18",
+        "topic-move-tool-v-f477601f",
+        "topic-align-to-canvas-vs-selection-402c5cc8",
+        "topic-auto-select-toggle-3f319984",
+        "topic-ctrl-cmd-temporary-auto-select-11b336cb",
+        "topic-fit-to-canvas-ctrl-cmd-0-6a6b5c5e"
+      ],
+      "family_ids": [
+        "family-tool-access-3487009c",
+        "family-layer-workflow-8cc77b3d",
+        "family-color-control-7554f7f9",
+        "family-brush-fundamentals-4c8a5e89",
+        "family-painting-techniques-cd5ab392",
+        "family-non-destructive-editing-e327ff37",
+        "family-retouching-tools-09c908c4",
+        "family-selection-methods-fd0b9e3a",
+        "family-performance-and-workflow-bcd42eca",
+        "family-cropping-and-straightening-f35aeaa0",
+        "family-content-aware-and-generative-4a1fe53b",
+        "family-alignment-and-transform-a684efc5",
+        "family-navigation-and-view-bd6c86a2"
+      ],
+      "topic_sections": {
+        "topic-brush-tool-6cd9bad1": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "topic-new-layer-59a0e00e": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "topic-foreground-background-color-swap-x-8c266c03": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "topic-soft-round-brush-fff535e9": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "topic-overlay-blend-mode-32fb5c8c": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "topic-non-destructive-editing-e327ff37": [
+          2
+        ],
+        "topic-patch-tool-de36f8d7": [
+          2,
+          5
+        ],
+        "topic-remove-tool-4d2008b8": [
+          2,
+          5,
+          15
+        ],
+        "topic-edit-toolbar-434d16cc": [
+          5
+        ],
+        "topic-save-load-toolbar-presets-pix-minimal-64aeef9e": [
+          5
+        ],
+        "topic-crop-tool-c-shortcut-6fbfcf0c": [
+          7,
+          9,
+          10
+        ],
+        "topic-original-ratio-e28cb91e": [
+          10,
+          11
+        ],
+        "topic-freehand-crop-93e1ab99": [
+          11
+        ],
+        "topic-straighten-tool-be3e9f4b": [
+          10
+        ],
+        "topic-reference-point-in-crop-d2f761cb": [
+          11
+        ],
+        "topic-alt-option-crop-from-center-5a0197b5": [
+          11,
+          13
+        ],
+        "topic-content-aware-fill-cacdaa18": [
+          13
+        ],
+        "topic-move-tool-v-f477601f": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "chapter_count": 19
+    },
+    "video-photoshop-tutorial-for-beginners-complete-series-725641b4": {
+      "item_id": "video-photoshop-tutorial-for-beginners-complete-series-725641b4",
+      "title": "Photoshop Beginner Lesson 1: Workspace, Panels, and Basic File Management (PiXimperfect)",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "OKkWRpoIFuw",
+          "url": "https://www.youtube.com/watch?v=OKkWRpoIFuw"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/OKkWRpoIFuw.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "PiXimperfect’s Photoshop for Complete Beginners: Start Here (Lesson 1) guides new users through core concepts and setup for Photoshop. It starts with what Photoshop does and explains pixels and megapixels, then covers installing or updating via Creative Cloud, and distinguishes the Home screen from the work space. The video demonstrates how to switch and customize workspaces, save a personal setup, and organize panels, followed by a practical hands-on project that introduces brushes, text, and layers. It then walks through saving practices (Save, Save As, PSD), exporting for web (JPEG/PNG), and essential navigation shortcuts, including transform controls, zoom/pan techniques, and the contextual taskbar that adapts to the active tool. The session culminates with quick tips on undo/redo, layout fundamentals (canvas/tools/panels), and a reminder of how to access any missing panels via the Window menu.",
+      "date": {
+        "display": "April 2, 2026",
+        "iso": "2026-04-02",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-photoshop-basics-e4d99fd9",
+        "topic-pixels-and-megapixels-330fc06b",
+        "topic-creative-cloud-installation-dafec14b",
+        "topic-home-screen-vs-workspace-020bc304",
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5",
+        "topic-customizing-and-saving-a-workspace-b35c281b",
+        "topic-panels-layers-history-properties-ebd45d35",
+        "topic-opening-and-creating-files-86fa60d0",
+        "topic-drag-and-drop-file-import-0b143703",
+        "topic-brush-tool-and-foreground-background-color-90610932",
+        "topic-text-tool-and-typography-d3690797",
+        "topic-move-tool-and-transform-controls-0a9c1646",
+        "topic-layer-based-non-destructive-editing-8124e0eb",
+        "topic-save-vs-save-as-vs-save-a-copy-23e4269a",
+        "topic-psd-vs-jpeg-png-export-2dbe1fb0",
+        "topic-export-options-quick-export-export-as-b66769ac",
+        "topic-contextual-taskbar-d3ba063a",
+        "topic-options-bar-status-bar-menu-bar-a760e0f7",
+        "topic-undo-redo-shortcuts-c8495067",
+        "topic-zoom-and-pan-shortcuts-spacebar-scrubby-zoom-h-k-9ec71d22",
+        "topic-lasso-tool-and-selections-a66350c9",
+        "topic-mask-concepts-brief-mention-65a6e511"
+      ],
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca",
+        "family-workspace-setup-6d7d7c5c",
+        "family-file-handling-d311d55d",
+        "family-color-control-7554f7f9",
+        "family-brush-fundamentals-4c8a5e89",
+        "family-typography-and-design-0ab93f15",
+        "family-alignment-and-transform-a684efc5",
+        "family-non-destructive-editing-e327ff37",
+        "family-navigation-and-view-bd6c86a2",
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "topic_sections": {
+        "topic-photoshop-basics-e4d99fd9": [
+          7
+        ],
+        "topic-pixels-and-megapixels-330fc06b": [
+          2
+        ],
+        "topic-photoshop-workspaces-photography-graphic-design--121c85a5": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "topic-brush-tool-and-foreground-background-color-90610932": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "topic-psd-vs-jpeg-png-export-2dbe1fb0": [
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "topic-contextual-taskbar-d3ba063a": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ],
+        "topic-options-bar-status-bar-menu-bar-a760e0f7": [
+          18
+        ],
+        "topic-undo-redo-shortcuts-c8495067": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ],
+        "topic-lasso-tool-and-selections-a66350c9": [
+          26
+        ]
+      },
+      "chapter_count": 29
+    },
+    "video-photoshop-tutorial-for-beginners-complete-series-c1f0b091": {
+      "item_id": "video-photoshop-tutorial-for-beginners-complete-series-c1f0b091",
+      "title": "Master Creative Tools - Photoshop for Beginners | Lesson 3",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "Til_xsAkc7g",
+          "url": "https://www.youtube.com/watch?v=Til_xsAkc7g"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/Til_xsAkc7g.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This PiXimperfect lesson introduces core Photoshop creative tools for beginners through hands‑on brushing, coloring, and non‑destructive editing techniques. The video demonstrates painting with the brush on different blend modes (notably Difference) to reveal interaction with underlying colors, switching between foreground and background colors, and using new layers to keep edits non‑destructive. It covers essential brush fundamentals (tip shapes, opacity vs flow, and smoothing), practical shortcuts ( Bracket keys for size; tilde for erasing while painting; keyboard shortcuts for tools), and the Rotate View/Sticky Shortcuts workflow that accelerates tool switching. The session also dives into removal and healing workflows (Remove Tool, Patch Tool, Content‑Aware Fill) with both manual and AI‑assisted options, and culminates with advanced selection techniques (Lasso, Select Subject, Object Selection with cloud vs device processing) and quick background removal via masks and adjustment layers. The overall message encourages experimentation and non‑destructive practice using practice files or personal images.",
+      "date": {
+        "display": "April 28, 2026",
+        "iso": "2026-04-28",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-brush-tool-basics-5a37e28a",
+        "topic-soft-round-brush-fff535e9",
+        "topic-hard-round-brush-9f1e00c9",
+        "topic-foreground-color-ed183efc",
+        "topic-background-color-fc11115f",
+        "topic-color-picker-8d497410",
+        "topic-blend-modes-normal-vs-difference-1186c7e2",
+        "topic-non-destructive-painting-on-new-layers-b9762bc9",
+        "topic-layer-management-and-creation-ff85749e",
+        "topic-x-key-to-swap-foreground-background-colors-cf701413",
+        "topic-tilde-erasing-tilde-key-e4f2af74",
+        "topic-eraser-tool-e-shortcut-3c0d894b",
+        "topic-brush-opacity-vs-flow-d9bf71f4",
+        "topic-flow-as-dynamic-sketch-like-intensity-082978e5",
+        "topic-brush-smoothing-b4adf0ab",
+        "topic-shift-trick-for-straight-lines-c401c799",
+        "topic-rotate-view-tool-r-as-a-sticky-shortcut-15f9f624",
+        "topic-sticky-shortcuts-for-tool-switching-r-l-j-etc-bc90b5f7",
+        "topic-sampling-from-all-layers-f1054ee1",
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917",
+        "topic-remove-tool-basics-5d901486",
+        "topic-find-distractions-people-wires-in-remove-tool-2d9ed471",
+        "topic-generative-ai-options-in-remove-tool-cfd76ccc",
+        "topic-patch-tool-source-vs-destination-1bac2c57",
+        "topic-content-aware-fill-cacdaa18",
+        "topic-select-subject-object-selection-tool-6e417e61",
+        "topic-object-finder-and-cloud-vs-device-processing-7addbc2d",
+        "topic-adjustment-layers-for-targeted-selections-404ebdb5",
+        "topic-generative-fill-firefly-and-upscaling-in-propert-a339ab47",
+        "topic-non-destructive-duplication-ctrl-cmd-j-d4b55b44"
+      ],
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89",
+        "family-color-control-7554f7f9",
+        "family-layer-workflow-8cc77b3d",
+        "family-painting-techniques-cd5ab392",
+        "family-non-destructive-editing-e327ff37",
+        "family-tool-access-3487009c",
+        "family-navigation-and-view-bd6c86a2",
+        "family-selection-methods-fd0b9e3a",
+        "family-retouching-tools-09c908c4",
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "topic_sections": {
+        "topic-brush-tool-basics-5a37e28a": [
+          1
+        ],
+        "topic-soft-round-brush-fff535e9": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "topic-hard-round-brush-9f1e00c9": [
+          2,
+          4,
+          6,
+          7
+        ],
+        "topic-foreground-color-ed183efc": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "topic-background-color-fc11115f": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "topic-color-picker-8d497410": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "topic-non-destructive-painting-on-new-layers-b9762bc9": [
+          1
+        ],
+        "topic-x-key-to-swap-foreground-background-colors-cf701413": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "topic-tilde-erasing-tilde-key-e4f2af74": [
+          2
+        ],
+        "topic-eraser-tool-e-shortcut-3c0d894b": [
+          2
+        ],
+        "topic-brush-smoothing-b4adf0ab": [
+          6
+        ],
+        "topic-shift-trick-for-straight-lines-c401c799": [
+          5
+        ],
+        "topic-rotate-view-tool-r-as-a-sticky-shortcut-15f9f624": [
+          8
+        ],
+        "topic-opacity-flow-vs-brush-interaction-on-layers-19112917": [
+          4
+        ],
+        "topic-remove-tool-basics-5d901486": [
+          10
+        ],
+        "topic-patch-tool-source-vs-destination-1bac2c57": [
+          14
+        ],
+        "topic-content-aware-fill-cacdaa18": [
+          17
+        ],
+        "topic-select-subject-object-selection-tool-6e417e61": [
+          18,
+          19
+        ]
+      },
+      "chapter_count": 21
+    }
+  },
+  "stats": {
+    "video_count": 3,
+    "topic_count": 80,
+    "topic_family_count": 16
+  },
+  "description": "A Watchcraft collection generated from the Photoshop Tutorial for Beginners | Complete Series YouTube playlist.",
+  "publisher": "PiXimperfect",
+  "source": {
+    "type": "youtube-playlist",
+    "playlist_id": "PLLlSBGLVsEPLTjei2ZKRR1aBzpmpfHiXL",
+    "url": "https://www.youtube.com/playlist?list=PLLlSBGLVsEPLTjei2ZKRR1aBzpmpfHiXL",
+    "excluded_video_ids": [],
+    "publisher": "PiXimperfect",
+    "publisher_url": "https://www.youtube.com/@PiXimperfect"
+  },
+  "revision": 1,
+  "content_hash": "55e405ed6a97b2dcb4e3935176e9bdfb399d5368336c85aec29c43fece3f6f72"
+}

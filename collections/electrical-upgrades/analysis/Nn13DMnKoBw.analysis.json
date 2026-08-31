@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "video": "Nn13DMnKoBw.youtube",
+  "title": "How to Choose an Electrical Box: New Work, Old Work, and Special Cases",
+  "date": {
+    "display": "February 5, 2020",
+    "iso": "2020-02-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video walks through selecting electrical boxes for common residential applications, contrasting new-work plastic boxes installed on studs with old-work boxes that are fitted after drywall is in place. It covers when to use plastic versus metal boxes depending on cable type, explains grounding considerations for metal boxes, differentiates single-, double-, and multi-gang configurations, and discusses box choices for lighting and ceiling installations (including fan-rated boxes) along with a common bracing approach for walls lacking a stud. The hosts emphasize practical installation steps, compatibility with cable types, and future-proofing for heavier fixtures.",
+  "topics": [
+    "electrical boxes",
+    "new work plastic box",
+    "nailing flange",
+    "plastic vs metal electrical boxes",
+    "non-metallic cable (NM)",
+    "metal-clad cable",
+    "old work single-gang box",
+    "old work installation (drywall cut, clamp)",
+    "one-gang, two-gang, three-gang, four-gang boxes",
+    "round electrical box",
+    "rectangular electrical box",
+    "lighting boxes",
+    "ceiling fan-rated box",
+    "grounding metal boxes",
+    "box braces / old-work brace",
+    "plaster and lath compatibility"
+  ],
+  "sections": [
+    {
+      "start": "00:00:20",
+      "end": "00:01:04",
+      "title": "New work plastic boxes: purpose and installation",
+      "concepts": [
+        "new work",
+        "plastic box",
+        "nailing flange",
+        "stud mounting",
+        "drywall finish"
+      ],
+      "description": "Introduces 'new work' construction and plastic boxes used in residential projects. Describes quick installation by nailing the box to a stud, followed by drywall coverage. Notes that some boxes include a nailing flange and embedded nails, and that plastic boxes are common in new construction."
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:01:30",
+      "title": "Plastic vs. metal boxes and cable-type considerations",
+      "concepts": [
+        "plastic box",
+        "metal box",
+        "non-metallic cable",
+        "metal-clad cable",
+        "grounding"
+      ],
+      "description": "Discusses choosing plastic boxes for non-metallic (NM) cable and metal boxes for metal-clad cable, highlighting grounding considerations when using metal boxes."
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:13",
+      "title": "Old work vs. new work; install basics",
+      "concepts": [
+        "new work",
+        "old work",
+        "old work single-gang plastic box",
+        "drywall cut",
+        "clamps"
+      ],
+      "description": "Defines old work vs. new work concepts. Describes installing an old-work plastic box by cutting drywall, sliding the box in, and tightening screws to engage a clamp to hold it in place."
+    },
+    {
+      "start": "00:02:13",
+      "end": "00:02:57",
+      "title": "Box sizes and configurations: 1-, 2-, 3-, 4-gang; round vs. rectangular",
+      "concepts": [
+        "single gang",
+        "double gang",
+        "triple/quadruple gang",
+        "round box",
+        "rectangular box",
+        "lighting vs. switches"
+      ],
+      "description": "Outlines common gang configurations and their applications (lights, switches). Explains that round boxes are typically used for lighting and outlines the variety of sizes available to fit different wiring layouts."
+    },
+    {
+      "start": "00:02:57",
+      "end": "00:04:03",
+      "title": "Ceiling and lighting considerations: fan-rated and future-proofing",
+      "concepts": [
+        "ceiling box",
+        "fan-rated box",
+        "weight considerations",
+        "future-proofing"
+      ],
+      "description": "Covers use of boxes for ceiling installations, recommending metal boxes for heavier fixtures or future upgrades (e.g., ceiling fans). Explains that a fan-rated box is mounted to structure to carry additional weight and accommodate future fixtures."
+    },
+    {
+      "start": "00:04:03",
+      "end": "00:04:15",
+      "title": "Non-standard mounting: brace-in-box solutions for hollow walls",
+      "concepts": [
+        "brace",
+        "old-work brace",
+        "structure anchoring",
+        "weight support"
+      ],
+      "description": "Describes a brace-style box (toggle/brace) that expands and tightens against the wall structure to support the box when there is no stud in the correct location, enabling the box to carry heavier fixtures."
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:04:36",
+      "title": "Wrap-up and practical note",
+      "concepts": [
+        "hand-off",
+        "watch more This Old House",
+        "subscribe"
+      ],
+      "description": "Hosts encourage applying what was shown, suggest exploring more videos for home improvement guidance, and invite viewers to subscribe for new content."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install new-work plastic box on stud with nailed flange for quick, drywall-ready installation",
+      "timestamp": "00:00:32",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Choose plastic vs metal box based on cable type (NM vs metal-clad) and grounding implications",
+      "timestamp": "00:01:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Ground a metal box using a ground screw to bond the circuit",
+      "timestamp": "00:01:24",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Old-work single-gang plastic box installation using drywall cut and front clamps",
+      "timestamp": "00:01:49",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Front-access (face-screw) installation for plaster/lath compatibility",
+      "timestamp": "00:02:21",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Using round boxes for lights vs rectangular boxes for switches",
+      "timestamp": "00:03:09",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Fan-rated metal box for ceiling fixtures to support heavier loads and future upgrades",
+      "timestamp": "00:03:25",
+      "confidence": 0.74
+    },
+    {
+      "technique": "Old-work brace that expands behind hollow walls to secure the box when studs are not in the right place",
+      "timestamp": "00:03:57",
+      "confidence": 0.77
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:26:02.822726+00:00"
+}

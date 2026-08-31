@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "video": "rnGCwFG7OHM.youtube",
+  "title": "Convert a Recessed Light to a Pendant with Retrofit Socket Kit",
+  "date": {
+    "display": "August 6, 2016",
+    "iso": "2016-08-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House segment demonstrates converting a recessed light into a pendant using a retrofit socket kit. The host explains why simply removing the old fixture box is impractical due to the larger ceiling hole and hidden above-ceiling hardware, then introduces a socket adapter that plugs into the existing lamp base to power the new pendant. The kit uses a hollow mounting rod and bracket to suspend the pendant from the recessed housing, with a mounting plate attached to the rod and finished with medallions to conceal the opening. The process includes safety steps (power off, remove trims), wiring (black to black, white to white, green to ground), removing the old fixture bar, and installing an LED bulb for energy efficiency. The segment ends with powering the circuit back on and visually assessing the pendant lighting effect.",
+  "topics": [
+    "recessed lighting housing",
+    "recessed can",
+    "fixture box",
+    "4-inch vs 6-inch ceiling hole",
+    "retrofit pendant kit",
+    "socket adapter",
+    "hollow mounting rod",
+    "bracket mounting to can",
+    "self-tapping screws",
+    "mounting plate",
+    "medallion covers",
+    "electrical wiring (hot/neutral/ground)",
+    "canopy integration",
+    "fixture bar removal",
+    "LED bulb replacement",
+    "power safety (breaker off)",
+    "pendant wiring connections",
+    "ceiling decoration/finish"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:08",
+      "title": "Challenge of converting a recessed light",
+      "concepts": [
+        "recessed fixture box",
+        "fixture box size (4-inch vs 6-inch hole)",
+        "above-ceiling components",
+        "structural considerations"
+      ],
+      "description": "Sets up the problem: converting a recessed light to a pendant is not straightforward due to a larger ceiling opening and more components above the ceiling; contrasts old box with a new work fixture box concept."
+    },
+    {
+      "start": "00:01:02",
+      "end": "00:01:29",
+      "title": "Retrofit kit introduction and socket adapter",
+      "concepts": [
+        "socket adapter",
+        "power delivery to fixture",
+        "replacement for the bulb base"
+      ],
+      "description": "Introduces the retrofit kit and explains that the socket adapter screws into the location of the old bulb to feed power to the pendant."
+    },
+    {
+      "start": "00:01:26",
+      "end": "00:01:46",
+      "title": "Wiring path through hollow rod to fixture",
+      "concepts": [
+        "hollow mounting rod",
+        "wiring conduit",
+        "bracket support"
+      ],
+      "description": "Demonstrates wires traveling through the hollow rod and how the bracket supports the rod and ultimately the pendant."
+    },
+    {
+      "start": "00:01:49",
+      "end": "00:02:02",
+      "title": "Medallions to cover opening",
+      "concepts": [
+        "hole-cover medallion",
+        "ceiling finish blend"
+      ],
+      "description": "Shows the medallions used to cover the large recessed opening and visually blend with the ceiling."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:02:58",
+      "title": "Safety and prep: breaker off; remove trims",
+      "concepts": [
+        "breaker off",
+        "lamp removal",
+        "recessed trim removal"
+      ],
+      "description": "Emphasizes safety by shutting off power and preparing the existing fixture for kit installation."
+    },
+    {
+      "start": "00:02:28",
+      "end": "00:03:24",
+      "title": "Mounting bracket and plate assembly",
+      "concepts": [
+        "self-tapping screws",
+        "fixture can",
+        "mounting plate",
+        "preassembly"
+      ],
+      "description": "Preassembles the mounting bracket and attaches it to the can; wires are routed to the plate that will support the pendant."
+    },
+    {
+      "start": "00:03:39",
+      "end": "00:04:36",
+      "title": "Wiring and canopy integration",
+      "concepts": [
+        "wire connections",
+        "black to black",
+        "white to white",
+        "green to ground",
+        "canopy and medallion"
+      ],
+      "description": "Connects the fixture wiring to the home wiring and tidies the connections inside the canopy; installs the decorative medallion to finish the look."
+    },
+    {
+      "start": "00:04:36",
+      "end": "00:05:27",
+      "title": "Pendant ready, LED bulb, and test",
+      "concepts": [
+        "LED bulb",
+        "60W-equivalent LED",
+        "power on test"
+      ],
+      "description": "Installs an LED replacement bulb touted as a 60W-equivalent with energy savings, restores power, and tests the pendant’s appearance and brightness."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Socket adapter installation into recessed socket",
+      "timestamp": "00:01:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Wiring through hollow mounting rod to fixture",
+      "timestamp": "00:01:26",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Bracket attachment to recessed housing using self-tapping screws",
+      "timestamp": "00:02:58",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mounting plate to fixture rod for pendant support",
+      "timestamp": "00:03:15",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Removal of fixture bar and direct mounting to plate",
+      "timestamp": "00:04:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Canopy wiring and medallion integration",
+      "timestamp": "00:04:20",
+      "confidence": 0.75
+    },
+    {
+      "technique": "LED replacement and power-on test",
+      "timestamp": "00:05:12",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:28:28.607485+00:00"
+}

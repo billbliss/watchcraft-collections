@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "video": "MqvvtNa_9oA.youtube",
+  "title": "Undercabinet LED Tape Lighting with 24V Driver and Aluminum Channel Diffuser",
+  "date": {
+    "display": "July 19, 2026",
+    "iso": "2026-07-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement (transformer and low-voltage wiring access point)",
+      "confidence": 0.7,
+      "basis": "Transcript explicitly states: 'we have them mounted in the basement' and discusses low-voltage wiring coming out here."
+    },
+    {
+      "name": "Under-cabinet area (kitchen/work surface lighting)",
+      "confidence": 0.4,
+      "basis": "Implicit location of lighting installation described as 'under cabinet tape LED'; explicit shot/instruction context not stated beyond the under-cabinet plan."
+    }
+  ],
+  "summary": "This Old House demonstrates a practical under-cabinet lighting upgrade using flexible LED tape fed by a 24-volt system. The hosts explain using pre-cut LED tape with integrated connectors for a plug-and-play setup, powered by a 120V-to-24V transformer, and routed to a basement access point. An aluminum channel is mounted under the cabinets to keep the strip straight and to host a diffuser lens for even light. When a length is short, they add a 12-inch segment and snap in the diffuser. The result is a warm, bright countertop area suitable for kitchen tasks, with a sleek, concealed finish.",
+  "topics": [
+    "under-cabinet LED tape",
+    "LED tape diodes",
+    "24-volt LED system",
+    "transformer (120V to 24V)",
+    "low-voltage wiring",
+    "basement-mounted power supply",
+    "pre-cut LED lengths (2-in, 12-in, 5-ft)",
+    "integrated connectors",
+    "plug-and-play installation",
+    "aluminum channel mounting",
+    "lens/diffuser for LED strip",
+    "diffuser snap-in",
+    "length adjustment (12-inch extension)",
+    "warm color temperature lighting",
+    "diffused light for task work"
+  ],
+  "sections": [
+    {
+      "start": "00:12:00",
+      "end": "00:41:00",
+      "title": "Concept and power architecture",
+      "concepts": [
+        "under-cabinet LED tape",
+        "low-voltage LED systems",
+        "transformer placement between 120V supply and 24V load",
+        "basement-accessible power routing"
+      ],
+      "description": "Introduction to using a 24V LED tape with a transformer in line from 120V, and routing low-voltage wiring from a basement access point."
+    },
+    {
+      "start": "00:57:00",
+      "end": "01:21:00",
+      "title": "LED tape characteristics and pre-cut lengths",
+      "concepts": [
+        "LED tape from a single manufacturer",
+        "pre-cut lengths with built-in connectors",
+        "plug-and-play assembly",
+        "comparison to non-pre-cut tape"
+      ],
+      "description": "Discussion of pre-cut lengths (2-in, 12-in, 5-ft) with connectors already installed for straightforward assembly."
+    },
+    {
+      "start": "01:25:00",
+      "end": "01:36:00",
+      "title": "Aluminum channel and diffuser",
+      "concepts": [
+        "aluminum channel",
+        "diffuser lens",
+        "straight, clean line of lighting"
+      ],
+      "description": "Use of an aluminum channel to maintain a straight run and to host a diffuser for even light diffusion."
+    },
+    {
+      "start": "01:43:00",
+      "end": "02:03:00",
+      "title": "Length finalization and diffuser install",
+      "concepts": [
+        "extension to resolve short length",
+        "snapping in diffuser",
+        "final lighting test"
+      ],
+      "description": "Addressing a slightly short run by adding a 12-inch piece and completing diffuser installation before testing the light."
+    },
+    {
+      "start": "02:01:00",
+      "end": "02:09:00",
+      "title": "Lighting test and color quality",
+      "concepts": [
+        "warm color temperature",
+        "adequate brightness for counter tasks",
+        "aesthetic, sleek installation"
+      ],
+      "description": "Verification of warm, sufficient light output for working on counters and the sleek appearance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Inline transformer for low-voltage LED tape",
+      "timestamp": "00:33",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Pre-cut LED tape with integrated connectors for plug-and-play",
+      "timestamp": "01:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Aluminum channel with diffuse lens for LED strip",
+      "timestamp": "01:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Diffuser snap-in and length adjustment (adding a 12-inch piece)",
+      "timestamp": "01:54",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Testing warm, task-oriented lighting output",
+      "timestamp": "02:03",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:25:10.306020+00:00"
+}

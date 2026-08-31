@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "video": "iS7ijvctMoA.youtube",
+  "title": "Levels vs Curves in Photoshop: Differences, Color Adjustments, and Layer Masks (Day 7)",
+  "date": {
+    "display": "September 7, 2025",
+    "iso": "2025-09-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 7 lesson contrasts Levels and Curves as two core adjustment tools in Photoshop. The video demonstrates how each adjustment controls light and color, beginning with Level’s input/output sliders and black/white/midtone points, then introducing Curves with its multi-point graph and the ability to create midtone shifts and S-curves. It emphasizes the practical equivalence of the two tools for broad edits, while highlighting Curves’ superior control over midtones and individual tonal points. The instructor then explores color adjustments via RGB channels and explains why Color Balance can be more intuitive for global color shifts. A substantial portion covers localized edits using layer masks, gradients, and radial gradients—demonstrating selective lightening of a subject and recoloring the sky with non-destructive workflows. The video concludes with guidance on when to use Levels vs Curves (depending on which interface feels more intuitive) and demonstrates combining both with masks to tune specific parts of an image.",
+  "topics": [
+    "Levels adjustment",
+    "Curves adjustment",
+    "Black point",
+    "White point",
+    "Midtones",
+    "Input levels",
+    "Output levels",
+    "RGB channels",
+    "Red channel",
+    "Green channel",
+    "Blue channel",
+    "Color balance vs per-channel edits",
+    "Layer mask",
+    "Gradient mask",
+    "Radial gradient",
+    "Non-destructive editing",
+    "Sky selection",
+    "Quick Selection Tool",
+    "S-curve",
+    "Color grading",
+    "Adjustment panel docking",
+    "Sample image download",
+    "Gradient tool",
+    "Channel-specific adjustments",
+    "Masking with curves/levels"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.080",
+      "end": "00:01:15.200",
+      "title": "Intro: Levels vs Curves overview",
+      "concepts": [
+        "adjustment layers",
+        "levels",
+        "curves",
+        "differences between the two"
+      ],
+      "description": "PHLEARN introduces Day 7, framing the topic as a comparison of Levels and Curves and setting up the day’s demonstrations."
+    },
+    {
+      "start": "00:01:15.200",
+      "end": "00:03:24.560",
+      "title": "Levels adjustments explained",
+      "concepts": [
+        "black point",
+        "white point",
+        "midtones",
+        "input levels",
+        "output levels",
+        "reset"
+      ],
+      "description": "Details how Level adjustments use input and output sliders, how moving the black/white points affects tonality, and how midtones shift with the center slider."
+    },
+    {
+      "start": "00:03:24.560",
+      "end": "00:05:12.080",
+      "title": "Curves adjustment basics (intro)",
+      "concepts": [
+        "curve graph",
+        "points",
+        "midtones",
+        "black/white points",
+        "reset"
+      ],
+      "description": "Introduces Curve adjustments and how their graph represents tonal changes similarly to Levels, including how dragging curve points alters brightness."
+    },
+    {
+      "start": "00:05:12.080",
+      "end": "00:07:46.000",
+      "title": "Working with curves: adding midpoints and S-curve",
+      "concepts": [
+        "multiple points",
+        "S-curve",
+        "contrast control",
+        "point picker"
+      ],
+      "description": "Demonstrates adding multiple control points on the curve to create an S-curve, enabling simultaneous darkening of shadows and brightening of highlights for nuanced contrast control."
+    },
+    {
+      "start": "00:07:46.000",
+      "end": "00:12:02.000",
+      "title": "Correlation of levels and curves + color channels",
+      "concepts": [
+        "black/midpoint/white points",
+        "RGB channels",
+        "color balance caveat"
+      ],
+      "description": "Shows the parallel between Levels and Curves, then introduces color-channel adjustments (RGB) and notes Color Balance as a more intuitive global color tool."
+    },
+    {
+      "start": "00:12:02.000",
+      "end": "00:16:01.199",
+      "title": "Color channels in depth: targeting color channels",
+      "concepts": [
+        "red channel",
+        "green channel",
+        "blue channel",
+        "independent channel adjustments",
+        "color balance comparison"
+      ],
+      "description": "Explores adjusting individual color channels to shift color in shadows and highlights, and contrasts this with Color Balance for broader color shifts."
+    },
+    {
+      "start": "00:16:01.199",
+      "end": "00:18:49.010",
+      "title": "Selective sky recoloring and masking techniques",
+      "concepts": [
+        "layer mask",
+        "gradient mask",
+        "radial gradient",
+        "non-destructive editing"
+      ],
+      "description": "Demonstrates using layer masks and a gradient/radial gradient to localize edits (e.g., darkening the sky or changing its color) while keeping the subject unaffected and maintaining a non-destructive workflow."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Basic Levels adjustment (black/white points, midtones)",
+      "timestamp": "00:02:03.920",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Output levels adjustment (brighten darkest, darken lightest)",
+      "timestamp": "00:02:40.720",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Curves adjustment with single and multiple points",
+      "timestamp": "00:06:07.840",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Curves point picker and anchor-based editing",
+      "timestamp": "00:07:01.599",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Color-channel editing in Levels (RGB channels)",
+      "timestamp": "00:09:32.080",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Color balance alternative to per-channel edits",
+      "timestamp": "00:10:29.519",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Selective sky recoloring with gradient masks",
+      "timestamp": "00:15:16.320",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Layer masks with gradient and radial gradient",
+      "timestamp": "00:13:16.320",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Non-destructive editing through masks and adjustment layers",
+      "timestamp": "00:12:58.000",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:59:25.601739+00:00"
+}

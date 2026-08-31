@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "video": "gnuDo4H0FLc.youtube",
+  "title": "Three Vegan Korean Recipes: Kimchi Jigae, Japchae, and Tteokbokki",
+  "date": {
+    "display": "January 16, 2021",
+    "iso": "2021-01-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this Goodful tutorial, host Jasmine demonstrates three vegan-friendly Korean dishes: kimchi jigae (kimchi stew), japchae (stir-fried sweet potato noodles), and tteokbokki (spicy rice cakes). She adapts traditional flavors for vegan diets by using vegan-friendly kimchi, kelp-based umami instead of fish sauce, and tofu in the stew. The video walks through building each dish from base aromatics (onions, garlic), through sauce components (gochugaru, gochujang, soy sauce, sesame oil), to final assembly and plating. Along the way, Jasmine offers practical tips on flavor balance (kimchi juice for tang, no alternative sweeteners), texture (blanching spinach to preserve color, soaking rice cakes to avoid soggy interiors), and kitchen workflow (one-pan methods for japchae, transferring to a larger pan when needed). The content blends cultural context with accessible substitutions, and notes a Lunar New Year association for the tteokbokki dish.",
+  "topics": [
+    "Kimchi jigae (vegan)",
+    "Vegan kimchi selection and labeling",
+    "Onion sautéing as a foundational step",
+    "Garlic and Korean chili flakes (gochugaru)",
+    "Fermented red pepper paste (gochujang)",
+    "Kimchi juice as flavor enhancer",
+    "Kelp-based umami broth",
+    "40-minute simmer for kimchi jigae",
+    "Early tofu addition to stew",
+    "Blanching spinach for japchae",
+    "Sweet potato noodles (dangmyeon) preparation",
+    "Noodle dressing with soy sauce, sesame oil, and sugar",
+    "One-pan vegetable sauté for japchae (onions, green onions, carrots)",
+    "Marinated mushrooms for japchae",
+    "Tteokbokki base with gochujang and chili",
+    "Soaking rice cakes before cooking",
+    "Rice cakes and vegetables simmering together",
+    "Lunar New Year association with tteokbokki"
+  ],
+  "sections": [
+    {
+      "start": "00:16:16",
+      "end": "03:20:00",
+      "title": "Kimchi Jigae (Vegan Kimchi Stew)",
+      "concepts": [
+        "vegan kimchi",
+        "oil base",
+        "onions",
+        "garlic",
+        "gochugaru",
+        "gochujang (fermented red pepper paste)",
+        "kimchi juice",
+        "water scaling",
+        "kelp broth as umami",
+        "tofu addition",
+        "green onions",
+        "sesame oil finish"
+      ],
+      "description": "Jasmine makes a vegan kimchi jigae using vegan kimchi, garlic, onions, gochugaru, gochujang, kimchi juice, and kelp-based umami; tofu is added for texture, and the stew simmers to develop flavor before serving with rice."
+    },
+    {
+      "start": "03:20:00",
+      "end": "07:14:00",
+      "title": "Japchae (Sweet Potato Noodle Stir-Fry)",
+      "concepts": [
+        "spinach blanching",
+        "sweet potato noodles (dangmyeon)",
+        "noodle seasoning",
+        "one-pan vegetable sauté",
+        "onions, green onions, shredded carrots",
+        "garlic",
+        "mushroom marinade",
+        "sesame oil and sesame seeds"
+      ],
+      "description": "Japchae is prepared by blanching spinach, cooking sweet potato noodles, and combining with a quick one-pan mix of sautéed vegetables and marinated mushrooms, finished with a sesame-soy seasoning and sesame seeds."
+    },
+    {
+      "start": "07:14:00",
+      "end": "10:33:00",
+      "title": "Tteokbokki (Spicy Rice Cakes) with Gocha Sauce",
+      "concepts": [
+        "kelp broth",
+        "gochujang-based sauce",
+        "rice cakes soaking prior to cooking",
+        "stir-fry with onions and cabbage",
+        "optional ramen noodles",
+        "pan transfer due to crowding",
+        "finishing with green onions and sesame seeds",
+        "Lunar New Year association"
+      ],
+      "description": "Tteokbokki is prepared with a kelp-based broth and a gochujang-centered sauce, rice cakes pre-soaked to prevent sogginess, and optional ramen noodles folded in. The dish is finished with onions, cabbage, and sesame seeds, with a cultural note linking it to Lunar New Year."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Vegan kimchi jigae base with kelp broth",
+      "timestamp": "00:16:16",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using kimchi juice to boost sourness and depth",
+      "timestamp": "01:25.890",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Replacing fish sauce with kelp-based umami for kimchi jigae",
+      "timestamp": "01:42.200",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Early tofu addition to stew to soak flavor",
+      "timestamp": "02:09.220",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Blanch spinach for japchae to maintain color and texture",
+      "timestamp": "03:34.590",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sweet potato noodles prep and sauce to prevent sticking",
+      "timestamp": "04:38.760",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Marinating mushrooms for japchae (soy sauce, sesame oil, garlic, pepper, sugar)",
+      "timestamp": "06:10.050",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Gochujang-based sauce for tteokbokki with pre-soaked rice cakes",
+      "timestamp": "08:08.370",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Soaking rice cakes before cooking to prevent soggy centers",
+      "timestamp": "08:16.890",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Lunar New Year contextual note for tteokbokki",
+      "timestamp": "07:00.070",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:23:39.274711+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "video": "9DUr2cDDHDQ.youtube",
+  "title": "I Tried 6 Vegan Egg Substitutes For Baking Cupcakes",
+  "date": {
+    "display": "August 26, 2020",
+    "iso": "2020-08-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this Goodful video, Merle explores six vegan egg substitutes by baking cupcakes from a vegan yellow cake mix to keep variables consistent. She tests aquafaba, carbonated water, applesauce, mashed banana, flax egg, and a water–oil–baking powder slurry, comparing texture, binding, and flavor. Through bake-and-taste rounds, she scores each substitute, notes failures (notably with aquafaba and certain slurry blends), and crowns flax egg as the winner for its binding, light texture, and neutral flavor. The evaluation highlights that vegan substitutions don’t always behave like real eggs in standard cake mixes and offers practical takeaways for home bakers.",
+  "topics": [
+    "vegan egg substitutes",
+    "egg-free baking",
+    "aquafaba as egg substitute",
+    "carbonated water as egg substitute",
+    "applesauce as egg substitute",
+    "mashed banana as egg substitute",
+    "flax egg as egg substitute",
+    "cake mix as control",
+    "binding and texture in cupcakes",
+    "flavor impact of substitutes",
+    "baking with substitutions",
+    "recipe standardization for vegan testing",
+    "taste-testing and scoring in food experiments",
+    "vegan baking pitfalls and tips",
+    "kitchen article replication vs. real-world results",
+    "home baking experimentation",
+    "tips for substituting eggs in baking"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "02:34:00",
+      "title": "Introduction, test plan, and initial batter prep",
+      "concepts": [
+        "test design",
+        "six substitutes selected",
+        "vegan yellow cake mix as standardized base",
+        "batter division for uniform testing",
+        "measurement awareness"
+      ],
+      "description": "Merle introduces the goal of testing six vegan egg substitutes for cupcakes, inspired by a Kitchen article. To control variables, she uses a vegan yellow cake mix as the base and divides batter into portions, acknowledging a minor measurement hiccup (thirds vs full cups) while preparing the first batch."
+    },
+    {
+      "start": "02:34:00",
+      "end": "04:11:00",
+      "title": "Batch 1: aquafaba, carbonated water, and additional base substitutions",
+      "concepts": [
+        "aquafaba mixing",
+        "carbonated water as substitute",
+        "muffin tin preparation",
+        "oven timing"
+      ],
+      "description": "First batch is prepared with aquafaba and water, plus carbonated water considered with skepticism. Merle pours batter into muffin tins and bakes the initial set, then prepares for the next substitutions in batch two."
+    },
+    {
+      "start": "04:11:00",
+      "end": "09:35:00",
+      "title": "Batch 2: banana, applesauce, flax egg, and tasting phase",
+      "concepts": [
+        "banana substitution",
+        "applesauce substitution",
+        "flax egg preparation (flaxseed + water)",
+        "texture and binding observations",
+        "taste testing and scoring"
+      ],
+      "description": "Batch two covers mashed banana, applesauce, a flax egg (prepared with flax and water and allowed to thicken), and notes on the binding and texture across substitutes. After baking, Merle tastes each cupcake, comments on flavor implications (notably banana presence), and assigns scores, culminating in the flax egg as the standout."
+    },
+    {
+      "start": "09:35:00",
+      "end": "09:59:00",
+      "title": "Conclusion, winner, and practical takeaways",
+      "concepts": [
+        "final ranking",
+        "Kitchen article discrepancy",
+        "substitution reliability in cake mixes",
+        "viewer prompts for more vegan testing"
+      ],
+      "description": "Merle concludes that the flax egg is the winner for its binding, texture, and flavor, while acknowledging that the Kitchen article’s top-rated substitutes (carbonated water and oil–water–baking powder) did not perform as well in this test. She emphasizes that not all substitutions work well in every vegan baking scenario and invites viewer input for future tests."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Flax egg preparation (1 tablespoon ground flax seed + 3 tablespoons water; let sit ~5 minutes until thickened)",
+      "timestamp": "00:03:52",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Aquafaba as an egg substitute and its incorporation into batter",
+      "timestamp": "01:36:00",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Carbonated water as an egg substitute and evaluating texture/fluffiness",
+      "timestamp": "01:58:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Mashed banana as egg substitute and impact on flavor/texture",
+      "timestamp": "00:56:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Applesauce as an egg substitute and its effect on binding",
+      "timestamp": "02:42:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Using a water–oil–baking powder slurry as an egg substitute (slurry-based batter)",
+      "timestamp": "03:01:00",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:10:48.122048+00:00"
+}

@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "video": "MplF8QAoMiI.youtube",
+  "title": "Cloud-based Select Subject in Photoshop 2025: Subject Brightening, Sunset Glow, and Background Gradient",
+  "date": {
+    "display": "September 9, 2025",
+    "iso": "2025-09-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 9 video demonstrates Adobe's cloud-based Select Subject tool in Photoshop 2025 and uses it to separate a subject from the background for targeted edits. The instructor first enables the cloud processing option, then applies Select Subject to create a precise selection that automatically loads into a curves adjustment layer mask, allowing brightness tweaks to the subject via a curves adjustment. A sunset glow is added with a Levels adjustment plus a gradient in the layer mask (radial gradient, with a foreground color chosen and the gradient reversed as needed). In a second example, the subject is again selected, brightness adjusted with brightness/contrast, and the background is enhanced by inverting the selection and painting a gradient glow behind the subject to achieve a more finished look. The video emphasizes the contextual taskbar, cloud-based processing, and the ability to toggle adjustment layers to compare results, and it points viewers to downloadable sample assets to follow along.",
+  "topics": [
+    "Cloud-based Select Subject",
+    "Contextual taskbar",
+    "Image Processing settings",
+    "Select Subject",
+    "Remove Background",
+    "Curves adjustment layer",
+    "Layer masks",
+    "Brightness/Contrast adjustment",
+    "Brightness and contrast",
+    "Levels adjustment layer",
+    "Red channel adjustment in Levels",
+    "Green channel adjustment in Levels",
+    "Gradient tool",
+    "Radial gradient",
+    "Foreground-to-transparent gradient",
+    "Gradient reverse",
+    "Inverse selection",
+    "Invert selection",
+    "Gradient glow for background",
+    "Sample assets download",
+    "Camera Raw (hint)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:21",
+      "title": "Intro and cloud-based Select Subject Setup",
+      "concepts": [
+        "Introduction",
+        "Cloud-based Select Subject",
+        "Contextual taskbar",
+        "Image processing settings",
+        "Enable cloud processing"
+      ],
+      "description": "Introduces Day 9 and the cloud-based Select Subject tool, showing how to enable cloud processing in the contextual taskbar and image processing settings before applying a subject selection."
+    },
+    {
+      "start": "00:01:21",
+      "end": "00:02:34",
+      "title": "Apply Subject Selection and Begin Brightness Adjustment",
+      "concepts": [
+        "Select Subject application",
+        "Selection loading into layer mask",
+        "Curves adjustment",
+        "Brightness on subject"
+      ],
+      "description": "Demonstrates applying Select Subject to create a precise subject selection, which automatically loads into the curves adjustment layer mask for brightness tuning."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:04:16",
+      "title": "Sunset Glow with Levels and Gradient",
+      "concepts": [
+        "Levels adjustment",
+        "RGB channel tweaks",
+        "Radial gradient on layer mask",
+        "Gradient reverse"
+      ],
+      "description": "Creates a sunset glow by tweaking red and green channels in Levels, then uses a radial gradient in the layer mask to generate a sunflare behind the subject."
+    },
+    {
+      "start": "00:04:18",
+      "end": "00:05:13",
+      "title": "Second Example: Brighten Subject with Brightness/Contrast",
+      "concepts": [
+        "Second Select Subject",
+        "Brightness/Contrast adjustment",
+        "Subject brightness"
+      ],
+      "description": "Re-applies Select Subject for a second example and brightens the subject using Brightness/Contrast (noting that other adjustments can be used to achieve similar results)."
+    },
+    {
+      "start": "00:05:25",
+      "end": "00:06:54",
+      "title": "Invert Selection and Add Background Gradient Glow",
+      "concepts": [
+        "Invert selection",
+        "Gradient tool",
+        "Foreground-to-transparent gradient",
+        "Gradient color",
+        "Reverse gradient"
+      ],
+      "description": "Inverts the subject selection to target the background and uses a gradient overlay to create a glowing background behind the subject."
+    },
+    {
+      "start": "00:06:54",
+      "end": "00:07:32",
+      "title": "Wrap-up and Resources",
+      "concepts": [
+        "Recap",
+        "Sample assets download",
+        "Upcoming topics",
+        "Closing remarks"
+      ],
+      "description": "Concludes the tutorial with final remarks, mentions downloadable sample assets, and previews the next topic."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Cloud-based Select Subject (AI) with cloud processing",
+      "timestamp": "00:00:57",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Apply selection as layer mask on Curves adjustment layer",
+      "timestamp": "00:01:54",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Brighten subject using Curves adjustment (adjusting midtones/shadows)",
+      "timestamp": "00:02:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Sun flare created with Levels and a radial gradient in the layer mask",
+      "timestamp": "00:03:44",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color tint in shadows by adjusting Red and Green channels in Levels",
+      "timestamp": "00:03:56",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Gradient tool on a background layer mask (foreground-to-transparent, radial gradient)",
+      "timestamp": "00:06:07",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Inverse selection to edit the background",
+      "timestamp": "00:04:26",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Brightness/Contrast adjustment to refine subject exposure",
+      "timestamp": "00:05:02",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:06:36.268392+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-31T07:07:19.382722+00:00"
+}

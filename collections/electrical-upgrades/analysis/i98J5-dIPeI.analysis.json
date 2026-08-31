@@ -1,0 +1,163 @@
+{
+  "schema_version": 2,
+  "video": "i98J5-dIPeI.youtube",
+  "title": "Electrical Service Upgrade for a Two-Unit Home: From 200A to 400A with AFCI and Surge Protection",
+  "date": {
+    "display": "March 22, 2026",
+    "iso": "2026-03-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House documents a two-unit home undergoing an electrical service upgrade tied to a broader renovation that includes new HVAC, appliances, and updated siding. The episode centers on determining electrical load and upgrading from a 200-amp service to a 400-amp service, driven by increased demand from two units and new equipment. It explains the path of utility power (the overhead triplex and point of attachment), the upgrade to a larger meter can, and the shift to two meters and two service panels to serve each unit. Interior wiring updates are noted (BX to NM wiring) along with modern code protections, including arc-fault circuit interrupters and surge protection installed at the panels. The video combines architectural context with practical electrical upgrading steps, emphasizing who is responsible for overhead infrastructure and how new protections help safeguard the home’s circuits and appliances.",
+  "topics": [
+    "Load calculation for service upgrade",
+    "Transition from 200A to 400A service",
+    "Overhead utility service components: triplex and point of attachment",
+    "Meter can and service conductor sizing",
+    "Old 200A feed vs new 400A service conductors",
+    "Utility responsibility for overhead upgrades",
+    "Two meters for a two-unit building",
+    "Dual service panels and unit-specific feeds",
+    "BX cable to NM cable conversion",
+    "Arc fault protection (AFCI) installation",
+    "Surge protection at each panel",
+    "HVAC and appliance impact on electrical load",
+    "Two-unit electrical distribution considerations",
+    "Rain screen siding context (architectural prep related to upgrades)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:01:40",
+      "title": "Project scope and architectural changes driving electrical upgrade",
+      "concepts": [
+        "two-unit renovation",
+        "new wall of glass and primary suite",
+        "increased electrical demand from HVAC, appliances"
+      ],
+      "description": "Introduction explains the house restructuring (removal of earlier additions, new glass wall, and widely shared spaces) and frames the electrical upgrade as part of that renovation, noting two units and new heating/AC and appliances increasing electricity usage."
+    },
+    {
+      "start": "00:01:47",
+      "end": "00:02:04",
+      "title": "Load calculation and service sizing",
+      "concepts": [
+        "load calculation",
+        "increase to just over 200 amps",
+        "decision to move to a 400 amp service"
+      ],
+      "description": "One speaker confirms that a load calculation was performed and the current demand with new appliances and HVAC exceeds 200A, necessitating a move to a 400A service."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:03:08",
+      "title": "Overhead service path and main components",
+      "concepts": [
+        "utility line (triplex)",
+        "point of attachment",
+        "upgrading to 400A"
+      ],
+      "description": "Explanation of how the utility service enters the property, defines the point of attachment, and frames the upgrade pathway to a 400A service."
+    },
+    {
+      "start": "00:02:29",
+      "end": "00:03:07",
+      "title": "Old feed versus upgraded conductors and meter can",
+      "concepts": [
+        "old 200A feed",
+        "old wire to meters and panels",
+        "new 400A service using larger copper conductor"
+      ],
+      "description": "Comparison of the existing 200A feed with the new, larger main-conductor approach anticipated for a 400A service, including the meter can connection."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:03:50",
+      "title": "Utility responsibility and safety considerations",
+      "concepts": [
+        "utility decides on upgrading overhead triplex",
+        "codes and external placement",
+        "safety implications of height and exposure"
+      ],
+      "description": "Discussion of the utility company’s role in deciding whether to upgrade overhead lines, with notes on code considerations and safety for external wiring."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:04:06",
+      "title": "Two meters and dual service panels for a two-unit building",
+      "concepts": [
+        "two meters",
+        "two service panels",
+        "separate feeds for Evan/Whitney and Susan units"
+      ],
+      "description": "Plans to install two meters and run 200A feeders to two separate service panels, enabling independent service for each unit."
+    },
+    {
+      "start": "00:04:08",
+      "end": "00:04:24",
+      "title": "Wiring upgrades: BX to NM and AFCI protection",
+      "concepts": [
+        "BX cable to NM cable",
+        "arc fault protection (AFCI)"
+      ],
+      "description": "Interior rewiring to modern NM cable and installation of arc-fault protection on circuits to meet contemporary electrical code requirements."
+    },
+    {
+      "start": "00:04:24",
+      "end": "00:05:00",
+      "title": "Surge protection and panel-level protection",
+      "concepts": [
+        "surge protection at each panel",
+        "protection for entire installation and connected devices"
+      ],
+      "description": "Introduction of surge protection devices at each panel to guard against voltage spikes and protect appliances and equipment throughout the system."
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:05:08",
+      "title": "Closing remarks and sign-off",
+      "concepts": [
+        "project progress",
+        "encouragement to explore more videos"
+      ],
+      "description": "Final sign-off emphasizing ongoing progress and inviting viewers to watch related content."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Load calculation to justify service upgrade",
+      "timestamp": "00:01:47",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Explaining overhead service path (triplex and point of attachment)",
+      "timestamp": "00:02:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Advancing from 200A feed to 400A main with larger conductors",
+      "timestamp": "00:02:29",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dual-meter and dual-panel setup for multi-unit service",
+      "timestamp": "00:03:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Code-compliant protection: AFCI and surge protection installation",
+      "timestamp": "00:04:14",
+      "confidence": 0.75
+    },
+    {
+      "technique": "BX to NM wiring upgrade in a renovation",
+      "timestamp": "00:04:08",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:22:23.521186+00:00"
+}

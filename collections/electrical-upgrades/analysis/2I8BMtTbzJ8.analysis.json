@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "video": "2I8BMtTbzJ8.youtube",
+  "title": "Electrical Safety Upgrade and Ceiling Light Replacement in a 1960s Home",
+  "date": {
+    "display": "January 27, 2020",
+    "iso": "2020-01-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Attic",
+      "confidence": 0.85,
+      "basis": "Transcript: \"wire we push down from the attic\" and later work conducted via attic access"
+    },
+    {
+      "name": "Crawl space above the work area",
+      "confidence": 0.75,
+      "basis": "Transcript: \"we have a little crawl space above us... push these up into that crawl space\""
+    },
+    {
+      "name": "Electrical panel (downstairs)",
+      "confidence": 0.6,
+      "basis": "Transcript: \"we'll go downstairs and you can show me where the panel is\""
+    }
+  ],
+  "summary": "This This Old House segment guides a homeowner through safely replacing an aged ceiling fixture in a house built in 1960. The hosts inspect the new LED fixture for pre-1985 wiring compatibility, demonstrate turning off power at the panel, and address the risks of using outdated cloth NM cable with low temperature ratings. To accommodate modern fixtures, they splice in new wiring and install a new metal junction box in the ceiling, routing conductors through an attic/crawl-space path, bonding the ground, and reassembling the fixture with LED bulbs. The episode emphasizes heat management near junction boxes, explains the 60°C versus 90°C insulation jacket ratings, and demonstrates how to identify cable types (NM, NM-B) and what labeling signifies for safe installation.",
+  "topics": [
+    "Ceiling light replacement",
+    "Warning label interpretation for older houses",
+    "Shutting off power at the electrical panel",
+    "Cloth-covered NM cable",
+    "60°C vs 90°C insulation jacket ratings",
+    "NM vs NM-B cable",
+    "1980s electrical code changes",
+    "Splicing and extending wiring",
+    "Installing a new ceiling junction box",
+    "Routing wiring through attic and crawl space",
+    "Grounding in metal boxes",
+    "Ground screw mounting and bonding",
+    "LED bulbs in older fixtures",
+    "Cable jacket identification and labeling",
+    "Safety considerations near junction boxes",
+    "Power restoration and fixture testing",
+    "Wire feeding and cable connectors",
+    "Heat concerns near fixtures and junction boxes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:01",
+      "title": "Fixture evaluation and safety warning",
+      "concepts": [
+        "new light fixture",
+        "warning label for older homes",
+        "initial assessment of wiring in a 1960-built house"
+      ],
+      "description": "Heath and Brette introduce the project: a homeowner has bought a new fixture with a warning about wiring in houses built before 1985, and they plan to inspect the current wiring before installation."
+    },
+    {
+      "start": "00:01:07",
+      "end": "00:02:41",
+      "title": "Wiring assessment and planning",
+      "concepts": [
+        "cloth NM cable",
+        "60°C insulation rating",
+        "risk of heat and brittle insulation",
+        "1980s code changes to higher ratings",
+        "LED compatibility considerations"
+      ],
+      "description": "They examine the existing junction box wiring (cloth-covered NM cable, 60°C rated) and explain why incandescent-era installations could overheat. They describe the code change in the early 1980s to require higher temperature-rated insulation (90°C) and discuss LED bulbs as a lower-heat option, while noting the socket type still accepts common bulbs."
+    },
+    {
+      "start": "00:02:46",
+      "end": "00:04:58",
+      "title": "Wiring extension and box installation",
+      "concepts": [
+        "attic crawl space routing",
+        "new junction box installation",
+        "stripping jacket and wiring feed",
+        "grounding practices"
+      ],
+      "description": "Because the old wires do not line up with a single junction box, the team routes wires through an attic/crawl-space path, installs a new ceiling junction box, strips the jacket, feeds the wire through a connector, and bonds the ground to prepare for the new fixture."
+    },
+    {
+      "start": "00:05:06",
+      "end": "00:08:16",
+      "title": "Fixture installation and testing",
+      "concepts": [
+        "bulbs and glass installation",
+        "fixture grounding",
+        "power restoration and functional test",
+        "heat considerations near the junction box"
+      ],
+      "description": "The new fixture is mounted, LED bulbs and glass are installed, and the power is restored to verify operation. The hosts discuss the importance of spacing the heat source away from the junction box and recap safety considerations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Extending wiring and installing a new ceiling junction box to support a modern fixture",
+      "timestamp": "00:02:31",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Grounding strategy with an additional ground screw on a metal fixture mounting (habitual practice for reliability)",
+      "timestamp": "00:04:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Routing wiring through attic/crawl spaces to reach a new junction box",
+      "timestamp": "00:02:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cable identification and code-history explanation: distinguishing NM, NM-B, and jacket ratings (60°C vs 90°C)",
+      "timestamp": "00:07:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Power restoration and functional testing of a replaced light fixture",
+      "timestamp": "00:06:00",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:09:56.986441+00:00"
+}

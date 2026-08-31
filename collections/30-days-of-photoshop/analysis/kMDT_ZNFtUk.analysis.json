@@ -1,0 +1,213 @@
+{
+  "schema_version": 2,
+  "video": "kMDT_ZNFtUk.youtube",
+  "title": "Advanced Retouching in Photoshop: Spot Healing, Two‑Pass Blemish Removal, and Frequency Separation (PHLEARN Day 24)",
+  "date": {
+    "display": "September 24, 2025",
+    "iso": "2025-09-24",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 24 in the 30 Days of Photoshop series demonstrates a two-step, non-destructive approach to advanced retouching: first remove skin blemishes at the pore level using a spot-healing/removal workflow on a dedicated layer, then even out skin tone with a frequency separation action that creates a separate texture layer and a color layer. The tutorial emphasizes preserving skin texture, applying changes at both zoomed-in and zoomed-out scales, and using subtle, painterly blending with sampling via Alt/Option. It covers loading and applying a dedicated frequency separation action (with options for 8-bit JPEGs vs 16-bit RAW), blurring the texture to separate detail from color, organizing edits into a folder, and providing a downloadable PSD for practice. The session also notes the importance of not removing defining features (like moles) and points to a Flur Pro course for deeper learning.",
+  "topics": [
+    "Spot Healing Brush Tool (Remove Tool) basics",
+    "Create New Layer option for non-destructive edits",
+    "Remove after each stroke setting",
+    "Two-pass advanced retouching concept: pore-level removal and tonal correction",
+    "Caution: avoid removing defining facial features (e.g., moles)",
+    "Using a color overlay to visualize imperfections (chartreuse view)",
+    "Importance of zoomed-in vs zoomed-out evaluation",
+    "Introduction to frequency separation concept",
+    "Loading and using the frequency separation action (Window > Actions > Load Actions)",
+    "Choosing 8-bit vs 16-bit frequency separation (JPEG vs RAW context)",
+    "Blurring texture during frequency separation (about 10 pixels)",
+    "Layer structure in frequency separation: top texture layer and bottom color layer",
+    "Painting on a middle layer between texture and color to preserve texture while adjusting tone",
+    "Alt/Option sampling and subtle brush work for tonal balancing",
+    "Brush flow settings for tablet versus mouse/trackpad",
+    "Subtle, gradual retouching across preserved texture",
+    "Grouping edits into a 'retouch' folder for organization",
+    "Downloading the PSD for practice and before/after comparison",
+    "Pro learning resources: Flur Pro course and frequency separation action download"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "Intro and two-step plan for advanced retouching",
+      "concepts": [
+        "Intro to Day 24 of 30 Days of Photoshop",
+        "Two-stage approach (pore-level removal + tonal smoothing)"
+      ],
+      "description": "Aaron Nace outlines the two-step workflow: remove imperfections at the pore level and then even out skin tone using frequency separation."
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:01:07",
+      "title": "Spot Healing Brush setup on a new layer",
+      "concepts": [
+        "Spot Healing Brush / Remove Tool",
+        "Create New Layer",
+        "Remove after each stroke unchecked"
+      ],
+      "description": "Demonstrates selecting the remove tool, enabling Create New Layer, and preparing for blemish removal."
+    },
+    {
+      "start": "00:01:07",
+      "end": "00:02:00",
+      "title": "Blemish removal on pores and cautions",
+      "concepts": [
+        "Zooming in to target blemishes",
+        "Avoid removing distinctive features like moles"
+      ],
+      "description": "Shows painting over skin imperfections and cautions against erasing defining features."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:03:16",
+      "title": "Zoomed-out evaluation and tone balance",
+      "concepts": [
+        "Evaluate skin tone from a distance",
+        "Maintain pores while smoothing tone"
+      ],
+      "description": "Emphasizes checking the overall look at a zoomed-out level to ensure natural skin tone and preserved texture."
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:04:04",
+      "title": "Frequency Separation concept and action loading",
+      "concepts": [
+        "Frequency separation overview",
+        "Loading action via Window > Actions",
+        "8-bit vs 16-bit decision"
+      ],
+      "description": "Introduces frequency separation and shows how to load the action included with the download."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:04:31",
+      "title": "Applying the 8-bit frequency separation and blur",
+      "concepts": [
+        "Blur texture ~10 pixels",
+        "Run 8-bit frequency separation action"
+      ],
+      "description": "Executes the frequency separation step and reduces fine texture detail to separate texture from color."
+    },
+    {
+      "start": "00:04:33",
+      "end": "00:05:12",
+      "title": "Understanding the two-layer result",
+      "concepts": [
+        "Top texture layer",
+        "Bottom color layer",
+        "Group for edits"
+      ],
+      "description": "Explains the separation into two layers and how edits can be organized and controlled."
+    },
+    {
+      "start": "00:05:25",
+      "end": "00:05:53",
+      "title": "Painting on a middle layer between texture and color",
+      "concepts": [
+        "New layer between the two",
+        "Paint highlights while preserving texture"
+      ],
+      "description": "Shows adding a middle layer to refine highlights without losing texture."
+    },
+    {
+      "start": "00:06:53",
+      "end": "00:07:19",
+      "title": "Brush flow and sampling technique (tablet vs mouse)",
+      "concepts": [
+        "Brush flow: ~10% on tablet; 1-3% on mouse",
+        "Alt/Option sampling"
+      ],
+      "description": "Details how to set brush flow based on input device and how to sample colors for balanced retouching."
+    },
+    {
+      "start": "00:08:21",
+      "end": "00:09:39",
+      "title": "Zoom-out evaluation and progressive blending",
+      "concepts": [
+        "Wider view testing",
+        "Iterative passes to blend tones"
+      ],
+      "description": "Advocates zooming out to judge overall tone and continuing to blend areas across passes."
+    },
+    {
+      "start": "00:10:01",
+      "end": "00:10:29",
+      "title": "Eraser adjustments and final refinements",
+      "concepts": [
+        "E key for eraser",
+        "Lower flow",
+        "Adjust opacity"
+      ],
+      "description": "Provides tips for fine-tuning by erasing adjustments or reducing layer opacity as needed."
+    },
+    {
+      "start": "00:11:47",
+      "end": "00:12:18",
+      "title": "PSD download, grouping, and comparison",
+      "concepts": [
+        "PSD for practice",
+        "Group edits under 'retouch' folder",
+        "Toggle visibility for before/after"
+      ],
+      "description": "Encourages downloading the PSD for study, organizing layers, and evaluating changes via on/off comparisons."
+    },
+    {
+      "start": "00:12:42",
+      "end": "00:13:15",
+      "title": "Quality results and texture preservation",
+      "concepts": [
+        "Texture remains intact",
+        "No artificial blur or period look"
+      ],
+      "description": "Reinforces maintaining skin texture and natural appearance across zoom levels."
+    },
+    {
+      "start": "00:13:15",
+      "end": "00:13:22",
+      "title": "Further learning resources",
+      "concepts": [
+        "Pro course track",
+        "Flur Pro",
+        "Download frequency separation action"
+      ],
+      "description": "Promotes deeper retouching training and the availability of a free frequency separation action download."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Spot Healing Brush Tool with Create New Layer",
+      "timestamp": "00:00:45.280",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Frequency Separation action (8-bit) load and run",
+      "timestamp": "00:04:13.360",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Texture layer / Color layer separation in Frequency Separation",
+      "timestamp": "00:04:41.120",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Alt/Option sampling for tonal adjustment on color layer",
+      "timestamp": "00:07:12.240",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Organized non-destructive editing via grouping retouch layers",
+      "timestamp": "00:12:11.120",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:03:12.709419+00:00"
+}

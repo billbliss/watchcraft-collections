@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "video": "8DIncLEl6ec.youtube",
+  "title": "Mexican Grandma Tries Vegan Pozole — Tasting, Garnishes, and Substitutions",
+  "date": {
+    "display": "May 12, 2022",
+    "iso": "2022-05-12",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "BuzzFeed Nifty’s short feature follows Yolanda (the grandmother) and Desiree as they discuss and taste a vegan pozole. The segment frames posole as traditional Mexican-American comfort food, detailing typical ingredients, garnishes, and serving styles, then probes how a plant-based version compares in flavor and texture. The conversation touches on pork or chicken bases, garnishes (cabbage, onions, radishes, lime, tostadas), and spice choices (sauces like Tabasco), while also noting that vegan substitutions (tofu or tempeh) can be indistinguishable to conventional palates. Viewers observe tasting notes about broth thickness, meat-replacement texture, and overall acceptance, with recommendations for serving and possible adjustments (more meat or fixings on the side) for different preferences.",
+  "topics": [
+    "pozole",
+    "red pozole",
+    "vegan pozole",
+    "pork vs chicken base",
+    "vegan protein substitutes: tofu, tempeh",
+    "garnishes: cabbage, onions, radishes",
+    "tostadas as a serving component",
+    "lime in pozole",
+    "crushed oregano in pozole",
+    "broken chili",
+    "broth consistency: thick vs clear",
+    "spice and hot sauces: Tabasco",
+    "verbal tasting notes and texture comparisons",
+    "serving with fixings on the side",
+    "cultural context: Mexican-American family cooking"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "title": "Family context and posole as comfort food",
+      "concepts": [
+        "family cooking traditions",
+        "posole as comfort food",
+        "pork or chicken base",
+        "customizable garnishes"
+      ],
+      "description": "Introductory remarks establish posole as a traditional Mexican-American comfort dish and frame the family context where weekends involve cooking and shared meals."
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:02:10",
+      "title": "Posole ingredients and garnishes",
+      "concepts": [
+        "posole components and garnishes",
+        "tostadas, cabbage, onions, radishes",
+        "lime usage varies"
+      ],
+      "description": "The speakers describe common building blocks for posole and its garnishes, noting that lime quantities differ among households and that garnishes are integral to the dish, not mere toppings."
+    },
+    {
+      "start": "00:01:28",
+      "end": "00:02:04",
+      "title": "Tasting notes: broth, texture, and flavor",
+      "concepts": [
+        "broth thickness",
+        "color and aroma",
+        "meat texture versus substitutes"
+      ],
+      "description": "A tasting moment highlights a thick, not fully clear broth and compares the texture to traditional red pozole, noting the bite and mouthfeel of the meat substitutes."
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:02:06",
+      "title": "Spice preferences and condiments",
+      "concepts": [
+        "spice level and sauces",
+        "Tabasco and other hot sauces",
+        "regional differences in lime usage"
+      ],
+      "description": "Discussion of spiciness, preferred sauces, and how lime is variably used, reflecting personal and cultural taste differences."
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:02:39",
+      "title": "Vegan identity and substitutions",
+      "concepts": [
+        "vegan status not obvious in taste",
+        "mentions of tofu and tempeh as substitutes",
+        "food network of vegan friends"
+      ],
+      "description": "Conversations acknowledge that the vegan pozole can pass as non-vegan to some tasters, with references to common plant-based proteins that could stand in for meat."
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:03:02",
+      "title": "Verdict, serving suggestions, and edits",
+      "concepts": [
+        "positive reception",
+        "recommendation for vegan dish",
+        "serving with fixings on the side",
+        "considerations for adding more meat in traditional variants"
+      ],
+      "description": "Concluding remarks express overall approval, offer serving guidance (side garnishes and fixings), and suggest possible variations for those who want more meat in a non-vegan context."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Vegan substitution in a traditional pozole",
+      "timestamp": "00:02:12.000",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Assessment of broth texture and meat-substitute texture during tasting",
+      "timestamp": "00:01:19.119",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Incorporating garnishes as integral components of the dish",
+      "timestamp": "00:00:44.559",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Spice and hot-sauce pairing with traditional Mexican flavors",
+      "timestamp": "00:01:03.600",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:07:06.263721+00:00"
+}

@@ -1,0 +1,174 @@
+{
+  "schema_version": 2,
+  "video": "jjX5B8Txc7E.youtube",
+  "title": "Diagnosing a High Electric Bill with Home Energy Monitoring (This Old House)",
+  "date": {
+    "display": "April 19, 2025",
+    "iso": "2025-04-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior analog electric meters (two meters outside)",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly states there are two meters outside the house; one feeds the main/second floor and a separate meter serves the third floor."
+    },
+    {
+      "name": "Basement electrical panels and subpanels (kitchen panel, shop panels, garage subpanel)",
+      "confidence": 0.8,
+      "basis": "Transcript describes inspecting panels in the basement, including a kitchen panel and a shop panel, plus a garage subpanel fed from the main."
+    },
+    {
+      "name": "Kitchen panel (main kitchen feed)",
+      "confidence": 0.75,
+      "basis": "Transcript notes turning off the kitchen panel as a test to observe impact on the meter."
+    },
+    {
+      "name": "Third-floor meter (separate meter for third floor)",
+      "confidence": 0.9,
+      "basis": "Transcript confirms a separate meter for the third floor."
+    }
+  ],
+  "summary": "This This Old House episode follows a multi-tenant house facing a winter spike in electric bills. The team inventories the building’s electric loads, reviews the service and meter configuration, and uses analog meters to gauge real-time usage. They install a home energy monitoring system with current transformers (CTS) to isolate and track power draw across circuits, then perform controlled load-off tests to verify impact. After a two-month follow-up, they correlate real-time data with the utility bill to identify three major energy culprits—the mini-split heat pump, the well pump, and the electric water heater—and discuss practical savings (e.g., a hybrid heat-pump water heater) and the potential role of solar. The episode demonstrates a data-driven approach to diagnosing and reducing electricity costs in a multifamily home.",
+  "topics": [
+    "Electric bill troubleshooting",
+    "Home energy monitoring",
+    "Analog electric meters",
+    "Main service panels and subpanels",
+    "Kitchen panel load management",
+    "Two-pole main breaker",
+    "Current transformers (CTS) energy monitoring",
+    "Heat pump energy usage",
+    "Well pump energy usage",
+    "Electric water heater energy usage",
+    "Multi-tenant energy management",
+    "Solar PV considerations"
+  ],
+  "sections": [
+    {
+      "start": "00:00:07",
+      "end": "00:01:56",
+      "title": "Problem framing and house-load context",
+      "concepts": [
+        "high electric bill",
+        "load sources",
+        "EV charging",
+        "heat pumps",
+        "laundry"
+      ],
+      "description": "Host frames common reasons for a high bill and introduces a case with an older house that has added electrical loads like EV charging and a mini-split; sets a plan to diagnose by observing loads and taking measurements."
+    },
+    {
+      "start": "00:01:56",
+      "end": "00:03:21",
+      "title": "Basement panel layout and meter configuration",
+      "concepts": [
+        "basement panels",
+        "two exterior meters",
+        "third-floor meter",
+        "multi-panel service"
+      ],
+      "description": "Discussion and on-site notes identify multiple panels in the basement (including a kitchen panel and a garage subpanel) and the presence of two exterior meters with a separate third-floor meter."
+    },
+    {
+      "start": "00:03:21",
+      "end": "00:04:25",
+      "title": "Meter observation and test plan",
+      "concepts": [
+        "analog meters",
+        "real-time observation",
+        "turning off major loads"
+      ],
+      "description": "The team observes the spinning analog meters to gauge real-time usage and plans to test by turning off large loads to see the effect on the meter."
+    },
+    {
+      "start": "00:04:45",
+      "end": "00:07:50",
+      "title": "Energy monitor system overview",
+      "concepts": [
+        "energy monitor components",
+        "current transformers",
+        "Wi‑Fi connectivity",
+        "panel wiring"
+      ],
+      "description": "Owner explains the monitor’s components (the brain unit and the monitor), how current transformers wrap around main feeders and circuits, and how power and network connectivity are established."
+    },
+    {
+      "start": "00:07:50",
+      "end": "00:08:22",
+      "title": "Install sequence and testing readiness",
+      "concepts": [
+        "CT installation around main feeders",
+        "antenna installation",
+        "main CT orientation"
+      ],
+      "description": "Plan and initial steps for mounting transformers, orienting CTs, and preparing to power the system back up after installation."
+    },
+    {
+      "start": "00:08:39",
+      "end": "00:11:43",
+      "title": "Two-month follow-up: data-driven culprit identification",
+      "concepts": [
+        "real-time data view",
+        "culprits: mini split, well pump, water heater",
+        "seasonal usage",
+        "savings opportunities",
+        "solar considerations"
+      ],
+      "description": "Two months after installation, the team reviews live data and historical views, identifying three major energy consumers and discussing potential savings (e.g., hybrid water heater) and solar as a long-term option, with emphasis on data correlation to the bill."
+    },
+    {
+      "start": "00:11:45",
+      "end": "00:12:00",
+      "title": "Closing and resources",
+      "concepts": [
+        "video outro",
+        "subscribe",
+        "additional videos"
+      ],
+      "description": "Host closes the segment and points viewers to additional This Old House content and subscription options."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Analog meter observation for real-time load assessment",
+      "timestamp": "00:03:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Isolating major loads by turning off panels to gauge impact",
+      "timestamp": "00:04:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Main breaker-off verification to confirm system isolation",
+      "timestamp": "00:04:16",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Whole-house energy monitor installation with current transformers",
+      "timestamp": "00:06:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "CT placement around main feeds and per-circuit monitoring",
+      "timestamp": "00:05:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Remote data correlation of real-time and historical power use",
+      "timestamp": "00:09:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Savings planning using hybrid water heater and solar consideration",
+      "timestamp": "00:11:12",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:23:16.105990+00:00"
+}

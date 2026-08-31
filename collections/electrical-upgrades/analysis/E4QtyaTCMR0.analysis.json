@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "E4QtyaTCMR0.youtube",
+  "title": "Task Lighting Upgrade in a Small Kitchen: Recessed Downlights and Under-Cabinet Fluorescents",
+  "date": {
+    "display": "December 12, 2015",
+    "iso": "2015-12-12",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates a kitchen lighting retrofit aimed at improving task illumination in a small space. The hosts replace two dim, nearby ceiling fixtures with two recessed LED/fluorescent-ready downlights (referred to as R40 blimps) to bring light down to the counter, and add complementary under-cabinet and above-cabinet fluorescent lighting (Thin Line) to brighten work surfaces and shelves. The project covers planning around existing sprinklers and ceiling obstructions, routing power from a single switch, creating ceiling penetrations, mounting fixtures with clips, hiding cords through cabinet fronts and crown molding, and testing the system for a brighter, more usable kitchen workspace.",
+  "topics": [
+    "kitchen lighting problem",
+    "two overhead fixtures with separate switches",
+    "task lighting goals",
+    "downlighting with recessed fixtures",
+    "R40 blimps",
+    "single-switch control for multiple fixtures",
+    "over-cabinet lighting",
+    "under-cabinet fluorescent lighting",
+    "Thin Line fixtures",
+    "remodel recessed lighting",
+    "hole templates and hole cutting",
+    "pressure clips for recessed cans",
+    "cable routing to top of cabinets",
+    "crown molding as a cable route",
+    "hiding cords with knee notch",
+    "cutting front edge of cabinet to conceal wiring",
+    "obstacles: sprinkler pipe/ceiling drop, metal studs",
+    "safety: turn off power before work",
+    "final lighting test and adjustments"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:07:00",
+      "title": "Identify problem and plan lighting layout",
+      "concepts": [
+        "kitchen is small with limited light",
+        "two overhead fixtures on two different switches",
+        "current lighting is insufficient for counter work",
+        "plan to install downlighting (R40 blimps) and add cabinet lighting"
+      ],
+      "description": "The hosts observe a dim kitchen with two ceiling fixtures controlled by separate switches and acknowledge the inability to clearly see while chopping at the counter. They propose removing the existing fluorescents, installing two recessed downlights (R40 blimps) on a single switch, and adding above- and below-cabinet fluorescent lighting to improve task visibility."
+    },
+    {
+      "start": "01:07:00",
+      "end": "02:12:00",
+      "title": "Prepare ceiling for recessed downlights",
+      "concepts": [
+        "power shutoff and fixture removal",
+        "clear obstruction around sprinkler pipe",
+        "remove supporting bar and old junction box",
+        "prepare ceiling for new recessed housings"
+      ],
+      "description": "After turning off power, the team begins removing the existing fixtures and the ceiling bar that supports a junction box. They note a sprinkler pipe with a drop ceiling that limits clearance and take steps to create open space for the new recessed cans."
+    },
+    {
+      "start": "02:12:00",
+      "end": "03:46:00",
+      "title": "Install recessed downlights and route wiring",
+      "concepts": [
+        "hole enlargement using templates",
+        "recessed can lights (remodel style)",
+        "pressure clips to secure cans",
+        "wire between recessed lights to share a switch",
+        "initial can placement and ceiling push-in"
+      ],
+      "description": "Templates are used to mark and cut holes for two recessed lights. Remodel recessed fixtures are installed, secured with pressure clips, and wired in series so both cans operate from a single switch. Wires are routed between the two fixtures before the cans are pressed fully into the ceiling."
+    },
+    {
+      "start": "03:46:00",
+      "end": "06:00:00",
+      "title": "Plan, route, and install cabinet lighting",
+      "concepts": [
+        "existing switch repurposed for under- and over-cabinet lighting",
+        "routing cable from wall switch to top of cabinets",
+        "encountering a metal stud obstacle",
+        "crown molding as a run point for wiring",
+        "Thin Line fluorescent fixtures for cabinet lighting",
+        "mounting clips and interconnects",
+        "concealing cords by trimming cabinet front",
+        "knee notch for cord hiding"
+      ],
+      "description": "With power restored and a plan to control both cabinet lights from the existing switch, the team routes wiring from the wall through the stud area and up to the tops of the cabinets. They introduce Thin Line fluorescent fixtures for both under- and over-cabinet lighting, align them back-to-front to minimize bulb visibility, and use mounting clips and an interconnect cable. When a rib in the cabinet interferes with the cord, they cut a small notch in the front edge to hide the wiring and create a clean knee joint for the cord."
+    },
+    {
+      "start": "06:00:00",
+      "end": "06:59:00",
+      "title": "Power test and final results",
+      "concepts": [
+        "power restored",
+        "recessed lights on",
+        "cabinet lights on",
+        "final brightness improvement"
+      ],
+      "description": "The power is reactivated and both the recessed ceiling lights and the cabinet lighting are tested. The hosts confirm a significant improvement in the kitchen’s task lighting and congratulate each other on the completed upgrade."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install recessed lighting cans (remodel style) and secure with pressure clips",
+      "timestamp": "02:12:00-03:16:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Tie multiple recessed lights to a single switch by routing a shared conductor",
+      "timestamp": "02:40:00-03:16:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Plan and install under-cabinet and over-cabinet fluorescent fixtures (Thin Line) for task lighting",
+      "timestamp": "05:23:00-06:47:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Hide cabinet wiring using a knee notch cut in the cabinet front to conceal cords",
+      "timestamp": "06:11:00-06:20:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Route power through crown molding to access top-of-cabinet wiring",
+      "timestamp": "04:19:00-04:32:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Navigate existing ceiling obstructions (sprinkler pipe, drop ceiling, metal stud) when placing new lighting",
+      "timestamp": "01:39:00-01:53:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:18:06.140310+00:00"
+}

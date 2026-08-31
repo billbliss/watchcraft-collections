@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "video": "k9NgT_hlsJg.youtube",
+  "title": "Vegan Dish Guessing Challenge: Egg Yolk, Watermelon Ham, Calamari Coconut",
+  "date": {
+    "display": "October 29, 2025",
+    "iso": "2025-10-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Restaurant setting (explicit)",
+      "confidence": 0.75,
+      "basis": "Transcript line explicitly referencing being in a restaurant (00:03:21)"
+    }
+  ],
+  "summary": "Goodful’s vegan-taste challenge presents two hosts who sample a sequence of plant-based dishes and repeatedly guess the ingredients. The episode features a tomato-based vegan runny yolk described as arising from tomatoes, a watermelon-based smoked ham, and a calamari dish built around coconut, followed by vegan baby-back ribs with mushrooms and a teriyaki mock chicken. Throughout, the pair responds with humor and vivid sensory reactions—discussing acidity, moisture release, and texture—as they try to identify ingredients and gauge how convincing the substitutes are. The segment also references Jaro Contaldo and includes playful banter about the dining setting and service, highlighting a cooking-show vibe centered on flavor exploration rather than traditional technique teaching.",
+  "topics": [
+    "vegan runny yolk (tomato-based yolk)",
+    "tomatoes as serving component for vegan yolk",
+    "watermelon as smoked ham substitute",
+    "salty-sweet flavor balance in vegan meat analogues",
+    "texture and moisture release in plant-based dishes",
+    "calamari substitute made with coconut",
+    "coconut-based seafood alternatives",
+    "mushroom-based rib substitute (baby back ribs)",
+    "teriyaki-flavored mock chicken",
+    "grapefruit flavor guessing in vegan dishes",
+    "ingredient guessing and sensory evaluation",
+    "banter and humor in vegan cooking shows",
+    "explicit restaurant setting in video context",
+    "reference to Jaro Contaldo",
+    "reactions to vegan dishes (surprise, delight, skepticism)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:54",
+      "title": "Vegan runny yolk concept and tomato pairing",
+      "concepts": [
+        "vegan egg substitute",
+        "tomato-based yolk presentation",
+        "initial tasting reactions"
+      ],
+      "description": "Introduction to a vegan runny yolk concept described as coming from tomatoes, followed by tasting and humorous banter about the flavor and texture. Early comparisons include acidity versus traditional egg flavor and a notable positive reaction."
+    },
+    {
+      "start": "00:00:55",
+      "end": "00:02:32",
+      "title": "Watermelon ham concept and tasting notes",
+      "concepts": [
+        "watermelon as meat analogue",
+        "smoked flavor attempt",
+        "salt-sweet balance and texture"
+      ],
+      "description": "The hosts discuss and sample a vegan 'smoked ham' made from watermelon, noting a salty-sweet profile and a surprisingly robust texture, with comments on moisture release and flavor contrasts."
+    },
+    {
+      "start": "00:02:39",
+      "end": "00:03:30",
+      "title": "Calamari with coconuts: a coconut-based seafood substitute",
+      "concepts": [
+        "calamari substitute",
+        "coconut-based texture",
+        "ingredient identification game"
+      ],
+      "description": "The segment introduces calamari made with coconuts. One guest correctly identifies coconut as a key ingredient, with dialogue highlighting the surprising texture and authenticity of the substitute."
+    },
+    {
+      "start": "00:03:31",
+      "end": "00:04:40",
+      "title": "Baby back ribs with mushrooms and teriyaki mock chicken; closing reactions",
+      "concepts": [
+        "mushroom-based rib substitute",
+        "teriyaki mock chicken",
+        "final tasting and banter",
+        "cameo/reference to Jaro Contaldo"
+      ],
+      "description": "The hosts present vegan baby-back ribs with mushrooms and discuss teriyaki-flavored mock chicken. Reactions shift toward strong enjoyment, including a notable final tasting moment and a humorous reference to Jaro Contaldo."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Tomato-based vegan runny yolk (egg-yolk mimic)",
+      "timestamp": "00:00:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Watermelon as ham analogue with smoke flavor",
+      "timestamp": "00:00:55",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Coconut-based calamari substitute",
+      "timestamp": "00:02:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mushroom-based rib substitute (baby back ribs)",
+      "timestamp": "00:03:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Teriyaki-flavored vegan mock chicken",
+      "timestamp": "00:03:43",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Ingredient guessing and sensory evaluation format",
+      "timestamp": "00:00:00",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T17:47:09.048966+00:00"
+}

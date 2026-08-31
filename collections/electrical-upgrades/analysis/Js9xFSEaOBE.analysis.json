@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "video": "Js9xFSEaOBE.youtube",
+  "title": "Automatic Closet Lighting with Ball Switch and Motion Sensor (Two-Closet Installation)",
+  "date": {
+    "display": "November 15, 2015",
+    "iso": "2015-11-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Master Closet",
+      "confidence": 0.9,
+      "basis": "Transcript identifies a 'master closet' where a motion-activated switch is installed and where the lighting fixture is wired."
+    },
+    {
+      "name": "Guest Room Closet",
+      "confidence": 0.9,
+      "basis": "Transcript references a 'guest room closet' as the second installation site and target for the transformer/low-voltage control."
+    },
+    {
+      "name": "Attic",
+      "confidence": 0.85,
+      "basis": "Transcript describes locating a power source in the attic and running a feed from there; power is shut off in this space during rough-in."
+    }
+  ],
+  "summary": "This instructional segment demonstrates adding automatic lighting to two closets by installing fluorescent fixtures and using two control strategies to automate illumination. For the single-door master closet, a ball switch is used to switch the light on when the door opens. For the two-door guest closet, a motion-activated switch triggers the light when either door is opened, with a hand-held control to turn it off if needed. The process covers selecting fixtures (fluorescent T5), weighing LED alternatives, routing wiring from an attic power source through a top-plate drill, wiring the fixture to a master switch box, and employing a low-voltage transformer switch to provide flexible placement without a traditional electrical box. The demonstration includes basic wiring steps (hot to hot, neutral to neutral, ground to ground), mounting in a plastic box, and testing the final result with power restored.",
+  "topics": [
+    "closet lighting",
+    "automatic lighting",
+    "ball switch",
+    "motion-activated switch",
+    "fluorescent fixtures",
+    "T5 fluorescent lamps",
+    "LED vs fluorescent cost/efficiency",
+    "two-closet installation",
+    "single-door vs two-door closet",
+    "attic power source",
+    "junction box",
+    "feed wiring",
+    "top plate routing",
+    "stud finder / locator",
+    "drilling through top plate",
+    "wiring basics (hot/neutral/ground)",
+    "transformer switch (low voltage)",
+    "no electrical box transformer",
+    "power safety (turn off power)",
+    "final testing and usability"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:09",
+      "title": "Identify problem and plan automatic closet lighting",
+      "concepts": [
+        "closet darkness assessment",
+        "two closets with different layouts (master/guest)",
+        "goal: automatic lighting without fumbling for a switch",
+        "consideration of two fixture configurations"
+      ],
+      "description": "The speakers identify two dark closets (master and guest) and agree on adding automatic lighting. They outline the plan to use two fixtures and two switch approaches tailored to each closet: a ball switch for the single-door master closet and a motion-activated switch for the two-door guest closet."
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:25",
+      "title": "Materials and rationale for automatic lighting",
+      "concepts": [
+        "fluorescent vs LED fixtures",
+        "T5 fluorescent fixtures",
+        "cost considerations for LEDs in short-use spaces",
+        "ball switch and motion-activated switch as automation options"
+      ],
+      "description": "The presenter compares LED fixtures to fluorescent options, noting LEDs are expensive for short-use (minute-or-two) closet lighting. Fluorescent T5 fixtures are chosen for their efficiency. Two automatic-control options are introduced: a ball switch for a single-door closet and a motion-activated switch for a two-door configuration, highlighting how each works to eliminate manual switching."
+    },
+    {
+      "start": "00:02:31",
+      "end": "00:04:09",
+      "title": "Rough-in planning: power sourcing and routing",
+      "concepts": [
+        "locating power in the attic",
+        "shutting off power before work",
+        "running a feed to the new closet lights and to the other closet",
+        "preliminary wiring strategy"
+      ],
+      "description": "The plan includes finding a power source in the attic, turning off power to work safely, and planning a feed that will serve both closets. The host notes the goal of feeding both closets from this source and shows the intent to tie into a new junction box as part of the rough-in."
+    },
+    {
+      "start": "00:04:41",
+      "end": "00:05:03",
+      "title": "Rough-in details: locating studs and top plate",
+      "concepts": [
+        "locator rod/stud finder",
+        "top plate as routing point",
+        "identifying studs with nails indicating vertical framing"
+      ],
+      "description": "The process shifts to locating a path for wiring inside the wall: using a locator rod to find the wall stud lines and identifying the top plate to drill a hole for the wiring path, establishing a route toward the planned switches and fixtures."
+    },
+    {
+      "start": "00:05:03",
+      "end": "00:05:56",
+      "title": "Switch installation and wiring groundwork for master closet",
+      "concepts": [
+        "installing motion switch in master closet",
+        "plastic electrical box for wires",
+        "prepping the run to the light fixture"
+      ],
+      "description": "Work progresses with mounting the motion switch in the master closet. A plastic box is prepared to hold the incoming wire and feeds for both closets. The crew begins the process of pulling wires and preparing to connect the fixture."
+    },
+    {
+      "start": "00:05:56",
+      "end": "00:06:44",
+      "title": "Transformer switch and final testing",
+      "concepts": [
+        "low-voltage transformer switch",
+        "line voltage to low voltage conversion",
+        "flexible placement without an electrical box",
+        "power restoration and door-opening test"
+      ],
+      "description": "In the guest room, a transformer switch is introduced to convert 120V line voltage to low voltage, enabling flexible placement without a standard electrical box. After wiring is completed and power is restored, opening the doors demonstrates the automatic lighting in action and the final result appears neat and functional."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Ball switch control for single-door closet (auto on/off with door opening)",
+      "timestamp": "00:02:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Motion-activated switch for dual-door closet (auto on with any door open)",
+      "timestamp": "00:02:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Low-voltage transformer switch for flexible, box-free placement",
+      "timestamp": "00:05:39",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:24:06.794761+00:00"
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "video": "JYycB8TcYOc.youtube",
+  "title": "Drilling Holes for Electrical Wiring in Studs: Tools, Clearances, and Wire-Pulling Techniques",
+  "date": {
+    "display": "July 24, 2022",
+    "iso": "2022-07-24",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House's Tool Lab video explains practical methods for boring holes in wood studs to run electrical wiring. It compares auger bits with self-feeding tops, spade bits, and a suite of accessories (extensions, right-angle adapters, flexible bits) to reach tight corners. The presenter emphasizes code-driven clearance from stud edges (minimum 1-1/4 inches) and suggests a center-spotting approach by stepping bit sizes to avoid precise centering on every stud. The workflow covers drilling demonstrations, corner access strategies, and wire-pulling techniques that keep wires at a consistent height, bend wires within the wall bay to form curves, and manage offsets with pre-fitting or “fish” methods. The video also notes protective measures like nail plates when clearance cannot be met and advises checking local codes for multiple cables.",
+  "topics": [
+    "drilling holes in studs",
+    "auger bit",
+    "auger bit with self-feeding top",
+    "spade bit",
+    "cell feed bit",
+    "right-angle drill adapter",
+    "extensions for drills",
+    "stacked extensions",
+    "flexible drill bits",
+    "corner access techniques",
+    "hole sizing and edge clearance",
+    "1-1/4 inch edge clearance",
+    "center location strategy",
+    "2x4 vs 2x6 stud considerations",
+    "keeping drill height consistent",
+    "pre-fitting through existing holes",
+    "fish-wire technique for corners",
+    "bending wire inside wall bays",
+    "pulling wire through drilled holes",
+    "nail plates for edge protection",
+    "code considerations and inspector checks"
+  ],
+  "sections": [
+    {
+      "start": "00:00:10",
+      "end": "00:01:11",
+      "title": "Tools and bit options for drilling holes",
+      "concepts": [
+        "auger bit",
+        "self-feeding top bit",
+        "spade bit",
+        "extensions",
+        "right-angle adapter",
+        "flexible bits"
+      ],
+      "description": "Introduces drill-bit options for boring holes through studs, highlighting the auger bit for high-volume drilling with a self-feeding top bit, and the spade bit for a few clean holes. Mentions accessories to access tight spaces, including extensions, a right-angle adapter, and flexible bits."
+    },
+    {
+      "start": "00:01:46",
+      "end": "00:02:39",
+      "title": "Clearance rules and hole sizing strategy",
+      "concepts": [
+        "edge clearance",
+        "1-1/4 inch minimum",
+        "center location",
+        "bit stepping",
+        "2x4 vs 2x6 considerations"
+      ],
+      "description": "States the code-required clearance from the edge of a stud (minimum 1-1/4 inches) and explains using smaller bit sizes to approximate the center rather than measuring each stud precisely. Notes that 2x6 studs still allow space considerations and provides practical guidance on where to drill."
+    },
+    {
+      "start": "00:02:42",
+      "end": "00:03:31",
+      "title": "Auger drilling demonstration and center reference",
+      "concepts": [
+        "inch-and-a-quarter clearance reference",
+        "leg as visual guide",
+        "drilling through a stud"
+      ],
+      "description": "Demonstrates drilling with an auger and using a reference point on the leg to maintain a consistent height and spacing for multiple holes, aiding alignment and planning."
+    },
+    {
+      "start": "00:03:51",
+      "end": "00:05:12",
+      "title": "Corner access and multiple-extension strategies",
+      "concepts": [
+        "larger bits",
+        "extensions",
+        "right-angle adapter",
+        "pre-fitting through existing holes"
+      ],
+      "description": "Explores options when a corner bay is tight: using larger bits, stacking extensions, and pre-fitting through an existing hole to square up to the stud for a clean final hole."
+    },
+    {
+      "start": "00:05:12",
+      "end": "00:06:49",
+      "title": "Wire-pulling technique and maintaining height",
+      "concepts": [
+        "keeping wires at the same height",
+        "pulling wire through holes",
+        "bending inside the bay to form a curve"
+      ],
+      "description": "Shows how to pull the wire after drilling, emphasizing uniform height to prevent tangling and demonstrates bending the wire against the back wall to create a curve so it navigates corners more easily."
+    },
+    {
+      "start": "00:06:49",
+      "end": "00:08:16",
+      "title": "Corner offsets, start tricks, and protective measures",
+      "concepts": [
+        "fish-wire start for tight corners",
+        "taping a short curve to ease threading",
+        "nail plates for edge protection",
+        "checking local code for multiple cables"
+      ],
+      "description": "Addresses off-center or offset corners with a short curve wire (fish method) to start threading and demonstrates protective nail plates when edge-clearance limits are encountered. Reminds viewers to consult local inspectors for cable counts and code allowances."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Auger bit with self-feeding top bit for long-lasting holes through studs",
+      "timestamp": "00:00:41",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Spade bit with optional feed bit for targeted, smaller holes",
+      "timestamp": "00:01:04",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Right-angle adapter used with spade bit to access tight bays",
+      "timestamp": "00:04:24",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Stacked extensions to reach awkward corners",
+      "timestamp": "00:04:46",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Pre-fitting wire through existing holes to align drilling in corners",
+      "timestamp": "00:05:00",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Bending wire against back wall to form a curve for easier passage",
+      "timestamp": "00:06:03",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Fish-wire approach to start threading in tight corners",
+      "timestamp": "00:07:11",
+      "confidence": 0.76
+    },
+    {
+      "technique": "Nail plates as protection when edge clearance cannot be met",
+      "timestamp": "00:08:02",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:24:44.298594+00:00"
+}

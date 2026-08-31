@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "video": "HeHwE7m1V4A.youtube",
+  "title": "Mount Outdoor TV with a Purpose-Built Enclosure: Wall mounting a 65-inch TV on an exterior deck",
+  "date": {
+    "display": "June 21, 2026",
+    "iso": "2026-06-21",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior deck wall (shade-side) with clapboard siding; mounting on the wall near a deck area",
+      "confidence": 0.65,
+      "basis": "Transcript references deck, wall, and clapboard siding; mentions studs and mounting to the wall"
+    }
+  ],
+  "summary": "This Old House presents a practical indoor-to-outdoor TV upgrade by mounting a TV behind a purpose-built outdoor enclosure on an exterior wall of a shaded deck. The host team weighs sun exposure, selects a wall suitable for mounting, and sizes for a 65-inch screen. They replace an indoor TV setup with an enclosure that includes cooling fans, thermostats, and optional humidity/heat controls, and they implement a behind-the-TV receptacle with weatherproof, tamper-resistant hardware fed from a dedicated outdoor-rated circuit protected by an AFCI/GFCI breaker. The process covers spacing the TV on foam blocks inside the enclosure, aligning and bolting the enclosure to wall studs, routing and sealing power cords, and sealing mounting interfaces with silicone to maintain a watertight install. The project concludes with wiring, a final power test, and a demonstration that the TV returns a live signal on the new outdoor setup.",
+  "topics": [
+    "Outdoor TV enclosure",
+    "Wall mounting on exterior studs",
+    "16-inch on center stud spacing",
+    "Foam mounting blocks provided by enclosure",
+    "65-inch TV sizing and fit",
+    "Wall-mounted receptacle behind TV",
+    "Weather-resistant tamper-resistant receptacle",
+    "AFCI/GFCI dual-function breaker",
+    "Surge protector and power filter",
+    "Cord management through enclosure cutout",
+    "Sealing with putty around electrical box",
+    "Silicone sealant around mount",
+    "Lag bolts for mounting",
+    "Centering brackets and alignment",
+    "Ventilation: cooling fans and thermostats",
+    "Humidity control and optional heater",
+    "Polycarbonate exterior and cleaning",
+    "Maintenance and accessibility considerations"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:33",
+      "title": "Plan and wall considerations",
+      "concepts": [
+        "relocating from indoor to outdoor viewing",
+        "shade vs sun exposure on deck",
+        "trip hazards with external cords",
+        "preference for wall mounting to avoid hazards"
+      ],
+      "description": "Heath and Joanna discuss the problem of dragging an indoor TV outdoors and evaluate sun/shade conditions, concluding that mounting on a shaded exterior wall is preferable to reduce tripping risk and weather exposure."
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:03:21",
+      "title": "Outdoor enclosure rationale",
+      "concepts": [
+        "outdoor enclosure vs indoor TV",
+        "enclosure features (sealed design)",
+        "polycarbonate exterior",
+        "cost/complexity considerations"
+      ],
+      "description": "They introduce the outdoor TV enclosure as a flexible, protective alternative to an all-in-one outdoor TV, noting the enclosure brings the benefits of outdoor-ready tech without the high cost of a purpose-built outdoor TV."
+    },
+    {
+      "start": "00:03:21",
+      "end": "00:04:53",
+      "title": "TV prep inside enclosure",
+      "concepts": [
+        "foam mounting blocks from enclosure manufacturer",
+        "spacing around the frame for mounting hardware",
+        "raising the TV for bracket clearance"
+      ],
+      "description": "The TV is prepared with foam blocks provided by the enclosure maker to create the necessary clearance and support before sliding the enclosure over and aligning the mounting hardware."
+    },
+    {
+      "start": "00:04:53",
+      "end": "00:06:12",
+      "title": "Electrical planning and cord management",
+      "concepts": [
+        "power cord routing through enclosure",
+        "surge protector and power filter",
+        "sealed cord entry using a cut-out path"
+      ],
+      "description": "They plan how to route power inside the enclosure, install a surge protector, and manage the cord so the entry remains sealed and tidy, improving reliability and accessibility for servicing."
+    },
+    {
+      "start": "00:06:12",
+      "end": "00:07:44",
+      "title": "Wall placement and mounting height planning",
+      "concepts": [
+        "center the mounting bracket on the housing",
+        "locate a stud-backed wall location",
+        "plan for 10 in mounting area"
+      ],
+      "description": "The team centers the bracket on the enclosure and identifies a wall spot, checking for clearance and stud support to ensure a solid, serviceable mount."
+    },
+    {
+      "start": "00:07:44",
+      "end": "00:09:31",
+      "title": "Receptacle wiring and final sealing",
+      "concepts": [
+        "AFCI/GFCI dual-function breaker",
+        "weather-rated receptacle",
+        "putty/seal around box",
+        "silicone around mount",
+        "power-on test"
+      ],
+      "description": "They install a weather-resistant, tamper-resistant receptacle fed by a dual-function AFCI/GFCI breaker, seal the box with putty and silicone, mount the enclosure with lag bolts, and perform a final power test to verify operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Outdoor TV enclosure with integrated cooling fans, thermostats, and humidity/heater options",
+      "timestamp": "00:03:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Use of foam mounting blocks supplied by enclosure manufacturer to provide proper TV support and spacing inside the enclosure",
+      "timestamp": "00:04:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Routing power through a dedicated surge protector inside the enclosure and using an external conduit/pass-through to keep the area weather-tight",
+      "timestamp": "00:05:16",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Weather-resistant, tamper-resistant exterior receptacle installed with putty and silicone sealing for waterproofing",
+      "timestamp": "00:08:29",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Secure mounting to wall studs with lag bolts and seal all mounting penetrations for watertight integrity",
+      "timestamp": "00:08:54",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:21:31.386951+00:00"
+}

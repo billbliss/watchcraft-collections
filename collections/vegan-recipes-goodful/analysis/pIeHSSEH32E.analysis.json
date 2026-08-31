@@ -1,0 +1,146 @@
+{
+  "schema_version": 2,
+  "video": "pIeHSSEH32E.youtube",
+  "title": "Two-Price Vegan Ice Cream Challenge: $4 vs $44",
+  "date": {
+    "display": "October 16, 2021",
+    "iso": "2021-10-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Goodful video staging compares two vegan ice creams built at opposite price points. The $44 version centers on a matcha ice cream base enriched with a macadamia blondie, vanilla bean, cocoa butter, coconut oil, and a black sesame brittle with edible gold, churned in an ice cream maker and layered with the blondie. The $4 version uses an oat-milk–aquafaba base built from blended oats and water, plus chocolate-covered pretzels, a peanut butter caramel swirl, and a simple chocolate-pretzel topping, all assembled in a loaf-pan style and frozen to set. Jasmine serves as the taste tester to judge value and flavor, delivering the final verdict on best value. The video also highlights practical vegan techniques like making cashew milk, whipping aquafaba, and achieving dairy-like textures without eggs or dairy.",
+  "topics": [
+    "vegan ice cream",
+    "ice cream base",
+    "matcha",
+    "vanilla bean",
+    "macadamia blondie",
+    "cashew milk",
+    "aquafaba",
+    "oat milk base",
+    "edible gold",
+    "black sesame brittle",
+    "chocolate-covered pretzels",
+    "peanut butter caramel swirl",
+    "ice cream maker",
+    "layering in loaf pan",
+    "freezing times",
+    "taste test",
+    "value judgement"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "title": "Intro and challenge setup",
+      "concepts": [
+        "pricing",
+        "competition",
+        "tasting plan"
+      ],
+      "description": "Hosts Merle and Rachel introduce a $4 vs $44 vegan ice cream challenge and announce Jasmine as the value judge who will taste-test both versions and declare a winner."
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:26",
+      "title": "Premium ice cream concept: matcha base and blondie",
+      "concepts": [
+        "matcha",
+        "vanilla bean",
+        "macadamia blondie",
+        "vanilla bean extraction"
+      ],
+      "description": "The $44 ice cream plan is described: ceremonial grade matcha, macadamia blondie mix-in, and a vanilla-bean–enhanced base, with vanilla scraped from a pod."
+    },
+    {
+      "start": "00:03:26",
+      "end": "00:06:01",
+      "title": "Premium base assembly and chilling",
+      "concepts": [
+        "cashew milk",
+        "coconut milk",
+        "ice cream maker",
+        "chill time"
+      ],
+      "description": "Cashew milk is prepared, coconut milk added, matcha base is formed, and the base is chilled before churning; the mixer is used to create a dairy-like texture, then the mix is prepared for layering."
+    },
+    {
+      "start": "00:06:01",
+      "end": "00:11:34",
+      "title": "Brittle, edible gold, and assembly",
+      "concepts": [
+        "black sesame brittle",
+        "edible gold leaf",
+        "layering",
+        "freezing"
+      ],
+      "description": "A black sesame brittle with edible gold is prepared, cooled, and broken. The ice cream is assembled in layers with blondie chunks and toppers, then frozen to set."
+    },
+    {
+      "start": "00:07:35",
+      "end": "00:11:34",
+      "title": "Budget ice cream concept: four-dollar base",
+      "concepts": [
+        "oat milk base",
+        "aquafaba",
+        "pretzels",
+        "caramel swirl",
+        "budget substitutions"
+      ],
+      "description": "Concurrently, the $4 ice cream is built on an oat-milk base via blending oats and water, with aquafaba and a chocolate-covered pretzel base, plus a peanut caramel swirl and simple toppings."
+    },
+    {
+      "start": "00:11:34",
+      "end": "00:15:44",
+      "title": "Taste test and verdict",
+      "concepts": [
+        "taste test",
+        "value judgement",
+        "final decision"
+      ],
+      "description": "Jasmine samples both versions, notes creaminess and texture, considers visual cues (gold, bark) and flavor, and delivers the value-based verdict comparing the two creations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Aquafaba-based ice cream base (whipping aquafaba to create a light, airy texture)",
+      "timestamp": "00:09:54",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Homemade cashew milk as a dairy-free base",
+      "timestamp": "00:04:24",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Oat-milk base from blended oats and water",
+      "timestamp": "00:09:10",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Use of an ice cream maker to achieve a creamy texture",
+      "timestamp": "00:04:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Layered assembly in loaf pan with interleaved mix-ins",
+      "timestamp": "00:05:33",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Macadamia blondie bake-in and use as mix-in",
+      "timestamp": "00:02:01",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Black sesame brittle with edible gold leaf topping",
+      "timestamp": "00:06:05",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T18:12:48.911198+00:00"
+}

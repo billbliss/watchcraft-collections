@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "video": "vazbtnih3ks.youtube",
+  "title": "Vegan Ramen Adventure: LA Tasting at Gokoku and Studio Mushroom-Chashu Recipe",
+  "date": {
+    "display": "March 19, 2022",
+    "iso": "2022-03-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Los Angeles, California (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript explicitly references finding the best vegan ramen in LA; on-location visit to a LA ramen shop named Gokoku and subsequent studio work nearby"
+    }
+  ],
+  "summary": "In this Goodful episode, host Merle and guest Ree explore vegan ramen through two lenses: an on-location tasting at the LA-based ramen shop Gokoku (featuring a Beyond Meat ramen and no-eggs noodles) and a studio kitchen where they recreate a multi-component vegan ramen. Back in the studio, they build a mushroom-based vegan chashu from king oyster mushrooms, craft a miso-dashi broth with a miso tare, and assemble three bowls for comparison. The video blends cooking demonstrations (dehydrating, shaping, and frying mushroom “chashu”; dashi from kombu and shiitake; a mushroom-cashew broth) with palate-testing and playful competition, culminating in a rating that reflects texture, flavor, and overall vegan ramen appeal. The episode also foregrounds the idea of plant-based versions that honor traditional ramen flavors while celebrating cross-cultural influences in Japanese cuisine.",
+  "topics": [
+    "ramen",
+    "vegan ramen",
+    "Gokoku ramen",
+    "Beyond Meat ramen",
+    "ramen no-egg noodles",
+    "king oyster mushroom chashu",
+    "vegan chashu marination",
+    "dehydration and shaping of mushrooms",
+    "thin slicing to mimic pork",
+    "cornstarch dredge for frying",
+    "miso tare with chili paste",
+    "kombu shiitake dashi",
+    "adashi (dashi) basics",
+    "mushroom cashew broth",
+    "vegan butter finish",
+    "green onions, bok choy, radish toppings",
+    "miso-based ramen broth",
+    "taste testing and scoring (0-10)",
+    "studio cooking competition format",
+    "cultural fusion in ramen",
+    "plant-based ramen awareness"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:33",
+      "title": "Episode setup and plan",
+      "concepts": [
+        "introducing the challenge",
+        "plan to find the best vegan ramen in LA",
+        "guest Ree's skepticism about vegan ramen",
+        "outline of the studio cook-off"
+      ],
+      "description": "Merle and Ree lay out the mission: travel to LA for vegan ramen, return to the studio to craft their own vegan ramen, and have Ree pick a favorite. The setup establishes the friendly competition format and the expectation of exploring authentic flavors through a vegan lens."
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:05:58",
+      "title": "Gokoku tasting and restaurant context",
+      "concepts": [
+        "Gokoku's vegan ramen approach",
+        "no-egg noodles",
+        "the Beyond Meat ramen offering",
+        "founder/brand background and cultural influences"
+      ],
+      "description": "Discussion and tasting context at the Gokoku ramen shop. The segment covers how the restaurant builds vegan ramen (including no-egg noodles) and its fusion approach, along with host dialogue about expectations and nostalgia around ramen flavors."
+    },
+    {
+      "start": "00:06:07",
+      "end": "00:09:23",
+      "title": "Studio vegan chashu prep and technique",
+      "concepts": [
+        "king oyster mushroom vegan chashu",
+        "dehydration with salt to draw moisture",
+        "massaging and rolling to resemble pork",
+        "cornstarch dredge and frying"
+      ],
+      "description": "Back in the studio, Merle and Ree prepare a mushroom-based chashu. They salt and massage the mushrooms to dehydrate them, slice and roll to mimic pork, and prepare a cornstarch dredge for frying to achieve a pork-like texture."
+    },
+    {
+      "start": "00:10:12",
+      "end": "00:15:00",
+      "title": "Broth foundations and final assembly",
+      "concepts": [
+        "adashi/dashi base with kombu and shiitake",
+        "miso tare with miso paste, chili bean paste, sesame oil, soy",
+        "soy milk cautions during simmering",
+        "toppings and finish (bok choy, radish, corn, green onions, sesame, nori, vegan butter)"
+      ],
+      "description": "The broth is built from a miso-dashi foundation, then fortified with a miso tare. The simmering process is used to develop flavor, with a note on soy milk addition to avoid curdling. The bowls are finished with a vibrant array of vegetables, sesame, nori, vegan butter, and the mushroom chashu, culminating in a three-bowl tasting event."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Vegan chashu using king oyster mushrooms: marinate, dehydrate, shape into pork-like ribbons, and fry in a cornstarch dredge",
+      "timestamp": "00:06:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Mushroom chashu shaping: thinly slice and layer to create a pork-like texture",
+      "timestamp": "00:08:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cornstarch dredge and frying for crisp, pork-like mushrooms",
+      "timestamp": "00:09:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Adashi/dashi broth foundation using kombu and shiitake",
+      "timestamp": "00:10:12",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Miso tare assembly: miso paste, chili bean paste, sesame oil, soy sauce",
+      "timestamp": "00:11:01",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Mushroom-cashew broth for creaminess and depth",
+      "timestamp": "00:12:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "No-egg noodle concept and vegan noodle adaptation discussion",
+      "timestamp": "00:03:11",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T18:55:36.127723+00:00"
+}

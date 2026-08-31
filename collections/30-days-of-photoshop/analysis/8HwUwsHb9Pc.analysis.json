@@ -1,0 +1,158 @@
+{
+  "schema_version": 2,
+  "video": "8HwUwsHb9Pc.youtube",
+  "title": "Day 28: Exporting Images in Photoshop – Layered PSD, JPEG Deliverables, and Camera Raw Tweaks",
+  "date": {
+    "display": "September 28, 2025",
+    "iso": "2025-09-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 28 walks through practical, non-destructive export workflows in Photoshop. The instructor starts with background editing by replacing city scenery with a nature backdrop using Generative Fill, then removes a logo from the subject’s hat, and groups layers. A smart-filter workflow is shown by combining layers with Apply Image and applying a Camera Raw filter to add a vignette and perform color grading (shadows, midtones, highlights) while maintaining editability. The video emphasizes saving two deliverables: a layered PSD for future edits and a flattened JPEG suitable for print, web, or social sharing. It covers export settings in depth—format choices (PSD vs JPEG vs TIFF/PDF), color space (sRGB with embedded profile), metadata handling, and scale options (1x and 0.5x) to produce multiple sizes from a single project. The result is a clear, repeatable approach to producing web- and print-ready assets from a single Photoshop document.",
+  "topics": [
+    "Photoshop",
+    "PSD (layered) export",
+    "JPEG export",
+    "Large Document format",
+    "TIFF export",
+    "PDF export",
+    "Apply Image",
+    "Smart Filters",
+    "Convert for Smart Filters",
+    "Background replacement",
+    "Generative Fill (Firefly integration)",
+    "Radial gradient masking",
+    "Camera Raw filter",
+    "Vignette",
+    "Color grading",
+    "Shadows/Midtones/Highlights color control",
+    "Export As dialog",
+    "Color space conversion",
+    "sRGB color profile",
+    "Embed color profile",
+    "Metadata handling",
+    "Image resampling (by cubic automatic)",
+    "Image scaling (1x and 0.5x)",
+    "Export folder organization"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:18",
+      "title": "Intro and export plan",
+      "concepts": [
+        "Day 28 of 30 Days of Photoshop",
+        "Two-format export strategy (PSD + JPEG)"
+      ],
+      "description": "The host introduces the goal of exporting images for sharing and emphasizes saving in two formats: a layered PSD for future edits and a flattened JPEG for print/web/social use."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:02:02",
+      "title": "Background replacement with Generative Fill",
+      "concepts": [
+        "Selection brush tool",
+        "Background isolation",
+        "Generative Fill to replace scenery"
+      ],
+      "description": "The subject’s background is selected and replaced using Generative Fill (Nature planes), aiming to create a natural hiking scene by removing city elements in the backdrop."
+    },
+    {
+      "start": "00:02:02",
+      "end": "00:02:28",
+      "title": "Generating background variations",
+      "concepts": [
+        "Firefly image 3",
+        "Iterative variation",
+        "Subject placement in new background"
+      ],
+      "description": "Multiple generated variations are previewed, selecting a result that places the subject in a more adventurous, natural setting."
+    },
+    {
+      "start": "00:02:28",
+      "end": "00:02:55",
+      "title": "Hat logo removal",
+      "concepts": [
+        "Healing/remove tool",
+        "Layer-based editing"
+      ],
+      "description": "The logo on the hat is removed with a painting/erase approach, demonstrating targeted object removal on a separate layer."
+    },
+    {
+      "start": "00:02:55",
+      "end": "00:04:35",
+      "title": "Layered editing setup and Apply Image workflow",
+      "concepts": [
+        "Create new layer",
+        "Apply Image",
+        "Smart object prep"
+      ],
+      "description": "A new layer is created and Apply Image is used to composite the edits onto that layer, preparing the file for non-destructive edits via smart filters."
+    },
+    {
+      "start": "00:04:35",
+      "end": "00:05:55",
+      "title": "Camera Raw adjustments and smart filters",
+      "concepts": [
+        "Convert for Smart Filters",
+        "Camera Raw filter",
+        "Radial vignette",
+        "Center emphasis"
+      ],
+      "description": "The image is converted to a Smart Object to enable non-destructive Camera Raw edits, including a radial vignette and targeted color grading (shadows, midtones, highlights)."
+    },
+    {
+      "start": "00:05:55",
+      "end": "00:08:04",
+      "title": "Saving: PSD vs. other formats",
+      "concepts": [
+        "Save As",
+        "PSD vs Large Document vs TIFF",
+        "Importance of layered file"
+      ],
+      "description": "The workflow covers saving a layered PSD (exported file with all layers intact) and explains when to use Large Document or TIFF options for different pipelines."
+    },
+    {
+      "start": "00:08:04",
+      "end": "00:11:20",
+      "title": "Export As workflow and deliverables",
+      "concepts": [
+        "Export As dialog",
+        "JPEG for web/social",
+        "Quality vs file size",
+        "Color space: sRGB and embedded profile",
+        "Image scale: 1x and 0.5x",
+        "Metadata handling",
+        "Resolution and resampling (by cubic automatic)"
+      ],
+      "description": "Export As settings are walked through in detail, with guidance on choosing JPEG as the default for sharing, adjusting quality, embedding sRGB color profiles, and producing multiple sizes (including a half-size variant) from a single document. The session ends with folder organization and reminders to preserve both layered and flattened outputs."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Generative Fill to replace background with nature backdrop",
+      "timestamp": "00:01:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Logo removal on hat using remove/paint approach",
+      "timestamp": "00:02:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Convert for Smart Filters and apply Camera Raw filter with radial vignette and color grading",
+      "timestamp": "00:04:10",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Export As workflow: JPEGs, 1x and 0.5x, with sRGB color space and embedded profile",
+      "timestamp": "00:09:00",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:54:00.471986+00:00"
+}

@@ -1,0 +1,2479 @@
+{
+  "kind": "watchcraft.collection",
+  "schema_version": 4,
+  "collection_id": "photoshop-advanced-course-masking-retouching-3d-lighting-and-cameras",
+  "title": "Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras",
+  "topic_scope": "collection",
+  "topic_normalization": {
+    "schema_version": 1,
+    "prompt_version": 2,
+    "model": "gpt-5.4-mini",
+    "source_hash": "27acc1ece4e078a3064b3e8bb821cf3947846199e15a06b44c6299d9ec18977a"
+  },
+  "root": {
+    "type": "group",
+    "group_id": "root",
+    "title": "Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras",
+    "children": [
+      {
+        "type": "video",
+        "item_id": "video-photoshop-advanced-course-masking-retouching-3d--7898e210"
+      },
+      {
+        "type": "video",
+        "item_id": "video-photoshop-advanced-course-masking-retouching-3d--bda9a9e8"
+      },
+      {
+        "type": "video",
+        "item_id": "video-photoshop-advanced-course-masking-retouching-3d--306ebfb2"
+      },
+      {
+        "type": "video",
+        "item_id": "video-photoshop-advanced-course-masking-retouching-3d--2810113f"
+      }
+    ]
+  },
+  "topics": {
+    "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6": {
+      "topic_id": "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6",
+      "canonical_key": "- adjusting extrusion depth and 3d object alignment",
+      "label": "Extrusion Depth Control",
+      "aliases": [
+        "- Adjusting extrusion depth and 3D object alignment"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "related_topic_ids": [
+        "topic-extrusion-workflow-for-text-and-shapes-8839103e",
+        "topic-importing-vector-logos-via-place-embedded-and-ex-14301359",
+        "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e",
+        "topic-postcard-3d-workflow-background-planes-400d07e1"
+      ]
+    },
+    "topic-class-project-instructions-and-sharing-results-0ce50650": {
+      "topic_id": "topic-class-project-instructions-and-sharing-results-0ce50650",
+      "canonical_key": "- class project instructions and sharing results",
+      "label": "Class Project Sharing",
+      "aliases": [
+        "- Class project instructions and sharing results"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "related_topic_ids": [
+        "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+        "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853"
+      ]
+    },
+    "topic-depth-of-field-and-camera-controls-rad-view-a98dfee4": {
+      "topic_id": "topic-depth-of-field-and-camera-controls-rad-view-a98dfee4",
+      "canonical_key": "- depth of field and camera controls (rad view)",
+      "label": "Depth of Field",
+      "aliases": [
+        "- Depth of Field and camera controls (Rad View)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-camera-and-view-f07dd3a9"
+      ],
+      "related_topic_ids": [
+        "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72",
+        "topic-saving-and-switching-between-camera-views-rad-vi-2a5dc0c5"
+      ]
+    },
+    "topic-extrusion-workflow-for-text-and-shapes-8839103e": {
+      "topic_id": "topic-extrusion-workflow-for-text-and-shapes-8839103e",
+      "canonical_key": "- extrusion workflow for text and shapes",
+      "label": "Text Extrusion Workflow",
+      "aliases": [
+        "- Extrusion workflow for text and shapes"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6",
+        "topic-importing-vector-logos-via-place-embedded-and-ex-14301359",
+        "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e",
+        "topic-postcard-3d-workflow-background-planes-400d07e1"
+      ]
+    },
+    "topic-fake-3d-2-5d-with-gradient-ellipses-and-mixer-br-c67a0be8": {
+      "topic_id": "topic-fake-3d-2-5d-with-gradient-ellipses-and-mixer-br-c67a0be8",
+      "canonical_key": "- fake 3d / 2.5d with gradient ellipses and mixer brush",
+      "label": "Fake 3D Techniques",
+      "aliases": [
+        "- Fake 3D / 2.5D with gradient ellipses and Mixer Brush"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-fake-3d-effects-2871cdf1"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15": {
+      "topic_id": "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15",
+      "canonical_key": "- ground plane, environment/shadow settings, and how to disable unwanted planes",
+      "label": "Ground Plane Settings",
+      "aliases": [
+        "- Ground plane, environment/shadow settings, and how to disable unwanted planes"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "related_topic_ids": [
+        "topic-interacting-with-multiple-lights-and-combined-li-f2314675",
+        "topic-lighting-types-infinite-light-environmental-ibl--061e3bb5",
+        "topic-shadow-softness-light-color-intensity-and-hotspo-9e9a7568"
+      ]
+    },
+    "topic-importing-vector-logos-via-place-embedded-and-ex-14301359": {
+      "topic_id": "topic-importing-vector-logos-via-place-embedded-and-ex-14301359",
+      "canonical_key": "- importing vector logos via place embedded and extruding them",
+      "label": "Vector Logo Extrusion",
+      "aliases": [
+        "- Importing vector logos via Place Embedded and extruding them"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6",
+        "topic-extrusion-workflow-for-text-and-shapes-8839103e",
+        "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e",
+        "topic-postcard-3d-workflow-background-planes-400d07e1"
+      ]
+    },
+    "topic-interacting-with-multiple-lights-and-combined-li-f2314675": {
+      "topic_id": "topic-interacting-with-multiple-lights-and-combined-li-f2314675",
+      "canonical_key": "- interacting with multiple lights and combined lighting results",
+      "label": "Multi Light Scene",
+      "aliases": [
+        "- Interacting with multiple lights and combined lighting results"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "related_topic_ids": [
+        "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15",
+        "topic-lighting-types-infinite-light-environmental-ibl--061e3bb5",
+        "topic-shadow-softness-light-color-intensity-and-hotspo-9e9a7568"
+      ]
+    },
+    "topic-lighting-types-infinite-light-environmental-ibl--061e3bb5": {
+      "topic_id": "topic-lighting-types-infinite-light-environmental-ibl--061e3bb5",
+      "canonical_key": "- lighting types (infinite light, environmental ibl, point light, spotlight)",
+      "label": "3D Light Types",
+      "aliases": [
+        "- Lighting types (Infinite Light, Environmental IBL, Point Light, Spotlight)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "related_topic_ids": [
+        "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15",
+        "topic-interacting-with-multiple-lights-and-combined-li-f2314675",
+        "topic-shadow-softness-light-color-intensity-and-hotspo-9e9a7568"
+      ]
+    },
+    "topic-loading-additional-materials-from-adobe-get-more-fadd8cfc": {
+      "topic_id": "topic-loading-additional-materials-from-adobe-get-more-fadd8cfc",
+      "canonical_key": "- loading additional materials from adobe (get more content)",
+      "label": "Adobe Materials Library",
+      "aliases": [
+        "- Loading additional materials from Adobe (Get More Content)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-texturing-6e8d09a8"
+      ],
+      "related_topic_ids": [
+        "topic-materials-and-textures-diffusion-color-reflectio-597aab97"
+      ]
+    },
+    "topic-materials-and-textures-diffusion-color-reflectio-597aab97": {
+      "topic_id": "topic-materials-and-textures-diffusion-color-reflectio-597aab97",
+      "canonical_key": "- materials and textures (diffusion color, reflection, roughness, bump, opacity)",
+      "label": "3D Material Textures",
+      "aliases": [
+        "- Materials and textures (diffusion color, reflection, roughness, bump, opacity)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-texturing-6e8d09a8"
+      ],
+      "related_topic_ids": [
+        "topic-loading-additional-materials-from-adobe-get-more-fadd8cfc"
+      ]
+    },
+    "topic-merging-multiple-3d-layers-into-a-single-scene-d52aef95": {
+      "topic_id": "topic-merging-multiple-3d-layers-into-a-single-scene-d52aef95",
+      "canonical_key": "- merging multiple 3d layers into a single scene",
+      "label": "Merge 3D Layers",
+      "aliases": [
+        "- Merging multiple 3D layers into a single scene"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-scene-assembly-0f119508"
+      ],
+      "related_topic_ids": [
+        "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72"
+      ]
+    },
+    "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72": {
+      "topic_id": "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72",
+      "canonical_key": "- moving/manipulating 3d objects and camera with 3d tools",
+      "label": "3D Move and Camera",
+      "aliases": [
+        "- Moving/manipulating 3D objects and camera with 3D tools"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-camera-and-view-f07dd3a9",
+        "family-3d-scene-assembly-0f119508"
+      ],
+      "related_topic_ids": [
+        "topic-depth-of-field-and-camera-controls-rad-view-a98dfee4",
+        "topic-merging-multiple-3d-layers-into-a-single-scene-d52aef95",
+        "topic-saving-and-switching-between-camera-views-rad-vi-2a5dc0c5"
+      ]
+    },
+    "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e": {
+      "topic_id": "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e",
+      "canonical_key": "- path-based 3d (pen/curvature tool) and interlocking text effects",
+      "label": "Path Based 3D",
+      "aliases": [
+        "- Path-based 3D (Pen/Curvature Tool) and interlocking text effects"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6",
+        "topic-extrusion-workflow-for-text-and-shapes-8839103e",
+        "topic-importing-vector-logos-via-place-embedded-and-ex-14301359",
+        "topic-postcard-3d-workflow-background-planes-400d07e1"
+      ]
+    },
+    "topic-photoshop-3d-prerequisites-64-bit-vram-requireme-420a725a": {
+      "topic_id": "topic-photoshop-3d-prerequisites-64-bit-vram-requireme-420a725a",
+      "canonical_key": "- photoshop 3d prerequisites (64-bit, vram requirements)",
+      "label": "3D Requirements",
+      "aliases": [
+        "- Photoshop 3D prerequisites (64-bit, VRAM requirements)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-setup-and-workspace-cad14164"
+      ],
+      "related_topic_ids": [
+        "topic-3d-in-photoshop-158a3df1",
+        "topic-photoshop-3d-workspace-setup-window-workspace-3d-c78a5892"
+      ]
+    },
+    "topic-photoshop-3d-workspace-setup-window-workspace-3d-c78a5892": {
+      "topic_id": "topic-photoshop-3d-workspace-setup-window-workspace-3d-c78a5892",
+      "canonical_key": "- photoshop 3d workspace setup (window > workspace > 3d; reset 3d)",
+      "label": "3D Workspace Setup",
+      "aliases": [
+        "- Photoshop 3D workspace setup (Window > Workspace > 3D; Reset 3D)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-setup-and-workspace-cad14164"
+      ],
+      "related_topic_ids": [
+        "topic-3d-in-photoshop-158a3df1",
+        "topic-photoshop-3d-prerequisites-64-bit-vram-requireme-420a725a"
+      ]
+    },
+    "topic-postcard-3d-workflow-background-planes-400d07e1": {
+      "topic_id": "topic-postcard-3d-workflow-background-planes-400d07e1",
+      "canonical_key": "- postcard 3d workflow (background planes)",
+      "label": "Postcard 3D Workflow",
+      "aliases": [
+        "- Postcard 3D workflow (background planes)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-modeling-workflow-409bbc4d"
+      ],
+      "related_topic_ids": [
+        "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6",
+        "topic-extrusion-workflow-for-text-and-shapes-8839103e",
+        "topic-importing-vector-logos-via-place-embedded-and-ex-14301359",
+        "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e"
+      ]
+    },
+    "topic-render-performance-tips-image-size-vram-shadow-q-c360b183": {
+      "topic_id": "topic-render-performance-tips-image-size-vram-shadow-q-c360b183",
+      "canonical_key": "- render performance tips (image size, vram, shadow quality, performance preferences)",
+      "label": "Render Performance Tips",
+      "aliases": [
+        "- Render performance tips (Image Size, VRAM, Shadow Quality, Performance preferences)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-rendering-and-export-3a4b5a50"
+      ],
+      "related_topic_ids": [
+        "topic-rendering-basics-and-previews-render-esc-to-stop-781d7035",
+        "topic-rendering-exports-saving-as-jpeg-turning-3d-off--e76be328"
+      ]
+    },
+    "topic-rendering-basics-and-previews-render-esc-to-stop-781d7035": {
+      "topic_id": "topic-rendering-basics-and-previews-render-esc-to-stop-781d7035",
+      "canonical_key": "- rendering basics and previews (render, esc to stop, rectangle marquee for partial renders)",
+      "label": "Rendering Basics",
+      "aliases": [
+        "- Rendering basics and previews (Render, Esc to stop, Rectangle Marquee for partial renders)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-rendering-and-export-3a4b5a50"
+      ],
+      "related_topic_ids": [
+        "topic-render-performance-tips-image-size-vram-shadow-q-c360b183",
+        "topic-rendering-exports-saving-as-jpeg-turning-3d-off--e76be328"
+      ]
+    },
+    "topic-rendering-exports-saving-as-jpeg-turning-3d-off--e76be328": {
+      "topic_id": "topic-rendering-exports-saving-as-jpeg-turning-3d-off--e76be328",
+      "canonical_key": "- rendering exports (saving as jpeg, turning 3d off, importing into indesign/illustrator)",
+      "label": "Render Export Workflow",
+      "aliases": [
+        "- Rendering exports (Saving as JPEG, turning 3D off, importing into InDesign/Illustrator)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-rendering-and-export-3a4b5a50"
+      ],
+      "related_topic_ids": [
+        "topic-render-performance-tips-image-size-vram-shadow-q-c360b183",
+        "topic-rendering-basics-and-previews-render-esc-to-stop-781d7035"
+      ]
+    },
+    "topic-saving-and-switching-between-camera-views-rad-vi-2a5dc0c5": {
+      "topic_id": "topic-saving-and-switching-between-camera-views-rad-vi-2a5dc0c5",
+      "canonical_key": "- saving and switching between camera views (rad view, current view, scene)",
+      "label": "Camera View Switching",
+      "aliases": [
+        "- Saving and switching between camera views (Rad View, Current View, Scene)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-camera-and-view-f07dd3a9"
+      ],
+      "related_topic_ids": [
+        "topic-depth-of-field-and-camera-controls-rad-view-a98dfee4",
+        "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72"
+      ]
+    },
+    "topic-shadow-softness-light-color-intensity-and-hotspo-9e9a7568": {
+      "topic_id": "topic-shadow-softness-light-color-intensity-and-hotspo-9e9a7568",
+      "canonical_key": "- shadow softness, light color, intensity, and hotspot controls",
+      "label": "Shadow and Light",
+      "aliases": [
+        "- Shadow softness, light color, intensity, and hotspot controls"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-lighting-92e089d4"
+      ],
+      "related_topic_ids": [
+        "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15",
+        "topic-interacting-with-multiple-lights-and-combined-li-f2314675",
+        "topic-lighting-types-infinite-light-environmental-ibl--061e3bb5"
+      ]
+    },
+    "topic-3d-in-photoshop-158a3df1": {
+      "topic_id": "topic-3d-in-photoshop-158a3df1",
+      "canonical_key": "3d in photoshop",
+      "label": "3D in Photoshop",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-3d-setup-and-workspace-cad14164"
+      ],
+      "related_topic_ids": [
+        "topic-photoshop-3d-prerequisites-64-bit-vram-requireme-420a725a",
+        "topic-photoshop-3d-workspace-setup-window-workspace-3d-c78a5892"
+      ]
+    },
+    "topic-adjustment-layers-93bdeff0": {
+      "topic_id": "topic-adjustment-layers-93bdeff0",
+      "canonical_key": "adjustment layers",
+      "label": "Adjustment Layers",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "related_topic_ids": [
+        "topic-hue-saturation-3aee640d",
+        "topic-levels-and-curves-adjustments-e816102c",
+        "topic-vibrance-aed87f3e"
+      ]
+    },
+    "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64": {
+      "topic_id": "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+      "canonical_key": "advanced retouching: healing, cloning, patching; teeth and eye corrections",
+      "label": "Advanced Retouching",
+      "aliases": [
+        "Advanced retouching: healing, cloning, patching; teeth and eye corrections"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-portrait-retouching-9c376815",
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-clone-source-512a4a4a",
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-healing-brush-e0c6d32a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea",
+        "topic-spot-healing-brush-e69081ac"
+      ]
+    },
+    "topic-advanced-selection-techniques-3415e289": {
+      "topic_id": "topic-advanced-selection-techniques-3415e289",
+      "canonical_key": "advanced selection techniques",
+      "label": "Advanced Selection Techniques",
+      "aliases": [
+        "Advanced selection techniques"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-masking-efficiency-3b71f542",
+        "topic-save-selections-ec64c6e3",
+        "topic-selection-preview-a94afc9f"
+      ]
+    },
+    "topic-artboards-and-social-media-post-sizing-6a38acce": {
+      "topic_id": "topic-artboards-and-social-media-post-sizing-6a38acce",
+      "canonical_key": "artboards and social media post sizing",
+      "label": "Artboards and Social Posts",
+      "aliases": [
+        "Artboards and social media post sizing"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-typography-and-layout-24770b41"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-channel-mask-f254c801": {
+      "topic_id": "topic-channel-mask-f254c801",
+      "canonical_key": "channel mask",
+      "label": "Channel Mask",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-masking-efficiency-3b71f542",
+        "topic-p-key-toggle-mask-visibility-7a3c93f6",
+        "topic-select-mask-dcad784c",
+        "topic-smart-radius-5c4a77e7"
+      ]
+    },
+    "topic-channel-mask-workflow-with-focus-area-dbe30a2f": {
+      "topic_id": "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+      "canonical_key": "channel mask workflow with focus area",
+      "label": "Focus Area Masking",
+      "aliases": [
+        "Channel Mask workflow with Focus Area"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-f254c801",
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-focus-area-f2894edf",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-select-mask-dcad784c"
+      ]
+    },
+    "topic-class-projects-and-workflow-guidance-5eaf1f6f": {
+      "topic_id": "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+      "canonical_key": "class projects and workflow guidance",
+      "label": "Project Workflow Guidance",
+      "aliases": [
+        "Class projects and workflow guidance"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "related_topic_ids": [
+        "topic-class-project-instructions-and-sharing-results-0ce50650",
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+        "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853",
+        "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe",
+        "topic-revert-file-and-history-states-9885ce53"
+      ]
+    },
+    "topic-clone-source-512a4a4a": {
+      "topic_id": "topic-clone-source-512a4a4a",
+      "canonical_key": "clone source",
+      "label": "Clone Source Panel",
+      "aliases": [
+        "Clone Source"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-spot-healing-brush-e69081ac"
+      ]
+    },
+    "topic-clone-tool-stamp-dcc9890a": {
+      "topic_id": "topic-clone-tool-stamp-dcc9890a",
+      "canonical_key": "clone tool stamp",
+      "label": "Clone Stamp Tool",
+      "aliases": [
+        "Clone Tool Stamp"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-clone-source-512a4a4a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4": {
+      "topic_id": "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+      "canonical_key": "color balance / levels / hue/saturation (skin tone work)",
+      "label": "Skin Tone Adjustments",
+      "aliases": [
+        "Color Balance / Levels / Hue/Saturation (skin tone work)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15",
+        "family-portrait-retouching-9c376815"
+      ],
+      "related_topic_ids": [
+        "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+        "topic-hue-saturation-3aee640d",
+        "topic-levels-and-curves-adjustments-e816102c",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4",
+        "topic-sponge-tool-color-saturation-in-eyes-4830db97",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ]
+    },
+    "topic-color-range-dabfd3ab": {
+      "topic_id": "topic-color-range-dabfd3ab",
+      "canonical_key": "color range",
+      "label": "Color Range",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "related_topic_ids": [
+        "topic-color-range-skin-tones-cf139f77",
+        "topic-localized-color-clusters-30ef2699",
+        "topic-vibrance-aed87f3e"
+      ]
+    },
+    "topic-color-range-skin-tones-cf139f77": {
+      "topic_id": "topic-color-range-skin-tones-cf139f77",
+      "canonical_key": "color range skin tones",
+      "label": "Skin Tone Range",
+      "aliases": [
+        "Color Range Skin Tones"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "related_topic_ids": [
+        "topic-color-range-dabfd3ab",
+        "topic-localized-color-clusters-30ef2699",
+        "topic-quick-selection-skin-tone-selection-163fb2b6",
+        "topic-vibrance-aed87f3e"
+      ]
+    },
+    "topic-copy-paste-layer-mask-010e3027": {
+      "topic_id": "topic-copy-paste-layer-mask-010e3027",
+      "canonical_key": "copy/paste layer mask",
+      "label": "Layer Mask Copy",
+      "aliases": [
+        "Copy/Paste Layer Mask"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-f254c801",
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-select-mask-dcad784c",
+        "topic-smart-objects-7f4fcde1"
+      ]
+    },
+    "topic-creating-more-of-something-content-generation-57340c00": {
+      "topic_id": "topic-creating-more-of-something-content-generation-57340c00",
+      "canonical_key": "creating more of something (content generation)",
+      "label": "Content Generation",
+      "aliases": [
+        "Creating more of something (content generation)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-content-aware-and-generation-01aa5eb7"
+      ],
+      "related_topic_ids": [
+        "topic-object-removal-and-content-aware-techniques-f701d7f0"
+      ]
+    },
+    "topic-decontaminate-colors-e64874c7": {
+      "topic_id": "topic-decontaminate-colors-e64874c7",
+      "canonical_key": "decontaminate colors",
+      "label": "Color Decontamination",
+      "aliases": [
+        "Decontaminate Colors"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7"
+      ]
+    },
+    "topic-distortion-bending-and-reshaping-images-298ac849": {
+      "topic_id": "topic-distortion-bending-and-reshaping-images-298ac849",
+      "canonical_key": "distortion, bending, and reshaping images",
+      "label": "Liquify and Reshape",
+      "aliases": [
+        "Distortion, bending, and reshaping images"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-dodge-burn-for-eyes-698bc8e3": {
+      "topic_id": "topic-dodge-burn-for-eyes-698bc8e3",
+      "canonical_key": "dodge & burn for eyes",
+      "label": "Eye Dodge and Burn",
+      "aliases": [
+        "Dodge & Burn for eyes"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-portrait-retouching-9c376815",
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+        "topic-sample-all-layers-7d790987",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4",
+        "topic-sponge-tool-color-saturation-in-eyes-4830db97",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ]
+    },
+    "topic-downloadable-exercise-files-and-class-projects-f01fdbd9": {
+      "topic_id": "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+      "canonical_key": "downloadable exercise files and class projects",
+      "label": "Exercise Files",
+      "aliases": [
+        "Downloadable exercise files and class projects"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "related_topic_ids": [
+        "topic-class-project-instructions-and-sharing-results-0ce50650",
+        "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+        "topic-enlarging-images-without-distortion-9ab467ed",
+        "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853",
+        "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe",
+        "topic-revert-file-and-history-states-9885ce53"
+      ]
+    },
+    "topic-drop-shadow-and-layer-styles-f4632c10": {
+      "topic_id": "topic-drop-shadow-and-layer-styles-f4632c10",
+      "canonical_key": "drop shadow and layer styles",
+      "label": "Drop Shadow Styles",
+      "aliases": [
+        "Drop Shadow and Layer Styles"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-special-effects-d32524c2"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-edge-detection-58fce7d6": {
+      "topic_id": "topic-edge-detection-58fce7d6",
+      "canonical_key": "edge detection",
+      "label": "Edge Detection",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7"
+      ]
+    },
+    "topic-enlarging-images-without-distortion-9ab467ed": {
+      "topic_id": "topic-enlarging-images-without-distortion-9ab467ed",
+      "canonical_key": "enlarging images without distortion",
+      "label": "Image Upsizing",
+      "aliases": [
+        "Enlarging images without distortion"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "related_topic_ids": [
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+        "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe"
+      ]
+    },
+    "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853": {
+      "topic_id": "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853",
+      "canonical_key": "exercise files and class projects in '10 retouching' folder",
+      "label": "Retouching Exercise Files",
+      "aliases": [
+        "Exercise files and class projects in '10 Retouching' folder"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "related_topic_ids": [
+        "topic-class-project-instructions-and-sharing-results-0ce50650",
+        "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+        "topic-revert-file-and-history-states-9885ce53"
+      ]
+    },
+    "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c": {
+      "topic_id": "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+      "canonical_key": "eyes enhancement (breath of realism vs. faking)",
+      "label": "Eye Enhancement",
+      "aliases": [
+        "Eyes enhancement (breath of realism vs. faking)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-portrait-retouching-9c376815"
+      ],
+      "related_topic_ids": [
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4",
+        "topic-sponge-tool-color-saturation-in-eyes-4830db97"
+      ]
+    },
+    "topic-face-aware-liquify-3c1679c8": {
+      "topic_id": "topic-face-aware-liquify-3c1679c8",
+      "canonical_key": "face aware liquify",
+      "label": "Face-Aware Liquify",
+      "aliases": [
+        "Face Aware Liquify"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "related_topic_ids": [
+        "topic-forward-warp-face-tool-f2b65f58",
+        "topic-liquify-b20c728b",
+        "topic-smart-object-for-liquify-0feb80ca"
+      ]
+    },
+    "topic-fade-patch-selection-0ec2a373": {
+      "topic_id": "topic-fade-patch-selection-0ec2a373",
+      "canonical_key": "fade patch selection",
+      "label": "Patch Tool Cleanup",
+      "aliases": [
+        "Fade Patch Selection"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-healing-brush-e0c6d32a",
+        "topic-patch-tool-de36f8d7",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-spot-healing-brush-e69081ac"
+      ]
+    },
+    "topic-focus-area-f2894edf": {
+      "topic_id": "topic-focus-area-f2894edf",
+      "canonical_key": "focus area",
+      "label": "Focus Area",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7"
+      ]
+    },
+    "topic-forward-warp-face-tool-f2b65f58": {
+      "topic_id": "topic-forward-warp-face-tool-f2b65f58",
+      "canonical_key": "forward warp / face tool",
+      "label": "Forward Warp Tool",
+      "aliases": [
+        "Forward Warp / Face Tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "related_topic_ids": [
+        "topic-face-aware-liquify-3c1679c8",
+        "topic-liquify-b20c728b",
+        "topic-smart-object-for-liquify-0feb80ca"
+      ]
+    },
+    "topic-group-mask-67ab515a": {
+      "topic_id": "topic-group-mask-67ab515a",
+      "canonical_key": "group mask",
+      "label": "Group Masking",
+      "aliases": [
+        "Group Mask"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-f254c801",
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-layer-masks-dd6eb406",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-masking-efficiency-3b71f542",
+        "topic-p-key-toggle-mask-visibility-7a3c93f6",
+        "topic-select-mask-dcad784c"
+      ]
+    },
+    "topic-hard-and-blurry-image-fixes-cc82c23b": {
+      "topic_id": "topic-hard-and-blurry-image-fixes-cc82c23b",
+      "canonical_key": "hard and blurry image fixes",
+      "label": "Blur Sharpen Fixes",
+      "aliases": [
+        "Hard and blurry image fixes"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "related_topic_ids": [
+        "topic-levels-and-curves-adjustments-e816102c"
+      ]
+    },
+    "topic-healing-brush-e0c6d32a": {
+      "topic_id": "topic-healing-brush-e0c6d32a",
+      "canonical_key": "healing brush",
+      "label": "Healing Brush",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-fade-patch-selection-0ec2a373",
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+        "topic-patch-tool-de36f8d7",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-sample-all-layers-7d790987",
+        "topic-spot-healing-brush-e69081ac",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-hue-saturation-3aee640d": {
+      "topic_id": "topic-hue-saturation-3aee640d",
+      "canonical_key": "hue/saturation",
+      "label": "Hue Saturation",
+      "aliases": [
+        "Hue/Saturation"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "related_topic_ids": [
+        "topic-adjustment-layers-93bdeff0",
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-vibrance-aed87f3e"
+      ]
+    },
+    "topic-layer-masks-dd6eb406": {
+      "topic_id": "topic-layer-masks-dd6eb406",
+      "canonical_key": "layer masks",
+      "label": "Layer Masks",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-f254c801",
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-group-mask-67ab515a",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-masking-efficiency-3b71f542",
+        "topic-p-key-toggle-mask-visibility-7a3c93f6",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-save-selections-ec64c6e3",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-select-subject-f0c7e348",
+        "topic-smart-objects-7f4fcde1"
+      ]
+    },
+    "topic-layering-and-non-destructive-editing-b7977534": {
+      "topic_id": "topic-layering-and-non-destructive-editing-b7977534",
+      "canonical_key": "layering and non-destructive editing",
+      "label": "Non-Destructive Editing",
+      "aliases": [
+        "Layering and non-destructive editing"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "related_topic_ids": [
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-sample-all-layers-7d790987",
+        "topic-smart-object-for-liquify-0feb80ca",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ]
+    },
+    "topic-levels-and-curves-adjustments-e816102c": {
+      "topic_id": "topic-levels-and-curves-adjustments-e816102c",
+      "canonical_key": "levels and curves adjustments",
+      "label": "Levels Curves",
+      "aliases": [
+        "Levels and curves adjustments"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15"
+      ],
+      "related_topic_ids": [
+        "topic-adjustment-layers-93bdeff0",
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-hard-and-blurry-image-fixes-cc82c23b",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea"
+      ]
+    },
+    "topic-liquify-b20c728b": {
+      "topic_id": "topic-liquify-b20c728b",
+      "canonical_key": "liquify",
+      "label": "Liquify Retouching",
+      "aliases": [
+        "Liquify"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "related_topic_ids": [
+        "topic-face-aware-liquify-3c1679c8",
+        "topic-forward-warp-face-tool-f2b65f58",
+        "topic-smart-object-for-liquify-0feb80ca"
+      ]
+    },
+    "topic-localized-color-clusters-30ef2699": {
+      "topic_id": "topic-localized-color-clusters-30ef2699",
+      "canonical_key": "localized color clusters",
+      "label": "Color Clusters",
+      "aliases": [
+        "Localized Color Clusters"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "related_topic_ids": [
+        "topic-color-range-dabfd3ab",
+        "topic-color-range-skin-tones-cf139f77",
+        "topic-vibrance-aed87f3e"
+      ]
+    },
+    "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1": {
+      "topic_id": "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+      "canonical_key": "lock/align sampling with aligned on/off",
+      "label": "Aligned Sampling",
+      "aliases": [
+        "Lock/align sampling with Aligned On/Off"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-healing-brush-e0c6d32a",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-masking-and-feathering-on-groups-9116f116": {
+      "topic_id": "topic-masking-and-feathering-on-groups-9116f116",
+      "canonical_key": "masking and feathering on groups",
+      "label": "Group Feathering",
+      "aliases": [
+        "Masking and feathering on Groups"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-layering-and-non-destructive-editing-b7977534",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-smart-object-for-liquify-0feb80ca",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ]
+    },
+    "topic-masking-efficiency-3b71f542": {
+      "topic_id": "topic-masking-efficiency-3b71f542",
+      "canonical_key": "masking efficiency",
+      "label": "Masking Efficiency",
+      "aliases": [
+        "Masking efficiency"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-selection-techniques-3415e289",
+        "topic-channel-mask-f254c801",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-select-mask-dcad784c"
+      ]
+    },
+    "topic-object-removal-and-content-aware-techniques-f701d7f0": {
+      "topic_id": "topic-object-removal-and-content-aware-techniques-f701d7f0",
+      "canonical_key": "object removal and content-aware techniques",
+      "label": "Content-Aware Removal",
+      "aliases": [
+        "Object removal and content-aware techniques"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-content-aware-and-generation-01aa5eb7"
+      ],
+      "related_topic_ids": [
+        "topic-creating-more-of-something-content-generation-57340c00"
+      ]
+    },
+    "topic-overlay-brush-for-edge-cleanup-93ee3e88": {
+      "topic_id": "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+      "canonical_key": "overlay brush for edge cleanup",
+      "label": "Overlay Brush Cleanup",
+      "aliases": [
+        "Overlay brush for edge cleanup"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-edge-detection-58fce7d6",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7",
+        "topic-x-key-toggle-foreground-background-f3e00b39"
+      ]
+    },
+    "topic-p-key-toggle-mask-visibility-7a3c93f6": {
+      "topic_id": "topic-p-key-toggle-mask-visibility-7a3c93f6",
+      "canonical_key": "p key toggle mask visibility",
+      "label": "Mask Preview Toggle",
+      "aliases": [
+        "P key toggle mask visibility"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-f254c801",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-select-mask-dcad784c",
+        "topic-x-key-toggle-foreground-background-f3e00b39"
+      ]
+    },
+    "topic-patch-tool-de36f8d7": {
+      "topic_id": "topic-patch-tool-de36f8d7",
+      "canonical_key": "patch tool",
+      "label": "Patch Tool",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-fade-patch-selection-0ec2a373",
+        "topic-healing-brush-e0c6d32a",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-spot-healing-brush-e69081ac",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-perspective-matching-with-vanishing-point-6facf48a": {
+      "topic_id": "topic-perspective-matching-with-vanishing-point-6facf48a",
+      "canonical_key": "perspective matching with vanishing point",
+      "label": "Vanishing Point",
+      "aliases": [
+        "Perspective matching with Vanishing Point"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-healing-brush-e0c6d32a",
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+        "topic-patch-tool-de36f8d7",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-spot-healing-brush-e69081ac",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-quick-selection-skin-tone-selection-163fb2b6": {
+      "topic_id": "topic-quick-selection-skin-tone-selection-163fb2b6",
+      "canonical_key": "quick selection / skin tone selection",
+      "label": "Quick Selection",
+      "aliases": [
+        "Quick Selection / Skin Tone selection"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-color-based-selection-e42e8d67"
+      ],
+      "related_topic_ids": [
+        "topic-color-range-skin-tones-cf139f77"
+      ]
+    },
+    "topic-retouch-layer-3c2e4e2e": {
+      "topic_id": "topic-retouch-layer-3c2e4e2e",
+      "canonical_key": "retouch layer",
+      "label": "Retouch Layer",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "related_topic_ids": [
+        "topic-layer-masks-dd6eb406",
+        "topic-layering-and-non-destructive-editing-b7977534",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-sample-all-layers-7d790987",
+        "topic-smart-object-for-liquify-0feb80ca",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ]
+    },
+    "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe": {
+      "topic_id": "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe",
+      "canonical_key": "reusable mock-ups and workflow optimization",
+      "label": "Workflow Optimization",
+      "aliases": [
+        "Reusable mock-ups and workflow optimization"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "related_topic_ids": [
+        "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+        "topic-enlarging-images-without-distortion-9ab467ed"
+      ]
+    },
+    "topic-revert-file-and-history-states-9885ce53": {
+      "topic_id": "topic-revert-file-and-history-states-9885ce53",
+      "canonical_key": "revert (file) and history states",
+      "label": "History States",
+      "aliases": [
+        "Revert (File) and history states"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "related_topic_ids": [
+        "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+        "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853"
+      ]
+    },
+    "topic-rotate-angle-sampling-in-clone-source-e3c48ba0": {
+      "topic_id": "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+      "canonical_key": "rotate/angle sampling in clone source",
+      "label": "Clone Source Rotation",
+      "aliases": [
+        "Rotate/angle sampling in Clone Source"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-clone-source-512a4a4a",
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-sample-all-layers-7d790987": {
+      "topic_id": "topic-sample-all-layers-7d790987",
+      "canonical_key": "sample all layers",
+      "label": "Sample All Layers",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-clone-source-512a4a4a",
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-fade-patch-selection-0ec2a373",
+        "topic-healing-brush-e0c6d32a",
+        "topic-layering-and-non-destructive-editing-b7977534",
+        "topic-patch-tool-de36f8d7",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-spot-healing-brush-e69081ac",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-save-selections-ec64c6e3": {
+      "topic_id": "topic-save-selections-ec64c6e3",
+      "canonical_key": "save selections",
+      "label": "Save Selections",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-selection-techniques-3415e289",
+        "topic-layer-masks-dd6eb406",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7"
+      ]
+    },
+    "topic-select-mask-dcad784c": {
+      "topic_id": "topic-select-mask-dcad784c",
+      "canonical_key": "select & mask",
+      "label": "Select and Mask",
+      "aliases": [
+        "Select & Mask"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-f254c801",
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-decontaminate-colors-e64874c7",
+        "topic-edge-detection-58fce7d6",
+        "topic-focus-area-f2894edf",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-masking-efficiency-3b71f542",
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-p-key-toggle-mask-visibility-7a3c93f6",
+        "topic-save-selections-ec64c6e3",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7",
+        "topic-x-key-toggle-foreground-background-f3e00b39"
+      ]
+    },
+    "topic-select-subject-f0c7e348": {
+      "topic_id": "topic-select-subject-f0c7e348",
+      "canonical_key": "select subject",
+      "label": "Select Subject",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-decontaminate-colors-e64874c7",
+        "topic-edge-detection-58fce7d6",
+        "topic-focus-area-f2894edf",
+        "topic-layer-masks-dd6eb406",
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-save-selections-ec64c6e3",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7",
+        "topic-x-key-toggle-foreground-background-f3e00b39"
+      ]
+    },
+    "topic-select-subject-1-5-exercises-9f78021d": {
+      "topic_id": "topic-select-subject-1-5-exercises-9f78021d",
+      "canonical_key": "select subject 1-5 exercises",
+      "label": "Subject Exercises",
+      "aliases": [
+        "Select Subject 1-5 exercises"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-decontaminate-colors-e64874c7",
+        "topic-layer-masks-dd6eb406",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7"
+      ]
+    },
+    "topic-selection-preview-a94afc9f": {
+      "topic_id": "topic-selection-preview-a94afc9f",
+      "canonical_key": "selection preview",
+      "label": "Selection Preview",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-selection-techniques-3415e289",
+        "topic-decontaminate-colors-e64874c7",
+        "topic-edge-detection-58fce7d6",
+        "topic-focus-area-f2894edf",
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-save-selections-ec64c6e3",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-select-subject-f0c7e348",
+        "topic-smart-radius-5c4a77e7",
+        "topic-x-key-toggle-foreground-background-f3e00b39"
+      ]
+    },
+    "topic-skin-tone-and-color-enhancements-7f7e0fea": {
+      "topic_id": "topic-skin-tone-and-color-enhancements-7f7e0fea",
+      "canonical_key": "skin tone and color enhancements",
+      "label": "Skin Tone Enhancements",
+      "aliases": [
+        "Skin tone and color enhancements"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15",
+        "family-portrait-retouching-9c376815"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+        "topic-levels-and-curves-adjustments-e816102c",
+        "topic-sponge-tool-color-saturation-in-eyes-4830db97"
+      ]
+    },
+    "topic-smart-object-for-liquify-0feb80ca": {
+      "topic_id": "topic-smart-object-for-liquify-0feb80ca",
+      "canonical_key": "smart object for liquify",
+      "label": "Liquify Smart Object",
+      "aliases": [
+        "Smart Object for Liquify"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-liquify-and-reshape-345e384b"
+      ],
+      "related_topic_ids": [
+        "topic-face-aware-liquify-3c1679c8",
+        "topic-forward-warp-face-tool-f2b65f58",
+        "topic-layering-and-non-destructive-editing-b7977534",
+        "topic-liquify-b20c728b",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-smart-objects-7f4fcde1"
+      ]
+    },
+    "topic-smart-objects-7f4fcde1": {
+      "topic_id": "topic-smart-objects-7f4fcde1",
+      "canonical_key": "smart objects",
+      "label": "Smart Object Workflow",
+      "aliases": [
+        "Smart Objects"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081"
+      ],
+      "related_topic_ids": [
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-layer-masks-dd6eb406",
+        "topic-smart-object-for-liquify-0feb80ca"
+      ]
+    },
+    "topic-smart-radius-5c4a77e7": {
+      "topic_id": "topic-smart-radius-5c4a77e7",
+      "canonical_key": "smart radius",
+      "label": "Select and Mask Radius",
+      "aliases": [
+        "Smart Radius"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-channel-mask-f254c801",
+        "topic-decontaminate-colors-e64874c7",
+        "topic-edge-detection-58fce7d6",
+        "topic-focus-area-f2894edf",
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-save-selections-ec64c6e3",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f"
+      ]
+    },
+    "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4": {
+      "topic_id": "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4",
+      "canonical_key": "soft light / multiply / hard light / luminosity (blending modes)",
+      "label": "Blending Modes for Eyes",
+      "aliases": [
+        "Soft Light / Multiply / Hard Light / Luminosity (Blending Modes)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-portrait-retouching-9c376815",
+        "family-special-effects-d32524c2"
+      ],
+      "related_topic_ids": [
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+        "topic-sponge-tool-color-saturation-in-eyes-4830db97",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ]
+    },
+    "topic-source-vs-destination-in-patch-tool-e993810c": {
+      "topic_id": "topic-source-vs-destination-in-patch-tool-e993810c",
+      "canonical_key": "source vs destination in patch tool",
+      "label": "Patch Tool Source Destination",
+      "aliases": [
+        "Source vs Destination in Patch Tool"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-clone-source-512a4a4a",
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-fade-patch-selection-0ec2a373",
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+        "topic-patch-tool-de36f8d7",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-sample-all-layers-7d790987",
+        "topic-spot-healing-brush-e69081ac",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ]
+    },
+    "topic-sponge-tool-color-saturation-in-eyes-4830db97": {
+      "topic_id": "topic-sponge-tool-color-saturation-in-eyes-4830db97",
+      "canonical_key": "sponge tool (color saturation in eyes)",
+      "label": "Sponge Tool",
+      "aliases": [
+        "Sponge Tool (color saturation in eyes)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-portrait-retouching-9c376815"
+      ],
+      "related_topic_ids": [
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4"
+      ]
+    },
+    "topic-spot-healing-brush-e69081ac": {
+      "topic_id": "topic-spot-healing-brush-e69081ac",
+      "canonical_key": "spot healing brush",
+      "label": "Spot Healing Brush",
+      "aliases": [],
+      "video_count": 1,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-clone-source-512a4a4a",
+        "topic-fade-patch-selection-0ec2a373",
+        "topic-healing-brush-e0c6d32a",
+        "topic-patch-tool-de36f8d7",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c"
+      ]
+    },
+    "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4": {
+      "topic_id": "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4",
+      "canonical_key": "teeth whitening (hue/saturation, white rectangle, layer masks)",
+      "label": "Teeth Whitening Workflow",
+      "aliases": [
+        "Teeth whitening (Hue/Saturation, White rectangle, Layer Masks)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-layers-and-smart-objects-19e35081",
+        "family-portrait-retouching-9c376815"
+      ],
+      "related_topic_ids": [
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-layering-and-non-destructive-editing-b7977534",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4"
+      ]
+    },
+    "topic-trending-visual-styles-duo-tones-glitches-color--122797ed": {
+      "topic_id": "topic-trending-visual-styles-duo-tones-glitches-color--122797ed",
+      "canonical_key": "trending visual styles: duo tones, glitches, color grading",
+      "label": "Duo Tones and Glitches",
+      "aliases": [
+        "Trending visual styles: Duo Tones, glitches, color grading"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-special-effects-d32524c2"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-typography-workflows-typekit-font-guessing-ligat-b8dc2f38": {
+      "topic_id": "topic-typography-workflows-typekit-font-guessing-ligat-b8dc2f38",
+      "canonical_key": "typography workflows: typekit, font guessing, ligatures, variable fonts",
+      "label": "Typography Workflows",
+      "aliases": [
+        "Typography workflows: Typekit, font guessing, ligatures, variable fonts"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-typography-and-layout-24770b41"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-vanishing-point-perspective-planes-walls-f5435ace": {
+      "topic_id": "topic-vanishing-point-perspective-planes-walls-f5435ace",
+      "canonical_key": "vanishing point (perspective planes / walls)",
+      "label": "Vanishing Point Tools",
+      "aliases": [
+        "Vanishing Point (perspective planes / walls)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-fake-3d-effects-2871cdf1",
+        "family-retouching-tools-09c908c4"
+      ],
+      "related_topic_ids": [
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-healing-brush-e0c6d32a",
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+        "topic-patch-tool-de36f8d7",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c"
+      ]
+    },
+    "topic-vibrance-aed87f3e": {
+      "topic_id": "topic-vibrance-aed87f3e",
+      "canonical_key": "vibrance",
+      "label": "Vibrance Adjustment",
+      "aliases": [
+        "Vibrance"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-adjustment-editing-a0887f15",
+        "family-color-based-selection-e42e8d67"
+      ],
+      "related_topic_ids": [
+        "topic-adjustment-layers-93bdeff0",
+        "topic-color-range-dabfd3ab",
+        "topic-color-range-skin-tones-cf139f77",
+        "topic-hue-saturation-3aee640d",
+        "topic-localized-color-clusters-30ef2699"
+      ]
+    },
+    "topic-video-editing-in-photoshop-parallax-and-cinemagr-35d5f5b5": {
+      "topic_id": "topic-video-editing-in-photoshop-parallax-and-cinemagr-35d5f5b5",
+      "canonical_key": "video editing in photoshop; parallax and cinemagraphs (living images)",
+      "label": "Photoshop Video Editing",
+      "aliases": [
+        "Video editing in Photoshop; parallax and Cinemagraphs (Living Images)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-motion-and-video-9f26bcd9"
+      ],
+      "related_topic_ids": []
+    },
+    "topic-x-key-toggle-foreground-background-f3e00b39": {
+      "topic_id": "topic-x-key-toggle-foreground-background-f3e00b39",
+      "canonical_key": "x key toggle foreground/background",
+      "label": "Foreground Background Toggle",
+      "aliases": [
+        "X key toggle foreground/background"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-selections-and-masking-4341d617"
+      ],
+      "related_topic_ids": [
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-p-key-toggle-mask-visibility-7a3c93f6",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f"
+      ]
+    }
+  },
+  "topic_families": {
+    "family-3d-camera-and-view-f07dd3a9": {
+      "family_id": "family-3d-camera-and-view-f07dd3a9",
+      "canonical_key": "3d camera and view",
+      "label": "3D Camera And View",
+      "description": "Covers navigating, saving, and switching camera views plus depth-of-field and viewport controls.",
+      "topic_ids": [
+        "topic-depth-of-field-and-camera-controls-rad-view-a98dfee4",
+        "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72",
+        "topic-saving-and-switching-between-camera-views-rad-vi-2a5dc0c5"
+      ],
+      "video_count": 1
+    },
+    "family-3d-lighting-92e089d4": {
+      "family_id": "family-3d-lighting-92e089d4",
+      "canonical_key": "3d lighting",
+      "label": "3D Lighting",
+      "description": "Covers light types, shadow behavior, intensity, color, and multi-light scene setup in Photoshop 3D.",
+      "topic_ids": [
+        "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15",
+        "topic-interacting-with-multiple-lights-and-combined-li-f2314675",
+        "topic-lighting-types-infinite-light-environmental-ibl--061e3bb5",
+        "topic-shadow-softness-light-color-intensity-and-hotspo-9e9a7568"
+      ],
+      "video_count": 1
+    },
+    "family-3d-modeling-workflow-409bbc4d": {
+      "family_id": "family-3d-modeling-workflow-409bbc4d",
+      "canonical_key": "3d modeling workflow",
+      "label": "3D Modeling Workflow",
+      "description": "Covers creating and aligning extruded text, logos, postcards, and other 3D object setups.",
+      "topic_ids": [
+        "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6",
+        "topic-extrusion-workflow-for-text-and-shapes-8839103e",
+        "topic-importing-vector-logos-via-place-embedded-and-ex-14301359",
+        "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e",
+        "topic-postcard-3d-workflow-background-planes-400d07e1"
+      ],
+      "video_count": 1
+    },
+    "family-3d-rendering-and-export-3a4b5a50": {
+      "family_id": "family-3d-rendering-and-export-3a4b5a50",
+      "canonical_key": "3d rendering and export",
+      "label": "3D Rendering And Export",
+      "description": "Covers preview rendering, performance tuning, final render output, and moving results into other apps.",
+      "topic_ids": [
+        "topic-render-performance-tips-image-size-vram-shadow-q-c360b183",
+        "topic-rendering-basics-and-previews-render-esc-to-stop-781d7035",
+        "topic-rendering-exports-saving-as-jpeg-turning-3d-off--e76be328"
+      ],
+      "video_count": 1
+    },
+    "family-3d-scene-assembly-0f119508": {
+      "family_id": "family-3d-scene-assembly-0f119508",
+      "canonical_key": "3d scene assembly",
+      "label": "3D Scene Assembly",
+      "description": "Covers combining 3D layers, manipulating objects, and organizing scene elements for a finished render.",
+      "topic_ids": [
+        "topic-merging-multiple-3d-layers-into-a-single-scene-d52aef95",
+        "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72"
+      ],
+      "video_count": 1
+    },
+    "family-3d-setup-and-workspace-cad14164": {
+      "family_id": "family-3d-setup-and-workspace-cad14164",
+      "canonical_key": "3d setup and workspace",
+      "label": "3D Setup And Workspace",
+      "description": "Covers prerequisites, workspace configuration, and general Photoshop 3D readiness.",
+      "topic_ids": [
+        "topic-3d-in-photoshop-158a3df1",
+        "topic-photoshop-3d-prerequisites-64-bit-vram-requireme-420a725a",
+        "topic-photoshop-3d-workspace-setup-window-workspace-3d-c78a5892"
+      ],
+      "video_count": 2
+    },
+    "family-3d-texturing-6e8d09a8": {
+      "family_id": "family-3d-texturing-6e8d09a8",
+      "canonical_key": "3d texturing",
+      "label": "3D Texturing",
+      "description": "Covers applying, loading, and adjusting materials and surface textures for Photoshop 3D objects.",
+      "topic_ids": [
+        "topic-loading-additional-materials-from-adobe-get-more-fadd8cfc",
+        "topic-materials-and-textures-diffusion-color-reflectio-597aab97"
+      ],
+      "video_count": 1
+    },
+    "family-adjustment-editing-a0887f15": {
+      "family_id": "family-adjustment-editing-a0887f15",
+      "canonical_key": "adjustment editing",
+      "label": "Adjustment Editing",
+      "description": "Covers tonal and color adjustments used for correction, enhancement, and targeted refinement.",
+      "topic_ids": [
+        "topic-adjustment-layers-93bdeff0",
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-hard-and-blurry-image-fixes-cc82c23b",
+        "topic-hue-saturation-3aee640d",
+        "topic-levels-and-curves-adjustments-e816102c",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea",
+        "topic-vibrance-aed87f3e"
+      ],
+      "video_count": 3
+    },
+    "family-color-based-selection-e42e8d67": {
+      "family_id": "family-color-based-selection-e42e8d67",
+      "canonical_key": "color-based selection",
+      "label": "Color-Based Selection",
+      "description": "Covers selecting subjects or regions by color, tones, and localized color clusters.",
+      "topic_ids": [
+        "topic-color-range-dabfd3ab",
+        "topic-color-range-skin-tones-cf139f77",
+        "topic-localized-color-clusters-30ef2699",
+        "topic-quick-selection-skin-tone-selection-163fb2b6",
+        "topic-vibrance-aed87f3e"
+      ],
+      "video_count": 2
+    },
+    "family-content-aware-and-generation-01aa5eb7": {
+      "family_id": "family-content-aware-and-generation-01aa5eb7",
+      "canonical_key": "content-aware and generation",
+      "label": "Content-Aware And Generation",
+      "description": "Covers removing, extending, or generating image content to add or replace visual material.",
+      "topic_ids": [
+        "topic-creating-more-of-something-content-generation-57340c00",
+        "topic-object-removal-and-content-aware-techniques-f701d7f0"
+      ],
+      "video_count": 1
+    },
+    "family-fake-3d-effects-2871cdf1": {
+      "family_id": "family-fake-3d-effects-2871cdf1",
+      "canonical_key": "fake 3d effects",
+      "label": "Fake 3D Effects",
+      "description": "Covers 2.5D and illusion-based depth techniques using gradients, paths, and painting tools.",
+      "topic_ids": [
+        "topic-fake-3d-2-5d-with-gradient-ellipses-and-mixer-br-c67a0be8",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ],
+      "video_count": 2
+    },
+    "family-layers-and-smart-objects-19e35081": {
+      "family_id": "family-layers-and-smart-objects-19e35081",
+      "canonical_key": "layers and smart objects",
+      "label": "Layers And Smart Objects",
+      "description": "Covers non-destructive layering, smart objects, group masks, and reusable edit structures.",
+      "topic_ids": [
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-layering-and-non-destructive-editing-b7977534",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-sample-all-layers-7d790987",
+        "topic-smart-object-for-liquify-0feb80ca",
+        "topic-smart-objects-7f4fcde1",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ],
+      "video_count": 2
+    },
+    "family-liquify-and-reshape-345e384b": {
+      "family_id": "family-liquify-and-reshape-345e384b",
+      "canonical_key": "liquify and reshape",
+      "label": "Liquify And Reshape",
+      "description": "Covers liquify-based warping, face-aware adjustments, and general distortion or bending edits.",
+      "topic_ids": [
+        "topic-distortion-bending-and-reshaping-images-298ac849",
+        "topic-face-aware-liquify-3c1679c8",
+        "topic-forward-warp-face-tool-f2b65f58",
+        "topic-liquify-b20c728b",
+        "topic-smart-object-for-liquify-0feb80ca"
+      ],
+      "video_count": 2
+    },
+    "family-motion-and-video-9f26bcd9": {
+      "family_id": "family-motion-and-video-9f26bcd9",
+      "canonical_key": "motion and video",
+      "label": "Motion And Video",
+      "description": "Covers Photoshop-based video editing, parallax animation, and cinemagraph-style motion projects.",
+      "topic_ids": [
+        "topic-video-editing-in-photoshop-parallax-and-cinemagr-35d5f5b5"
+      ],
+      "video_count": 1
+    },
+    "family-portrait-retouching-9c376815": {
+      "family_id": "family-portrait-retouching-9c376815",
+      "canonical_key": "portrait retouching",
+      "label": "Portrait Retouching",
+      "description": "Covers skin, teeth, eyes, and facial feature enhancement workflows for human portrait edits.",
+      "topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4",
+        "topic-sponge-tool-color-saturation-in-eyes-4830db97",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4"
+      ],
+      "video_count": 2
+    },
+    "family-retouching-tools-09c908c4": {
+      "family_id": "family-retouching-tools-09c908c4",
+      "canonical_key": "retouching tools",
+      "label": "Retouching Tools",
+      "description": "Covers healing, cloning, patching, and source-sampling tools for cleanup work.",
+      "topic_ids": [
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-clone-source-512a4a4a",
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-fade-patch-selection-0ec2a373",
+        "topic-healing-brush-e0c6d32a",
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+        "topic-patch-tool-de36f8d7",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-sample-all-layers-7d790987",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-spot-healing-brush-e69081ac",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace"
+      ],
+      "video_count": 2
+    },
+    "family-selections-and-masking-4341d617": {
+      "family_id": "family-selections-and-masking-4341d617",
+      "canonical_key": "selections and masking",
+      "label": "Selections And Masking",
+      "description": "Covers core selection creation, refinement, saving, and mask-based editing workflows.",
+      "topic_ids": [
+        "topic-advanced-selection-techniques-3415e289",
+        "topic-channel-mask-f254c801",
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f",
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-decontaminate-colors-e64874c7",
+        "topic-edge-detection-58fce7d6",
+        "topic-focus-area-f2894edf",
+        "topic-group-mask-67ab515a",
+        "topic-layer-masks-dd6eb406",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-masking-efficiency-3b71f542",
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-p-key-toggle-mask-visibility-7a3c93f6",
+        "topic-save-selections-ec64c6e3",
+        "topic-select-mask-dcad784c",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-select-subject-f0c7e348",
+        "topic-selection-preview-a94afc9f",
+        "topic-smart-radius-5c4a77e7",
+        "topic-x-key-toggle-foreground-background-f3e00b39"
+      ],
+      "video_count": 3
+    },
+    "family-special-effects-d32524c2": {
+      "family_id": "family-special-effects-d32524c2",
+      "canonical_key": "special effects",
+      "label": "Special Effects",
+      "description": "Covers stylized looks, blending-mode tricks, glitches, duotones, and other creative treatments.",
+      "topic_ids": [
+        "topic-drop-shadow-and-layer-styles-f4632c10",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4",
+        "topic-trending-visual-styles-duo-tones-glitches-color--122797ed"
+      ],
+      "video_count": 3
+    },
+    "family-typography-and-layout-24770b41": {
+      "family_id": "family-typography-and-layout-24770b41",
+      "canonical_key": "typography and layout",
+      "label": "Typography And Layout",
+      "description": "Covers type-related workflows, font handling, artboards, and social-ready layout sizing.",
+      "topic_ids": [
+        "topic-artboards-and-social-media-post-sizing-6a38acce",
+        "topic-typography-workflows-typekit-font-guessing-ligat-b8dc2f38"
+      ],
+      "video_count": 1
+    },
+    "family-workflow-and-projects-fc86ed99": {
+      "family_id": "family-workflow-and-projects-fc86ed99",
+      "canonical_key": "workflow and projects",
+      "label": "Workflow And Projects",
+      "description": "Covers exercise files, class projects, sharing results, and broader process guidance.",
+      "topic_ids": [
+        "topic-class-project-instructions-and-sharing-results-0ce50650",
+        "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9",
+        "topic-enlarging-images-without-distortion-9ab467ed",
+        "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853",
+        "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe",
+        "topic-revert-file-and-history-states-9885ce53"
+      ],
+      "video_count": 3
+    }
+  },
+  "items": {
+    "video-photoshop-advanced-course-masking-retouching-3d--2810113f": {
+      "item_id": "video-photoshop-advanced-course-masking-retouching-3d--2810113f",
+      "title": "Photoshop 3D Text and Logos: Postcard, Extrusion, Materials, Lighting, and Rendering",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "HXSh5ueFPTo",
+          "url": "https://www.youtube.com/watch?v=HXSh5ueFPTo"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/HXSh5ueFPTo.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This video serves as a comprehensive introduction to creating 3D text and logos in Photoshop, covering two primary 3D workflows (Postcard 3D and Extrusion), importing logos, working with materials and lighting, adjusting camera perspectives, and rendering final images. It also explores quick 3D tricks, 2.5D “fake” 3D techniques, and path-based interlocking typography, with practical guidance on system requirements, workspace setup, rendering speed optimizations, and saving/exporting final assets. The instructor demonstrates both text and logo workflows, demonstrates how to merge 3D objects into a single scene, and provides tips on using depth of field, shadows, and multiple light sources to achieve more realistic results. The latter portion introduces a class project and advanced techniques such as using paths and Mixer Brush for 2.5D effects, before wrapping with export options and further study directions.",
+      "date": {
+        "display": "August 17, 2018",
+        "iso": "2018-08-17",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-photoshop-3d-prerequisites-64-bit-vram-requireme-420a725a",
+        "topic-photoshop-3d-workspace-setup-window-workspace-3d-c78a5892",
+        "topic-postcard-3d-workflow-background-planes-400d07e1",
+        "topic-extrusion-workflow-for-text-and-shapes-8839103e",
+        "topic-merging-multiple-3d-layers-into-a-single-scene-d52aef95",
+        "topic-importing-vector-logos-via-place-embedded-and-ex-14301359",
+        "topic-adjusting-extrusion-depth-and-3d-object-alignmen-f4b39de6",
+        "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72",
+        "topic-saving-and-switching-between-camera-views-rad-vi-2a5dc0c5",
+        "topic-depth-of-field-and-camera-controls-rad-view-a98dfee4",
+        "topic-materials-and-textures-diffusion-color-reflectio-597aab97",
+        "topic-loading-additional-materials-from-adobe-get-more-fadd8cfc",
+        "topic-rendering-basics-and-previews-render-esc-to-stop-781d7035",
+        "topic-render-performance-tips-image-size-vram-shadow-q-c360b183",
+        "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15",
+        "topic-lighting-types-infinite-light-environmental-ibl--061e3bb5",
+        "topic-shadow-softness-light-color-intensity-and-hotspo-9e9a7568",
+        "topic-interacting-with-multiple-lights-and-combined-li-f2314675",
+        "topic-rendering-exports-saving-as-jpeg-turning-3d-off--e76be328",
+        "topic-fake-3d-2-5d-with-gradient-ellipses-and-mixer-br-c67a0be8",
+        "topic-path-based-3d-pen-curvature-tool-and-interlockin-e72b137e",
+        "topic-class-project-instructions-and-sharing-results-0ce50650"
+      ],
+      "family_ids": [
+        "family-3d-setup-and-workspace-cad14164",
+        "family-3d-modeling-workflow-409bbc4d",
+        "family-3d-scene-assembly-0f119508",
+        "family-3d-camera-and-view-f07dd3a9",
+        "family-3d-texturing-6e8d09a8",
+        "family-3d-rendering-and-export-3a4b5a50",
+        "family-3d-lighting-92e089d4",
+        "family-fake-3d-effects-2871cdf1",
+        "family-workflow-and-projects-fc86ed99"
+      ],
+      "topic_sections": {
+        "topic-moving-manipulating-3d-objects-and-camera-with-3-df02ec72": [
+          1,
+          4
+        ],
+        "topic-ground-plane-environment-shadow-settings-and-how-16f5fa15": [
+          4
+        ],
+        "topic-rendering-exports-saving-as-jpeg-turning-3d-off--e76be328": [
+          5
+        ],
+        "topic-fake-3d-2-5d-with-gradient-ellipses-and-mixer-br-c67a0be8": [
+          6
+        ]
+      },
+      "chapter_count": 8
+    },
+    "video-photoshop-advanced-course-masking-retouching-3d--7898e210": {
+      "item_id": "video-photoshop-advanced-course-masking-retouching-3d--7898e210",
+      "title": "Adobe Photoshop CC Advanced Training Course Introduction",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "QICjqTAnHXE",
+          "url": "https://www.youtube.com/watch?v=QICjqTAnHXE"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/QICjqTAnHXE.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This short, 3- to 4-minute introduction video by Dan, an Adobe Certified Instructor, outlines the scope and selling points of the Bring Your Own Laptop Photoshop CC Advanced Training Course. It positions the course as a workflow-focused, project-driven program for experienced Photoshop users seeking faster, more efficient techniques. The overview enumerates modules on selection and masking, image correction for hard and blurry images, color and tonal adjustments, upscaling without distortion, object removal, distortion and reshaping effects, typography workflows, artboards for social media, advanced retouching, video and animation capabilities (parallax and Cinemagraphs), 3D in Photoshop, and reusable mock-ups. The video emphasizes real-world projects, downloadable exercise files, and class projects, with the aim of shaving hours off daily Photoshop tasks and expanding professional capabilities for users already familiar with Photoshop fundamentals.",
+      "date": {
+        "display": "August 9, 2018",
+        "iso": "2018-08-09",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-advanced-selection-techniques-3415e289",
+        "topic-masking-efficiency-3b71f542",
+        "topic-hard-and-blurry-image-fixes-cc82c23b",
+        "topic-levels-and-curves-adjustments-e816102c",
+        "topic-skin-tone-and-color-enhancements-7f7e0fea",
+        "topic-enlarging-images-without-distortion-9ab467ed",
+        "topic-object-removal-and-content-aware-techniques-f701d7f0",
+        "topic-distortion-bending-and-reshaping-images-298ac849",
+        "topic-creating-more-of-something-content-generation-57340c00",
+        "topic-trending-visual-styles-duo-tones-glitches-color--122797ed",
+        "topic-typography-workflows-typekit-font-guessing-ligat-b8dc2f38",
+        "topic-artboards-and-social-media-post-sizing-6a38acce",
+        "topic-advanced-retouching-healing-cloning-patching-tee-edcc1b64",
+        "topic-video-editing-in-photoshop-parallax-and-cinemagr-35d5f5b5",
+        "topic-3d-in-photoshop-158a3df1",
+        "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe",
+        "topic-downloadable-exercise-files-and-class-projects-f01fdbd9"
+      ],
+      "family_ids": [
+        "family-selections-and-masking-4341d617",
+        "family-adjustment-editing-a0887f15",
+        "family-portrait-retouching-9c376815",
+        "family-workflow-and-projects-fc86ed99",
+        "family-content-aware-and-generation-01aa5eb7",
+        "family-liquify-and-reshape-345e384b",
+        "family-special-effects-d32524c2",
+        "family-typography-and-layout-24770b41",
+        "family-retouching-tools-09c908c4",
+        "family-motion-and-video-9f26bcd9",
+        "family-3d-setup-and-workspace-cad14164"
+      ],
+      "topic_sections": {
+        "topic-masking-efficiency-3b71f542": [
+          1
+        ],
+        "topic-3d-in-photoshop-158a3df1": [
+          7,
+          9
+        ],
+        "topic-reusable-mock-ups-and-workflow-optimization-340ef9fe": [
+          7
+        ]
+      },
+      "chapter_count": 10
+    },
+    "video-photoshop-advanced-course-masking-retouching-3d--306ebfb2": {
+      "item_id": "video-photoshop-advanced-course-masking-retouching-3d--306ebfb2",
+      "title": "Photoshop Retouching Essentials: Healing Brush, Clone Stamp, Patch Tool, Liquify, Vanishing Point, and Teeth/Eye Enhancements",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "t3mHXTYypLQ",
+          "url": "https://www.youtube.com/watch?v=t3mHXTYypLQ"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/t3mHXTYypLQ.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This YouTube tutorial from Bring Your Own Laptop presents a comprehensive, technique-forward approach to Photoshop retouching. Across multiple segments, the presenter demonstrates non-destructive workflows and precise tool applications for improving facial skin, eyes, and teeth, while also showing how to handle large edits and perspective-based composites. The course launches with Healing Brush fundamentals and layered non-destructive editing, then moves into Clone Stamp and Patch Tool tricks, followed by advanced use of Liquify (including Face Aware Liquify), Vanishing Point for perspective-based mockups, quick skin tone selections, and culminates with in-depth eye and teeth retouching. The video repeatedly emphasizes working on separate layers, masking, and using adjustment layers to keep edits reversible and controllable, with exercise files and class projects included for hands-on practice.",
+      "date": {
+        "display": "August 16, 2018",
+        "iso": "2018-08-16",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-healing-brush-e0c6d32a",
+        "topic-spot-healing-brush-e69081ac",
+        "topic-sample-all-layers-7d790987",
+        "topic-retouch-layer-3c2e4e2e",
+        "topic-layering-and-non-destructive-editing-b7977534",
+        "topic-clone-tool-stamp-dcc9890a",
+        "topic-clone-source-512a4a4a",
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0",
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1",
+        "topic-patch-tool-de36f8d7",
+        "topic-source-vs-destination-in-patch-tool-e993810c",
+        "topic-fade-patch-selection-0ec2a373",
+        "topic-revert-file-and-history-states-9885ce53",
+        "topic-liquify-b20c728b",
+        "topic-face-aware-liquify-3c1679c8",
+        "topic-forward-warp-face-tool-f2b65f58",
+        "topic-smart-object-for-liquify-0feb80ca",
+        "topic-vanishing-point-perspective-planes-walls-f5435ace",
+        "topic-perspective-matching-with-vanishing-point-6facf48a",
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4",
+        "topic-masking-and-feathering-on-groups-9116f116",
+        "topic-quick-selection-skin-tone-selection-163fb2b6",
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4",
+        "topic-dodge-burn-for-eyes-698bc8e3",
+        "topic-sponge-tool-color-saturation-in-eyes-4830db97",
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4",
+        "topic-eyes-enhancement-breath-of-realism-vs-faking-33aa844c",
+        "topic-class-projects-and-workflow-guidance-5eaf1f6f",
+        "topic-exercise-files-and-class-projects-in-10-retouchi-1a3aa853"
+      ],
+      "family_ids": [
+        "family-retouching-tools-09c908c4",
+        "family-layers-and-smart-objects-19e35081",
+        "family-workflow-and-projects-fc86ed99",
+        "family-liquify-and-reshape-345e384b",
+        "family-fake-3d-effects-2871cdf1",
+        "family-portrait-retouching-9c376815",
+        "family-special-effects-d32524c2",
+        "family-selections-and-masking-4341d617",
+        "family-color-based-selection-e42e8d67",
+        "family-adjustment-editing-a0887f15"
+      ],
+      "topic_sections": {
+        "topic-healing-brush-e0c6d32a": [
+          0,
+          1,
+          2,
+          12
+        ],
+        "topic-spot-healing-brush-e69081ac": [
+          0
+        ],
+        "topic-sample-all-layers-7d790987": [
+          0
+        ],
+        "topic-retouch-layer-3c2e4e2e": [
+          0,
+          9
+        ],
+        "topic-clone-tool-stamp-dcc9890a": [
+          2,
+          3,
+          12
+        ],
+        "topic-clone-source-512a4a4a": [
+          3
+        ],
+        "topic-rotate-angle-sampling-in-clone-source-e3c48ba0": [
+          3
+        ],
+        "topic-lock-align-sampling-with-aligned-on-off-26ef3ff1": [
+          1
+        ],
+        "topic-patch-tool-de36f8d7": [
+          4,
+          12
+        ],
+        "topic-fade-patch-selection-0ec2a373": [
+          4
+        ],
+        "topic-liquify-b20c728b": [
+          5
+        ],
+        "topic-face-aware-liquify-3c1679c8": [
+          5
+        ],
+        "topic-forward-warp-face-tool-f2b65f58": [
+          5
+        ],
+        "topic-vanishing-point-perspective-planes-walls-f5435ace": [
+          5,
+          6
+        ],
+        "topic-soft-light-multiply-hard-light-luminosity-blendi-160fb6e4": [
+          10
+        ],
+        "topic-quick-selection-skin-tone-selection-163fb2b6": [
+          4,
+          5,
+          8
+        ],
+        "topic-color-balance-levels-hue-saturation-skin-tone-wo-bd271ea4": [
+          8,
+          11
+        ],
+        "topic-dodge-burn-for-eyes-698bc8e3": [
+          9
+        ],
+        "topic-teeth-whitening-hue-saturation-white-rectangle-l-8da6a4d4": [
+          11
+        ]
+      },
+      "chapter_count": 13
+    },
+    "video-photoshop-advanced-course-masking-retouching-3d--bda9a9e8": {
+      "item_id": "video-photoshop-advanced-course-masking-retouching-3d--bda9a9e8",
+      "title": "Advanced selections & masking in Adobe Photoshop - Color Range, Subject, Channel Masks, Focus Area",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "X-4IFMG-_nQ",
+          "url": "https://www.youtube.com/watch?v=X-4IFMG-_nQ"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/X-4IFMG-_nQ.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This long-form Adobe Photoshop CC tutorial guides advanced masking and selection workflows, weaving together Select Subject, Color Range, Channel Masks, and Focus Area to create complex, non-destructive composites. It demonstrates rapid initial masking with Select Subject, then meticulous refinement in Select & Mask, including Edge Detection, Smart Radius, and Decontaminate Colors. The lesson progresses through several subjects (people and objects), emphasizing techniques to isolate skin, foliage, and colored elements, and extends into color-based masking with Color Range, localized color clusters, and grayscale previews. Practical tips include painting touch-ups with the Brush tool, moving masks between documents and into groups, saving selections, duplicating layers, and building layered shadows for realistic composites. The instructor also shows how to combine multiple techniques non-destructively via adjustment layers and layer masks, and wraps with class projects that reinforce masking and compositing concepts.",
+      "date": {
+        "display": "August 15, 2018",
+        "iso": "2018-08-15",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [
+        {
+          "name": "Los Angeles, California, USA",
+          "confidence": 0.65,
+          "basis": "Explicit mention of Adobe MAX in LA in the transcript (01:56–01:59)."
+        },
+        {
+          "name": "Las Vegas, Nevada, USA",
+          "confidence": 0.65,
+          "basis": "Explicit mention of Adobe MAX being in Vegas (01:13:57)."
+        },
+        {
+          "name": "Perth Canyon National Park, Australia",
+          "confidence": 0.5,
+          "basis": "Explicit mention of a photo taken there during the Deep Fill demonstration (02:10:57)."
+        }
+      ],
+      "topic_ids": [
+        "topic-select-subject-f0c7e348",
+        "topic-select-subject-1-5-exercises-9f78021d",
+        "topic-select-mask-dcad784c",
+        "topic-edge-detection-58fce7d6",
+        "topic-smart-radius-5c4a77e7",
+        "topic-decontaminate-colors-e64874c7",
+        "topic-focus-area-f2894edf",
+        "topic-channel-mask-f254c801",
+        "topic-color-range-dabfd3ab",
+        "topic-localized-color-clusters-30ef2699",
+        "topic-selection-preview-a94afc9f",
+        "topic-hue-saturation-3aee640d",
+        "topic-vibrance-aed87f3e",
+        "topic-layer-masks-dd6eb406",
+        "topic-adjustment-layers-93bdeff0",
+        "topic-copy-paste-layer-mask-010e3027",
+        "topic-group-mask-67ab515a",
+        "topic-smart-objects-7f4fcde1",
+        "topic-overlay-brush-for-edge-cleanup-93ee3e88",
+        "topic-x-key-toggle-foreground-background-f3e00b39",
+        "topic-p-key-toggle-mask-visibility-7a3c93f6",
+        "topic-save-selections-ec64c6e3",
+        "topic-drop-shadow-and-layer-styles-f4632c10",
+        "topic-color-range-skin-tones-cf139f77",
+        "topic-channel-mask-workflow-with-focus-area-dbe30a2f"
+      ],
+      "family_ids": [
+        "family-selections-and-masking-4341d617",
+        "family-color-based-selection-e42e8d67",
+        "family-adjustment-editing-a0887f15",
+        "family-layers-and-smart-objects-19e35081",
+        "family-special-effects-d32524c2"
+      ],
+      "topic_sections": {
+        "topic-select-subject-f0c7e348": [
+          0,
+          1,
+          2
+        ],
+        "topic-select-mask-dcad784c": [
+          2,
+          3
+        ],
+        "topic-edge-detection-58fce7d6": [
+          3
+        ],
+        "topic-smart-radius-5c4a77e7": [
+          2,
+          3
+        ],
+        "topic-decontaminate-colors-e64874c7": [
+          2,
+          3
+        ],
+        "topic-channel-mask-f254c801": [
+          0
+        ],
+        "topic-color-range-dabfd3ab": [
+          0,
+          6,
+          7,
+          8
+        ],
+        "topic-localized-color-clusters-30ef2699": [
+          6
+        ],
+        "topic-selection-preview-a94afc9f": [
+          7,
+          8
+        ],
+        "topic-hue-saturation-3aee640d": [
+          7,
+          8
+        ],
+        "topic-vibrance-aed87f3e": [
+          7,
+          8
+        ],
+        "topic-layer-masks-dd6eb406": [
+          2,
+          5
+        ],
+        "topic-adjustment-layers-93bdeff0": [
+          7
+        ],
+        "topic-copy-paste-layer-mask-010e3027": [
+          5
+        ],
+        "topic-group-mask-67ab515a": [
+          0,
+          5
+        ],
+        "topic-x-key-toggle-foreground-background-f3e00b39": [
+          2,
+          7
+        ],
+        "topic-color-range-skin-tones-cf139f77": [
+          8
+        ]
+      },
+      "chapter_count": 9
+    }
+  },
+  "stats": {
+    "video_count": 4,
+    "topic_count": 93,
+    "topic_family_count": 20
+  },
+  "description": "A Watchcraft collection generated from the Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras YouTube playlist.",
+  "publisher": "Bring Your Own Laptop",
+  "source": {
+    "type": "youtube-playlist",
+    "playlist_id": "PLttcEXjN1UcE1sK7MQIJ1fDbH0T8BiJz9",
+    "url": "https://www.youtube.com/playlist?list=PLttcEXjN1UcE1sK7MQIJ1fDbH0T8BiJz9",
+    "excluded_video_ids": [],
+    "publisher": "Bring Your Own Laptop",
+    "publisher_url": "https://www.youtube.com/@BringYourOwnLaptop"
+  },
+  "revision": 1,
+  "content_hash": "075ef47b217e5c2b721cde2d7387d861ded3bc9cc210b8278aa6eb47c7d4d707"
+}

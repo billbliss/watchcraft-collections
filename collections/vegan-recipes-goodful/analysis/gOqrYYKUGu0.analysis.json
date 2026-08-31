@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "video": "gOqrYYKUGu0.youtube",
+  "title": "Artichoke Nachos: Trimming, Steaming, Aioli, and Composting (BuzzFeed Nifty)",
+  "date": {
+    "display": "November 24, 2021",
+    "iso": "2021-11-24",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Piedras Negras, Mexico",
+      "confidence": 0.8,
+      "basis": "Transcript states nachos were invented in 1943 by Ignacio Anaya in Piedras Negras."
+    },
+    {
+      "name": "Mount Olympus (mythological)",
+      "confidence": 0.6,
+      "basis": "Transcript recounts Zeus turning a woman into an artichoke and taking her to Mount Olympus; not presented as filming location."
+    }
+  ],
+  "summary": "In this BuzzFeed Nifty video, Ari repurposes artichoke scraps into a playful “nachos” dish while interleaving a sustainability moment. The episode covers trimming artichokes to reveal the edible heart, removing the choke, and steaming the petals and hearts; it then builds a toppings lineup (cilantro, serrano, garlic aioli, vegan feta with olives) and demonstrates a compost-focused sidetrack where artichoke scraps and the steaming liquid are blended and composted in a tumbler. The chef preheats the oven, assembles the “nachos” atop artichoke pieces, and bakes briefly before tasting, while noting nachos’ cultural origin (Piedras Negras, Mexico). The piece blends practical prep with a light environmental philosophy and a few playful mythic asides about artichokes.”",
+  "topics": [
+    "artichoke anatomy: choke vs heart",
+    "petal-removal-first recipe approach",
+    "identifying edible parts of artichoke (heart)",
+    "steam timing for artichokes (about 10 minutes)",
+    "cilantro and serrano chilies prep",
+    "garlic aioli preparation (garlic, salt, lemon, vegan mayo)",
+    "vegan feta with olives as a topping",
+    "artichoke scraps and composting (greens, browns, tumbler)",
+    "steaming liquid used in composting",
+    "oven preheating to 375°F",
+    "assembling artichoke-based “nachos”",
+    "baking duration (about 3 minutes)",
+    "nachos origin and Piedras Negras reference",
+    "taste notes: salted, olive-forward profile",
+    "serving hearts with butter as a finishing touch"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "01:25",
+      "title": "Artichoke trimming and heart preparation",
+      "concepts": [
+        "artichoke anatomy: choke vs heart",
+        "remove petals first vs traditional method",
+        "scoop out choke",
+        "peel stem to access the heart",
+        "sort petals and scraps for later steps"
+      ],
+      "description": "Ari explains the edible parts of the artichoke, identifies the choke, and demonstrates trimming to expose the heart and stem for later use."
+    },
+    {
+      "start": "01:25",
+      "end": "01:58",
+      "title": "Steaming the artichokes",
+      "concepts": [
+        "steam time ~10 minutes",
+        "steam petals and hearts together",
+        "reach tender tips"
+      ],
+      "description": "The trimmed artichokes are placed to steam, aiming for tender tips after about 10 minutes of steaming."
+    },
+    {
+      "start": "02:01",
+      "end": "02:38",
+      "title": "Toppings prep and aioli",
+      "concepts": [
+        "cilantro chopping",
+        "serrano chilies prep",
+        "garlic aioli assembly (mince, salt, lemon, vegan mayo)",
+        "feta with olives crumb"
+      ],
+      "description": "While artichokes steam, prepping the toppings begins: cilantro and serrano, then a lemon-garlic vegan aioli and a feta-olive crumble for topping."
+    },
+    {
+      "start": "02:38",
+      "end": "03:53",
+      "title": "Composting and waste-relocalization",
+      "concepts": [
+        "food scraps in blender",
+        "add steaming liquid to scraps",
+        "greens vs browns in compost tumbler",
+        "spin to aerate",
+        "compost as soil food"
+      ],
+      "description": "A sustainability interlude shows blending artichoke scraps with steam liquid and using a compost tumbler to illustrate turning waste into soil enrichment."
+    },
+    {
+      "start": "03:53",
+      "end": "04:24",
+      "title": "Oven prep and initial assembly",
+      "concepts": [
+        "preheat oven to 375°F",
+        "crumb feta onto artichokes",
+        "initial assembly of nacho components"
+      ],
+      "description": "The oven is preheated and the assembled components (artichoke pieces with toppings) are prepared for baking."
+    },
+    {
+      "start": "04:24",
+      "end": "05:10",
+      "title": "Bake, taste, and finish",
+      "concepts": [
+        "bake for about 3 minutes",
+        "taste and commentary on flavor",
+        "serve hearts with butter as a finishing touch"
+      ],
+      "description": "The dish is briefly baked, evaluated for flavor, and the hearts are suggested to be enjoyed with butter as a finishing tip."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Trimming petals and removing choke to access the edible heart of artichokes",
+      "timestamp": "00:01:13",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Steaming artichokes until tender (about 10 minutes)",
+      "timestamp": "01:56",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Garlic aioli preparation (minced garlic, salt, lemon juice, vegan mayo)",
+      "timestamp": "02:08",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Crumbling vegan feta with olives as a topping",
+      "timestamp": "02:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Composting artichoke scraps and using steaming liquid in a tumbler (greens and browns)",
+      "timestamp": "02:38",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Assembling and baking artichoke-based “nachos” at 375°F for ~3 minutes",
+      "timestamp": "04:04",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:24:30.398711+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 2,
+  "video": "w1O-60vVE7E.youtube",
+  "title": "Healthy Vegan Dinner Recipes (Goodful, YouTube)",
+  "date": {
+    "display": "August 20, 2020",
+    "iso": "2020-08-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Goodful YouTube video presents healthy vegan dinner recipes and is about plant-based meal ideas. The transcript provided with the analysis contains only background music cues and a few isolated spoken fragments, with no substantive instructional steps or ingredient lists captured. The video runs roughly 12 minutes and 59 seconds and was published on August 20, 2020. Because the transcript offers minimal spoken content, the analysis cannot cite specific techniques, tool usage, or recipe steps from the text alone; any detailed demonstration or methods would rely on the video visuals rather than the transcript. The metadata suggests a recipe-focused, plant-based dinner theme consistent with Goodful’s channel content, but evidence for exact cooking methods or ingredients is not evidenced in the transcript.",
+  "topics": [
+    "vegan dinner recipes",
+    "healthy eating",
+    "plant-based meals",
+    "Goodful (publisher)",
+    "YouTube cooking video"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:23",
+      "title": "Intro music / opening segment",
+      "concepts": [
+        "music cues",
+        "no spoken instruction in transcript"
+      ],
+      "description": "The transcript shows opening music with no substantial spoken guidance detected in this interval."
+    },
+    {
+      "start": "00:02:23",
+      "end": "00:07:16",
+      "title": "Non-verbal narration / intermittent words",
+      "concepts": [
+        "spoken fragment 'do'",
+        "background music continues"
+      ],
+      "description": "Brief spoken fragments appear (e.g., 'do'), but there are no clear cooking instructions captured in the transcript."
+    },
+    {
+      "start": "00:07:16",
+      "end": "00:12:58",
+      "title": "Closing segment",
+      "concepts": [
+        "final word 'you'",
+        "end of transcript content"
+      ],
+      "description": "The final transcript line shows the word 'you' with no instructional detail observed in the transcript."
+    }
+  ],
+  "featured_techniques": [],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T19:00:04.827228+00:00"
+}

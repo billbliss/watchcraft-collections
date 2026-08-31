@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "video": "78MCz6BpeXM.youtube",
+  "title": "PHLEARN: 30 Days of Photoshop 2025 Edition - Intro",
+  "date": {
+    "display": "August 31, 2025",
+    "iso": "2025-08-31",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PHLEARN intro video announces the 2025 edition of 30 Days of Photoshop, hosted by Aaron Nace. It frames the series as rebuilt from the ground up since the 2019 launch, aiming to take learners from opening Photoshop to producing professional images across daily, focused lessons. The host highlights a trajectory from fundamentals to more complex projects, covering both manual techniques and AI-driven tools. Key AI capabilities introduced include generative fill to add or remove content, generative expand to extend image boundaries, and Select Subject for automatic focus on the main subject, alongside dynamic text and retouching and compositing techniques. The video emphasizes a non-destructive workflow using layers and masks, workspace customization, and a deep understanding of color and tone. Viewers are invited to join a newsletter for a printable calendar and a scheduled email series, promising a 30-day mastery by the end of the program.",
+  "topics": [
+    "Non-destructive editing with layers and masks",
+    "Workspace customization in Photoshop",
+    "Color and tone fundamentals",
+    "Generative Fill (AI)",
+    "Generative Expand (AI)",
+    "Select Subject (AI)",
+    "Dynamic Text",
+    "Retouching techniques",
+    "Photo compositing",
+    "Daily lesson format",
+    "AI capabilities in Photoshop 2025",
+    "Newsletter signup and calendar"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:06",
+      "title": "Intro and series overview",
+      "concepts": [
+        "Introduction",
+        "Series context and evolution",
+        "Target audience",
+        "Learning path"
+      ],
+      "description": "Aaron Nace introduces the 2025 edition of 30 Days of Photoshop, explains that the series has been rebuilt, and outlines the progression from beginner fundamentals to professional-level projects with both manual and AI-assisted techniques."
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:00",
+      "title": "Non-destructive workflow with layers and masks",
+      "concepts": [
+        "Workspace mastery",
+        "Layers",
+        "Masks",
+        "Non-destructive editing"
+      ],
+      "description": "Emphasizes mastering the Photoshop workspace and establishing a non-destructive workflow using layers and masks, enabling edits that can be undone."
+    },
+    {
+      "start": "01:37:00",
+      "end": "02:13:00",
+      "title": "AI capabilities preview: generative fill, generative expand, select subject, dynamic text",
+      "concepts": [
+        "Generative Fill",
+        "Generative Expand",
+        "Select Subject",
+        "Dynamic Text"
+      ],
+      "description": "Preview of AI-powered tools in the 2025 edition, including generative fill to add/remove content via text prompts, generative expand to extend images, Select Subject for automatic main-subject selection, and Dynamic Text for typography-driven effects."
+    },
+    {
+      "start": "02:16:00",
+      "end": "02:30:00",
+      "title": "Retouching and photo compositing overview",
+      "concepts": [
+        "Retouching techniques",
+        "Photo compositing"
+      ],
+      "description": "Covers retouching techniques and the basics of compositing multiple photos to create a realistic final image."
+    },
+    {
+      "start": "02:31:00",
+      "end": "03:06:00",
+      "title": "Next steps, signup, and series expectations",
+      "concepts": [
+        "Newsletter signup",
+        "Calendar and schedule",
+        "Daily learning path"
+      ],
+      "description": "Calls to action to join the newsletter for a printable calendar and scheduled emails, and reiterates the daily lesson structure and mastery goal."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Non-destructive editing with layers and masks",
+      "timestamp": "01:12:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Generative Fill (AI-assisted content changes)",
+      "timestamp": "01:41:00",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Generative Expand (AI-assisted image expansion)",
+      "timestamp": "01:46:00",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Select Subject (AI-based auto-selection)",
+      "timestamp": "01:59:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Dynamic Text (typography effects with AI-assisted workflow)",
+      "timestamp": "02:04:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Photo compositing of multiple images",
+      "timestamp": "02:24:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Retouching techniques overview",
+      "timestamp": "02:16:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:52:26.104212+00:00"
+}

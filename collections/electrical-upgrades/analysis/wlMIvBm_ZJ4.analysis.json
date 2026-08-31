@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "video": "wlMIvBm_ZJ4.youtube",
+  "title": "Outdoor Movie Night Tech Essentials: Projector, Power, and Sound",
+  "date": {
+    "display": "June 22, 2026",
+    "iso": "2026-06-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House segment inventories practical tech for outdoor movie nights, focusing on a projector-based setup, wireless connectivity, portable power, and weather-rated audio hardware. Viewers see how an outdoor-friendly projector can replace a wall-mounted TV, how Bluetooth and Wi‑Fi enable content and smart-home integration, and how a rollable solar-rechargeable battery bank powers the setup with real-world specs (about 1,000 Wh capacity and roughly 90 W load). The discussion covers solar charging options, USB/12V/120V outputs, and a portable speaker option versus permanent outdoor speakers, including IP ratings and UV protection as critical outdoor considerations. The segment also demonstrates smart outdoor plugs for scheduling and weatherproof outlets to manage the movie-night electronics. Collectively, it presents a practical blueprint for coordinating display, audio, power, and weather resistance in an outdoor entertainment environment.",
+  "topics": [
+    "Outdoor projector",
+    "Indoor/outdoor projector compatibility",
+    "Projector resolution and image quality",
+    "Bluetooth connectivity",
+    "Wi-Fi connectivity",
+    "Smart home integration",
+    "Phone streaming to devices",
+    "Portable lithium-ion battery bank",
+    "1000 Wh battery capacity",
+    "90 W projector load",
+    "Solar charging for power",
+    "Solar panel input",
+    "120 V AC outlets",
+    "USB outputs",
+    "12 V DC outputs",
+    "Solar recharging for camping/RV",
+    "Smart outdoor plugs",
+    "Weatherproof outlets",
+    "Outlet scheduling",
+    "Outdoor speakers",
+    "Built-in speaker vs portable speaker",
+    "Bluetooth/Wi‑Fi audio",
+    "Permanent outdoor speakers",
+    "IP ratings (IP66, IP56)",
+    "UV resistance in outdoor gear",
+    "Outdoor mounting considerations",
+    "Power consumption and runtime estimates",
+    "Use-case scenarios (camping/RV)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:37",
+      "title": "Outdoor projection options",
+      "concepts": [
+        "projector",
+        "outdoor compatibility",
+        "screen vs wall projection"
+      ],
+      "description": "Ross and Kev introduce outdoor entertainment devices and note that projectors can be used outdoors with a screen or the side of a house to deliver high-resolution images, reflecting a shift away from wall-mounted TVs for exterior viewing."
+    },
+    {
+      "start": "00:00:44",
+      "end": "00:02:24",
+      "title": "Connectivity and control",
+      "concepts": [
+        "Bluetooth",
+        "Wi‑Fi",
+        "smart home integration",
+        "phone streaming"
+      ],
+      "description": "The discussion covers how projectors connect via Bluetooth or Wi‑Fi, allowing data and control from phones and compatibility with smart-home platforms, enabling integrated outdoor viewing setups."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:02:01",
+      "title": "Power and energy management",
+      "concepts": [
+        "portable battery bank",
+        "1000 Wh",
+        "90 W load",
+        "runtime",
+        "solar charging"
+      ],
+      "description": "Introduction to a lithium-ion portable power bank with about 1,000 Wh of capacity. The projector draws roughly 90 W, enabling over 10 hours of runtime on a full charge, with a solar-input option to recharge the bank for camping or RV use."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:04:01",
+      "title": "Audio options and weather-rated hardware",
+      "concepts": [
+        "built-in speaker",
+        "portable speaker",
+        "Bluetooth/Wi‑Fi audio",
+        "docking outside",
+        "permanent outdoor speaker",
+        "IP ratings"
+      ],
+      "description": "Comparison of built-in versus portable external speakers linked to the projector via Bluetooth or Wi‑Fi, plus the concept of docking a portable unit outside. It also discusses permanent outdoor speakers and the importance of IP ratings and UV resistance for outdoor gear."
+    },
+    {
+      "start": "00:04:04",
+      "end": "00:04:23",
+      "title": "Wrap-up and practical tips",
+      "concepts": [
+        "outdoor setup considerations",
+        "watching football/scheduled viewing"
+      ],
+      "description": "Closing remarks with reminders to consider IP ratings, UV exposure, and scheduling; a light nod to planning outdoor viewing times (e.g., Sunday football) and subscribing for more content."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Outdoor projection setup using a projector for exterior viewing (indoor/outdoor capable)",
+      "timestamp": "00:00:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Wireless connectivity to projector via Bluetooth or Wi‑Fi with smart home integration",
+      "timestamp": "00:00:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Solar-rechargeable portable power bank with 1000 Wh capacity powering projector (~90 W)",
+      "timestamp": "00:01:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Smart outdoor plugs for weatherproof outlets with scheduling control",
+      "timestamp": "00:02:16",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using portable outdoor speakers and docked inside/outside for enhanced audio (Bluetooth/Wi‑Fi)",
+      "timestamp": "00:02:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "IP ratings and UV resistance considerations for outdoor equipment (IP66 vs IP56)",
+      "timestamp": "00:03:22",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:39:07.812154+00:00"
+}

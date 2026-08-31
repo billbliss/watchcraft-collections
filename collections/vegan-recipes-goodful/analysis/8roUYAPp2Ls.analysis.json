@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "video": "8roUYAPp2Ls.youtube",
+  "title": "Vegan Recipes To Bring To A Backyard Barbecue — Goodful (YouTube) Analysis",
+  "date": {
+    "display": "June 27, 2022",
+    "iso": "2022-06-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "backyard setting (probable)",
+      "confidence": 0.6,
+      "basis": "Transcript explicitly mentions 'backyard cookout' and the video title references a backyard barbecue; shooting location is not confirmed."
+    }
+  ],
+  "summary": "This Goodful YouTube video presents a backyard barbecue concept built around vegan recipes, framed by a summer-friendly mood and host-oriented intro. The available transcript excerpt shows an opening line that invites viewers to embrace a backyard cookout and vegan barbecue classics, followed by multiple music and applause cues throughout the first six minutes. The material available does not include step-by-step cooking instructions or specific recipe demonstrations within the sampled timestamps; instead, the value lies in establishing theme, ambiance, and audience/host cues for a vegan cookout. The video duration is six minutes and six seconds, with the sampled transcript focusing on narration and production elements (music, applause) rather than recipe execution.",
+  "topics": [
+    "vegan barbecue",
+    "vegan recipes",
+    "backyard cookout",
+    "summer entertaining",
+    "outdoor cooking show",
+    "intro narration",
+    "host attire (apron) and setting (tablecloth)",
+    "audio cues (music and applause) for pacing",
+    "Goodful YouTube video",
+    "seasonal cooking (summer)",
+    "vegan grilling concepts",
+    "event planning for vegan barbecues"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:10",
+      "title": "Intro: Backyard barbecue theme and vegan classics",
+      "concepts": [
+        "backyard cookout",
+        "vegan barbecue classics",
+        "host intro"
+      ],
+      "description": "Opening lines establish a summer backyard cookout vibe and introduce vegan barbecue classics."
+    },
+    {
+      "start": "00:00:10",
+      "end": "00:01:16",
+      "title": "Setting the vibe: music and applause pace",
+      "concepts": [
+        "music cues",
+        "applause",
+        "pacing"
+      ],
+      "description": "Music and audience cues establish rhythm and energy as the segment sets the mood."
+    },
+    {
+      "start": "00:01:16",
+      "end": "00:03:24",
+      "title": "Energy-building transition",
+      "concepts": [
+        "audience energy",
+        "host cadence",
+        "transitions"
+      ],
+      "description": "The show sustains momentum with ongoing cues and host/audience interactions shaping flow."
+    },
+    {
+      "start": "00:03:24",
+      "end": "00:04:26",
+      "title": "Mid-show rhythm: continued cues",
+      "concepts": [
+        "applause cadence",
+        "music transitions"
+      ],
+      "description": "Applause and music punctuate the middle of the segment, reinforcing structure without recipe demonstrations."
+    },
+    {
+      "start": "00:04:26",
+      "end": "00:05:28",
+      "title": "Evening vibe persists",
+      "concepts": [
+        "ambient soundtrack",
+        "lawn party atmosphere",
+        "sound design"
+      ],
+      "description": "Ambient cues keep the backyard party mood as the video proceeds toward the finale."
+    },
+    {
+      "start": "00:05:28",
+      "end": "00:06:07",
+      "title": "Close and wrap-up",
+      "concepts": [
+        "final cues",
+        "wrap-up",
+        "outro"
+      ],
+      "description": "Final applause and closing music signal the end of the video and a send-off from the host."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Intro establishes the backyard barbecue theme via direct narration",
+      "timestamp": "00:00:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Use of ambient music and audience applause to pace the video",
+      "timestamp": "00:00:44",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:08:33.639360+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-31T06:09:01.149791+00:00"
+}

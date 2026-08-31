@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "video": "TOrN97Eo3Yw.youtube",
+  "title": "Vegan Carrot Hot Dogs: Marinade-Boiled Carrot Dogs",
+  "date": {
+    "display": "March 20, 2021",
+    "iso": "2021-03-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Coney Island (explicit mention)",
+      "confidence": 0.65,
+      "basis": "explicitly named in transcript: 'around coney island' at 00:05:48–00:05:52"
+    },
+    {
+      "name": "golf course (memory)",
+      "confidence": 0.5,
+      "basis": "mentioned as a past workplace anecdote (00:01:21–00:01:25); not presented as filming location"
+    }
+  ],
+  "summary": "In this Goodful video, Merle attempts a carrot-based vegan hot dog using a marinade-and-boil approach rather than a traditional grill technique. She trims and smooths whole carrots, then simulates a hot-dog shape by stripping and peeling the surface. A savory marinade is prepared from water, soy/amino acids, liquid smoke, vegan steak sauce, agave or maple syrup, ketchup, plus garlic and onion powders with cayenne and black pepper. The carrots are boiled in this marinade for 7–10 minutes, then cooled with a brief resting period before being dressed with classic hot-dog toppings like relish, onions, and ketchup. She experiments with a quick-freeze method to accelerate cooling and contemplates a miniature-carrot hack to shorten wait times. The tasting verdict is surprisingly positive—close to a real hot dog but intentionally not claimed to be identical—followed by reflections on taste, texture, and audience engagement. The video also notes composting carrot scraps and weaves in pop-culture nods (Tabitha Brown) and light humor throughout.",
+  "topics": [
+    "carrot preparation: trim tops and bottoms",
+    "carrot skin removal for smoothness",
+    "carrot scraps composting",
+    "marinade base: water and amino acids/soy sauce",
+    "marinade base: liquid smoke",
+    "marinade base: vegan steak sauce (A1-style)",
+    "marinade base: agave or maple syrup",
+    "marinade base: ketchup",
+    "seasonings: garlic powder, onion powder, cayenne, black pepper",
+    "boiling carrots in marinade (7–10 minutes)",
+    "cooling method: cold water to stop cooking",
+    "marinade cooling: 20 minutes minimum",
+    "marinade marination: 20 minutes after cooling",
+    "freezer shortcut to cool marinade quickly",
+    "carrot dog dressing: relish, onions, ketchup",
+    "texture and flavor notes: softer than raw carrot, not crunchy",
+    "taste test and verdict: close to a hot dog but not 100%",
+    "influencer references: Tabitha Brown and Edgy Veg",
+    "Coney Island as hypothetical selling locale",
+    "viewer engagement: request for comments on next video ideas"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:02",
+      "title": "Intro, carrot prep, and setup",
+      "concepts": [
+        "vegan carrot hot dogs",
+        "trimming carrot ends",
+        "peeling for a smooth surface",
+        "humor and influencer references"
+      ],
+      "description": "Merle introduces the carrot hot dog concept, references Tabitha Brown, and begins preparing the carrots by trimming the ends and peeling to smooth the surface."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:03:39",
+      "title": "Marinade preparation and carrot boiling",
+      "concepts": [
+        "assembling marinade components",
+        "boiling carrots in marinade for 7–10 minutes",
+        "cooling plan for marinade"
+      ],
+      "description": "The marinade is assembled from water, amino acids/soy sauce, liquid smoke, vegan sauce, agave/maple syrup, ketchup, and spices; carrots are boiled in this marinade and are prepared for cooling."
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:05:52",
+      "title": "Finishing, tasting, and verdict",
+      "concepts": [
+        "freezer shortcut to cool marinade",
+        "dressing: relish, onions, ketchup",
+        "taste test and verdict",
+        "texture observations"
+      ],
+      "description": "Merle notes a quick cooling hack by freezing the marinade, dresses the carrot dogs, and performs a tasting that finds the result impressive, though not a perfect replica of a conventional hot dog."
+    },
+    {
+      "start": "00:05:52",
+      "end": "00:06:22",
+      "title": "Closing, cultural notes, and call for viewer feedback",
+      "concepts": [
+        "final thoughts",
+        "viewer engagement",
+        "outro"
+      ],
+      "description": "Closing remarks, playful commentary on hot dog nostalgia, and an invitation for viewers to suggest ideas for future videos."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Marinade-boiled carrot hot dogs",
+      "timestamp": "00:02:30",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Quicky cooling by freezing marinade",
+      "timestamp": "00:03:26",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Smoothing carrot surface for hot-dog shape",
+      "timestamp": "00:00:46",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Traditional hot-dog dressing (relish, onions, ketchup)",
+      "timestamp": "00:04:00",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T18:44:27.516063+00:00"
+}

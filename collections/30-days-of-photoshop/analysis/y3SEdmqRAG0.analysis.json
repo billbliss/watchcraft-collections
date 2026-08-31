@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "video": "y3SEdmqRAG0.youtube",
+  "title": "Smart Objects in Photoshop - Day 16",
+  "date": {
+    "display": "September 16, 2025",
+    "iso": "2025-09-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN's Day 16 in the 30 Days of Photoshop series explores smart objects and their non-destructive workflow. The tutorial demonstrates how smart objects preserve resolution when scaling, how they differ from rasterized layers, and how they can be edited by opening their contents as a nested document. Aaron Nace walks through building a boxed advertisement: importing images as smart objects, resizing non-destructively, applying non-destructive filters like Gaussian blur, and using masking and dynamic text to composite foreground and background. The video also covers saving the work as a PSD to preserve layers, relinking or replacing smart object contents to update assets, and advanced techniques such as extracting and overlaying reflections with clipping masks and levels for a more realistic result. Throughout, the emphasis is on iterative editing, updating linked assets, and the practical advantages of smart objects in complex composites, with notes on trade-offs like increased file size.",
+  "topics": [
+    "Smart objects",
+    "Non-destructive scaling",
+    "Smart vs non-smart object",
+    "Ctrl/Cmd T transform",
+    "Opening and editing smart objects",
+    "Gaussian blur on smart objects",
+    "Smart object filters",
+    "Compositing with masks",
+    "Layer masking",
+    "Color range masking",
+    "Dynamic text",
+    "Linked smart objects",
+    "Relink to file / replace contents",
+    "Saving as PSD vs JPEG",
+    "Grouping layers",
+    "Clipping mask",
+    "Levels adjustment on smart object",
+    "Reflection overlay technique"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:01",
+      "title": "Introduction to smart objects and setup",
+      "concepts": [
+        "Smart objects",
+        "Non-destructive editing",
+        "Drag-and-drop into Photoshop"
+      ],
+      "description": "Aaron introduces smart objects and outlines the goal to build a boxed advertisement, comparing a smart object with a non-smart object to show the impact on image resolution when scaling."
+    },
+    {
+      "start": "00:01:01",
+      "end": "00:02:46",
+      "title": "Smart vs. non-smart scaling demonstration",
+      "concepts": [
+        "Scale comparison",
+        "Resolution retention"
+      ],
+      "description": "Importing a second JPEG, duplicating and rasterizing the non-smart layer to illustrate how scaling affects information versus a smart object that preserves data."
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:04:12",
+      "title": "Non-destructive vs baked blur on smart vs non-smart",
+      "concepts": [
+        "Gaussian blur",
+        "Non-destructive filters"
+      ],
+      "description": "Applying Gaussian blur to both objects; demonstrates that blur on a smart object remains adjustable while blur on a rasterized layer is baked into pixels."
+    },
+    {
+      "start": "00:04:12",
+      "end": "00:08:42",
+      "title": "Smart object-based composition and masking",
+      "concepts": [
+        "Compositing",
+        "Masking",
+        "Grouping layers",
+        "Editing smart object contents"
+      ],
+      "description": "Demonstrates deleting a background, masking the smart object into an advertisement, and using a dynamic text element with masking to blend foreground and background."
+    },
+    {
+      "start": "00:08:42",
+      "end": "00:12:11",
+      "title": "Saving, PSD workflow, and relinking contents",
+      "concepts": [
+        "Save as PSD",
+        "Linked smart objects",
+        "Relink to file",
+        "Replace contents"
+      ],
+      "description": "Discusses when to save as PSD versus JPEG, how to relink or replace the smart object contents, and how linked PSDs enable updating assets while preserving edits."
+    },
+    {
+      "start": "00:12:11",
+      "end": "00:16:10",
+      "title": "Updating linked smart objects and reflection extraction",
+      "concepts": [
+        "Relinking",
+        "Clipping mask",
+        "Screen blend mode",
+        "Levels adjustment",
+        "Reflection overlay"
+      ],
+      "description": "Shows updating a smart object by relinking, clipping a reflected texture to the ad, converting to a smart object for a levels adjustment, and using screen blend to reveal subtle reflections for realism."
+    },
+    {
+      "start": "00:16:12",
+      "end": "00:17:34",
+      "title": "Conclusion and benefits of smart objects",
+      "concepts": [
+        "Non-destructive workflow",
+        "Iterative editing",
+        "Trade-offs"
+      ],
+      "description": "Recap of smart object benefits (resizing, non-destructive filters, updating linked content) and a note on the trade-off of slightly larger file sizes."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Non-destructive scaling of smart objects",
+      "timestamp": "00:01:01",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Non-destructive filtering with smart filters (Gaussian Blur)",
+      "timestamp": "00:03:31",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Editing smart object contents by double-click",
+      "timestamp": "00:06:32",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Relinking/replacing smart object contents (Place/Relink to file)",
+      "timestamp": "00:10:03",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Masking and compositing with color range",
+      "timestamp": "00:06:11",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Reflection overlay using clipping and levels on a screen blend",
+      "timestamp": "00:12:56",
+      "confidence": 0.87
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:14:02.418288+00:00"
+}

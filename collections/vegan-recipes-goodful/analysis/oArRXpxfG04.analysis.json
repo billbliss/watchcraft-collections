@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "video": "oArRXpxfG04.youtube",
+  "title": "Seitan from Flour: Recreating a Viral TikTok Vegan Chicken (Goodful)",
+  "date": {
+    "display": "March 13, 2021",
+    "iso": "2021-03-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "Goodful’s 6-minute-26-second video follows Merle as she attempts a viral TikTok vegan-chicken hack by transforming flour and water into seitan. The transcript documents forming a dough from 400 g flour and 1 cup water, kneading until gluten develops, and resting. It then details a classic gluten-washing process to separate gluten from starch, collecting starchy water for other recipes (e.g., cold skin noodles) and repeating until the water clears. The gluten ball is seasoned and kneaded, rested again, and finally twisted into knots or shapes. It’s pan-fried, then simmered in vegetable broth with a splash of soy sauce for flavor, before being shredded to resemble chicken in texture. The video emphasizes texture over exact chicken flavor and encourages flavor customization (e.g., using buffalo sauce). The host acknowledges the TikTok inspiration (Future Lettuce) and notes the method yields a chewy, meat-like texture, with the option to modify spices and finishing sauces. Publication details from the source metadata confirm the video’s release date and channel (Goodful).",
+  "topics": [
+    "vegan chicken from flour",
+    "seitan",
+    "gluten development",
+    "kneading dough",
+    "dough resting",
+    "finger poke test for gluten",
+    "washing dough to isolate gluten",
+    "separating gluten from starch",
+    "starchy water reuse",
+    "seasoning gluten dough",
+    "hand kneading vs. automatic mixing",
+    "dough shaping into knots",
+    "twisting and knotting",
+    "pan-frying seitan",
+    "broth simmering with soy sauce",
+    "45-minute simmer for flavor",
+    "texture vs. flavor in seitan",
+    "texture shredding to mimic chicken",
+    "taste customization ideas",
+    "TikTok trend adaptation",
+    "culinary improvisation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:53",
+      "title": "Intro and seitan concept",
+      "concepts": [
+        "video context and TikTok trend",
+        "definition of seitan as a gluten-based vegetarian protein",
+        "origin of the viral idea (Future Lettuce)"
+      ],
+      "description": "Host introduces attempting a viral TikTok vegan-chicken method, clarifies that the dish is seitan made from flour, and references the original TikTok creator."
+    },
+    {
+      "start": "00:01:02",
+      "end": "00:02:08",
+      "title": "Dough formation and gluten development",
+      "concepts": [
+        "dough creation with 400 g flour and 1 cup water",
+        "kneading by hand",
+        "gluten formation and palm-to-ball transition",
+        "finger poke test to assess gluten development",
+        "rest period for gluten to form"
+      ],
+      "description": "Ingredient setup and initial dough work: mixing flour and water, kneading until a smooth dough forms, validating gluten formation with a poke test, and resting the dough to continue gluten development."
+    },
+    {
+      "start": "00:02:23",
+      "end": "00:03:14",
+      "title": "Gluten washing and starch separation",
+      "concepts": [
+        "washing dough with water",
+        "separating gluten from starch",
+        "refining gluten by repeated washing",
+        "retaining starchy water for other recipes"
+      ],
+      "description": "The dough is washed to remove starch, leaving a gluten mass. The starch-water byproduct is saved for other uses (e.g., cold skin noodles). The process is repeated until the water clears."
+    },
+    {
+      "start": "00:03:22",
+      "end": "00:04:04",
+      "title": "Seasoning, rest, and shaping",
+      "concepts": [
+        "seasoning gluten dough with salt, pepper, paprika, garlic powder, onion powder",
+        "hand mixing to integrate flavor",
+        "additional resting period",
+        "twisting into knots and interesting shapes"
+      ],
+      "description": "Seasoned gluten dough is massaged by hand to distribute flavor, rested again, then twisted into knots or shapes prior to cooking."
+    },
+    {
+      "start": "00:04:21",
+      "end": "00:05:56",
+      "title": "Cooking, shredding, and tasting",
+      "concepts": [
+        "pan-frying evenly on all sides",
+        "adding vegetable broth and soy sauce for simmering",
+        "45-minute simmer to finish flavor",
+        "shredding to mimic chicken texture",
+        "texture and flavor comparison to chicken"
+      ],
+      "description": "The seitan is fried, simmered with broth and soy sauce, then shredded to resemble chicken texture. The host comments on texture and flavor differences and suggests flavoring variations."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gluten development via kneading",
+      "timestamp": "00:01:23",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Poke test to gauge gluten readiness",
+      "timestamp": "00:02:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Washing dough to isolate gluten and recover starch water",
+      "timestamp": "00:02:23",
+      "confidence": 0.95
+    },
+    {
+      "technique": "Seasoning gluten dough and incorporating flavor",
+      "timestamp": "00:03:27",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Resting dough between processing steps",
+      "timestamp": "00:03:56",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Shaping dough into knots for cooking",
+      "timestamp": "00:04:07",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Pan-frying and browning the seitan",
+      "timestamp": "00:04:21",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Simmering in broth and soy sauce to finish",
+      "timestamp": "00:04:30",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Shredding cooked seitan to mimic chicken texture",
+      "timestamp": "00:04:52",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T18:06:41.211275+00:00"
+}

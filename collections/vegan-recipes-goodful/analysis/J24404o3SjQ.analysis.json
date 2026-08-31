@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "video": "J24404o3SjQ.youtube",
+  "title": "Vegan Pizza Showdown: LA Pizza 108 Tasting and Studio-Crafted Vegan Pizza",
+  "date": {
+    "display": "April 16, 2022",
+    "iso": "2022-04-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Los Angeles, CA (Pizza 108 visit)",
+      "confidence": 0.75,
+      "basis": "Transcript explicitly mentions visiting Pizza 108 in LA and describes LA as the vegan pizza hotspot."
+    },
+    {
+      "name": "Las Vegas, NV",
+      "confidence": 0.85,
+      "basis": "Transcript states that Las Vegas is the original location and origin of the business; the host describes moving from LA to Vegas to grow the brand."
+    }
+  ],
+  "summary": "In this Goodful feature, Merl and Tucker chase vegan pizza credibility across two formats: a trip to Pizza 108 in Los Angeles to sample a top vegan pie, followed by a studio baking session where they build a fully vegan pizza from scratch. The studio portion features a cashew-based vegan mozzarella, a gluten-based vegan pepperoni split into a log and steamed, and a tofu-mushroom sausage, all shaped, topped, and baked on a Neapolitan-style dough. They compare the LA visit with Prime Pizza and their studio creation, then rate each pie. Along the way, they discuss technique (dough characteristics, melt/stretch of vegan cheese, and texture of vegan meats) and ethics (veganism and environmental considerations) as part of the tasting commentary.",
+  "topics": [
+    "Pizza 108 (Los Angeles) vegan pizza",
+    "Neapolitan crust characteristics",
+    "Fermentation and dough texture",
+    "Vegan mozzarella ingredients: cashews, miso, coconut oil, nutritional yeast, tapioca starch, lemon juice",
+    "Vegan pepperoni technique: vital wheat gluten base, fennel, smoked paprika, red pepper flakes; steaming",
+    "Vegan sausage technique: tofu base with mushroom, cornstarch, and flour; crumbling and forming",
+    "Cornmeal dusting for dough work",
+    "Dough shaping: hand-stretch and round pizza form",
+    "Cheese melt and stretch considerations in vegan cheese",
+    "Saucing and topping integration with vegan meats",
+    "Studio pizza assembly workflow",
+    "Flavor and texture evaluation during tasting",
+    "Environmental/ethical discussion tied to vegan choices",
+    "Video contrast: LA Pizza 108 vs. Prime Pizza vs. studio pizza",
+    "Viewer engagement and call for suggestions"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:05:50",
+      "title": "Intro and LA vegan pizza trip (Pizza 108)",
+      "concepts": [
+        "host and guest introduction",
+        "plan to visit an LA vegan pizza spot",
+        "set up: compare tasting between real vegan pies and a studio-made vegan pizza"
+      ],
+      "description": "Merl introduces Tucker, frames the episode as a two-part comparison: first visit Pizza 108 in Los Angeles for a vegan pie, then return to the studio to craft their own vegan pizza and finally rate the three pizzas."
+    },
+    {
+      "start": "00:05:58",
+      "end": "00:15:55",
+      "title": "Studio pizza process: mozzarella, pepperoni, and sausage from scratch",
+      "concepts": [
+        "vegan mozzarella preparation",
+        "vegan pepperoni production",
+        "vegan sausage production",
+        "dough handling and crust formation",
+        "baking and plating"
+      ],
+      "description": "Back in the studio, the crew makes a cashew-based vegan mozzarella, a vital-wheat-gluten pepperoni formed into a log and steamed, and a tofu-mushroom sausage mixture fried on the skillet, then assembles and bakes a vegan pizza with cornmeal-dusted dough, mozzarella, and the vegan meats."
+    },
+    {
+      "start": "00:15:55",
+      "end": "00:16:12",
+      "title": "Conclusion and viewer engagement",
+      "concepts": [
+        "final ratings",
+        "call for viewer ideas and feedback",
+        "wrap-up"
+      ],
+      "description": "The hosts briefly conclude with tasting notes and invite viewers to share which guest they want next and what to cook vegan next."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Vegan mozzarella made from Cashews with miso, refined coconut oil, nutritional yeast, tapioca starch, and lemon juice for melt and tang",
+      "timestamp": "00:06:39",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Pepperoni built from vital wheat gluten with fennel, black pepper, smoked paprika, red pepper flakes; formed into a log and steamed to set",
+      "timestamp": "00:08:56",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Vegan sausage formed from tofu, mushroom mixture, cornstarch and flour; shaped into logs and steamed",
+      "timestamp": "00:09:43",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Neapolitan-style dough handling: pillowy yet crisp crust achieved through fermentation and careful stretching",
+      "timestamp": "00:04:02",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Dough assembly and shaping: cornmeal-dusted dough ball hand-pressed into pizza form",
+      "timestamp": "00:12:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Layering of vegan cheese and vegan meats on a dough-to-crust bake for final pizza assembly",
+      "timestamp": "00:13:02",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T17:31:58.690853+00:00"
+}

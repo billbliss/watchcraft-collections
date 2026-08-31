@@ -1,0 +1,1635 @@
+{
+  "assignments": {
+    "adjustment layers for targeted selections": {
+      "alias_source_keys": [],
+      "canonical_key": "adjustment layers for targeted selections",
+      "canonical_label": "Adjustment layers for targeted selections",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "rationale": "Adjustment layers are a classic non-destructive way to target edits.",
+      "source_key": "adjustment layers for targeted selections",
+      "source_label": "Adjustment layers for targeted selections"
+    },
+    "align to canvas vs selection": {
+      "alias_source_keys": [],
+      "canonical_key": "align to canvas vs selection",
+      "canonical_label": "Align to canvas vs selection",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "rationale": "The topic is about aligning objects relative to the canvas or a selection.",
+      "source_key": "align to canvas vs selection",
+      "source_label": "Align to canvas vs selection"
+    },
+    "alt/option crop from center": {
+      "alias_source_keys": [],
+      "canonical_key": "alt/option crop from center",
+      "canonical_label": "Alt/Option crop from center",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "Alt/Option from-center cropping is a crop tool behavior.",
+      "source_key": "alt/option crop from center",
+      "source_label": "Alt/Option crop from center"
+    },
+    "auto select toggle": {
+      "alias_source_keys": [],
+      "canonical_key": "auto select toggle",
+      "canonical_label": "Auto Select toggle",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "rationale": "Auto Select is used for selecting and positioning layer contents.",
+      "source_key": "auto select toggle",
+      "source_label": "Auto Select toggle"
+    },
+    "background color": {
+      "alias_source_keys": [],
+      "canonical_key": "background color",
+      "canonical_label": "Background color",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "rationale": "Background color is part of foreground/background color management.",
+      "source_key": "background color",
+      "source_label": "Background color"
+    },
+    "blend modes: normal vs difference": {
+      "alias_source_keys": [],
+      "canonical_key": "blend modes: normal vs difference",
+      "canonical_label": "Blend modes: Normal vs Difference",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d"
+      ],
+      "rationale": "Blend modes are a layer-level compositing concept.",
+      "source_key": "blend modes: normal vs difference",
+      "source_label": "Blend modes: Normal vs Difference"
+    },
+    "brush opacity vs flow": {
+      "alias_source_keys": [],
+      "canonical_key": "brush opacity vs flow",
+      "canonical_label": "Brush opacity vs flow",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "Opacity and flow are core brush stroke controls.",
+      "source_key": "brush opacity vs flow",
+      "source_label": "Brush opacity vs flow"
+    },
+    "brush size adjustments ( [ and ] keys )": {
+      "alias_source_keys": [],
+      "canonical_key": "brush size adjustments ( [ and ] keys )",
+      "canonical_label": "Brush size adjustments ( [ and ] keys )",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "Bracket keys are a shortcut for changing brush size.",
+      "source_key": "brush size adjustments ( [ and ] keys )",
+      "source_label": "Brush size adjustments ( [ and ] keys )"
+    },
+    "brush smoothing": {
+      "alias_source_keys": [],
+      "canonical_key": "brush smoothing",
+      "canonical_label": "Brush smoothing",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "Brush smoothing is a brush behavior setting.",
+      "source_key": "brush smoothing",
+      "source_label": "Brush smoothing"
+    },
+    "brush tool": {
+      "alias_source_keys": [],
+      "canonical_key": "brush tool",
+      "canonical_label": "Brush tool",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "rationale": "The topic is the Brush tool itself as an accessible toolbar tool.",
+      "source_key": "brush tool",
+      "source_label": "Brush tool"
+    },
+    "brush tool and foreground/background color": {
+      "alias_source_keys": [
+        "foreground/background color swap (x)",
+        "x key to swap foreground/background colors"
+      ],
+      "canonical_key": "brush tool and foreground/background color",
+      "canonical_label": "Brush tool and foreground/background color",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-color-control-7554f7f9",
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "The topic combines brush use with swapping foreground and background colors.",
+      "source_key": "brush tool and foreground/background color",
+      "source_label": "Brush tool and foreground/background color"
+    },
+    "brush tool basics": {
+      "alias_source_keys": [
+        "brush tool"
+      ],
+      "canonical_key": "brush tool basics",
+      "canonical_label": "Brush tool basics",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "Brush tool basics directly matches the Brush tool.",
+      "source_key": "brush tool basics",
+      "source_label": "Brush tool basics"
+    },
+    "catch light in eyes": {
+      "alias_source_keys": [],
+      "canonical_key": "catch light in eyes",
+      "canonical_label": "Catch light in eyes",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "rationale": "Catch lights are a small painting/detailing technique in eye work.",
+      "source_key": "catch light in eyes",
+      "source_label": "Catch light in eyes"
+    },
+    "color picker": {
+      "alias_source_keys": [],
+      "canonical_key": "color picker",
+      "canonical_label": "Color picker",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "rationale": "A color picker is used to choose painting colors.",
+      "source_key": "color picker",
+      "source_label": "Color picker"
+    },
+    "content-aware fill": {
+      "alias_source_keys": [],
+      "canonical_key": "content-aware fill",
+      "canonical_label": "Content-Aware Fill",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "rationale": "Content-Aware Fill belongs to AI-assisted reconstruction workflows.",
+      "source_key": "content-aware fill",
+      "source_label": "Content-Aware Fill"
+    },
+    "contextual taskbar": {
+      "alias_source_keys": [],
+      "canonical_key": "contextual taskbar",
+      "canonical_label": "Contextual taskbar",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "rationale": "The contextual taskbar is part of the Photoshop interface setup.",
+      "source_key": "contextual taskbar",
+      "source_label": "Contextual taskbar"
+    },
+    "creative cloud installation": {
+      "alias_source_keys": [],
+      "canonical_key": "creative cloud installation",
+      "canonical_label": "Creative Cloud installation",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "rationale": "Creative Cloud installation is an installation and setup workflow topic.",
+      "source_key": "creative cloud installation",
+      "source_label": "Creative Cloud installation"
+    },
+    "crop tool (c shortcut)": {
+      "alias_source_keys": [],
+      "canonical_key": "crop tool (c shortcut)",
+      "canonical_label": "Crop tool (C shortcut)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "The Crop tool shortcut and controls are crop-tool usage.",
+      "source_key": "crop tool (c shortcut)",
+      "source_label": "Crop tool (C shortcut)"
+    },
+    "ctrl/cmd temporary auto select": {
+      "alias_source_keys": [],
+      "canonical_key": "ctrl/cmd temporary auto select",
+      "canonical_label": "Ctrl/Cmd temporary Auto Select",
+      "confidence": 0.85,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "rationale": "Temporary Auto Select affects move/selection alignment behavior.",
+      "source_key": "ctrl/cmd temporary auto select",
+      "source_label": "Ctrl/Cmd temporary Auto Select"
+    },
+    "customizing and saving a workspace": {
+      "alias_source_keys": [],
+      "canonical_key": "customizing and saving a workspace",
+      "canonical_label": "Customizing and saving a workspace",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "rationale": "Customizing and saving a workspace is workspace setup.",
+      "source_key": "customizing and saving a workspace",
+      "source_label": "Customizing and saving a workspace"
+    },
+    "delete cropped pixels (crop tool setting)": {
+      "alias_source_keys": [],
+      "canonical_key": "delete cropped pixels (crop tool setting)",
+      "canonical_label": "Delete cropped pixels (crop tool setting)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "Deleting cropped pixels is a crop tool setting.",
+      "source_key": "delete cropped pixels (crop tool setting)",
+      "source_label": "Delete cropped pixels (crop tool setting)"
+    },
+    "drag-and-drop file import": {
+      "alias_source_keys": [],
+      "canonical_key": "drag-and-drop file import",
+      "canonical_label": "Drag-and-drop file import",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "rationale": "Drag-and-drop import is a file opening/import workflow.",
+      "source_key": "drag-and-drop file import",
+      "source_label": "Drag-and-drop file import"
+    },
+    "edit toolbar": {
+      "alias_source_keys": [],
+      "canonical_key": "edit toolbar",
+      "canonical_label": "Edit toolbar",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "rationale": "Customizing the toolbar is about tool access and organization.",
+      "source_key": "edit toolbar",
+      "source_label": "Edit toolbar"
+    },
+    "eraser tool (e) shortcut": {
+      "alias_source_keys": [],
+      "canonical_key": "eraser tool (e) shortcut",
+      "canonical_label": "Eraser tool (E) shortcut",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "rationale": "The E shortcut is a tool-switch shortcut, not the crop tool.",
+      "source_key": "eraser tool (e) shortcut",
+      "source_label": "Eraser tool (E) shortcut"
+    },
+    "export options (quick export, export as)": {
+      "alias_source_keys": [],
+      "canonical_key": "export options (quick export, export as)",
+      "canonical_label": "Export options (Quick Export, Export As)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "rationale": "Quick Export and Export As are file export options.",
+      "source_key": "export options (quick export, export as)",
+      "source_label": "Export options (Quick Export, Export As)"
+    },
+    "find distractions (people, wires) in remove tool": {
+      "alias_source_keys": [],
+      "canonical_key": "find distractions (people, wires) in remove tool",
+      "canonical_label": "Find distractions (People, Wires) in Remove Tool",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Finding distractions for removal is part of the Remove Tool workflow.",
+      "source_key": "find distractions (people, wires) in remove tool",
+      "source_label": "Find distractions (People, Wires) in Remove Tool"
+    },
+    "fit to canvas (ctrl/cmd 0)": {
+      "alias_source_keys": [],
+      "canonical_key": "fit to canvas (ctrl/cmd 0)",
+      "canonical_label": "Fit to Canvas (Ctrl/Cmd 0)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-navigation-and-view-bd6c86a2"
+      ],
+      "rationale": "Fit to canvas is a view control for navigation.",
+      "source_key": "fit to canvas (ctrl/cmd 0)",
+      "source_label": "Fit to Canvas (Ctrl/Cmd 0)"
+    },
+    "fixed aspect ratios (16:9, 1:1 square, etc.)": {
+      "alias_source_keys": [],
+      "canonical_key": "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "canonical_label": "Fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "Fixed aspect ratios are a crop-setting topic.",
+      "source_key": "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "source_label": "Fixed aspect ratios (16:9, 1:1 square, etc.)"
+    },
+    "flow as dynamic sketch-like intensity": {
+      "alias_source_keys": [],
+      "canonical_key": "flow as dynamic sketch-like intensity",
+      "canonical_label": "Flow as dynamic sketch-like intensity",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "Flow controls brush intensity and stroke buildup.",
+      "source_key": "flow as dynamic sketch-like intensity",
+      "source_label": "Flow as dynamic sketch-like intensity"
+    },
+    "foreground color": {
+      "alias_source_keys": [],
+      "canonical_key": "foreground color",
+      "canonical_label": "Foreground color",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "rationale": "Foreground color is a core color control concept.",
+      "source_key": "foreground color",
+      "source_label": "Foreground color"
+    },
+    "foreground/background color swap (x)": {
+      "alias_source_keys": [
+        "brush tool and foreground/background color",
+        "x key to swap foreground/background colors"
+      ],
+      "canonical_key": "foreground/background color swap (x)",
+      "canonical_label": "Foreground/background color swap (X)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "rationale": "X-key swapping foreground and background colors is a color control shortcut.",
+      "source_key": "foreground/background color swap (x)",
+      "source_label": "Foreground/background color swap (X)"
+    },
+    "freehand crop": {
+      "alias_source_keys": [],
+      "canonical_key": "freehand crop",
+      "canonical_label": "Freehand crop",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "Freehand crop refers to a crop tool mode.",
+      "source_key": "freehand crop",
+      "source_label": "Freehand crop"
+    },
+    "generative ai options in remove tool": {
+      "alias_source_keys": [],
+      "canonical_key": "generative ai options in remove tool",
+      "canonical_label": "Generative AI options in Remove Tool",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "rationale": "Generative AI options in Remove Tool are AI-assisted content reconstruction features.",
+      "source_key": "generative ai options in remove tool",
+      "source_label": "Generative AI options in Remove Tool"
+    },
+    "generative expand (ai expansion)": {
+      "alias_source_keys": [],
+      "canonical_key": "generative expand (ai expansion)",
+      "canonical_label": "Generative Expand (AI expansion)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "rationale": "Generative Expand is an AI-assisted extension workflow.",
+      "source_key": "generative expand (ai expansion)",
+      "source_label": "Generative Expand (AI expansion)"
+    },
+    "generative fill (firefly) and upscaling in properties": {
+      "alias_source_keys": [],
+      "canonical_key": "generative fill (firefly) and upscaling in properties",
+      "canonical_label": "Generative Fill (Firefly) and upscaling in properties",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-content-aware-and-generative-4a1fe53b"
+      ],
+      "rationale": "Generative Fill is a generative content feature.",
+      "source_key": "generative fill (firefly) and upscaling in properties",
+      "source_label": "Generative Fill (Firefly) and upscaling in properties"
+    },
+    "hard round brush": {
+      "alias_source_keys": [],
+      "canonical_key": "hard round brush",
+      "canonical_label": "Hard Round Brush",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "Hard Round Brush is a specific brush preset and brush type.",
+      "source_key": "hard round brush",
+      "source_label": "Hard Round Brush"
+    },
+    "home screen vs workspace": {
+      "alias_source_keys": [],
+      "canonical_key": "home screen vs workspace",
+      "canonical_label": "Home screen vs workspace",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "rationale": "Home screen versus workspace is about interface orientation.",
+      "source_key": "home screen vs workspace",
+      "source_label": "Home screen vs workspace"
+    },
+    "lasso tool and selections": {
+      "alias_source_keys": [
+        "align to canvas vs selection"
+      ],
+      "canonical_key": "lasso tool and selections",
+      "canonical_label": "Lasso tool and selections",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "rationale": "The lasso tool is a selection method.",
+      "source_key": "lasso tool and selections",
+      "source_label": "Lasso tool and selections"
+    },
+    "layer management and creation": {
+      "alias_source_keys": [],
+      "canonical_key": "layer management and creation",
+      "canonical_label": "Layer management and creation",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d"
+      ],
+      "rationale": "Layer management and creation are core layer workflow tasks.",
+      "source_key": "layer management and creation",
+      "source_label": "Layer management and creation"
+    },
+    "layer-based non-destructive editing": {
+      "alias_source_keys": [],
+      "canonical_key": "layer-based non-destructive editing",
+      "canonical_label": "Layer-based non-destructive editing",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "rationale": "Layer-based editing is a standard non-destructive approach.",
+      "source_key": "layer-based non-destructive editing",
+      "source_label": "Layer-based non-destructive editing"
+    },
+    "mask concepts (brief mention)": {
+      "alias_source_keys": [],
+      "canonical_key": "mask concepts (brief mention)",
+      "canonical_label": "Mask concepts (brief mention)",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "rationale": "Masks are a core non-destructive workflow concept even though this topic is only mentioned briefly.",
+      "source_key": "mask concepts (brief mention)",
+      "source_label": "Mask concepts (brief mention)"
+    },
+    "move tool (v)": {
+      "alias_source_keys": [],
+      "canonical_key": "move tool (v)",
+      "canonical_label": "Move tool (V)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "rationale": "The Move tool is primarily used for positioning and aligning layers or objects.",
+      "source_key": "move tool (v)",
+      "source_label": "Move tool (V)"
+    },
+    "move tool and transform controls": {
+      "alias_source_keys": [],
+      "canonical_key": "move tool and transform controls",
+      "canonical_label": "Move tool and transform controls",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-alignment-and-transform-a684efc5"
+      ],
+      "rationale": "Move tool plus transform controls belong to layer positioning and transformation workflows.",
+      "source_key": "move tool and transform controls",
+      "source_label": "Move tool and transform controls"
+    },
+    "new layer": {
+      "alias_source_keys": [],
+      "canonical_key": "new layer",
+      "canonical_label": "New layer",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d"
+      ],
+      "rationale": "Creating a new layer is a basic layer-management task.",
+      "source_key": "new layer",
+      "source_label": "New layer"
+    },
+    "non-destructive duplication (ctrl/cmd j)": {
+      "alias_source_keys": [
+        "non-destructive editing"
+      ],
+      "canonical_key": "non-destructive duplication (ctrl/cmd j)",
+      "canonical_label": "Non-destructive duplication (Ctrl/Cmd J)",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-layer-workflow-8cc77b3d",
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "rationale": "Ctrl/Cmd+J duplicates content to a new layer, which is a standard non-destructive workflow.",
+      "source_key": "non-destructive duplication (ctrl/cmd j)",
+      "source_label": "Non-destructive duplication (Ctrl/Cmd J)"
+    },
+    "non-destructive editing": {
+      "alias_source_keys": [
+        "layer-based non-destructive editing"
+      ],
+      "canonical_key": "non-destructive editing",
+      "canonical_label": "Non-destructive editing",
+      "confidence": 1.0,
+      "family_ids": [
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "rationale": "This is the same non-destructive editing concept already named in the alias list.",
+      "source_key": "non-destructive editing",
+      "source_label": "Non-destructive editing"
+    },
+    "non-destructive painting on new layers": {
+      "alias_source_keys": [
+        "non-destructive editing"
+      ],
+      "canonical_key": "non-destructive painting on new layers",
+      "canonical_label": "Non-destructive painting on new layers",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392",
+        "family-non-destructive-editing-e327ff37"
+      ],
+      "rationale": "Painting on new layers preserves the original image and is a non-destructive painting method.",
+      "source_key": "non-destructive painting on new layers",
+      "source_label": "Non-destructive painting on new layers"
+    },
+    "object finder and cloud vs device processing": {
+      "alias_source_keys": [],
+      "canonical_key": "object finder and cloud vs device processing",
+      "canonical_label": "Object Finder and cloud vs device processing",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "rationale": "Object Finder is a selection aid, though the cloud vs device detail is more implementation-specific.",
+      "source_key": "object finder and cloud vs device processing",
+      "source_label": "Object Finder and cloud vs device processing"
+    },
+    "opacity/flow vs brush interaction on layers": {
+      "alias_source_keys": [],
+      "canonical_key": "opacity/flow vs brush interaction on layers",
+      "canonical_label": "Opacity/flow vs brush interaction on layers",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89",
+        "family-painting-techniques-cd5ab392"
+      ],
+      "rationale": "Opacity and flow control how brush strokes behave when painting on layers.",
+      "source_key": "opacity/flow vs brush interaction on layers",
+      "source_label": "Opacity/flow vs brush interaction on layers"
+    },
+    "opening and creating files": {
+      "alias_source_keys": [],
+      "canonical_key": "opening and creating files",
+      "canonical_label": "Opening and creating files",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "rationale": "Opening and creating files is directly about file workflow.",
+      "source_key": "opening and creating files",
+      "source_label": "Opening and creating files"
+    },
+    "options bar, status bar, menu bar": {
+      "alias_source_keys": [],
+      "canonical_key": "options bar, status bar, menu bar",
+      "canonical_label": "Options bar, Status bar, Menu bar",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "rationale": "These are interface bars used to orient the workspace.",
+      "source_key": "options bar, status bar, menu bar",
+      "source_label": "Options bar, Status bar, Menu bar"
+    },
+    "original ratio": {
+      "alias_source_keys": [],
+      "canonical_key": "original ratio",
+      "canonical_label": "Original ratio",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "Original ratio refers to preserving or matching aspect ratio during crop operations.",
+      "source_key": "original ratio",
+      "source_label": "Original ratio"
+    },
+    "overlay blend mode": {
+      "alias_source_keys": [],
+      "canonical_key": "overlay blend mode",
+      "canonical_label": "Overlay blend mode",
+      "confidence": 0.63,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "rationale": "Overlay is a blend mode often used in compositing or brush effects, but the topic is not exact enough for a tighter match.",
+      "source_key": "overlay blend mode",
+      "source_label": "Overlay blend mode"
+    },
+    "panels (layers, history, properties)": {
+      "alias_source_keys": [],
+      "canonical_key": "panels (layers, history, properties)",
+      "canonical_label": "Panels (Layers, History, Properties)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "rationale": "Layers, History, and Properties are standard Photoshop panels.",
+      "source_key": "panels (layers, history, properties)",
+      "source_label": "Panels (Layers, History, Properties)"
+    },
+    "patch tool": {
+      "alias_source_keys": [],
+      "canonical_key": "patch tool",
+      "canonical_label": "Patch tool",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "The Patch tool is used for repairing and replacing image areas.",
+      "source_key": "patch tool",
+      "source_label": "Patch tool"
+    },
+    "patch tool (source vs destination)": {
+      "alias_source_keys": [],
+      "canonical_key": "patch tool (source vs destination)",
+      "canonical_label": "Patch Tool (Source vs Destination)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Source versus destination are Patch Tool modes within retouching workflows.",
+      "source_key": "patch tool (source vs destination)",
+      "source_label": "Patch Tool (Source vs Destination)"
+    },
+    "photoshop basics": {
+      "alias_source_keys": [],
+      "canonical_key": "photoshop basics",
+      "canonical_label": "Photoshop basics",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "rationale": "This is a broad introductory Photoshop topic, and the chapter context focuses on workspace setup and workflow basics.",
+      "source_key": "photoshop basics",
+      "source_label": "Photoshop basics"
+    },
+    "photoshop workspaces (photography, graphic design, painting)": {
+      "alias_source_keys": [],
+      "canonical_key": "photoshop workspaces (photography, graphic design, painting)",
+      "canonical_label": "Photoshop workspaces (Photography, Graphic Design, Painting)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-workspace-setup-6d7d7c5c"
+      ],
+      "rationale": "Photoshop workspaces like Photography and Painting are part of interface setup.",
+      "source_key": "photoshop workspaces (photography, graphic design, painting)",
+      "source_label": "Photoshop workspaces (Photography, Graphic Design, Painting)"
+    },
+    "pixels and megapixels": {
+      "alias_source_keys": [],
+      "canonical_key": "pixels and megapixels",
+      "canonical_label": "Pixels and megapixels",
+      "confidence": 0.55,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "rationale": "Pixels and megapixels are foundational image concepts but do not map cleanly to a specific Photoshop workflow family.",
+      "source_key": "pixels and megapixels",
+      "source_label": "Pixels and megapixels"
+    },
+    "psd vs jpeg/png export": {
+      "alias_source_keys": [],
+      "canonical_key": "psd vs jpeg/png export",
+      "canonical_label": "PSD vs JPEG/PNG export",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "rationale": "PSD versus JPEG/PNG export is about saving and exporting file formats.",
+      "source_key": "psd vs jpeg/png export",
+      "source_label": "PSD vs JPEG/PNG export"
+    },
+    "reference point in crop": {
+      "alias_source_keys": [],
+      "canonical_key": "reference point in crop",
+      "canonical_label": "Reference point in crop",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "A reference point in crop is a crop-tool control.",
+      "source_key": "reference point in crop",
+      "source_label": "Reference point in crop"
+    },
+    "remove tool": {
+      "alias_source_keys": [
+        "remove tool basics"
+      ],
+      "canonical_key": "remove tool",
+      "canonical_label": "Remove tool",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "The Remove tool is a retouching feature and the alias matches the basic tool name.",
+      "source_key": "remove tool",
+      "source_label": "Remove tool"
+    },
+    "remove tool basics": {
+      "alias_source_keys": [
+        "remove tool"
+      ],
+      "canonical_key": "remove tool basics",
+      "canonical_label": "Remove Tool basics",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-retouching-tools-09c908c4"
+      ],
+      "rationale": "Remove Tool basics is the same retouching tool named in the alias list.",
+      "source_key": "remove tool basics",
+      "source_label": "Remove Tool basics"
+    },
+    "rotate view tool (r) as a sticky shortcut": {
+      "alias_source_keys": [],
+      "canonical_key": "rotate view tool (r) as a sticky shortcut",
+      "canonical_label": "Rotate View Tool (R) as a sticky shortcut",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-navigation-and-view-bd6c86a2"
+      ],
+      "rationale": "Rotate View Tool is a view-navigation control, and the sticky shortcut note is secondary.",
+      "source_key": "rotate view tool (r) as a sticky shortcut",
+      "source_label": "Rotate View Tool (R) as a sticky shortcut"
+    },
+    "sample all layers": {
+      "alias_source_keys": [
+        "sampling from all layers"
+      ],
+      "canonical_key": "sample all layers",
+      "canonical_label": "Sample All Layers",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "rationale": "Sample All Layers is a sampling setting commonly used with selection or retouching tools, and the alias is exact.",
+      "source_key": "sample all layers",
+      "source_label": "Sample All Layers"
+    },
+    "sampling from all layers": {
+      "alias_source_keys": [
+        "sample all layers"
+      ],
+      "canonical_key": "sampling from all layers",
+      "canonical_label": "Sampling from all layers",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "rationale": "Sampling from all layers is the same setting as Sample All Layers.",
+      "source_key": "sampling from all layers",
+      "source_label": "Sampling from all layers"
+    },
+    "save vs save as vs save a copy": {
+      "alias_source_keys": [],
+      "canonical_key": "save vs save as vs save a copy",
+      "canonical_label": "Save vs Save As vs Save a Copy",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-file-handling-d311d55d"
+      ],
+      "rationale": "Save, Save As, and Save a Copy are core file-saving workflows.",
+      "source_key": "save vs save as vs save a copy",
+      "source_label": "Save vs Save As vs Save a Copy"
+    },
+    "save/load toolbar presets (pix minimal)": {
+      "alias_source_keys": [],
+      "canonical_key": "save/load toolbar presets (pix minimal)",
+      "canonical_label": "Save/Load toolbar presets (Pix Minimal)",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "rationale": "Saving and loading toolbar presets is a customization workflow that speeds use of Photoshop.",
+      "source_key": "save/load toolbar presets (pix minimal)",
+      "source_label": "Save/Load toolbar presets (Pix Minimal)"
+    },
+    "select subject / object selection tool": {
+      "alias_source_keys": [],
+      "canonical_key": "select subject / object selection tool",
+      "canonical_label": "Select Subject / Object Selection Tool",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-selection-methods-fd0b9e3a"
+      ],
+      "rationale": "Select Subject and Object Selection Tool are automatic selection methods.",
+      "source_key": "select subject / object selection tool",
+      "source_label": "Select Subject / Object Selection Tool"
+    },
+    "shift trick for straight lines": {
+      "alias_source_keys": [],
+      "canonical_key": "shift trick for straight lines",
+      "canonical_label": "Shift trick for straight lines",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "rationale": "The Shift trick is specifically about making straight brush strokes while painting.",
+      "source_key": "shift trick for straight lines",
+      "source_label": "Shift trick for straight lines"
+    },
+    "soft round brush": {
+      "alias_source_keys": [],
+      "canonical_key": "soft round brush",
+      "canonical_label": "Soft Round Brush",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-brush-fundamentals-4c8a5e89"
+      ],
+      "rationale": "Soft Round Brush is a brush preset and the topic is about brush choice.",
+      "source_key": "soft round brush",
+      "source_label": "Soft Round Brush"
+    },
+    "sticky shortcuts for tool switching (r, l, j, etc.)": {
+      "alias_source_keys": [],
+      "canonical_key": "sticky shortcuts for tool switching (r, l, j, etc.)",
+      "canonical_label": "Sticky shortcuts for tool switching (R, L, J, etc.)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "rationale": "Sticky shortcuts for tool switching are about quickly accessing tools from the toolbar.",
+      "source_key": "sticky shortcuts for tool switching (r, l, j, etc.)",
+      "source_label": "Sticky shortcuts for tool switching (R, L, J, etc.)"
+    },
+    "straighten tool": {
+      "alias_source_keys": [],
+      "canonical_key": "straighten tool",
+      "canonical_label": "Straighten tool",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-cropping-and-straightening-f35aeaa0"
+      ],
+      "rationale": "The Straighten tool is part of crop-based straightening.",
+      "source_key": "straighten tool",
+      "source_label": "Straighten tool"
+    },
+    "text tool and typography": {
+      "alias_source_keys": [],
+      "canonical_key": "text tool and typography",
+      "canonical_label": "Text tool and typography",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-typography-and-design-0ab93f15"
+      ],
+      "rationale": "Text tool and typography clearly belong to text and layout work.",
+      "source_key": "text tool and typography",
+      "source_label": "Text tool and typography"
+    },
+    "tilde erasing (tilde ~ key)": {
+      "alias_source_keys": [],
+      "canonical_key": "tilde erasing (tilde ~ key)",
+      "canonical_label": "TilDE erasing (tilde ~ key)",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "rationale": "The tilde key is used for a brush erasing/painting shortcut in the context of brush work.",
+      "source_key": "tilde erasing (tilde ~ key)",
+      "source_label": "TilDE erasing (tilde ~ key)"
+    },
+    "tilde key eraser": {
+      "alias_source_keys": [],
+      "canonical_key": "tilde key eraser",
+      "canonical_label": "Tilde key eraser",
+      "confidence": 0.66,
+      "family_ids": [
+        "family-painting-techniques-cd5ab392"
+      ],
+      "rationale": "The tilde key eraser shortcut is a brush-related painting workflow rather than a general edit.",
+      "source_key": "tilde key eraser",
+      "source_label": "Tilde key eraser"
+    },
+    "tool groups and access (hold to reveal more)": {
+      "alias_source_keys": [],
+      "canonical_key": "tool groups and access (hold to reveal more)",
+      "canonical_label": "Tool groups and access (hold to reveal more)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-tool-access-3487009c"
+      ],
+      "rationale": "Holding a tool icon to reveal more tools is direct toolbar access behavior.",
+      "source_key": "tool groups and access (hold to reveal more)",
+      "source_label": "Tool groups and access (hold to reveal more)"
+    },
+    "undo/redo shortcuts": {
+      "alias_source_keys": [],
+      "canonical_key": "undo/redo shortcuts",
+      "canonical_label": "Undo/Redo shortcuts",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-performance-and-workflow-bcd42eca"
+      ],
+      "rationale": "Undo and redo shortcuts are classic workflow accelerators.",
+      "source_key": "undo/redo shortcuts",
+      "source_label": "Undo/Redo shortcuts"
+    },
+    "x key to swap foreground/background colors": {
+      "alias_source_keys": [
+        "foreground/background color swap (x)"
+      ],
+      "canonical_key": "x key to swap foreground/background colors",
+      "canonical_label": "X key to swap foreground/background colors",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-color-control-7554f7f9"
+      ],
+      "rationale": "Swapping foreground and background colors with X is exactly the color-control shortcut.",
+      "source_key": "x key to swap foreground/background colors",
+      "source_label": "X key to swap foreground/background colors"
+    },
+    "zoom and pan shortcuts (spacebar, scrubby zoom, h key)": {
+      "alias_source_keys": [],
+      "canonical_key": "zoom and pan shortcuts (spacebar, scrubby zoom, h key)",
+      "canonical_label": "Zoom and pan shortcuts (Spacebar, scrubby zoom, H key)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-navigation-and-view-bd6c86a2"
+      ],
+      "rationale": "Zoom and pan shortcuts are view-navigation controls.",
+      "source_key": "zoom and pan shortcuts (spacebar, scrubby zoom, h key)",
+      "source_label": "Zoom and pan shortcuts (Spacebar, scrubby zoom, H key)"
+    }
+  },
+  "collection_id": "photoshop-tutorial-for-beginners-complete-series",
+  "created_at": "2026-08-31T05:42:31.403399+00:00",
+  "display_label_prompt_version": 1,
+  "display_labels": {
+    "adjustment layers for targeted selections": "Adjustment Layers",
+    "align to canvas vs selection": "Align to Canvas",
+    "alt/option crop from center": "Center Crop Drag",
+    "auto select toggle": "Auto Select",
+    "background color": "Background Color",
+    "blend modes: normal vs difference": "Blend Modes",
+    "brush opacity vs flow": "Brush Opacity Flow",
+    "brush size adjustments ( [ and ] keys )": "Brush Size Shortcuts",
+    "brush smoothing": "Brush Smoothing",
+    "brush tool": "Brush Tool",
+    "brush tool and foreground/background color": "Brush Color Basics",
+    "brush tool basics": "Brush Basics",
+    "catch light in eyes": "Eye Catch Light",
+    "color picker": "Color Picker",
+    "content-aware fill": "Content-Aware Fill",
+    "contextual taskbar": "Contextual Taskbar",
+    "creative cloud installation": "Creative Cloud Install",
+    "crop tool (c shortcut)": "Crop Tool",
+    "ctrl/cmd temporary auto select": "Temporary Auto Select",
+    "customizing and saving a workspace": "Save Workspace",
+    "delete cropped pixels (crop tool setting)": "Delete Cropped Pixels",
+    "drag-and-drop file import": "Drag and Drop Import",
+    "edit toolbar": "Edit Toolbar",
+    "eraser tool (e) shortcut": "Eraser Tool",
+    "export options (quick export, export as)": "Export Options",
+    "find distractions (people, wires) in remove tool": "Remove Tool Distractions",
+    "fit to canvas (ctrl/cmd 0)": "Fit to Canvas",
+    "fixed aspect ratios (16:9, 1:1 square, etc.)": "Fixed Aspect Ratios",
+    "flow as dynamic sketch-like intensity": "Brush Flow",
+    "foreground color": "Foreground Color",
+    "foreground/background color swap (x)": "Color Swap",
+    "freehand crop": "Freehand Crop",
+    "generative ai options in remove tool": "Generative Remove Options",
+    "generative expand (ai expansion)": "Generative Expand",
+    "generative fill (firefly) and upscaling in properties": "Generative Fill",
+    "hard round brush": "Hard Round Brush",
+    "home screen vs workspace": "Home Screen",
+    "lasso tool and selections": "Lasso Selections",
+    "layer management and creation": "Layer Management",
+    "layer-based non-destructive editing": "Non-Destructive Layers",
+    "mask concepts (brief mention)": "Layer Masks",
+    "move tool (v)": "Move Tool",
+    "move tool and transform controls": "Transform Controls",
+    "new layer": "New Layer",
+    "non-destructive duplication (ctrl/cmd j)": "Duplicate Layers",
+    "non-destructive editing": "Non-Destructive Editing",
+    "non-destructive painting on new layers": "Non-Destructive Painting",
+    "object finder and cloud vs device processing": "Object Finder",
+    "opacity/flow vs brush interaction on layers": "Opacity Flow Brush",
+    "opening and creating files": "Open and Create Files",
+    "options bar, status bar, menu bar": "Three OSM Bars",
+    "original ratio": "Original Aspect Ratio",
+    "overlay blend mode": "Overlay Blend Mode",
+    "panels (layers, history, properties)": "Workspace Panels",
+    "patch tool": "Patch Tool",
+    "patch tool (source vs destination)": "Patch Tool Basics",
+    "photoshop basics": "Photoshop Fundamentals",
+    "photoshop workspaces (photography, graphic design, painting)": "Photoshop Workspaces",
+    "pixels and megapixels": "Pixels and Megapixels",
+    "psd vs jpeg/png export": "PSD Export Formats",
+    "reference point in crop": "Crop Reference Point",
+    "remove tool": "Remove Tool",
+    "remove tool basics": "Remove Tool Basics",
+    "rotate view tool (r) as a sticky shortcut": "Rotate View Tool",
+    "sample all layers": "Sample All Layers",
+    "sampling from all layers": "All Layers Sampling",
+    "save vs save as vs save a copy": "Save As Options",
+    "save/load toolbar presets (pix minimal)": "Toolbar Presets",
+    "select subject / object selection tool": "Select Subject Tool",
+    "shift trick for straight lines": "Straight Line Brush",
+    "soft round brush": "Soft Round Brush",
+    "sticky shortcuts for tool switching (r, l, j, etc.)": "Tool Switching Shortcuts",
+    "straighten tool": "Straighten Tool",
+    "text tool and typography": "Text Tool",
+    "tilde erasing (tilde ~ key)": "Tilde Erasing",
+    "tilde key eraser": "Tilde Key Eraser",
+    "tool groups and access (hold to reveal more)": "Tool Groups",
+    "undo/redo shortcuts": "Undo Redo Shortcuts",
+    "x key to swap foreground/background colors": "Swap Colors Key",
+    "zoom and pan shortcuts (spacebar, scrubby zoom, h key)": "Zoom and Pan Shortcuts"
+  },
+  "families": {
+    "family-alignment-and-transform-a684efc5": {
+      "canonical_key": "alignment and transform",
+      "description": "Positioning elements precisely with move, transform, alignment, and canvas/selection anchoring controls.",
+      "family_id": "family-alignment-and-transform-a684efc5",
+      "label": "Alignment And Transform"
+    },
+    "family-brush-fundamentals-4c8a5e89": {
+      "canonical_key": "brush fundamentals",
+      "description": "Working with brush types, size, smoothing, opacity, flow, and stroke behavior.",
+      "family_id": "family-brush-fundamentals-4c8a5e89",
+      "label": "Brush Fundamentals"
+    },
+    "family-color-control-7554f7f9": {
+      "canonical_key": "color control",
+      "description": "Managing foreground and background colors, swapping them, and picking colors for painting tasks.",
+      "family_id": "family-color-control-7554f7f9",
+      "label": "Color Control"
+    },
+    "family-content-aware-and-generative-4a1fe53b": {
+      "canonical_key": "content-aware and generative",
+      "description": "Using AI-assisted fill, expand, and removal features to extend or reconstruct image content.",
+      "family_id": "family-content-aware-and-generative-4a1fe53b",
+      "label": "Content-Aware And Generative"
+    },
+    "family-cropping-and-straightening-f35aeaa0": {
+      "canonical_key": "cropping and straightening",
+      "description": "Reframing images with crop options, ratios, reference points, and straighten controls.",
+      "family_id": "family-cropping-and-straightening-f35aeaa0",
+      "label": "Cropping And Straightening"
+    },
+    "family-file-handling-d311d55d": {
+      "canonical_key": "file handling",
+      "description": "Creating, opening, saving, and exporting files in the formats and workflows covered.",
+      "family_id": "family-file-handling-d311d55d",
+      "label": "File Handling"
+    },
+    "family-layer-workflow-8cc77b3d": {
+      "canonical_key": "layer workflow",
+      "description": "Creating, duplicating, arranging, and editing on layers to keep work flexible and editable.",
+      "family_id": "family-layer-workflow-8cc77b3d",
+      "label": "Layer Workflow"
+    },
+    "family-navigation-and-view-bd6c86a2": {
+      "canonical_key": "navigation and view",
+      "description": "Moving around the canvas with zoom, pan, fit, rotate view, and related view controls.",
+      "family_id": "family-navigation-and-view-bd6c86a2",
+      "label": "Navigation And View"
+    },
+    "family-non-destructive-editing-e327ff37": {
+      "canonical_key": "non-destructive editing",
+      "description": "Preserving originals through adjustments, duplication, masks, and other reversible editing approaches.",
+      "family_id": "family-non-destructive-editing-e327ff37",
+      "label": "Non-Destructive Editing"
+    },
+    "family-painting-techniques-cd5ab392": {
+      "canonical_key": "painting techniques",
+      "description": "Applying brush-based effects, straight lines, patterns, and non-destructive painting on layers.",
+      "family_id": "family-painting-techniques-cd5ab392",
+      "label": "Painting Techniques"
+    },
+    "family-performance-and-workflow-bcd42eca": {
+      "canonical_key": "performance and workflow",
+      "description": "Installing Photoshop, customizing the workspace, and using shortcuts to speed common tasks.",
+      "family_id": "family-performance-and-workflow-bcd42eca",
+      "label": "Performance And Workflow"
+    },
+    "family-retouching-tools-09c908c4": {
+      "canonical_key": "retouching tools",
+      "description": "Removing distractions and repairing image areas with fill, patch, remove, and related healing workflows.",
+      "family_id": "family-retouching-tools-09c908c4",
+      "label": "Retouching Tools"
+    },
+    "family-selection-methods-fd0b9e3a": {
+      "canonical_key": "selection methods",
+      "description": "Making and refining selections with lasso, object-based selection, subject selection, and auto-select tools.",
+      "family_id": "family-selection-methods-fd0b9e3a",
+      "label": "Selection Methods"
+    },
+    "family-tool-access-3487009c": {
+      "canonical_key": "tool access",
+      "description": "Using the toolbar, tool groups, sticky shortcuts, and quick switching to reach core tools efficiently.",
+      "family_id": "family-tool-access-3487009c",
+      "label": "Tool Access"
+    },
+    "family-typography-and-design-0ab93f15": {
+      "canonical_key": "typography and design",
+      "description": "Adding and managing text and basic layout elements for simple graphic design tasks.",
+      "family_id": "family-typography-and-design-0ab93f15",
+      "label": "Typography And Design"
+    },
+    "family-workspace-setup-6d7d7c5c": {
+      "canonical_key": "workspace setup",
+      "description": "Getting oriented in Photoshop’s home screen, workspaces, panels, and interface bars.",
+      "family_id": "family-workspace-setup-6d7d7c5c",
+      "label": "Workspace Setup"
+    }
+  },
+  "model": "gpt-5.4-mini",
+  "prompt_version": 2,
+  "related": {
+    "adjustment layers for targeted selections": [
+      "layer-based non-destructive editing",
+      "non-destructive painting on new layers"
+    ],
+    "align to canvas vs selection": [
+      "auto select toggle",
+      "move tool (v)"
+    ],
+    "alt/option crop from center": [
+      "crop tool (c shortcut)",
+      "delete cropped pixels (crop tool setting)",
+      "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "freehand crop",
+      "original ratio",
+      "reference point in crop",
+      "straighten tool"
+    ],
+    "auto select toggle": [
+      "align to canvas vs selection",
+      "ctrl/cmd temporary auto select",
+      "move tool (v)"
+    ],
+    "background color": [
+      "brush tool and foreground/background color",
+      "color picker",
+      "foreground color",
+      "foreground/background color swap (x)",
+      "x key to swap foreground/background colors"
+    ],
+    "blend modes: normal vs difference": [
+      "layer management and creation",
+      "non-destructive duplication (ctrl/cmd j)"
+    ],
+    "brush opacity vs flow": [
+      "brush size adjustments ( [ and ] keys )",
+      "brush smoothing",
+      "brush tool basics",
+      "flow as dynamic sketch-like intensity",
+      "hard round brush",
+      "opacity/flow vs brush interaction on layers",
+      "soft round brush"
+    ],
+    "brush size adjustments ( [ and ] keys )": [
+      "brush opacity vs flow",
+      "brush smoothing",
+      "brush tool and foreground/background color",
+      "brush tool basics",
+      "soft round brush"
+    ],
+    "brush smoothing": [
+      "brush opacity vs flow",
+      "brush size adjustments ( [ and ] keys )",
+      "brush tool basics",
+      "flow as dynamic sketch-like intensity",
+      "hard round brush",
+      "opacity/flow vs brush interaction on layers",
+      "soft round brush"
+    ],
+    "brush tool": [
+      "edit toolbar",
+      "tool groups and access (hold to reveal more)"
+    ],
+    "brush tool and foreground/background color": [
+      "background color",
+      "brush size adjustments ( [ and ] keys )",
+      "brush tool basics",
+      "color picker",
+      "foreground color",
+      "foreground/background color swap (x)",
+      "opacity/flow vs brush interaction on layers",
+      "x key to swap foreground/background colors"
+    ],
+    "brush tool basics": [
+      "brush opacity vs flow",
+      "brush size adjustments ( [ and ] keys )",
+      "brush smoothing",
+      "brush tool and foreground/background color",
+      "flow as dynamic sketch-like intensity",
+      "hard round brush",
+      "opacity/flow vs brush interaction on layers",
+      "soft round brush"
+    ],
+    "catch light in eyes": [
+      "overlay blend mode",
+      "tilde key eraser"
+    ],
+    "color picker": [
+      "background color",
+      "brush tool and foreground/background color",
+      "foreground color",
+      "foreground/background color swap (x)"
+    ],
+    "content-aware fill": [
+      "generative ai options in remove tool",
+      "generative expand (ai expansion)",
+      "generative fill (firefly) and upscaling in properties"
+    ],
+    "contextual taskbar": [
+      "customizing and saving a workspace",
+      "options bar, status bar, menu bar",
+      "photoshop workspaces (photography, graphic design, painting)"
+    ],
+    "creative cloud installation": [
+      "photoshop basics"
+    ],
+    "crop tool (c shortcut)": [
+      "alt/option crop from center",
+      "delete cropped pixels (crop tool setting)",
+      "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "freehand crop",
+      "reference point in crop",
+      "straighten tool"
+    ],
+    "ctrl/cmd temporary auto select": [
+      "auto select toggle",
+      "move tool (v)"
+    ],
+    "customizing and saving a workspace": [
+      "contextual taskbar",
+      "home screen vs workspace",
+      "options bar, status bar, menu bar",
+      "panels (layers, history, properties)",
+      "photoshop workspaces (photography, graphic design, painting)"
+    ],
+    "delete cropped pixels (crop tool setting)": [
+      "alt/option crop from center",
+      "crop tool (c shortcut)",
+      "freehand crop",
+      "original ratio",
+      "reference point in crop",
+      "straighten tool"
+    ],
+    "drag-and-drop file import": [
+      "export options (quick export, export as)",
+      "opening and creating files",
+      "psd vs jpeg/png export",
+      "save vs save as vs save a copy"
+    ],
+    "edit toolbar": [
+      "brush tool",
+      "tool groups and access (hold to reveal more)"
+    ],
+    "eraser tool (e) shortcut": [
+      "sticky shortcuts for tool switching (r, l, j, etc.)"
+    ],
+    "export options (quick export, export as)": [
+      "drag-and-drop file import",
+      "opening and creating files",
+      "psd vs jpeg/png export",
+      "save vs save as vs save a copy"
+    ],
+    "find distractions (people, wires) in remove tool": [
+      "patch tool (source vs destination)",
+      "remove tool",
+      "remove tool basics"
+    ],
+    "fit to canvas (ctrl/cmd 0)": [],
+    "fixed aspect ratios (16:9, 1:1 square, etc.)": [
+      "alt/option crop from center",
+      "crop tool (c shortcut)",
+      "freehand crop",
+      "original ratio",
+      "reference point in crop",
+      "straighten tool"
+    ],
+    "flow as dynamic sketch-like intensity": [
+      "brush opacity vs flow",
+      "brush smoothing",
+      "brush tool basics",
+      "hard round brush",
+      "opacity/flow vs brush interaction on layers"
+    ],
+    "foreground color": [
+      "background color",
+      "brush tool and foreground/background color",
+      "color picker",
+      "foreground/background color swap (x)"
+    ],
+    "foreground/background color swap (x)": [
+      "background color",
+      "brush tool and foreground/background color",
+      "color picker",
+      "foreground color",
+      "x key to swap foreground/background colors"
+    ],
+    "freehand crop": [
+      "alt/option crop from center",
+      "crop tool (c shortcut)",
+      "delete cropped pixels (crop tool setting)",
+      "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "original ratio",
+      "reference point in crop",
+      "straighten tool"
+    ],
+    "generative ai options in remove tool": [
+      "content-aware fill",
+      "generative expand (ai expansion)",
+      "generative fill (firefly) and upscaling in properties"
+    ],
+    "generative expand (ai expansion)": [
+      "content-aware fill",
+      "generative ai options in remove tool",
+      "generative fill (firefly) and upscaling in properties"
+    ],
+    "generative fill (firefly) and upscaling in properties": [
+      "content-aware fill",
+      "generative ai options in remove tool",
+      "generative expand (ai expansion)"
+    ],
+    "hard round brush": [
+      "brush opacity vs flow",
+      "brush smoothing",
+      "brush tool basics",
+      "flow as dynamic sketch-like intensity",
+      "opacity/flow vs brush interaction on layers",
+      "soft round brush"
+    ],
+    "home screen vs workspace": [
+      "customizing and saving a workspace",
+      "options bar, status bar, menu bar",
+      "panels (layers, history, properties)",
+      "photoshop workspaces (photography, graphic design, painting)"
+    ],
+    "lasso tool and selections": [
+      "select subject / object selection tool"
+    ],
+    "layer management and creation": [
+      "blend modes: normal vs difference",
+      "new layer",
+      "non-destructive duplication (ctrl/cmd j)"
+    ],
+    "layer-based non-destructive editing": [
+      "adjustment layers for targeted selections",
+      "mask concepts (brief mention)",
+      "non-destructive duplication (ctrl/cmd j)",
+      "non-destructive editing",
+      "non-destructive painting on new layers"
+    ],
+    "mask concepts (brief mention)": [
+      "layer-based non-destructive editing"
+    ],
+    "move tool (v)": [
+      "align to canvas vs selection",
+      "auto select toggle",
+      "ctrl/cmd temporary auto select",
+      "move tool and transform controls"
+    ],
+    "move tool and transform controls": [
+      "move tool (v)"
+    ],
+    "new layer": [
+      "layer management and creation"
+    ],
+    "non-destructive duplication (ctrl/cmd j)": [
+      "blend modes: normal vs difference",
+      "layer management and creation",
+      "layer-based non-destructive editing",
+      "non-destructive editing",
+      "non-destructive painting on new layers"
+    ],
+    "non-destructive editing": [
+      "layer-based non-destructive editing",
+      "non-destructive duplication (ctrl/cmd j)",
+      "non-destructive painting on new layers"
+    ],
+    "non-destructive painting on new layers": [
+      "adjustment layers for targeted selections",
+      "layer-based non-destructive editing",
+      "non-destructive duplication (ctrl/cmd j)",
+      "non-destructive editing",
+      "opacity/flow vs brush interaction on layers",
+      "shift trick for straight lines",
+      "tilde erasing (tilde ~ key)"
+    ],
+    "object finder and cloud vs device processing": [
+      "sampling from all layers",
+      "select subject / object selection tool"
+    ],
+    "opacity/flow vs brush interaction on layers": [
+      "brush opacity vs flow",
+      "brush smoothing",
+      "brush tool and foreground/background color",
+      "brush tool basics",
+      "flow as dynamic sketch-like intensity",
+      "hard round brush",
+      "non-destructive painting on new layers",
+      "shift trick for straight lines",
+      "tilde erasing (tilde ~ key)"
+    ],
+    "opening and creating files": [
+      "drag-and-drop file import",
+      "export options (quick export, export as)",
+      "psd vs jpeg/png export",
+      "save vs save as vs save a copy"
+    ],
+    "options bar, status bar, menu bar": [
+      "contextual taskbar",
+      "customizing and saving a workspace",
+      "home screen vs workspace",
+      "panels (layers, history, properties)",
+      "photoshop workspaces (photography, graphic design, painting)"
+    ],
+    "original ratio": [
+      "alt/option crop from center",
+      "delete cropped pixels (crop tool setting)",
+      "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "freehand crop",
+      "reference point in crop",
+      "straighten tool"
+    ],
+    "overlay blend mode": [
+      "catch light in eyes"
+    ],
+    "panels (layers, history, properties)": [
+      "customizing and saving a workspace",
+      "home screen vs workspace",
+      "options bar, status bar, menu bar",
+      "photoshop workspaces (photography, graphic design, painting)"
+    ],
+    "patch tool": [
+      "patch tool (source vs destination)",
+      "remove tool"
+    ],
+    "patch tool (source vs destination)": [
+      "find distractions (people, wires) in remove tool",
+      "patch tool",
+      "remove tool basics"
+    ],
+    "photoshop basics": [
+      "creative cloud installation",
+      "pixels and megapixels",
+      "undo/redo shortcuts"
+    ],
+    "photoshop workspaces (photography, graphic design, painting)": [
+      "contextual taskbar",
+      "customizing and saving a workspace",
+      "home screen vs workspace",
+      "options bar, status bar, menu bar",
+      "panels (layers, history, properties)"
+    ],
+    "pixels and megapixels": [
+      "photoshop basics",
+      "undo/redo shortcuts"
+    ],
+    "psd vs jpeg/png export": [
+      "drag-and-drop file import",
+      "export options (quick export, export as)",
+      "opening and creating files",
+      "save vs save as vs save a copy"
+    ],
+    "reference point in crop": [
+      "alt/option crop from center",
+      "crop tool (c shortcut)",
+      "delete cropped pixels (crop tool setting)",
+      "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "freehand crop",
+      "original ratio",
+      "straighten tool"
+    ],
+    "remove tool": [
+      "find distractions (people, wires) in remove tool",
+      "patch tool",
+      "remove tool basics"
+    ],
+    "remove tool basics": [
+      "find distractions (people, wires) in remove tool",
+      "patch tool (source vs destination)",
+      "remove tool"
+    ],
+    "rotate view tool (r) as a sticky shortcut": [
+      "zoom and pan shortcuts (spacebar, scrubby zoom, h key)"
+    ],
+    "sample all layers": [
+      "sampling from all layers"
+    ],
+    "sampling from all layers": [
+      "object finder and cloud vs device processing",
+      "sample all layers",
+      "select subject / object selection tool"
+    ],
+    "save vs save as vs save a copy": [
+      "drag-and-drop file import",
+      "export options (quick export, export as)",
+      "opening and creating files",
+      "psd vs jpeg/png export"
+    ],
+    "save/load toolbar presets (pix minimal)": [],
+    "select subject / object selection tool": [
+      "lasso tool and selections",
+      "object finder and cloud vs device processing",
+      "sampling from all layers"
+    ],
+    "shift trick for straight lines": [
+      "non-destructive painting on new layers",
+      "opacity/flow vs brush interaction on layers",
+      "tilde erasing (tilde ~ key)"
+    ],
+    "soft round brush": [
+      "brush opacity vs flow",
+      "brush size adjustments ( [ and ] keys )",
+      "brush smoothing",
+      "brush tool basics",
+      "hard round brush"
+    ],
+    "sticky shortcuts for tool switching (r, l, j, etc.)": [
+      "eraser tool (e) shortcut"
+    ],
+    "straighten tool": [
+      "alt/option crop from center",
+      "crop tool (c shortcut)",
+      "delete cropped pixels (crop tool setting)",
+      "fixed aspect ratios (16:9, 1:1 square, etc.)",
+      "freehand crop",
+      "original ratio",
+      "reference point in crop"
+    ],
+    "text tool and typography": [],
+    "tilde erasing (tilde ~ key)": [
+      "non-destructive painting on new layers",
+      "opacity/flow vs brush interaction on layers",
+      "shift trick for straight lines",
+      "tilde key eraser"
+    ],
+    "tilde key eraser": [
+      "catch light in eyes",
+      "tilde erasing (tilde ~ key)"
+    ],
+    "tool groups and access (hold to reveal more)": [
+      "brush tool",
+      "edit toolbar"
+    ],
+    "undo/redo shortcuts": [
+      "photoshop basics",
+      "pixels and megapixels"
+    ],
+    "x key to swap foreground/background colors": [
+      "background color",
+      "brush tool and foreground/background color",
+      "foreground/background color swap (x)"
+    ],
+    "zoom and pan shortcuts (spacebar, scrubby zoom, h key)": [
+      "rotate view tool (r) as a sticky shortcut"
+    ]
+  },
+  "schema_version": 1,
+  "source_hash": "251a7b77990797556c3beadbd2edbbad7f19f853cb21e4a38520eb83ef4b4b1b",
+  "stats": {
+    "canonical_topic_count": 80,
+    "display_label_count": 80,
+    "family_count": 16,
+    "raw_topic_count": 80,
+    "related_edge_count": 143
+  },
+  "status": "complete",
+  "updated_at": "2026-08-31T06:42:25.635196+00:00"
+}

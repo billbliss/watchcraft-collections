@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "video": "MTQw0jl5M8g.youtube",
+  "title": "Understanding Layers in Photoshop - Day 4",
+  "date": {
+    "display": "September 4, 2025",
+    "iso": "2025-09-04",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN's Day 4 core lesson explains why layers are the backbone of non-destructive editing in Photoshop, covering standard layers, adjustment layers, and special layers such as text and shape layers. The video demonstrates building a photo composite by importing a second image as a new layer, adjusting opacity and visibility, and converting a background layer into a regular editable layer. It introduces Smart Objects for nondestructive editing, shows how to create and edit layer masks from selections, and explains the relationship between layers and masks (including unlinking and relinking). The tutorial then guides edge refinement with Select and Mask, the use of clipping masks for effects like light leaks, painting details with brushes to simulate Polaroid edges, and color grading with a gradient map. Finally, it demonstrates applying Gaussian blur and noise to sell realism, all within a fully non-destructive workflow that preserves the original background.",
+  "topics": [
+    "Photoshop layers",
+    "Standard layers",
+    "Adjustment layers",
+    "Text layers",
+    "Shape layers",
+    "Smart Objects",
+    "Layer masks",
+    "Selections",
+    "Quick Selection Tool",
+    "Select and Mask",
+    "Move Tool (V)",
+    "Transform (Ctrl/Cmd T)",
+    "Opacity",
+    "Blending modes (Normal, Lighten, Screen, etc.)",
+    "Clipping masks",
+    "Linking/unlinking layer and layer mask",
+    "Gradient Map adjustment layer",
+    "Gaussian Blur (Smart Filter)",
+    "Noise filter",
+    "Brush tool"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:50",
+      "title": "Introduction to Layers and Non-Destructive Editing",
+      "concepts": [
+        "Layers as non-destructive editing foundations",
+        "Layer types: standard, adjustment, text/shape",
+        "Overview of photo composites using layers and masking"
+      ],
+      "description": "The video opens with the case for layers as Photoshop's core tool for non-destructive edits, outlines the different layer types, and previews building a photo composite using layering and masking. It also mentions that sample assets are available for download."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:07:50",
+      "title": "Importing a Second Image as a New Layer and Basic Layer Handling",
+      "concepts": [
+        "Drag-and-drop import of an additional image as a new layer",
+        "Viewing and toggling layer visibility",
+        "Opacity adjustments and the effect on perception",
+        "Background layer locking and converting background to a regular layer"
+      ],
+      "description": "The presenter drags a second photograph into the document, shows the new layer in the Layers panel, demonstrates opacity control, and explains how the background layer is locked by default and how to convert it to a movable regular layer."
+    },
+    {
+      "start": "00:07:50",
+      "end": "00:12:11",
+      "title": "Smart Objects, Layer Masks, and Independent Editing",
+      "concepts": [
+        "Smart Object indicators in the Layers panel",
+        "Using selections to create layer masks",
+        "Making selections independent of the active layer",
+        "Converting selections into masks to reveal specific areas"
+      ],
+      "description": "The session introduces Smart Objects as a nondestructive editing option, explains making a selection with the Quick Selection Tool, and demonstrates turning that selection into a layer mask on a target layer, while noting that selections can be reused on other layers."
+    },
+    {
+      "start": "00:12:11",
+      "end": "00:15:15",
+      "title": "Edge Refinement with Select and Mask and Mask-focused Workflows",
+      "concepts": [
+        "Layer vs. layer mask editing (independent controls)",
+        "Edge refinement using Select and Mask (feather, contrast, edge shift)",
+        "Converting a selection into a mask to refine edges"
+      ],
+      "description": "This section clarifies the distinction between editing layers and their masks, demonstrates accessing Select and Mask for feathering and edge refinements, and previews adjusting mask edges for realism."
+    },
+    {
+      "start": "00:15:15",
+      "end": "00:18:15",
+      "title": "Adding a Light Leak Layer and Color Grading with Clipping Masks",
+      "concepts": [
+        "Importing a light-leak layer as a new, smart object layer",
+        "Changing blend modes (e.g., Soft Light) and transforming the light-leak layer",
+        "Clipping the light-leak layer to the subject using clipping masks",
+        "Alternative: duplicating masks to restrict effects"
+      ],
+      "description": "A second image (light leak) is introduced and blended to create atmosphere. The instructor demonstrates clipping the light-leak layer to the subject so the effect is visible only where intended, and discusses options for restricting or duplicating masks to refine the look."
+    },
+    {
+      "start": "00:18:15",
+      "end": "00:18:55",
+      "title": "Polaroid Edge Finishing with Brush Work and Layering",
+      "concepts": [
+        "Creating a new layer above the subject for painting",
+        "Brush tool settings (opacity, flow) and color sampling",
+        "Painting darker and lighter areas to simulate Polaroid edges"
+      ],
+      "description": "The instructor adds a small layer above the subject, uses a brush with the Paint tool to subtly darken and highlight edges, and explains that the strokes should be uneven to mimic Polaroid exposure characteristics."
+    },
+    {
+      "start": "00:18:55",
+      "end": "00:19:26",
+      "title": "Color Grading with Gradient Map and Non-Destructive Adjustments",
+      "concepts": [
+        "Gradient Map adjustment layer for color grading",
+        "Clipping the gradient map to the subject",
+        "Adjusting gradient colors and layer opacity for mood",
+        "Revisiting the non-destructive nature of these edits"
+      ],
+      "description": "Gradient Map is introduced as a color-grading tool clipped to the subject. The colors can be edited via the gradient editor, and the adjustment layer's opacity can be tuned to achieve the desired look without altering the background."
+    },
+    {
+      "start": "00:19:26",
+      "end": "00:19:30",
+      "title": "Outro and Recap",
+      "concepts": [
+        "Non-destructive editing is central",
+        "Layers can be toggled on/off and adjusted without touching the background",
+        "Previewing the full workflow and encouraging practice"
+      ],
+      "description": "The host wraps up, reiterating that all changes are non-destructive, the background remains untouched, and inviting viewers to continue following the 30-day Photoshop series."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Non-destructive compositing using multiple layers and layer masks",
+      "timestamp": "00:04:26",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Smart Object for nondestructive edits",
+      "timestamp": "00:02:33",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Creating a layer mask from a selection",
+      "timestamp": "00:04:29",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Unlinking and relinking layer and layer mask to move independently",
+      "timestamp": "00:06:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Clipping mask to restrict effects to underlying layer",
+      "timestamp": "00:11:50",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Edge refinement with Select and Mask (feather/contrast)",
+      "timestamp": "00:08:31",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Gradient Map adjustment layer with clipping for color grading",
+      "timestamp": "00:15:24",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Gaussian Blur and Add Noise on a Smart Object for realism",
+      "timestamp": "00:16:44",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Brush-based Polaroid edge detailing on a clipping layer",
+      "timestamp": "00:13:00",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:08:16.899750+00:00"
+}

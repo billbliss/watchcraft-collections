@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "video": "6jXR7JkssYY.youtube",
+  "title": "Lightroom vs Photoshop Editing – Day 29 (PHLEARN)",
+  "date": {
+    "display": "September 29, 2025",
+    "iso": "2025-09-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Mongolia",
+      "confidence": 0.9,
+      "basis": "Explicit statement in transcript: 'Cuz these were taken in Mongolia.'"
+    }
+  ],
+  "summary": "PHLEARN’s Day 29 lesson contrasts Lightroom’s batch editing, organization, and cloud-style workflow with Photoshop’s single-image, layer-based editing. The video demonstrates a practical end-to-end workflow: importing a batch of sample images into Lightroom Classic, organizing with catalogs and metadata, rating and filtering to identify favorites, renaming and foldering to mirror the file system, syncing edits across multiple photos, and performing a color-grade pass. It then transitions to Photoshop to perform a sky replacement on a single image, showing layer-based editing, masking, and export of a PSD back into Lightroom. The session emphasizes how Lightroom handles mass photo management and bulk edits while Photoshop handles targeted, composite edits and final fine-tuning.”",
+  "topics": [
+    "Lightroom Classic workflow",
+    "Lightroom family vs Photoshop",
+    "Library module basics (import, cull, grid view)",
+    "Develop module basics (color grading, auto, reset)",
+    "Batch editing with Sync Settings",
+    "Star ratings, flags, and metadata filtering",
+    "File renaming and folder organization in Lightroom",
+    "Exporting and black-and-white batch export",
+    "Photoshop integration (Edit In Photoshop)",
+    "Sky replacement using layers and masking in Photoshop",
+    "PSD workflow and Lightroom synchronization",
+    "Show in Finder / folder mapping between Lightroom and OS",
+    "Image organization strategies (five stars folder, export folder)",
+    "Effective use of compare view and filmstrip navigation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:02:53.000",
+      "title": "Intro and Lightroom vs Photoshop overview",
+      "concepts": [
+        "Lightroom Classic / cloud-based Lightroom / Lightroom Mobile",
+        "Differences in workflow: batch editing vs single-image editing",
+        "Workflow setup for the demo"
+      ],
+      "description": "Aaron Nace outlines the Lightroom family and explains that the demo will use Lightroom Classic for bulk editing, while Photoshop is used for one-image refinements and composites."
+    },
+    {
+      "start": "00:02:53.000",
+      "end": "00:05:18.000",
+      "title": "Lightroom Classic workflow and modules",
+      "concepts": [
+        "Library module",
+        "Develop module",
+        "Import workflow",
+        "Catalog management"
+      ],
+      "description": "The session introduces the two primary Lightroom modules (Library for organization and culling, Develop for editing) and demonstrates importing sample images into Lightroom Classic."
+    },
+    {
+      "start": "00:05:18.000",
+      "end": "00:11:10.000",
+      "title": "Library navigation and metadata viewing",
+      "concepts": [
+        "Grid view (G)",
+        "Filmstrip",
+        "I key for metadata, cycling information",
+        "Right/Left navigation",
+        "Compare view (C)"
+      ],
+      "description": "Demonstrates how to view and compare images, navigate through photos using keyboard shortcuts, and inspect metadata while in the Library module."
+    },
+    {
+      "start": "00:11:10.000",
+      "end": "00:16:00.000",
+      "title": "Rating, picks, and filtering",
+      "concepts": [
+        "Star ratings (1-5)",
+        "Picks/flags",
+        "Library filter by attributes",
+        "Isolating top images for later processing"
+      ],
+      "description": "Shows applying five-star ratings and picks, then filtering the library to show only top images for efficient culling and selection."
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:52.000",
+      "title": "Renaming and organizing files in Lightroom",
+      "concepts": [
+        "Renaming photos",
+        "Creating folders inside Lightroom that map to OS folders",
+        "Five stars folder and four stars folder workflows"
+      ],
+      "description": "Demonstrates renaming a batch (to Mongolia, since the images were taken in Mongolia) and creating folders in Lightroom that mirror the computer’s directory structure for organized storage."
+    },
+    {
+      "start": "00:19:52",
+      "end": "00:23:50.000",
+      "title": "Color grading and batch synchronization",
+      "concepts": [
+        "Develop module color grading",
+        "Auto settings",
+        "Sync Settings across multiple images",
+        "Reset and re-synchronization"
+      ],
+      "description": "Shows applying color grading and basic edits in Develop, using Auto settings, and batch-synchronizing those adjustments across a selection of images."
+    },
+    {
+      "start": "00:23:50",
+      "end": "00:26:42.000",
+      "title": "Sky replacement in Photoshop and final workflow",
+      "concepts": [
+        "Edit in Photoshop",
+        "Sky replacement with layered clouds",
+        "Masking and blend modes (Screen)",
+        "Exporting a PSD back to Lightroom"
+      ],
+      "description": "Transitions to Photoshop for a sky replacement, detailing masking and layer adjustments, saving as PSD, and re-importing/Syncing back with Lightroom for an integrated workflow. Concludes with final remarks."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Importing and adding a batch of images into Lightroom Classic",
+      "timestamp": "00:04:51",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Using Library and Develop modules to manage editing and organization",
+      "timestamp": "00:05:03",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Culling with grid view, filmstrip, and star ratings",
+      "timestamp": "00:07:14",
+      "confidence": 0.87
+    },
+    {
+      "technique": "Filtering by metadata to isolate five-star images",
+      "timestamp": "00:09:45",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Batch editing with Sync Settings",
+      "timestamp": "00:12:55",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Color grading and auto adjustments in Develop",
+      "timestamp": "00:11:48",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Auto settings and reset in Develop",
+      "timestamp": "00:13:39",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Renaming files and mapping Lightroom folders to OS directories",
+      "timestamp": "00:16:41",
+      "confidence": 0.89
+    },
+    {
+      "technique": "Exporting black-and-white edits and renaming on export",
+      "timestamp": "00:20:40",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Edit in Photoshop for sky replacement and masking",
+      "timestamp": "00:23:24",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Saving and re-importing PSD into Lightroom",
+      "timestamp": "00:25:16",
+      "confidence": 0.84
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:51:31.339918+00:00"
+}

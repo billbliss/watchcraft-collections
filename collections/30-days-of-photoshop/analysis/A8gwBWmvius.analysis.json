@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "video": "A8gwBWmvius.youtube",
+  "title": "Dodge & Burn in Photoshop - Day 19 (Non-destructive workflow with adjustment layers, masking, and Blend If)",
+  "date": {
+    "display": "September 19, 2025",
+    "iso": "2025-09-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PHLEARN tutorial (Day 19 of 30 Days of Photoshop) surveys both traditional and non-destructive approaches to dodging and burning. It begins by acknowledging the destructive nature of the native Dodge and Burn tools on the background layer, then presents a non-destructive alternative using adjustment layers (notably Brightness/Contrast) with masks that can be toggled, masked, and re-tuned over time. The instructor introduces refining these adjustments with layer masks, inverting masks, and painting with white on the mask; then shows how to isolate edits to the subject using Select Subject and grouping. A highlight is the Blend If technique, which confines dodging/burning to highlights or shadows based on the underlying pixels, enabling very natural results. The video emphasizes a non-destructive, adjustable workflow where edits remain reversible, grouped, and adjustable in real time, and it ends with a downloadable PSD/sample image for hands-on practice.",
+  "topics": [
+    "Dodge tool",
+    "Burn tool",
+    "Destructive vs non-destructive editing",
+    "Adjustment layers",
+    "Brightness/Contrast adjustment",
+    "Layer masks",
+    "Mask inversion (Ctrl/Cmd+I)",
+    "Brush tool on layer mask",
+    "Brush flow and opacity",
+    "Select Subject",
+    "Grouping layers",
+    "Mask visibility and containment within a group",
+    "Dodge/Burn in a group with subject mask",
+    "Blend If (Layer Style)",
+    "Separating Blend If sliders with Alt/Option",
+    "Highlight/shadow isolation",
+    "Non-destructive editing workflow",
+    "Opacity adjustments on groups",
+    "PSD/sample image download for practice"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:45",
+      "title": "Dodge & Burn Tools: Concepts and Drawbacks",
+      "concepts": [
+        "Dodge tool",
+        "Burn tool",
+        "Destructive editing",
+        "Background layer"
+      ],
+      "description": "Introduction to the dodge and burn tools, their basic effect (brighten/darken), and the key drawback: edits are baked into the pixels of the background layer, making later adjustments difficult."
+    },
+    {
+      "start": "00:02:46",
+      "end": "00:04:44",
+      "title": "Non-destructive Dodging/Burning with Adjustment Layers",
+      "concepts": [
+        "Adjustment layer",
+        "Brightness/Contrast",
+        "Non-destructive editing",
+        "Layer mask"
+      ],
+      "description": "Switch to a non-destructive approach by using a brightness/contrast adjustment layer instead of painting directly on the background, enabling on/off toggling and later recalibration."
+    },
+    {
+      "start": "00:04:45",
+      "end": "00:06:15",
+      "title": "Mask Inversion and Revealing with Brush on Adjustment Layer",
+      "concepts": [
+        "Layer mask inversion",
+        "Brush tool",
+        "White reveals on mask",
+        "Flow control"
+      ],
+      "description": "Invert the adjustment-layer mask and paint with white to selectively reveal the brightness/contrast changes, with brush flow set for gradual buildup and precise control."
+    },
+    {
+      "start": "00:06:12",
+      "end": "00:07:14",
+      "title": "Targeting Edits to the Subject with Select Subject and Grouping",
+      "concepts": [
+        "Select Subject",
+        "Group layers",
+        "Subject-based masking",
+        "Layer masking for visibility"
+      ],
+      "description": "Demonstrates selecting the subject from the background, grouping the adjustment layers, and masking so dodging/burning applies only where the subject is visible."
+    },
+    {
+      "start": "00:07:55",
+      "end": "00:10:12",
+      "title": "Blend If: Refining with Underlying-Layer Lighting",
+      "concepts": [
+        "Blend If",
+        "Layer Style",
+        "Underlying Layer",
+        "Highlights vs Shadows",
+        "Alt/Option slider"
+      ],
+      "description": "Introduces Blend If to confine adjustments to image highlights or shadows, using Alt/Option to split sliders and left/right directions to selectively reveal edits for a more natural look."
+    },
+    {
+      "start": "00:10:13",
+      "end": "00:12:04",
+      "title": "Non-destructive Summary and Practice Resources",
+      "concepts": [
+        "Non-destructive workflow",
+        "Toggling groups",
+        "Opacity control",
+        "PSD/sample download"
+      ],
+      "description": "Wrap-up emphasizing the advantages of non-destructive dodging/burning through adjustment layers and groups, plus a note about accessing a downloadable PSD/sample image for practice."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Non-destructive dodging/burning with adjustment layers (Brightness/Contrast) and layer masks",
+      "timestamp": "00:02:46",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Subject-focused dodging/burning via Select Subject + Grouped adjustments",
+      "timestamp": "00:06:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Blend If to isolate highlights/shadows for more natural dodging/burning",
+      "timestamp": "00:08:14",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Mask inversion and painting on the adjustment-layer mask to precisely reveal edits",
+      "timestamp": "00:03:29",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:54:45.602172+00:00"
+}

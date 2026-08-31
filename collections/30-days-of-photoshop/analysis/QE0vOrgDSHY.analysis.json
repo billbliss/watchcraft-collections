@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "video": "QE0vOrgDSHY.youtube",
+  "title": "Color Correction in Photoshop: Non-destructive Camera Raw Auto and White Balance Eyedropper (PHLEARN Day 20)",
+  "date": {
+    "display": "September 20, 2025",
+    "iso": "2025-09-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PHLEARN tutorial demonstrates a fast, non-destructive workflow to color correct photos in Photoshop using the Camera Raw filter. After converting the image to a Smart Object, the host shows color correction techniques applicable to both RAW and JPEG images: using the White Balance Eyedropper to target a neutral gray, discussing the gray-card practice for reliable white balance, and employing the Auto button in Camera Raw for automatic color correction. The instructor emphasizes non-destructive editing by enabling/disabling the smart filter, compares before/after results to illustrate improvements in color and skin tones, and suggests that Auto often performs well across different image formats. The session closes with guidance on when to use these techniques and a tease for the next day's color grading lesson.",
+  "topics": [
+    "Smart Object",
+    "Camera Raw Filter",
+    "White Balance",
+    "White Balance Eyedropper",
+    "Target Neutral / Gray Card",
+    "Auto Color Correction",
+    "Color Temperature",
+    "Tint",
+    "Non-destructive Editing",
+    "JPEG vs RAW workflow",
+    "Gray Card field tips",
+    "Before/After comparison"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:00:39.280",
+      "title": "Introduction and goals for color correction",
+      "concepts": [
+        "Color correction purpose",
+        "JPEG vs RAW applicability",
+        "Preview of the simple workflow in Photoshop"
+      ],
+      "description": "Introduces the day’s topic: color correction in Photoshop and notes that the technique works for both RAW and JPEG files."
+    },
+    {
+      "start": "00:40.480",
+      "end": "01:20.880",
+      "title": "Convert to Smart Object and access Camera Raw",
+      "concepts": [
+        "Convert to Smart Filter",
+        "Non-destructive editing",
+        "Opening Camera Raw filter"
+      ],
+      "description": "Converts the background layer to a smart filter to allow non-destructive edits, then launches Camera Raw Filter to begin color corrections."
+    },
+    {
+      "start": "01:28.320",
+      "end": "03:12.879",
+      "title": "White balance options and Target Neutral method",
+      "concepts": [
+        "White balance presets in Camera Raw",
+        "Eyedropper/Target Neutral tool",
+        "Gray neutral vs. colored samples",
+        "Gray card as a practical reference"
+      ],
+      "description": "Explains choosing white balance presets and demonstrates using the White Balance tool to click a neutral gray area. Warns against sampling from colorful areas and discusses the gray card approach for reliable results."
+    },
+    {
+      "start": "03:32.879",
+      "end": "04:24.960",
+      "title": "Auto Color Correction and observed results",
+      "concepts": [
+        "Auto button in Color section",
+        "Color temperature and tint adjustments",
+        "Observed improvements in overall color and skin tones"
+      ],
+      "description": "Demonstrates Auto color correction in Camera Raw, showing temperature and tint corrections and explaining the typical improvements; notes that Auto often yields strong results for both JPEG and RAW."
+    },
+    {
+      "start": "04:39.600",
+      "end": "05:59.199",
+      "title": "Non-destructive workflow recap and wrap-up",
+      "concepts": [
+        "Toggling the Camera Raw filter on/off",
+        "Non-destructive, smart-filter workflow",
+        "Recommendation to start with Camera Raw Auto or Target Neutral"
+      ],
+      "description": "Reiterates the non-destructive approach by keeping edits in a Smart Filter, confirms the value of converting to a Smart Object, and teases the next day's color grading topic."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Convert background layer to Smart Object and apply Camera Raw Filter for non-destructive color correction",
+      "timestamp": "00:40.480",
+      "confidence": 0.85
+    },
+    {
+      "technique": "White Balance Eyedropper (Target Neutral) in Camera Raw",
+      "timestamp": "01:28.320",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Gray Card concept for reliable white balance reference",
+      "timestamp": "02:50.160",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Auto Color Correction in Camera Raw (color temperature and tint adjustment)",
+      "timestamp": "03:32.879",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Non-destructive editing with Smart Filters (toggle on/off)",
+      "timestamp": "04:53.440",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:10:20.746058+00:00"
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "video": "y4Kk3iNpNhY.youtube",
+  "title": "Updating an Old Electrical System: From BX to NM in a Historic Home",
+  "date": {
+    "display": "February 9, 2026",
+    "iso": "2026-02-09",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House episode documents a retrofit of an older home’s electrical system. The hosts discover armored BX cable throughout the house and place the work in historical context, noting that the structure likely dates from the late 19th to early 20th century and that knob-and-tube wiring would have been expected in some periods but is not present. They explain key wiring generations: knob-and-tube (single-conductor, routed through studs with knobs and tubes), BX/armored cable (two conductors in one jacket with external protection), and modern NM cable (nonmetallic sheathed, two conductors plus ground). The discussion highlights practical differences, including ease of installation, pull-through capability, and color-coding (yellow jacket indicating 20-amp NM). The plan shown is to remove the armored shield and replace it with NM cable, emphasizing straightforward installation and preparation for temporary power during the upgrade. The segment also touches on expected timelines for completing the work and the approach to providing temporary power as work progresses.",
+  "topics": [
+    "Armored BX cable (BX/AC) characteristics",
+    "Knob-and-tube wiring basics and historical context",
+    "Historical wiring timelines: 1860s house vs 1930s electrical upgrades",
+    "NM cable (nonmetallic sheathed) features and benefits",
+    "Two conductors plus ground configuration",
+    "Yellow jacket color-coding for 20-amp NM circuits",
+    "Routing cables through structural cavities (pull-through capability)",
+    "Removing old armored cable and installing NM cable",
+    "Temporary power during electrical upgrades",
+    "Electrical upgrade workflow in historic homes",
+    "Comparison of wiring systems: BX vs NM vs knob-and-tube"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:00:40",
+      "title": "Discovery of armored cabling and house-era context",
+      "concepts": [
+        "Armored BX cable found throughout the house",
+        "Plan to replace aging cabling",
+        "Discussion of house date and wiring era expectations"
+      ],
+      "description": "Stephen and Kevin note the presence of armored BX cabling and articulate why it is due for replacement. They situate the home historically, recognizing a possible 1930s electrical upgrade rather than the earlier knob-and-tube that might be expected in an 1860s structure."
+    },
+    {
+      "start": "00:00:40",
+      "end": "01:01:12",
+      "title": "Knob-and-tube vs BX vs the upgrade path",
+      "concepts": [
+        "Knob-and-tube wiring basics (single conductor per run, stud bays, knobs and tubes)",
+        "BX cable as an improvement over knob-and-tube",
+        "Reason for avoiding knob-and-tube in some renovations"
+      ],
+      "description": "The hosts explain why knob-and-tube would require knobs and tubes and would complicate routing, contrasting this with BX cable, which provides mechanical protection and easier routing through structure."
+    },
+    {
+      "start": "01:01:12",
+      "end": "01:01:36",
+      "title": "Introduction to NM cable and its advantages",
+      "concepts": [
+        "NM cable (nonmetallic) as an upgrade over BX",
+        "Two conductors plus ground in one jacket",
+        "Nonmetallic sheathing (plastic/rubber-like) vs metal armor",
+        "Color coding and identification for 20-amp circuits (yellow jacket)"
+      ],
+      "description": "Discussion shifts to NM cable as the progressive replacement for BX, noting its easier handling, the presence of two conductors with a grounding conductor, and the yellow identification indicating 20-amp service."
+    },
+    {
+      "start": "01:01:36",
+      "end": "01:01:43",
+      "title": "Executing the transition: armor out, NM in",
+      "concepts": [
+        "Armored shielding removed",
+        "NM cable installed in place of BX"
+      ],
+      "description": "The line explicitly states the plan to remove the armored shield and replace it with NM, illustrating the practical transition in the retrofit workflow."
+    },
+    {
+      "start": "01:01:45",
+      "end": "01:02:00",
+      "title": "Progress timing and temporary power",
+      "concepts": [
+        "Estimated completion within the day",
+        "Acknowledgement of open work and easy access for crews"
+      ],
+      "description": "A brief discussion about how much work can be finished in one day and how the space being open facilitates rapid progress, with implications for temporary power needs."
+    },
+    {
+      "start": "01:02:02",
+      "end": "01:02:21",
+      "title": "Closing and call to action",
+      "concepts": [
+        "This Old House catalog and video library",
+        "Subscription prompt"
+      ],
+      "description": "The video closes with standard outreach, inviting viewers to explore more projects and subscribe for new videos."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Historical wiring comparison: knob-and-tube, BX, and NM",
+      "timestamp": "00:00:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "NM cable introduction and identification (two conductors plus ground; yellow 20A jacket)",
+      "timestamp": "01:32",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Transition from BX to NM: removal of armor and installation of NM through structure",
+      "timestamp": "01:36",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:39:43.983040+00:00"
+}

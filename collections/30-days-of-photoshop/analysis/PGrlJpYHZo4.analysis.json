@@ -1,0 +1,136 @@
+{
+  "schema_version": 2,
+  "video": "PGrlJpYHZo4.youtube",
+  "title": "Layer-based blemish removal, selective redness correction, and eye brightening (Day 23) in Photoshop",
+  "date": {
+    "display": "September 23, 2025",
+    "iso": "2025-09-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This PHLEARN tutorial demonstrates non-destructive, layer-based retouching in Photoshop. The instructor walks through starting with blemish removal on a dedicated new layer using the Remove Tool (with Auto mode), then performing targeted color corrections by isolating redness with a Hue/Saturation adjustment layer and an Eyedropper, followed by precise masking to confine edits to skin areas while preserving lips. The workflow proceeds to brighten the eyes with a Brightness/Contrast adjustment layer, using inverted and carefully painted masks to isolate eye regions. The session ends with a quick organizational step—grouping layers—and a quick before/after comparison, plus a note about downloading a PSD to study the edits non-destructively.",
+  "topics": [
+    "New Layer creation",
+    "Remove Tool with Auto mode",
+    "Auto mode (AI-assisted) in Remove Tool",
+    "Changing brush color for visibility (chartreuse vs magenta)",
+    "Blemish/spot removal on skin",
+    "Non-destructive editing via layers",
+    "Context for what to remove (spare features, e.g., mole) vs distractions",
+    "Applying removal on a separate layer for easy revision",
+    "Hue/Saturation adjustment layer",
+    "Targeting Reds in Hue/Saturation",
+    "Eyedropper tool to sample specific red regions",
+    "Cranking hue and saturation to visualize edits",
+    "Fine-tuning with Hue, Saturation, and Lightness sliders",
+    "Resetting Hue/Saturation to baseline",
+    "Masking the hue/saturation effect with a layer mask",
+    "Using a brush to reveal/hide edits on the mask (white reveals, black hides)",
+    "Brush tool settings: hardness 0%, flow ~10%",
+    "X key to swap foreground/background for masking",
+    "Inverting layer masks (Ctrl/Cmd + I or contextual menu)",
+    "Brightness/Contrast adjustment layer for eye brighten",
+    "Masking brightness to isolate eyes",
+    "Contextual taskbar for mask options",
+    "Grouping layers (Shift-click to G)",
+    "Full-screen view (F) for before/after comparison",
+    "Before/after review and non-destructive workflow",
+    "Downloading the PSD to study edits"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:25",
+      "title": "Intro, setup, and blemish removal on a new layer",
+      "concepts": [
+        "new layer",
+        "Remove Tool",
+        "auto mode",
+        "color cue for visibility",
+        "non-destructive editing"
+      ],
+      "description": "Intro to Day 23, goals for basic retouching, and the setup of a dedicated new layer for removing blemishes and distractions. The instructor highlights removing spots, redness, and minor distractions, with emphasis on getting consent from the subject for removal decisions and establishing an order for edits."
+    },
+    {
+      "start": "00:04:53",
+      "end": "00:08:00",
+      "title": "Targeted color correction with Hue/Saturation (Red)",
+      "concepts": [
+        "Hue/Saturation adjustment",
+        "Reds color range",
+        "Eyedropper targeting",
+        "hue, saturation, lightness controls",
+        "local vs global color edits"
+      ],
+      "description": "Introduction of the Hue/Saturation adjustment layer. The Reds channel is targeted, the Eyedropper is used to select the precise red area (e.g., on the subject's nose). The instructor demonstrates how dialing hue, saturation, and lightness affects only the chosen red regions, and how to reset controls to fine-tune the effect."
+    },
+    {
+      "start": "00:09:12",
+      "end": "00:09:40",
+      "title": "Masking to constrain color edits (lips preserved)",
+      "concepts": [
+        "layer mask",
+        "black/white brush",
+        "paint over lips to preserve natural lip color"
+      ],
+      "description": "Demonstrates adding a layer mask to the Hue/Saturation adjustment and painting with black over the lips so the color edit does not affect them, preserving a natural lip appearance while the rest of the face benefits from targeted redness correction."
+    },
+    {
+      "start": "00:10:05",
+      "end": "00:16:10",
+      "title": "Eye brighten via Brightness/Contrast with selective masking",
+      "concepts": [
+        "Brightness/Contrast adjustment layer",
+        "mask inversion",
+        "painting white to reveal edits",
+        "soft brush, low flow (10%)",
+        "contextual taskbar for mask options"
+      ],
+      "description": "A multi-step enhancement to brighten the eyes. The Brightness/Contrast layer is applied, its mask inverted, and then the eyes area is revealed with a soft brush (low flow) to avoid harsh transitions. The instructor covers adjusting brightness and contrast and provides tips for managing the mask and re-editing as needed."
+    },
+    {
+      "start": "00:16:32",
+      "end": "00:17:38",
+      "title": "Wrap-up, grouping, and further tips",
+      "concepts": [
+        "group layers",
+        "full-screen view",
+        "before/after comparison",
+        "PSD download for study"
+      ],
+      "description": "Final review of the edits, grouping related layers for organization, and a closing note about downloading the PSD to study the workflow. The segment reinforces the non-destructive approach and previews next advanced retouching topics."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Remove Tool with Auto mode for blemish removal on a new layer",
+      "timestamp": "00:01:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Selective redness correction by targeting Reds with Eyedropper in Hue/Saturation",
+      "timestamp": "00:05:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Masking the hue/saturation adjustment to protect lips using a layer mask",
+      "timestamp": "00:09:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Isolating eye brighten with brightness/contrast adjustment and inverted mask",
+      "timestamp": "00:10:05",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Grouping layers and reviewing before/after",
+      "timestamp": "00:16:32",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:09:23.112492+00:00"
+}

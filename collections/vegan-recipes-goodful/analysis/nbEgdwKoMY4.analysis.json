@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "video": "nbEgdwKoMY4.youtube",
+  "title": "Ultimate Vegan Breakfast - Goodful (YouTube) - Music-only transcript",
+  "date": {
+    "display": "June 12, 2019",
+    "iso": "2019-06-12",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This short Goodful video, titled 'Ultimate Vegan Breakfast' and published on 2019-06-12, runs about 195 seconds. The transcript contains only music cues ([Music]) and no spoken narration or visible instruction, so there is no verifiable in-video technique, recipe steps, or ingredient list to catalog from the transcript alone. Based on the source metadata, the material is best understood as a vegan breakfast concept presentation rather than a step-by-step cooking tutorial; without explicit dialogue or on-screen text evidence, the analysis cannot substantiate specific cooking methods, tools, or locations. The time-based cues indicate music-driven sections rather than instructional segments.",
+  "topics": [
+    "vegan breakfast",
+    "plant-based breakfast",
+    "Goodful",
+    "YouTube",
+    "video duration 3:15",
+    "background music",
+    "no narration",
+    "music cues",
+    "Ultimate Vegan Breakfast",
+    "publication date 2019-06-12",
+    "channel: Goodful",
+    "vegan meal concepts"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00.000",
+      "end": "00:00:09.310",
+      "title": "Intro Music: Mood Setting",
+      "concepts": [
+        "intro music",
+        "vegan breakfast concept",
+        "no narration"
+      ],
+      "description": "Opening music sets the vegan breakfast mood; there is no spoken instruction in this segment."
+    },
+    {
+      "start": "00:00:09.310",
+      "end": "00:01:34.710",
+      "title": "Music-driven Montage: Visual Concept Development",
+      "concepts": [
+        "visual montage",
+        "plant-based imagery",
+        "background music"
+      ],
+      "description": "Continued music cues accompany a visual montage intended to convey vegan breakfast ideas without narration."
+    },
+    {
+      "start": "00:01:34.710",
+      "end": "00:02:12.550",
+      "title": "Mid-Montage: Transition and Flow",
+      "concepts": [
+        "transition",
+        "flow",
+        "music-led pacing"
+      ],
+      "description": "The sequence progresses with a transition in the music guiding the viewer through the concept."
+    },
+    {
+      "start": "00:02:12.550",
+      "end": "00:03:10.310",
+      "title": "Approaching Climax: Build-Up",
+      "concepts": [
+        "build-up",
+        "culmination",
+        "visual pacing"
+      ],
+      "description": "Music builds toward a concluding moment, sustaining the vegan breakfast concept."
+    },
+    {
+      "start": "00:03:10.310",
+      "end": "00:03:10.510",
+      "title": "Brief Spoken Cue: 'you' (artifact)",
+      "concepts": [
+        "spoken word fragment",
+        "transcript artifact",
+        "music interruption"
+      ],
+      "description": "A brief spoken fragment appears in the transcript, followed by a brief continuation of music."
+    },
+    {
+      "start": "00:03:10.510",
+      "end": "00:03:13.000",
+      "title": "Outro Music: End Frame",
+      "concepts": [
+        "outro music",
+        "closing minutes",
+        "end of video"
+      ],
+      "description": "Final music segment signaling the video end; no further narration is present."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Music-only presentation (no narration)",
+      "timestamp": "00:00:00",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Background music cues noted in transcript",
+      "timestamp": "00:00:00",
+      "confidence": 0.5
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T17:56:59.386487+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-08-31T17:59:05.722472+00:00"
+}

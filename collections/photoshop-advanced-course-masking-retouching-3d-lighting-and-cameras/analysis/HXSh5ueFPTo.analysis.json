@@ -1,0 +1,179 @@
+{
+  "schema_version": 2,
+  "video": "HXSh5ueFPTo.youtube",
+  "title": "Photoshop 3D Text and Logos: Postcard, Extrusion, Materials, Lighting, and Rendering",
+  "date": {
+    "display": "August 17, 2018",
+    "iso": "2018-08-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video serves as a comprehensive introduction to creating 3D text and logos in Photoshop, covering two primary 3D workflows (Postcard 3D and Extrusion), importing logos, working with materials and lighting, adjusting camera perspectives, and rendering final images. It also explores quick 3D tricks, 2.5D “fake” 3D techniques, and path-based interlocking typography, with practical guidance on system requirements, workspace setup, rendering speed optimizations, and saving/exporting final assets. The instructor demonstrates both text and logo workflows, demonstrates how to merge 3D objects into a single scene, and provides tips on using depth of field, shadows, and multiple light sources to achieve more realistic results. The latter portion introduces a class project and advanced techniques such as using paths and Mixer Brush for 2.5D effects, before wrapping with export options and further study directions.",
+  "topics": [
+    "- Photoshop 3D prerequisites (64-bit, VRAM requirements)",
+    "- Photoshop 3D workspace setup (Window > Workspace > 3D; Reset 3D)",
+    "- Postcard 3D workflow (background planes)",
+    "- Extrusion workflow for text and shapes",
+    "- Merging multiple 3D layers into a single scene",
+    "- Importing vector logos via Place Embedded and extruding them",
+    "- Adjusting extrusion depth and 3D object alignment",
+    "- Moving/manipulating 3D objects and camera with 3D tools",
+    "- Saving and switching between camera views (Rad View, Current View, Scene)",
+    "- Depth of Field and camera controls (Rad View)",
+    "- Materials and textures (diffusion color, reflection, roughness, bump, opacity)",
+    "- Loading additional materials from Adobe (Get More Content)",
+    "- Rendering basics and previews (Render, Esc to stop, Rectangle Marquee for partial renders)",
+    "- Render performance tips (Image Size, VRAM, Shadow Quality, Performance preferences)",
+    "- Ground plane, environment/shadow settings, and how to disable unwanted planes",
+    "- Lighting types (Infinite Light, Environmental IBL, Point Light, Spotlight)",
+    "- Shadow softness, light color, intensity, and hotspot controls",
+    "- Interacting with multiple lights and combined lighting results",
+    "- Rendering exports (Saving as JPEG, turning 3D off, importing into InDesign/Illustrator)",
+    "- Fake 3D / 2.5D with gradient ellipses and Mixer Brush",
+    "- Path-based 3D (Pen/Curvature Tool) and interlocking text effects",
+    "- Class project instructions and sharing results"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:15",
+      "title": "Getting started and prerequisites",
+      "concepts": [
+        "Overview of 3D goals",
+        "3D in Photoshop availability",
+        "64-bit requirement",
+        "VRAM considerations"
+      ],
+      "description": "The video opens with a roadmap of what will be covered, notes on Photoshop’s 3D feature availability, and a reminder about system requirements such as 64-bit Photoshop and sufficient VRAM, plus workspace setup."
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:07:54",
+      "title": "Two Photoshop 3D approaches: Postcard vs Extrusion",
+      "concepts": [
+        "Postcard 3D background",
+        "Extrusion from a layer",
+        "Two 3D workflows in Photoshop"
+      ],
+      "description": "Introduction to the two primary 3D workflows demonstrated in the lesson: converting a background to a thin Postcard 3D object, and extruding an object (like text) for full 3D depth."
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:12:16",
+      "title": "Importing a logo and creating a 3D extrusion",
+      "concepts": [
+        "Place Embedded for logos",
+        "3D extrusion from logo",
+        "Merging 3D layers into a single world"
+      ],
+      "description": "Demonstrates importing a vector logo via Place Embedded, converting it to a 3D extrusion, and merging with existing 3D layers so both elements live in the same 3D scene."
+    },
+    {
+      "start": "00:12:16",
+      "end": "00:21:21",
+      "title": "Materials, textures, and rendering basics",
+      "concepts": [
+        "Initial material choices",
+        "Diffusion color, reflection, roughness",
+        "Loading additional content from Adobe",
+        "Render preview tips"
+      ],
+      "description": "Covers selecting materials for 3D objects, adjusting diffusion color and properties, using built-in materials, loading more content, and beginning to render to preview results."
+    },
+    {
+      "start": "00:27:44",
+      "end": "00:37:36",
+      "title": "Lighting and shadows in a 3D scene",
+      "concepts": [
+        "Infinite light (sun)",
+        "Ambient/IBL lighting",
+        "Point lights and spotlights",
+        "Shadow softness and color",
+        "Environment ground plane"
+      ],
+      "description": "Explores different light sources (Infinite Light, ambient IBL, Point Light, Spotlight), how to position them, soften shadows, adjust color and intensity, and work with the environment/ground plane for realistic shadows."
+    },
+    {
+      "start": "00:37:40",
+      "end": "00:41:50",
+      "title": "Rendering for final production and export",
+      "concepts": [
+        "Render options and shortcuts",
+        "Quality thresholds and VRAM",
+        "Saving as JPEG or exporting for InDesign/Illustrator"
+      ],
+      "description": "Guides on rendering final images, balancing quality and render time, and exporting finished assets (including turning off 3D in layers for final flat outputs)."
+    },
+    {
+      "start": "00:43:33",
+      "end": "01:00:15",
+      "title": "Fake 3D and 2.5D techniques with gradients and paths",
+      "concepts": [
+        "Gradient Ellipse for fake 3D",
+        "Mixer Brush and gradient sampling",
+        "2.5D path-based typography",
+        "Smoothing and tablet use"
+      ],
+      "description": "Introduces 2.5D techniques to simulate depth using gradients and Mixer Brush, then transitions to path-based work and interlocking shapes for a pseudo-3D effect without full 3D support."
+    },
+    {
+      "start": "00:53:00",
+      "end": "01:01:01",
+      "title": "Using paths for 3D-like text and class project",
+      "concepts": [
+        "Pen/Curvature tools for paths",
+        "Stroke Path with Mixer Brush",
+        "Interlocking paths and masking",
+        "Class project setup and sharing"
+      ],
+      "description": "Delves into path-based approaches for creating 3D-like lettering, including interlocking elements with masking, then outlines the class project and how to share results."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Postcard 3D background",
+      "timestamp": "00:04:20",
+      "confidence": 0.78
+    },
+    {
+      "technique": "New 3D Extrusion from Selected Layer",
+      "timestamp": "00:05:10",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Place Embedded and extrude logo",
+      "timestamp": "00:08:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Depth of field with Rad View and saving views",
+      "timestamp": "00:23:52",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Lighting setup with Infinite Light and IBL toggling",
+      "timestamp": "00:28:50",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Partial renders with Rectangle Marquee",
+      "timestamp": "00:18:52",
+      "confidence": 0.77
+    },
+    {
+      "technique": "Wacom Mixer Brush for 2.5D text",
+      "timestamp": "00:49:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Interlocking 3D paths with masks",
+      "timestamp": "01:00:02",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:45:32.158687+00:00"
+}

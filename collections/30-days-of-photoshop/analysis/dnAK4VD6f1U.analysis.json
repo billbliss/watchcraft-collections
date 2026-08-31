@@ -1,0 +1,122 @@
+{
+  "schema_version": 2,
+  "video": "dnAK4VD6f1U.youtube",
+  "title": "Mockup Creation in Photoshop: Three-Phase Workflow with Generative AI, Smart Objects, and Realistic Lighting",
+  "date": {
+    "display": "September 26, 2025",
+    "iso": "2025-09-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN's Day 26 tutorial demonstrates building a realistic poster mockup in Photoshop through a three-phase workflow. Phase 1 cleans the background by removing unwanted graphics using the Generative AI Remove tool on a new layer, including careful text removal to keep lighting intact. Phase 2 constructs a non-perspective base for the mockup by extracting a billboard’s size with a polygonal Lasso, filling and transforming a white rectangle, then converting it into a Smart Object for non-destructive editing and easy updates. Phase 3 adds realism by duplicating the background into a new layer, applying it as a clipped, soft-light overlay to the mockup, and tweaking with Apply Image, clipping masks, and Levels to replicate shadows and highlights. The session also covers updating inside the smart object in real time, and using Generative Fill to populate the design (e.g., clouds) while maintaining perspective consistency.",
+  "topics": [
+    "Generative AI Remove Tool",
+    "New layer creation for removals",
+    "Removing text while preserving highlights",
+    "Brush size control with [ and ]",
+    "Grouping and naming layers",
+    "Lasso tool: polygonal selection for billboard",
+    "Fill selection with white and transform to rectangle",
+    "Convert to Smart Object",
+    "Layer masks and inverse selections",
+    "Creating a mockup shape over a billboard",
+    "Masking to reveal underlying elements",
+    "Applying and updating Smart Objects (Ctrl/Cmd+S)",
+    "Using Apply Image to capture highlights/shadows",
+    "Clipping mask between mockup and highlight layer",
+    "Soft Light blending mode for realism",
+    "Levels adjustments for tonal control",
+    "Editing inside Smart Object via double-click",
+    "Generative Fill for asset insertion inside Smart Object",
+    "Clouds generation with Generative Fill"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:19",
+      "title": "Phase 1: Background cleanup with Generative AI Remove Tool",
+      "concepts": [
+        "Generative AI remove tool",
+        "Create new layer for removals",
+        "Highlighting and removing background elements",
+        "Undo workflow for iterative refinements"
+      ],
+      "description": "The presenter begins with the background image, enabling the Generative AI Remove Tool on a new layer. He highlights unwanted objects (e.g., foreground figure, text) and uses the tool to remove them, iterating on removal and refinements. The process emphasizes preserving light sources to maintain realism and demonstrates brush sizing via brackets, then groups the removals into a named layer called 'remove'."
+    },
+    {
+      "start": "00:02:19",
+      "end": "00:09:21",
+      "title": "Phase 2: Build and convert a mockup surface as a Smart Object",
+      "concepts": [
+        "Lasso tool (polygonal) to trace billboard silhouette",
+        "Fill with white and transform into a regular rectangle",
+        "Convert to Smart Object for non-destructive editing",
+        "Masking to reveal the clean billboard area",
+        "Saving as a .psb-compatible smart object",
+        "Editing inside the Smart Object and applying updates"
+      ],
+      "description": "A new white shape is created to represent the billboard, derived from a perspective-corrected trace. The shape is converted to a Smart Object to enable editing in a separate file, with the ability to resize and reposition while preserving the original. The artist creates a layer mask by selecting the original billboard, inverting the selection, and painting with black to hide the old content. The process highlights using Smart Objects for efficient updates and ongoing edits."
+    },
+    {
+      "start": "00:09:21",
+      "end": "00:13:37",
+      "title": "Phase 3: Realistic integration with lighting and perspective",
+      "concepts": [
+        "Apply Image to capture lighting from the base image",
+        "Clipping mask to constrain lighting to the mockup",
+        "Soft Light blending to integrate highlights/shadows",
+        "Levels adjustments for tonal control",
+        "Saving and updating smart objects to propagate changes",
+        "Generative Fill for asset augmentation (e.g., clouds)"
+      ],
+      "description": "Phase 3 focuses on integrating the mockup with realistic lighting. A snapshot of the base image is applied via Apply Image to generate a layer of highlights and shadows, then clipped to the billboard via a clipping mask. The layer uses Soft Light blending to blend with the mockup, and Levels are used to fine-tune darks, lights, and midtones. The workflow emphasizes saving the Smart Object to see live updates in the composition and demonstrates Generative Fill for adding cloud assets to enhance realism. The session ends with advice on maintaining two-dimensional design constraints for perspective-mconsistent results."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Generative AI Remove Tool on background elements (new layer) and undo workflow",
+      "timestamp": "00:00:59",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Lasso (polygonal) selection to define billboard area and transform to white rectangle",
+      "timestamp": "00:02:46",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Convert to Smart Object for non-destructive editing and live updates",
+      "timestamp": "00:04:41",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Layer mask with inverse selection to cleanly hide original content",
+      "timestamp": "00:05:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Apply Image + clipping mask + Soft Light blending to integrate lighting",
+      "timestamp": "00:10:00",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Levels adjustment to fine-tune shadows, midtones, and highlights",
+      "timestamp": "00:10:53",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Editing Smart Object contents by double-clicking to open and save to propagate changes",
+      "timestamp": "00:11:59",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Generative Fill to populate mockup assets inside the Smart Object (e.g., clouds)",
+      "timestamp": "00:12:52",
+      "confidence": 0.77
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:55:28.066938+00:00"
+}

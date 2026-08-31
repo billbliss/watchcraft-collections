@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "video": "ja6An971IRA.youtube",
+  "title": "Correct Exposure in Photoshop - Day 22",
+  "date": {
+    "display": "September 22, 2025",
+    "iso": "2025-09-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN's Day 22 tutorial demonstrates a non-destructive workflow for correcting image exposure in Photoshop using Adobe Camera Raw. The instructor converts the layer to a smart object via Smart Filters, applies a global Camera Raw auto adjustment, and refines exposure with highlights, shadows, and vibrance. The lesson then masking a subject to apply local adjustments, removes a stray background figure with the Remove tool, automatically straightens the horizon, and revisits Camera Raw to fine-tune skin tones with the Color Mixer (Point Color). The approach emphasizes non-destructive editing with re-editable Camera Raw settings and provides a concise, repeatable sequence for improving exposure while preserving skin tone naturalness.",
+  "topics": [
+    "Adobe Camera Raw",
+    "Camera Raw Filter",
+    "Smart Filters",
+    "Smart Object",
+    "Auto adjustment (Camera Raw)",
+    "Exposure",
+    "Highlights",
+    "Shadows",
+    "Vibrance",
+    "Color Temperature / Warmth",
+    "Masking",
+    "People detection / Subject masking",
+    "Create Mask",
+    "Mask overlay",
+    "Remove Tool (Camera Raw)",
+    "Horizon straightening",
+    "Geometry adjustments",
+    "Auto perspective",
+    "Double-click to re-open Camera Raw",
+    "Color Mixer",
+    "Point Color",
+    "Hue/Saturation/Luminance (HSL)",
+    "Eyedropper tool",
+    "Mask-based local edits",
+    "Before/After comparison",
+    "Non-destructive workflow"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Intro and setup: Smart Objects and Camera Raw",
+      "concepts": [
+        "Camera Raw filter",
+        "Convert to Smart Filters",
+        "Smart Object"
+      ],
+      "description": "Introduces the goal of correcting exposure with Camera Raw and demonstrates converting the target layer into a smart object via Filter > Convert to Smart Filters to enable non-destructive edits."
+    },
+    {
+      "start": "00:01:01",
+      "end": "00:02:06",
+      "title": "Global exposure correction with Auto in Camera Raw",
+      "concepts": [
+        "Auto button",
+        "Exposure adjustment",
+        "Highlights",
+        "Shadows",
+        "Vibrance"
+      ],
+      "description": "Shows opening Camera Raw via the Filter menu, using the Auto control to balance highlights and shadows, and mentions adjusting exposure and vibrance afterward for a blanket image-wide correction."
+    },
+    {
+      "start": "00:02:09",
+      "end": "00:03:00",
+      "title": "Subject masking setup: isolating the person",
+      "concepts": [
+        "Masking",
+        "Subject detection (People)"
+      ],
+      "description": "Demonstrates selecting the subject using Camera Raw’s masking tools, including the automatic 'People' detection to isolate the person for targeted edits."
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:04:12",
+      "title": "Local adjustments on subject via mask",
+      "concepts": [
+        "Mask-based edits",
+        "Exposure on masked areas",
+        "Color temperature",
+        "Skin tone correction"
+      ],
+      "description": "Applies exposure, temperature, and color corrections specifically to the masked subject, showing how local adjustments differ from global edits."
+    },
+    {
+      "start": "00:04:12",
+      "end": "00:04:34",
+      "title": "Background removal and horizon straightening",
+      "concepts": [
+        "Remove Tool (Camera Raw)",
+        "Horizon alignment",
+        "Geometry adjustments"
+      ],
+      "description": "Uses the Remove tool to erase an unwanted background element and applies an auto horizon/geometry correction to straighten the scene."
+    },
+    {
+      "start": "00:04:34",
+      "end": "00:06:20",
+      "title": "Revisiting Camera Raw for skin color correction",
+      "concepts": [
+        "Double-click re-enter Camera Raw",
+        "Color Mixer",
+        "Point Color",
+        "Hue/Saturation/Luminance",
+        "Eyedropper"
+      ],
+      "description": "Reopens the Camera Raw filter on the smart object to fine-tune skin color with the Color Mixer (including Point Color targeting), adjusting hue, saturation, and luminance for a natural skin tone, with before/after comparisons."
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:07:19",
+      "title": "Wrap-up and takeaways",
+      "concepts": [
+        "Before/After comparison",
+        "Non-destructive editing",
+        "Re-editability of Smart Filters",
+        "Tomorrow's topic"
+      ],
+      "description": "Concludes with a recap of the non-destructive workflow, confirms adjustable Camera Raw settings via the smart filter, and invites viewers to continue with the series."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Camera Raw Auto exposure and color balance",
+      "timestamp": "00:01:23",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Masking with People detection and Create Mask",
+      "timestamp": "00:02:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Remove tool in Camera Raw to erase background elements",
+      "timestamp": "00:04:01",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Horizon auto-straightening with Camera Raw geometry",
+      "timestamp": "00:04:24",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Skin color correction with Color Mixer and Point Color",
+      "timestamp": "00:05:20",
+      "confidence": 0.82
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T07:00:29.327575+00:00"
+}

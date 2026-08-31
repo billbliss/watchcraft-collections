@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "video": "7I4UVtyKjIo.youtube",
+  "title": "Composite Lighting with Light Streaks in Photoshop — Day 30 (PHLEARN)",
+  "date": {
+    "display": "September 30, 2025",
+    "iso": "2025-09-30",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 30 lesson closes the 30 Days of Photoshop series with a final composite project. The instructor imports a subject image and a collection of light-streak assets, then builds a layered, lighting-rich composite using non-destructive workflows: smart objects and smart filters, layer masks, and a variety of blend modes (notably Screen). The process involves masking the subject, duplicating and repositioning light layers, and experimenting with color and exposure through Levels adjustments on RGB channels. A Camera Raw finish (radial gradient, vignette, grain) and a lens blur pass further integrate the lighting with the subject, while techniques like applying images and copying smart filters across layers keep edits flexible. The video emphasizes experimentation and play, with downloadables and a reminder that all steps can be adjusted or undone for different artistic outcomes.",
+  "topics": [
+    "Screen blend mode",
+    "Light streak layers",
+    "Smart Objects and Smart Filters",
+    "Layer masks and masking basics",
+    "Select Subject tool",
+    "Mask linking and unlinking",
+    "Invert mask",
+    "Transform (Ctrl/Cmd+T)",
+    "Alt/Option masking transfer between layers",
+    "Copying layer masks between layers (Alt/Option drag)",
+    "Color channel editing with Levels (RGB channels)",
+    "Red/Green/Blue channel manipulation",
+    "Duplicating and aligning layers",
+    "Color grading with Levels on individual channels",
+    "Converting layers to Smart Objects for blur (motion blur)",
+    "Motion Blur via Smart Filters",
+    "Camera Raw filter for finishing adjustments",
+    "Radial gradient masking in Camera Raw",
+    "Vignette and exposure adjustments in Camera Raw",
+    "Lens Blur and selective focus via masking",
+    "Apply Image technique for version-wide consistency",
+    "Copying smart filters across layers (Alt/Option drag)",
+    "Resource download (sample images and PSD)",
+    "Final wrap-up and encouragement of experimentation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:31:00",
+      "title": "Intro and asset import",
+      "concepts": [
+        "Subject image",
+        "Light streaks import",
+        "Smart Objects",
+        "Screen blend preview"
+      ],
+      "description": "Aaron introduces the final project, selects a subject image, and imports multiple light-streak assets as smart objects to preview a lighting-based composite using Screen blend mode."
+    },
+    {
+      "start": "01:31:00",
+      "end": "04:59:00",
+      "title": "Masking fundamentals with Select Subject",
+      "concepts": [
+        "Select Subject",
+        "Layer mask creation",
+        "Mask visibility and masking relationships",
+        "Linking vs unlinking layer and mask"
+      ],
+      "description": "Uses Select Subject to generate a mask for lighting layers, then demonstrates the relationship between layers and their masks, including linking and unlinking to move them independently and invert the mask when needed."
+    },
+    {
+      "start": "04:59:00",
+      "end": "10:15:00",
+      "title": "Building the initial composite with light layers",
+      "concepts": [
+        "Screen blend mode",
+        "Transform and scale",
+        "Duplicating and arranging layers",
+        "Mask placement strategy"
+      ],
+      "description": "Adds additional light layers, applies Screen blending, and uses transform and duplication to position lights around the subject to begin the composite narrative."
+    },
+    {
+      "start": "10:15:00",
+      "end": "18:16:00",
+      "title": "Color experiments and advanced blending",
+      "concepts": [
+        "Levels adjustments on smart objects",
+        "RGB channel editing",
+        "Channel-specific color shifts",
+        "Layer duplication and variation",
+        "Invert mask workflow"
+      ],
+      "description": "Explores color shaping by adjusting Levels on smart objects and selectively editing RGB channels to shift color balance, while duplicating and rearranging layers and employing inverted masks for varied effects."
+    },
+    {
+      "start": "18:16:00",
+      "end": "21:25:00",
+      "title": "Camera Raw finish and depth of field",
+      "concepts": [
+        "Camera Raw filter",
+        "Radial gradient masking",
+        "Vignette and exposure adjustments",
+        "Grain and lens blur"
+      ],
+      "description": "Applies a Camera Raw finish with radial masking to brighten the subject and darken the background, adds grain, and uses lens blur to blend lighting with depth cues for a photographic finish."
+    },
+    {
+      "start": "21:25:00",
+      "end": "23:00:00",
+      "title": "Final polish and resources",
+      "concepts": [
+        "Apply Image technique",
+        "Smart Filters across versions",
+        "Downloadable resources",
+        "Series wrap-up"
+      ],
+      "description": "Demonstrates applying edits to a new version via Apply Image, copying smart filters between smart objects, and points to free resources (sample images and PSD) as the series concludes."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Screen blend mode applied to light streak layers to create lighting effects",
+      "timestamp": "00:01:51",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Non-destructive editing with Smart Objects and Smart Filters (Levels as smart filter)",
+      "timestamp": "00:02:23",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Select Subject for rapid subject masking",
+      "timestamp": "00:03:09",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Mask inversion and management (Invert Mask, detect visibility)",
+      "timestamp": "00:04:25",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Copying layer masks between layers via Alt/Option drag",
+      "timestamp": "00:06:43",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mask and layer relationship: linking vs unlinking in Photoshop",
+      "timestamp": "00:03:40",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Color channel manipulation using Levels on RGB channels",
+      "timestamp": "00:08:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Converting to Smart Object for blur (motion blur via Smart Filters)",
+      "timestamp": "00:13:12",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Applying Motion Blur through Smart Filters",
+      "timestamp": "00:13:34",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Camera Raw filter with radial gradient masking for focus and exposure",
+      "timestamp": "00:17:43",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Lens blur and selective focus using painting masks",
+      "timestamp": "00:18:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Apply Image workflow to propagate edits to new versions",
+      "timestamp": "00:20:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Copying smart filters to new layers via Alt/Option drag",
+      "timestamp": "00:20:52",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:53:14.853114+00:00"
+}

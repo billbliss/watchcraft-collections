@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "FlyQYNgJm7o.youtube",
+  "title": "Installing Wall Sconces in an Older Home: Wiring, Box Reuse, and Fireplace Mounting",
+  "date": {
+    "display": "February 23, 2025",
+    "iso": "2025-02-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Living Room / Fireplace Wall",
+      "confidence": 0.65,
+      "basis": "Transcript centers the discussion on lighting in the living room and mounting sconces above the fireplace."
+    },
+    {
+      "name": "Basement",
+      "confidence": 0.85,
+      "basis": "Explicit: they go downstairs to access wiring and plan routing for the sconces."
+    }
+  ],
+  "summary": "This This Old House episode follows Kevin and Heath as they troubleshoot and upgrade historical lighting around a living-room fireplace. They evaluate existing, nonfunctional wall switches, locate old plaster sconce boxes behind the fireplace, and determine that new wiring and larger boxes are required for proper, code-compliant sconces. The crew runs wire from the basement to a new wall location, uses a low-profile drilling trick to locate wall cavities, and pulls wires to the new sconces. They relocate a wall switch to a more logical position in the room, install the sconces, and patch the surrounding plaster. Throughout, they reference finding old wall contents (including a 1955 newspaper) as evidence of the wall’s history, and emphasize careful measurement from the mantel to ensure even, aesthetically pleasing sconce heights. The episode emphasizes planning, safe electrical work in an older home, and finishing touches for a clean install.",
+  "topics": [
+    "sconce installation",
+    "hardwired lighting",
+    "old plaster walls",
+    "fireplace lighting",
+    "electrical box relocation",
+    "basement wiring access",
+    "wire routing",
+    "j-box use",
+    "old wiring safety and replacement",
+    "wire tracing with toner/receiver",
+    "insulation-tie drill-bit trick",
+    "wall measurement from mantel",
+    "plaster patching and finishing",
+    "fishing wires through studs",
+    "new box sizing and upgrade",
+    "circuit continuity checks",
+    "historic wall contents (newspaper dating)",
+    "breaker operation after wiring"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:59",
+      "title": "Assessment and goal setting: dark living room, possible sconces over the fireplace",
+      "concepts": [
+        "current lighting in living room",
+        "considering sconces above fireplace",
+        "neighborhood comparison of similar homes"
+      ],
+      "description": "The hosts identify that the living room is underlit and that existing floor lamps with a wireless switch are not ideal. They note that sconces over the fireplace are a common feature in similar homes and begin planning toward installing hardwired sconces in that location."
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:32:00",
+      "title": "Inspecting existing wiring and locating old sconce boxes via switch and wall work",
+      "concepts": [
+        "nonfunctional switch",
+        "existing wiring tied to nearby lights",
+        "search for plaster box locations"
+      ],
+      "description": "The team examines the wall switches, identifies a dead/unused switch, and confirms that the other switches likely feed the existing lighting. They begin to verify the probable sconce box locations behind the plaster near the fireplace."
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:59:00",
+      "title": "Wiring tracing with toner and confirmation at the fireplace",
+      "concepts": [
+        "toner/receiver for wire tracing",
+        "confirming wall path from basement to sconces",
+        "checking plaster boxes behind fireplace"
+      ],
+      "description": "Using a toner and a receiver, Heath traces the wiring from the wall to the sconces, confirming the likely plaster boxes behind the fireplace and establishing the general routing path before making changes."
+    },
+    {
+      "start": "01:16:00",
+      "end": "12:16:00",
+      "title": "Basement routing, plan for new switch location, and final sconce installation",
+      "concepts": [
+        "basement access for wiring",
+        "junction boxes and wiring paths",
+        "drilling strategies and wall cavity access",
+        "insulation-tie trick as drill bit",
+        "fishing wires through studs",
+        "finding old sconce boxes and upgrading to larger boxes",
+        "measuring heights from mantel for alignment",
+        "plaster patching and finish",
+        "final test of sconces"
+      ],
+      "description": "The bulk of the project unfolds: they locate a convenient route from the basement, plan a new switch location on a suitable wall, and prepare to route power to the sconces. Heath demonstrates a DIY technique using an insulation tie as a drill-bit starter to locate wall cavities, then they drill up to fish wires through studs, locate the original sconce boxes (including a 1955 newspaper found in the wall), and decide to upgrade to larger boxes. They pull cables from the basement, install a proper switch location, mount the hardwired sconces, and test the system after restoring power. They also emphasize careful plaster work and patching around the old openings."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Wiring path tracing with a toner and receiver to locate old sconce wires",
+      "timestamp": "00:02:21",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using an insulation tie as a DIY drill bit to locate a wall cavity",
+      "timestamp": "00:05:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Fishing wires through studs from basement to wall cavity",
+      "timestamp": "00:10:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Measuring each light height from the mantel to ensure identical clearance",
+      "timestamp": "00:08:36",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Opening plaster boxes and inspecting old sconce locations to determine box size",
+      "timestamp": "00:09:11",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Power testing and safe shutdown before working on electrical boxes",
+      "timestamp": "00:01:32",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Final commissioning: test sconces after wiring and patching",
+      "timestamp": "00:11:31",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:19:46.002545+00:00"
+}

@@ -1,0 +1,641 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "30 Days of Photoshop",
+    "collection_id": "30-days-of-photoshop",
+    "description": "A Watchcraft collection generated from the 30 Days of Photoshop YouTube playlist.",
+    "source": {
+      "type": "youtube-playlist",
+      "playlist_id": "PL7JpMMpENaD3_6wTy3SjbSW0HT_V8SrxJ",
+      "url": "https://www.youtube.com/playlist?list=PL7JpMMpENaD3_6wTy3SjbSW0HT_V8SrxJ",
+      "excluded_video_ids": [],
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn"
+    },
+    "listed": true,
+    "publisher": "PHLEARN"
+  },
+  "sources": {
+    "78MCz6BpeXM.youtube": {
+      "source_id": "youtube:78MCz6BpeXM",
+      "type": "youtube",
+      "video_id": "78MCz6BpeXM",
+      "url": "https://www.youtube.com/watch?v=78MCz6BpeXM",
+      "title": "Welcome to 30 Days of Photoshop 2025 Edition - INTRO",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/78MCz6BpeXM/hqdefault.jpg",
+      "duration_seconds": 190,
+      "published_at": "2025-08-31T06:00:11-07:00",
+      "chapters": [],
+      "position": 1,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "lgIFyMd_TzE.youtube": {
+      "source_id": "youtube:lgIFyMd_TzE",
+      "type": "youtube",
+      "video_id": "lgIFyMd_TzE",
+      "url": "https://www.youtube.com/watch?v=lgIFyMd_TzE",
+      "title": "Taking a Tour of Photoshop - Day 1",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/lgIFyMd_TzE/hqdefault.jpg",
+      "duration_seconds": 2308,
+      "published_at": "2025-09-01T06:01:29-07:00",
+      "chapters": [],
+      "position": 2,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "yYm2SN0IOaU.youtube": {
+      "source_id": "youtube:yYm2SN0IOaU",
+      "type": "youtube",
+      "video_id": "yYm2SN0IOaU",
+      "url": "https://www.youtube.com/watch?v=yYm2SN0IOaU",
+      "title": "Opening, Editing & Saving in Photoshop - Day 2",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/yYm2SN0IOaU/hqdefault.jpg",
+      "duration_seconds": 1080,
+      "published_at": "2025-09-02T06:01:55-07:00",
+      "chapters": [],
+      "position": 3,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "lLQ3miK4GQE.youtube": {
+      "source_id": "youtube:lLQ3miK4GQE",
+      "type": "youtube",
+      "video_id": "lLQ3miK4GQE",
+      "url": "https://www.youtube.com/watch?v=lLQ3miK4GQE",
+      "title": "Exploring File Formats in Photoshop - Day 3",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/lLQ3miK4GQE/hqdefault.jpg",
+      "duration_seconds": 968,
+      "published_at": "2025-09-03T06:01:37-07:00",
+      "chapters": [],
+      "position": 4,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "MTQw0jl5M8g.youtube": {
+      "source_id": "youtube:MTQw0jl5M8g",
+      "type": "youtube",
+      "video_id": "MTQw0jl5M8g",
+      "url": "https://www.youtube.com/watch?v=MTQw0jl5M8g",
+      "title": "Understanding Layers in Photoshop - Day 4",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/MTQw0jl5M8g/hqdefault.jpg",
+      "duration_seconds": 1174,
+      "published_at": "2025-09-04T06:00:45-07:00",
+      "chapters": [],
+      "position": 5,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "YwSWiB5ajOE.youtube": {
+      "source_id": "youtube:YwSWiB5ajOE",
+      "type": "youtube",
+      "video_id": "YwSWiB5ajOE",
+      "url": "https://www.youtube.com/watch?v=YwSWiB5ajOE",
+      "title": "How to Use Adjustment Layers in Photoshop - Day 5",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/YwSWiB5ajOE/hqdefault.jpg",
+      "duration_seconds": 1725,
+      "published_at": "2025-09-05T06:01:12-07:00",
+      "chapters": [],
+      "position": 6,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "UUAAj9-Lu0A.youtube": {
+      "source_id": "youtube:UUAAj9-Lu0A",
+      "type": "youtube",
+      "video_id": "UUAAj9-Lu0A",
+      "url": "https://www.youtube.com/watch?v=UUAAj9-Lu0A",
+      "title": "Using Layer Masks in Photoshop - Day 6",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/UUAAj9-Lu0A/hqdefault.jpg",
+      "duration_seconds": 1118,
+      "published_at": "2025-09-06T06:01:02-07:00",
+      "chapters": [],
+      "position": 7,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "iS7ijvctMoA.youtube": {
+      "source_id": "youtube:iS7ijvctMoA",
+      "type": "youtube",
+      "video_id": "iS7ijvctMoA",
+      "url": "https://www.youtube.com/watch?v=iS7ijvctMoA",
+      "title": "Levels vs Curves in Photoshop - Day 7",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/iS7ijvctMoA/hqdefault.jpg",
+      "duration_seconds": 1132,
+      "published_at": "2025-09-07T06:01:16-07:00",
+      "chapters": [],
+      "position": 8,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "JR4PLp6Iffs.youtube": {
+      "source_id": "youtube:JR4PLp6Iffs",
+      "type": "youtube",
+      "video_id": "JR4PLp6Iffs",
+      "url": "https://www.youtube.com/watch?v=JR4PLp6Iffs",
+      "title": "Change Color in Photoshop – Day 8",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/JR4PLp6Iffs/hqdefault.jpg",
+      "duration_seconds": 757,
+      "published_at": "2025-09-08T06:00:42-07:00",
+      "chapters": [],
+      "position": 9,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "MplF8QAoMiI.youtube": {
+      "source_id": "youtube:MplF8QAoMiI",
+      "type": "youtube",
+      "video_id": "MplF8QAoMiI",
+      "url": "https://www.youtube.com/watch?v=MplF8QAoMiI",
+      "title": "Select Subject in Photoshop - Day 9",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/MplF8QAoMiI/hqdefault.jpg",
+      "duration_seconds": 457,
+      "published_at": "2025-09-09T06:00:50-07:00",
+      "chapters": [],
+      "position": 10,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "4OjzS2liGb8.youtube": {
+      "source_id": "youtube:4OjzS2liGb8",
+      "type": "youtube",
+      "video_id": "4OjzS2liGb8",
+      "url": "https://www.youtube.com/watch?v=4OjzS2liGb8",
+      "title": "Master Adobe Camera RAW in Photoshop - Day 10",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/4OjzS2liGb8/hqdefault.jpg",
+      "duration_seconds": 381,
+      "published_at": "2025-09-10T06:00:08-07:00",
+      "chapters": [],
+      "position": 11,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "2wDIiEXM7qQ.youtube": {
+      "source_id": "youtube:2wDIiEXM7qQ",
+      "type": "youtube",
+      "video_id": "2wDIiEXM7qQ",
+      "url": "https://www.youtube.com/watch?v=2wDIiEXM7qQ",
+      "title": "Remove Distractions in Photoshop - Day 11",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/2wDIiEXM7qQ/hqdefault.jpg",
+      "duration_seconds": 260,
+      "published_at": "2025-09-11T06:00:10-07:00",
+      "chapters": [],
+      "position": 12,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "ZM5irOjxDtY.youtube": {
+      "source_id": "youtube:ZM5irOjxDtY",
+      "type": "youtube",
+      "video_id": "ZM5irOjxDtY",
+      "url": "https://www.youtube.com/watch?v=ZM5irOjxDtY",
+      "title": "Scale, Rotate & Align in Photoshop - Day 12",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZM5irOjxDtY/hqdefault.jpg",
+      "duration_seconds": 1254,
+      "published_at": "2025-09-12T06:01:17-07:00",
+      "chapters": [],
+      "position": 13,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "Y8mn2bXH4ps.youtube": {
+      "source_id": "youtube:Y8mn2bXH4ps",
+      "type": "youtube",
+      "video_id": "Y8mn2bXH4ps",
+      "url": "https://www.youtube.com/watch?v=Y8mn2bXH4ps",
+      "title": "Crop & Expand in Photoshop - Day 13",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/Y8mn2bXH4ps/hqdefault.jpg",
+      "duration_seconds": 737,
+      "published_at": "2025-09-13T06:01:05-07:00",
+      "chapters": [],
+      "position": 14,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "FxOhmgRVRzA.youtube": {
+      "source_id": "youtube:FxOhmgRVRzA",
+      "type": "youtube",
+      "video_id": "FxOhmgRVRzA",
+      "url": "https://www.youtube.com/watch?v=FxOhmgRVRzA",
+      "title": "Explore Dynamic Text in Photoshop - Day 14",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/FxOhmgRVRzA/hqdefault.jpg",
+      "duration_seconds": 628,
+      "published_at": "2025-09-14T06:00:35-07:00",
+      "chapters": [],
+      "position": 15,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "qPrDFI8SZLE.youtube": {
+      "source_id": "youtube:qPrDFI8SZLE",
+      "type": "youtube",
+      "video_id": "qPrDFI8SZLE",
+      "url": "https://www.youtube.com/watch?v=qPrDFI8SZLE",
+      "title": "Using The Liquify Tool in Photoshop - Day 15",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/qPrDFI8SZLE/hqdefault.jpg",
+      "duration_seconds": 682,
+      "published_at": "2025-09-15T06:01:48-07:00",
+      "chapters": [],
+      "position": 16,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "y3SEdmqRAG0.youtube": {
+      "source_id": "youtube:y3SEdmqRAG0",
+      "type": "youtube",
+      "video_id": "y3SEdmqRAG0",
+      "url": "https://www.youtube.com/watch?v=y3SEdmqRAG0",
+      "title": "Smart Objects in Photoshop - Day 16",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/y3SEdmqRAG0/hqdefault.jpg",
+      "duration_seconds": 1059,
+      "published_at": "2025-09-16T06:01:56-07:00",
+      "chapters": [],
+      "position": 17,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "GWJXMNA5OSM.youtube": {
+      "source_id": "youtube:GWJXMNA5OSM",
+      "type": "youtube",
+      "video_id": "GWJXMNA5OSM",
+      "url": "https://www.youtube.com/watch?v=GWJXMNA5OSM",
+      "title": "Discover Blend If in Photoshop - Day 17",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/GWJXMNA5OSM/hqdefault.jpg",
+      "duration_seconds": 843,
+      "published_at": "2025-09-17T06:00:27-07:00",
+      "chapters": [],
+      "position": 18,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "5dJl_Lr5TGQ.youtube": {
+      "source_id": "youtube:5dJl_Lr5TGQ",
+      "type": "youtube",
+      "video_id": "5dJl_Lr5TGQ",
+      "url": "https://www.youtube.com/watch?v=5dJl_Lr5TGQ",
+      "title": "Explore Blending Modes in Photoshop - Day 18",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/5dJl_Lr5TGQ/hqdefault.jpg",
+      "duration_seconds": 1535,
+      "published_at": "2025-09-18T06:00:11-07:00",
+      "chapters": [],
+      "position": 19,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "A8gwBWmvius.youtube": {
+      "source_id": "youtube:A8gwBWmvius",
+      "type": "youtube",
+      "video_id": "A8gwBWmvius",
+      "url": "https://www.youtube.com/watch?v=A8gwBWmvius",
+      "title": "Dodge & Burn in Photoshop - Day 19",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/A8gwBWmvius/hqdefault.jpg",
+      "duration_seconds": 743,
+      "published_at": "2025-09-19T06:00:30-07:00",
+      "chapters": [],
+      "position": 20,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "QE0vOrgDSHY.youtube": {
+      "source_id": "youtube:QE0vOrgDSHY",
+      "type": "youtube",
+      "video_id": "QE0vOrgDSHY",
+      "url": "https://www.youtube.com/watch?v=QE0vOrgDSHY",
+      "title": "Color Correction in Photoshop - Day 20",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/QE0vOrgDSHY/hqdefault.jpg",
+      "duration_seconds": 365,
+      "published_at": "2025-09-20T06:00:53-07:00",
+      "chapters": [],
+      "position": 21,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "-Cs4y-6ltfo.youtube": {
+      "source_id": "youtube:-Cs4y-6ltfo",
+      "type": "youtube",
+      "video_id": "-Cs4y-6ltfo",
+      "url": "https://www.youtube.com/watch?v=-Cs4y-6ltfo",
+      "title": "Color Grading in Photoshop - Day 21",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/-Cs4y-6ltfo/hqdefault.jpg",
+      "duration_seconds": 672,
+      "published_at": "2025-09-21T06:00:00-07:00",
+      "chapters": [],
+      "position": 22,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "ja6An971IRA.youtube": {
+      "source_id": "youtube:ja6An971IRA",
+      "type": "youtube",
+      "video_id": "ja6An971IRA",
+      "url": "https://www.youtube.com/watch?v=ja6An971IRA",
+      "title": "Correct Exposure in Photoshop - Day 22",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/ja6An971IRA/hqdefault.jpg",
+      "duration_seconds": 446,
+      "published_at": "2025-09-22T06:01:27-07:00",
+      "chapters": [],
+      "position": 23,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "PGrlJpYHZo4.youtube": {
+      "source_id": "youtube:PGrlJpYHZo4",
+      "type": "youtube",
+      "video_id": "PGrlJpYHZo4",
+      "url": "https://www.youtube.com/watch?v=PGrlJpYHZo4",
+      "title": "Basic Retouching in Photoshop - Day 23",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/PGrlJpYHZo4/hqdefault.jpg",
+      "duration_seconds": 1065,
+      "published_at": "2025-09-23T06:00:59-07:00",
+      "chapters": [],
+      "position": 24,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "kMDT_ZNFtUk.youtube": {
+      "source_id": "youtube:kMDT_ZNFtUk",
+      "type": "youtube",
+      "video_id": "kMDT_ZNFtUk",
+      "url": "https://www.youtube.com/watch?v=kMDT_ZNFtUk",
+      "title": "Advanced Retouching in Photoshop - Day 24",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/kMDT_ZNFtUk/hqdefault.jpg",
+      "duration_seconds": 805,
+      "published_at": "2025-09-24T06:01:37-07:00",
+      "chapters": [],
+      "position": 25,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "gmlizVPIr1Y.youtube": {
+      "source_id": "youtube:gmlizVPIr1Y",
+      "type": "youtube",
+      "video_id": "gmlizVPIr1Y",
+      "url": "https://www.youtube.com/watch?v=gmlizVPIr1Y",
+      "title": "Color Match in Photoshop - Day 25",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/gmlizVPIr1Y/hqdefault.jpg",
+      "duration_seconds": 926,
+      "published_at": "2025-09-25T06:01:25-07:00",
+      "chapters": [],
+      "position": 26,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "dnAK4VD6f1U.youtube": {
+      "source_id": "youtube:dnAK4VD6f1U",
+      "type": "youtube",
+      "video_id": "dnAK4VD6f1U",
+      "url": "https://www.youtube.com/watch?v=dnAK4VD6f1U",
+      "title": "Create a Mockup in Photoshop - Day 26",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/dnAK4VD6f1U/hqdefault.jpg",
+      "duration_seconds": 821,
+      "published_at": "2025-09-26T06:01:31-07:00",
+      "chapters": [],
+      "position": 27,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "lsBtjxx_Aco.youtube": {
+      "source_id": "youtube:lsBtjxx_Aco",
+      "type": "youtube",
+      "video_id": "lsBtjxx_Aco",
+      "url": "https://www.youtube.com/watch?v=lsBtjxx_Aco",
+      "title": "Sky Replacement in Photoshop - Day 27",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/lsBtjxx_Aco/hqdefault.jpg",
+      "duration_seconds": 883,
+      "published_at": "2025-09-27T05:01:21-07:00",
+      "chapters": [],
+      "position": 28,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "8HwUwsHb9Pc.youtube": {
+      "source_id": "youtube:8HwUwsHb9Pc",
+      "type": "youtube",
+      "video_id": "8HwUwsHb9Pc",
+      "url": "https://www.youtube.com/watch?v=8HwUwsHb9Pc",
+      "title": "Exporting Images in Photoshop - Day 28",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/8HwUwsHb9Pc/hqdefault.jpg",
+      "duration_seconds": 684,
+      "published_at": "2025-09-28T06:00:28-07:00",
+      "chapters": [],
+      "position": 29,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "6jXR7JkssYY.youtube": {
+      "source_id": "youtube:6jXR7JkssYY",
+      "type": "youtube",
+      "video_id": "6jXR7JkssYY",
+      "url": "https://www.youtube.com/watch?v=6jXR7JkssYY",
+      "title": "Lightroom vs Photoshop Editing - Day 29",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/6jXR7JkssYY/hqdefault.jpg",
+      "duration_seconds": 1606,
+      "published_at": "2025-09-29T06:00:21-07:00",
+      "chapters": [],
+      "position": 30,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    },
+    "7I4UVtyKjIo.youtube": {
+      "source_id": "youtube:7I4UVtyKjIo",
+      "type": "youtube",
+      "video_id": "7I4UVtyKjIo",
+      "url": "https://www.youtube.com/watch?v=7I4UVtyKjIo",
+      "title": "Create a Composite in Photoshop - Day 30",
+      "publisher": "PHLEARN",
+      "publisher_url": "https://www.youtube.com/@phlearn",
+      "thumbnail_url": "https://i.ytimg.com/vi/7I4UVtyKjIo/hqdefault.jpg",
+      "duration_seconds": 1384,
+      "published_at": "2025-09-30T06:00:12-07:00",
+      "chapters": [],
+      "position": 31,
+      "captions": {
+        "language": "en",
+        "language_name": "English (auto-generated)",
+        "generated": true,
+        "source": "youtube-captions"
+      }
+    }
+  }
+}

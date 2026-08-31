@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "video": "4OjzS2liGb8.youtube",
+  "title": "Using Adobe Camera Raw in Photoshop: Lens Blur, Sky Masking, and a Non-destructive Workflow",
+  "date": {
+    "display": "September 10, 2025",
+    "iso": "2025-09-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "PHLEARN’s Day 10 tutorial demonstrates a nondestructive workflow in Photoshop using the integrated Camera Raw tools. The presenter starts by converting the background to a Smart Object, opens Camera Raw to apply Lens Blur for background separation, and then uses Landscape Masking to isolate the sky and push color temperature toward blue. A radial gradient is employed to brighten the subject, followed by targeted color grading on shadows, midtones, and highlights. Throughout, edits are kept nondestructive via Smart Objects and Smart Filters, with the option to reopen Camera Raw at any time to adjust masking or settings. The session emphasizes practical, repeatable steps that beginner-to-intermediate users can adopt directly in their Photoshop workﬂow.”,",
+  "topics": [
+    "Adobe Camera Raw integration in Photoshop",
+    "Convert to Smart Object for nondestructive edits",
+    "Smart Filters workflow",
+    "Camera Raw Filter interface",
+    "Lens Blur with auto-subject detection",
+    "Bokeh type options in Lens Blur",
+    "Landscape Masking to isolate the sky",
+    "Sky masking and color temperature adjustments",
+    "Sky highlights adjustments",
+    "Radial Gradient for local exposure",
+    "Feathering control on masks",
+    "Color Grading: shadows, midtones, highlights",
+    "Before/After toggle and keyboard shortcuts",
+    "Reopening Camera Raw from Photoshop",
+    "Non-destructive editing with Smart Objects"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:14",
+      "title": "Introduction and goals for Adobe Camera Raw in Photoshop",
+      "concepts": [
+        "Camera Raw integration",
+        "Nondestructive edits",
+        "Plan to adjust background blur, sky color, and color grade"
+      ],
+      "description": "Aaron Nace introduces Day 10 and positions Camera Raw as a powerful embedded tool, outlining the plan to demonstrate background blur, sky enhancement, and color grading within a nondestructive workflow."
+    },
+    {
+      "start": "00:01:14",
+      "end": "00:01:22",
+      "title": "Prepare Smart Object for nondestructive edits",
+      "concepts": [
+        "Convert for Smart Filters",
+        "Smart Object"
+      ],
+      "description": "Select the background layer and convert it to a Smart Object so edits can be modified later via Smart Filters."
+    },
+    {
+      "start": "00:01:22",
+      "end": "00:02:14",
+      "title": "Open Camera Raw and apply Lens Blur",
+      "concepts": [
+        "Camera Raw filter",
+        "Lens Blur",
+        "Auto subject detection",
+        "Blur amount",
+        "Bokeh types"
+      ],
+      "description": "Open Filter > Camera Raw, zoom in, and apply Lens Blur. Camera Raw detects the subject and blurs the background; refine the selection on the subject’s face and adjust blur strength and bokeh style."
+    },
+    {
+      "start": "00:02:18",
+      "end": "00:02:59",
+      "title": "Mask sky with Landscape Mask and blue the sky",
+      "concepts": [
+        "Landscape masking",
+        "Sky selection",
+        "Color temperature adjustment",
+        "Sky highlights"
+      ],
+      "description": "Use Landscape Mask to isolate the sky, reduce highlights, and shift color temperature toward blue to deepen the sky color."
+    },
+    {
+      "start": "00:03:12",
+      "end": "00:03:40",
+      "title": "Add a bright spot with Radial Gradient",
+      "concepts": [
+        "Radial Gradient",
+        "Exposure adjustment",
+        "Feathering"
+      ],
+      "description": "Create a radial gradient centered over the subject and raise exposure to subtly brighten the subject; adjust feathering to blend naturally."
+    },
+    {
+      "start": "00:04:05",
+      "end": "00:04:39",
+      "title": "Color Grading: adjust shadows, midtones",
+      "concepts": [
+        "Shadows (cooler)",
+        "Midtones (warmer)",
+        "Highlights adjustments"
+      ],
+      "description": "In Color Grading, shift shadows cooler and midtones warmer to achieve a cohesive two-tone color grade for the image."
+    },
+    {
+      "start": "00:04:43",
+      "end": "00:05:01",
+      "title": "Before/After toggle and finalizing in Camera Raw",
+      "concepts": [
+        "Before/After toggle",
+        "Smart Filters visibility"
+      ],
+      "description": "Use the before/after view to compare changes; finalize edits. Non-destructive changes are preserved via the Smart Filters workflow."
+    },
+    {
+      "start": "00:05:01",
+      "end": "00:05:21",
+      "title": "Returning to Photoshop and nondestructive workflow",
+      "concepts": [
+        "Smart Object persistence",
+        "Reopen Camera Raw"
+      ],
+      "description": "Return to Photoshop with visible changes. Because edits were made through a Smart Object, you can double-click the Camera Raw filter to re-edit masking and settings."
+    },
+    {
+      "start": "00:05:32",
+      "end": "06:12",
+      "title": "Wrap-up, tips, and next video",
+      "concepts": [
+        "Non-destructive workflow",
+        "Camera Raw as starting point",
+        "Download sample image and PSD",
+        "Next lesson teaser"
+      ],
+      "description": "Closing remarks emphasize starting edits in Camera Raw, maintaining a nondestructive workflow, and a teaser for the next day with a download invitation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Lens Blur with auto subject detection",
+      "timestamp": "00:01:35",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sky isolation using Landscape Mask",
+      "timestamp": "00:02:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Adjusting sky color with color temperature",
+      "timestamp": "00:02:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Radial Gradient to brighten subject",
+      "timestamp": "00:03:22",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Color Grading in Camera Raw (shadows, midtones, highlights)",
+      "timestamp": "00:04:13",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Reopening Camera Raw from Photoshop for iterative edits",
+      "timestamp": "00:05:16",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:49:28.035829+00:00"
+}

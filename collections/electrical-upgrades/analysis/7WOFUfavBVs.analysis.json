@@ -1,0 +1,97 @@
+{
+  "schema_version": 2,
+  "video": "7WOFUfavBVs.youtube",
+  "title": "Two-Tool Electrical Projects: Lineman Pliers and a Flat-Head Screwdriver",
+  "date": {
+    "display": "May 22, 2016",
+    "iso": "2016-05-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House’s Ask This Old House video foregrounds a minimalist approach to basic electrical tasks, arguing that two tools—the lineman pliers and a flat-head screwdriver—are sufficient for many common jobs. The segment demonstrates wire work (cutting, stripping, and twisting/splicing), accessing electrical boxes by removing covers, and removing knockouts. It also shows using a lock-nut push tool to remove knockouts and to drive staples, with a brief note on clearing obstructions (using a chisel when needed). The tone is practical and conversational, emphasizing tool economy and flexibility over a large tool kit.",
+  "topics": [
+    "Voltage tester",
+    "Lineman pliers",
+    "Flat-head screwdriver",
+    "Cutter / wire cutter",
+    "Needle-nose pliers",
+    "Diagonal cutters",
+    "Splicing wires",
+    "Stripping insulation",
+    "Twisting wires",
+    "Electrical box covers",
+    "Knockouts",
+    "Lock-nut push tool",
+    "Staple driving",
+    "Chisel as obstruction remover",
+    "Two-tool minimalist approach"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:00:34",
+      "title": "Two essential tools: Lineman pliers and flat-head screwdriver",
+      "concepts": [
+        "Identification of a minimal two-tool kit",
+        "Lineman pliers for multiple tasks",
+        "Flat-head screwdriver for device access and turning screws"
+      ],
+      "description": "The hosts claim two tools are enough for many tasks and designate lineman pliers and a flat-tip screwdriver as the core pair, with other tools listed only as supplementary."
+    },
+    {
+      "start": "00:00:39",
+      "end": "01:07",
+      "title": "Wire cutting, stripping, and splicing with basic tools",
+      "concepts": [
+        "Cutting wire with lineman pliers",
+        "Stripping insulation with the same cutter",
+        "Twisting and splicing wires",
+        "Using flat-head screwdriver to access device covers"
+      ],
+      "description": "Demonstrates cutting wires, stripping insulation using the same cutter, twisting and joining wires, and accessing electrical devices by removing covers with a flat-head screwdriver."
+    },
+    {
+      "start": "01:32",
+      "end": "02:08",
+      "title": "Knockouts, lock-nut push, and staple driving",
+      "concepts": [
+        "Removing knockouts",
+        "Lock-nut push as a multipurpose tool",
+        "Driving staples with the same tool"
+      ],
+      "description": "Shows removing knockout openings and then using the lock-nut push tool to drive a staple, illustrating the multipurpose use of a single tool in this context."
+    },
+    {
+      "start": "02:14",
+      "end": "02:39",
+      "title": "Obstruction clearance and wrap-up",
+      "concepts": [
+        "Clearing obstructions with a chisel if needed",
+        "Recap of the two-tool approach"
+      ],
+      "description": "Notes that a longer chisel can clear obstructions and ends with a practical recap of relying on the two tools, including light humor about unemployment."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Minimal two-tool electrical toolkit (lineman pliers + flat-head screwdriver)",
+      "timestamp": "00:00:26",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Lock-nut push tool used for knockout removal and staple driving",
+      "timestamp": "01:34",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using the same tool to drive a staple after knockout removal",
+      "timestamp": "01:59",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-08-31T06:12:22.036617+00:00"
+}

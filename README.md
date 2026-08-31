@@ -10,6 +10,9 @@ The published `collections.json` file is an optional discovery directory for the
 Watchcraft website, not an authority required by the application.
 Directory entries with `"archived": true` remain directly installable but are
 omitted from the website's available-collections list.
+The optional `category` field is editorial directory metadata used by the
+website for browsing and card labels; it is not part of an installable
+collection manifest.
 
 Authoring workspaces under `collections/` are added to the directory after a
 successful build by default. The directory's `base_url` supplies their public

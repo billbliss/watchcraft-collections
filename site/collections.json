@@ -8,6 +8,7 @@
       "collection_id": "hello-world-managed",
       "title": "Hello, Watchcraft! — Managed",
       "description": "A tiny self-contained video downloaded into Watchcraft’s private storage.",
+      "category": "Examples",
       "media_modes": [
         "managed-local"
       ],
@@ -18,6 +19,7 @@
       "collection_id": "hello-world-referenced",
       "title": "Hello, Watchcraft! — Referenced",
       "description": "The same tiny video kept in a folder that remains under your control.",
+      "category": "Examples",
       "media_modes": [
         "referenced-local"
       ],
@@ -28,6 +30,7 @@
       "collection_id": "premiere-pro-ai-tools",
       "title": "Learning Adobe Premiere Pro",
       "description": "Four public YouTube lessons with searchable topics and chapter navigation.",
+      "category": "Video Editing",
       "media_modes": [
         "remote"
       ],
@@ -37,6 +40,7 @@
       "collection_id": "davinci-resolve",
       "title": "DaVinci Resolve",
       "description": "Five public YouTube lessons with searchable topics and chapter navigation.",
+      "category": "Video Editing",
       "media_modes": [
         "remote"
       ],
@@ -46,6 +50,7 @@
       "collection_id": "official-ptgui-tutorial",
       "title": "Official PTGUI Tutorial",
       "description": "Nine public YouTube lessons with searchable topics and chapter navigation.",
+      "category": "Image Editing",
       "media_modes": [
         "remote"
       ],
@@ -55,6 +60,7 @@
       "collection_id": "essence-of-linear-algebra",
       "title": "Essence of linear algebra",
       "description": "Sixteen visual lessons that build an intuitive understanding of vectors, matrices, determinants, and related ideas.",
+      "category": "Mathematics",
       "media_modes": [
         "remote"
       ],
@@ -64,6 +70,7 @@
       "collection_id": "justinguitar-grade-1-beginner-guitar-course",
       "title": "JustinGuitar Grade 1 - Beginner Guitar Course",
       "description": "Seventy-nine beginner guitar lessons covering essential chords, rhythm, technique, practice, and songs.",
+      "category": "Music",
       "media_modes": [
         "remote"
       ],
@@ -73,6 +80,7 @@
       "collection_id": "plumbing-repairs-and-upgrades",
       "title": "Plumbing Repairs and Upgrades",
       "description": "One hundred forty-seven practical lessons on household plumbing repairs, installation, maintenance, and upgrades.",
+      "category": "Home Improvement",
       "media_modes": [
         "remote"
       ],
@@ -82,6 +90,7 @@
       "collection_id": "techniquely-with-lan-lam-america-s-test-kitchen",
       "title": "Techniquely with Lan Lam | America's Test Kitchen",
       "description": "Fifty-one cooking lessons that explain the techniques and food science behind better results in the kitchen.",
+      "category": "Cooking",
       "media_modes": [
         "remote"
       ],
@@ -91,6 +100,7 @@
       "collection_id": "photoshop-tutorial-for-beginners-complete-series",
       "title": "Photoshop Tutorial for Beginners | Complete Series",
       "description": "A Watchcraft collection generated from the Photoshop Tutorial for Beginners | Complete Series YouTube playlist.",
+      "category": "Image Editing",
       "media_modes": [
         "remote"
       ],
@@ -100,6 +110,7 @@
       "collection_id": "electrical-upgrades",
       "title": "Electrical Upgrades",
       "description": "A Watchcraft collection generated from the Electrical Upgrades YouTube playlist.",
+      "category": "Home Improvement",
       "media_modes": [
         "remote"
       ],
@@ -109,6 +120,7 @@
       "collection_id": "photoshop-advanced-course-masking-retouching-3d-lighting-and-cameras",
       "title": "Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras",
       "description": "A Watchcraft collection generated from the Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras YouTube playlist.",
+      "category": "Image Editing",
       "media_modes": [
         "remote"
       ],
@@ -118,6 +130,7 @@
       "collection_id": "30-days-of-photoshop",
       "title": "30 Days of Photoshop",
       "description": "A Watchcraft collection generated from the 30 Days of Photoshop YouTube playlist.",
+      "category": "Image Editing",
       "media_modes": [
         "remote"
       ],
@@ -127,6 +140,7 @@
       "collection_id": "vegan-recipes-goodful",
       "title": "Vegan Recipes | Goodful",
       "description": "A Watchcraft collection generated from the Vegan Recipes | Goodful YouTube playlist.",
+      "category": "Cooking",
       "media_modes": [
         "remote"
       ],

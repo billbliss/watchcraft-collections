@@ -1,5 +1,7 @@
 # Watchcraft Collections
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-72cf91.svg)](LICENSE)
+
 Collaborative, publishable collections for [Watchcraft](https://github.com/billbliss/watchcraft).
 
 Each directory under `collections/` is an independently installable Watchcraft
@@ -66,3 +68,9 @@ referenced example, download and extract the ZIP, then choose the extracted
 
 These examples are not a central collection registry. Any author can publish a
 valid Watchcraft manifest and its referenced metadata at any HTTP(S) location.
+
+## License
+
+Original content in this repository is available under the [MIT License](LICENSE).
+Referenced third-party videos and media remain subject to their owners' terms
+and are not relicensed by this repository.

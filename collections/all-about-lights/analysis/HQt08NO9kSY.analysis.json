@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "video": "HQt08NO9kSY.youtube",
+  "title": "Hybrid Smart Lighting: Back-Plate Switch + Wireless Remote",
+  "date": {
+    "display": "April 8, 2020",
+    "iso": "2020-04-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The video explains three main pathways for smart lighting: upgrading an existing wall switch to a smart switch, using smart bulbs, or employing a hybrid approach that combines a back-plate module with a wireless remote. It covers what each option offers—local control (on/off), dimming, and app or voice assistant integration—and the tradeoffs, including the electrical work required for switches and the constant power needs of smart bulbs. The hybrid solution keeps the wall switch always on while adding a wireless remote for local control and dimming, with the caveat that power continues to flow to the light socket even when the light is off. Practical guidance is provided on when to choose a given approach, considering reliability, safety, and convenience.",
+  "topics": [
+    "Smart switch installation",
+    "Local on/off control",
+    "Dimming capability",
+    "App integration",
+    "Smart speaker integration",
+    "Automation and scheduling",
+    "Smart bulbs overview",
+    "DIY-friendly installation",
+    "Constant power requirement",
+    "Hybrid back-plate and wireless remote",
+    "Back plate keeps switch on",
+    "Wireless remote for local control",
+    "Power remains to socket even when off",
+    "Electrical wiring considerations (electrician involved)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:09",
+      "end": "00:01:04",
+      "title": "Option 1: Smart switch vs. smart bulbs",
+      "concepts": [
+        "smart switch",
+        "in-wall wiring",
+        "smart bulbs",
+        "DIY vs professional",
+        "local control",
+        "dimming",
+        "scheduling",
+        "app and voice assistant control"
+      ],
+      "description": "The host compares upgrading existing switches to a smart switch (local on/off control, dimming, app/voice support, schedules) with using smart bulbs (DIY-friendly, Wi‑Fi-enabled) and notes that smart bulbs require a constant power source."
+    },
+    {
+      "start": "00:00:59",
+      "end": "00:01:35",
+      "title": "Hybrid solution: back plate + wireless remote",
+      "concepts": [
+        "back plate",
+        "existing switch",
+        "wireless remote",
+        "local control",
+        "dimming",
+        "constant power to bulb",
+        "on position assertion"
+      ],
+      "description": "Introduces a two-part hybrid device: a back plate that mounts over the existing switch while leaving it in the on position, plus a wireless remote that provides local on/off and dimming control. This approach preserves app/phone access because power remains available to the system."
+    },
+    {
+      "start": "00:01:26",
+      "end": "00:01:35",
+      "title": "Caution about the hybrid setup",
+      "concepts": [
+        "always-on switch",
+        "power to socket",
+        "off state caveat"
+      ],
+      "description": "Notes that with the hybrid solution the wall switch stays on, so power continues to flow to the light socket even when the light is off."
+    },
+    {
+      "start": "00:01:38",
+      "end": "00:01:49",
+      "title": "Closing remarks",
+      "concepts": [
+        "additional videos",
+        "subscription",
+        "This Old House"
+      ],
+      "description": "Wrap-up and call to action to explore more This Old House videos and subscribe."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hybrid smart switch with back plate + wireless remote for constant-power control",
+      "timestamp": "00:00:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Smart switch upgrade enabling local control, dimming, and automation",
+      "timestamp": "00:00:15",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Smart bulbs with Wi-Fi, app control, and scheduling",
+      "timestamp": "00:00:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Power dependency of smart bulbs on constant power",
+      "timestamp": "00:00:47",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:03:03.879117+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "video": "abOX0uGC2LI.youtube",
+  "title": "Toilet Tank Rebuild: Replacing Fill and Flush Valves and Fine-Tuning Float",
+  "date": {
+    "display": "September 30, 2014",
+    "iso": "2014-09-30",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House provides a step-by-step tank-rebuild demonstration focused on diagnosing and correcting leaks in a toilet tank. The host explains the core components—the flapper/flush valve, the fill valve, the float, and the overflow tube—and how flushing and refilling work. Historical notes compare brass and copper components to modern plastic equivalents, noting that floats became integral to the valve in contemporary designs. The video then covers diagnosing a running toilet (faulty flapper seating, worn or misadjusted fill valve, or overflow-driven overfill), draining the tank, and removing the old valves. A universal repair kit is installed to replace both valves, seal the tank-to-bowl with a spud gasket, and reassemble. Final steps include positioning the refill tube, adjusting the float height, and ensuring the water level sits about one inch below the overflow to prevent leaks. The host also cautions against overtightening and provides a rough price point (~$20) for the kit.",
+  "topics": [
+    "toilet tank anatomy",
+    "flapper / flush valve",
+    "fill valve",
+    "float",
+    "overflow tube",
+    "spud gasket",
+    "brass bolts",
+    "rubber washers",
+    "wing nut",
+    "older brass piston regulator",
+    "copper float",
+    "plastic fill valve",
+    "adjusting the float height",
+    "refill tube placement",
+    "condensation vs external leak",
+    "constant running toilet diagnosis",
+    "turkey baster to drain tank",
+    "tank-to-bowl seal",
+    "universal repair kit",
+    "kit components and cost",
+    "avoid overtightening to prevent cracking",
+    "reassembly alignment"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "01:41",
+      "title": "Anatomy and operation of a toilet tank",
+      "concepts": [
+        "flapper",
+        "flush valve",
+        "fill valve",
+        "float",
+        "overflow tube",
+        "tank anatomy"
+      ],
+      "description": "The host introduces toilet-tank anatomy, describing how a lift of the flapper allows tank water to drain into the bowl and how the fill valve, driven by a rising float, refills and shuts off at the correct level. Historical notes compare early brass/copper regulators with modern plastic designs and explain how floats used to be adjusted with a brass rod before becoming integral to newer fill valves."
+    },
+    {
+      "start": "01:41",
+      "end": "04:00",
+      "title": "Leaks, diagnosis, and draining the tank",
+      "concepts": [
+        "constant running toilet",
+        "flapper seating",
+        "misadjusted fill valve",
+        "overflow height",
+        "condensation vs leak",
+        "shutoff valve",
+        "draining the tank"
+      ],
+      "description": "This section covers common causes of a running toilet: a flapper not sealing, a misadjusted or worn fill valve, or an overflow height that causes continuous overflow. Condensation on the exterior of a tank is discussed as a non-leak symptom. The host demonstrates turning off the shutoff valve, flushing to empty, and starting water removal (with a turkey baster) before removing the tank bolts."
+    },
+    {
+      "start": "04:00",
+      "end": "06:55",
+      "title": "Replacing valves and reassembling the tank",
+      "concepts": [
+        "tank bolts",
+        "spud gasket",
+        "brass bolts",
+        "rubber washers",
+        "wing nut",
+        "over-rotation caution",
+        "refill tube height",
+        "float adjustment"
+      ],
+      "description": "The segment covers removing the old fill and flush valves, identifying five potential leak points, and installing a universal repair kit. The kit includes a fill valve, a flush valve, a spud gasket, and mounting hardware. After installing the new valves, the tank is reattached to the bowl, with attention to proper alignment, bolt snugness (not overtightened), and ensuring the refill tube sits just below the overflow. The final steps include adjusting the float so the water level is about one inch below the overflow and confirming proper operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Drain tank and remove water using shutoff valve and turkey baster",
+      "timestamp": "00:02:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Loosen and remove fill/flush valves using screwdriver and wrench",
+      "timestamp": "00:03:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Install universal repair kit with new fill and flush valves and adjust height",
+      "timestamp": "00:04:47",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Seal tank-to-bowl with spud gasket and position bolts, washers, and wing nut",
+      "timestamp": "00:05:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Set refill tube height and confirm overflow interaction",
+      "timestamp": "00:06:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adjust float height to approximately one inch below overflow",
+      "timestamp": "00:06:54",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:52:39.343305+00:00"
+}

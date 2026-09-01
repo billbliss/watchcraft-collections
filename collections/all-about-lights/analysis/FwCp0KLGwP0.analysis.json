@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "video": "FwCp0KLGwP0.youtube",
+  "title": "Moving a Kitchen Light Fixture: wiring, box relocation, and centering over the table",
+  "date": {
+    "display": "July 3, 2022",
+    "iso": "2022-07-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Kitchen",
+      "confidence": 0.6,
+      "basis": "Transcript references moving a kitchen light fixture and centering it over the table in the kitchen."
+    },
+    {
+      "name": "Basement",
+      "confidence": 0.8,
+      "basis": "Transcript shows turning off power at the basement panel."
+    },
+    {
+      "name": "Bathroom above ceiling",
+      "confidence": 0.5,
+      "basis": "Transcript notes that there is a bathroom directly above the ceiling where the work is taking place."
+    }
+  ],
+  "summary": "In this instructional segment from This Old House, a kitchen light fixture is relocated from a centered position to align over the dining table. The hosts identify the appropriate switched feed, confirm power is off, and consider routing a new box versus patching the old location. They verify ceiling clearance with a test drill, locate joists, install a fan brace, and run wiring through a new box, keeping the canopy and chain height adjustable. The project culminates with wiring connections (including ground) and a test with power restored, resulting in a centered fixture that clears the table and looks like a clean ceiling install.",
+  "topics": [
+    "Kitchen light relocation",
+    "Electrical feed identification",
+    "Breaker/power safety",
+    "Switched leg wiring",
+    "Blank plate vs new box relocation",
+    "Table alignment measurement",
+    "Ceiling hole testing",
+    "Joist locating",
+    "Electrical box relocation",
+    "Fan brace installation",
+    "Electrical box KO and connector",
+    "Fixture bar mounting",
+    "Chain-hung ceiling fixture",
+    "Ground and conductor wiring",
+    "Fixture testing after install"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:39",
+      "title": "Issue framing and initial planning",
+      "concepts": [
+        "Fixture originally centered in kitchen",
+        "Desire to center over the table",
+        "Potential risk of head impact when cooking or leaning",
+        "Preliminary planning to move the fixture about a foot"
+      ],
+      "description": "The video opens with the problem statement: the kitchen light was centered in the room, but furniture placement (the table) is off-center. The goal is to center the fixture over the table to improve layout and avoid contact with the light."
+    },
+    {
+      "start": "00:00:39",
+      "end": "00:02:46",
+      "title": "Planning, power-off, and feed identification",
+      "concepts": [
+        "Confirming table alignment and desired final position",
+        "Evaluating options for wiring: add a new box vs leave a blank plate",
+        "Power-off protocol and locating the correct feed"
+      ],
+      "description": "The crew checks the table centering, discusses whether to use a blank plate near the new fixture or extend wiring to a new box, and then proceeds to locate which switch feeds the light. They power down the circuit from the basement panel and inspect the switch box to identify the feed."
+    },
+    {
+      "start": "00:02:46",
+      "end": "00:04:15",
+      "title": "Centering plan, marking, and obstruction testing",
+      "concepts": [
+        "Centering the fixture relative to the door jamb and wall",
+        "Measuring distance from the wall and positioning over the table",
+        "Using painter's tape and a plum laser to mark the ceiling",
+        "Testing for above-ceiling obstructions with a drill/bit guidance"
+      ],
+      "description": "The team marks the table center and aligns it with a door jamb, checks the recommended distance from the wall, and uses painter's tape plus a laser to project the ceiling location. They perform a test-hole approach to ensure there is ample clearance (considering a bathroom above) before cutting or drilling."
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:05:52",
+      "title": "Box planning and structural prep",
+      "concepts": [
+        "Verifying joist locations",
+        "Deciding to relocate the box and pull the wiring",
+        "Installing a fan brace to support the fixture load",
+        "Preparing a KO cutout and wire connector"
+      ],
+      "description": "After confirming joist location and ceiling clearance, the team identifies that the existing wiring runs toward the area of the planned new box. They choose to relocate the box, install a fan brace between joists for support, and prepare the knockout and connector for the new wiring path."
+    },
+    {
+      "start": "00:05:52",
+      "end": "00:07:59",
+      "title": "Fixture mounting hardware and wiring prep",
+      "concepts": [
+        "Mounting the fixture bar to set canopy height",
+        "Opening and threading chain, and adjusting height (~62.5 inches)",
+        "Wiring the fixture: grounding, conductor identification, and enclosure routing",
+        "Canopy alignment and pre-wiring considerations"
+      ],
+      "description": "The fixture bar is mounted to establish canopy height, and one chain link is opened to adjust the drop. The team threads the chain, routes the wiring through the chain, and makes a splice at the canopy. Ground is wrapped around a screw, conductors are identified (white to the identified, black to the smooth), and wires are tucked back into the junction box. The canopy is then prepared for final mounting."
+    },
+    {
+      "start": "00:07:59",
+      "end": "00:08:04",
+      "title": "Final test and sign-off",
+      "concepts": [
+        "Power restored from basement",
+        "Fixture illuminates correctly",
+        "Positive wrap-up and sign-off"
+      ],
+      "description": "With the power restored, the fixture is tested and proves to be correctly installed. The hosts acknowledge the success and sign off, inviting viewers to explore more This Old House videos."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identifying the switched feed and shut-off path in a two-switch box",
+      "timestamp": "00:01:30",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using a test-hole approach to verify ceiling clearance before drilling a new box",
+      "timestamp": "00:04:15",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Installing a fan brace for ceiling-support and load transfer",
+      "timestamp": "00:05:08",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Chain-hung fixture mounting with adjustable height",
+      "timestamp": "00:06:15",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Grounding and conductor identification during canopy wiring",
+      "timestamp": "00:07:04",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:59:24.930701+00:00"
+}

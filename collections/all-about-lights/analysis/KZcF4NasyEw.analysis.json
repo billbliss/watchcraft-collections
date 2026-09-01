@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "video": "KZcF4NasyEw.youtube",
+  "title": "Choosing Recessed Light Bulbs: Incandescent, Halogen, CFL, and LED",
+  "date": {
+    "display": "July 13, 2014",
+    "iso": "2014-07-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video from This Old House compares common recessed-light bulb options, explaining what each bulb type is, how it’s installed in recessed fixtures, and practical considerations such as heat, ballast technology, upfront cost, lifespan, and long‑term energy savings. It covers incandescent, halogen (MR16), compact fluorescent (CFL) with a four-pin plug-in, and LED recessed lights. The hosts note that electronic ballasts reduce CFL flicker and buzz, describe LED as a circuit-board light source, and contrast initial price against longevity and electricity use, highlighting LED’s substantial efficiency advantage despite higher upfront cost.",
+  "topics": [
+    "Incandescent recessed light",
+    "Incandescent screw-in bulb",
+    "Halogen recessed light",
+    "MR16 low-voltage halogen",
+    "Heat generation in MR16",
+    "Fluorescent recessed light (CFL) with four-pin plug-in",
+    "Electronic ballast for CFLs",
+    "LED recessed light",
+    "LED as circuit-board of diodes",
+    "Bulb cost and lifespan: incandescent (~$5, 2-3 years)",
+    "Halogen cost and lifespan (roughly similar to incandescent)",
+    "CFL cost and lifespan (~$10, 5-7 years)",
+    "LED cost and lifespan (~$100, 15+ years)",
+    "Energy efficiency: wattage comparisons (65W incandescent vs 10W LED)",
+    "Long-term savings vs upfront cost",
+    "Heat considerations in recessed lighting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:11",
+      "end": "00:00:22",
+      "title": "Incandescent recessed light",
+      "concepts": [
+        "Incandescent recessed light",
+        "Screw-in incandescent bulb",
+        "Standard flood lamp"
+      ],
+      "description": "Introduction to the incandescent recessed light and its screw-in base, illustrating a standard incandescent bulb used in recessed fixtures."
+    },
+    {
+      "start": "00:00:26",
+      "end": "00:00:40",
+      "title": "Halogen MR16 (low voltage) recessed bulb",
+      "concepts": [
+        "MR16 low-voltage halogen",
+        "Bright white light",
+        "Heat generation"
+      ],
+      "description": "Discussion of the smaller MR16 halogen bulb used in recessed fixtures, noted for bright white light and significant heat output."
+    },
+    {
+      "start": "00:00:49",
+      "end": "00:01:02",
+      "title": "Fluorescent recessed light (CFL) with four-pin plug-in",
+      "concepts": [
+        "Four-pin CFL plug-in",
+        "Recessed fluorescent lamp",
+        "Flicker and buzz concerns"
+      ],
+      "description": "Introduction to CFL recessed lighting with a four-pin plug-in, highlighting potential flicker/buzz issues."
+    },
+    {
+      "start": "00:01:02",
+      "end": "00:01:17",
+      "title": "Electronic ballast for CFLs",
+      "concepts": [
+        "Electronic ballast",
+        "Flicker and buzz elimination"
+      ],
+      "description": "Explanation that an electronic ballast reduces flicker and buzzing often associated with CFLs."
+    },
+    {
+      "start": "00:01:21",
+      "end": "00:01:32",
+      "title": "LED recessed light",
+      "concepts": [
+        "LED recessed light",
+        "Circuit-board diodes",
+        "High efficiency"
+      ],
+      "description": "Description of LED recessed lighting as a circuit-board of diodes, emphasizing its efficiency."
+    },
+    {
+      "start": "00:01:36",
+      "end": "00:02:10",
+      "title": "Costs, lifespans, and long-term value",
+      "concepts": [
+        "Incandescent cost and lifespan",
+        "Halogen cost and lifespan",
+        "CFL cost and lifespan",
+        "LED cost and lifespan",
+        "Long-term savings"
+      ],
+      "description": "Comparative discussion of upfront cost and expected lifespan for incandescent, halogen, CFL, and LED bulbs, noting LED’s durability and longer life."
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:02:32",
+      "title": "Efficiency comparison and electricity use",
+      "concepts": [
+        "Wattage comparisons",
+        "65 watts (incandescent) vs 10 watts (LED)",
+        "80% less electricity"
+      ],
+      "description": "Direct efficiency comparison showing LED’s much lower wattage relative to incandescent and summarizing the payoff of energy savings over time."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Electronic ballast reduces CFL flicker/buzz",
+      "timestamp": "00:01:12",
+      "confidence": 0.75
+    },
+    {
+      "technique": "LED recessed light described as a circuit-board of diodes",
+      "timestamp": "00:01:26",
+      "confidence": 0.7
+    },
+    {
+      "technique": "MR16 low-voltage halogen as bright white light",
+      "timestamp": "00:00:35",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Wattage and life-cycle comparison (65W incandescent vs 10W LED)",
+      "timestamp": "00:02:19",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:21:35.645018+00:00"
+}

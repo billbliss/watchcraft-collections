@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "video": "0G1tQKNlC2I.youtube",
+  "title": "Hardwired LED Ceiling Light: Wiring a New Fixture with a Wall Switch",
+  "date": {
+    "display": "April 8, 2018",
+    "iso": "2018-04-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House's Ask This Old House episode demonstrates upgrading a ceiling lighting situation by replacing a cord-hung fixture with a hardwired LED fixture controlled from a wall switch. The crew identifies hazards of the old setup, plans a new ceiling box and a switch location, routes power from a convenient junction box to the wall switch, and then from the switch to the ceiling fixture. They pull wires with fish tape, splice neutrals, connect hot to the switch, and bond the ground, using Madison bars to secure boxes. The LED fixture is described as having a driver that converts house power to low voltage, producing bright light at a low 18-watt consumption, and weighs about two pounds. The result is a flush-mounted, switch-controlled ceiling light that eliminates the prior hanging hazard and makes the room feel larger.",
+  "topics": [
+    "ceiling light replacement",
+    "LED fixture with driver",
+    "hardwired ceiling box installation",
+    "switch-loop wiring",
+    "junction box routing",
+    "fish tape wire pulling",
+    "Madison bars mounting hardware",
+    "neutrals tied and hot switched",
+    "ground wiring",
+    "wall switch placement and height",
+    "48 inches to center (switch height)",
+    "fixture weight ~2 pounds",
+    "LED power consumption 18W",
+    "wall patching after electrical work",
+    "safety hazards of exposed fixture wiring",
+    "fixture mounting hardware and ceiling box alignment",
+    "testing circuits after wiring",
+    "wire routing from junction box to switch to fixture",
+    "toggle switch operation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "title": "Assess old fixture and safety hazard",
+      "concepts": [
+        "hazard of hanging lamp cord",
+        "old switch access",
+        "visible wiring"
+      ],
+      "description": "Introduction to the current fixture and its risks (lamp cord across the ceiling and down the wall); recognition that the existing setup is a pulling hazard and can cause electric shock if prongs are touched."
+    },
+    {
+      "start": "00:00:43",
+      "end": "01:01:21",
+      "title": "LED fixture introduction and power characteristics",
+      "concepts": [
+        "LED fixture with driver",
+        "low power consumption",
+        "18W total output",
+        "no traditional incandescent bulb"
+      ],
+      "description": "Announcement of a slim, LED-based fixture that uses LEDs with a driver to convert power; emphasis on bright output with only 18 watts of electricity."
+    },
+    {
+      "start": "01:21",
+      "end": "02:12",
+      "title": "Plan ceiling box location and switch height",
+      "concepts": [
+        "trace and cut ceiling box",
+        "switch location planning",
+        "center alignment and height"
+      ],
+      "description": "Decision to install a ceiling fixture box in the prior fixture location; plan for switch placement on the wall and set switch height at 48 inches to center."
+    },
+    {
+      "start": "02:21",
+      "end": "02:41",
+      "title": "Power routing plan",
+      "concepts": [
+        "power from junction box",
+        "route to switch",
+        "return to fixture"
+      ],
+      "description": "Proposed routing: power comes from a nearby junction box, goes to the light switch, then returns across the ceiling to the new fixture location."
+    },
+    {
+      "start": "03:07",
+      "end": "03:34",
+      "title": "Fish tape prep and feed to the work area",
+      "concepts": [
+        "fish tape",
+        "pulling wires through walls and ceiling"
+      ],
+      "description": "Preparation and use of fish tape to establish a pull path from the fixture to the switch location for wiring access."
+    },
+    {
+      "start": "03:39",
+      "end": "04:16",
+      "title": "Switch wiring and understanding toggle switch",
+      "concepts": [
+        "neutral unswitched splice",
+        "hot to switch",
+        "ground attachment",
+        "toggle switch operation"
+      ],
+      "description": "Explanation of a two-wire switch loop: neutrals spliced, hot and switched hot wired to the switch, and a demonstration of how a toggle switch passes or breaks power."
+    },
+    {
+      "start": "04:26",
+      "end": "05:58",
+      "title": "Securing boxes with Madison bars and wall finishing",
+      "concepts": [
+        "Madison bars",
+        "box installation behind drywall",
+        "wall patching"
+      ],
+      "description": "Demonstration of using Madison bars to anchor the box to the framing, then securing and finishing the wall around the new box."
+    },
+    {
+      "start": "06:50",
+      "end": "07:40",
+      "title": "Run, install, and test the fixture with LED driver",
+      "concepts": [
+        "wire routing to fixture",
+        "LED driver explanation",
+        "final mounting",
+        "system test"
+      ],
+      "description": "Finish wiring path to the ceiling fixture, discuss the LED driver’s role, mount the fixture, restore power, and test the new wall switch—resulting in a flush, hazard-free installation that enhances room feel."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Pull wires through ceiling and wall using fish tape",
+      "timestamp": "03:20-03:44",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Use Madison bars to secure electrical boxes in wall/ceiling",
+      "timestamp": "04:26-05:16",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Create a switch loop: splice neutrals, connect hot to switch, return switched hot to fixture",
+      "timestamp": "03:39-04:16",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Route power from junction box to switch, then to fixture",
+      "timestamp": "02:21-02:41",
+      "confidence": 0.79
+    },
+    {
+      "technique": "Explain LED driver and low-wattage performance",
+      "timestamp": "06:59-07:19",
+      "confidence": 0.84
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:10:39.925826+00:00"
+}

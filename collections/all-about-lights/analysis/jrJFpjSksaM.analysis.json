@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "video": "jrJFpjSksaM.youtube",
+  "title": "Install an Entry Light: Attic Run, Junction Box, and Sconce Wiring (This Old House)",
+  "date": {
+    "display": "May 13, 2014",
+    "iso": "2014-05-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Attic",
+      "confidence": 0.9,
+      "basis": "The team moves to the attic to access wiring and run new cable."
+    },
+    {
+      "name": "Basement electrical panel",
+      "confidence": 0.6,
+      "basis": "Power is cut at the circuit panel in the basement before starting work."
+    },
+    {
+      "name": "Stud bay behind brick veneer wall",
+      "confidence": 0.55,
+      "basis": "Plan is to route the new wire down into a stud wall behind a brick veneer and penetrate brick to install the sconce."
+    }
+  ],
+  "summary": "This Old House demonstrates wiring a new entry light (sconce) by tracing the existing feed from the electrical panel to the switch, routing a new conductor through the attic, and down a stud wall behind a brick veneer to a new wall box. An attic junction box is installed for splices; conductors (ground, neutral, hot) are color-matched and joined with wire nuts, then the NM cable is fished down the wall, poked through holes in the stud bay, and secured with staples and firestopping. The sconce is mounted, grounded, and powered for a functional final install, with attention to code requirements and aesthetic placement aligned with Craftsman styling.",
+  "topics": [
+    "Electrical panel feed",
+    "Switch loop",
+    "Attic wiring",
+    "Junction box installation",
+    "Romex (NM) cable",
+    "Wire splicing (ground, neutral, hot)",
+    "Color to color splicing",
+    "Grounding the fixture",
+    "Routing through studs",
+    "Stud bay drilling",
+    "Hole drilling and firestopping",
+    "Cable stapling",
+    "Wall sconce mounting",
+    "Fixture placement relative to architectural features (mailbox alignment)",
+    "Fixture grounding",
+    "Power verification",
+    "Safety shutoff procedures",
+    "Tools: hammer, chisel, drill, hole saw"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:02:40",
+      "title": "Planning the attic run and identifying the feed",
+      "concepts": [
+        "Feed from panel to switch box",
+        "Old light splice and plan to tap for new sconce",
+        "Attic routing for new wiring",
+        "Penetrating brick veneer wall to install sconce"
+      ],
+      "description": "The host and electrician trace the existing feed from the panel up to the wall switch and attic, discuss moving power to a new sconce, and outline a route: run a new box in the attic, pull a wire across, then down into the stud wall behind a brick veneer and through the brick to reach the new light."
+    },
+    {
+      "start": "00:02:41",
+      "end": "00:04:09",
+      "title": "Wall routing, box installation, and final sconce mounting",
+      "concepts": [
+        "Fishing wire down the wall",
+        "Marking and drilling for the wall box",
+        "Drilling and enlarging holes with hammer, chisel, and hole saw",
+        "Dropping Romex into wall cavity and stapling",
+        "Connecting the sconce ground and preparing for power test",
+        "Centering the fixture in relation to architectural features"
+      ],
+      "description": "After finishing the attic work, the team fishes the new wire down the wall, marks the box location (centering it with the mailbox), drills holes around the electrical box, opens the wall as needed, pulls the Romex, and installs the box and lighting fixture, ends with a ground connection and power test."
+    },
+    {
+      "start": "00:04:07",
+      "end": "00:04:09",
+      "title": "Power test and final check",
+      "concepts": [
+        "Power restoration",
+        "Fixture test",
+        "Aesthetic assessment of the Craftsman-style sconce"
+      ],
+      "description": "The crew confirms power is live to the new sconce and completes the final aesthetic and functional check."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Splicing conductors in attic junction box (color-to-color, ground-to-ground)",
+      "timestamp": "00:01:37",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Routing NM cable through stud bay and into wall",
+      "timestamp": "00:02:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Dropping Romex through wall and examining cavity for obstructions",
+      "timestamp": "00:02:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Installing electrical box and mounting sconce with proper ground",
+      "timestamp": "00:03:49",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Power test after wiring",
+      "timestamp": "00:04:07",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:14:03.383923+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": 2,
+  "video": "KnZYINxDsVA.youtube",
+  "title": "Installing Concealed Lighting",
+  "date": {
+    "display": "July 5, 2025",
+    "iso": "2025-07-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Kitchen island area (probable)",
+      "confidence": 0.65,
+      "basis": "Transcript repeatedly references island lighting, pendant fixtures over the island, and center-island geometry; no explicit shooting location is given."
+    }
+  ],
+  "summary": "This video shows a kitchen lighting upgrade that emphasizes concealed, ceiling-preserving solutions alongside decorative pendant lighting. To illuminate the island, three pendant fixtures are mounted using a sturdy local box as the anchor, mindful of the island’s geometry and canopy projection to keep the fixture centers aligned. To light the adjacent living area without recessed ceiling lighting, the crew adds LED tape along the tops of the beams to create uplighting and ambient illumination. The LED tape is installed inside an aluminum channel in a routed groove, with five-foot segments joined end-to-end, wired to terminal blocks, and covered with a diffuser to soften the light. The team tests brightness, verifies even coverage across the island and surrounding space, and discusses remaining accent lighting to complete the look.",
+  "topics": [
+    "Pendant lighting over kitchen island",
+    "Three pendant fixtures with glass shades",
+    "Avoiding ceiling cuts for aesthetic reasons",
+    "Fan-rated electrical box for heavy fixtures",
+    "Island centerline planning and canopy offset",
+    "Ambient uplighting in living area",
+    "LED tape lighting in beam tops",
+    "Top-beam LED channel installation",
+    "Aluminum LED channel with grooves",
+    "Rubber mallet positioning for channels",
+    "Adhesive-backed five-foot LED strips",
+    "End-to-end LED strip joining",
+    "Terminal blocks for LED power",
+    "Diffuser covers for LED channels",
+    "Testing light levels on island and adjacent space",
+    "Future lighting additions (sconces, floor lamps, pendants)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:08",
+      "title": "Initial lighting plan and pendant installation",
+      "concepts": [
+        "Kitchen island task lighting",
+        "Three pendant fixtures with glass shades",
+        "Avoiding ceiling holes",
+        "Center-island geometry and canopy offset"
+      ],
+      "description": "The team discusses using three pendant lights over the island as the primary task lighting and choosing not to cut into the ceiling to preserve aesthetics. They identify the island’s center geometry and how canopy projection affects alignment, setting up the plan for mounting the fixtures and evaluating light distribution during a test."
+    },
+    {
+      "start": "00:01:21",
+      "end": "00:01:58",
+      "title": "Beams uplighting with LED tape",
+      "concepts": [
+        "Uplighting the living room ceiling",
+        "LED tape on top of beams",
+        "Ambient lighting strategy to complement pendant fixtures"
+      ],
+      "description": "Attention shifts to lighting the adjacent living room area without recessed ceiling lights. They propose uplighting by installing LED tape along the tops of the beams to wash the ceiling and provide soft ambient illumination while preserving ceiling aesthetics."
+    },
+    {
+      "start": "00:02:05",
+      "end": "00:02:57",
+      "title": "LED channel and tape installation",
+      "concepts": [
+        "Aluminum channel installation in a groove",
+        "Rubber mallet seating to settle channel",
+        "Five-foot adhesive-backed LED strips",
+        "End-to-end joining of LED segments",
+        "Wiring to terminal blocks and diffuser cover"
+      ],
+      "description": "The crew begins installing an aluminum LED channel into a routed groove on the beam, seats the channel with a rubber mallet, lays in adhesive-backed LED tape in five-foot sections, connects end-to-end segments, wires to terminal blocks, and snaps on a diffuser cover to soften the light."
+    },
+    {
+      "start": "00:03:07",
+      "end": "00:03:47",
+      "title": "Testing, results, and planning future lighting",
+      "concepts": [
+        "System energization and brightness testing",
+        "Ambient vs. task lighting balance",
+        "Comfort and practicality of lighting layout",
+        "Additional lighting accents (sconces, floor lamps, pendants)"
+      ],
+      "description": "The LED system is energized and tested. The team confirms that the island has bright, readable task lighting and that the beams provide pleasant ambient light without being overbearing. They acknowledge there will be further lighting accents (wall sconces, floor lamps, extra pendants) to complete the overall effect."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Concealed LED tape installation in a beam channel",
+      "timestamp": "00:02:08",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Five-foot adhesive-backed LED strips with end-to-end joining",
+      "timestamp": "00:02:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Diffuser covers to soften LED light",
+      "timestamp": "00:02:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Hanging pendant island lights with a fan-rated box and canopy alignment considerations",
+      "timestamp": "00:00:42",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Uplighting a room via beam-top LED tape for ambient lighting",
+      "timestamp": "00:01:34",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:20:14.569597+00:00"
+}

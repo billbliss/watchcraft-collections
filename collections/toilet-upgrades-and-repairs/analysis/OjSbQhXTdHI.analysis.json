@@ -1,0 +1,132 @@
+{
+  "schema_version": 2,
+  "video": "OjSbQhXTdHI.youtube",
+  "title": "How to Repair a Leaking Toilet: Wax Rings, Flange Height, and Spacers",
+  "date": {
+    "display": "February 14, 2016",
+    "iso": "2016-02-14",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "New York (caller location)",
+      "confidence": 0.75,
+      "basis": "Transcript indicates caller is Megan in New York; filming location not specified."
+    }
+  ],
+  "summary": "This Old House's Ask This Old House episode guides diagnosing a leaking toilet by examining common leak sources (water-supply connections, tank-to-bowl gasket, and flange seals), explains the wax ring’s role and how floor instability can deform it, and presents modern height-adjustment options (foam gaskets and flange spacers) to restore a proper seal. The host emphasizes securing the flange to structural supports, accurately restoring flange height to finish-floor level, and finally returning to a conventional wax seal once the height is correct, to achieve a durable, non-rocking installation.",
+  "topics": [
+    "toilet leak diagnosis",
+    "water supply line leak",
+    "nut leaks",
+    "tank-to-bowl gasket",
+    "toilet bolts",
+    "closet flange",
+    "wax ring",
+    "seal between toilet and flange",
+    "floor level and wax deformation",
+    "tile work and flange height",
+    "wax seals and height variations",
+    "reinforced wax ring",
+    "foam gasket alternatives",
+    "spacers to raise flange height",
+    "gasket push-down methods",
+    "flange-within-a-flange concept",
+    "final wax-seal installation",
+    "leveling and preventing rocking"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "title": "Initial leak diagnosis: water supply and tank-to-bowl considerations",
+      "concepts": [
+        "water-supply leak",
+        "nut leaks",
+        "tank-to-bowl gasket",
+        "ceiling leak as symptom"
+      ],
+      "description": "Introduces the leak scenario and outlines first checks: inspect the water-supply nut for visual leaks, tighten if needed; inspect the gasket between the tank and bowl and discuss leaks that show on the floor or through the ceiling."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:02:03",
+      "title": "Closet flange basics: bolts, wax ring, and toilet-to-flange seal",
+      "concepts": [
+        "closet flange",
+        "toilet bolts",
+        "wax ring",
+        "seal between toilet and flange"
+      ],
+      "description": "Explains how the closet flange is secured to the floor with bolts and how the wax ring forms the seal between the toilet and the flange; stresses that a level floor and proper bolt engagement are essential for a solid seal."
+    },
+    {
+      "start": "00:02:03",
+      "end": "00:03:07",
+      "title": "Flange height, seal deformation, and wax-seal alternatives",
+      "concepts": [
+        "wax-ring deformation from rocking",
+        "flange height relative to finished floor",
+        "varying wax-seal heights",
+        "foam gasket alternatives",
+        "spacers for height adjustment"
+      ],
+      "description": "Addresses how a rocking floor can deform wax, leading to leaks; discusses height issues caused by tile work and the need to raise the flange to original height using spacers and alternative seals like foam gaskets to maintain a proper seal before returning to conventional wax."
+    },
+    {
+      "start": "00:03:07",
+      "end": "00:03:11",
+      "title": "Final steps: securing, restoring height, and re-installing wax seal",
+      "concepts": [
+        "secure flange to structure",
+        "flange-height restoration",
+        "flange-within-a-flange",
+        "wax-seal reinstall",
+        "level floor to prevent rocking"
+      ],
+      "description": "Summarizes the final sequence: secure the flange to a solid substrate, use height-restoring methods (spacers or related hardware) to reach the correct height, then revert to the standard wax seal and ensure the assembly is level and non-rocking for a durable seal."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify leak sources by inspecting water-supply nut and tank-to-bowl gasket; tighten as needed",
+      "timestamp": "00:00:19",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Inspect and tighten closet bolts and the gasket at the tank-to-bowl interface to seal",
+      "timestamp": "00:00:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Wax ring function and deformation due to floor rocking; proper connection seals against sewer gas and water",
+      "timestamp": "00:01:12",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Address flange height issues caused by tile work; raise flange using spacers to original height",
+      "timestamp": "00:02:31",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Use foam gasket and other height-adjusting products as alternatives to wax",
+      "timestamp": "00:02:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Return to conventional wax seal after achieving correct height and level",
+      "timestamp": "00:02:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Ensure level floor and prevent rocking before final sealing",
+      "timestamp": "00:03:03",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:42:51.136626+00:00"
+}

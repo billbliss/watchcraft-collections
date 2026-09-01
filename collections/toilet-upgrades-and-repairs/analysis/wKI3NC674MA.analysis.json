@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "video": "wKI3NC674MA.youtube",
+  "title": "Repairing a Rotted Cast-Iron Toilet Flange with a Retrofit Gasket and Spacer System",
+  "date": {
+    "display": "May 26, 2016",
+    "iso": "2016-05-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Bathroom",
+      "confidence": 0.95,
+      "basis": "Transcript: 'The bathroom's right over here.'"
+    },
+    {
+      "name": "Underneath the toilet (floor area)",
+      "confidence": 0.6,
+      "basis": "Discussion of the wax seal location and leak path beneath the toilet; remodel context implies floor area under the toilet."
+    },
+    {
+      "name": "In the truck (demonstration setting)",
+      "confidence": 0.5,
+      "basis": "Host says 'down in the truck' to show a cutaway; not confirmed as the filming location."
+    }
+  ],
+  "summary": "This Old House’s tutorial walks through diagnosing a leak tied to a failed wax seal and a rotted cast-iron closet flange after a bathroom remodel. The host explains toilet anatomy (trapway, siphon jet, and flange), identifies a downstroom stoppage as the likely leak cause, then shuts off water and removes the toilet. A remodel revealed the old cast-iron flange was missing or severely degraded, prompting a retrofit approach: replace with a gasket-style flange adapter designed for cast-iron pipe, using spacers to set the correct height, and switching from a traditional wax seal to a flexible gasket. The video covers removing corroded bolts with a mini-hacksaw, reassembling with new closet bolts and washers, and confirming a leak-free connection after restoring water supply.",
+  "topics": [
+    "Toilet anatomy: trapway",
+    "Siphon-jet toilet",
+    "Closet flange",
+    "Cast-iron pipe vs plastic piping",
+    "Wax seal vs flexible gasket",
+    "Lead-and-hemp joint (historical technique)",
+    "Oiled hemp packing",
+    "Spacers for height adjustment",
+    "Bolt removal and replacement",
+    "Mini hacksaw / bayonet saw",
+    "Closet bolts and nuts",
+    "Remodel height changes (tile floor vs flange height)",
+    "Cracked toilet bowl",
+    "Shutoff valve operation",
+    "Cutting rusted bolts",
+    "Gasket-based retrofit flange with Allen screws",
+    "Keyway alignment for bolt placement",
+    "Leak testing after reassembly"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:14",
+      "title": "Symptom identification",
+      "concepts": [
+        "clog leads to ceiling leak",
+        "water leak observation",
+        "initial assessment of leak source"
+      ],
+      "description": "The scene opens with the toilet clogging, followed by water dripping on the ceiling beneath, prompting concern that a downstream issue or a seal failure could be causing the leak."
+    },
+    {
+      "start": "00:01:14",
+      "end": "00:02:32",
+      "title": "Toilet anatomy (cutaway) and functions",
+      "concepts": [
+        "trapway",
+        "siphon jet toilet",
+        "short leg vs long leg",
+        "closet flange",
+        "bowl-to-pipe connection"
+      ],
+      "description": "A cutaway illustration demonstrates how a siphon-jet toilet operates, the role of the trapway, and how the closet flange attaches the bowl to the plumbing, laying groundwork for diagnosing the leak path."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:03:50",
+      "title": "Likely cause of leak: downstream stoppage and wax seal",
+      "concepts": [
+        "downstream stoppage",
+        "wax seal",
+        "back-pressure leak"
+      ],
+      "description": "The presenter reasons the stoppage occurred below the bowl, pushing pressure backward and causing wax-seal leaks visible in the ceiling, rather than a blockage in the trap itself."
+    },
+    {
+      "start": "00:03:50",
+      "end": "00:04:55",
+      "title": "Shutoff and drain preparation",
+      "concepts": [
+        "shutoff valve",
+        "drain tank",
+        "prepping the tank for removal"
+      ],
+      "description": "Water is shut off at the valve, the tank is drained with the float adjusted, and a sponge is used to remove remaining water so the toilet can be removed safely."
+    },
+    {
+      "start": "00:04:55",
+      "end": "00:05:55",
+      "title": "Toilet removal and initial inspections",
+      "concepts": [
+        "disconnect bolts",
+        "crack in toilet",
+        "rusted bolts"
+      ],
+      "description": "The toilet is lifted off the flange after disconnecting the bolts; a crack in the toilet is noted and the bolts prove to be rusted, complicating removal."
+    },
+    {
+      "start": "00:05:55",
+      "end": "00:06:14",
+      "title": "Reveal of remodel and flange condition",
+      "concepts": [
+        "tile remodel height",
+        "subfloor exposure",
+        "cast-iron flange location"
+      ],
+      "description": "Removal reveals remodel work that raised the tile floor, showing the old cast-iron flange lower than the finished floor and the subfloor exposure surrounding it."
+    },
+    {
+      "start": "00:06:14",
+      "end": "00:07:43",
+      "title": "Flange alternatives considered",
+      "concepts": [
+        "lead-and-hemp joint",
+        "old flange compatibility",
+        "remodel impact on flange choice"
+      ],
+      "description": "Discussion of historical methods (lead-and-hemp packing) and the difficulty of fitting a modern flange to the existing pipe due to size, prompting consideration of retrofit options."
+    },
+    {
+      "start": "00:07:43",
+      "end": "00:09:12",
+      "title": "Install retrofit gasket flange and height setting",
+      "concepts": [
+        "gasket-style retrofit flange",
+        "Allen screws",
+        "height spacers",
+        "keyway alignment"
+      ],
+      "description": "A gasket-based retrofit flange with four Allen screws is chosen to seal the connection to the cast-iron pipe; spacers are added to position the flange at the correct height and align the bolt keyway."
+    },
+    {
+      "start": "00:09:12",
+      "end": "00:09:58",
+      "title": "Final assembly and testing",
+      "concepts": [
+        "closet bolts",
+        "washers",
+        "flexible gasket vs wax seal",
+        "water test"
+      ],
+      "description": "The toilet is reassembled with proper bolts and a flexible gasket, water is turned back on, and a leak-free connection is confirmed after testing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Diagnose leak source by analyzing downstream blockage vs. upstream issues",
+      "timestamp": "00:02:04",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Remove a toilet and drain to access the flange",
+      "timestamp": "00:02:51",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Cut off rusted closet bolts with a mini hacksaw / bayonet saw",
+      "timestamp": "00:04:12",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Expose and evaluate flange condition under remodel (flange missing or rotted)",
+      "timestamp": "00:06:14",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Replace rotted flange with gasket-style retrofit option for cast-iron pipe",
+      "timestamp": "00:07:55",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Use spacers to set flange height and align bolts",
+      "timestamp": "00:08:03",
+      "confidence": 0.83
+    },
+    {
+      "technique": "Switch from wax seal to flexible gasket for reliable seal",
+      "timestamp": "00:08:41",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Test for leaks and confirm secure connection after reassembly",
+      "timestamp": "00:09:40",
+      "confidence": 0.78
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:45:07.083767+00:00"
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "video": "_44vzZvmFLM.youtube",
+  "title": "How to Install Thermostatic Radiator Valves | This Old House",
+  "date": {
+    "display": "November 22, 2014",
+    "iso": "2014-11-22",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video provides a practical walkthrough for installing a thermostatic radiator valve (TRV) on an older radiator. It covers removing an existing valve assembly (including the valve body, nipple, and spud) with a spud wrench, preparing the new valve with thread sealant and wick, and using pipe dope on old piping. The demonstration then shows aligning and connecting the valve, routing a sensor through the radiator cover, securing the sensor with zip screws, installing a cover plate, and completing the final connections. The steps emphasize making a tight seal at the spud and careful handling of the sensor path within the radiator assembly.",
+  "topics": [
+    "thermostatic radiator valve installation",
+    "valve body",
+    "nipple",
+    "spud",
+    "spud wrench",
+    "thread sealant",
+    "first 3-4 threads",
+    "single strand wicking",
+    "old work",
+    "pipe dope",
+    "squaring the valve",
+    "making up connections",
+    "drilling a small hole for sensor",
+    "routing sensor through opening",
+    "sensor element",
+    "radiator cover",
+    "zip screws",
+    "cover plate",
+    "final connections"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:10",
+      "title": "Dismantling old valve hardware",
+      "concepts": [
+        "valve body removal",
+        "nipple",
+        "spud",
+        "spud wrench"
+      ],
+      "description": "Loosen and remove the valve body from the threaded nipple, then extract the spud with a spud wrench."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:02:30",
+      "title": "Preparing and installing the new valve",
+      "concepts": [
+        "thread sealant on threads",
+        "first 3-4 threads",
+        "single strand wicking",
+        "pipe dope",
+        "new spud",
+        "squaring the valve",
+        "making up connections"
+      ],
+      "description": "Apply thread sealant to the first few threads, replace the spud with a new one, use single strand wicking to fill thread voids, and apply pipe dope while preparing the old pipe. Then square the valve and begin making the connections."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:02:30",
+      "title": "Routing and securing the sensor",
+      "concepts": [
+        "drilling a small hole for sensor",
+        "feeding sensor through",
+        "radiator cover",
+        "zip screws"
+      ],
+      "description": "Drill a small hole as needed to route the sensor element, feed the sensor through the opening, and secure it to the side of the radiator cover with zip screws."
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:02:49",
+      "title": "Final connections and finish",
+      "concepts": [
+        "cover plate",
+        "final connections",
+        "pushing down"
+      ],
+      "description": "Install the cover plate to conceal the securing screws and complete the final valve connections, ensuring everything seats properly."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Using a spud wrench to remove/install spuds",
+      "timestamp": "00:00:25",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Applying thread sealant around the first 3-4 threads",
+      "timestamp": "00:00:39",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Using single strand wicking to fill thread voids",
+      "timestamp": "00:00:45",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Applying pipe dope on old pipe during installation",
+      "timestamp": "00:01:16",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Squaring the valve and aligning connections before tightening",
+      "timestamp": "00:01:42",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Drilling a small hole to route the sensor through the radiator assembly",
+      "timestamp": "00:01:54",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Feeding the sensor element through the hole and toward the radiator cover",
+      "timestamp": "00:02:01",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Securing the sensor to the radiator cover with zip screws",
+      "timestamp": "00:02:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Installing the cover plate to conceal screws",
+      "timestamp": "00:02:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Completing final connections and seating",
+      "timestamp": "00:02:36",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:46:29.204765+00:00"
+}

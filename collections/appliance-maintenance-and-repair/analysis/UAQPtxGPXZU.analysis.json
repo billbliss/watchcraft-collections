@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "video": "UAQPtxGPXZU.youtube",
+  "title": "Kitchen Appliances Maintenance: Dishwashers, Refrigerators, Ice Makers, and Ovens (This Old House)",
+  "date": {
+    "display": "January 30, 2016",
+    "iso": "2016-01-30",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video presents a practical tour of common kitchen appliances and walks through practical maintenance tips to avoid service calls. It covers how a dishwasher operates (water inlet, heating, spray arms, filters, and float switch), loading and detergent considerations, and troubleshooting basics. It then examines refrigerator operation (evaporator coil and fan, condenser, and gasket care) with recommended cleaning methods. The ice-maker section discusses water-line reliability, self-piercing valves versus installing a shut-off, and the advantages of copper tubing. Finally, the segment on ranges and ovens distinguishes gas vs electric, coil vs smooth-top surfaces, and self-cleaning ovens, including what to clean (and what not to) and safety considerations around high-heat cycles and thermostats.",
+  "topics": [
+    "Dishwasher",
+    "Dishwasher rack",
+    "Spray arms",
+    "Water inlet",
+    "Heating element",
+    "Dishwasher detergent",
+    "Rinse aid",
+    "Dishwasher filter",
+    "Float switch",
+    "Glass cleanup with wet-dry vac",
+    "Drain hose",
+    "Evaporator coil",
+    "Evaporator fan motor",
+    "Condenser",
+    "Gasket/seal maintenance",
+    "Condenser cleaning",
+    "Ice-maker water line",
+    "Self-piercing valve",
+    "T-fitting",
+    "Shut-off valve",
+    "Copper tubing",
+    "Gas range",
+    "Electric range",
+    "Coil vs smooth-top",
+    "Self-cleaning oven",
+    "Oven cleaning",
+    "High-temperature self-clean cycle",
+    "High-limit thermostat"
+  ],
+  "sections": [
+    {
+      "start": "00:00:12",
+      "end": "00:02:41",
+      "title": "Dishwasher anatomy and basic maintenance",
+      "concepts": [
+        "dishwasher",
+        "rack",
+        "wash arm",
+        "spray arms",
+        "hot water inlet",
+        "heating element",
+        "water circulation",
+        "detergent",
+        "rinse aid",
+        "filters",
+        "float switch"
+      ],
+      "description": "Introduction to how a typical dishwasher works: hot water enters via a spout, is heated if needed, circulated through spray arms, and discharged after each cycle. Emphasizes keeping the rack clear and ensuring spray arms can spin freely, using the proper dishwasher detergent, and employing rinse aid."
+    },
+    {
+      "start": "00:04:19",
+      "end": "00:06:11",
+      "title": "Refrigerator operation and essential maintenance",
+      "concepts": [
+        "evaporator coil",
+        "evaporator fan motor",
+        "condenser",
+        "refrigerant",
+        "air flow",
+        "gasket/door seal",
+        "cleaning condenser"
+      ],
+      "description": "Explains that a refrigerator cools by removing heat, not by generating cold. Describes the evaporator coil and fan, the condenser where heat is expelled, and basic maintenance like cleaning the condenser and keeping the door gasket clean and lubricated for a proper seal."
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:07:30",
+      "title": "Ice maker water line and shut-off considerations",
+      "concepts": [
+        "self-piercing valve",
+        "T-fitting",
+        "shut-off valve",
+        "copper tubing",
+        "water line maintenance"
+      ],
+      "description": "Covers common ice-maker water-supply issues. Contrasts self-piercing valves with installing a T and a shut-off valve, advocating copper tubing for durability and serviceability, and preparing for easier maintenance or repair."
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:33",
+      "title": "Range and oven upkeep, including self-cleaning options",
+      "concepts": [
+        "gas range",
+        "electric range",
+        "coil",
+        "smooth-top electric range",
+        "self-cleaning oven",
+        "oven cleaner",
+        "high heat",
+        "high-limit thermostat"
+      ],
+      "description": "Outlines different range types and surfaces, cautions about cleaning approaches, and explains how a self-cleaning oven operates at very high temperatures, including safety considerations and the limits of resetting safety features if a high-heat cycle trips a thermostat."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Ensuring dishwasher spray arm clearance and proper rack loading",
+      "timestamp": "00:01:03",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Starting dishwasher with hot water to speed cycle and improve soap dissolution",
+      "timestamp": "00:02:02",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Cleaning dishwasher filter and understanding float switch operation",
+      "timestamp": "00:02:46",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Condenser cleaning and gasket lubrication on a refrigerator",
+      "timestamp": "00:05:12",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Upgrading ice-maker water supply with a T-fitting and shut-off valve",
+      "timestamp": "00:07:16",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Self-cleaning oven operation and safety precautions",
+      "timestamp": "00:08:11",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:50:41.024118+00:00"
+}

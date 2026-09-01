@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "video": "wM-6bgV7G5s.youtube",
+  "title": "How to Install a New Toilet: Shutoffs, Flange Prep, and Wax Ring Assembly",
+  "date": {
+    "display": "January 16, 2016",
+    "iso": "2016-01-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Residential bathroom (probable)",
+      "confidence": 0.6,
+      "basis": "Transcript shows toilet installation in a home bathroom setting with ceramic tile floor, closet flange, and wax ring. No explicit filming location identified."
+    }
+  ],
+  "summary": "This video progressively demonstrates a full toilet install in a residential bathroom: shutting off the main water, adding a service shut-off, trimming and configuring copper supply piping, preparing and securing the drain line with a closet flange, removing old installation material, and mounting a new two-piece toilet with gasket, bolts, wax ring, and a flexible water-supply line. It covers measuring flange height, shortening the drain pipe via a drill/cutter, anchoring the flange, installing the wax seal, mounting the toilet, trimming bolts, and performing a water-test flush to confirm leak-free operation.",
+  "topics": [
+    "main water shut-off",
+    "service shutoff installation (compression stop)",
+    "emery cloth for pipe prep",
+    "copper pipe cutting",
+    "compression stop installation",
+    "escutcheon plate",
+    "closet flange height adjustment",
+    "drain pipe shortening with inside-cutter",
+    "thinset removal around flange",
+    "tile predrilling with masonry bit",
+    "masonry anchors for flange",
+    "primer and cement for PVC-to-flange connection",
+    "wax ring installation",
+    "toilet gasket and close-couple kit",
+    "toilet bolts and nut caps",
+    "bolt-cap trimming with mini hacksaw",
+    "toilet seat installation",
+    "stainless steel flexible water-supply line",
+    "leak testing after install",
+    "first flush test"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:53",
+      "title": "Shut-off, pipe prep, and initial assembly",
+      "concepts": [
+        "main water shut-off",
+        "service shutoff (compression stop)",
+        "emery cloth for cleaning copper",
+        "cutting copper pipe",
+        "escutcheon plate",
+        "compression stop installation"
+      ],
+      "description": "The hosts begin by isolating the water supply and preparing the copper supply line. They describe shutting off the main, opening upstairs fixtures to drain, cleaning the pipe with emery cloth, and installing a solderless compression shut-off with a chrome escutcheon. The emphasis is on making a tight, leak-free connection before the pipe is cut."
+    },
+    {
+      "start": "00:01:53",
+      "end": "00:03:10",
+      "title": "Drain prep and flange height planning",
+      "concepts": [
+        "drain connection",
+        "closet flange height relative to floor",
+        "shortening drain pipe",
+        "inside-cutting tool for pipe length",
+        "drain flange positioning (9 and 3 o'clock)"
+      ],
+      "description": "With water restored, the crew turns to the drain side. They plan the closet flange height, discuss shortening the pipe five inches using a special cutter wheel, and verify the flange positioning relative to the wall to align the closet bolts at 9 and 3 o'clock."
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:04:50",
+      "title": "Flange fitting, tile prep, and floor securing",
+      "concepts": [
+        "flange test fit",
+        "tile thinset removal",
+        "masonry bit drilling",
+        "masonry anchors",
+        "primer and cement for PVC pipe to flange",
+        "gluing flange to pipe",
+        "secure flange to floor"
+      ],
+      "description": "This section covers testing the flange fit, ensuring correct orientation for toilet bolts, removing concrete or thinset obstructing the flange area, and preparing to secure the flange. The crew explains using primer and cement to bond PVC components and then anchors the flange to the tiled floor."
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:07:15",
+      "title": "Toilet assembly: gasket, tank, bolts, and wax ring",
+      "concepts": [
+        "two-piece toilet",
+        "close-coupled kit",
+        "gasket between tank and bowl",
+        "tank bolts and nut",
+        "toilet seat installation",
+        "wax ring placement",
+        "closet bolts alignment and trimming"
+      ],
+      "description": "The host introduces the standard two-piece toilet and the close-coupled kit with its gasket. They assemble the tank onto the bowl, secure the tank bolts, install the toilet seat, and position the wax ring on the flange while aligning the closet bolts for secure mounting."
+    },
+    {
+      "start": "00:07:15",
+      "end": "00:08:39",
+      "title": "Final connections and test flush",
+      "concepts": [
+        "wax ring seal",
+        "bolt trimming with mini hacksaw",
+        "trimmed brass bolts",
+        "stainless steel flexible water supply",
+        "final leak test and flush"
+      ],
+      "description": "The final steps include securing the toilet to the flange with wax seal, trimming protruding bolts, attaching the stainless steel flexible water-supply line, turning the water back on, and performing a test flush to verify there are no leaks."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Compression shut-off valve installation on copper supply line",
+      "timestamp": "00:00:51.100",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Shortening drain pipe inside floor using a cutter wheel for exact depth",
+      "timestamp": "00:02:39.120",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Bonding PVC flange to drain pipe with primer and cement",
+      "timestamp": "00:04:14.230",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wax ring installation and precise toilet alignment over bolts",
+      "timestamp": "00:06:16.400",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Trimming closet bolts with mini hacksaw for proper length",
+      "timestamp": "00:07:34.810",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Installing stainless steel flexible water supply line",
+      "timestamp": "00:07:40.090",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:45:47.841028+00:00"
+}

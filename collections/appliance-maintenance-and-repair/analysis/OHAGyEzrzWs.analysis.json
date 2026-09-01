@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "video": "OHAGyEzrzWs.youtube",
+  "title": "How to Repair a Garbage Disposer: Jam Clearing, Allen Wrench Access, and Torque Techniques",
+  "date": {
+    "display": "November 28, 2014",
+    "iso": "2014-11-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates diagnosing and repairing a jammed garbage disposer. The video introduces disposer anatomy (flange, locking mechanism, splash guard), explains how waste travels into the disposer and how the dishwasher discharges into it, and then shows practical steps to clear a jam. When the motor hums due to an obstruction, the host uses the included Allen wrench to manually rotate the impeller, removes visible foreign objects with needle-nose pliers if needed, and, for higher torque, applies lever-based tools such as broomsticks and a pro wrench that can be fed through the splash guard to seat on the deck. After freeing the jam, the unit is tested to confirm smooth operation. The guidance emphasizes methodical diagnosis and controlled tool use rather than generic, off-camera procedures.",
+  "topics": [
+    "flange",
+    "locking ring",
+    "splash guard",
+    "dishwasher discharge into disposer",
+    "cutter wheel",
+    "teeth of cutter wheel",
+    "discharge path",
+    "motor operation",
+    "overload switch",
+    "reset button",
+    "Allen wrench access",
+    "manual rotation of impeller",
+    "foreign objects (fork, turkey pin)",
+    "needle-nose pliers",
+    "jam clearing",
+    "torque and leverage",
+    "broomsticks as levers",
+    "through-splash-guard wrench",
+    "seating wrench on deck",
+    "test run after clearing jam"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:13",
+      "title": "Disposer anatomy and normal operation",
+      "concepts": [
+        "flange mounting",
+        "locking mechanism",
+        "splash guard",
+        "cutter wheel",
+        "teeth",
+        "discharge pipe",
+        "motor and switch"
+      ],
+      "description": "The presenter identifies the parts that connect the disposer to the sink: the flange, a locking connection underneath, and the splash guard that keeps water from splashing up. The video explains where the water and food enter, notes that the dishwasher discharges into the disposer, and describes how the cutter wheel and side teeth break up food before it is pushed toward the discharge path, driven by a motor when the unit is turned on."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:02:58",
+      "title": "Overload and jam diagnosis; initial clearing with Allen wrench",
+      "concepts": [
+        "overload switch",
+        "impeller binding",
+        "fork/foreign object",
+        "Allen wrench access",
+        "manual rotation"
+      ],
+      "description": "The host explains that excessive material or a foreign object can bind the cutter wheel, causing the motor to hum and trip an overload protection switch. The bottom access for the shaft is shown, and the included Allen wrench is used to turn the impeller manually in an attempt to clear the obstruction. If a fork or other object is visible, it can be removed with needle-nose pliers. If more torque is needed, the narrator describes progressing to higher-torque methods."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:20",
+      "title": "Applying higher torque and alternative tools",
+      "concepts": [
+        "torque",
+        "broomsticks leverage",
+        "through-splash-guard wrench"
+      ],
+      "description": "When manual rotation with the Allen wrench isn’t sufficient, the video demonstrates increasing torque using improvised tools such as opposing broomsticks to rotate the wheel and a professional wrench that can be fed down through the splash guard to sit on the deck for extra leverage."
+    },
+    {
+      "start": "00:03:20",
+      "end": "00:03:30",
+      "title": "Test and confirmation",
+      "concepts": [
+        "test run",
+        "sound check",
+        "successful clearance"
+      ],
+      "description": "After clearing the jam, the host tests the disposer again and confirms a proper, unobstructed operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Manual rotation of the disposer impeller with the included Allen wrench",
+      "timestamp": "00:01:57",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Removing a foreign object with needle-nose pliers after inspection",
+      "timestamp": "00:02:19",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using broomsticks as levers to apply high torque",
+      "timestamp": "00:02:30",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Using a pro wrench that seats through the splash guard for extra torque",
+      "timestamp": "00:02:39",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:50:08.557265+00:00"
+}

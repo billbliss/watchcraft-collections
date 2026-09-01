@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "video": "hXHcOVJCT1E.youtube",
+  "title": "Copper French Quarter Gas Lantern Installation in St. Louis (This Old House)",
+  "date": {
+    "display": "February 26, 2020",
+    "iso": "2020-02-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "St. Louis, Missouri, USA",
+      "confidence": 0.8,
+      "basis": "Transcript explicitly situates activity in St. Louis ('Thanks for coming to St. Louis'; 'in St. Louis' references)."
+    },
+    {
+      "name": "New Orleans, Louisiana, USA (design inspiration)",
+      "confidence": 0.5,
+      "basis": "Transcript references 'French Quarter design' and 'New Orleans style' as inspiration for the lantern."
+    }
+  ],
+  "summary": "This This Old House episode documents the exterior installation of a copper, New Orleans–inspired (French Quarter) gas lantern on a building in St. Louis. The team describes the lantern’s design cues (copper construction, fleur‑de‑lis motifs), plans routing a gas line from an interior source to the exterior, and coordinates with a licensed gas fitter and the local gas utility. The project proceeds with panel access to conceal the line, masonry drilling to pass the line, and running a 1/4‑inch copper tube down the wall to the basement before mounting the lantern on a gooseneck bracket, purging the line, and lighting a decorative pilot flame. The video emphasizes safety, planning, and the aesthetic integration of a classic lantern in a Midwestern urban setting, with a nighttime payoff anticipated.",
+  "topics": [
+    "copper lantern",
+    "gas lantern installation",
+    "French Quarter design",
+    "New Orleans style",
+    "fleur-de-lis motif",
+    "gooseneck bracket",
+    "panel access",
+    "masonry drilling",
+    "1/4 inch copper tubing",
+    "gas line routing behind panel",
+    "basement gas line routing",
+    "licensed gas fitter",
+    "gas utility coordination",
+    "final gas connections",
+    "air purge",
+    "decorative pilot flame",
+    "ignition demonstration",
+    "safety considerations",
+    "exterior lighting aesthetics",
+    "nighttime appearance",
+    "exterior building installation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:13",
+      "title": "Lantern description and style",
+      "concepts": [
+        "copper lantern",
+        "French Quarter design",
+        "New Orleans influence",
+        "fleur-de-lis motif"
+      ],
+      "description": "Introductory discussion of the lamp as copper with a New Orleans–style (French Quarter) design, noting fleur-de-lis motifs and the building context in St. Louis."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:01:54",
+      "title": "Site planning and gas line access",
+      "concepts": [
+        "gas line routing",
+        "panel access",
+        "height planning",
+        "exterior installation considerations"
+      ],
+      "description": "Planning where to place the lantern and how to route the gas line from inside to outside, including considerations for mounting height."
+    },
+    {
+      "start": "00:01:54",
+      "end": "00:02:16",
+      "title": "Panel access and slack planning",
+      "concepts": [
+        "panel removal",
+        "gas line slack",
+        "preparation for connections"
+      ],
+      "description": "Removing a panel to gain access to the internal gas line and ensuring there is sufficient slack for final connections."
+    },
+    {
+      "start": "00:02:16",
+      "end": "00:02:31",
+      "title": "Final gas connections prep",
+      "concepts": [
+        "final gas connections",
+        "gas line readiness",
+        "safety precautions"
+      ],
+      "description": "Preparation for final gas connections, including readiness to connect and the approach to turn on the gas safely."
+    },
+    {
+      "start": "00:02:31",
+      "end": "00:02:56",
+      "title": "Gas purge and ignition demonstration",
+      "concepts": [
+        "purging air",
+        "gas smell check",
+        "decorative pilot flame ignition",
+        "gas consumption note"
+      ],
+      "description": "The crew purges the line, explains air removal, and demonstrates turning on the decorative pilot flame with a note on low gas usage and anticipated nighttime appearance."
+    },
+    {
+      "start": "00:02:56",
+      "end": "00:03:04",
+      "title": "Wrap-up and expectations",
+      "concepts": [
+        "final thoughts",
+        "anticipation of night look",
+        "closing remarks"
+      ],
+      "description": "Concluding remarks and anticipation of the lantern's improved appearance after dark."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Exterior copper lantern mounting with gooseneck bracket",
+      "timestamp": "00:00:42",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Routing a gas line behind exterior panels and through masonry",
+      "timestamp": "00:00:55",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Fishing 1/4 inch copper tubing through masonry wall to basement",
+      "timestamp": "00:01:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Coordination with gas utility and licensed gas fitter",
+      "timestamp": "00:01:05",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Final gas connections and line purging before ignition",
+      "timestamp": "00:02:16",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Ignition of decorative pilot flame and assessment of appearance",
+      "timestamp": "00:02:42",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:03:57.026836+00:00"
+}

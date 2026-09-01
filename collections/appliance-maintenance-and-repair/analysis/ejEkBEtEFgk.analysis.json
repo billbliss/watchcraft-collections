@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "video": "ejEkBEtEFgk.youtube",
+  "title": "Hooking Up Washing Machine Plumbing: Copper Pipe, Soldering, and Stainless Braided Hoses",
+  "date": {
+    "display": "November 5, 2014",
+    "iso": "2014-11-05",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House episode demonstrates assembling a washing machine water-supply hookup by framing a small mounting box, securing copper supply runs with bell hangers, installing a dedicated shut-off valve, fluxing and soldering copper joints, branching a washer feed with a T-fitting, and finally replacing worn rubber hoses with stainless steel braided supply hoses, followed by restoring water and testing the system for laundry readiness.",
+  "topics": [
+    "box framing",
+    "bell hangers",
+    "copper pipe installation",
+    "washing machine shut-off valve",
+    "hot and cold water supply lines",
+    "fluxing copper pipe",
+    "soldering copper fittings",
+    "fittings preparation and cleaning",
+    "T-fitting for washer connection",
+    "cutting copper pipe and pipe cutting",
+    "rubber to stainless braided hoses",
+    "stainless steel braided supply hoses",
+    "valve orientation (on/off)",
+    "testing water supply",
+    "system readiness"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:00:21",
+      "title": "Box framing for plumbing install",
+      "concepts": [
+        "carpentry",
+        "frame with top and bottom plates",
+        "studs"
+      ],
+      "description": "Presenter constructs a small box frame to mount plumbing hardware before routing water supply lines."
+    },
+    {
+      "start": "00:00:21",
+      "end": "00:01:04",
+      "title": "Mounting bell hangers and feeding copper",
+      "concepts": [
+        "bell hangers",
+        "copper pipe clip",
+        "support piping"
+      ],
+      "description": "Two marks are made to mount bell hangers; copper pipe is routed into the bell-shaped clips that hold the line."
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:01:36",
+      "title": "Preparing copper fittings for soldering",
+      "concepts": [
+        "cleaning pipe",
+        "cleaning brush",
+        "flux",
+        "solder prep"
+      ],
+      "description": "Pipes and fittings are cleaned, fittings are brushed, flux is applied, preparing for soldering."
+    },
+    {
+      "start": "00:01:36",
+      "end": "00:02:05",
+      "title": "Valve installation and branch planning",
+      "concepts": [
+        "washing machine valve",
+        "hot water line",
+        "off/on orientation",
+        "T-fitting"
+      ],
+      "description": "A washing machine shut-off valve is prepared; plan to connect a T-fitting to branch the washer feed from the hot line."
+    },
+    {
+      "start": "00:02:05",
+      "end": "00:02:22",
+      "title": "Soldering and retrofit assembly",
+      "concepts": [
+        "flux",
+        "solder",
+        "elbows",
+        "fittings"
+      ],
+      "description": "Flushed fittings are fluxed and soldered with attention to avoid excessive solder that could damage adjacent joints."
+    },
+    {
+      "start": "00:02:22",
+      "end": "00:02:58",
+      "title": "Replacing hoses and re-securing supply lines",
+      "concepts": [
+        "rubber hoses removal",
+        "stainless steel braided hoses",
+        "fitment into place"
+      ],
+      "description": "Old rubber hoses are replaced with stainless steel braided supply hoses; fittings are seated into place."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:10",
+      "title": "Testing water supply and final confirmation",
+      "concepts": [
+        "open cold valve",
+        "open hot valve",
+        "system check",
+        "laundry ready"
+      ],
+      "description": "Cold and hot valves are opened to restore water; the system is confirmed ready for laundry use."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install copper bell hangers to support piping",
+      "timestamp": "00:00:21",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Fluxing and soldering copper fittings",
+      "timestamp": "00:01:04",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Branching supply with a T-fitting for washer line",
+      "timestamp": "00:01:48",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Replace rubber hoses with stainless steel braided supply hoses",
+      "timestamp": "00:02:22",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Test water supply by opening cold and hot valves",
+      "timestamp": "00:02:57",
+      "confidence": 0.88
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:47:58.641581+00:00"
+}

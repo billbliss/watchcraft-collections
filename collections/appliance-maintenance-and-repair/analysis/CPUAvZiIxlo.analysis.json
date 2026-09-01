@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "video": "CPUAvZiIxlo.youtube",
+  "title": "Washing Machine Maintenance: Leveling, Hoses, and Leak-Prevention Upgrades",
+  "date": {
+    "display": "April 6, 2020",
+    "iso": "2020-04-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates practical care and upgrades to reduce vibration, water leakage risk, and downtime for residential washing machines. The hosts begin by stressing that the unit should be level to minimize noise and movement during fast spinning, showing leveling legs and using a front-mounted level. They then discuss the water-supply side, noting back-wall hose connections, potential inline filters, and the risk of downstream shutoffs failing and clogging the inlet. The video contrasts rubber hoses with stainless steel braided hoses, explaining the higher durability of the latter and their lower burst risk. It surveys several leak-prevention approaches—manual and electronic shutoffs, and a floor-leak sensor—and explains a mechanical, non-electronic lever option that temporarily pressurizes the hoses for a limited window (two-and-a-half hours) and defaults to off, highlighting tradeoffs between simplicity and safety. The overall message is to combine proper leveling with robust hose fittings and reliable shut-off strategies to extend appliance life and reduce flood risk.",
+  "topics": [
+    "leveling a washing machine",
+    "leveling legs",
+    "using a level on the washer",
+    "front-loader vibration considerations",
+    "back-of-unit water inlet connections",
+    "water inlet filters",
+    "rubber washer hoses",
+    "rubber hose wear and failure risks",
+    "stainless steel braided hoses",
+    "hose reinforcement and outer casing",
+    "burst-prevention for appliance hoses",
+    "hose shut-off devices",
+    "downstream shut-off valves",
+    "electronic hose shut-off valves (amp-draw sensing)",
+    "hose pressurization only when washer runs",
+    "leak sensors for floor detection",
+    "spring-loaded mechanical shut-off lever",
+    "timed water supply (two-and-a-half hours)",
+    "default-off safety design",
+    "basic maintenance upgrades for laundry appliances"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:44",
+      "title": "Leveling and placement for vibration control",
+      "concepts": [
+        "leveling legs",
+        "use a level on the front",
+        "avoid soft shims like shingles or cardboard",
+        "front-loader vibration considerations"
+      ],
+      "description": "Introduction to the need for a level washer and the use of leveling legs with a front-mounted level to prevent rumbling and excessive movement during fast spin cycles."
+    },
+    {
+      "start": "00:00:44",
+      "end": "01:02",
+      "title": "Water-supply basics and inlet considerations",
+      "concepts": [
+        "back-of-washer hose connections",
+        "inlet filters",
+        "risk of downstream shutoff failure causing clogging"
+      ],
+      "description": "Overview of where water connects to the washer, the presence of internal inlet filters, and the potential for downstream shutoffs to fail and affect the backside connections."
+    },
+    {
+      "start": "01:02",
+      "end": "01:46",
+      "title": "Hose material and durability: rubber vs braided",
+      "concepts": [
+        "rubber hoses",
+        "constant pressure exposure",
+        "wear and fatigue leading to bursts",
+        "stainless steel braided hoses as upgrade"
+      ],
+      "description": "Discussion of rubber hoses under constant pressure, their wear over time, and the recommended upgrade to stainless steel braided hoses for greater longevity and reduced bursting risk."
+    },
+    {
+      "start": "01:46",
+      "end": "02:54",
+      "title": "Shut-off and pressurization innovations",
+      "concepts": [
+        "downstream shut-off devices",
+        "electronic valve for controlled pressurization",
+        "leak sensor option"
+      ],
+      "description": "Survey of devices to protect hoses, from traditional shut-offs to electronic controls that pressurize hoses only when the machine runs, and optional floor-leak sensors for added safety."
+    },
+    {
+      "start": "02:54",
+      "end": "03:18",
+      "title": "Mechanical timing solution: spring-loaded lever",
+      "concepts": [
+        "spring-loaded lever",
+        "non-electronic offshore pressurization",
+        "time window for hose pressure"
+      ],
+      "description": "Explanation of a simple, mechanical lever that allows water pressure to the hoses for a fixed period (two-and-a-half hours) without electronics, highlighting its safety and simplicity."
+    },
+    {
+      "start": "03:18",
+      "end": "03:34",
+      "title": "Closing advice and practical takeaways",
+      "concepts": [
+        "default-off safety",
+        "maintenance mindset",
+        "watch for upgrades and share the video"
+      ],
+      "description": "Concluding remarks emphasizing safe defaults, maintenance-minded practice, and encouragement to explore upgrades for reliable washer operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Upgrade rubber hoses to stainless steel braided hoses to reduce burst risk",
+      "timestamp": "00:01:34.100",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Electronic shut-off valve that pressurizes hoses only when the washer runs (amp-draw sensing)",
+      "timestamp": "00:02:33.060",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Add a floor leak sensor with automatic valve shut-off",
+      "timestamp": "00:02:47.560",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mechanical spring-loaded lever to provide a timed water supply without electronics",
+      "timestamp": "00:03:02.560",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Level the washer using leveling legs and a front-mounted level",
+      "timestamp": "00:00:31.740",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Non-electronic safety feature that defaults to off to prevent accidental leaks",
+      "timestamp": "00:03:18.180",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:47:10.409709+00:00"
+}

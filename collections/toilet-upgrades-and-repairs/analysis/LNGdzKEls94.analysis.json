@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "LNGdzKEls94.youtube",
+  "title": "Noisy Toilet Repair: Flush Valve Replacement and Tank Reassembly (This Old House)",
+  "date": {
+    "display": "March 26, 2016",
+    "iso": "2016-03-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "A This Old House segment diagnosing a noisy toilet guides viewers through identifying a faulty flush valve as the noise source, explains the age and design of a 1990s-era low-flow toilet, and then demonstrates a full valve replacement. The host walks through turning off water, draining and removing the tank from the bowl, replacing the flush valve and associated gaskets and hardware, and reassembling with careful adjustments to chain length, refill tube placement, water level, and flush volume. The episode concludes with notes on balancing performance and water conservation, noting that the result is effectively a brand-new toilet built from standard modern components.",
+  "topics": [
+    "toilet repair",
+    "flush valve replacement",
+    "fill valve replacement",
+    "tank-to-bowl disassembly",
+    "spud gasket installation",
+    "brass bolts and hardware",
+    "toilet flapper replacement",
+    "chain length adjustment",
+    "refill tube placement",
+    "water shutoff",
+    "water level adjustment",
+    "flush volume adjustment",
+    "adjustable overflow",
+    "water conservation",
+    "low-flow toilet era",
+    "1992 date code",
+    "reservoir design",
+    "toilet maintenance",
+    "final assessment"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:31",
+      "title": "Diagnosis and initial assessment",
+      "concepts": [
+        "noisy toilet",
+        "sound identification",
+        "culprit diagnosis",
+        "initial client questions"
+      ],
+      "description": "The segment opens with a couple discussing a persistent toilet noise. The host confirms the noise and identifies the flush valve as the likely culprit, establishing the diagnostic focus before any parts are touched."
+    },
+    {
+      "start": "00:01:31",
+      "end": "00:02:04",
+      "title": "Low-flow reservoir context and era awareness",
+      "concepts": [
+        "1992 date code",
+        "low-flow era",
+        "3.5 GPF to 1.6 GPF",
+        "reservoir design notes"
+      ],
+      "description": "Discussion of the toilet’s plastic reservoir with a date code from 1992, tying the unit to early low-flow standards. The host explains the design shift that used reservoir water retention to reduce flush volumes and notes that this older approach is being replaced with standard modern parts."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:03:56",
+      "title": "Tank removal and valve extraction",
+      "concepts": [
+        "shut off water",
+        "drain tank",
+        "disconnect water supply",
+        "tank bolts and nuts",
+        "tank removal",
+        "flush valve removal"
+      ],
+      "description": "The team shuts off the supply, drains the tank, and begins disassembly by disconnecting the water line and loosening the tank mounting bolts. They separate the tank from the bowl and prepare to remove the old flush valve."
+    },
+    {
+      "start": "00:03:56",
+      "end": "00:06:56",
+      "title": "Valve replacement and sealing",
+      "concepts": [
+        "old flapper assessment",
+        "new flush valve installation",
+        "gasket seating",
+        "spud gasket and hardware",
+        "brass bolts and washers",
+        "torque and seal"
+      ],
+      "description": "The flush valve is removed and replaced with a new unit, including a new gasket and tank-to-bowl hardware. The crew installs a spud gasket, tightens brass bolts, and ensures a proper seal between tank and bowl before proceeding."
+    },
+    {
+      "start": "00:06:56",
+      "end": "00:08:05",
+      "title": "Reassembly and final adjustments",
+      "concepts": [
+        "chain length adjustment",
+        "refill tube placement",
+        "water shutoff testing",
+        "water level adjustment",
+        "flush volume adjustment",
+        "adjustable overflow",
+        "final assessment"
+      ],
+      "description": "After securing the tank, the chain is adjusted for immediate lift of the flapper, the refill tube properly placed, and the water supply reinstated. The fill valve height is adjusted, the flush valve’s volume and the overflow are set for conservation and safety, and the host concludes with the assessment that the toilet is effectively a brand-new unit built from standard parts."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Flush valve replacement in a toilet tank",
+      "timestamp": "00:03:56",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Tank-to-bowl reseal using spud gasket and brass hardware",
+      "timestamp": "00:04:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Chain-length adjustment to ensure immediate flush",
+      "timestamp": "00:06:23",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Adjusting flush volume and refill dynamics for water conservation",
+      "timestamp": "00:07:11",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Setting an adjustable overflow to prevent overflow",
+      "timestamp": "00:07:47",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:40:38.584032+00:00"
+}

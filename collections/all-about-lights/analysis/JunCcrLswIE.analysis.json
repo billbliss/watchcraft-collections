@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "video": "JunCcrLswIE.youtube",
+  "title": "How to Install a Motorized Light Lift for a Ceiling Fixture",
+  "date": {
+    "display": "April 2, 2017",
+    "iso": "2017-04-02",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Foyer ceiling (fixture location)",
+      "confidence": 0.8,
+      "basis": "Transcript references the foyer and the existing light fixture above it; explicit mentions of fixture location."
+    },
+    {
+      "name": "Attic (unfinished)",
+      "confidence": 0.85,
+      "basis": "Transcript states attic is unfinished and a lift is installed from the attic; explicit mention of attic access."
+    }
+  ],
+  "summary": "This video demonstrates installing a motorized light lift to raise and lower a ceiling fixture. An installer explains the components (electric light lift, motor, gear, winch, heavy-duty steel cable) and walks through removing the old ceiling box, mounting the lift plate, wiring the fixture (hot, neutral, ground), routing a low-voltage control to a wall-mounted key switch, and using a counterweight to position the fixture for service. Safety features highlighted include a cable locked twice on the roller and a key-controlled, slow operation. The sequence covers attic access to the box, converting the box area to mount the lift, and testing the system by raising the fixture to demonstrate illumination and maintenance adjustments.",
+  "topics": [
+    "Electric light lift system (motorized)",
+    "Motor and gear assembly",
+    "Winch and steel cable",
+    "Heavy-duty pulley system",
+    "Ceiling box removal and lift-plate mounting",
+    "Fixture wiring: hot/neutral/ground",
+    "Fixture mounting to lift plate",
+    "Low-voltage control wiring and push-in connector",
+    "Wall-mounted key switch control",
+    "Attic access and floor removal for wiring",
+    "Constant power supply to motor from attic",
+    "Attic wiring: switch leg from wall switch",
+    "Counterweight usage (orange weight)",
+    "Cable safety and double-locking on roller",
+    "Slow operation and safety considerations",
+    "Visible maintenance position for servicing",
+    "Electrical isolation during service",
+    "Fixture service: bulb changes and cleaning",
+    "Safety around children and access control",
+    "Planning for high-ceiling access (18 feet)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:27",
+      "end": "00:00:52",
+      "title": "Introduction and system overview",
+      "concepts": [
+        "electric light lift",
+        "motor",
+        "gear system",
+        "winch"
+      ],
+      "description": "The host introduces the motorized light lift and outlines the main components: motor, gear system, winch, and heavy-duty cable that supports the light fixture."
+    },
+    {
+      "start": "00:00:57",
+      "end": "00:02:11",
+      "title": "Removing old box and mounting the lift",
+      "concepts": [
+        "remove old ceiling box",
+        "mount lift plate",
+        "fixture attachment to plate",
+        "wire routing basics"
+      ],
+      "description": "The old ceiling box is removed, and the new box/plate assembly will replace it. The fixture will be mounted to the bottom of the plate, with wires then connected for operation."
+    },
+    {
+      "start": "00:01:47",
+      "end": "00:02:11",
+      "title": "Safety features and control basics",
+      "concepts": [
+        "cable locked twice on roller",
+        "key switch",
+        "child safety"
+      ],
+      "description": "Safety mechanisms are explained: the cable is secured twice on the roller to prevent descent, and control is via a key switch located upstairs to prevent unauthorized operation."
+    },
+    {
+      "start": "00:02:23",
+      "end": "00:03:02",
+      "title": "Attic access and removing the old wiring path",
+      "concepts": [
+        "attic access",
+        "floor removal",
+        "exposing old box"
+      ],
+      "description": "The attic floor is opened to access the original light box; the speaker describes lowering the entire box and light fixture from above to the floor below."
+    },
+    {
+      "start": "00:03:22",
+      "end": "00:03:36",
+      "title": "Powering the motor and switch wiring",
+      "concepts": [
+        "constant power to motor",
+        "switch leg from attic",
+        "top-side power supply"
+      ],
+      "description": "Power is run from a source in the attic to the motor, and a dedicated switch line from the wall switch controls the lift, enabling upstairs control of the fixture."
+    },
+    {
+      "start": "00:04:06",
+      "end": "00:04:42",
+      "title": "Low-voltage control wiring to the wall",
+      "concepts": [
+        "low-voltage wiring",
+        "push-in connector",
+        "wall connection"
+      ],
+      "description": "Low-voltage control wiring is routed down to a wall, connected with a push-in connector, and prepared for operation from the ground level."
+    },
+    {
+      "start": "00:04:57",
+      "end": "00:06:13",
+      "title": "Lowering, wiring, and testing the fixture",
+      "concepts": [
+        "lower fixture from ceiling",
+        "wire tension",
+        "secure connections to fixture",
+        "test lift operation"
+      ],
+      "description": "The fixture is lowered to the service position, then connected to the wiring and raised with the key switch to verify that the light turns on. The process includes managing the tension and ensuring proper electrical connections."
+    },
+    {
+      "start": "00:06:13",
+      "end": "00:06:37",
+      "title": "Operation, maintenance, and safety reminder",
+      "concepts": [
+        "raise to top for service",
+        "maintenance position",
+        "keep away from children"
+      ],
+      "description": "Final demonstration of raising the fixture to its working position, with notes on using the lift for future bulb changes or cleaning and a reminder to keep the mechanism away from children."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Motorized light lift overview (electric winch-driven system)",
+      "timestamp": "00:00:34",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Ceiling box removal and lift-plate mounting for fixture installation",
+      "timestamp": "00:01:01",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cable safety and control via key switch",
+      "timestamp": "00:01:54",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Attic access and framing adaptation to install the lift",
+      "timestamp": "00:02:23",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Power and switch wiring for motor operation (attic source and wall switch)",
+      "timestamp": "00:03:27",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Low-voltage control wiring and push-in connector connection",
+      "timestamp": "00:04:34",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Counterweight usage and hanging the fixture on a bracket",
+      "timestamp": "00:04:06",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Controlled lowering and alignment with fixture wiring",
+      "timestamp": "00:05:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Final lift test with key switch activation",
+      "timestamp": "00:06:13",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Maintenance-ready operation and safety admonitions",
+      "timestamp": "00:06:25",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:15:11.539597+00:00"
+}

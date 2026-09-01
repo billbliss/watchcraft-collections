@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "video": "9YdBmqu8U3w.youtube",
+  "title": "Single-Switch Basement Lighting with LED Retrofit",
+  "date": {
+    "display": "July 6, 2018",
+    "iso": "2018-07-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Basement (probable)",
+      "confidence": 0.6,
+      "basis": "Transcript repeatedly references basement as the setting for the mock-up and demonstration; no explicit shooting location is stated."
+    }
+  ],
+  "summary": "This episode segment from This Old House demonstrates wiring a basement lighting circuit so that all fixtures (three basement lights with pull chains) are controlled by a single wall switch. The host walks through identifying the switch leg, reconfiguring the splice so power feeds all fixtures via one switch, and then upgrades the lighting with LED retrofit bulbs that fit the existing sockets with no extra wiring. After the changes, a test shows all lights come on together, the basement appears brighter, and a claim is made about reduced electricity usage and heat with the LED upgrade.",
+  "topics": [
+    "Basement lighting",
+    "Pull-chain fixtures",
+    "Single-switch control",
+    "Main power feed from panel",
+    "Switch leg identification",
+    "White wire repurposed as hot (painted black)",
+    "Splice connections to feed multiple fixtures",
+    "Re-routing power to multiple fixtures",
+    "Three-fixture circuit",
+    "LED retrofit bulbs",
+    "No extra wiring for LED retrofit",
+    "Screw-in LED bulbs into existing sockets",
+    "Keyless/porcelain fixtures compatibility",
+    "LED vs incandescent efficiency",
+    "Brightness test and outcomes",
+    "Energy savings claim",
+    "Baseline electrical plan mock-up"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:03:38",
+      "title": "Timeline of key steps",
+      "concepts": [
+        "Pull-chain lighting and desire to consolidate to a single switch",
+        "Basement mock-up display for wiring concept",
+        "Identifying switch-leg wiring and splice routing",
+        "Wiring adjustment to feed all fixtures from one switch",
+        "LED retrofit introduction and testing"
+      ],
+      "description": "This section outlines the high-level chronology: noticing pull-chain fixtures, proposing one-switch control, presenting a basement mock-up, identifying the switch leg and how power travels, performing the splice reconfiguration to feed all fixtures, and finally introducing and testing the LED retrofit upgrade."
+    },
+    {
+      "start": "00:00:34",
+      "end": "00:02:02",
+      "title": "Wiring concept: single-switch control of basement fixtures",
+      "concepts": [
+        "Main power enters via a black wire from the panel",
+        "Power splits to three basement fixtures through a splice",
+        "White wire acts as a switch leg and is painted black to indicate hot",
+        "Power travels through the switch and back via the black conductor",
+        "Initial wiring shows how turning the switch energizes a single fixture"
+      ],
+      "description": "Explanation of how the basement circuit is wired: a feed comes in, is distributed to three fixtures, and the switch leg (identified by painting the white wire black) controls the current along the return path; the instructor demonstrates the approach to tie the feed to the switch loop and connect the three fixtures to the same switched hot."
+    },
+    {
+      "start": "00:02:25",
+      "end": "00:03:38",
+      "title": "LED retrofit and testing",
+      "concepts": [
+        "Incandescent replacement (100 W) vs LED diodes",
+        "LED bulbs screw into existing sockets with no extra wiring",
+        "LEDs generate no heat and use significantly less electricity",
+        "Brightness and electrical savings claim confirmed by test"
+      ],
+      "description": "The presenter introduces LED retrofit bulbs as a no-wiring-required upgrade that fits existing keyless/porcelain fixtures, emphasizes heat and energy savings, and conducts a test showing all basement lights functioning on one switch with improved brightness."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Consolidating control of multiple basement fixtures under one switch via wiring modification and a single splice",
+      "timestamp": "00:01:59",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Identifying and repurposing the switch leg (white wire used as hot, painted black) to feed a switched circuit",
+      "timestamp": "00:01:00",
+      "confidence": 0.6
+    },
+    {
+      "technique": "LED retrofit bulbs that screw into existing sockets with no additional wiring",
+      "timestamp": "00:02:46",
+      "confidence": 0.88
+    },
+    {
+      "technique": "In-basement mock-up and planning display to illustrate the wiring concept",
+      "timestamp": "00:00:27",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:41:50.826204+00:00"
+}

@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "x92uoKQMHmQ.youtube",
+  "title": "How to Maintain a Furnace | Ask This Old House",
+  "date": {
+    "display": "January 10, 2016",
+    "iso": "2016-01-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House’s short guide explains essential furnace maintenance routines for a home system. It covers the rationale for annual service (ideally in fall), what a homeowner can do (notably inspecting and replacing the air filter with attention to orientation), and what a professional HVAC technician checks (combustion air quality, safety sensors, and efficiency). The host contrasts older furnaces that draw combustion air from inside with modern units that may pull air from outside, and emphasizes keeping combustion areas clear of dust and lint. The video closes by noting typical efficiency differences between older (~81–82%) and modern furnaces (up to ~97%), and underscores that proper maintenance can extend furnace life to about 20 years.",
+  "topics": [
+    "Annual furnace maintenance",
+    "Maintenance timing (fall)",
+    "Homeowner vs HVAC technician tasks",
+    "Return air pathway",
+    "Blower/fan operation",
+    "Heat exchanger",
+    "Gas burner and combustion",
+    "Combustion air sources (indoor vs outdoor)",
+    "Combustion contaminants and clearance",
+    "Air filter purpose and placement",
+    "Replacing air filters",
+    "Air filter orientation and airflow arrows",
+    "Combustion efficiency testing",
+    "Efficiency benchmarks (81.6% vs 97%)",
+    "Furnace safety devices and sensors",
+    "Furnace lifespan and preventive maintenance"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:49",
+      "title": "Introduction and maintenance cadence",
+      "concepts": [
+        "annual furnace service",
+        "seasonal timing",
+        "homeowner vs technician responsibilities"
+      ],
+      "description": "Introduces furnace maintenance as akin to changing car oil: annual service is recommended, preferably in fall; some tasks can be done by homeowners, but a qualified HVAC technician should perform others."
+    },
+    {
+      "start": "00:00:49",
+      "end": "00:01:15",
+      "title": "Air filter inspection and replacement",
+      "concepts": [
+        "return-side filter",
+        "air quality impact",
+        "replacement frequency",
+        "pet considerations",
+        "filter labeling",
+        "orientation arrow"
+      ],
+      "description": "Describes locating the air filter on the return side, its role in trapping hair, dust, and dander, and notes replacements should occur at least once per season (more with pets); emphasizes checking the direction of airflow using the orientation arrow."
+    },
+    {
+      "start": "00:01:15",
+      "end": "00:01:38",
+      "title": "Filter orientation and combustion basics",
+      "concepts": [
+        "filter direction",
+        "airflow",
+        "combustion basics"
+      ],
+      "description": "Reiterates correct filter orientation and begins linking airflow paths to combustion-related considerations."
+    },
+    {
+      "start": "00:01:38",
+      "end": "00:02:13",
+      "title": "Combustion air sources and indoor contaminants",
+      "concepts": [
+        "combustion air supply",
+        "older vs modern furnaces",
+        "indoor contaminants",
+        "basement air quality"
+      ],
+      "description": "Explains that modern furnaces may draw outside air via PVC when vented, but the vintage unit shown uses indoor air through front louvers, highlighting the risk of lint, dust, or workshop dust contaminating combustion and the need to keep the area clear."
+    },
+    {
+      "start": "00:02:13",
+      "end": "00:02:36",
+      "title": "Combustion efficiency testing and safety devices",
+      "concepts": [
+        "combustion efficiency test",
+        "efficiency benchmarks",
+        "safety sensors and devices"
+      ],
+      "description": "Notes that annual service can include a combustion efficiency test to measure fuel usage effectiveness (older units around 81.6% versus modern units up to ~97%), and emphasizes checking safety devices and sensors to ensure safe operation and shutoff if a fault occurs."
+    },
+    {
+      "start": "00:02:36",
+      "end": "00:02:52",
+      "title": "Lifespan and preventive maintenance",
+      "concepts": [
+        "maintenance impact on lifespan",
+        "preventive maintenance",
+        "20-year expectations"
+      ],
+      "description": "States that with proper maintenance a furnace should last at least 20 years, underscoring the value of preventive maintenance rather than reactive fixes."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Air filter replacement by homeowner",
+      "timestamp": "00:01:12",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Check and orient air filter correctly",
+      "timestamp": "00:01:29",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Assess combustion air source (indoor vs outdoor) and potential contaminants",
+      "timestamp": "00:01:50",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Perform combustion efficiency test and review efficiency levels",
+      "timestamp": "00:02:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Inspect safety devices and sensors",
+      "timestamp": "00:02:36",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:52:11.020162+00:00"
+}

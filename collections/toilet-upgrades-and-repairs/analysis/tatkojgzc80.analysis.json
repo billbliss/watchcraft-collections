@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "video": "tatkojgzc80.youtube",
+  "title": "Installing a Below-Grade Toilet with a Macerator Pump (This Old House)",
+  "date": {
+    "display": "November 26, 2014",
+    "iso": "2014-11-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates installing a toilet below grade using a macerator unit behind the toilet. The video contrasts a standard siphon-jet toilet with a P-trap style discharge fed by a macerator, explains how waste is pumped through a small-diameter line to tie into the house drain, covers venting to the vent stack, and shows the practical steps of rough-in, priming and cementing PVC joints, securing the fixture to the subfloor with brass lag screws, connecting the toilet to the macerator with a rubber gasket and clamps, and finally restoring the water supply to test the tank fill.",
+  "topics": [
+    "macerator unit",
+    "P-trap vs siphon jet toilet",
+    "toilet discharge height and exit",
+    "macerator discharge size 3/4 inch",
+    "venting to vent stack",
+    "lavatory drain connection to macerator reservoir",
+    "PVC primer and cement",
+    "stainless steel clamps (breeze clamp)",
+    "rubber accordion gasket",
+    "brass lag screws into subfloor",
+    "toilet mounting without a closet flange",
+    "subfloor anchoring practices",
+    "water supply line re-connection",
+    "tank fill test"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:14",
+      "title": "Macerator toilet concept and discharge path",
+      "concepts": [
+        "difference between siphon jet and P-trap toilet",
+        "macerator behind the toilet",
+        "discharge exits the back and travels up the wall",
+        "potential to extend drain run to connect to house system"
+      ],
+      "description": "The presenters compare a standard siphon-jet toilet with a P-trap style unit that discharges toward the back, emphasize the macerator behind the toilet, and explain that waste is pumped through a small-diameter line up the wall toward the house drainage system."
+    },
+    {
+      "start": "00:01:14",
+      "end": "00:02:58",
+      "title": "Drainage routing, venting prep, and connections",
+      "concepts": [
+        "macerator discharge size (about 3/4 inch)",
+        "venting requirements and tying into vent stack",
+        "priming and cementing PVC joints",
+        "discharge and lav drain connections",
+        "using stainless breeze clamp to secure drain from lavatory",
+        "adapter and mating connections for discharge"
+      ],
+      "description": "Attention shifts to routing the macerator discharge through a small-diameter line, priming and cementing PVC joints, and securing connections with clamps and adapters. The vent is described as tying into the vent stack, and a lavatory drain is connected to the macerator reservoir."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:24",
+      "title": "Fixture mounting, gasketed connections, and test",
+      "concepts": [
+        "anchoring the toilet with brass lag screws into subfloor",
+        "no existing flange, so securement is critical to prevent rocking",
+        "rubber accordion gasket between porcelain outlet and macerator",
+        "stainless steel clamps to secure the connection",
+        "reconnecting the water supply and testing tank fill"
+      ],
+      "description": "The toilet is positioned and anchored using brass lag screws into the subfloor, a rubber accordion gasket and hose clamps create the seal between the toilet outlet and the macerator, and the water supply is restored to verify the tank fills correctly."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Positioning and using a macerator behind a toilet to enable below-grade discharge",
+      "timestamp": "00:00:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "PVC piping rough-in with primer and cement for drain connections",
+      "timestamp": "00:01:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Connecting macerator discharge to the drain using an adapter and securing with clamps",
+      "timestamp": "00:01:59",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Vent connection to the existing vent stack",
+      "timestamp": "00:02:23",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Anchoring a toilet without a flange using brass lag screws into the subfloor",
+      "timestamp": "00:02:34",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Sealing the toilet-macerator outlet with a rubber accordion gasket and stainless clamps",
+      "timestamp": "00:02:58",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:44:13.606891+00:00"
+}

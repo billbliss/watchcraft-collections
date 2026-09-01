@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "D3lcA3O_bMU.youtube",
+  "title": "Installing Outdoor Wall Sconce and Recessed Lights: Exterior Wiring and Weatherproofing",
+  "date": {
+    "display": "February 14, 2016",
+    "iso": "2016-02-14",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior entry wall near stairs (probable, outdoors)",
+      "confidence": 0.6,
+      "basis": "Transcript repeatedly references outside, stairs, granite surface, and exterior lighting; no explicit filming location given"
+    }
+  ],
+  "summary": "This Old House demonstrates upgrading an outdoor lighting setup by removing a poorly mounted exterior fixture, locating and preparing a pancake box embedded in granite, wiring a new wall-sconce with proper hot, neutral, and ground connections, and adding old-work recessed lighting with wet-location LED trims. The segment emphasizes weatherproofing choices (wet-location trims and sealed LED housing) and aesthetic considerations (iron-toned trim and frosted glass) to improve safety, accessibility, and the welcoming feel of the entryway. Safety notes include shutting power off before removing fixtures and ensuring proper mounting to a structural box to prevent water intrusion.",
+  "topics": [
+    "Exterior lighting upgrade planning",
+    "Outdoor wall sconce selection",
+    "Weatherproof exterior fixtures",
+    "Pancake electrical box",
+    "Granite surface preparation for electrical box",
+    "Hammer drill and chisel for stone",
+    "Wall sconce mounting and wiring",
+    "Ground, neutral, and hot wiring",
+    "Exterior electrical box mounting",
+    "Old-work recessed lighting",
+    "Junction box and wiring splices",
+    "Drywall cutting for recessed lights",
+    "Drywall clips securing recessed housing",
+    "Wet-location LED trim",
+    "Weatherproofing and bug prevention for outdoor lights",
+    "Aesthetic finishing: iron trim and frosted glass",
+    "Entry illumination for safety and welcome"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:05",
+      "title": "Assessment and upgrade planning for exterior lighting",
+      "concepts": [
+        "Exterior lighting assessment",
+        "Planning for proper exterior lighting vs. ad-hoc lighting",
+        "Permit and budgeting considerations"
+      ],
+      "description": "The hosts note the outside lighting is an afterthought and rush job, discuss the need for a more deliberate exterior lighting plan, and acknowledge the importance of proper mounting and permits when upgrading exterior lighting."
+    },
+    {
+      "start": "00:01:08",
+      "end": "00:01:42",
+      "title": "Remove old fixture and identify pancake box behind granite",
+      "concepts": [
+        "Power shutoff before work",
+        "Removing existing exterior fixture",
+        "Identifying a pancake box for outdoor wiring",
+        "Wiring junctions between inside and outside fixtures"
+      ],
+      "description": "The presenter demonstrates pulling down the old fixture, confirms power is off, and explains that the box behind the wall is a pancake box used to splice interior wiring to the exterior fixture. They note granite depth concerns."
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:02:04",
+      "title": "Granite modification to accommodate the box",
+      "concepts": [
+        "Granite surface considerations",
+        "Box depth minimization",
+        "Plan to trace and chisel granite"
+      ],
+      "description": "Attention turns to the granite surface as the intended mounting area. The plan is to trace the box location, then use a hammer drill and chisel to remove granite and set it in place as needed for mounting depth."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:03:58",
+      "title": "Exterior wall sconce installation: mounting and wiring",
+      "concepts": [
+        "Exterior wall sconce selection",
+        "Bracket mounting to electrical box",
+        "Wiring: hot, neutral, and ground",
+        "Fixture mounting and final connections"
+      ],
+      "description": "The light fixture is chosen for its iron finish and frosted glass. The bracket attaches to the box, and the wires are connected (white = neutral, black = hot, with a ground). The fixture is mounted and prepared for operation."
+    },
+    {
+      "start": "00:02:46",
+      "end": "00:04:16",
+      "title": "Recessed lighting installation and wet-location trim",
+      "concepts": [
+        "Old-work recessed lighting concept",
+        "Cutting a hole and mounting a junction box",
+        "Drywall clips to hold the housing",
+        "Wet-location LED trim for outdoor use"
+      ],
+      "description": "The presenter introduces an old-work recessed can, explains how a cut hole leads to a junction box with spliced wires, and demonstrates drywall clips that clamp the fixture in place. Because the installation is outdoors, a wet-location LED trim is used to seal against moisture and bugs."
+    },
+    {
+      "start": "00:04:16",
+      "end": "00:04:24",
+      "title": "Test and final impression",
+      "concepts": [
+        "Lighting test",
+        "Aesthetic and welcoming effect of proper exterior lighting"
+      ],
+      "description": "With the lights on, the entry looks significantly more welcoming and well-lit, concluding the demonstration."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identifying and mounting an exterior pancake box behind masonry to minimize depth and wiring intrusion",
+      "timestamp": "00:01:08",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Using hammer drill and chisel to clear granite for box installation",
+      "timestamp": "00:01:40",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Wiring a wall-mounted exterior light: securing a bracket to the box and connecting hot, neutral, and ground",
+      "timestamp": "00:02:25",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Installing old-work recessed lighting with drywall clips and a wet-location LED trim for outdoor use",
+      "timestamp": "00:02:50",
+      "confidence": 0.79
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:56:05.196417+00:00"
+}

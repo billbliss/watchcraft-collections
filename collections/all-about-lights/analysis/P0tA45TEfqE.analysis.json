@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "P0tA45TEfqE.youtube",
+  "title": "Diagnosing and wiring a three-way light switch (Ask This Old House)",
+  "date": {
+    "display": "July 23, 2016",
+    "iso": "2016-07-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "In this episode, This Old House guides a homeowner through diagnosing a miswired three-way switch arrangement that controls a chandelier from two locations. The hosts explain the difference between single-pole and three-way switches, describe the role of traveler wires and the common, and demonstrate a practical workflow: turn off power, remove the switches, identify traveler vs. common conductors, use a continuity tester to locate the travelers, wire the two travelers to the traveler terminals and the common to the common terminal, reconnect the ground, restore power, and test from both switch locations. The lesson emphasizes wiring theory applied to a real-world scenario, safety steps, and the value of diagrams to understand a three-way circuit while avoiding common miswiring mistakes.",
+  "topics": [
+    "three-way switch basics",
+    "traveler wires",
+    "common wire",
+    "ground wire",
+    "single-pole vs three-way switch",
+    "two-switch-one-light configuration",
+    "continuity tester usage",
+    "voltmeter safety check",
+    "identifying traveler conductors",
+    "wire terminals: traveler screws vs common screw",
+    "using a circuit diagram to understand three-way wiring",
+    "miswiring risks in three-way circuits",
+    "power shutoff and re-energizing circuits",
+    "rewiring three-way switches in existing boxes",
+    "two-conductor traveler path (red/black)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:03",
+      "title": "Problem setup: two switches control a chandelier (three-way) and the miswiring scenario",
+      "concepts": [
+        "two-location control",
+        "three-way circuit",
+        "initial wiring issue"
+      ],
+      "description": "Pam outlines the situation: two switches in a room control one chandelier and the homeowner replaced them with three-way switches, but the wiring doesn't behave correctly due to extra conductors inside the box."
+    },
+    {
+      "start": "00:01:41",
+      "end": "00:02:18",
+      "title": "Anatomy of the switches: single-pole vs three-way",
+      "concepts": [
+        "single-pole switch",
+        "three-way switch",
+        "ground",
+        "terminals"
+      ],
+      "description": "The hosts contrast a single-pole switch (two terminals plus ground) with a three-way switch (three screws: two travelers and one common), setting up the rationale for why wiring a three-way is different."
+    },
+    {
+      "start": "00:02:25",
+      "end": "00:04:11",
+      "title": "Three-way circuit operation and diagram",
+      "concepts": [
+        "two traveler wires",
+        "common terminal",
+        "circuit path",
+        "diagram interpretation"
+      ],
+      "description": "A diagram is introduced to show how electricity can travel between two three-way switches via traveler wires, with the common controlling which path is live and how flipping either switch changes the circuit path."
+    },
+    {
+      "start": "00:04:23",
+      "end": "00:04:54",
+      "title": "Initial diagnosis: common vs traveler wires mixed up",
+      "concepts": [
+        "travelers vs common",
+        "potential miswiring"
+      ],
+      "description": "Pam suggests that the likely culprit is a mix-up between the common and traveler wires after installing new three-way switches, a common issue for homeowners."
+    },
+    {
+      "start": "00:04:54",
+      "end": "00:06:54",
+      "title": "Safety, disassembly, and wire identification workflow",
+      "concepts": [
+        "power off",
+        "voltmeter verification",
+        "remove switches",
+        "three conductors per side"
+      ],
+      "description": "The circuit is shut off, switches are removed on both sides, and the wires are prepared for identification. The presenter highlights the need to verify that power is off before testing or re-wiring."
+    },
+    {
+      "start": "00:04:57",
+      "end": "00:06:10",
+      "title": "Continuity testing to locate the travelers",
+      "concepts": [
+        "continuity tester",
+        "beep/light indication",
+        "two-conductor test leads"
+      ],
+      "description": "A continuity tester (with a separate two-lead accessory) is used to identify which conductors serve as travelers by testing continuity between the two switch boxes."
+    },
+    {
+      "start": "00:06:19",
+      "end": "00:06:33",
+      "title": "Wiring the three-way: travelers to traveler screws, common to common",
+      "concepts": [
+        "traveler screws",
+        "common terminal",
+        "ground connection"
+      ],
+      "description": "The identified traveler wires are connected to the two traveler terminals and the common wire to the common terminal on the three-way switch, with the ground attached."
+    },
+    {
+      "start": "00:06:33",
+      "end": "00:06:54",
+      "title": "System test: restore power and verify proper operation",
+      "concepts": [
+        "power restoration",
+        "two-location test",
+        "functional check"
+      ],
+      "description": "Power is re-energized and both switches are tested; the chandelier now functions correctly from either location, confirming a proper three-way wiring."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explain three-way switch anatomy and differentiate traveler vs common terminals",
+      "timestamp": "00:02:01",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Use a circuit diagram to illustrate a typical three-way path",
+      "timestamp": "00:03:10",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Safety protocol: turn off power and verify with a voltmeter",
+      "timestamp": "00:04:41",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Identify traveler conductors using a continuity tester across switch boxes",
+      "timestamp": "00:05:09",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wire travelers to traveler screws and the common wire to the common terminal",
+      "timestamp": "00:06:19",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:25:17.474769+00:00"
+}

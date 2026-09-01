@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "GtczSbxpidE.youtube",
+  "title": "Recessed Lighting for a Slanted Ceiling: Layout, Wiring, and Aiming",
+  "date": {
+    "display": "September 13, 2025",
+    "iso": "2025-09-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "probable interior kitchen area with brick wall and slanted ceiling",
+      "confidence": 0.6,
+      "basis": "Transcript references kitchen placement, brick wall, built-ins; no explicit shooting location"
+    }
+  ],
+  "summary": "This Old House demonstrates a recessed lighting install for a room with a slanted ceiling, emphasizing layout accuracy, safe access, and directional control. The crew uses a laser aligned to the front edge of installed cabinets and chalk lines on an unpainted ceiling to maintain a straight, continuous line for the light run. Hole locations are identified by piercing plaster with a screwdriver and marking a 3-1/4 inch target while ensuring at least four inches of clearance before cutting with a hole saw. Wiring is run as a continuous loop and connected with push-in connectors (no wire nuts), with black-to-black and white-to-white terminations. A gimbal eyeball fixture is installed to allow tilt and wash, secured with mounting clips, and oriented for adjustable coverage. The session ends with planning for additional lights in the kitchen to achieve full lighting coverage.",
+  "topics": [
+    "recessed lighting",
+    "slanted ceiling",
+    "laser alignment",
+    "chalk line",
+    "cabinet-edge lighting",
+    "hole marking",
+    "hole saw",
+    "plaster drilling",
+    "clearance check",
+    "continuous wiring loop",
+    "push-in connectors",
+    "junction box",
+    "wire color matching (black/white)",
+    "gimbal eyeball",
+    "directional adjustment",
+    "wall wash lighting",
+    "kitchen lighting plan",
+    "insulation considerations"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:00:56",
+      "title": "Layout planning and alignment",
+      "concepts": [
+        "layout planning",
+        "laser alignment",
+        "chalk-lines",
+        "cabinet-front-edge alignment"
+      ],
+      "description": "The team discusses establishing a lighting run by using a laser along the front edge of installed cabinets and snapping chalk lines on the ceiling before painting, to keep a straight, continuous lighting line."
+    },
+    {
+      "start": "00:00:56",
+      "end": "00:02:14",
+      "title": "Hole location marking and cutting",
+      "concepts": [
+        "hole-marking through plaster",
+        "3-1/4 inch target",
+        "wiggle room"
+      ],
+      "description": "A screwdriver punctures plaster to locate the cut, then a mark around 3-1/4 inches is adjusted with a bend for wiggle room, ensuring four inches of clearance before cutting with a hole saw."
+    },
+    {
+      "start": "00:02:14",
+      "end": "00:03:07",
+      "title": "Wiring preparation and connections",
+      "concepts": [
+        "continuous wiring loop",
+        "push-in connectors",
+        "no wire nuts",
+        "wire termination"
+      ],
+      "description": "The circuit is run as a continuous loop; wires are stripped and inserted into a junction box using push-in connectors, with black-to-black and white-to-white terminations tucked in neatly."
+    },
+    {
+      "start": "00:03:07",
+      "end": "00:03:41",
+      "title": "Fixture installation and aiming (gimbal eyeball)",
+      "concepts": [
+        "gimbal eyeball",
+        "internal tilt",
+        "mounting clips",
+        "tucking wires"
+      ],
+      "description": "A gimbal recessed light is mounted, allowing internal tilt to wash the target area; mounting clips secure it in place and wiring is tucked up as the fixture is prepared for use."
+    },
+    {
+      "start": "00:03:41",
+      "end": "00:04:09",
+      "title": "Testing, adjustment, and future layout plan",
+      "concepts": [
+        "light wash test",
+        "adjustable aiming",
+        "kitchen lighting plan"
+      ],
+      "description": "The lights are tested and adjusted for a wall-brick wash. The team notes adjustable left-right and forward-back capabilities and mentions adding more fixtures in the kitchen for full coverage."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Laser-aligned lighting line along cabinet front edge",
+      "timestamp": "00:00:27.620",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Chalk-line layout on ceiling before painting",
+      "timestamp": "00:00:32.600",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Puncturing plaster to locate cut with screwdriver",
+      "timestamp": "00:00:56.460",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Hole sizing with 3-1/4 inch target and wiggle room",
+      "timestamp": "00:01:02.600",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Four-inch clearance check using a bent piece as a gauge",
+      "timestamp": "00:01:23.370",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Hole saw cutting through plaster",
+      "timestamp": "00:01:38.250",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Continuous wiring loop to avoid buried breaks",
+      "timestamp": "00:02:04.760",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Push-in connectors for quick wire joins",
+      "timestamp": "00:02:25.280",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using a gimbal eyeball and internal tilt for wash lighting",
+      "timestamp": "00:02:45.460",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mouse-trap mounting clips to hold fixture",
+      "timestamp": "00:02:54.840",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Directional aiming: left-right and forward-back control",
+      "timestamp": "00:03:41.100",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Ambient wash testing near brick and planning future kitchen placements",
+      "timestamp": "00:03:32.140",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:02:08.548747+00:00"
+}

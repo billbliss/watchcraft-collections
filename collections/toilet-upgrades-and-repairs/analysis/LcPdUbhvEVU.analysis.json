@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "video": "LcPdUbhvEVU.youtube",
+  "title": "Graywater Toilet Retrofit: Integrated Hand-Wash Sink Demonstration",
+  "date": {
+    "display": "August 25, 2014",
+    "iso": "2014-08-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House video presents a retrofit approach to turn a standard toilet into a graywater-capable unit by adding an integrated hand-wash sink above the tank. The host first explains the normal operation of a toilet tank (flapper, fill valve, refill tube) and notes that both the tank refill water and the bowl refill water are clean. The demonstration then shows a retrofit kit that replaces the refill tube with a clear plastic tube to divert water to a top device and toward the bowl, enabling a hand-washing sink to receive clean water after flushing. A spacer is introduced to accommodate different tank lengths. The clip concludes with the claim that the kit can be installed on standard toilets to provide a dedicated hand-washing sink while maintaining the standard bowl refill cycle. The product is described as originating from Australia and is marketed as a retrofit option available in the United States.",
+  "topics": [
+    "graywater toilet retrofit",
+    "toilet tank anatomy",
+    "flapper",
+    "fill valve",
+    "refill tube",
+    "integrated hand-wash sink",
+    "graywater retrofit kit",
+    "water diversion",
+    "top-mounted faucet",
+    "clear plastic tube installation",
+    "bowl refill",
+    "spacer for tank lengths",
+    "standard toilet adaptation",
+    "Australia origin",
+    "This Old House demonstration"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:00:45",
+      "title": "Toilet operation and tank anatomy",
+      "concepts": [
+        "flapper",
+        "fill valve",
+        "refill tube",
+        "bowl refill",
+        "clean water flow in toilet tank"
+      ],
+      "description": "The presenter reviews how a toilet tank flushes: the flapper lifts, water exits to the bowl, then clean water refills the tank and refills the bowl via the refill tube. He emphasizes that both sources are clean water."
+    },
+    {
+      "start": "00:00:45",
+      "end": "00:01:11",
+      "title": "Introduction to gray water retrofit kit and installation steps",
+      "concepts": [
+        "gray water toilet",
+        "retrofit kit",
+        "top-diverted water",
+        "refill tube removal",
+        "clear tube substitution"
+      ],
+      "description": "A retrofit kit is introduced to convert a standard toilet into a gray water toilet. The host describes removing the existing refill tube and replacing it with a clear plastic tube to divert water to the top portion of the device and toward the bowl."
+    },
+    {
+      "start": "00:01:11",
+      "end": "00:01:27",
+      "title": "Hand-wash sink integration and flush demonstration",
+      "concepts": [
+        "hand-wash sink",
+        "diverted clean water",
+        "spacer",
+        "tank height adaptation"
+      ],
+      "description": "The system provides a sink above the tank for hand-washing and explains a spacer to accommodate different tank lengths. The host notes that, after flushing, clean water is available at the sink and describes the path that routes water to the bowl via the modified plumbing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Retrofit kit for converting a standard toilet into a graywater toilet",
+      "timestamp": "00:00:51",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Replacing the refill tube with a clear plastic tube to route water",
+      "timestamp": "00:01:03",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Directing water to the top of a device to feed a hand-wash faucet",
+      "timestamp": "00:01:05",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Routing discharge back to the bowl via the refill tube",
+      "timestamp": "00:01:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Spacer/expansion to fit different tank lengths",
+      "timestamp": "00:01:13",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using an integrated hand-wash sink with toilet operation",
+      "timestamp": "00:01:20",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:39:58.951724+00:00"
+}

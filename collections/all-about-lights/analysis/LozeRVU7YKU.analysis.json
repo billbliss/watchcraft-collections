@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "video": "LozeRVU7YKU.youtube",
+  "title": "Diagnosis and Repair of a Miswired Three-Way Switch (This Old House)",
+  "date": {
+    "display": "November 20, 2016",
+    "iso": "2016-11-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "hallway",
+      "confidence": 0.85,
+      "basis": "Transcript identifies a switch 'that controls this hallway light.'"
+    },
+    {
+      "name": "dining room",
+      "confidence": 0.85,
+      "basis": "Transcript identifies a switch 'that controls the dining room light.'"
+    }
+  ],
+  "summary": "The video demonstrates a common three-way switch setup where two switches control a single light. The presenter distinguishes single-pole switches from three-way switches, defines the common (black) terminal and the two traveler (brass) terminals, and uses a cutaway to illustrate how a single-pole switch normally completes a circuit. The core of the lesson focuses on diagnosing a miswiring in the dining-room circuit where the common and traveler wires were swapped, likely due to an improper homeowner replacement. After tracing conductors (black and red) from two cables in the box, the speaker shows that the red traveler was tied to the common screw and the black common wire was tied to a brass traveler screw. The fix involves swapping these two wires and ensuring proper screw wrap direction. After restoring power, both switches correctly operate the light, confirming the repair.",
+  "topics": [
+    "two-switch control of a single light (three-way circuit)",
+    "three-way switch components: common (black screw) and travelers (brass screws)",
+    "traveler wires concept in a three-way switch",
+    "contrast between single-pole and three-way switches",
+    "safety practice: power-off before working in the box",
+    "in-box wiring identification: red, black, white conductors in cables",
+    "diagnostic clue: miswired common and traveler wires",
+    "likely cause: homeowner replacement of switch with incorrect wiring",
+    "terminal termination technique: wire direction when securing screws (clockwise wrap)",
+    "repair action: swap the two miswired wires to correct the circuit",
+    "post-repair verification: re-energize and test both switches",
+    "use of a cutaway to explain internal switch operation",
+    "path of power through travellers to the light fixture",
+    "restoration of proper function across a three-way switch pair"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:11",
+      "title": "Problem Setup: Dual switches and three-way vs single-pole",
+      "concepts": [
+        "Two switches control one light",
+        "Three-way circuit basics",
+        "Cutaway illustration to explain operation"
+      ],
+      "description": "The presenters observe two switches that should control a single light and introduce the distinction between single-pole and three-way switches, framing the lesson."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:02:58",
+      "title": "Three-Way Switch Anatomy and Operation",
+      "concepts": [
+        "Common wire (black screw) versus travelers (brass screws)",
+        "How current travels through a three-way pair",
+        "Behavior of the circuit when switching"
+      ],
+      "description": "Using a cutaway, the host defines the three-way switch terminals and explains how power can travel via traveler wires, enabling control from either switch."
+    },
+    {
+      "start": "00:02:58",
+      "end": "00:03:16",
+      "title": "Diagnostic Hypothesis: Miswiring Possibility",
+      "concepts": [
+        "Common vs traveler wires may be swapped",
+        "Impact of incorrect wiring on operation",
+        "Plan to inspect the wiring safely"
+      ],
+      "description": "The host states that wires were likely mixed up (common and traveler) and begins the approach to de-energize and inspect the box."
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:04:18",
+      "title": "In-Box Wiring Inspection and Evidence of Miswiring",
+      "concepts": [
+        "Two cables enter the box with different conductors",
+        "Red traveler tied to common screw; black common tied to traveler screw",
+        "Procedure for safe power-off and inspection"
+      ],
+      "description": "The wiring is inspected in the switch box, revealing miswiring: red on the common and black on a traveler screw."
+    },
+    {
+      "start": "00:04:18",
+      "end": "00:04:38",
+      "title": "Root Cause: Incorrect Termination and wrap Direction",
+      "concepts": [
+        "Wrap direction around screws (clockwise vs counterclockwise)",
+        "Likely homeowner switch replacement caused the error",
+        "Plan to swap the wires to correct the circuit"
+      ],
+      "description": "The host explains the incorrect counterclockwise wrap and the subsequent miswiring, and confirms the fix involves swapping the two wires."
+    },
+    {
+      "start": "00:04:38",
+      "end": "00:05:33",
+      "title": "Repair Action and Power Restoration",
+      "concepts": [
+        "Swap common and traveler wires",
+        "Secure connections clockwise",
+        "Restore power to test the circuit"
+      ],
+      "description": "The wires are swapped to correct the three-way circuit, and power is reconnected to verify operation."
+    },
+    {
+      "start": "00:05:33",
+      "end": "00:05:46",
+      "title": "Verification: Correct Function of the Three-Way Switch Pair",
+      "concepts": [
+        "Power on and test both switches",
+        "Light responds to each switch",
+        "Repair confirmed successful"
+      ],
+      "description": "With power restored, the host tests the switches and confirms the light can be controlled from either switch, indicating success."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explain three-way switch notation: common vs travelers (black vs brass terminals)",
+      "timestamp": "00:02:31",
+      "confidence": 0.9
+    },
+    {
+      "technique": "In-box wiring diagnosis by tracing conductor roles (black, red, white in cables)",
+      "timestamp": "00:03:53",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Identifying incorrect termination by screw direction (wrap around clockwise)",
+      "timestamp": "00:04:31",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Repair action: swap common and traveler wires to correct a three-way circuit",
+      "timestamp": "00:04:38",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Functional verification after repair: re-energize and test both switches",
+      "timestamp": "00:05:33",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:23:02.374555+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-09-01T11:23:44.499512+00:00"
+}

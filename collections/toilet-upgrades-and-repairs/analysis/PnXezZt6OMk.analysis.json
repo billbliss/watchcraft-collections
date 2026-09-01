@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "video": "PnXezZt6OMk.youtube",
+  "title": "Toilet Flange Replacement and Toilet Installation (Compression Flange) Tutorial",
+  "date": {
+    "display": "August 27, 2013",
+    "iso": "2013-08-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "probable bathroom floor",
+      "confidence": 0.65,
+      "basis": "Transcript references to a toilet, tile floor, and closet bend, implying a bathroom setting; no explicit shooting location is given."
+    }
+  ],
+  "summary": "This Old House demonstrates diagnosing a wobbling toilet caused by an elevated, broken cast-iron closet flange and walks through replacing the flange with a compression flange, securing it to the floor, providing a wax-ring seal to the toilet, and finishing with bolt cap trimming and a wiggle test to verify stability. The speaker notes the flange’s height relative to the old floor, removes and replaces the brittle cast-iron piece, aligns bolts, installs the wax ring, and completes the assembly with the toilet mounted and tested for wobble and leaks.",
+  "topics": [
+    "toilet flange",
+    "cast iron closet flange",
+    "flange replacement",
+    "compression flange",
+    "rubber gasket",
+    "wax ring",
+    "closet bolts",
+    "brass ring and stainless bolts",
+    "bolts and nuts sequence",
+    "cap trimming",
+    "mini hacksaw",
+    "wiggle test",
+    "floor protection while removing flange",
+    "tile floor height alignment",
+    "p ry bar and cold chisel",
+    "protecting the inner pipe (closet bend)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:01:05",
+      "title": "Assess wobble and diagnose flange condition",
+      "concepts": [
+        "toilet wobble",
+        "shim usage",
+        "cast iron closet flange",
+        "height relative to old floor",
+        "broken flange",
+        "need for replacement"
+      ],
+      "description": "The presenter notes the toilet rocks and has shims, identifies a cast iron closet flange installed at the height of the original floor, and explains that the floor was built up too high, causing wobble. The flange is also described as broken, necessitating removal."
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:02:34",
+      "title": "Remove old flange and install compression flange",
+      "concepts": [
+        "break flange with cold chisel",
+        "pry with flat bar",
+        "protect floor with shim",
+        "identify compression flange",
+        "rubber gasket",
+        "secure flange to floor"
+      ],
+      "description": "The cast-iron flange is broken and must be removed without disturbing the closet bend. The cold chisel is used to break the flange, a flat bar to pry, and floor protection is used. A compression flange with a rubber gasket is then prepared for installation and seating flush to the floor."
+    },
+    {
+      "start": "00:02:38",
+      "end": "00:04:10",
+      "title": "Mount toilet with wax ring, bolts, caps, and test",
+      "concepts": [
+        "closet bolts and alignment",
+        "wax ring seal",
+        "nut/washer/base sequence",
+        "trim brass bolts",
+        "cap installation",
+        "wiggle test"
+      ],
+      "description": "Bolts are aligned and secured through the new flange into the toilet base. A wax ring creates the seal to the toilet and sewer gases, followed by the nut/washer/base sequence. Brass bolts are trimmed with a mini hacksaw, caps are added, the water connection is tightened, and a wiggle test confirms a tight, wobble-free installation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Removal of a broken cast-iron flange with a cold chisel",
+      "timestamp": "00:00:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Prying the flange with a flat bar while protecting the floor",
+      "timestamp": "00:01:05",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Installing a compression flange with rubber gasket to seal to the closet bend",
+      "timestamp": "00:01:21",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Centering and aligning closet bolts with the wax ring",
+      "timestamp": "00:02:39",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Trimming long brass bolts to fit bolt caps using a mini hacksaw",
+      "timestamp": "00:03:38",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Performing a wiggle test after mounting",
+      "timestamp": "00:04:08",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:43:33.142507+00:00"
+}

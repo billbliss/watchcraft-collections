@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "video": "IfjbwNkFSRY.youtube",
+  "title": "Permanent Outdoor Fiesta String Lights Installation on a Deck",
+  "date": {
+    "display": "May 8, 2016",
+    "iso": "2016-05-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Deck area (outdoor living space) – probable",
+      "confidence": 0.65,
+      "basis": "Transcript references deck, screen porch, and exterior wiring; no explicit venue name"
+    }
+  ],
+  "summary": "This video documents converting a temporary exterior lighting setup into a permanent, weatherproof deck lighting system. The hosts first acknowledge a current wired-on Christmas-light display along the house and discuss safety concerns (risk of frayed wire from a closing door). The presenter's plan introduces a permanent outdoor solution: weatherproof, outdoor-rated cable with weatherproof sockets, and LED bulbs that use Edison-based sockets to minimize energy use. The workflow covers routing power from inside the porch to outside with a three-conductor run via flexible conduit, mounting a waterproof exterior switch and an additional outlet above a window, painting to conceal wiring, and finally suspending two stainless-steel guide wires to support a dramatic zigzag of lights hung with S-hooks. The segment emphasizes energy efficiency (LEDs consuming about half a watt per bulb, totaling less than a single 60-watt equivalent) and concludes with a test lighting up the deck. The lesson balances practical wiring techniques with safety considerations and a visually appealing outcome suitable for outdoor entertaining.",
+  "topics": [
+    "temporary exterior lighting",
+    "deck lighting",
+    "outdoor electrical supply",
+    "flexible conduit wiring",
+    "three-conductor wiring outdoors",
+    "outdoor switch installation",
+    "weatherproof outdoor outlets",
+    "LED bulbs in Edison sockets",
+    "energy efficiency of LED string lights",
+    "outdoor wiring safety and door clearance",
+    "exterior lighting hardware",
+    "two stainless-steel guide wires",
+    "lighting hanging hardware (S-hooks)",
+    "zigzag light pattern for effect",
+    "concealing wiring with paint",
+    "test and power-on of outdoor lighting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:02",
+      "title": "Assess existing setup and safety concerns",
+      "concepts": [
+        "temporary exterior lighting",
+        "house-edge Christmas lights on a cable",
+        "extension cord deployment outside",
+        "door clearance risk and potential wire fraying",
+        "arc risk from exposed wiring"
+      ],
+      "description": "The scene reviews a current, non-permanent lighting arrangement along the house using Christmas lights on a cable, with the extension cord feeding inside. A safety issue is highlighted: a door can strike the wire, risking fraying and arcing, underscoring the need for a more permanent solution."
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:03:18",
+      "title": "Introduce permanent, outdoor-rated Fiesta lighting components",
+      "concepts": [
+        "weatherproof outdoor cable",
+        "weatherproof sockets",
+        "LED bulbs with Edison-based sockets",
+        "outdoor-rated power connections"
+      ],
+      "description": "The presenter introduces a more permanent Fiesta lighting setup for the deck: outdoor-rated weatherproof cable and sockets, and LEDs that screw into an Edison base. The approach emphasizes outdoor durability and energy efficiency as a replacement for the temporary setup."
+    },
+    {
+      "start": "00:03:18",
+      "end": "00:05:44",
+      "title": "Route power, mount switch/outlet, and hang lights with support",
+      "concepts": [
+        "flexible conduit from interior to exterior",
+        "three-conductor wiring",
+        "outdoor switch with waterproof plate",
+        "exterior outlet above window",
+        "two stainless-steel guide wires"
+      ],
+      "description": "Power is routed from inside the house to outside via flexible conduit. The interior feed is spliced to deck power using three conductors. A waterproof switch is mounted with a protective plate, and an exterior outlet is positioned above the window (to be painted for concealment). Two stainless-steel guide wires are installed to tension the lights across the deck, and lights are hung with S-hooks in a zigzag pattern for dramatic effect. The sequence ends with powering the system back on and admiring the result."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Outdoor weatherproof cable and sockets for permanent deck lighting",
+      "timestamp": "00:01:14",
+      "confidence": 0.75
+    },
+    {
+      "technique": "LED bulbs with Edison-based sockets to reduce energy use",
+      "timestamp": "00:01:38",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Three-conductor external wiring routed through flexible conduit",
+      "timestamp": "00:02:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Outdoor waterproof switch installation with weatherproof plate",
+      "timestamp": "00:03:32",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exterior outlet installation above a window with concealment painting",
+      "timestamp": "00:03:50",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Use of two stainless-steel guide wires to tension deck lights",
+      "timestamp": "00:04:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Hanging lights with S-hooks and planning a zigzag layout",
+      "timestamp": "00:05:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Energy-efficient lighting calculation: LED bulbs drawing about half a watt each for a deck-wide load",
+      "timestamp": "00:01:41",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:09:33.514880+00:00"
+}

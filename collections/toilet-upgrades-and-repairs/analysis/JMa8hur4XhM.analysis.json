@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "JMa8hur4XhM.youtube",
+  "title": "Converting a Toilet to Dual-Flush: Retrofit, Valve Installation, and Bowl Refilling",
+  "date": {
+    "display": "October 30, 2014",
+    "iso": "2014-10-30",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "bathroom",
+      "confidence": 0.7,
+      "basis": "Explicit reference to 'this bathroom down here' and discussion of the toilet location; no confirmation of shooting location"
+    }
+  ],
+  "summary": "This Old House walks a homeowner through converting an existing 3.5 gallons-per-flush toilet into a dual-flush model using a retrofit valve and a two-button actuator. The video covers removing the old tank lever, installing a dual-flush valve with a blue gasket, attaching a two-button actuator (one for liquids, one for solids), and reconfiguring the fill valve to ensure the bowl refills adequately after a reduced liquid flush. The host demonstrates turning off the water, draining the tank, wiring and securing components, and then testing a liquid flush that uses significantly less water while preserving a full flush for solids. A noted tradeoff is that the bowl needs adequate refill water, prompting a later adjustment with an adjustable fill valve and refill tube to restore proper bowl performance. The segment ends with a recap of how to use the top (liquids) and bottom (solids) buttons and the expected water savings.",
+  "topics": [
+    "original toilet specifications (3.5 gpf)",
+    "dual-flush retrofit kit",
+    "two-button actuator ( liquids and solids )",
+    "liquid flush vs solid flush volumes",
+    "water-meter observation for toilet usage",
+    "turning off the toilet water supply",
+    "removing the tank lever and flapper",
+    "left-handed thread on tank lever",
+    "new flush valve with blue gasket",
+    "overflow tube bracket attachment",
+    "cable tie securing of flush valve",
+    "right-handed thread on new actuator components",
+    "refill tube feeding the bowl",
+    "adjustable fill valve for bowl refill",
+    "bowl refill height considerations",
+    "testing liquid flush performance",
+    "final recap of efficiency and water savings"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03",
+      "end": "00:00:48",
+      "title": "Problem framing and retrofit plan",
+      "concepts": [
+        "high water bill context",
+        "existing 3.5 gpf toilet",
+        "goal: convert interior to dual-flush while keeping the same toilet",
+        "concept of prioritizing liquids vs solids in flushes"
+      ],
+      "description": "The homeowner explains a high water bill, confirms the original toilet uses 3.5 gpf, and outlines the plan to convert the inside of the toilet to a dual-flush system rather than replacing the entire unit."
+    },
+    {
+      "start": "00:00:48",
+      "end": "00:01:25",
+      "title": "Concept of dual-flush operation",
+      "concepts": [
+        "two-button system for different flush volumes",
+        "1 gallon for liquids, 3.5 gallons for solids",
+        "80% of flushes are liquids, motivating the reduction"
+      ],
+      "description": "Explanation of preserving a full solids flush while drastically reducing the liquid flush using a two-button actuator."
+    },
+    {
+      "start": "00:01:25",
+      "end": "00:02:32",
+      "title": "Disassembly: removing the old tank lever and components",
+      "concepts": [
+        "shut off water and drain tank",
+        "disconnect flapper",
+        "remove tank lever and chain",
+        "left-handed thread on tank lever"
+      ],
+      "description": "The team begins disassembly by turning off water, draining the tank, removing the flapper linkage, and removing the tank lever, noting the left-handed threaded nut."
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:04:13",
+      "title": "Valve retrofit and actuator installation",
+      "concepts": [
+        "install new dual-flush valve with blue gasket",
+        "attach bracket to overflow tube",
+        "two-button actuator with separate liquids/solids controls",
+        "right-handed thread on new actuator components"
+      ],
+      "description": "A dual-flush valve is installed with a blue gasket, bracketed to the overflow tube, and connected to a two-button actuator for liquids and solids."
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:04:13",
+      "title": "Preliminary liquid-flush test and observations",
+      "concepts": [
+        "testing top button for liquids",
+        "observing water level change during liquid flush"
+      ],
+      "description": "After initial reassembly, the liquid-flush action is tested; the top button is confirmed as the liquids flush and reduces water usage, with early notes about bowl performance."
+    },
+    {
+      "start": "00:04:13",
+      "end": "00:05:01",
+      "title": "Bowl refill issue identified",
+      "concepts": [
+        "bowl not flushing properly due to insufficient water",
+        "water line expectations for a proper flush"
+      ],
+      "description": "A problem is observed: the bowl water height does not rise high enough during liquids flush, prompting investigation into how refill water is added to the bowl."
+    },
+    {
+      "start": "00:05:01",
+      "end": "00:05:20",
+      "title": "Plan to increase bowl refill through the fill valve",
+      "concepts": [
+        "refill tube delivers water to bowl",
+        "importance of more bowl refilling water during tank fill"
+      ],
+      "description": "Explanation of how the refill tube and fill valve influence bowl refill, and the plan to replace the fill valve with an adjustable unit."
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:06:44",
+      "title": "Final testing and recap",
+      "concepts": [
+        "adjustable fill valve for bowl refill",
+        "testing and verification of liquid flush",
+        "recap of top vs bottom button functions",
+        "anticipated water savings"
+      ],
+      "description": "The new fill valve is introduced to improve bowl refill while the tank refills, a final liquid flush test demonstrates proper operation, and the host reinforces the dual-flush concept and expected water savings."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dual-flush retrofit installation (two-button actuator) with independent liquid/solids paths",
+      "timestamp": "00:01:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Valve swap: install dual-flush valve with blue gasket and secure to overflow",
+      "timestamp": "00:02:36",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Reconfiguring linkages: converting from tank lever to two-button actuator (including threading notes)",
+      "timestamp": "00:03:10",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Bowl refill strategy: direct refill tube and adjustable fill valve to maintain bowl performance",
+      "timestamp": "00:05:14",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Securement and alignment: use of a cable tie to snug down the valve assembly",
+      "timestamp": "00:03:04",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Field observation and tuning: measuring bowl water line to ensure adequate flush height",
+      "timestamp": "00:04:21",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:17:38.153225+00:00"
+}

@@ -1,0 +1,4330 @@
+{
+  "assignments": {
+    "12-2 nm and 10-3 nm cable usage": {
+      "alias_source_keys": [],
+      "canonical_key": "12-2 nm and 10-3 nm cable usage",
+      "canonical_label": "12-2 NM and 10-3 NM cable usage",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "This is about electrical cabling needed for moving the washer/dryer location.",
+      "source_key": "12-2 nm and 10-3 nm cable usage",
+      "source_label": "12-2 NM and 10-3 NM cable usage"
+    },
+    "240v electrical supply and 30a circuit": {
+      "alias_source_keys": [],
+      "canonical_key": "240v electrical supply and 30a circuit",
+      "canonical_label": "240V electrical supply and 30A circuit",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "A 240V 30A circuit is part of the installation requirements for the heat-pump water heater.",
+      "source_key": "240v electrical supply and 30a circuit",
+      "source_label": "240V electrical supply and 30A circuit"
+    },
+    "4,500-watt elements": {
+      "alias_source_keys": [],
+      "canonical_key": "4,500-watt elements",
+      "canonical_label": "4,500-watt elements",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "The heating element specification is specific to the heat-pump water heater discussion.",
+      "source_key": "4,500-watt elements",
+      "source_label": "4,500-watt elements"
+    },
+    "access panels for shutoffs": {
+      "alias_source_keys": [],
+      "canonical_key": "access panels for shutoffs",
+      "canonical_label": "Access panels for shutoffs",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Access panels for shutoffs are part of planning a relocated laundry installation.",
+      "source_key": "access panels for shutoffs",
+      "source_label": "Access panels for shutoffs"
+    },
+    "aging in place considerations": {
+      "alias_source_keys": [],
+      "canonical_key": "aging in place considerations",
+      "canonical_label": "Aging in place considerations",
+      "confidence": 0.87,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Aging-in-place is a design consideration when relocating laundry to a more accessible spot.",
+      "source_key": "aging in place considerations",
+      "source_label": "Aging in place considerations"
+    },
+    "air filter maintenance": {
+      "alias_source_keys": [
+        "annual furnace maintenance"
+      ],
+      "canonical_key": "air filter maintenance",
+      "canonical_label": "air filter maintenance",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "This refers to filter upkeep, and the alias matches the maintenance phrasing closely.",
+      "source_key": "air filter maintenance",
+      "source_label": "air filter maintenance"
+    },
+    "air filter orientation and airflow arrows": {
+      "alias_source_keys": [],
+      "canonical_key": "air filter orientation and airflow arrows",
+      "canonical_label": "Air filter orientation and airflow arrows",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Filter orientation and airflow arrows are part of furnace filter maintenance.",
+      "source_key": "air filter orientation and airflow arrows",
+      "source_label": "Air filter orientation and airflow arrows"
+    },
+    "air filter purpose and placement": {
+      "alias_source_keys": [],
+      "canonical_key": "air filter purpose and placement",
+      "canonical_label": "Air filter purpose and placement",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Filter purpose and placement are standard furnace maintenance topics.",
+      "source_key": "air filter purpose and placement",
+      "source_label": "Air filter purpose and placement"
+    },
+    "allen wrench access": {
+      "alias_source_keys": [],
+      "canonical_key": "allen wrench access",
+      "canonical_label": "Allen wrench access",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Allen wrench access is a common step in clearing a jammed disposer.",
+      "source_key": "allen wrench access",
+      "source_label": "Allen wrench access"
+    },
+    "annual dryer vent cleaning and maintenance": {
+      "alias_source_keys": [],
+      "canonical_key": "annual dryer vent cleaning and maintenance",
+      "canonical_label": "Annual dryer vent cleaning and maintenance",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Annual dryer vent cleaning is routine laundry-appliance maintenance.",
+      "source_key": "annual dryer vent cleaning and maintenance",
+      "source_label": "Annual dryer vent cleaning and maintenance"
+    },
+    "annual furnace maintenance": {
+      "alias_source_keys": [
+        "air filter maintenance"
+      ],
+      "canonical_key": "annual furnace maintenance",
+      "canonical_label": "Annual furnace maintenance",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "This is the same maintenance concept as air filter maintenance in a furnace context.",
+      "source_key": "annual furnace maintenance",
+      "source_label": "Annual furnace maintenance"
+    },
+    "app-detected vent issues and drain-hose diagnosis": {
+      "alias_source_keys": [],
+      "canonical_key": "app-detected vent issues and drain-hose diagnosis",
+      "canonical_label": "App-detected vent issues and drain-hose diagnosis",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "App-based vent and drain diagnosis belongs to laundry-appliance maintenance and troubleshooting.",
+      "source_key": "app-detected vent issues and drain-hose diagnosis",
+      "source_label": "App-detected vent issues and drain-hose diagnosis"
+    },
+    "back-of-unit water inlet connections": {
+      "alias_source_keys": [],
+      "canonical_key": "back-of-unit water inlet connections",
+      "canonical_label": "back-of-unit water inlet connections",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Back-of-unit inlet connections are washer water-supply plumbing.",
+      "source_key": "back-of-unit water inlet connections",
+      "source_label": "back-of-unit water inlet connections"
+    },
+    "basement-room relocation implications for high-vented units": {
+      "alias_source_keys": [],
+      "canonical_key": "basement-room relocation implications for high-vented units",
+      "canonical_label": "Basement-room relocation implications for high-vented units",
+      "confidence": 0.69,
+      "family_ids": [
+        "family-water-heater-venting-4036c5df"
+      ],
+      "rationale": "Relocation implications for vented units are about venting and chimney constraints.",
+      "source_key": "basement-room relocation implications for high-vented units",
+      "source_label": "Basement-room relocation implications for high-vented units"
+    },
+    "basic maintenance upgrades for laundry appliances": {
+      "alias_source_keys": [],
+      "canonical_key": "basic maintenance upgrades for laundry appliances",
+      "canonical_label": "basic maintenance upgrades for laundry appliances",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Basic maintenance upgrades are routine care for laundry appliances.",
+      "source_key": "basic maintenance upgrades for laundry appliances",
+      "source_label": "basic maintenance upgrades for laundry appliances"
+    },
+    "bell hangers": {
+      "alias_source_keys": [],
+      "canonical_key": "bell hangers",
+      "canonical_label": "bell hangers",
+      "confidence": 0.74,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Bell hangers are hardware used during washer plumbing installation.",
+      "source_key": "bell hangers",
+      "source_label": "bell hangers"
+    },
+    "blower/fan operation": {
+      "alias_source_keys": [
+        "motor operation"
+      ],
+      "canonical_key": "blower/fan operation",
+      "canonical_label": "Blower/fan operation",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Blower/fan operation is part of furnace maintenance and airflow checking.",
+      "source_key": "blower/fan operation",
+      "source_label": "Blower/fan operation"
+    },
+    "box framing": {
+      "alias_source_keys": [],
+      "canonical_key": "box framing",
+      "canonical_label": "box framing",
+      "confidence": 0.7,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Box framing is part of building out the new washer-dryer location.",
+      "source_key": "box framing",
+      "source_label": "box framing"
+    },
+    "broomsticks as levers": {
+      "alias_source_keys": [],
+      "canonical_key": "broomsticks as levers",
+      "canonical_label": "broomsticks as levers",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Using broomsticks as levers is a method for freeing a jammed disposer.",
+      "source_key": "broomsticks as levers",
+      "source_label": "broomsticks as levers"
+    },
+    "burst-prevention for appliance hoses": {
+      "alias_source_keys": [],
+      "canonical_key": "burst-prevention for appliance hoses",
+      "canonical_label": "burst-prevention for appliance hoses",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Burst prevention for appliance hoses is directly about preventing leaks and floods.",
+      "source_key": "burst-prevention for appliance hoses",
+      "source_label": "burst-prevention for appliance hoses"
+    },
+    "chimney and flue considerations for higher-efficiency units": {
+      "alias_source_keys": [],
+      "canonical_key": "chimney and flue considerations for higher-efficiency units",
+      "canonical_label": "Chimney and flue considerations for higher-efficiency units",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-water-heater-venting-4036c5df"
+      ],
+      "rationale": "Chimney and flue changes are core water-heater venting issues.",
+      "source_key": "chimney and flue considerations for higher-efficiency units",
+      "source_label": "Chimney and flue considerations for higher-efficiency units"
+    },
+    "chimney re-bricking when venting changes": {
+      "alias_source_keys": [],
+      "canonical_key": "chimney re-bricking when venting changes",
+      "canonical_label": "Chimney re-bricking when venting changes",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-water-heater-venting-4036c5df"
+      ],
+      "rationale": "Re-bricking a chimney after venting changes is a venting-related retrofit.",
+      "source_key": "chimney re-bricking when venting changes",
+      "source_label": "Chimney re-bricking when venting changes"
+    },
+    "closet-to-laundry conversion feasibility": {
+      "alias_source_keys": [],
+      "canonical_key": "closet-to-laundry conversion feasibility",
+      "canonical_label": "Closet-to-laundry conversion feasibility",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "This is about whether a closet can be converted into a laundry location.",
+      "source_key": "closet-to-laundry conversion feasibility",
+      "source_label": "Closet-to-laundry conversion feasibility"
+    },
+    "code considerations for venting materials": {
+      "alias_source_keys": [],
+      "canonical_key": "code considerations for venting materials",
+      "canonical_label": "Code considerations for venting materials",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-laundry-venting-8f112bf1"
+      ],
+      "rationale": "Code considerations for venting materials belong to dryer venting.",
+      "source_key": "code considerations for venting materials",
+      "source_label": "Code considerations for venting materials"
+    },
+    "coil vs smooth-top": {
+      "alias_source_keys": [],
+      "canonical_key": "coil vs smooth-top",
+      "canonical_label": "Coil vs smooth-top",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Coil vs smooth-top describes range surface types in kitchen appliances.",
+      "source_key": "coil vs smooth-top",
+      "source_label": "Coil vs smooth-top"
+    },
+    "combustion air sources (indoor vs outdoor)": {
+      "alias_source_keys": [],
+      "canonical_key": "combustion air sources (indoor vs outdoor)",
+      "canonical_label": "Combustion air sources (indoor vs outdoor)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-combustion-safety-c48e81ff"
+      ],
+      "rationale": "Indoor versus outdoor combustion air is a combustion-safety issue.",
+      "source_key": "combustion air sources (indoor vs outdoor)",
+      "source_label": "Combustion air sources (indoor vs outdoor)"
+    },
+    "combustion contaminants and clearance": {
+      "alias_source_keys": [],
+      "canonical_key": "combustion contaminants and clearance",
+      "canonical_label": "Combustion contaminants and clearance",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-combustion-safety-c48e81ff"
+      ],
+      "rationale": "Contaminants and clearance around combustion appliances are safety concerns.",
+      "source_key": "combustion contaminants and clearance",
+      "source_label": "Combustion contaminants and clearance"
+    },
+    "combustion efficiency testing": {
+      "alias_source_keys": [],
+      "canonical_key": "combustion efficiency testing",
+      "canonical_label": "Combustion efficiency testing",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-combustion-safety-c48e81ff"
+      ],
+      "rationale": "Combustion efficiency testing is used to evaluate safe furnace operation.",
+      "source_key": "combustion efficiency testing",
+      "source_label": "Combustion efficiency testing"
+    },
+    "condensate drainage and condensate pump": {
+      "alias_source_keys": [],
+      "canonical_key": "condensate drainage and condensate pump",
+      "canonical_label": "condensate drainage and condensate pump",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Condensate handling is a standard installation issue for heat-pump water heaters.",
+      "source_key": "condensate drainage and condensate pump",
+      "source_label": "condensate drainage and condensate pump"
+    },
+    "condenser": {
+      "alias_source_keys": [],
+      "canonical_key": "condenser",
+      "canonical_label": "Condenser",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "The condenser is a refrigerator maintenance component in kitchen appliances.",
+      "source_key": "condenser",
+      "source_label": "Condenser"
+    },
+    "condenser cleaning": {
+      "alias_source_keys": [
+        "condenser"
+      ],
+      "canonical_key": "condenser cleaning",
+      "canonical_label": "Condenser cleaning",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Condenser cleaning is routine refrigerator maintenance.",
+      "source_key": "condenser cleaning",
+      "source_label": "Condenser cleaning"
+    },
+    "condensing gas water heaters and pvc venting": {
+      "alias_source_keys": [],
+      "canonical_key": "condensing gas water heaters and pvc venting",
+      "canonical_label": "Condensing gas water heaters and PVC venting",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-water-heater-venting-4036c5df"
+      ],
+      "rationale": "Condensing gas water heaters and PVC venting are venting-specific topics.",
+      "source_key": "condensing gas water heaters and pvc venting",
+      "source_label": "Condensing gas water heaters and PVC venting"
+    },
+    "coordination of trades (electrician, carpenter)": {
+      "alias_source_keys": [],
+      "canonical_key": "coordination of trades (electrician, carpenter)",
+      "canonical_label": "Coordination of trades (electrician, carpenter)",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Coordination of electrician and carpenter work is part of a laundry relocation project.",
+      "source_key": "coordination of trades (electrician, carpenter)",
+      "source_label": "Coordination of trades (electrician, carpenter)"
+    },
+    "copper pipe installation": {
+      "alias_source_keys": [],
+      "canonical_key": "copper pipe installation",
+      "canonical_label": "copper pipe installation",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "Copper pipe installation is directly about cutting, fitting, and joining copper plumbing.",
+      "source_key": "copper pipe installation",
+      "source_label": "copper pipe installation"
+    },
+    "copper tubing": {
+      "alias_source_keys": [],
+      "canonical_key": "copper tubing",
+      "canonical_label": "Copper tubing",
+      "confidence": 0.71,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Copper tubing here refers to an appliance water line for the ice maker.",
+      "source_key": "copper tubing",
+      "source_label": "Copper tubing"
+    },
+    "cover plate": {
+      "alias_source_keys": [],
+      "canonical_key": "cover plate",
+      "canonical_label": "cover plate",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "A cover plate is a finishing component used when installing thermostatic radiator valves.",
+      "source_key": "cover plate",
+      "source_label": "cover plate"
+    },
+    "cutter wheel": {
+      "alias_source_keys": [
+        "teeth of cutter wheel"
+      ],
+      "canonical_key": "cutter wheel",
+      "canonical_label": "cutter wheel",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "The cutter wheel terminology is part of disposer anatomy and jam-related repair.",
+      "source_key": "cutter wheel",
+      "source_label": "cutter wheel"
+    },
+    "cutting copper pipe and pipe cutting": {
+      "alias_source_keys": [],
+      "canonical_key": "cutting copper pipe and pipe cutting",
+      "canonical_label": "cutting copper pipe and pipe cutting",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "Cutting copper pipe is a core copper fabrication task.",
+      "source_key": "cutting copper pipe and pipe cutting",
+      "source_label": "cutting copper pipe and pipe cutting"
+    },
+    "default-off safety design": {
+      "alias_source_keys": [],
+      "canonical_key": "default-off safety design",
+      "canonical_label": "default-off safety design",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Default-off safety design is about preventing accidental washer or appliance operation.",
+      "source_key": "default-off safety design",
+      "source_label": "default-off safety design"
+    },
+    "differences between tank-type, tankless, and heat-pump systems": {
+      "alias_source_keys": [],
+      "canonical_key": "differences between tank-type, tankless, and heat-pump systems",
+      "canonical_label": "Differences between tank-type, tankless, and heat-pump systems",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "Comparing tank, tankless, and heat-pump systems is water-heater selection.",
+      "source_key": "differences between tank-type, tankless, and heat-pump systems",
+      "source_label": "Differences between tank-type, tankless, and heat-pump systems"
+    },
+    "discharge path": {
+      "alias_source_keys": [],
+      "canonical_key": "discharge path",
+      "canonical_label": "discharge path",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "This refers to the disposer’s food-waste exit path, which is part of disposer anatomy and repair.",
+      "source_key": "discharge path",
+      "source_label": "discharge path"
+    },
+    "dishwasher": {
+      "alias_source_keys": [],
+      "canonical_key": "dishwasher",
+      "canonical_label": "Dishwasher",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A dishwasher is a kitchen appliance covered under general maintenance.",
+      "source_key": "dishwasher",
+      "source_label": "Dishwasher"
+    },
+    "dishwasher detergent": {
+      "alias_source_keys": [],
+      "canonical_key": "dishwasher detergent",
+      "canonical_label": "Dishwasher detergent",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Dishwasher detergent is a basic consumable used in dishwasher maintenance and operation.",
+      "source_key": "dishwasher detergent",
+      "source_label": "Dishwasher detergent"
+    },
+    "dishwasher discharge into disposer": {
+      "alias_source_keys": [],
+      "canonical_key": "dishwasher discharge into disposer",
+      "canonical_label": "dishwasher discharge into disposer",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "The dishwasher discharge connection to the disposer is a disposer plumbing/installation detail.",
+      "source_key": "dishwasher discharge into disposer",
+      "source_label": "dishwasher discharge into disposer"
+    },
+    "dishwasher filter": {
+      "alias_source_keys": [],
+      "canonical_key": "dishwasher filter",
+      "canonical_label": "Dishwasher filter",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A dishwasher filter is a routine maintenance item for kitchen appliances.",
+      "source_key": "dishwasher filter",
+      "source_label": "Dishwasher filter"
+    },
+    "dishwasher rack": {
+      "alias_source_keys": [],
+      "canonical_key": "dishwasher rack",
+      "canonical_label": "Dishwasher rack",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "The dishwasher rack is part of dishwasher hardware covered in appliance care.",
+      "source_key": "dishwasher rack",
+      "source_label": "Dishwasher rack"
+    },
+    "door swing changes and flush thresholds": {
+      "alias_source_keys": [],
+      "canonical_key": "door swing changes and flush thresholds",
+      "canonical_label": "Door swing changes and flush thresholds",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Door swing and flush threshold work are part of fitting laundry into a new closet location.",
+      "source_key": "door swing changes and flush thresholds",
+      "source_label": "Door swing changes and flush thresholds"
+    },
+    "downstream shut-off valves": {
+      "alias_source_keys": [
+        "washing machine shut-off valve"
+      ],
+      "canonical_key": "downstream shut-off valves",
+      "canonical_label": "downstream shut-off valves",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Downstream shutoff valves are essentially washer shutoff hardware used for leak prevention.",
+      "source_key": "downstream shut-off valves",
+      "source_label": "downstream shut-off valves"
+    },
+    "drain and trap requirements for washer": {
+      "alias_source_keys": [],
+      "canonical_key": "drain and trap requirements for washer",
+      "canonical_label": "Drain and trap requirements for washer",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Washer drain and trap requirements are part of relocating and roughing in laundry plumbing.",
+      "source_key": "drain and trap requirements for washer",
+      "source_label": "Drain and trap requirements for washer"
+    },
+    "drain hose": {
+      "alias_source_keys": [],
+      "canonical_key": "drain hose",
+      "canonical_label": "Drain hose",
+      "confidence": 0.85,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A drain hose is a maintenance component for appliances such as dishwashers.",
+      "source_key": "drain hose",
+      "source_label": "Drain hose"
+    },
+    "draining and removing old heater": {
+      "alias_source_keys": [],
+      "canonical_key": "draining and removing old heater",
+      "canonical_label": "draining and removing old heater",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Draining and removing the old unit is part of a heat pump water heater installation.",
+      "source_key": "draining and removing old heater",
+      "source_label": "draining and removing old heater"
+    },
+    "drilling a small hole for sensor": {
+      "alias_source_keys": [],
+      "canonical_key": "drilling a small hole for sensor",
+      "canonical_label": "drilling a small hole for sensor",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Drilling a small hole for the sensor is a thermostatic radiator valve installation step.",
+      "source_key": "drilling a small hole for sensor",
+      "source_label": "drilling a small hole for sensor"
+    },
+    "dryer circuit (30a, 240v)": {
+      "alias_source_keys": [],
+      "canonical_key": "dryer circuit (30a, 240v)",
+      "canonical_label": "Dryer circuit (30A, 240V)",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "A 30A, 240V dryer circuit is part of planning utility service for a relocated laundry.",
+      "source_key": "dryer circuit (30a, 240v)",
+      "source_label": "Dryer circuit (30A, 240V)"
+    },
+    "dryer lint hazards and lint filter maintenance": {
+      "alias_source_keys": [],
+      "canonical_key": "dryer lint hazards and lint filter maintenance",
+      "canonical_label": "Dryer lint hazards and lint filter maintenance",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f",
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Lint hazards and lint filter upkeep are standard dryer maintenance and fire-safety concerns.",
+      "source_key": "dryer lint hazards and lint filter maintenance",
+      "source_label": "Dryer lint hazards and lint filter maintenance"
+    },
+    "dryer vent diameter and standpipe compatibility": {
+      "alias_source_keys": [],
+      "canonical_key": "dryer vent diameter and standpipe compatibility",
+      "canonical_label": "Dryer vent diameter and standpipe compatibility",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-laundry-venting-8f112bf1",
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Vent diameter and standpipe compatibility affect dryer vent routing and laundry placement details.",
+      "source_key": "dryer vent diameter and standpipe compatibility",
+      "source_label": "Dryer vent diameter and standpipe compatibility"
+    },
+    "dryer vent options: vinyl, aluminum, solid pipe": {
+      "alias_source_keys": [],
+      "canonical_key": "dryer vent options: vinyl, aluminum, solid pipe",
+      "canonical_label": "Dryer vent options: vinyl, aluminum, solid pipe",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-laundry-venting-8f112bf1"
+      ],
+      "rationale": "This is specifically about dryer vent material choices.",
+      "source_key": "dryer vent options: vinyl, aluminum, solid pipe",
+      "source_label": "Dryer vent options: vinyl, aluminum, solid pipe"
+    },
+    "efficiency benchmarks (81.6% vs 97%)": {
+      "alias_source_keys": [],
+      "canonical_key": "efficiency benchmarks (81.6% vs 97%)",
+      "canonical_label": "Efficiency benchmarks (81.6% vs 97%)",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Efficiency benchmarks here relate to furnace maintenance and performance testing.",
+      "source_key": "efficiency benchmarks (81.6% vs 97%)",
+      "source_label": "Efficiency benchmarks (81.6% vs 97%)"
+    },
+    "electric range": {
+      "alias_source_keys": [],
+      "canonical_key": "electric range",
+      "canonical_label": "Electric range",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "An electric range is a kitchen appliance covered by appliance care.",
+      "source_key": "electric range",
+      "source_label": "Electric range"
+    },
+    "electric water heater basics": {
+      "alias_source_keys": [],
+      "canonical_key": "electric water heater basics",
+      "canonical_label": "electric water heater basics",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5",
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Electric water heater basics fit water-heater type comparison and the heat-pump water-heater context.",
+      "source_key": "electric water heater basics",
+      "source_label": "electric water heater basics"
+    },
+    "electric water heater limits (up to 55 gallons)": {
+      "alias_source_keys": [],
+      "canonical_key": "electric water heater limits (up to 55 gallons)",
+      "canonical_label": "Electric water heater limits (up to 55 gallons)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "The topic is about electric water heater size limits and selection rules.",
+      "source_key": "electric water heater limits (up to 55 gallons)",
+      "source_label": "Electric water heater limits (up to 55 gallons)"
+    },
+    "electrical service upgrade to 200a": {
+      "alias_source_keys": [],
+      "canonical_key": "electrical service upgrade to 200a",
+      "canonical_label": "Electrical service upgrade to 200A",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Upgrading to 200A service is part of supporting a new laundry location.",
+      "source_key": "electrical service upgrade to 200a",
+      "source_label": "Electrical service upgrade to 200A"
+    },
+    "electronic hose shut-off valves (amp-draw sensing)": {
+      "alias_source_keys": [],
+      "canonical_key": "electronic hose shut-off valves (amp-draw sensing)",
+      "canonical_label": "electronic hose shut-off valves (amp-draw sensing)",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7",
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Electronic hose shutoffs are leak-prevention devices that support washer safety and upkeep.",
+      "source_key": "electronic hose shut-off valves (amp-draw sensing)",
+      "source_label": "electronic hose shut-off valves (amp-draw sensing)"
+    },
+    "energy efficiency comparison (compressor vs elements)": {
+      "alias_source_keys": [],
+      "canonical_key": "energy efficiency comparison (compressor vs elements)",
+      "canonical_label": "energy efficiency comparison (compressor vs elements)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "This compares compressor-based heat-pump operation with resistance elements in a heat pump water heater.",
+      "source_key": "energy efficiency comparison (compressor vs elements)",
+      "source_label": "energy efficiency comparison (compressor vs elements)"
+    },
+    "evaporator coil": {
+      "alias_source_keys": [],
+      "canonical_key": "evaporator coil",
+      "canonical_label": "Evaporator coil",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "The evaporator coil is a refrigerator maintenance component.",
+      "source_key": "evaporator coil",
+      "source_label": "Evaporator coil"
+    },
+    "evaporator fan motor": {
+      "alias_source_keys": [],
+      "canonical_key": "evaporator fan motor",
+      "canonical_label": "Evaporator fan motor",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "The evaporator fan motor is a refrigerator service part within appliance maintenance.",
+      "source_key": "evaporator fan motor",
+      "source_label": "Evaporator fan motor"
+    },
+    "final connections": {
+      "alias_source_keys": [],
+      "canonical_key": "final connections",
+      "canonical_label": "final connections",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc",
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "Final connections for radiator valves often involve finishing pipe and valve hookups.",
+      "source_key": "final connections",
+      "source_label": "final connections"
+    },
+    "finish carpentry: maple trim and paneled look": {
+      "alias_source_keys": [],
+      "canonical_key": "finish carpentry: maple trim and paneled look",
+      "canonical_label": "Finish carpentry: maple trim and paneled look",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "The finish carpentry supports the new washer/dryer closet installation.",
+      "source_key": "finish carpentry: maple trim and paneled look",
+      "source_label": "Finish carpentry: maple trim and paneled look"
+    },
+    "first 3-4 threads": {
+      "alias_source_keys": [],
+      "canonical_key": "first 3-4 threads",
+      "canonical_label": "first 3-4 threads",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Backing off the first few threads is a valve-fitting preparation step.",
+      "source_key": "first 3-4 threads",
+      "source_label": "first 3-4 threads"
+    },
+    "first-floor laundry goal": {
+      "alias_source_keys": [],
+      "canonical_key": "first-floor laundry goal",
+      "canonical_label": "First-floor laundry goal",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "A first-floor laundry goal is the overall relocation objective.",
+      "source_key": "first-floor laundry goal",
+      "source_label": "First-floor laundry goal"
+    },
+    "fittings preparation and cleaning": {
+      "alias_source_keys": [],
+      "canonical_key": "fittings preparation and cleaning",
+      "canonical_label": "fittings preparation and cleaning",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-copper-pipe-fabrication-d9d2911b",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Cleaning and preparing fittings is part of washing-machine copper plumbing work.",
+      "source_key": "fittings preparation and cleaning",
+      "source_label": "fittings preparation and cleaning"
+    },
+    "five-year replacement interval for hoses": {
+      "alias_source_keys": [],
+      "canonical_key": "five-year replacement interval for hoses",
+      "canonical_label": "Five-year replacement interval for hoses",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Replacing hoses on a five-year interval is routine laundry equipment maintenance.",
+      "source_key": "five-year replacement interval for hoses",
+      "source_label": "Five-year replacement interval for hoses"
+    },
+    "flange": {
+      "alias_source_keys": [],
+      "canonical_key": "flange",
+      "canonical_label": "flange",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "A flange is a disposer component involved in repair or replacement.",
+      "source_key": "flange",
+      "source_label": "flange"
+    },
+    "float switch": {
+      "alias_source_keys": [],
+      "canonical_key": "float switch",
+      "canonical_label": "Float switch",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A float switch is a dishwasher safety/control component covered in appliance care.",
+      "source_key": "float switch",
+      "source_label": "Float switch"
+    },
+    "fluxing copper pipe": {
+      "alias_source_keys": [],
+      "canonical_key": "fluxing copper pipe",
+      "canonical_label": "fluxing copper pipe",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-copper-pipe-fabrication-d9d2911b",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Fluxing copper pipe is a core step in copper plumbing for washer hookups.",
+      "source_key": "fluxing copper pipe",
+      "source_label": "fluxing copper pipe"
+    },
+    "foreign objects (fork, turkey pin)": {
+      "alias_source_keys": [],
+      "canonical_key": "foreign objects (fork, turkey pin)",
+      "canonical_label": "foreign objects (fork, turkey pin)",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Foreign objects causing jams are a standard disposer repair issue.",
+      "source_key": "foreign objects (fork, turkey pin)",
+      "source_label": "foreign objects (fork, turkey pin)"
+    },
+    "framing rough opening for a new washer/dryer closet": {
+      "alias_source_keys": [],
+      "canonical_key": "framing rough opening for a new washer/dryer closet",
+      "canonical_label": "Framing rough opening for a new washer/dryer closet",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Framing a rough opening for a washer/dryer closet is directly about relocating laundry.",
+      "source_key": "framing rough opening for a new washer/dryer closet",
+      "source_label": "Framing rough opening for a new washer/dryer closet"
+    },
+    "front-loader vibration considerations": {
+      "alias_source_keys": [
+        "washer vibration and vibration pads"
+      ],
+      "canonical_key": "front-loader vibration considerations",
+      "canonical_label": "front-loader vibration considerations",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Front-loader vibration considerations correspond to washer vibration control and pads.",
+      "source_key": "front-loader vibration considerations",
+      "source_label": "front-loader vibration considerations"
+    },
+    "front-loading efficiency: water and electricity savings": {
+      "alias_source_keys": [],
+      "canonical_key": "front-loading efficiency: water and electricity savings",
+      "canonical_label": "Front-loading efficiency: water and electricity savings",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Energy savings from front-loading washers are presented as appliance performance/maintenance information.",
+      "source_key": "front-loading efficiency: water and electricity savings",
+      "source_label": "Front-loading efficiency: water and electricity savings"
+    },
+    "furnace lifespan and preventive maintenance": {
+      "alias_source_keys": [],
+      "canonical_key": "furnace lifespan and preventive maintenance",
+      "canonical_label": "Furnace lifespan and preventive maintenance",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Furnace lifespan and preventive maintenance are direct furnace care topics.",
+      "source_key": "furnace lifespan and preventive maintenance",
+      "source_label": "Furnace lifespan and preventive maintenance"
+    },
+    "furnace safety devices and sensors": {
+      "alias_source_keys": [],
+      "canonical_key": "furnace safety devices and sensors",
+      "canonical_label": "Furnace safety devices and sensors",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-furnace-care-0ac9d095",
+        "family-combustion-safety-c48e81ff"
+      ],
+      "rationale": "Furnace safety devices and sensors relate to both routine upkeep and combustion safety.",
+      "source_key": "furnace safety devices and sensors",
+      "source_label": "Furnace safety devices and sensors"
+    },
+    "gas burner and combustion": {
+      "alias_source_keys": [],
+      "canonical_key": "gas burner and combustion",
+      "canonical_label": "Gas burner and combustion",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-furnace-care-0ac9d095",
+        "family-combustion-safety-c48e81ff"
+      ],
+      "rationale": "This is a furnace burner and combustion maintenance topic, fitting both upkeep and combustion-safety guidance.",
+      "source_key": "gas burner and combustion",
+      "source_label": "Gas burner and combustion"
+    },
+    "gas range": {
+      "alias_source_keys": [],
+      "canonical_key": "gas range",
+      "canonical_label": "Gas range",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A gas range is a kitchen appliance covered under appliance maintenance.",
+      "source_key": "gas range",
+      "source_label": "Gas range"
+    },
+    "gas water heater sizing up to 50 gallons": {
+      "alias_source_keys": [],
+      "canonical_key": "gas water heater sizing up to 50 gallons",
+      "canonical_label": "Gas water heater sizing up to 50 gallons",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "This topic is about gas water-heater sizing and regulatory limits, which falls under selection and sizing.",
+      "source_key": "gas water heater sizing up to 50 gallons",
+      "source_label": "Gas water heater sizing up to 50 gallons"
+    },
+    "gasket/seal maintenance": {
+      "alias_source_keys": [],
+      "canonical_key": "gasket/seal maintenance",
+      "canonical_label": "Gasket/seal maintenance",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Gasket and seal maintenance on a refrigerator is routine kitchen appliance care.",
+      "source_key": "gasket/seal maintenance",
+      "source_label": "Gasket/seal maintenance"
+    },
+    "glass cleanup with wet-dry vac": {
+      "alias_source_keys": [],
+      "canonical_key": "glass cleanup with wet-dry vac",
+      "canonical_label": "Glass cleanup with wet-dry vac",
+      "confidence": 0.62,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Cleaning up broken glass with a wet-dry vac is a general appliance-area cleanup task associated with kitchen appliance maintenance.",
+      "source_key": "glass cleanup with wet-dry vac",
+      "source_label": "Glass cleanup with wet-dry vac"
+    },
+    "glass-lined steel tank": {
+      "alias_source_keys": [],
+      "canonical_key": "glass-lined steel tank",
+      "canonical_label": "glass-lined steel tank",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "A glass-lined steel tank is a component relevant to water-heater construction in a heat-pump water-heater context.",
+      "source_key": "glass-lined steel tank",
+      "source_label": "glass-lined steel tank"
+    },
+    "he detergent requirement for he washers": {
+      "alias_source_keys": [],
+      "canonical_key": "he detergent requirement for he washers",
+      "canonical_label": "HE detergent requirement for HE washers",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Using HE detergent is part of maintaining proper washer performance and care.",
+      "source_key": "he detergent requirement for he washers",
+      "source_label": "HE detergent requirement for HE washers"
+    },
+    "heat exchanger": {
+      "alias_source_keys": [],
+      "canonical_key": "heat exchanger",
+      "canonical_label": "Heat exchanger",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-furnace-care-0ac9d095",
+        "family-combustion-safety-c48e81ff"
+      ],
+      "rationale": "A heat exchanger is a furnace component tied to routine care and combustion safety checks.",
+      "source_key": "heat exchanger",
+      "source_label": "Heat exchanger"
+    },
+    "heat pump principle (air-to-water)": {
+      "alias_source_keys": [],
+      "canonical_key": "heat pump principle (air-to-water)",
+      "canonical_label": "heat pump principle (air-to-water)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "This directly describes the operating principle of a heat-pump water heater.",
+      "source_key": "heat pump principle (air-to-water)",
+      "source_label": "heat pump principle (air-to-water)"
+    },
+    "heating element": {
+      "alias_source_keys": [],
+      "canonical_key": "heating element",
+      "canonical_label": "Heating element",
+      "confidence": 0.8,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A heating element in a dishwasher is an internal appliance part covered by kitchen appliance maintenance.",
+      "source_key": "heating element",
+      "source_label": "Heating element"
+    },
+    "high-limit thermostat": {
+      "alias_source_keys": [],
+      "canonical_key": "high-limit thermostat",
+      "canonical_label": "High-limit thermostat",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A high-limit thermostat is a safety/control component discussed in oven and range upkeep.",
+      "source_key": "high-limit thermostat",
+      "source_label": "High-limit thermostat"
+    },
+    "high-temperature self-clean cycle": {
+      "alias_source_keys": [],
+      "canonical_key": "high-temperature self-clean cycle",
+      "canonical_label": "High-temperature self-clean cycle",
+      "confidence": 0.76,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "The self-clean cycle is a range/oven maintenance feature within kitchen appliance care.",
+      "source_key": "high-temperature self-clean cycle",
+      "source_label": "High-temperature self-clean cycle"
+    },
+    "homeowner vs hvac technician tasks": {
+      "alias_source_keys": [],
+      "canonical_key": "homeowner vs hvac technician tasks",
+      "canonical_label": "Homeowner vs HVAC technician tasks",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "This distinguishes homeowner tasks from HVAC technician tasks in furnace maintenance.",
+      "source_key": "homeowner vs hvac technician tasks",
+      "source_label": "Homeowner vs HVAC technician tasks"
+    },
+    "hose pressurization only when washer runs": {
+      "alias_source_keys": [],
+      "canonical_key": "hose pressurization only when washer runs",
+      "canonical_label": "hose pressurization only when washer runs",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f",
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Pressurizing hoses only when the washer runs reduces plumbing stress and leak risk.",
+      "source_key": "hose pressurization only when washer runs",
+      "source_label": "hose pressurization only when washer runs"
+    },
+    "hose reinforcement and outer casing": {
+      "alias_source_keys": [],
+      "canonical_key": "hose reinforcement and outer casing",
+      "canonical_label": "hose reinforcement and outer casing",
+      "confidence": 0.87,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Reinforced hose construction is a washer plumbing upgrade aimed at preventing failures and leaks.",
+      "source_key": "hose reinforcement and outer casing",
+      "source_label": "hose reinforcement and outer casing"
+    },
+    "hose shut-off devices": {
+      "alias_source_keys": [],
+      "canonical_key": "hose shut-off devices",
+      "canonical_label": "hose shut-off devices",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Hose shut-off devices are leak-prevention components for washer plumbing.",
+      "source_key": "hose shut-off devices",
+      "source_label": "hose shut-off devices"
+    },
+    "hot and cold water supply lines": {
+      "alias_source_keys": [
+        "washing machine hot and cold supply lines"
+      ],
+      "canonical_key": "hot and cold water supply lines",
+      "canonical_label": "hot and cold water supply lines",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f",
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "Hot and cold washer supply lines match the supplied alias and relate to plumbing hookup work.",
+      "source_key": "hot and cold water supply lines",
+      "source_label": "hot and cold water supply lines"
+    },
+    "hybrid heat-pump (energy-saving) water heaters": {
+      "alias_source_keys": [],
+      "canonical_key": "hybrid heat-pump (energy-saving) water heaters",
+      "canonical_label": "Hybrid heat-pump (energy-saving) water heaters",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476",
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "Hybrid heat-pump water heaters are a water-heating option and a specific heat-pump category.",
+      "source_key": "hybrid heat-pump (energy-saving) water heaters",
+      "source_label": "Hybrid heat-pump (energy-saving) water heaters"
+    },
+    "hybrid mode for efficiency": {
+      "alias_source_keys": [],
+      "canonical_key": "hybrid mode for efficiency",
+      "canonical_label": "hybrid mode for efficiency",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Hybrid mode is an operating mode of a heat-pump water heater for efficiency.",
+      "source_key": "hybrid mode for efficiency",
+      "source_label": "hybrid mode for efficiency"
+    },
+    "ice-maker water line": {
+      "alias_source_keys": [],
+      "canonical_key": "ice-maker water line",
+      "canonical_label": "Ice-maker water line",
+      "confidence": 0.66,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "An ice-maker water line is a small appliance water connection and part of kitchen appliance maintenance.",
+      "source_key": "ice-maker water line",
+      "source_label": "Ice-maker water line"
+    },
+    "immersion heating elements (top and bottom)": {
+      "alias_source_keys": [],
+      "canonical_key": "immersion heating elements (top and bottom)",
+      "canonical_label": "immersion heating elements (top and bottom)",
+      "confidence": 0.85,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Immersion heating elements are part of a heat-pump water heater’s hybrid heating system.",
+      "source_key": "immersion heating elements (top and bottom)",
+      "source_label": "immersion heating elements (top and bottom)"
+    },
+    "impact of regulations on installation location": {
+      "alias_source_keys": [],
+      "canonical_key": "impact of regulations on installation location",
+      "canonical_label": "Impact of regulations on installation location",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5",
+        "family-water-heater-venting-4036c5df"
+      ],
+      "rationale": "Installation-location impacts from regulations are tied to water-heater choice and venting constraints.",
+      "source_key": "impact of regulations on installation location",
+      "source_label": "Impact of regulations on installation location"
+    },
+    "insulation requirements for small gas water heaters": {
+      "alias_source_keys": [],
+      "canonical_key": "insulation requirements for small gas water heaters",
+      "canonical_label": "Insulation requirements for small gas water heaters",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "Insulation requirements for small gas water heaters are regulatory selection and sizing considerations.",
+      "source_key": "insulation requirements for small gas water heaters",
+      "source_label": "Insulation requirements for small gas water heaters"
+    },
+    "jam clearing": {
+      "alias_source_keys": [],
+      "canonical_key": "jam clearing",
+      "canonical_label": "jam clearing",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Jam clearing is the core task in garbage disposer repair.",
+      "source_key": "jam clearing",
+      "source_label": "jam clearing"
+    },
+    "leak sensors for floor detection": {
+      "alias_source_keys": [],
+      "canonical_key": "leak sensors for floor detection",
+      "canonical_label": "leak sensors for floor detection",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Floor leak sensors are a safety measure to detect washer leaks before damage spreads.",
+      "source_key": "leak sensors for floor detection",
+      "source_label": "leak sensors for floor detection"
+    },
+    "leveling a washing machine": {
+      "alias_source_keys": [],
+      "canonical_key": "leveling a washing machine",
+      "canonical_label": "leveling a washing machine",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Leveling a washing machine is done to reduce vibration and prevent damage.",
+      "source_key": "leveling a washing machine",
+      "source_label": "leveling a washing machine"
+    },
+    "leveling legs": {
+      "alias_source_keys": [],
+      "canonical_key": "leveling legs",
+      "canonical_label": "leveling legs",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Leveling legs are part of washer stabilization and vibration control.",
+      "source_key": "leveling legs",
+      "source_label": "leveling legs"
+    },
+    "lifespan of common water heaters (7-10 years)": {
+      "alias_source_keys": [],
+      "canonical_key": "lifespan of common water heaters (7-10 years)",
+      "canonical_label": "Lifespan of common water heaters (7-10 years)",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "Service life of common water heaters is a comparison factor when selecting a replacement.",
+      "source_key": "lifespan of common water heaters (7-10 years)",
+      "source_label": "Lifespan of common water heaters (7-10 years)"
+    },
+    "locking ring": {
+      "alias_source_keys": [],
+      "canonical_key": "locking ring",
+      "canonical_label": "locking ring",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "The locking ring is a disposer mounting part handled during disposer repair work.",
+      "source_key": "locking ring",
+      "source_label": "locking ring"
+    },
+    "lockout of main breaker during electrical work": {
+      "alias_source_keys": [],
+      "canonical_key": "lockout of main breaker during electrical work",
+      "canonical_label": "Lockout of main breaker during electrical work",
+      "confidence": 0.79,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be",
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Locking out the main breaker is an electrical safety step during laundry relocation work.",
+      "source_key": "lockout of main breaker during electrical work",
+      "source_label": "Lockout of main breaker during electrical work"
+    },
+    "maintenance timing (fall)": {
+      "alias_source_keys": [],
+      "canonical_key": "maintenance timing (fall)",
+      "canonical_label": "Maintenance timing (fall)",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Fall is simply the seasonal timing for furnace maintenance.",
+      "source_key": "maintenance timing (fall)",
+      "source_label": "Maintenance timing (fall)"
+    },
+    "making up connections": {
+      "alias_source_keys": [
+        "final connections"
+      ],
+      "canonical_key": "making up connections",
+      "canonical_label": "making up connections",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Making up connections is the final-connection step in thermostatic radiator valve installation.",
+      "source_key": "making up connections",
+      "source_label": "making up connections"
+    },
+    "manual rotation of impeller": {
+      "alias_source_keys": [],
+      "canonical_key": "manual rotation of impeller",
+      "canonical_label": "manual rotation of impeller",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Manually rotating the impeller is a standard disposer-jam clearing technique.",
+      "source_key": "manual rotation of impeller",
+      "source_label": "manual rotation of impeller"
+    },
+    "mineral buildup and efficiency loss": {
+      "alias_source_keys": [],
+      "canonical_key": "mineral buildup and efficiency loss",
+      "canonical_label": "mineral buildup and efficiency loss",
+      "confidence": 0.81,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Mineral buildup and efficiency loss are performance concerns in a heat-pump water heater.",
+      "source_key": "mineral buildup and efficiency loss",
+      "source_label": "mineral buildup and efficiency loss"
+    },
+    "minimum insulation thickness (2 inches, 4 inches near heat)": {
+      "alias_source_keys": [],
+      "canonical_key": "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "canonical_label": "Minimum insulation thickness (2 inches, 4 inches near heat)",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "Insulation-thickness minimums are installation/regulatory criteria for water-heater selection and compliance.",
+      "source_key": "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "source_label": "Minimum insulation thickness (2 inches, 4 inches near heat)"
+    },
+    "motor operation": {
+      "alias_source_keys": [],
+      "canonical_key": "motor operation",
+      "canonical_label": "motor operation",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Motor operation is part of diagnosing and restoring garbage disposer function.",
+      "source_key": "motor operation",
+      "source_label": "motor operation"
+    },
+    "needle-nose pliers": {
+      "alias_source_keys": [],
+      "canonical_key": "needle-nose pliers",
+      "canonical_label": "needle-nose pliers",
+      "confidence": 0.7,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Needle-nose pliers are a tool used during disposer jam-clearing repair.",
+      "source_key": "needle-nose pliers",
+      "source_label": "needle-nose pliers"
+    },
+    "nipple": {
+      "alias_source_keys": [],
+      "canonical_key": "nipple",
+      "canonical_label": "nipple",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "A nipple is a pipe fitting handled when dismantling and rebuilding radiator valve hardware.",
+      "source_key": "nipple",
+      "source_label": "nipple"
+    },
+    "no venting for electric heaters": {
+      "alias_source_keys": [],
+      "canonical_key": "no venting for electric heaters",
+      "canonical_label": "no venting for electric heaters",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476",
+        "family-water-heater-venting-4036c5df"
+      ],
+      "rationale": "Electric heat-pump water heaters do not need combustion venting, which is a venting-related point.",
+      "source_key": "no venting for electric heaters",
+      "source_label": "no venting for electric heaters"
+    },
+    "no-arch venting considerations for heat pumps": {
+      "alias_source_keys": [],
+      "canonical_key": "no-arch venting considerations for heat pumps",
+      "canonical_label": "no-arch venting considerations for heat pumps",
+      "confidence": 0.74,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "This appears to be a heat-pump ventilation/airflow note rather than a different topic, so it stays within heat-pump water heaters.",
+      "source_key": "no-arch venting considerations for heat pumps",
+      "source_label": "no-arch venting considerations for heat pumps"
+    },
+    "old work": {
+      "alias_source_keys": [],
+      "canonical_key": "old work",
+      "canonical_label": "old work",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Refers to removing old valve hardware during radiator valve replacement.",
+      "source_key": "old work",
+      "source_label": "old work"
+    },
+    "on-demand/tankless water heaters acceptance and usage": {
+      "alias_source_keys": [],
+      "canonical_key": "on-demand/tankless water heaters acceptance and usage",
+      "canonical_label": "On-demand/tankless water heaters acceptance and usage",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "Describes tankless water heater acceptance and replacement choices.",
+      "source_key": "on-demand/tankless water heaters acceptance and usage",
+      "source_label": "On-demand/tankless water heaters acceptance and usage"
+    },
+    "oven cleaning": {
+      "alias_source_keys": [
+        "self-cleaning oven"
+      ],
+      "canonical_key": "oven cleaning",
+      "canonical_label": "Oven cleaning",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Self-cleaning ovens are part of normal oven maintenance.",
+      "source_key": "oven cleaning",
+      "source_label": "Oven cleaning"
+    },
+    "overload switch": {
+      "alias_source_keys": [],
+      "canonical_key": "overload switch",
+      "canonical_label": "overload switch",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "An overload switch is part of disposer jam and reset troubleshooting.",
+      "source_key": "overload switch",
+      "source_label": "overload switch"
+    },
+    "panel space and circuit planning": {
+      "alias_source_keys": [],
+      "canonical_key": "panel space and circuit planning",
+      "canonical_label": "Panel space and circuit planning",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Panel space and circuit planning is needed when relocating laundry equipment.",
+      "source_key": "panel space and circuit planning",
+      "source_label": "Panel space and circuit planning"
+    },
+    "pipe dope": {
+      "alias_source_keys": [],
+      "canonical_key": "pipe dope",
+      "canonical_label": "pipe dope",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc",
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "Pipe dope is used in valve and plumbing thread sealing work.",
+      "source_key": "pipe dope",
+      "source_label": "pipe dope"
+    },
+    "pocket items removal (keys, coins, etc.)": {
+      "alias_source_keys": [],
+      "canonical_key": "pocket items removal (keys, coins, etc.)",
+      "canonical_label": "Pocket items removal (keys, coins, etc.)",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Removing pocket items is routine washer care to prevent damage.",
+      "source_key": "pocket items removal (keys, coins, etc.)",
+      "source_label": "Pocket items removal (keys, coins, etc.)"
+    },
+    "radiator cover": {
+      "alias_source_keys": [],
+      "canonical_key": "radiator cover",
+      "canonical_label": "radiator cover",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "A radiator cover is relevant to installing and servicing radiator valves.",
+      "source_key": "radiator cover",
+      "source_label": "radiator cover"
+    },
+    "refrigerant cycle and compressor (approx. 700 w)": {
+      "alias_source_keys": [],
+      "canonical_key": "refrigerant cycle and compressor (approx. 700 w)",
+      "canonical_label": "refrigerant cycle and compressor (approx. 700 W)",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "This is the compressor/refrigerant cycle of a heat pump water heater.",
+      "source_key": "refrigerant cycle and compressor (approx. 700 w)",
+      "source_label": "refrigerant cycle and compressor (approx. 700 W)"
+    },
+    "replacement rules apply only to new systems": {
+      "alias_source_keys": [],
+      "canonical_key": "replacement rules apply only to new systems",
+      "canonical_label": "Replacement rules apply only to new systems",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "The statement concerns regulatory limits affecting water heater replacement decisions.",
+      "source_key": "replacement rules apply only to new systems",
+      "source_label": "Replacement rules apply only to new systems"
+    },
+    "replacing air filters": {
+      "alias_source_keys": [],
+      "canonical_key": "replacing air filters",
+      "canonical_label": "Replacing air filters",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Replacing air filters is standard furnace maintenance.",
+      "source_key": "replacing air filters",
+      "source_label": "Replacing air filters"
+    },
+    "reset button": {
+      "alias_source_keys": [],
+      "canonical_key": "reset button",
+      "canonical_label": "reset button",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "The reset button is used when recovering a jammed disposer.",
+      "source_key": "reset button",
+      "source_label": "reset button"
+    },
+    "return air pathway": {
+      "alias_source_keys": [],
+      "canonical_key": "return air pathway",
+      "canonical_label": "Return air pathway",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-furnace-care-0ac9d095"
+      ],
+      "rationale": "Return air pathways are part of furnace airflow maintenance.",
+      "source_key": "return air pathway",
+      "source_label": "Return air pathway"
+    },
+    "reuse of existing circuits vs new upstairs service": {
+      "alias_source_keys": [],
+      "canonical_key": "reuse of existing circuits vs new upstairs service",
+      "canonical_label": "Reuse of existing circuits vs new upstairs service",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "It addresses whether existing circuits can be reused for a relocated laundry setup.",
+      "source_key": "reuse of existing circuits vs new upstairs service",
+      "source_label": "Reuse of existing circuits vs new upstairs service"
+    },
+    "rinse aid": {
+      "alias_source_keys": [],
+      "canonical_key": "rinse aid",
+      "canonical_label": "Rinse aid",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Rinse aid is a dishwasher maintenance and performance item.",
+      "source_key": "rinse aid",
+      "source_label": "Rinse aid"
+    },
+    "rocklath/plaster wall considerations": {
+      "alias_source_keys": [],
+      "canonical_key": "rocklath/plaster wall considerations",
+      "canonical_label": "RockLath/plaster wall considerations",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Rock-lath and plaster wall issues come up during laundry closet conversion.",
+      "source_key": "rocklath/plaster wall considerations",
+      "source_label": "RockLath/plaster wall considerations"
+    },
+    "routing sensor through opening": {
+      "alias_source_keys": [],
+      "canonical_key": "routing sensor through opening",
+      "canonical_label": "routing sensor through opening",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Routing the sensor through an opening is part of thermostatic radiator valve installation.",
+      "source_key": "routing sensor through opening",
+      "source_label": "routing sensor through opening"
+    },
+    "rubber hose wear and failure risks": {
+      "alias_source_keys": [],
+      "canonical_key": "rubber hose wear and failure risks",
+      "canonical_label": "rubber hose wear and failure risks",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7",
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Rubber hose wear is a maintenance issue with leak-risk safety implications.",
+      "source_key": "rubber hose wear and failure risks",
+      "source_label": "rubber hose wear and failure risks"
+    },
+    "rubber to stainless braided hoses": {
+      "alias_source_keys": [
+        "stainless steel braided hoses",
+        "stainless steel braided supply hoses",
+        "stainless steel braided washer hoses"
+      ],
+      "canonical_key": "rubber to stainless braided hoses",
+      "canonical_label": "rubber to stainless braided hoses",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "These are wording variants for stainless braided washer supply hoses.",
+      "source_key": "rubber to stainless braided hoses",
+      "source_label": "rubber to stainless braided hoses"
+    },
+    "rubber washer hoses": {
+      "alias_source_keys": [],
+      "canonical_key": "rubber washer hoses",
+      "canonical_label": "rubber washer hoses",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Rubber washer hoses are a routine maintenance and replacement topic.",
+      "source_key": "rubber washer hoses",
+      "source_label": "rubber washer hoses"
+    },
+    "seating wrench on deck": {
+      "alias_source_keys": [],
+      "canonical_key": "seating wrench on deck",
+      "canonical_label": "seating wrench on deck",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Seating the wrench on the disposer drive is part of clearing a jam.",
+      "source_key": "seating wrench on deck",
+      "source_label": "seating wrench on deck"
+    },
+    "self-cleaning oven": {
+      "alias_source_keys": [
+        "oven cleaning"
+      ],
+      "canonical_key": "self-cleaning oven",
+      "canonical_label": "Self-cleaning oven",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Self-cleaning oven is a direct wording variant of oven cleaning.",
+      "source_key": "self-cleaning oven",
+      "source_label": "Self-cleaning oven"
+    },
+    "self-piercing valve": {
+      "alias_source_keys": [],
+      "canonical_key": "self-piercing valve",
+      "canonical_label": "Self-piercing valve",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A self-piercing valve is an ice-maker water-line shutoff component.",
+      "source_key": "self-piercing valve",
+      "source_label": "Self-piercing valve"
+    },
+    "sensor element": {
+      "alias_source_keys": [],
+      "canonical_key": "sensor element",
+      "canonical_label": "sensor element",
+      "confidence": 0.79,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "The sensor element is a valve component in thermostatic radiator work.",
+      "source_key": "sensor element",
+      "source_label": "sensor element"
+    },
+    "shut-off valve": {
+      "alias_source_keys": [],
+      "canonical_key": "shut-off valve",
+      "canonical_label": "Shut-off valve",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Shut-off valves are used for appliance water supply isolation, including ice makers and laundry.",
+      "source_key": "shut-off valve",
+      "source_label": "Shut-off valve"
+    },
+    "shut-off valves and water main shutoff": {
+      "alias_source_keys": [],
+      "canonical_key": "shut-off valves and water main shutoff",
+      "canonical_label": "shut-off valves and water main shutoff",
+      "confidence": 0.87,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Main shutoff and service valves are part of heat pump water heater installation.",
+      "source_key": "shut-off valves and water main shutoff",
+      "source_label": "shut-off valves and water main shutoff"
+    },
+    "single strand wicking": {
+      "alias_source_keys": [],
+      "canonical_key": "single strand wicking",
+      "canonical_label": "single strand wicking",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Wicking is a sealing step when dismantling and installing radiator valves.",
+      "source_key": "single strand wicking",
+      "source_label": "single strand wicking"
+    },
+    "smart appliance diagnostics and audible diagnosis apps": {
+      "alias_source_keys": [],
+      "canonical_key": "smart appliance diagnostics and audible diagnosis apps",
+      "canonical_label": "Smart appliance diagnostics and audible diagnosis apps",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Smart diagnostics are a maintenance aid for laundry appliances.",
+      "source_key": "smart appliance diagnostics and audible diagnosis apps",
+      "source_label": "Smart appliance diagnostics and audible diagnosis apps"
+    },
+    "soldering copper fittings": {
+      "alias_source_keys": [],
+      "canonical_key": "soldering copper fittings",
+      "canonical_label": "soldering copper fittings",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "Soldering copper fittings is core copper pipe fabrication.",
+      "source_key": "soldering copper fittings",
+      "source_label": "soldering copper fittings"
+    },
+    "space constraints in basements and closets": {
+      "alias_source_keys": [],
+      "canonical_key": "space constraints in basements and closets",
+      "canonical_label": "Space constraints in basements and closets",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-water-heater-selection-8a22fef5"
+      ],
+      "rationale": "Space constraints affect water heater selection and replacement choices.",
+      "source_key": "space constraints in basements and closets",
+      "source_label": "Space constraints in basements and closets"
+    },
+    "splash guard": {
+      "alias_source_keys": [],
+      "canonical_key": "splash guard",
+      "canonical_label": "splash guard",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "A splash guard is a disposer component discussed during repair and operation.",
+      "source_key": "splash guard",
+      "source_label": "splash guard"
+    },
+    "spray arms": {
+      "alias_source_keys": [],
+      "canonical_key": "spray arms",
+      "canonical_label": "Spray arms",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Spray arms are a dishwasher maintenance component.",
+      "source_key": "spray arms",
+      "source_label": "Spray arms"
+    },
+    "spring-loaded mechanical shut-off lever": {
+      "alias_source_keys": [],
+      "canonical_key": "spring-loaded mechanical shut-off lever",
+      "canonical_label": "spring-loaded mechanical shut-off lever",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "A spring-loaded shutoff lever is a leak-prevention safety device for washers.",
+      "source_key": "spring-loaded mechanical shut-off lever",
+      "source_label": "spring-loaded mechanical shut-off lever"
+    },
+    "spud": {
+      "alias_source_keys": [],
+      "canonical_key": "spud",
+      "canonical_label": "spud",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "The spud is a fitting handled during radiator valve replacement.",
+      "source_key": "spud",
+      "source_label": "spud"
+    },
+    "spud wrench": {
+      "alias_source_keys": [],
+      "canonical_key": "spud wrench",
+      "canonical_label": "spud wrench",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "A spud wrench is a tool used for radiator valve hardware removal.",
+      "source_key": "spud wrench",
+      "source_label": "spud wrench"
+    },
+    "squaring the valve": {
+      "alias_source_keys": [],
+      "canonical_key": "squaring the valve",
+      "canonical_label": "squaring the valve",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Squaring the valve is a positioning step in radiator valve installation.",
+      "source_key": "squaring the valve",
+      "source_label": "squaring the valve"
+    },
+    "stainless steel braided hoses": {
+      "alias_source_keys": [
+        "stainless steel braided supply hoses",
+        "stainless steel braided washer hoses"
+      ],
+      "canonical_key": "stainless steel braided hoses",
+      "canonical_label": "stainless steel braided hoses",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "These are standard wording variants for braided washer supply hoses.",
+      "source_key": "stainless steel braided hoses",
+      "source_label": "stainless steel braided hoses"
+    },
+    "stainless steel braided supply hoses": {
+      "alias_source_keys": [
+        "stainless steel braided hoses",
+        "stainless steel braided washer hoses"
+      ],
+      "canonical_key": "stainless steel braided supply hoses",
+      "canonical_label": "stainless steel braided supply hoses",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "These labels refer to the same braided washer supply hoses.",
+      "source_key": "stainless steel braided supply hoses",
+      "source_label": "stainless steel braided supply hoses"
+    },
+    "stainless steel braided washer hoses": {
+      "alias_source_keys": [
+        "stainless steel braided hoses",
+        "stainless steel braided supply hoses"
+      ],
+      "canonical_key": "stainless steel braided washer hoses",
+      "canonical_label": "Stainless steel braided washer hoses",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "This is a wording variant for stainless braided washer hoses in maintenance.",
+      "source_key": "stainless steel braided washer hoses",
+      "source_label": "Stainless steel braided washer hoses"
+    },
+    "startup temperature (default 120°f)": {
+      "alias_source_keys": [],
+      "canonical_key": "startup temperature (default 120°f)",
+      "canonical_label": "startup temperature (default 120°F)",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "Startup temperature settings are part of heat pump water heater operation.",
+      "source_key": "startup temperature (default 120°f)",
+      "source_label": "startup temperature (default 120°F)"
+    },
+    "system readiness": {
+      "alias_source_keys": [],
+      "canonical_key": "system readiness",
+      "canonical_label": "system readiness",
+      "confidence": 0.34,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "This looks like a general setup/readiness step for washer plumbing rather than a distinct named topic.",
+      "source_key": "system readiness",
+      "source_label": "system readiness"
+    },
+    "t-fitting": {
+      "alias_source_keys": [],
+      "canonical_key": "t-fitting",
+      "canonical_label": "T-fitting",
+      "confidence": 0.31,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "A T-fitting is a plumbing connector, but here it is part of appliance water-line setup without a true alias match.",
+      "source_key": "t-fitting",
+      "source_label": "T-fitting"
+    },
+    "t-fitting for washer connection": {
+      "alias_source_keys": [],
+      "canonical_key": "t-fitting for washer connection",
+      "canonical_label": "T-fitting for washer connection",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f",
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "A washer T-fitting is a plumbing branch connection used in the copper hookup.",
+      "source_key": "t-fitting for washer connection",
+      "source_label": "T-fitting for washer connection"
+    },
+    "teeth of cutter wheel": {
+      "alias_source_keys": [
+        "cutter wheel"
+      ],
+      "canonical_key": "teeth of cutter wheel",
+      "canonical_label": "teeth of cutter wheel",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "The cutter wheel is the same disposer part referenced by the alias.",
+      "source_key": "teeth of cutter wheel",
+      "source_label": "teeth of cutter wheel"
+    },
+    "test run after clearing jam": {
+      "alias_source_keys": [],
+      "canonical_key": "test run after clearing jam",
+      "canonical_label": "test run after clearing jam",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "A post-clearance test run is part of disposer repair and verification.",
+      "source_key": "test run after clearing jam",
+      "source_label": "test run after clearing jam"
+    },
+    "testing water supply": {
+      "alias_source_keys": [],
+      "canonical_key": "testing water supply",
+      "canonical_label": "testing water supply",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Testing the water supply is a washer plumbing verification step.",
+      "source_key": "testing water supply",
+      "source_label": "testing water supply"
+    },
+    "thermostat relocation planning": {
+      "alias_source_keys": [],
+      "canonical_key": "thermostat relocation planning",
+      "canonical_label": "Thermostat relocation planning",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "This is planning for moving the washer/dryer location.",
+      "source_key": "thermostat relocation planning",
+      "source_label": "Thermostat relocation planning"
+    },
+    "thermostatic radiator valve installation": {
+      "alias_source_keys": [],
+      "canonical_key": "thermostatic radiator valve installation",
+      "canonical_label": "thermostatic radiator valve installation",
+      "confidence": 0.99,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "This directly names thermostatic radiator valve installation.",
+      "source_key": "thermostatic radiator valve installation",
+      "source_label": "thermostatic radiator valve installation"
+    },
+    "thread sealant": {
+      "alias_source_keys": [],
+      "canonical_key": "thread sealant",
+      "canonical_label": "thread sealant",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc",
+        "family-copper-pipe-fabrication-d9d2911b"
+      ],
+      "rationale": "Thread sealant is used during valve assembly and pipe sealing.",
+      "source_key": "thread sealant",
+      "source_label": "thread sealant"
+    },
+    "through-splash-guard wrench": {
+      "alias_source_keys": [],
+      "canonical_key": "through-splash-guard wrench",
+      "canonical_label": "through-splash-guard wrench",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "This is a disposer-access tool used during jam clearing.",
+      "source_key": "through-splash-guard wrench",
+      "source_label": "through-splash-guard wrench"
+    },
+    "timed water supply (two-and-a-half hours)": {
+      "alias_source_keys": [],
+      "canonical_key": "timed water supply (two-and-a-half hours)",
+      "canonical_label": "timed water supply (two-and-a-half hours)",
+      "confidence": 0.44,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Timed supply duration is about limiting leak exposure, but the term is too specific for aliasing.",
+      "source_key": "timed water supply (two-and-a-half hours)",
+      "source_label": "timed water supply (two-and-a-half hours)"
+    },
+    "top-loading agitator vs front-loading washer design": {
+      "alias_source_keys": [],
+      "canonical_key": "top-loading agitator vs front-loading washer design",
+      "canonical_label": "Top-loading agitator vs front-loading washer design",
+      "confidence": 0.41,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "This compares washer designs in a maintenance context, but it is not an alias.",
+      "source_key": "top-loading agitator vs front-loading washer design",
+      "source_label": "Top-loading agitator vs front-loading washer design"
+    },
+    "torque and leverage": {
+      "alias_source_keys": [],
+      "canonical_key": "torque and leverage",
+      "canonical_label": "torque and leverage",
+      "confidence": 0.79,
+      "family_ids": [
+        "family-garbage-disposer-repair-42a81a44"
+      ],
+      "rationale": "Torque and leverage are techniques used to free a jammed disposer.",
+      "source_key": "torque and leverage",
+      "source_label": "torque and leverage"
+    },
+    "two hot legs and a ground": {
+      "alias_source_keys": [],
+      "canonical_key": "two hot legs and a ground",
+      "canonical_label": "two hot legs and a ground",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476"
+      ],
+      "rationale": "This describes the heat-pump water heater electrical hookup.",
+      "source_key": "two hot legs and a ground",
+      "source_label": "two hot legs and a ground"
+    },
+    "unions for serviceability": {
+      "alias_source_keys": [],
+      "canonical_key": "unions for serviceability",
+      "canonical_label": "unions for serviceability",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Unions are serviceable water-heater connection hardware.",
+      "source_key": "unions for serviceability",
+      "source_label": "unions for serviceability"
+    },
+    "use of cedar shims and door jamb setup": {
+      "alias_source_keys": [],
+      "canonical_key": "use of cedar shims and door jamb setup",
+      "canonical_label": "Use of cedar shims and door jamb setup",
+      "confidence": 0.87,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Cedar shims and jamb setup are part of closet/opening preparation for relocation.",
+      "source_key": "use of cedar shims and door jamb setup",
+      "source_label": "Use of cedar shims and door jamb setup"
+    },
+    "using a level on the washer": {
+      "alias_source_keys": [],
+      "canonical_key": "using a level on the washer",
+      "canonical_label": "using a level on the washer",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Leveling the washer is a vibration-control and safety measure.",
+      "source_key": "using a level on the washer",
+      "source_label": "using a level on the washer"
+    },
+    "vacuum breaker and dip tube": {
+      "alias_source_keys": [],
+      "canonical_key": "vacuum breaker and dip tube",
+      "canonical_label": "vacuum breaker and dip tube",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-heat-pump-water-heaters-fc90d476",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Vacuum breaker, dip tube, and unions are water-connection parts on the heater.",
+      "source_key": "vacuum breaker and dip tube",
+      "source_label": "vacuum breaker and dip tube"
+    },
+    "valve body": {
+      "alias_source_keys": [],
+      "canonical_key": "valve body",
+      "canonical_label": "valve body",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "The valve body is a core thermostatic radiator valve component.",
+      "source_key": "valve body",
+      "source_label": "valve body"
+    },
+    "valve orientation (on/off)": {
+      "alias_source_keys": [],
+      "canonical_key": "valve orientation (on/off)",
+      "canonical_label": "valve orientation (on/off)",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Valve orientation on/off is part of washer supply valve installation.",
+      "source_key": "valve orientation (on/off)",
+      "source_label": "valve orientation (on/off)"
+    },
+    "vent routing for a dryer (external venting)": {
+      "alias_source_keys": [],
+      "canonical_key": "vent routing for a dryer (external venting)",
+      "canonical_label": "Vent routing for a dryer (external venting)",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-venting-8f112bf1"
+      ],
+      "rationale": "This is dryer exhaust routing to the exterior.",
+      "source_key": "vent routing for a dryer (external venting)",
+      "source_label": "Vent routing for a dryer (external venting)"
+    },
+    "washer and dryer placement in a closet": {
+      "alias_source_keys": [],
+      "canonical_key": "washer and dryer placement in a closet",
+      "canonical_label": "Washer and dryer placement in a closet",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "Placing the washer and dryer in a closet is the relocation task.",
+      "source_key": "washer and dryer placement in a closet",
+      "source_label": "Washer and dryer placement in a closet"
+    },
+    "washer circuit (20a, 120v)": {
+      "alias_source_keys": [],
+      "canonical_key": "washer circuit (20a, 120v)",
+      "canonical_label": "Washer circuit (20A, 120V)",
+      "confidence": 0.52,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "The washer circuit is electrical planning for the relocated laundry space, not a dryer-circuit alias.",
+      "source_key": "washer circuit (20a, 120v)",
+      "source_label": "Washer circuit (20A, 120V)"
+    },
+    "washer hose health and replacement": {
+      "alias_source_keys": [],
+      "canonical_key": "washer hose health and replacement",
+      "canonical_label": "Washer hose health and replacement",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Hose health and replacement are routine washer maintenance.",
+      "source_key": "washer hose health and replacement",
+      "source_label": "Washer hose health and replacement"
+    },
+    "washer leveling and adjustable legs": {
+      "alias_source_keys": [],
+      "canonical_key": "washer leveling and adjustable legs",
+      "canonical_label": "Washer leveling and adjustable legs",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f",
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Leveling legs are a maintenance adjustment for stable operation.",
+      "source_key": "washer leveling and adjustable legs",
+      "source_label": "Washer leveling and adjustable legs"
+    },
+    "washer overloading and load balance": {
+      "alias_source_keys": [],
+      "canonical_key": "washer overloading and load balance",
+      "canonical_label": "Washer overloading and load balance",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "Overloading and load balance are directly about preventing vibration and damage.",
+      "source_key": "washer overloading and load balance",
+      "source_label": "Washer overloading and load balance"
+    },
+    "washer vibration and vibration pads": {
+      "alias_source_keys": [],
+      "canonical_key": "washer vibration and vibration pads",
+      "canonical_label": "Washer vibration and vibration pads",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-laundry-safety-6fb651c7",
+        "family-laundry-maintenance-6d987b6f"
+      ],
+      "rationale": "Vibration pads and leveling are safety and stability measures.",
+      "source_key": "washer vibration and vibration pads",
+      "source_label": "Washer vibration and vibration pads"
+    },
+    "washing machine hot and cold supply lines": {
+      "alias_source_keys": [
+        "hot and cold water supply lines"
+      ],
+      "canonical_key": "washing machine hot and cold supply lines",
+      "canonical_label": "Washing machine hot and cold supply lines",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Hot and cold supply lines are the same as washing machine supply lines.",
+      "source_key": "washing machine hot and cold supply lines",
+      "source_label": "Washing machine hot and cold supply lines"
+    },
+    "washing machine shut-off valve": {
+      "alias_source_keys": [
+        "shut-off valve"
+      ],
+      "canonical_key": "washing machine shut-off valve",
+      "canonical_label": "washing machine shut-off valve",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-laundry-plumbing-ffaead8f",
+        "family-laundry-safety-6fb651c7"
+      ],
+      "rationale": "A washing machine shut-off valve is a shut-off valve used to control supply water.",
+      "source_key": "washing machine shut-off valve",
+      "source_label": "washing machine shut-off valve"
+    },
+    "water inlet": {
+      "alias_source_keys": [],
+      "canonical_key": "water inlet",
+      "canonical_label": "Water inlet",
+      "confidence": 0.45,
+      "family_ids": [
+        "family-kitchen-appliance-care-075b1023"
+      ],
+      "rationale": "Water inlet refers to dishwasher water-entry anatomy, but not a listed alias.",
+      "source_key": "water inlet",
+      "source_label": "Water inlet"
+    },
+    "water inlet filters": {
+      "alias_source_keys": [],
+      "canonical_key": "water inlet filters",
+      "canonical_label": "water inlet filters",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-laundry-maintenance-6d987b6f",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "Water inlet filters are maintained as part of washer water-supply service.",
+      "source_key": "water inlet filters",
+      "source_label": "water inlet filters"
+    },
+    "water shutoff valve box inside the wall": {
+      "alias_source_keys": [],
+      "canonical_key": "water shutoff valve box inside the wall",
+      "canonical_label": "Water shutoff valve box inside the wall",
+      "confidence": 0.81,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be",
+        "family-laundry-plumbing-ffaead8f"
+      ],
+      "rationale": "An in-wall shutoff box is part of rough-in plumbing for a relocated laundry area.",
+      "source_key": "water shutoff valve box inside the wall",
+      "source_label": "Water shutoff valve box inside the wall"
+    },
+    "wiring routes through ceilings with existing plumbing/vents": {
+      "alias_source_keys": [],
+      "canonical_key": "wiring routes through ceilings with existing plumbing/vents",
+      "canonical_label": "Wiring routes through ceilings with existing plumbing/vents",
+      "confidence": 0.69,
+      "family_ids": [
+        "family-laundry-relocation-0af1d4be"
+      ],
+      "rationale": "This is rough-in routing work associated with moving the laundry area.",
+      "source_key": "wiring routes through ceilings with existing plumbing/vents",
+      "source_label": "Wiring routes through ceilings with existing plumbing/vents"
+    },
+    "zip screws": {
+      "alias_source_keys": [],
+      "canonical_key": "zip screws",
+      "canonical_label": "zip screws",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-radiator-valve-work-e840e0bc"
+      ],
+      "rationale": "Zip screws are installation hardware used during thermostatic radiator valve work.",
+      "source_key": "zip screws",
+      "source_label": "zip screws"
+    }
+  },
+  "collection_id": "appliance-maintenance-and-repair",
+  "created_at": "2026-09-01T09:53:45.487610+00:00",
+  "display_label_prompt_version": 1,
+  "display_labels": {
+    "12-2 nm and 10-3 nm cable usage": "Laundry Cable Sizing",
+    "240v electrical supply and 30a circuit": "Water Heater Circuit",
+    "4,500-watt elements": "Heating Element Wattage",
+    "access panels for shutoffs": "Shutoff Access Panels",
+    "aging in place considerations": "Aging in Place",
+    "air filter maintenance": "Filter Maintenance",
+    "air filter orientation and airflow arrows": "Filter Orientation",
+    "air filter purpose and placement": "Filter Placement",
+    "allen wrench access": "Allen Wrench Access",
+    "annual dryer vent cleaning and maintenance": "Dryer Vent Cleaning",
+    "annual furnace maintenance": "Furnace Maintenance",
+    "app-detected vent issues and drain-hose diagnosis": "Vent Hose Diagnosis",
+    "back-of-unit water inlet connections": "Washer Inlet Connections",
+    "basement-room relocation implications for high-vented units": "High Vent Relocation",
+    "basic maintenance upgrades for laundry appliances": "Laundry Upgrades",
+    "bell hangers": "Bell Hangers",
+    "blower/fan operation": "Blower Fan Operation",
+    "box framing": "Box Framing",
+    "broomsticks as levers": "Broomstick Levers",
+    "burst-prevention for appliance hoses": "Hose Burst Prevention",
+    "chimney and flue considerations for higher-efficiency units": "Flue Considerations",
+    "chimney re-bricking when venting changes": "Chimney Rebricking",
+    "closet-to-laundry conversion feasibility": "Closet Laundry Conversion",
+    "code considerations for venting materials": "Venting Code Materials",
+    "coil vs smooth-top": "Coil vs Smooth Top",
+    "combustion air sources (indoor vs outdoor)": "Combustion Air Sources",
+    "combustion contaminants and clearance": "Combustion Clearance",
+    "combustion efficiency testing": "Combustion Efficiency Testing",
+    "condensate drainage and condensate pump": "Condensate Pump",
+    "condenser": "Refrigerator Condenser",
+    "condenser cleaning": "Condenser Cleaning",
+    "condensing gas water heaters and pvc venting": "Condensing Gas Venting",
+    "coordination of trades (electrician, carpenter)": "Trade Coordination",
+    "copper pipe installation": "Copper Pipe Installation",
+    "copper tubing": "Copper Tubing",
+    "cover plate": "Valve Cover Plate",
+    "cutter wheel": "Cutter Wheel",
+    "cutting copper pipe and pipe cutting": "Copper Pipe Cutting",
+    "default-off safety design": "Default Off Safety",
+    "differences between tank-type, tankless, and heat-pump systems": "Water Heater Types",
+    "discharge path": "Disposer Discharge Path",
+    "dishwasher": "Dishwasher Anatomy",
+    "dishwasher detergent": "Dishwasher Detergent",
+    "dishwasher discharge into disposer": "Dishwasher Disposer Drain",
+    "dishwasher filter": "Dishwasher Filter",
+    "dishwasher rack": "Dishwasher Rack",
+    "door swing changes and flush thresholds": "Door Swing Thresholds",
+    "downstream shut-off valves": "Downstream Shutoff Valves",
+    "drain and trap requirements for washer": "Washer Drain Trap",
+    "drain hose": "Dishwasher Drain Hose",
+    "draining and removing old heater": "Water Heater Removal",
+    "drilling a small hole for sensor": "Sensor Routing Hole",
+    "dryer circuit (30a, 240v)": "Dryer Circuit Planning",
+    "dryer lint hazards and lint filter maintenance": "Dryer Lint Safety",
+    "dryer vent diameter and standpipe compatibility": "Dryer Vent Sizing",
+    "dryer vent options: vinyl, aluminum, solid pipe": "Dryer Vent Materials",
+    "efficiency benchmarks (81.6% vs 97%)": "Furnace Efficiency Benchmarks",
+    "electric range": "Electric Range",
+    "electric water heater basics": "Electric Water Heater Basics",
+    "electric water heater limits (up to 55 gallons)": "Water Heater Capacity Limits",
+    "electrical service upgrade to 200a": "200A Service Upgrade",
+    "electronic hose shut-off valves (amp-draw sensing)": "Electronic Shutoff Valves",
+    "energy efficiency comparison (compressor vs elements)": "Heat Pump Efficiency",
+    "evaporator coil": "Evaporator Coil",
+    "evaporator fan motor": "Evaporator Fan Motor",
+    "final connections": "Final Connections",
+    "finish carpentry: maple trim and paneled look": "Maple Trim Finish",
+    "first 3-4 threads": "Thread Engagement",
+    "first-floor laundry goal": "First Floor Laundry",
+    "fittings preparation and cleaning": "Fittings Cleaning",
+    "five-year replacement interval for hoses": "Hose Replacement Interval",
+    "flange": "Disposer Flange",
+    "float switch": "Float Switch",
+    "fluxing copper pipe": "Copper Pipe Fluxing",
+    "foreign objects (fork, turkey pin)": "Disposer Foreign Objects",
+    "framing rough opening for a new washer/dryer closet": "Laundry Closet Framing",
+    "front-loader vibration considerations": "Front Loader Vibration",
+    "front-loading efficiency: water and electricity savings": "Front Loader Efficiency",
+    "furnace lifespan and preventive maintenance": "Furnace Care",
+    "furnace safety devices and sensors": "Furnace Safety Sensors",
+    "gas burner and combustion": "Combustion Safety",
+    "gas range": "Gas Range Care",
+    "gas water heater sizing up to 50 gallons": "Water Heater Capacity",
+    "gasket/seal maintenance": "Gasket Seal Care",
+    "glass cleanup with wet-dry vac": "Wet Dry Vac Cleanup",
+    "glass-lined steel tank": "Glass-Lined Steel Tank",
+    "he detergent requirement for he washers": "HE Detergent Use",
+    "heat exchanger": "Heat Exchanger",
+    "heat pump principle (air-to-water)": "Air-to-Water Heat Pump",
+    "heating element": "Heating Element",
+    "high-limit thermostat": "High-Limit Thermostat",
+    "high-temperature self-clean cycle": "Self-Clean Cycle",
+    "homeowner vs hvac technician tasks": "Homeowner Tasks",
+    "hose pressurization only when washer runs": "Pressure-Only Hoses",
+    "hose reinforcement and outer casing": "Reinforced Washer Hoses",
+    "hose shut-off devices": "Hose Shutoff Devices",
+    "hot and cold water supply lines": "Hot Cold Supply Lines",
+    "hybrid heat-pump (energy-saving) water heaters": "Hybrid Water Heaters",
+    "hybrid mode for efficiency": "Hybrid Efficiency Mode",
+    "ice-maker water line": "Ice Maker Water Line",
+    "immersion heating elements (top and bottom)": "Immersion Heating Elements",
+    "impact of regulations on installation location": "Installation Location Rules",
+    "insulation requirements for small gas water heaters": "Gas Water Heater Insulation",
+    "jam clearing": "Jam Clearing",
+    "leak sensors for floor detection": "Floor Leak Sensors",
+    "leveling a washing machine": "Washer Leveling",
+    "leveling legs": "Leveling Legs",
+    "lifespan of common water heaters (7-10 years)": "Water Heater Lifespan",
+    "locking ring": "Locking Ring",
+    "lockout of main breaker during electrical work": "Breaker Lockout",
+    "maintenance timing (fall)": "Fall Maintenance",
+    "making up connections": "Making Up Connections",
+    "manual rotation of impeller": "Impeller Rotation",
+    "mineral buildup and efficiency loss": "Mineral Buildup Loss",
+    "minimum insulation thickness (2 inches, 4 inches near heat)": "Insulation Thickness",
+    "motor operation": "Motor Operation",
+    "needle-nose pliers": "Needle Nose Pliers",
+    "nipple": "Radiator Nipple",
+    "no venting for electric heaters": "Electric Heater Venting",
+    "no-arch venting considerations for heat pumps": "Heat Pump Venting",
+    "old work": "Old Work Valve",
+    "on-demand/tankless water heaters acceptance and usage": "Tankless Water Heaters",
+    "oven cleaning": "Oven Self-Cleaning",
+    "overload switch": "Disposer Overload Switch",
+    "panel space and circuit planning": "Laundry Circuit Planning",
+    "pipe dope": "Pipe Dope Application",
+    "pocket items removal (keys, coins, etc.)": "Pocket Item Removal",
+    "radiator cover": "Radiator Cover",
+    "refrigerant cycle and compressor (approx. 700 w)": "Heat Pump Refrigerant Cycle",
+    "replacement rules apply only to new systems": "Replacement Rules",
+    "replacing air filters": "Air Filter Replacement",
+    "reset button": "Disposer Reset Button",
+    "return air pathway": "Return Air Pathway",
+    "reuse of existing circuits vs new upstairs service": "Upstairs Service Planning",
+    "rinse aid": "Rinse Aid",
+    "rocklath/plaster wall considerations": "Rock Lath Walls",
+    "routing sensor through opening": "Sensor Routing",
+    "rubber hose wear and failure risks": "Hose Failure Risks",
+    "rubber to stainless braided hoses": "Braided Hose Upgrade",
+    "rubber washer hoses": "Rubber Washer Hoses",
+    "seating wrench on deck": "Wrench Seating",
+    "self-cleaning oven": "Self Cleaning Oven",
+    "self-piercing valve": "Self Piercing Valve",
+    "sensor element": "Sensor Element",
+    "shut-off valve": "Shut Off Valve",
+    "shut-off valves and water main shutoff": "Main Shutoff Valves",
+    "single strand wicking": "Single Strand Wicking",
+    "smart appliance diagnostics and audible diagnosis apps": "Smart Diagnostics Apps",
+    "soldering copper fittings": "Copper Fitting Soldering",
+    "space constraints in basements and closets": "Basement Closet Constraints",
+    "splash guard": "Disposer Splash Guard",
+    "spray arms": "Dishwasher Spray Arms",
+    "spring-loaded mechanical shut-off lever": "Leak Shutoff Lever",
+    "spud": "Radiator Spud",
+    "spud wrench": "Spud Wrench",
+    "squaring the valve": "Valve Squaring",
+    "stainless steel braided hoses": "Braided Supply Hoses",
+    "stainless steel braided supply hoses": "Stainless Braided Hoses",
+    "stainless steel braided washer hoses": "Braided Washer Hoses",
+    "startup temperature (default 120°f)": "Startup Temperature",
+    "system readiness": "Washer Hookup Basics",
+    "t-fitting": "Ice Maker T Fitting",
+    "t-fitting for washer connection": "Washer T Fitting",
+    "teeth of cutter wheel": "Cutter Wheel Teeth",
+    "test run after clearing jam": "Jam Test Run",
+    "testing water supply": "Water Supply Test",
+    "thermostat relocation planning": "Washer Relocation Planning",
+    "thermostatic radiator valve installation": "Thermostatic Valve Install",
+    "thread sealant": "Pipe Thread Sealant",
+    "through-splash-guard wrench": "Splash Guard Wrench",
+    "timed water supply (two-and-a-half hours)": "Timed Water Supply",
+    "top-loading agitator vs front-loading washer design": "Washer Design Comparison",
+    "torque and leverage": "Torque and Leverage",
+    "two hot legs and a ground": "Heat Pump Wiring",
+    "unions for serviceability": "Service Unions",
+    "use of cedar shims and door jamb setup": "Shim and Jamb Setup",
+    "using a level on the washer": "Washer Leveling Setup",
+    "vacuum breaker and dip tube": "Vacuum Breaker Dip Tube",
+    "valve body": "Valve Body",
+    "valve orientation (on/off)": "Valve Orientation",
+    "vent routing for a dryer (external venting)": "Dryer Vent Routing",
+    "washer and dryer placement in a closet": "Closet Appliance Placement",
+    "washer circuit (20a, 120v)": "Washer Circuit Planning",
+    "washer hose health and replacement": "Washer Hose Replacement",
+    "washer leveling and adjustable legs": "Adjustable Leg Leveling",
+    "washer overloading and load balance": "Load Balance",
+    "washer vibration and vibration pads": "Vibration Pads",
+    "washing machine hot and cold supply lines": "Washer Supply Lines",
+    "washing machine shut-off valve": "Washer Shutoff Valve",
+    "water inlet": "Dishwasher Water Inlet",
+    "water inlet filters": "Inlet Filter Cleaning",
+    "water shutoff valve box inside the wall": "Wall Shutoff Box",
+    "wiring routes through ceilings with existing plumbing/vents": "Ceiling Wiring Routes",
+    "zip screws": "Zip Screw Fasteners"
+  },
+  "families": {
+    "family-combustion-safety-c48e81ff": {
+      "canonical_key": "combustion safety",
+      "description": "Evaluating combustion air, contaminants, safety devices, and efficiency testing for gas-fired heating equipment.",
+      "family_id": "family-combustion-safety-c48e81ff",
+      "label": "Combustion Safety"
+    },
+    "family-copper-pipe-fabrication-d9d2911b": {
+      "canonical_key": "copper pipe fabrication",
+      "description": "Cutting, fitting, soldering, and sealing copper plumbing for appliance hookups and valve connections.",
+      "family_id": "family-copper-pipe-fabrication-d9d2911b",
+      "label": "Copper Pipe Fabrication"
+    },
+    "family-furnace-care-0ac9d095": {
+      "canonical_key": "furnace care",
+      "description": "Maintaining forced-air furnaces through filter service, burner inspection, airflow checks, and seasonal upkeep.",
+      "family_id": "family-furnace-care-0ac9d095",
+      "label": "Furnace Care"
+    },
+    "family-garbage-disposer-repair-42a81a44": {
+      "canonical_key": "garbage disposer repair",
+      "description": "Diagnosing jams and restoring disposer function by clearing obstructions, using proper tools, and testing operation.",
+      "family_id": "family-garbage-disposer-repair-42a81a44",
+      "label": "Garbage Disposer Repair"
+    },
+    "family-heat-pump-water-heaters-fc90d476": {
+      "canonical_key": "heat pump water heaters",
+      "description": "Installing and operating heat-pump water heaters, including electrical hookup, condensate handling, temperature settings, and efficiency tradeoffs.",
+      "family_id": "family-heat-pump-water-heaters-fc90d476",
+      "label": "Heat Pump Water Heaters"
+    },
+    "family-kitchen-appliance-care-075b1023": {
+      "canonical_key": "kitchen appliance care",
+      "description": "Maintaining dishwashers, refrigerators, ice makers, ranges, and ovens through cleaning, filters, seals, and basic part checks.",
+      "family_id": "family-kitchen-appliance-care-075b1023",
+      "label": "Kitchen Appliance Care"
+    },
+    "family-laundry-maintenance-6d987b6f": {
+      "canonical_key": "laundry maintenance",
+      "description": "Routine care for washers and dryers, including hose replacement, filter cleaning, diagnostics, and performance checks.",
+      "family_id": "family-laundry-maintenance-6d987b6f",
+      "label": "Laundry Maintenance"
+    },
+    "family-laundry-plumbing-ffaead8f": {
+      "canonical_key": "laundry plumbing",
+      "description": "Running, connecting, and upgrading washer water supplies, drains, shutoffs, and hoses to reduce leaks and improve serviceability.",
+      "family_id": "family-laundry-plumbing-ffaead8f",
+      "label": "Laundry Plumbing"
+    },
+    "family-laundry-relocation-0af1d4be": {
+      "canonical_key": "laundry relocation",
+      "description": "Planning and roughing in a new washer-dryer location, including closet conversion, clearances, finishes, and trade coordination.",
+      "family_id": "family-laundry-relocation-0af1d4be",
+      "label": "Laundry Relocation"
+    },
+    "family-laundry-safety-6fb651c7": {
+      "canonical_key": "laundry safety",
+      "description": "Preventing floods, bursts, vibration damage, and electrical hazards with shutoffs, sensors, leveling, and load control.",
+      "family_id": "family-laundry-safety-6fb651c7",
+      "label": "Laundry Safety"
+    },
+    "family-laundry-venting-8f112bf1": {
+      "canonical_key": "laundry venting",
+      "description": "Managing dryer exhaust paths, vent materials, lint hazards, and code-related venting choices for safe operation.",
+      "family_id": "family-laundry-venting-8f112bf1",
+      "label": "Laundry Venting"
+    },
+    "family-radiator-valve-work-e840e0bc": {
+      "canonical_key": "radiator valve work",
+      "description": "Replacing and adjusting thermostatic radiator valves, including valve-body prep, sealing, sensor routing, and finishing details.",
+      "family_id": "family-radiator-valve-work-e840e0bc",
+      "label": "Radiator Valve Work"
+    },
+    "family-water-heater-selection-8a22fef5": {
+      "canonical_key": "water heater selection",
+      "description": "Comparing tank, tankless, hybrid, and electric water-heating options alongside sizing, lifespan, and regulatory limits.",
+      "family_id": "family-water-heater-selection-8a22fef5",
+      "label": "Water Heater Selection"
+    },
+    "family-water-heater-venting-4036c5df": {
+      "canonical_key": "water heater venting",
+      "description": "Addressing combustion-air, chimney, flue, and vent-material changes that affect gas and high-efficiency water heaters.",
+      "family_id": "family-water-heater-venting-4036c5df",
+      "label": "Water Heater Venting"
+    }
+  },
+  "model": "gpt-5.4-mini",
+  "prompt_version": 2,
+  "related": {
+    "12-2 nm and 10-3 nm cable usage": [
+      "lockout of main breaker during electrical work",
+      "panel space and circuit planning",
+      "reuse of existing circuits vs new upstairs service",
+      "washer circuit (20a, 120v)"
+    ],
+    "240v electrical supply and 30a circuit": [
+      "immersion heating elements (top and bottom)",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "two hot legs and a ground"
+    ],
+    "4,500-watt elements": [
+      "energy efficiency comparison (compressor vs elements)",
+      "immersion heating elements (top and bottom)",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "two hot legs and a ground"
+    ],
+    "access panels for shutoffs": [
+      "panel space and circuit planning",
+      "rocklath/plaster wall considerations",
+      "water shutoff valve box inside the wall"
+    ],
+    "aging in place considerations": [
+      "thermostat relocation planning",
+      "washer and dryer placement in a closet"
+    ],
+    "air filter maintenance": [
+      "annual dryer vent cleaning and maintenance",
+      "basic maintenance upgrades for laundry appliances",
+      "dryer lint hazards and lint filter maintenance"
+    ],
+    "air filter orientation and airflow arrows": [
+      "air filter purpose and placement",
+      "replacing air filters",
+      "return air pathway"
+    ],
+    "air filter purpose and placement": [
+      "air filter orientation and airflow arrows",
+      "replacing air filters",
+      "return air pathway"
+    ],
+    "allen wrench access": [
+      "overload switch",
+      "reset button",
+      "seating wrench on deck",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "annual dryer vent cleaning and maintenance": [
+      "air filter maintenance",
+      "app-detected vent issues and drain-hose diagnosis",
+      "dryer lint hazards and lint filter maintenance",
+      "smart appliance diagnostics and audible diagnosis apps"
+    ],
+    "annual furnace maintenance": [
+      "blower/fan operation",
+      "efficiency benchmarks (81.6% vs 97%)",
+      "furnace lifespan and preventive maintenance",
+      "furnace safety devices and sensors",
+      "homeowner vs hvac technician tasks",
+      "maintenance timing (fall)",
+      "replacing air filters"
+    ],
+    "app-detected vent issues and drain-hose diagnosis": [
+      "annual dryer vent cleaning and maintenance",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "stainless steel braided washer hoses",
+      "top-loading agitator vs front-loading washer design",
+      "washer hose health and replacement",
+      "washer leveling and adjustable legs"
+    ],
+    "back-of-unit water inlet connections": [
+      "hose shut-off devices",
+      "hot and cold water supply lines",
+      "stainless steel braided hoses",
+      "water inlet filters"
+    ],
+    "basement-room relocation implications for high-vented units": [
+      "chimney and flue considerations for higher-efficiency units",
+      "chimney re-bricking when venting changes",
+      "condensing gas water heaters and pvc venting",
+      "impact of regulations on installation location"
+    ],
+    "basic maintenance upgrades for laundry appliances": [
+      "air filter maintenance",
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "rubber hose wear and failure risks",
+      "rubber washer hoses",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "water inlet filters"
+    ],
+    "bell hangers": [
+      "fluxing copper pipe",
+      "hot and cold water supply lines",
+      "stainless steel braided supply hoses",
+      "testing water supply",
+      "washing machine shut-off valve"
+    ],
+    "blower/fan operation": [
+      "annual furnace maintenance",
+      "maintenance timing (fall)",
+      "replacing air filters",
+      "return air pathway"
+    ],
+    "box framing": [
+      "framing rough opening for a new washer/dryer closet",
+      "water shutoff valve box inside the wall"
+    ],
+    "broomsticks as levers": [
+      "seating wrench on deck",
+      "test run after clearing jam",
+      "torque and leverage"
+    ],
+    "burst-prevention for appliance hoses": [
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "hose pressurization only when washer runs",
+      "hose reinforcement and outer casing",
+      "hose shut-off devices",
+      "rubber hose wear and failure risks"
+    ],
+    "chimney and flue considerations for higher-efficiency units": [
+      "basement-room relocation implications for high-vented units",
+      "chimney re-bricking when venting changes",
+      "condensing gas water heaters and pvc venting",
+      "impact of regulations on installation location"
+    ],
+    "chimney re-bricking when venting changes": [
+      "basement-room relocation implications for high-vented units",
+      "chimney and flue considerations for higher-efficiency units",
+      "condensing gas water heaters and pvc venting",
+      "impact of regulations on installation location"
+    ],
+    "closet-to-laundry conversion feasibility": [
+      "first-floor laundry goal",
+      "framing rough opening for a new washer/dryer closet",
+      "washer and dryer placement in a closet",
+      "water shutoff valve box inside the wall",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "code considerations for venting materials": [
+      "dryer vent options: vinyl, aluminum, solid pipe",
+      "vent routing for a dryer (external venting)"
+    ],
+    "coil vs smooth-top": [
+      "evaporator coil",
+      "ice-maker water line",
+      "shut-off valve",
+      "t-fitting",
+      "water inlet"
+    ],
+    "combustion air sources (indoor vs outdoor)": [
+      "combustion contaminants and clearance",
+      "combustion efficiency testing",
+      "furnace safety devices and sensors",
+      "gas burner and combustion",
+      "heat exchanger"
+    ],
+    "combustion contaminants and clearance": [
+      "combustion air sources (indoor vs outdoor)",
+      "combustion efficiency testing",
+      "furnace safety devices and sensors",
+      "gas burner and combustion",
+      "heat exchanger"
+    ],
+    "combustion efficiency testing": [
+      "combustion air sources (indoor vs outdoor)",
+      "combustion contaminants and clearance",
+      "furnace safety devices and sensors",
+      "gas burner and combustion",
+      "heat exchanger"
+    ],
+    "condensate drainage and condensate pump": [
+      "heat pump principle (air-to-water)",
+      "mineral buildup and efficiency loss",
+      "no-arch venting considerations for heat pumps",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "startup temperature (default 120°f)",
+      "two hot legs and a ground"
+    ],
+    "condenser": [
+      "condenser cleaning"
+    ],
+    "condenser cleaning": [
+      "condenser",
+      "oven cleaning"
+    ],
+    "condensing gas water heaters and pvc venting": [
+      "basement-room relocation implications for high-vented units",
+      "chimney and flue considerations for higher-efficiency units",
+      "chimney re-bricking when venting changes",
+      "impact of regulations on installation location"
+    ],
+    "coordination of trades (electrician, carpenter)": [
+      "panel space and circuit planning",
+      "washer and dryer placement in a closet",
+      "washer circuit (20a, 120v)",
+      "water shutoff valve box inside the wall",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "copper pipe installation": [
+      "cutting copper pipe and pipe cutting",
+      "fittings preparation and cleaning",
+      "fluxing copper pipe",
+      "soldering copper fittings",
+      "t-fitting for washer connection"
+    ],
+    "copper tubing": [
+      "ice-maker water line",
+      "self-piercing valve",
+      "shut-off valve",
+      "t-fitting",
+      "water inlet"
+    ],
+    "cover plate": [
+      "radiator cover",
+      "sensor element",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "valve body"
+    ],
+    "cutter wheel": [
+      "motor operation",
+      "splash guard",
+      "teeth of cutter wheel",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "cutting copper pipe and pipe cutting": [
+      "copper pipe installation",
+      "fittings preparation and cleaning",
+      "fluxing copper pipe",
+      "soldering copper fittings",
+      "t-fitting for washer connection"
+    ],
+    "default-off safety design": [
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "hose shut-off devices",
+      "leak sensors for floor detection",
+      "rubber hose wear and failure risks",
+      "spring-loaded mechanical shut-off lever"
+    ],
+    "differences between tank-type, tankless, and heat-pump systems": [
+      "electric water heater limits (up to 55 gallons)",
+      "gas water heater sizing up to 50 gallons",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "impact of regulations on installation location",
+      "insulation requirements for small gas water heaters",
+      "lifespan of common water heaters (7-10 years)",
+      "on-demand/tankless water heaters acceptance and usage",
+      "replacement rules apply only to new systems",
+      "space constraints in basements and closets"
+    ],
+    "discharge path": [
+      "dishwasher discharge into disposer",
+      "seating wrench on deck",
+      "test run after clearing jam",
+      "torque and leverage"
+    ],
+    "dishwasher": [
+      "dishwasher detergent",
+      "dishwasher filter",
+      "dishwasher rack",
+      "rinse aid",
+      "spray arms",
+      "water inlet"
+    ],
+    "dishwasher detergent": [
+      "dishwasher",
+      "dishwasher filter",
+      "dishwasher rack",
+      "rinse aid",
+      "spray arms"
+    ],
+    "dishwasher discharge into disposer": [
+      "discharge path",
+      "seating wrench on deck",
+      "test run after clearing jam",
+      "torque and leverage"
+    ],
+    "dishwasher filter": [
+      "dishwasher",
+      "dishwasher detergent",
+      "dishwasher rack",
+      "rinse aid",
+      "spray arms"
+    ],
+    "dishwasher rack": [
+      "dishwasher",
+      "dishwasher detergent",
+      "dishwasher filter",
+      "spray arms"
+    ],
+    "door swing changes and flush thresholds": [
+      "rocklath/plaster wall considerations",
+      "use of cedar shims and door jamb setup",
+      "washer and dryer placement in a closet"
+    ],
+    "downstream shut-off valves": [
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "hose pressurization only when washer runs",
+      "hose shut-off devices",
+      "spring-loaded mechanical shut-off lever",
+      "stainless steel braided hoses"
+    ],
+    "drain and trap requirements for washer": [
+      "framing rough opening for a new washer/dryer closet",
+      "washer and dryer placement in a closet",
+      "washing machine hot and cold supply lines",
+      "water shutoff valve box inside the wall",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "drain hose": [
+      "ice-maker water line",
+      "t-fitting",
+      "water inlet"
+    ],
+    "draining and removing old heater": [
+      "electric water heater basics",
+      "mineral buildup and efficiency loss",
+      "shut-off valves and water main shutoff",
+      "unions for serviceability"
+    ],
+    "drilling a small hole for sensor": [
+      "routing sensor through opening",
+      "sensor element",
+      "thermostatic radiator valve installation",
+      "valve body"
+    ],
+    "dryer circuit (30a, 240v)": [
+      "dryer vent diameter and standpipe compatibility",
+      "framing rough opening for a new washer/dryer closet",
+      "panel space and circuit planning",
+      "reuse of existing circuits vs new upstairs service",
+      "thermostat relocation planning",
+      "washer and dryer placement in a closet",
+      "washer circuit (20a, 120v)"
+    ],
+    "dryer lint hazards and lint filter maintenance": [
+      "air filter maintenance",
+      "annual dryer vent cleaning and maintenance",
+      "he detergent requirement for he washers",
+      "pocket items removal (keys, coins, etc.)"
+    ],
+    "dryer vent diameter and standpipe compatibility": [
+      "dryer circuit (30a, 240v)",
+      "dryer vent options: vinyl, aluminum, solid pipe",
+      "framing rough opening for a new washer/dryer closet",
+      "vent routing for a dryer (external venting)",
+      "washer and dryer placement in a closet",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "dryer vent options: vinyl, aluminum, solid pipe": [
+      "code considerations for venting materials",
+      "dryer vent diameter and standpipe compatibility",
+      "vent routing for a dryer (external venting)"
+    ],
+    "efficiency benchmarks (81.6% vs 97%)": [
+      "annual furnace maintenance",
+      "furnace lifespan and preventive maintenance",
+      "maintenance timing (fall)",
+      "replacing air filters"
+    ],
+    "electric range": [
+      "gas range",
+      "oven cleaning",
+      "self-cleaning oven"
+    ],
+    "electric water heater basics": [
+      "draining and removing old heater",
+      "heat pump principle (air-to-water)",
+      "no venting for electric heaters",
+      "shut-off valves and water main shutoff",
+      "two hot legs and a ground"
+    ],
+    "electric water heater limits (up to 55 gallons)": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "impact of regulations on installation location",
+      "lifespan of common water heaters (7-10 years)",
+      "space constraints in basements and closets"
+    ],
+    "electrical service upgrade to 200a": [
+      "lockout of main breaker during electrical work",
+      "panel space and circuit planning",
+      "reuse of existing circuits vs new upstairs service",
+      "rocklath/plaster wall considerations",
+      "washer circuit (20a, 120v)"
+    ],
+    "electronic hose shut-off valves (amp-draw sensing)": [
+      "basic maintenance upgrades for laundry appliances",
+      "burst-prevention for appliance hoses",
+      "default-off safety design",
+      "downstream shut-off valves",
+      "hose pressurization only when washer runs",
+      "hose shut-off devices",
+      "rubber hose wear and failure risks",
+      "spring-loaded mechanical shut-off lever"
+    ],
+    "energy efficiency comparison (compressor vs elements)": [
+      "4,500-watt elements",
+      "hybrid mode for efficiency",
+      "immersion heating elements (top and bottom)",
+      "mineral buildup and efficiency loss",
+      "refrigerant cycle and compressor (approx. 700 w)"
+    ],
+    "evaporator coil": [
+      "coil vs smooth-top",
+      "evaporator fan motor"
+    ],
+    "evaporator fan motor": [
+      "evaporator coil"
+    ],
+    "final connections": [
+      "making up connections",
+      "pipe dope",
+      "thread sealant",
+      "valve body"
+    ],
+    "finish carpentry: maple trim and paneled look": [
+      "rocklath/plaster wall considerations",
+      "use of cedar shims and door jamb setup",
+      "washer and dryer placement in a closet",
+      "water shutoff valve box inside the wall"
+    ],
+    "first 3-4 threads": [
+      "single strand wicking",
+      "spud wrench",
+      "squaring the valve",
+      "thread sealant",
+      "valve body"
+    ],
+    "first-floor laundry goal": [
+      "closet-to-laundry conversion feasibility",
+      "rocklath/plaster wall considerations",
+      "washer and dryer placement in a closet",
+      "washer circuit (20a, 120v)",
+      "water shutoff valve box inside the wall"
+    ],
+    "fittings preparation and cleaning": [
+      "copper pipe installation",
+      "cutting copper pipe and pipe cutting",
+      "fluxing copper pipe",
+      "hot and cold water supply lines",
+      "soldering copper fittings",
+      "t-fitting for washer connection",
+      "washing machine shut-off valve"
+    ],
+    "five-year replacement interval for hoses": [
+      "rubber washer hoses",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "stainless steel braided washer hoses",
+      "washer hose health and replacement"
+    ],
+    "flange": [
+      "seating wrench on deck",
+      "splash guard",
+      "teeth of cutter wheel",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "float switch": [
+      "spray arms",
+      "water inlet"
+    ],
+    "fluxing copper pipe": [
+      "bell hangers",
+      "copper pipe installation",
+      "cutting copper pipe and pipe cutting",
+      "fittings preparation and cleaning",
+      "hot and cold water supply lines",
+      "rubber to stainless braided hoses",
+      "soldering copper fittings",
+      "stainless steel braided supply hoses",
+      "t-fitting for washer connection"
+    ],
+    "foreign objects (fork, turkey pin)": [
+      "needle-nose pliers",
+      "reset button",
+      "teeth of cutter wheel",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "framing rough opening for a new washer/dryer closet": [
+      "box framing",
+      "closet-to-laundry conversion feasibility",
+      "drain and trap requirements for washer",
+      "dryer circuit (30a, 240v)",
+      "dryer vent diameter and standpipe compatibility",
+      "washer and dryer placement in a closet",
+      "washer circuit (20a, 120v)"
+    ],
+    "front-loader vibration considerations": [
+      "hose shut-off devices",
+      "leak sensors for floor detection",
+      "leveling a washing machine",
+      "leveling legs",
+      "using a level on the washer"
+    ],
+    "front-loading efficiency: water and electricity savings": [
+      "he detergent requirement for he washers",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "top-loading agitator vs front-loading washer design",
+      "washer leveling and adjustable legs",
+      "washer vibration and vibration pads"
+    ],
+    "furnace lifespan and preventive maintenance": [
+      "annual furnace maintenance",
+      "efficiency benchmarks (81.6% vs 97%)",
+      "furnace safety devices and sensors",
+      "heat exchanger",
+      "maintenance timing (fall)",
+      "replacing air filters",
+      "return air pathway"
+    ],
+    "furnace safety devices and sensors": [
+      "annual furnace maintenance",
+      "combustion air sources (indoor vs outdoor)",
+      "combustion contaminants and clearance",
+      "combustion efficiency testing",
+      "furnace lifespan and preventive maintenance",
+      "gas burner and combustion",
+      "heat exchanger",
+      "homeowner vs hvac technician tasks",
+      "maintenance timing (fall)",
+      "return air pathway"
+    ],
+    "gas burner and combustion": [
+      "combustion air sources (indoor vs outdoor)",
+      "combustion contaminants and clearance",
+      "combustion efficiency testing",
+      "furnace safety devices and sensors",
+      "heat exchanger",
+      "homeowner vs hvac technician tasks"
+    ],
+    "gas range": [
+      "electric range",
+      "oven cleaning",
+      "self-cleaning oven"
+    ],
+    "gas water heater sizing up to 50 gallons": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "impact of regulations on installation location",
+      "insulation requirements for small gas water heaters",
+      "lifespan of common water heaters (7-10 years)",
+      "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "space constraints in basements and closets"
+    ],
+    "gasket/seal maintenance": [
+      "ice-maker water line",
+      "shut-off valve",
+      "t-fitting",
+      "water inlet"
+    ],
+    "glass cleanup with wet-dry vac": [
+      "oven cleaning"
+    ],
+    "glass-lined steel tank": [
+      "mineral buildup and efficiency loss",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "shut-off valves and water main shutoff",
+      "startup temperature (default 120°f)",
+      "unions for serviceability"
+    ],
+    "he detergent requirement for he washers": [
+      "dryer lint hazards and lint filter maintenance",
+      "front-loading efficiency: water and electricity savings",
+      "stainless steel braided washer hoses",
+      "top-loading agitator vs front-loading washer design",
+      "washer hose health and replacement"
+    ],
+    "heat exchanger": [
+      "combustion air sources (indoor vs outdoor)",
+      "combustion contaminants and clearance",
+      "combustion efficiency testing",
+      "furnace lifespan and preventive maintenance",
+      "furnace safety devices and sensors",
+      "gas burner and combustion",
+      "homeowner vs hvac technician tasks",
+      "maintenance timing (fall)",
+      "replacing air filters",
+      "return air pathway"
+    ],
+    "heat pump principle (air-to-water)": [
+      "condensate drainage and condensate pump",
+      "electric water heater basics",
+      "no-arch venting considerations for heat pumps",
+      "refrigerant cycle and compressor (approx. 700 w)"
+    ],
+    "heating element": [
+      "rinse aid",
+      "shut-off valve",
+      "spray arms",
+      "water inlet"
+    ],
+    "high-limit thermostat": [
+      "high-temperature self-clean cycle",
+      "oven cleaning",
+      "self-cleaning oven"
+    ],
+    "high-temperature self-clean cycle": [
+      "high-limit thermostat",
+      "oven cleaning",
+      "self-cleaning oven"
+    ],
+    "homeowner vs hvac technician tasks": [
+      "annual furnace maintenance",
+      "furnace safety devices and sensors",
+      "gas burner and combustion",
+      "heat exchanger",
+      "maintenance timing (fall)",
+      "replacing air filters"
+    ],
+    "hose pressurization only when washer runs": [
+      "burst-prevention for appliance hoses",
+      "downstream shut-off valves",
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "hose reinforcement and outer casing",
+      "hose shut-off devices",
+      "rubber hose wear and failure risks",
+      "timed water supply (two-and-a-half hours)"
+    ],
+    "hose reinforcement and outer casing": [
+      "burst-prevention for appliance hoses",
+      "hose pressurization only when washer runs",
+      "rubber hose wear and failure risks",
+      "stainless steel braided hoses",
+      "water inlet filters"
+    ],
+    "hose shut-off devices": [
+      "back-of-unit water inlet connections",
+      "burst-prevention for appliance hoses",
+      "default-off safety design",
+      "downstream shut-off valves",
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "front-loader vibration considerations",
+      "hose pressurization only when washer runs",
+      "leak sensors for floor detection",
+      "rubber hose wear and failure risks",
+      "spring-loaded mechanical shut-off lever",
+      "timed water supply (two-and-a-half hours)",
+      "using a level on the washer",
+      "water inlet filters"
+    ],
+    "hot and cold water supply lines": [
+      "back-of-unit water inlet connections",
+      "bell hangers",
+      "fittings preparation and cleaning",
+      "fluxing copper pipe",
+      "rubber to stainless braided hoses",
+      "stainless steel braided supply hoses",
+      "system readiness",
+      "t-fitting for washer connection",
+      "testing water supply",
+      "valve orientation (on/off)",
+      "washing machine hot and cold supply lines",
+      "washing machine shut-off valve"
+    ],
+    "hybrid heat-pump (energy-saving) water heaters": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "electric water heater limits (up to 55 gallons)",
+      "impact of regulations on installation location",
+      "lifespan of common water heaters (7-10 years)",
+      "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "on-demand/tankless water heaters acceptance and usage",
+      "replacement rules apply only to new systems",
+      "space constraints in basements and closets"
+    ],
+    "hybrid mode for efficiency": [
+      "energy efficiency comparison (compressor vs elements)",
+      "mineral buildup and efficiency loss",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "startup temperature (default 120°f)",
+      "two hot legs and a ground",
+      "unions for serviceability",
+      "vacuum breaker and dip tube"
+    ],
+    "ice-maker water line": [
+      "coil vs smooth-top",
+      "copper tubing",
+      "drain hose",
+      "gasket/seal maintenance",
+      "rinse aid",
+      "self-piercing valve",
+      "shut-off valve",
+      "t-fitting",
+      "water inlet"
+    ],
+    "immersion heating elements (top and bottom)": [
+      "240v electrical supply and 30a circuit",
+      "4,500-watt elements",
+      "energy efficiency comparison (compressor vs elements)",
+      "no venting for electric heaters",
+      "refrigerant cycle and compressor (approx. 700 w)"
+    ],
+    "impact of regulations on installation location": [
+      "basement-room relocation implications for high-vented units",
+      "chimney and flue considerations for higher-efficiency units",
+      "chimney re-bricking when venting changes",
+      "condensing gas water heaters and pvc venting",
+      "differences between tank-type, tankless, and heat-pump systems",
+      "electric water heater limits (up to 55 gallons)",
+      "gas water heater sizing up to 50 gallons",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "insulation requirements for small gas water heaters",
+      "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "on-demand/tankless water heaters acceptance and usage",
+      "replacement rules apply only to new systems",
+      "space constraints in basements and closets"
+    ],
+    "insulation requirements for small gas water heaters": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "gas water heater sizing up to 50 gallons",
+      "impact of regulations on installation location",
+      "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "replacement rules apply only to new systems"
+    ],
+    "jam clearing": [
+      "overload switch",
+      "reset button",
+      "test run after clearing jam",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "leak sensors for floor detection": [
+      "default-off safety design",
+      "front-loader vibration considerations",
+      "hose shut-off devices",
+      "rubber hose wear and failure risks",
+      "spring-loaded mechanical shut-off lever",
+      "timed water supply (two-and-a-half hours)"
+    ],
+    "leveling a washing machine": [
+      "front-loader vibration considerations",
+      "leveling legs",
+      "rubber hose wear and failure risks",
+      "using a level on the washer"
+    ],
+    "leveling legs": [
+      "front-loader vibration considerations",
+      "leveling a washing machine",
+      "using a level on the washer"
+    ],
+    "lifespan of common water heaters (7-10 years)": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "electric water heater limits (up to 55 gallons)",
+      "gas water heater sizing up to 50 gallons",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "replacement rules apply only to new systems"
+    ],
+    "locking ring": [
+      "overload switch",
+      "reset button",
+      "test run after clearing jam",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "lockout of main breaker during electrical work": [
+      "12-2 nm and 10-3 nm cable usage",
+      "electrical service upgrade to 200a",
+      "panel space and circuit planning",
+      "reuse of existing circuits vs new upstairs service",
+      "washer circuit (20a, 120v)"
+    ],
+    "maintenance timing (fall)": [
+      "annual furnace maintenance",
+      "blower/fan operation",
+      "efficiency benchmarks (81.6% vs 97%)",
+      "furnace lifespan and preventive maintenance",
+      "furnace safety devices and sensors",
+      "heat exchanger",
+      "homeowner vs hvac technician tasks",
+      "replacing air filters"
+    ],
+    "making up connections": [
+      "final connections",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "thread sealant",
+      "valve body"
+    ],
+    "manual rotation of impeller": [
+      "motor operation",
+      "overload switch",
+      "reset button",
+      "test run after clearing jam",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "mineral buildup and efficiency loss": [
+      "condensate drainage and condensate pump",
+      "draining and removing old heater",
+      "energy efficiency comparison (compressor vs elements)",
+      "glass-lined steel tank",
+      "hybrid mode for efficiency",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "startup temperature (default 120°f)",
+      "unions for serviceability",
+      "vacuum breaker and dip tube"
+    ],
+    "minimum insulation thickness (2 inches, 4 inches near heat)": [
+      "gas water heater sizing up to 50 gallons",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "impact of regulations on installation location",
+      "insulation requirements for small gas water heaters",
+      "replacement rules apply only to new systems",
+      "space constraints in basements and closets"
+    ],
+    "motor operation": [
+      "cutter wheel",
+      "manual rotation of impeller",
+      "overload switch",
+      "reset button",
+      "test run after clearing jam",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "needle-nose pliers": [
+      "foreign objects (fork, turkey pin)",
+      "overload switch",
+      "reset button",
+      "splash guard",
+      "test run after clearing jam",
+      "through-splash-guard wrench"
+    ],
+    "nipple": [
+      "spud",
+      "spud wrench",
+      "thread sealant",
+      "valve body"
+    ],
+    "no venting for electric heaters": [
+      "electric water heater basics",
+      "immersion heating elements (top and bottom)",
+      "no-arch venting considerations for heat pumps",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "startup temperature (default 120°f)",
+      "two hot legs and a ground"
+    ],
+    "no-arch venting considerations for heat pumps": [
+      "condensate drainage and condensate pump",
+      "heat pump principle (air-to-water)",
+      "no venting for electric heaters",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "shut-off valves and water main shutoff"
+    ],
+    "old work": [
+      "routing sensor through opening",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "thread sealant",
+      "valve body"
+    ],
+    "on-demand/tankless water heaters acceptance and usage": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "impact of regulations on installation location",
+      "replacement rules apply only to new systems",
+      "space constraints in basements and closets"
+    ],
+    "oven cleaning": [
+      "condenser cleaning",
+      "electric range",
+      "gas range",
+      "glass cleanup with wet-dry vac",
+      "high-limit thermostat",
+      "high-temperature self-clean cycle",
+      "self-cleaning oven"
+    ],
+    "overload switch": [
+      "allen wrench access",
+      "jam clearing",
+      "locking ring",
+      "manual rotation of impeller",
+      "motor operation",
+      "needle-nose pliers",
+      "reset button",
+      "splash guard"
+    ],
+    "panel space and circuit planning": [
+      "12-2 nm and 10-3 nm cable usage",
+      "access panels for shutoffs",
+      "coordination of trades (electrician, carpenter)",
+      "dryer circuit (30a, 240v)",
+      "electrical service upgrade to 200a",
+      "lockout of main breaker during electrical work",
+      "reuse of existing circuits vs new upstairs service",
+      "rocklath/plaster wall considerations",
+      "thermostat relocation planning",
+      "washer circuit (20a, 120v)",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "pipe dope": [
+      "final connections",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "thread sealant",
+      "valve body"
+    ],
+    "pocket items removal (keys, coins, etc.)": [
+      "dryer lint hazards and lint filter maintenance",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "stainless steel braided washer hoses",
+      "washer hose health and replacement",
+      "washer leveling and adjustable legs",
+      "washer vibration and vibration pads"
+    ],
+    "radiator cover": [
+      "cover plate",
+      "sensor element",
+      "thermostatic radiator valve installation",
+      "valve body"
+    ],
+    "refrigerant cycle and compressor (approx. 700 w)": [
+      "240v electrical supply and 30a circuit",
+      "4,500-watt elements",
+      "condensate drainage and condensate pump",
+      "energy efficiency comparison (compressor vs elements)",
+      "glass-lined steel tank",
+      "heat pump principle (air-to-water)",
+      "hybrid mode for efficiency",
+      "immersion heating elements (top and bottom)",
+      "mineral buildup and efficiency loss",
+      "no venting for electric heaters",
+      "no-arch venting considerations for heat pumps",
+      "shut-off valves and water main shutoff",
+      "startup temperature (default 120°f)",
+      "two hot legs and a ground",
+      "unions for serviceability"
+    ],
+    "replacement rules apply only to new systems": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "impact of regulations on installation location",
+      "insulation requirements for small gas water heaters",
+      "lifespan of common water heaters (7-10 years)",
+      "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "on-demand/tankless water heaters acceptance and usage",
+      "space constraints in basements and closets"
+    ],
+    "replacing air filters": [
+      "air filter orientation and airflow arrows",
+      "air filter purpose and placement",
+      "annual furnace maintenance",
+      "blower/fan operation",
+      "efficiency benchmarks (81.6% vs 97%)",
+      "furnace lifespan and preventive maintenance",
+      "heat exchanger",
+      "homeowner vs hvac technician tasks",
+      "maintenance timing (fall)",
+      "return air pathway"
+    ],
+    "reset button": [
+      "allen wrench access",
+      "foreign objects (fork, turkey pin)",
+      "jam clearing",
+      "locking ring",
+      "manual rotation of impeller",
+      "motor operation",
+      "needle-nose pliers",
+      "overload switch",
+      "seating wrench on deck",
+      "splash guard"
+    ],
+    "return air pathway": [
+      "air filter orientation and airflow arrows",
+      "air filter purpose and placement",
+      "blower/fan operation",
+      "furnace lifespan and preventive maintenance",
+      "furnace safety devices and sensors",
+      "heat exchanger",
+      "replacing air filters"
+    ],
+    "reuse of existing circuits vs new upstairs service": [
+      "12-2 nm and 10-3 nm cable usage",
+      "dryer circuit (30a, 240v)",
+      "electrical service upgrade to 200a",
+      "lockout of main breaker during electrical work",
+      "panel space and circuit planning",
+      "rocklath/plaster wall considerations",
+      "washer circuit (20a, 120v)",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "rinse aid": [
+      "dishwasher",
+      "dishwasher detergent",
+      "dishwasher filter",
+      "heating element",
+      "ice-maker water line",
+      "shut-off valve",
+      "spray arms",
+      "water inlet"
+    ],
+    "rocklath/plaster wall considerations": [
+      "access panels for shutoffs",
+      "door swing changes and flush thresholds",
+      "electrical service upgrade to 200a",
+      "finish carpentry: maple trim and paneled look",
+      "first-floor laundry goal",
+      "panel space and circuit planning",
+      "reuse of existing circuits vs new upstairs service",
+      "use of cedar shims and door jamb setup",
+      "washer circuit (20a, 120v)",
+      "water shutoff valve box inside the wall",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "routing sensor through opening": [
+      "drilling a small hole for sensor",
+      "old work",
+      "sensor element",
+      "single strand wicking",
+      "spud",
+      "squaring the valve",
+      "thermostatic radiator valve installation"
+    ],
+    "rubber hose wear and failure risks": [
+      "basic maintenance upgrades for laundry appliances",
+      "burst-prevention for appliance hoses",
+      "default-off safety design",
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "hose pressurization only when washer runs",
+      "hose reinforcement and outer casing",
+      "hose shut-off devices",
+      "leak sensors for floor detection",
+      "leveling a washing machine",
+      "rubber washer hoses",
+      "timed water supply (two-and-a-half hours)",
+      "using a level on the washer",
+      "water inlet filters"
+    ],
+    "rubber to stainless braided hoses": [
+      "fluxing copper pipe",
+      "hot and cold water supply lines",
+      "stainless steel braided hoses",
+      "stainless steel braided supply hoses",
+      "testing water supply",
+      "washing machine shut-off valve"
+    ],
+    "rubber washer hoses": [
+      "basic maintenance upgrades for laundry appliances",
+      "five-year replacement interval for hoses",
+      "rubber hose wear and failure risks",
+      "stainless steel braided washer hoses",
+      "washer hose health and replacement",
+      "water inlet filters"
+    ],
+    "seating wrench on deck": [
+      "allen wrench access",
+      "broomsticks as levers",
+      "discharge path",
+      "dishwasher discharge into disposer",
+      "flange",
+      "reset button",
+      "teeth of cutter wheel",
+      "test run after clearing jam",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "self-cleaning oven": [
+      "electric range",
+      "gas range",
+      "high-limit thermostat",
+      "high-temperature self-clean cycle",
+      "oven cleaning"
+    ],
+    "self-piercing valve": [
+      "copper tubing",
+      "ice-maker water line",
+      "shut-off valve",
+      "t-fitting",
+      "water inlet"
+    ],
+    "sensor element": [
+      "cover plate",
+      "drilling a small hole for sensor",
+      "radiator cover",
+      "routing sensor through opening",
+      "thermostatic radiator valve installation",
+      "zip screws"
+    ],
+    "shut-off valve": [
+      "coil vs smooth-top",
+      "copper tubing",
+      "gasket/seal maintenance",
+      "heating element",
+      "ice-maker water line",
+      "rinse aid",
+      "self-piercing valve",
+      "spray arms",
+      "t-fitting",
+      "water inlet"
+    ],
+    "shut-off valves and water main shutoff": [
+      "draining and removing old heater",
+      "electric water heater basics",
+      "glass-lined steel tank",
+      "no-arch venting considerations for heat pumps",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "startup temperature (default 120°f)",
+      "two hot legs and a ground",
+      "unions for serviceability",
+      "vacuum breaker and dip tube"
+    ],
+    "single strand wicking": [
+      "first 3-4 threads",
+      "routing sensor through opening",
+      "spud",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "thread sealant"
+    ],
+    "smart appliance diagnostics and audible diagnosis apps": [
+      "annual dryer vent cleaning and maintenance",
+      "app-detected vent issues and drain-hose diagnosis",
+      "basic maintenance upgrades for laundry appliances",
+      "five-year replacement interval for hoses",
+      "front-loading efficiency: water and electricity savings",
+      "pocket items removal (keys, coins, etc.)",
+      "stainless steel braided washer hoses",
+      "washer hose health and replacement",
+      "washer leveling and adjustable legs",
+      "washer vibration and vibration pads"
+    ],
+    "soldering copper fittings": [
+      "copper pipe installation",
+      "cutting copper pipe and pipe cutting",
+      "fittings preparation and cleaning",
+      "fluxing copper pipe",
+      "t-fitting for washer connection"
+    ],
+    "space constraints in basements and closets": [
+      "differences between tank-type, tankless, and heat-pump systems",
+      "electric water heater limits (up to 55 gallons)",
+      "gas water heater sizing up to 50 gallons",
+      "hybrid heat-pump (energy-saving) water heaters",
+      "impact of regulations on installation location",
+      "minimum insulation thickness (2 inches, 4 inches near heat)",
+      "on-demand/tankless water heaters acceptance and usage",
+      "replacement rules apply only to new systems"
+    ],
+    "splash guard": [
+      "cutter wheel",
+      "flange",
+      "needle-nose pliers",
+      "overload switch",
+      "reset button",
+      "test run after clearing jam",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "spray arms": [
+      "dishwasher",
+      "dishwasher detergent",
+      "dishwasher filter",
+      "dishwasher rack",
+      "float switch",
+      "heating element",
+      "rinse aid",
+      "shut-off valve",
+      "water inlet"
+    ],
+    "spring-loaded mechanical shut-off lever": [
+      "default-off safety design",
+      "downstream shut-off valves",
+      "electronic hose shut-off valves (amp-draw sensing)",
+      "hose shut-off devices",
+      "leak sensors for floor detection",
+      "timed water supply (two-and-a-half hours)",
+      "using a level on the washer"
+    ],
+    "spud": [
+      "nipple",
+      "routing sensor through opening",
+      "single strand wicking",
+      "spud wrench",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "valve body"
+    ],
+    "spud wrench": [
+      "first 3-4 threads",
+      "nipple",
+      "spud",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "thread sealant",
+      "valve body"
+    ],
+    "squaring the valve": [
+      "cover plate",
+      "first 3-4 threads",
+      "making up connections",
+      "old work",
+      "pipe dope",
+      "routing sensor through opening",
+      "single strand wicking",
+      "spud",
+      "spud wrench",
+      "thermostatic radiator valve installation",
+      "thread sealant",
+      "valve body",
+      "zip screws"
+    ],
+    "stainless steel braided hoses": [
+      "back-of-unit water inlet connections",
+      "downstream shut-off valves",
+      "hose reinforcement and outer casing",
+      "rubber to stainless braided hoses",
+      "stainless steel braided supply hoses",
+      "water inlet filters"
+    ],
+    "stainless steel braided supply hoses": [
+      "bell hangers",
+      "fluxing copper pipe",
+      "hot and cold water supply lines",
+      "rubber to stainless braided hoses",
+      "stainless steel braided hoses",
+      "system readiness",
+      "t-fitting for washer connection",
+      "testing water supply",
+      "valve orientation (on/off)",
+      "washing machine shut-off valve"
+    ],
+    "stainless steel braided washer hoses": [
+      "app-detected vent issues and drain-hose diagnosis",
+      "five-year replacement interval for hoses",
+      "he detergent requirement for he washers",
+      "pocket items removal (keys, coins, etc.)",
+      "rubber washer hoses",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "top-loading agitator vs front-loading washer design",
+      "washer hose health and replacement",
+      "washer leveling and adjustable legs",
+      "washer vibration and vibration pads"
+    ],
+    "startup temperature (default 120°f)": [
+      "condensate drainage and condensate pump",
+      "glass-lined steel tank",
+      "hybrid mode for efficiency",
+      "mineral buildup and efficiency loss",
+      "no venting for electric heaters",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "shut-off valves and water main shutoff",
+      "two hot legs and a ground",
+      "unions for serviceability"
+    ],
+    "system readiness": [
+      "hot and cold water supply lines",
+      "stainless steel braided supply hoses",
+      "t-fitting for washer connection",
+      "testing water supply",
+      "valve orientation (on/off)",
+      "washing machine shut-off valve"
+    ],
+    "t-fitting": [
+      "coil vs smooth-top",
+      "copper tubing",
+      "drain hose",
+      "gasket/seal maintenance",
+      "ice-maker water line",
+      "self-piercing valve",
+      "shut-off valve",
+      "water inlet"
+    ],
+    "t-fitting for washer connection": [
+      "copper pipe installation",
+      "cutting copper pipe and pipe cutting",
+      "fittings preparation and cleaning",
+      "fluxing copper pipe",
+      "hot and cold water supply lines",
+      "soldering copper fittings",
+      "stainless steel braided supply hoses",
+      "system readiness",
+      "valve orientation (on/off)",
+      "washing machine shut-off valve"
+    ],
+    "teeth of cutter wheel": [
+      "cutter wheel",
+      "flange",
+      "foreign objects (fork, turkey pin)",
+      "seating wrench on deck",
+      "test run after clearing jam",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "test run after clearing jam": [
+      "broomsticks as levers",
+      "discharge path",
+      "dishwasher discharge into disposer",
+      "jam clearing",
+      "locking ring",
+      "manual rotation of impeller",
+      "motor operation",
+      "needle-nose pliers",
+      "seating wrench on deck",
+      "splash guard",
+      "teeth of cutter wheel",
+      "through-splash-guard wrench",
+      "torque and leverage"
+    ],
+    "testing water supply": [
+      "bell hangers",
+      "hot and cold water supply lines",
+      "rubber to stainless braided hoses",
+      "stainless steel braided supply hoses",
+      "system readiness",
+      "valve orientation (on/off)",
+      "washing machine hot and cold supply lines",
+      "washing machine shut-off valve"
+    ],
+    "thermostat relocation planning": [
+      "aging in place considerations",
+      "dryer circuit (30a, 240v)",
+      "panel space and circuit planning",
+      "washer and dryer placement in a closet",
+      "washer circuit (20a, 120v)",
+      "water shutoff valve box inside the wall",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "thermostatic radiator valve installation": [
+      "cover plate",
+      "drilling a small hole for sensor",
+      "making up connections",
+      "old work",
+      "pipe dope",
+      "radiator cover",
+      "routing sensor through opening",
+      "sensor element",
+      "single strand wicking",
+      "spud",
+      "spud wrench",
+      "squaring the valve",
+      "thread sealant",
+      "valve body",
+      "zip screws"
+    ],
+    "thread sealant": [
+      "final connections",
+      "first 3-4 threads",
+      "making up connections",
+      "nipple",
+      "old work",
+      "pipe dope",
+      "single strand wicking",
+      "spud wrench",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "valve body",
+      "zip screws"
+    ],
+    "through-splash-guard wrench": [
+      "allen wrench access",
+      "cutter wheel",
+      "flange",
+      "foreign objects (fork, turkey pin)",
+      "jam clearing",
+      "locking ring",
+      "manual rotation of impeller",
+      "motor operation",
+      "needle-nose pliers",
+      "seating wrench on deck",
+      "splash guard",
+      "teeth of cutter wheel",
+      "test run after clearing jam",
+      "torque and leverage"
+    ],
+    "timed water supply (two-and-a-half hours)": [
+      "hose pressurization only when washer runs",
+      "hose shut-off devices",
+      "leak sensors for floor detection",
+      "rubber hose wear and failure risks",
+      "spring-loaded mechanical shut-off lever"
+    ],
+    "top-loading agitator vs front-loading washer design": [
+      "app-detected vent issues and drain-hose diagnosis",
+      "front-loading efficiency: water and electricity savings",
+      "he detergent requirement for he washers",
+      "stainless steel braided washer hoses",
+      "washer hose health and replacement",
+      "washer leveling and adjustable legs",
+      "washer vibration and vibration pads"
+    ],
+    "torque and leverage": [
+      "allen wrench access",
+      "broomsticks as levers",
+      "cutter wheel",
+      "discharge path",
+      "dishwasher discharge into disposer",
+      "flange",
+      "foreign objects (fork, turkey pin)",
+      "jam clearing",
+      "locking ring",
+      "manual rotation of impeller",
+      "motor operation",
+      "seating wrench on deck",
+      "splash guard",
+      "teeth of cutter wheel",
+      "test run after clearing jam",
+      "through-splash-guard wrench"
+    ],
+    "two hot legs and a ground": [
+      "240v electrical supply and 30a circuit",
+      "4,500-watt elements",
+      "condensate drainage and condensate pump",
+      "electric water heater basics",
+      "hybrid mode for efficiency",
+      "no venting for electric heaters",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "shut-off valves and water main shutoff",
+      "startup temperature (default 120°f)",
+      "unions for serviceability"
+    ],
+    "unions for serviceability": [
+      "draining and removing old heater",
+      "glass-lined steel tank",
+      "hybrid mode for efficiency",
+      "mineral buildup and efficiency loss",
+      "refrigerant cycle and compressor (approx. 700 w)",
+      "shut-off valves and water main shutoff",
+      "startup temperature (default 120°f)",
+      "two hot legs and a ground",
+      "vacuum breaker and dip tube"
+    ],
+    "use of cedar shims and door jamb setup": [
+      "door swing changes and flush thresholds",
+      "finish carpentry: maple trim and paneled look",
+      "rocklath/plaster wall considerations",
+      "washer and dryer placement in a closet",
+      "water shutoff valve box inside the wall",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "using a level on the washer": [
+      "front-loader vibration considerations",
+      "hose shut-off devices",
+      "leveling a washing machine",
+      "leveling legs",
+      "rubber hose wear and failure risks",
+      "spring-loaded mechanical shut-off lever",
+      "washer overloading and load balance"
+    ],
+    "vacuum breaker and dip tube": [
+      "hybrid mode for efficiency",
+      "mineral buildup and efficiency loss",
+      "shut-off valves and water main shutoff",
+      "unions for serviceability"
+    ],
+    "valve body": [
+      "cover plate",
+      "drilling a small hole for sensor",
+      "final connections",
+      "first 3-4 threads",
+      "making up connections",
+      "nipple",
+      "old work",
+      "pipe dope",
+      "radiator cover",
+      "spud",
+      "spud wrench",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "thread sealant",
+      "zip screws"
+    ],
+    "valve orientation (on/off)": [
+      "hot and cold water supply lines",
+      "stainless steel braided supply hoses",
+      "system readiness",
+      "t-fitting for washer connection",
+      "testing water supply",
+      "washing machine shut-off valve"
+    ],
+    "vent routing for a dryer (external venting)": [
+      "code considerations for venting materials",
+      "dryer vent diameter and standpipe compatibility",
+      "dryer vent options: vinyl, aluminum, solid pipe"
+    ],
+    "washer and dryer placement in a closet": [
+      "aging in place considerations",
+      "closet-to-laundry conversion feasibility",
+      "coordination of trades (electrician, carpenter)",
+      "door swing changes and flush thresholds",
+      "drain and trap requirements for washer",
+      "dryer circuit (30a, 240v)",
+      "dryer vent diameter and standpipe compatibility",
+      "finish carpentry: maple trim and paneled look",
+      "first-floor laundry goal",
+      "framing rough opening for a new washer/dryer closet",
+      "thermostat relocation planning",
+      "use of cedar shims and door jamb setup",
+      "washer circuit (20a, 120v)",
+      "water shutoff valve box inside the wall",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "washer circuit (20a, 120v)": [
+      "12-2 nm and 10-3 nm cable usage",
+      "coordination of trades (electrician, carpenter)",
+      "dryer circuit (30a, 240v)",
+      "electrical service upgrade to 200a",
+      "first-floor laundry goal",
+      "framing rough opening for a new washer/dryer closet",
+      "lockout of main breaker during electrical work",
+      "panel space and circuit planning",
+      "reuse of existing circuits vs new upstairs service",
+      "rocklath/plaster wall considerations",
+      "thermostat relocation planning",
+      "washer and dryer placement in a closet",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "washer hose health and replacement": [
+      "app-detected vent issues and drain-hose diagnosis",
+      "five-year replacement interval for hoses",
+      "he detergent requirement for he washers",
+      "pocket items removal (keys, coins, etc.)",
+      "rubber washer hoses",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "stainless steel braided washer hoses",
+      "top-loading agitator vs front-loading washer design",
+      "washer leveling and adjustable legs",
+      "washer vibration and vibration pads"
+    ],
+    "washer leveling and adjustable legs": [
+      "app-detected vent issues and drain-hose diagnosis",
+      "front-loading efficiency: water and electricity savings",
+      "pocket items removal (keys, coins, etc.)",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "stainless steel braided washer hoses",
+      "top-loading agitator vs front-loading washer design",
+      "washer hose health and replacement",
+      "washer overloading and load balance",
+      "washer vibration and vibration pads"
+    ],
+    "washer overloading and load balance": [
+      "using a level on the washer",
+      "washer leveling and adjustable legs",
+      "washer vibration and vibration pads"
+    ],
+    "washer vibration and vibration pads": [
+      "front-loading efficiency: water and electricity savings",
+      "pocket items removal (keys, coins, etc.)",
+      "smart appliance diagnostics and audible diagnosis apps",
+      "stainless steel braided washer hoses",
+      "top-loading agitator vs front-loading washer design",
+      "washer hose health and replacement",
+      "washer leveling and adjustable legs",
+      "washer overloading and load balance"
+    ],
+    "washing machine hot and cold supply lines": [
+      "drain and trap requirements for washer",
+      "hot and cold water supply lines",
+      "testing water supply",
+      "washing machine shut-off valve",
+      "water shutoff valve box inside the wall"
+    ],
+    "washing machine shut-off valve": [
+      "bell hangers",
+      "fittings preparation and cleaning",
+      "hot and cold water supply lines",
+      "rubber to stainless braided hoses",
+      "stainless steel braided supply hoses",
+      "system readiness",
+      "t-fitting for washer connection",
+      "testing water supply",
+      "valve orientation (on/off)",
+      "washing machine hot and cold supply lines"
+    ],
+    "water inlet": [
+      "coil vs smooth-top",
+      "copper tubing",
+      "dishwasher",
+      "drain hose",
+      "float switch",
+      "gasket/seal maintenance",
+      "heating element",
+      "ice-maker water line",
+      "rinse aid",
+      "self-piercing valve",
+      "shut-off valve",
+      "spray arms",
+      "t-fitting"
+    ],
+    "water inlet filters": [
+      "back-of-unit water inlet connections",
+      "basic maintenance upgrades for laundry appliances",
+      "hose reinforcement and outer casing",
+      "hose shut-off devices",
+      "rubber hose wear and failure risks",
+      "rubber washer hoses",
+      "stainless steel braided hoses"
+    ],
+    "water shutoff valve box inside the wall": [
+      "access panels for shutoffs",
+      "box framing",
+      "closet-to-laundry conversion feasibility",
+      "coordination of trades (electrician, carpenter)",
+      "drain and trap requirements for washer",
+      "finish carpentry: maple trim and paneled look",
+      "first-floor laundry goal",
+      "rocklath/plaster wall considerations",
+      "thermostat relocation planning",
+      "use of cedar shims and door jamb setup",
+      "washer and dryer placement in a closet",
+      "washing machine hot and cold supply lines",
+      "wiring routes through ceilings with existing plumbing/vents"
+    ],
+    "wiring routes through ceilings with existing plumbing/vents": [
+      "closet-to-laundry conversion feasibility",
+      "coordination of trades (electrician, carpenter)",
+      "drain and trap requirements for washer",
+      "dryer vent diameter and standpipe compatibility",
+      "panel space and circuit planning",
+      "reuse of existing circuits vs new upstairs service",
+      "rocklath/plaster wall considerations",
+      "thermostat relocation planning",
+      "use of cedar shims and door jamb setup",
+      "washer and dryer placement in a closet",
+      "washer circuit (20a, 120v)",
+      "water shutoff valve box inside the wall"
+    ],
+    "zip screws": [
+      "sensor element",
+      "squaring the valve",
+      "thermostatic radiator valve installation",
+      "thread sealant",
+      "valve body"
+    ]
+  },
+  "schema_version": 1,
+  "source_hash": "757d9151ef76570f7b562b423e48704f2ab1cb8d253f657e8d804fc2f2d8f589",
+  "stats": {
+    "canonical_topic_count": 194,
+    "display_label_count": 194,
+    "family_count": 14,
+    "raw_topic_count": 194,
+    "related_edge_count": 618
+  },
+  "status": "complete",
+  "updated_at": "2026-09-01T10:13:02.353575+00:00"
+}

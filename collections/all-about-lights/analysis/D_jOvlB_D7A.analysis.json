@@ -1,0 +1,139 @@
+{
+  "schema_version": 2,
+  "video": "D_jOvlB_D7A.youtube",
+  "title": "Understanding Modern Lightbulbs: Lumens, Color Temperature, and Efficiency",
+  "date": {
+    "display": "March 10, 2016",
+    "iso": "2016-03-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The video briefly outlines how lighting has evolved from simple incandescent bulbs to more efficient technologies (halogen, fluorescent, and LED). It emphasizes that selecting a bulb involves more than wattage: light output is measured in lumens, and color temperature affects how the light looks indoors. The speaker notes that modern bulbs can provide similar lumen output with less electricity, but at a higher upfront cost, while offering longer lifespans.",
+  "topics": [
+    "halogen bulbs",
+    "fluorescent bulbs",
+    "LED bulbs",
+    "incandescent bulbs",
+    "lumens (light output)",
+    "wattage vs lumen efficiency",
+    "color temperature (CCT)",
+    "warm light vs daylight",
+    "Indoor lighting aesthetics",
+    "energy efficiency",
+    "lifecycle cost",
+    "long lifespan of modern bulbs"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01.200",
+      "end": "00:00:09.690",
+      "title": "Past Lighting Options",
+      "concepts": [
+        "Incandescent simplicity",
+        "Limited choices",
+        "Early lighting technology"
+      ],
+      "description": "Intro contrast: not long ago bulbs were simple and choices were few."
+    },
+    {
+      "start": "00:00:09.690",
+      "end": "00:00:15.670",
+      "title": "Rise of Efficient Technologies",
+      "concepts": [
+        "Halogen",
+        "Fluorescent",
+        "LED",
+        "efficiency"
+      ],
+      "description": "Overview of new technologies that improved efficiency."
+    },
+    {
+      "start": "00:00:15.670",
+      "end": "00:00:19.030",
+      "title": "Beyond Wattage",
+      "concepts": [
+        "Watt rating isn't enough",
+        "Choosing bulbs by overall performance"
+      ],
+      "description": "You must consider more than wattage to pick the right bulb."
+    },
+    {
+      "start": "00:00:19.030",
+      "end": "00:00:23.470",
+      "title": "Lumen: The Real Light Output",
+      "concepts": [
+        "Lumens measure light output",
+        "Important for comparing bulbs"
+      ],
+      "description": "Lumens quantify light produced by a bulb; use lumens to compare."
+    },
+    {
+      "start": "00:00:23.470",
+      "end": "00:00:26.930",
+      "title": "Lumens: Examples and Efficiency",
+      "concepts": [
+        "Lumens examples",
+        "Energy-efficient bulbs can match output with less energy"
+      ],
+      "description": "Demonstrates lumen level of common incandescent bulbs and efficiency."
+    },
+    {
+      "start": "00:00:26.930",
+      "end": "00:00:32.530",
+      "title": "Color Temperature: Warm vs. Cool Light",
+      "concepts": [
+        "Color temperature (CCT)",
+        "Warm (incandescent-like)",
+        "Cool/daylight"
+      ],
+      "description": "Color temperature affects the visual feel of light indoors."
+    },
+    {
+      "start": "00:00:32.530",
+      "end": "00:00:40.350",
+      "title": "Color Temperature Indoors: Practical Considerations",
+      "concepts": [
+        "Indoor suitability",
+        "Blue daylight risk",
+        "Choosing CCT for rooms"
+      ],
+      "description": "Lower numbers look incandescent; higher numbers resemble daylight but may be bluish indoors."
+    },
+    {
+      "start": "00:00:40.350",
+      "end": "00:00:49.570",
+      "title": "Cost and Longevity of New Bulbs",
+      "concepts": [
+        "Upfront cost",
+        "Energy savings",
+        "Longer lifespan"
+      ],
+      "description": "New technology bulbs cost more but save energy and last longer."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Explain lumens as the true light output and contrast with wattage",
+      "timestamp": "00:00:20.950",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Introduce color temperature and interpret warm vs daylight lighting",
+      "timestamp": "00:00:32.530",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Discuss energy efficiency and longevity trade-offs of modern bulbs (higher upfront cost, longer life)",
+      "timestamp": "00:00:46.110",
+      "confidence": 0.9
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:56:29.649747+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-09-01T10:56:59.488132+00:00"
+}

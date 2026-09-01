@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "video": "kXC5ItNFWN4.youtube",
+  "title": "How to Install a Motion-Activated Security Light",
+  "date": {
+    "display": "November 8, 2015",
+    "iso": "2015-11-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior wall / Outdoor installation (probable)",
+      "confidence": 0.6,
+      "basis": "Transcript describes drilling a hole to the outside, weatherproofing, outdoor wiring, and installing the light outside; filming location not specified"
+    }
+  ],
+  "summary": "This Old House illustrates a DIY exterior lighting upgrade by installing a motion-activated security light. The workflow includes selecting a dual-beam motion detector, preparing and routing power outside, assembling the fixture indoors, weatherproofing the exterior connection, and replacing an outlet with a motion-override switch. The host demonstrates the two-detector configuration (one forward at 180 degrees and one downward at 360 degrees), compares LED longevity with traditional bulbs, and uses a test mode to position and verify the beam before final night operation. The process emphasizes safety steps (power shutoff), outdoor sealing, and simple post-install testing to ensure the light activates with motion and can be overridden by a switch when desired.",
+  "topics": [
+    "motion detector orientation",
+    "dual-beam outdoor motion sensor",
+    "outdoor lighting installation",
+    "LED lifespan vs incandescent",
+    "outdoor wiring from inside to outside",
+    "shut off power at breaker",
+    "drilling to exterior wall",
+    "weatherproof sealing with putty",
+    "assembling fixture indoors before outdoor install",
+    "beaml alignment using test mode",
+    "motion-activated lighting operation",
+    "override switch for motion detector",
+    "beams and sensor coverage (forward 180 degrees, downward 360 degrees)",
+    "automatic activation at night"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:55:00",
+      "title": "Intro and component overview",
+      "concepts": [
+        "motion detector components",
+        "two-motion-detector concept (one forward, one downward)"
+      ],
+      "description": "The presenter introduces a motion detector unit with two detectors: one forward (180 degrees) and one aimed downward (360 degrees). He also introduces LED light modules and notes their long life compared with normal bulbs."
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:32:00",
+      "title": "Outdoor power prep and initial wiring task",
+      "concepts": [
+        "shut off power at breaker",
+        "replacing an outlet and drilling toward exterior"
+      ],
+      "description": "Power is shut off at the breaker before removing the old outlet and cutting a hole to run wiring outdoors toward the new fixture."
+    },
+    {
+      "start": "01:34:00",
+      "end": "02:10:00",
+      "title": "Fixture assembly indoors",
+      "concepts": [
+        "pre-assembly of the light fixture",
+        "indoor mounting prep"
+      ],
+      "description": "The light fixture is assembled inside the house prior to outdoor installation to simplify final assembly and weatherproofing steps."
+    },
+    {
+      "start": "02:10:00",
+      "end": "02:41:00",
+      "title": "Exterior installation and weatherproofing",
+      "concepts": [
+        "weatherproof seal using exterior putty",
+        "outdoor mounting considerations"
+      ],
+      "description": "Outside installation is accompanied by weatherproofing with flexible putty to seal the fixture and ducting from the elements."
+    },
+    {
+      "start": "02:47:00",
+      "end": "03:00:00",
+      "title": "Override switch and outlet modification",
+      "concepts": [
+        "replacing outlet with a switch/over-outlet",
+        "override motion detector capability"
+      ],
+      "description": "Inside the house, the existing outlet is replaced with a switch-over setup so the motion detector can be overridden if desired."
+    },
+    {
+      "start": "03:15:00",
+      "end": "03:35:00",
+      "title": "Testing, beam alignment, and real-world operation",
+      "concepts": [
+        "power reactivated",
+        "test mode for beam visibility",
+        "motion-triggered operation at night"
+      ],
+      "description": "Power is restored; the light activates when someone passes the sensor. The system is left in test mode to adjust the beam, with the expectation that it will operate automatically at night when motion is detected."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Dual motion detector orientation (forward 180 degrees and downward 360 degrees)",
+      "timestamp": "00:15",
+      "confidence": 0.75
+    },
+    {
+      "technique": "LED light longevity claim as an advantage over incandescent bulbs",
+      "timestamp": "00:40",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Outdoor wiring prep and exterior access: removing outlet and routing outside",
+      "timestamp": "00:55",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Weatherproof sealing with flexible putty at exterior fixture",
+      "timestamp": "02:10",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Replacing indoor outlet with a motion-detector override switch",
+      "timestamp": "02:47",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Beam alignment and verification using test mode before night use",
+      "timestamp": "03:24",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:20:58.268556+00:00"
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "video": "Y2o8upCxcqA.youtube",
+  "title": "How a Plumbing Trap Can Lose Water: Traps, Vents, and Common Causes",
+  "date": {
+    "display": "May 1, 2016",
+    "iso": "2016-05-01",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "North Carolina, USA",
+      "confidence": 0.75,
+      "basis": "explicit mention in transcript: 'Frank in North Carolina'; video shot by This Old House may not be in North Carolina"
+    }
+  ],
+  "summary": "This Old House explains how a washing machine drain can pull water out of a toilet trap when a vent is absent or clogged, by using a mock-up to illustrate traps and water seals. The video defines key plumbing elements—P-traps, toilet traps, and vent pipes—and demonstrates how a vent allows air into the drainage system to prevent negative pressure and gurgling. It contrasts unvented versus vented drain conditions, discusses where vents should connect, and covers several mechanisms that can cause trap seals to fail, including oscillation from wind, siphonage with S-traps, capillary action, evaporation, and momentum. The host offers practical notes on checking vents, considering mechanical vent options, and refilling traps if sewer gas smells occur.",
+  "topics": [
+    "P-trap",
+    "Toilet trap",
+    "Water seal",
+    "Sewer gas prevention",
+    "Gurgling sound",
+    "Vent",
+    "Vent pipe",
+    "Air ingress",
+    "Unvented fixture",
+    "Vent clog",
+    "Mechanical vent",
+    "Main vent",
+    "Wind oscillation on vents",
+    "Washing machine drain connection",
+    "Slug of water from washer discharge",
+    "Backpressure",
+    "Air relief",
+    "Siphonage",
+    "S-trap",
+    "Full S trap (illegal)",
+    "Capillary attraction",
+    "Evaporation",
+    "Momentum",
+    "Oscillation",
+    "Refilling traps",
+    "Diagnosing vent problems"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:00:20",
+      "title": "Problem framing: washer drain pulling water from the toilet",
+      "concepts": [
+        "Washer drain can affect nearby toilet",
+        "Question about why a toilet water seal is compromised"
+      ],
+      "description": "Introductory note that Frank's washing machine drain affects the adjacent toilet, motivating a live demonstration of traps and seals."
+    },
+    {
+      "start": "00:00:20",
+      "end": "00:01:12",
+      "title": "Mock-up demonstration: traps and water seals (P-trap and toilet trap)",
+      "concepts": [
+        "P-trap water seal",
+        "Toilet trap water seal",
+        "Water in traps prevents sewer gas",
+        "Role of traps in plumbing"
+      ],
+      "description": "A cutaway mock-up shows the water seal inside a P-trap and a toilet trap, illustrating how the seal blocks sewer gas and how it can be compromised by rapid drainage."
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:01:46",
+      "title": "Venting and air relief: why a vent matters",
+      "concepts": [
+        "Vent pipe",
+        "Air necessary to relieve vacuum",
+        "Gurgling indicates negative pressure"
+      ],
+      "description": "Demonstrates how a vent allows air into the system as water drains, preventing negative pressure and gurgling."
+    },
+    {
+      "start": "00:01:46",
+      "end": "00:02:59",
+      "title": "Frank's case: vent absence, potential fixes and vent options",
+      "concepts": [
+        "Vent existence and location",
+        "Clogged vent potential (animal blockage)",
+        "Mechanical vent option",
+        "Vent connections to the building"
+      ],
+      "description": "Discussion of Frank's scenario where a large slug of water from the washer lacks a vent, potential venting fixes, and the idea that vents don’t have to run straight to the roof if a mechanical vent is used."
+    },
+    {
+      "start": "00:03:03",
+      "end": "00:05:15",
+      "title": "Seven mechanisms for losing trap seals",
+      "concepts": [
+        "Oscillation due to wind",
+        "Siphonage / S-trap",
+        "Capillary attraction",
+        "Evaporation",
+        "Momentum",
+        "Other trap-seal loss mechanisms",
+        "Sewer gas considerations"
+      ],
+      "description": "Explanation of multiple causes that can progressively reduce trap seals, including wind-induced oscillation, illegal S-traps, capillary action, evaporation, and momentum, with notes on how these issues can be hidden inside traps."
+    },
+    {
+      "start": "00:05:15",
+      "end": "00:05:29",
+      "title": "Takeaway: check, refill, and consider venting solutions",
+      "concepts": [
+        "Refill traps if sewer gas smells",
+        "Check vents for blockages",
+        "Consider mechanical vent options"
+      ],
+      "description": "Final guidance emphasizing verification of trap water, vent functionality, and practical remedies if odors or drainage issues appear."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "P-trap and toilet trap water seal demonstration (mock-up) to show how traps hold water and block sewer gas",
+      "timestamp": "00:00:30",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Vent vs. unvented drainage behavior demonstrated by simulating air entry to prevent vacuum and improve drainage",
+      "timestamp": "00:01:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Discussion and illustration of mechanical vent options as alternatives to roof-venting",
+      "timestamp": "00:02:59",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:46:26.849670+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "video": "7ePc9cz__FM.youtube",
+  "title": "Repair Toilet Tank Components: Flapper Replacement, Chain Adjustment, and Fill-Valve Settings",
+  "date": {
+    "display": "January 15, 2020",
+    "iso": "2020-01-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House segment explains how a standard toilet tank works by distinguishing the flush valve (including the flapper) from the fill valve, and then demonstrates practical repair steps to stop common leaks. The host emphasizes that leaks inside the tank waste water, and walks through identifying a worn flapper, replacing it, and adjusting the chain so the tank lever operates correctly. The video also covers setting the fill-valve height so the tank stops filling about one inch below the overflow, discusses the difference between old brass float rods and modern built-in floats, and highlights safety considerations of the overflow tube. Throughout, the emphasis is on turning off the water before work, testing after each adjustment, and avoiding over-tightening to prevent recurrent leaks.",
+  "topics": [
+    "toilet tank components",
+    "flush valve",
+    "flapper",
+    "fill valve",
+    "overflow tube",
+    "overflow safety device",
+    "tank lever",
+    "toilet chain",
+    "chain length adjustment",
+    "water level setting",
+    "one inch below overflow",
+    "modern float",
+    "old brass float rod",
+    "threaded fill-valve adjustment",
+    "leak testing",
+    "water shut-off"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:01:04",
+      "title": "Toilet tank anatomy and common leak sources",
+      "concepts": [
+        "tank",
+        "bowl",
+        "flush valve",
+        "fill valve"
+      ],
+      "description": "Introduction to the two main tank components and how the flush valve (flapper) and fill valve operate, framing how leaks inside the tank drive water use without visible floor leaks."
+    },
+    {
+      "start": "00:01:11",
+      "end": "00:02:14",
+      "title": "Flapper replacement and chain setup",
+      "concepts": [
+        "flapper",
+        "chain",
+        "tank lever",
+        "clip-on replacement"
+      ],
+      "description": "Explains that a worn rubber flapper causes drips; demonstrates replacing the flapper by clipping on a new one and attaching the chain to the tank lever with proper tension."
+    },
+    {
+      "start": "00:02:02",
+      "end": "00:02:59",
+      "title": "Chain length and flush timing",
+      "concepts": [
+        "chain links",
+        "hook on chain",
+        "proper tension"
+      ],
+      "description": "Describes how the chain must be neither too taut nor too loose to prevent leaks and ensure the lever lifts the flapper correctly for a complete flush."
+    },
+    {
+      "start": "00:02:38",
+      "end": "00:04:06",
+      "title": "Overflow safety and fill-valve level setting",
+      "concepts": [
+        "overflow tube",
+        "fill valve adjustment",
+        "water level",
+        "float"
+      ],
+      "description": "Outlines the overflow as a safety device and provides the target water level—about one inch below the top of the overflow—and shows how to adjust the fill valve and float to achieve it. Also contrasts old-style floats with modern built-in floats and explains how to set the height with threaded adjustment."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify and label toilet tank components (flush valve and fill valve)",
+      "timestamp": "00:00:41",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Replace flapper and clip onto tank",
+      "timestamp": "00:01:40",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Adjust chain length to prevent leaks",
+      "timestamp": "00:02:02",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Set fill-valve water level to ~1 inch below overflow",
+      "timestamp": "00:02:59",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Explain difference between old brass float rod and modern float; adjust with threaded collar",
+      "timestamp": "00:03:36",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:51:35.932296+00:00"
+}

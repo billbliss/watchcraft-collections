@@ -1,0 +1,163 @@
+{
+  "schema_version": 2,
+  "video": "ZBebljyOFLc.youtube",
+  "title": "Installing an Overhead Light with a Wall Switch in a Master Bedroom (Ask This Old House)",
+  "date": {
+    "display": "May 28, 2017",
+    "iso": "2017-05-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Master bedroom",
+      "confidence": 0.9,
+      "basis": "Explicitly stated as the location where the light is installed"
+    },
+    {
+      "name": "Attic (unfinished)",
+      "confidence": 0.9,
+      "basis": "Mentioned as the workspace for routing wiring and locating the ceiling box"
+    }
+  ],
+  "summary": "This Old House demonstrates a complete overhead-light installation in a master bedroom, including center-layout planning to maximize usable space, locating and wiring a switch leg from an existing circuit, cutting a drywall box, routing wiring through an attic with locator rods, mounting a 20‑pound-rated plastic junction box with swing-out brackets, splicing connections with wire nuts, and installing an LED-compatible dimmer. The hosts emphasize safe practices (power off, accessible junction box with blank cover), careful measurement to center the fixture in the largest area rather than over the bed, and testing the system after power restoration. The narrative provides concrete on-site techniques for planning, mounting, wiring, and testing an overhead fixture in a real bedroom scenario.",
+  "topics": [
+    "Master bedroom overhead lighting",
+    "Planning fixture placement in a room",
+    "Centering a ceiling light using room dimensions",
+    "Switch leg wiring from existing circuit",
+    "Identifying line and load in a box",
+    "Standard wall switch height (48 inches)",
+    "Cutting a drywall electrical box",
+    "Drywall cut techniques to minimize chipping",
+    "Routing wiring through the attic (fishing wires)",
+    "Using locator rods to locate attic routing paths",
+    "Attic access and joist navigation",
+    "Installing a ceiling electrical box with swing-out brackets",
+    "Junction box mounting rated at 20 pounds",
+    "LED dimmer compatibility",
+    "Wire splicing vs soldering (code-compliant methods)",
+    "Leaving junction boxes accessible with blank covers",
+    "Power shut-off and test after wiring"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:40",
+      "title": "Layout planning and fixture centering",
+      "concepts": [
+        "center light in largest space",
+        "mock-up layout with tape",
+        "dimensions and halfway points (69 in, 84 in)"
+      ],
+      "description": "In the master bedroom, the instructor argues against placing the fixture directly over the bed and instead centers it in the largest mass of space. He measures the room (138 in width, 168 in length), uses tape as a guide at the half-width (69 in) and half-length (84 in), and references placing the fixture there for the ceiling layout."
+    },
+    {
+      "start": "00:01:32",
+      "end": "00:02:34",
+      "title": "Wiring plan and switch location",
+      "concepts": [
+        "existing wiring found (two blacks, two whites)",
+        "power feed and load routing",
+        "installing a wall switch at ~48 inches"
+      ],
+      "description": "The team identifies two cable runs (line in and load out) and plans to move power to a wall switch at typical 48 inches height. They describe this as a 'switch leg' and outline routing from the current box down to a new switch box and up to the light."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:03:18",
+      "title": "Cutting a box and preparing to route wiring",
+      "concepts": [
+        "cutting a drywall box",
+        "razor to minimize paint chipping",
+        "preparing to drill and route wiring"
+      ],
+      "description": "Before cutting, a precision razor is used to minimize damage to surrounding drywall. The plan is to cut a box in the wall and prepare for wire routing to the attic."
+    },
+    {
+      "start": "00:03:18",
+      "end": "00:04:45",
+      "title": "Attic access and locating the route above the wall",
+      "concepts": [
+        "locator rods extended into the attic",
+        "finding the top of the wall",
+        "planning to drill from below to reach the box"
+      ],
+      "description": "Locator rods are sent through the ceiling into the attic to verify clearances. In the attic, a marker shows the path between ceiling joists, and they determine how to drill down to access the box from above."
+    },
+    {
+      "start": "00:04:45",
+      "end": "00:05:53",
+      "title": "Fixture support and central wiring path",
+      "concepts": [
+        "plastic mounting box supports 20 pounds",
+        "swing-out brackets lock against drywall",
+        "routing wire toward the center fixture"
+      ],
+      "description": "A plastic box with swing-out mounting brackets is installed to support the fixture. The brackets push against drywall to secure the fixture, and routing aims toward a centered ceiling location."
+    },
+    {
+      "start": "00:05:53",
+      "end": "00:06:59",
+      "title": "Wiring prep, splices, and box accessibility",
+      "concepts": [
+        "LED dimmer compatibility",
+        "replacing old solder joints with wirenuts",
+        "keeping the junction box accessible with a blank cover"
+      ],
+      "description": "The team notes LED compatibility for the dimmer. They replace an old soldered wire-twist with a modern wirenut splice and secure an accessible junction box with a blank cover so it can be opened if needed."
+    },
+    {
+      "start": "00:07:01",
+      "end": "00:07:17",
+      "title": "Power restoration and switch test",
+      "concepts": [
+        "power is restored",
+        "testing the wall switch",
+        "brightness and dimming function"
+      ],
+      "description": "Power is reconnected and the switch is tested. The light is bright and dimmer-capable, suitable for late-night use and infant care, concluding the installation demonstration."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Centering overhead lighting using room measurements and tape mock-ups",
+      "timestamp": "00:00:41.190",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Planning and implementing a switch leg to a wall switch (48-inch height)",
+      "timestamp": "00:01:32.670",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Attic routing with locator rods to map the wiring path",
+      "timestamp": "00:03:13.860",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Installing a ceiling-rated plastic junction box with swing-out brackets",
+      "timestamp": "00:04:45.920",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using wire nuts and replacing solder joints for safe splicing",
+      "timestamp": "00:06:34.450",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Testing LED-compatible dimmer and confirming lighting behavior",
+      "timestamp": "00:07:01.630",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Keeping junction boxes accessible with a blank cover",
+      "timestamp": "00:06:54.430",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:31:19.772637+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "video": "umDhJBfe1JU.youtube",
+  "title": "Understanding the Lighting Facts Label: Lumens, Wattage, Kelvin, and Integrated LEDs",
+  "date": {
+    "display": "May 15, 2016",
+    "iso": "2016-05-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This short educational segment explains how to read the Lighting Facts label on modern light bulbs. It emphasizes lumens as the brightness metric, clarifies that wattage represents power consumption rather than brightness, and provides practical comparisons (e.g., 800 lumens roughly equals a 60-watt incandescent). It then introduces color temperature in the Kelvin scale, noting that lower numbers feel warmer while higher numbers feel cooler, with 2700–3000 K suggested for a traditional look. The video concludes by noting the rise of integrated LED fixtures, which carry the same label and can last 20 years or longer, underscoring the value of reading and understanding the label when shopping for lighting.",
+  "topics": [
+    "Lighting Facts label",
+    "Lumens",
+    "Brightness versus wattage",
+    "800 lumens ≈ 60W incandescent",
+    "Wattage as power consumption",
+    "Halogen vs LED wattage comparison",
+    "Color temperature",
+    "Kelvin scale",
+    "2700–3000 K traditional lighting look",
+    "Integrated LED fixtures",
+    "Lifespan of LED and integrated fixtures",
+    "Reading and comparing lighting labels",
+    "Energy efficiency in lighting"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:01:13",
+      "title": "Key labeling metrics: lumens and wattage",
+      "concepts": [
+        "lumens",
+        "brightness",
+        "wattage",
+        "power consumption",
+        "halogen vs LED efficiency"
+      ],
+      "description": "Defines lumens as the primary brightness metric and explains that wattage is about energy use, not brightness; provides an example that halogen incandescent uses more watts than an equivalent LED."
+    },
+    {
+      "start": "00:01:13",
+      "end": "00:01:31",
+      "title": "Color temperature and the Kelvin scale",
+      "concepts": [
+        "color temperature",
+        "Kelvin",
+        "warmth vs coolness",
+        "2700–3000 K traditional look"
+      ],
+      "description": "Describes how lower Kelvin values yield warmer light and higher values yield cooler light, with a traditional look favored around 2700–3000 Kelvin."
+    },
+    {
+      "start": "00:01:31",
+      "end": "00:01:57",
+      "title": "Integrated LED fixtures and labeling",
+      "concepts": [
+        "integrated LEDs",
+        "Lighting Facts label",
+        "long lifespan"
+      ],
+      "description": "Notes the trend toward integrated LED fixtures, which still carry the Lighting Facts label and can last 20 years or longer, reinforcing the value of reading the label when shopping."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Lumens as the brightness metric",
+      "timestamp": "00:00:36.420",
+      "confidence": 0.85
+    },
+    {
+      "technique": "800 lumens equals 60W incandescent equivalence",
+      "timestamp": "00:00:41.720",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wattage is power consumption, not brightness",
+      "timestamp": "00:00:56.960",
+      "confidence": 0.9
+    },
+    {
+      "technique": "LED vs halogen wattage comparison",
+      "timestamp": "00:01:05.460",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Color temperature and the Kelvin scale",
+      "timestamp": "00:01:18.460",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Traditional look target: 2700–3000 K",
+      "timestamp": "00:01:24.660",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Integrated LED fixtures and long lifespans",
+      "timestamp": "00:01:39.540",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:29:33.373708+00:00"
+}

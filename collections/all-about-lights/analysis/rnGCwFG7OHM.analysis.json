@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "video": "rnGCwFG7OHM.youtube",
+  "title": "How to Convert a Recessed Light to a Pendant",
+  "date": {
+    "display": "August 6, 2016",
+    "iso": "2016-08-06",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates converting a recessed can light into a pendant using a dedicated conversion kit. The host explains why a direct swap is impractical due to the existing ceiling box and structure, then walks through assembling and mounting a socket adapter, hollow support rod, and mounting plate attached to the can. The kit uses decorative medallions to cover the large recessed opening and blends with the ceiling. The wiring is connected from the socket to the pendant (hot/black, neutral/white, ground/green), the traditional fixture bar is removed, and the pendant is assembled and tested with an LED bulb to ensure an aesthetically pleasing, energy-efficient result. Safety steps include shutting off power at the breaker and carefully tucking wires inside the canopy before finishing.",
+  "topics": [
+    "Socket adapter installation",
+    "Hollow pendant rod",
+    "Mounting bracket",
+    "Threaded rod",
+    "Mounting plate",
+    "Medallions for recessed openings",
+    "Canopy adaptation",
+    "Electrical wiring (hot black, neutral white, ground green)",
+    "Self-tapping screws",
+    "Fixture bar removal",
+    "Studs removal",
+    "LED bulb retrofit",
+    "Pendant hardware",
+    "Recessed can versus pendant considerations",
+    "Drywall considerations for new fixture",
+    "Power-off safety (breaker)",
+    "Wiring inside canopy",
+    "Decorative hardware and finish"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:05",
+      "title": "Introduction and challenges of converting recessed to pendant",
+      "concepts": [
+        "recessed vs pendant",
+        "hole size differences (4-inch vs 6-inch)",
+        "ceiling structure above the can",
+        "why a direct swap isn't straightforward"
+      ],
+      "description": "Explain why a standard fixture box isn't suitable for pendant conversion and preview the conversion kit approach."
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:02:20",
+      "title": "Kit components and how the conversion works",
+      "concepts": [
+        "socket adapter",
+        "hollow rod",
+        "mounting bracket",
+        "threaded rod",
+        "medallions"
+      ],
+      "description": "Describe the parts of the kit and how power travels from the old socket to the pendant via the hollow rod and bracket assembly."
+    },
+    {
+      "start": "00:02:20",
+      "end": "00:03:39",
+      "title": "Rough-in and mounting preparation",
+      "concepts": [
+        "pre-assembly of bracket",
+        "ground/neutral/hot wiring",
+        "self-tapping screws",
+        "fixture box to ceiling"
+      ],
+      "description": "Prepare the mounting hardware and route wires before attaching the plate and can."
+    },
+    {
+      "start": "00:03:39",
+      "end": "00:04:34",
+      "title": "Installing the pendant hardware",
+      "concepts": [
+        "plate mounting to fixture rod",
+        "removing fixture bar and studs",
+        "medallions"
+      ],
+      "description": "Install the mounting plate, attach the pendant hardware, and adapt the can opening with medallions."
+    },
+    {
+      "start": "00:04:34",
+      "end": "00:05:22",
+      "title": "Wiring, finishing, and test",
+      "concepts": [
+        "wire tie-in (black to black, white to white, green to bare ground)",
+        "canopy wiring",
+        "LED bulb replacement",
+        "power restoration and test"
+      ],
+      "description": "Complete the wiring inside the canopy, install an LED bulb, restore power, and test the pendant."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Socket adapter conversion from recessed light to pendant",
+      "timestamp": "00:01:05",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Bracket and hollow rod mounting to recessed housing",
+      "timestamp": "00:01:30",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Decorative medallions and canopy adaptation to can opening",
+      "timestamp": "00:01:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wiring connections: hot/black, neutral/white, ground/green",
+      "timestamp": "00:04:22",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Fixture bar removal and direct-mount to mounting plate",
+      "timestamp": "00:03:44",
+      "confidence": 0.87
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:25:50.751700+00:00"
+}

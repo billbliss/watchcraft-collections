@@ -1,0 +1,97 @@
+{
+  "schema_version": 2,
+  "video": "LLcZyxsKlyw.youtube",
+  "title": "Orange U-Shaped LED Light and Edge-Cutting Light: A Quick Demo Pack from Ask This Old House",
+  "date": {
+    "display": "August 27, 2018",
+    "iso": "2018-08-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This short Ask This Old House segment presents a trio of lighting demonstrations showcased in a humorous, conversational style. An orange U-shaped LED device is introduced and described as lighting up and aiding visibility in low-light scenarios. A lighted money clip is presented as a personal gadget intended to help you always know where cash is, with playful implications about security. A separate, small plug-in lighting device is shown in the context of holiday decorations (inflatable Santa and Easter Bunny) to illustrate easy outlet management and nighttime visibility. The segment also demonstrates a lighting-assisted method for painting: by wearing or activating a small light, you can illuminate edges to better follow along corners and cut in more accurately. Throughout, the presenters mix product demonstrations with lighthearted banter to convey practical ideas for small lighting aids that improve visibility during everyday tasks.",
+  "topics": [
+    "orange U-shaped LED light",
+    "wearable/portable lighting for night navigation",
+    "lighted money clip",
+    "visibility and security using a light",
+    "outdoor holiday lighting plug-in device",
+    "outlet management for inflatable decorations",
+    "edge-light for painting",
+    "cut-in painting with illumination",
+    "troubleshooting light-assisted DIY tasks"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:12:00",
+      "title": "Intro: Orange U-Shaped LED light",
+      "concepts": [
+        "orange U-shaped LED device",
+        "wearable/portable illumination",
+        "night visibility"
+      ],
+      "description": "The host(s) introduce an orange U-shaped LED light and describe its appearance and its function as a light source that helps illuminate a path, framed with humorous commentary about its use in low-light situations (including ocean swimming and danger avoidance)."
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:31:00",
+      "title": "Lighted Money Clip Demo",
+      "concepts": [
+        "lighted money clip",
+        "pocket visibility",
+        "personal security/deterrence",
+        "using light to locate objects in the dark"
+      ],
+      "description": "The speaker explains that the lighted money clip was developed to help keep track of money and stash locations in the dark, with playful acknowledgement of potential misuse by others and a practical demonstration of the device’s light-enabled visibility."
+    },
+    {
+      "start": "01:33:00",
+      "end": "01:57:00",
+      "title": "Holiday Lighting Device Demonstration",
+      "concepts": [
+        "inflatable holiday décor (Santa, Easter Bunny)",
+        "plug-in lighting device",
+        "outlet accessibility at night"
+      ],
+      "description": "The dialogue shifts to inflatable holiday figures (Santa and Easter Bunny) and a small device that enables easier plugging in of these decorations, emphasizing night-time outlet locating and the convenience of not being unable to find outlets after dusk."
+    },
+    {
+      "start": "02:03:00",
+      "end": "02:31:00",
+      "title": "Edge-Cutting Painting with Light",
+      "concepts": [
+        "edge-lighting for paint cuts",
+        "cut-in technique with lighting",
+        "following edges in dark spots"
+      ],
+      "description": "The presenters discuss common painting challenges (cutting in along edges, painting into corners) and demonstrate using a light-enabled tool to illuminate the edge, enabling the painter to follow the edge in dark spots and achieve a cleaner corner."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Wearable orange U-shaped LED light for navigation",
+      "timestamp": "00:00:05",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Lighted money clip for locating cash in the dark",
+      "timestamp": "01:12:00",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Plug-in lighting device to manage holiday inflatables",
+      "timestamp": "01:50:00",
+      "confidence": 0.5
+    },
+    {
+      "technique": "Edge-lit cutting-in technique for painting corners",
+      "timestamp": "02:16:00",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:22:29.814085+00:00"
+}

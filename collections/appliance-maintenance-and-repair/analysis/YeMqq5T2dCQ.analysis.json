@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "video": "YeMqq5T2dCQ.youtube",
+  "title": "Installing a Heat Pump Water Heater | This Old House",
+  "date": {
+    "display": "November 13, 2014",
+    "iso": "2014-11-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House guides viewers through replacing an aging electric water heater with a modern heat-pump model. The video contrasts a traditional glass-lined tank with two 4,500-watt immersion elements to a heat-pump system that extracts heat from surrounding air with a 700-watt compressor and circulating refrigerant. It covers why the old unit loses efficiency due to mineral buildup and demonstrates the installation workflow: shutting off water and power, draining and removing the old heater, positioning the new unit, connecting cold and hot water lines (including a vacuum breaker and dip tube), routing condensate to a pump, wiring a 240V circuit, and choosing the hybrid mode for maximum energy savings. The host emphasizes safety steps, the need for a condensate drain, and the expected energy savings from the heat-pump approach, finishing with startup and normal operation settings.",
+  "topics": [
+    "electric water heater basics",
+    "glass-lined steel tank",
+    "immersion heating elements (top and bottom)",
+    "4,500-watt elements",
+    "mineral buildup and efficiency loss",
+    "no venting for electric heaters",
+    "heat pump principle (air-to-water)",
+    "refrigerant cycle and compressor (approx. 700 W)",
+    "energy efficiency comparison (compressor vs elements)",
+    "240V electrical supply and 30A circuit",
+    "two hot legs and a ground",
+    "draining and removing old heater",
+    "shut-off valves and water main shutoff",
+    "vacuum breaker and dip tube",
+    "unions for serviceability",
+    "condensate drainage and condensate pump",
+    "air filter maintenance",
+    "hybrid mode for efficiency",
+    "startup temperature (default 120°F)",
+    "no-arch venting considerations for heat pumps"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03.020",
+      "end": "00:00:50.920",
+      "title": "Old water heater and observed issues",
+      "concepts": [
+        "electric water heater basics",
+        "glass-lined tank",
+        "mineral buildup and efficiency",
+        "top and bottom immersion elements",
+        "4,500 watts"
+      ],
+      "description": "Introduces the existing electric water heater, noting its age (about 17 years), the lack of venting, the 220V supply, and the two immersion elements (top and bottom) rated around 4,500 watts, with a warning about calcium/hardness buildup reducing efficiency and potentially causing element failure."
+    },
+    {
+      "start": "00:01:00.420",
+      "end": "00:02:12.100",
+      "title": "Overview of the heat-pump replacement and efficiency claims",
+      "concepts": [
+        "heat pump basics",
+        "backup heating elements",
+        "energy efficiency advantage vs traditional electric heater",
+        "700-watt compressor vs 4,500-watt element",
+        "hybrid operation concept"
+      ],
+      "description": "Presents the new heat-pump water heater, where the heat pump principally heats water while the traditional elements act as backups. It explains that the heat pump uses the refrigerant cycle to move heat from ambient air into the tank and highlights the efficiency advantage (compressor ~700 W versus 4,500 W electric elements) and the expected energy savings."
+    },
+    {
+      "start": "00:02:14.520",
+      "end": "00:04:13.880",
+      "title": "Removal of old unit and placement of the new heater",
+      "concepts": [
+        "draining the old heater",
+        "shutting off water main",
+        "killing electrical supply",
+        "removing old unit",
+        "moving new heater into place",
+        "rough alignment with supply pipes"
+      ],
+      "description": "Covers the process of preparing for replacement: turning off the water, cutting power, draining and removing the old unit, and bringing the new heat-pump unit into position while aligning it with the plumbing."
+    },
+    {
+      "start": "00:04:13.880",
+      "end": "00:05:03.160",
+      "title": "Water connections: vacuum breaker, dip tube, and pipe unions",
+      "concepts": [
+        "cold water feed",
+        "vacuum breaker",
+        "dip tube",
+        "unions for serviceability",
+        "hot water discharge to house"
+      ],
+      "description": "Details the water connections for the new heater, including the cold-water feed with a dip tube to deliver cold water to the tank bottom, the hot-water outlet back to the house, a vacuum breaker to prevent air-induced damage, and the unions used for serviceability."
+    },
+    {
+      "start": "00:05:23.850",
+      "end": "00:06:57.780",
+      "title": "Electrical hookup, condensate management, and startup settings",
+      "concepts": [
+        "240V supply and 30A circuit",
+        "two hot legs and a ground",
+        "condensate drainage and condensate pump",
+        "air filter maintenance",
+        "default and hybrid operation mode",
+        "startup temperature setting (120°F)"
+      ],
+      "description": "Covers wiring the 240V supply (two hot legs and ground), addressing condensate produced by the heat pump via a condensate pump routed to a drain, installing a filter, and configuring the unit to the default 120°F with the hybrid mode to maximize efficiency during operation and startup."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Heat pump water heater operation explained as refrigerant cycle absorbing ambient heat",
+      "timestamp": "00:01:14",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Condensate drainage installation using a condensate pump",
+      "timestamp": "00:06:05",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Vacuum breaker and dip tube water connections for safe operation",
+      "timestamp": "00:04:05",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Hybrid mode and 120°F default for energy savings",
+      "timestamp": "00:06:49",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Shutoff and safety steps during replacement (water main and electrical breaker)",
+      "timestamp": "00:02:27",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:53:45.161542+00:00"
+}

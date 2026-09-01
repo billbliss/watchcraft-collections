@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "video": "k5J68hRmExk.youtube",
+  "title": "Indirect LED Ceiling Lighting for an Exposed-Ceiling Timber-Frame Space (This Old House)",
+  "date": {
+    "display": "June 8, 2025",
+    "iso": "2025-06-08",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House explores preserving an original timber-frame great room while upgrading the ceiling and lighting. The episode discusses the challenges of lighting a kitchen-dining-great-room combination with a historically restored ceiling and a pitched roof, balancing task and general lighting with the desire to reveal rather than conceal original materials. The plan centers on hidden LED tape running along the beams to create a bright, indirect glow, while pendant lighting and careful mounting strategies are evaluated to avoid visual clutter and respect the historic structure.",
+  "topics": [
+    "timber frame preservation",
+    "wall plates, rafters, and sheathing preservation",
+    "original roof boards reinstalled under new framing",
+    "lighting plan for exposed ceiling",
+    "recessed lighting with sloped ceilings",
+    "pitch guidance: 45° roof/12 pitch considerations",
+    "LED tape indirect lighting",
+    "beam-mounted lighting strategy",
+    "pendant lighting options for kitchen island",
+    "pendant mounting from original floor joists",
+    "ceiling color impact on lighting",
+    "canopy mount fixtures for flexibility",
+    "mock-up/testing for lighting layout",
+    "luminosity and glare management",
+    "insulation and structural challenges when preserving materials"
+  ],
+  "sections": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:16",
+      "title": "Project Vision: Preserve historic material while planning lighting",
+      "concepts": [
+        "preservation of timber frame",
+        "retaining old beams, wall plates, rafters, and sheathing",
+        "illusion of original building in a modern framed space",
+        "lighting considerations tied to historical integrity"
+      ],
+      "description": "The hosts emphasize preserving the original timber-frame and roof materials to maintain historical integrity, noting that old ceiling boards will be reinstalled beneath new framing to preserve the space’s look. The discussion highlights anticipated challenges across insulation, lighting, and integration with modern systems."
+    },
+    {
+      "start": "00:01:16",
+      "end": "00:02:49",
+      "title": "Lighting strategy for a pitched ceiling and pendant options",
+      "concepts": [
+        "pitch impact on recessed lighting",
+        "fixture tilt limitations (approx. 30° physically achievable)",
+        "options for hanging pendants: ceiling vs. beam",
+        "mounting from original floor joists to define kitchen area",
+        "canopy hardware for flexible mounting"
+      ],
+      "description": "A mock-up demonstrates a 45° roof pitch with a 12/pitch ratio, illustrating the limitations of typical recessed fixtures and the exploration of pendant lighting either from the ceiling or low from a beam. The team proposes hanging from the original floor joists to both provide support and delineate the kitchen area while keeping the ceiling visually uncluttered."
+    },
+    {
+      "start": "00:02:49",
+      "end": "00:03:43",
+      "title": "Indirect LED lighting plan and live demonstration",
+      "concepts": [
+        "LED tape installation on top of beams",
+        "indirect lighting to illuminate the ceiling glow",
+        "one-strip prototype and scale-up (eightfold) plan",
+        "glare-free, comfortable room ambience"
+      ],
+      "description": "The crew introduces LED tape as a hidden lighting solution that will run along the tops of the beams to create a bright glow without exposing fixtures. A demonstration of a single LED strip confirms it produces surprising brightness, with the plan calling for eight times that amount across the ceiling to achieve a warm, indirect illumination that enhances the timber surfaces."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hidden LED tape lighting installed on top of structural beams to create indirect ceiling glow",
+      "timestamp": "00:02:49",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Lighting mock-up for a 45° roof pitch (12 pitch) to validate fixture angles",
+      "timestamp": "00:01:19",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Hanging pendants from original floor joists to define kitchen area",
+      "timestamp": "00:01:58",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Canopy mounting for flexible pendant hardware on beams",
+      "timestamp": "00:02:21",
+      "confidence": 0.6
+    },
+    {
+      "technique": "LED strip brightness demonstration (one strip) before scaling",
+      "timestamp": "00:03:05",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Ceiling color strategy to maximize light reflection and reduce absorption",
+      "timestamp": "00:02:36",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:15:59.685141+00:00"
+}

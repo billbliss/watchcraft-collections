@@ -1,0 +1,139 @@
+{
+  "schema_version": 2,
+  "video": "TBRFyGrzCEg.youtube",
+  "title": "Installing an Antique Gas-Light Fixture: Wiring, Box Mount, and LED Retrofit",
+  "date": {
+    "display": "April 3, 2016",
+    "iso": "2016-04-03",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House demonstrates installing an antique Victorian gas-light fixture converted to electric, focusing on safe wiring and ceiling-mount considerations in a setting with exposed components and limited attic access. The hosts identify hazards in the existing setup (three-conductor BX cable, no dedicated ground, exposed splices) and outline a plan to mount a metal junction box using a mounting bar, re-route wiring through a new ceiling opening, and splice the fixture to the circuit. The process includes removing an obstructing gas pipe, using anti-short bushings and grounding clamps, and completing the installation with an antique-style push-button switch that incorporates a dimmer and LED bulbs designed to mimic an original glow. The overall emphasis is on safely integrating old and new elements while preserving the fixture’s historic appearance.",
+  "topics": [
+    "antique gas-light fixture converted to electric",
+    "three-conductor circuit (hot, neutral, feed-through)",
+    "Armored Cable (BX) and grounding issues",
+    "metal electrical box for splices",
+    "ceiling box mounting without attic access",
+    "expansion-bar ceiling mounting method",
+    "hole cutting and wiring routing",
+    "gas pipe obstruction removal",
+    "anti-short bushings",
+    "grounding clamps",
+    "conductors splicing to fixture",
+    "antique-style push-button switch with dimmer",
+    "LED bulbs with antique glow",
+    "cloth insulation and electrical tape",
+    "preserving historic aesthetic in modern wiring"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:15",
+      "title": "Hazards and fixture background",
+      "concepts": [
+        "exposed wiring",
+        "no dedicated ground",
+        "antique Victorian gas-light fixture converted to electric"
+      ],
+      "description": "Introduction to the safety concerns of the existing setup: a bare light bulb with exposed wiring and an antique gas-light fixture converted to electric that needs proper wiring and mounting."
+    },
+    {
+      "start": "00:01:15",
+      "end": "00:01:56",
+      "title": "Wiring configuration and box considerations",
+      "concepts": [
+        "three conductors into a plate",
+        "BX armored cable",
+        "no dedicated ground",
+        "metal box requirement"
+      ],
+      "description": "Explanation of the three-wire feed (power, feed to next room, feed to switch) and the absence of a dedicated ground, with emphasis on BX cable and the need for a metal junction box."
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:02:34",
+      "title": "Mounting strategy using expansion bar",
+      "concepts": [
+        "expansion-bar ceiling mount",
+        "spikes anchoring into joists",
+        "mounting box to bar"
+      ],
+      "description": "Introduction of an expansion-bar hanger that anchors into wood joists to securely mount the electrical box when attic access is limited."
+    },
+    {
+      "start": "00:02:34",
+      "end": "00:03:08",
+      "title": "Hole planning and gas pipe obstacle",
+      "concepts": [
+        "trace outline for new hole",
+        "reciprocating saw",
+        "old gas pipe encountered"
+      ],
+      "description": "Procedure for outlining and cutting the ceiling hole, including the discovery and clearance of an old gas pipe in the installation path."
+    },
+    {
+      "start": "00:03:08",
+      "end": "00:03:37",
+      "title": "Wiring protection and grounding hardware",
+      "concepts": [
+        "anti-short bushings",
+        "grounding clamps"
+      ],
+      "description": "Use of anti-short bushings to protect conductors and grounding clamps to connect wires to the electrical blocks."
+    },
+    {
+      "start": "00:03:37",
+      "end": "00:04:27",
+      "title": "Splicing and fixture connection",
+      "concepts": [
+        "splice conductors",
+        "connect to fixture"
+      ],
+      "description": "Splicing conductors to each other and to the new light fixture as part of completing the electrical connection."
+    },
+    {
+      "start": "00:04:27",
+      "end": "00:04:53",
+      "title": "Switch and LED aesthetic",
+      "concepts": [
+        "antique push-button switch with dimmer",
+        "LED bulbs with antique glow",
+        "preserving original look"
+      ],
+      "description": "Testing the switch and final lighting with LED bulbs designed to emit an antique glow, preserving the period look while using modern components."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Mount ceiling electrical box to joists using an expansion bar anchor",
+      "timestamp": "00:02:07",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Use metal box for splices and ground BX with clamps",
+      "timestamp": "00:01:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Trace and cut ceiling hole after accounting for obstructions (gas pipe)",
+      "timestamp": "00:02:51",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Employ anti-short bushings to protect BX conductors and grounding clamps",
+      "timestamp": "00:03:27",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Install antique-style push-button switch with dimmer and modern LED bulbs",
+      "timestamp": "00:04:39",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:26:52.297475+00:00"
+}

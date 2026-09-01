@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "video": "tJ8scPh2Ou8.youtube",
+  "title": "Cable Lighting Installation: Low-Voltage Ceiling Rails (Ask This Old House)",
+  "date": {
+    "display": "April 23, 2017",
+    "iso": "2017-04-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This This Old House segment demonstrates upgrading a long, narrow room from dated track lighting to a low-voltage cable lighting system. The presenter explains using a ceiling-mounted transformer to deliver 12-volt power across two ceiling cables, supported by standoffs, with a 35-watt halogen fixture that can be positioned along the run. The installation workflow shown includes mounting the transformer, extending wiring, measuring and mounting standoffs with toggle bolts into plaster, threading the cable through end eyelets, and testing the system. The result is bright, perimeter lighting with a rainbow-like fixture appearance that enhances room brightness and perceived size.",
+  "topics": [
+    "Cable lighting",
+    "Low-voltage transformer (120V to 12V)",
+    "12V lighting system",
+    "Cable rail along ceiling",
+    "Standoffs to suspend cabling",
+    "Toggle bolts for plaster ceiling",
+    "Ceiling bracket mounting",
+    "Wire extensions",
+    "Eyelets on standoffs",
+    "Thumb screws on fixtures",
+    "35W halogen low-voltage fixture",
+    "Perimeter lighting plan",
+    "Rainbow/colored lighting appearance",
+    "Power-off safety procedures"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:41",
+      "title": "Intro and lighting plan",
+      "concepts": [
+        "existing track lighting",
+        "long narrow room",
+        "plan to upgrade to perimeter lighting"
+      ],
+      "description": "The homeowners assess the current lighting, noting that the track system provides light from a single point in a long, narrow room and discussing a plan to upgrade to a cable rail system that lights the perimeter for better coverage and a fresher look."
+    },
+    {
+      "start": "00:01:42",
+      "end": "00:02:25",
+      "title": "Cable lighting components",
+      "concepts": [
+        "transformer",
+        "12V low-voltage system",
+        "ceiling cables",
+        "standoffs",
+        "fixture"
+      ],
+      "description": "The presenter introduces the core components: a ceiling-mounted transformer that steps 120V down to 12V, two cables across the ceiling, standoffs to keep wires away from the surface, and a low-voltage fixture that can be positioned along the run."
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:04:06",
+      "title": "Installing the system — mounting and routing",
+      "concepts": [
+        "ceiling transformer mounting",
+        "ceiling bracket",
+        "wire extensions for center path",
+        "center pole routing"
+      ],
+      "description": "The installer mounts a ceiling bracket for the transformer, adds wire extensions for length, and plans to route the cables through the central path while preparing to position the fixture along the run."
+    },
+    {
+      "start": "00:04:06",
+      "end": "00:04:54",
+      "title": "Test and results",
+      "concepts": [
+        "switch on and test",
+        "rainbow-like fixture appearance",
+        "perimeter lighting",
+        "enhanced brightness"
+      ],
+      "description": "After powering the system, the testers observe the cable lighting in action, noting the rainbow-like fixture aesthetic, strong brightness, and improved room illumination that makes the space feel larger."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install a ceiling-mounted transformer and run a twin, low-voltage cable system to feed a fixture, converting 120V to 12V and distributing light along the ceiling.",
+      "timestamp": "00:01:42",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Secure cabling with ceiling standoffs and toggle bolts into plaster, then route the cable through end eyelets to act as the electrical conductor to multiple fixtures.",
+      "timestamp": "00:03:24",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Mount and position a low-voltage fixture along a cable run using adjustable thumb screws for flexible placement.",
+      "timestamp": "00:02:25",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Perform a safe power-down before work (shutting off breakers) and conduct a live test after installation to verify lighting effect and color/brightness outcomes.",
+      "timestamp": "00:01:03",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:28:03.315771+00:00"
+}

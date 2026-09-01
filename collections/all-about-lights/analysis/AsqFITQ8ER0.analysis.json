@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "video": "AsqFITQ8ER0.youtube",
+  "title": "How to Install Track Lighting | All About Lights (Ask This Old House) — Practical Kitchen Track Lighting Upgrade",
+  "date": {
+    "display": "September 15, 2017",
+    "iso": "2017-09-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Kitchen",
+      "confidence": 0.95,
+      "basis": "Transcript explicitly states 'we only have this one overhead light here in the kitchen' and the work is shown in the kitchen space"
+    },
+    {
+      "name": "Master bedroom (above kitchen ceiling)",
+      "confidence": 0.6,
+      "basis": "Transcript asks, 'What's above us? Master bedroom.' indicating the space above the kitchen ceiling"
+    }
+  ],
+  "summary": "This Old House’s Ask This Old House episode demonstrates upgrading a single kitchen overhead light to a flexible track lighting system. The video distinguishes task lighting (near countertops and prep areas) from general lighting (for the table and room), then presents track lighting as a finish-friendly, surface-mounted option when ceiling wiring is constrained. The host walks through planning, power routing with a floating feed, cutting track to length, pre-assembling connectors, mounting with toggle bolts in a non-structural ceiling, wiring the track, installing individual fixture heads, and finally adding a pendant with an LED bulb and dimmer, highlighting LED efficiency advantages.",
+  "topics": [
+    "kitchen task lighting",
+    "kitchen general lighting",
+    "track lighting",
+    "floating feed power",
+    "track length options (4 ft and 8 ft)",
+    "cutting track to length",
+    "pre-assembly of track connectors",
+    "toggle bolts for mounting without structural backing",
+    "track power connector insertion",
+    "90-degree power connection",
+    "cover plate for track junction",
+    "track light heads with two prongs and locking collar",
+    "head orientation and flush mounting",
+    "360-degree rotation of track heads",
+    "pendant track lighting",
+    "pendant height adjustment (29 inches)",
+    "Edison base compatibility",
+    "LED replacement bulbs",
+    "dimmer switches",
+    "LED energy efficiency"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:41",
+      "title": "Kitchen lighting concepts: task vs. general lighting; planning for track lighting",
+      "concepts": [
+        "task lighting",
+        "general lighting",
+        "differences between prep-area illumination and table/general room lighting"
+      ],
+      "description": "Introduces two lighting roles in a kitchen (task vs. general lighting) and presents track lighting as a flexible solution to improve illumination over countertops and work surfaces."
+    },
+    {
+      "start": "01:47",
+      "end": "02:13",
+      "title": "Power-down, remove old fixture, and begin track plan",
+      "concepts": [
+        "power shut off",
+        "remove existing fixture",
+        "expose electrical box",
+        "floating feed concept"
+      ],
+      "description": "Safety step of powering down the circuit, removing the old ceiling fixture, and preparing the space to feed power into a new track system via a floating feed."
+    },
+    {
+      "start": "02:13",
+      "end": "02:56",
+      "title": "Track selection and length planning",
+      "concepts": [
+        "track lengths (4 ft and 8 ft)",
+        "measuring for fit",
+        "planning to cut to needed length"
+      ],
+      "description": "Describes choosing track lengths and evaluating length requirements, including trimming the track to fit the space."
+    },
+    {
+      "start": "02:56",
+      "end": "03:15",
+      "title": "Mounting prep: no structural backing and toggle bolts",
+      "concepts": [
+        "toggle bolt",
+        "non-structural mounting considerations"
+      ],
+      "description": "Notes that there isn’t an underlying structural support for fasteners and recommends using a toggle bolt when mounting the track."
+    },
+    {
+      "start": "03:15",
+      "end": "04:26",
+      "title": "Power connections and head installation workflow",
+      "concepts": [
+        "power connector insertion",
+        "rotate connector 90 degrees to energize",
+        "cover plate installation",
+        "head insertion and locking collar",
+        "alignment with prongs and left-side orientation",
+        "head orientation and adjustability"
+      ],
+      "description": "Outlines securing the track to power, using the 90-degree connector, covering junctions, and preparing heads for placement with correct orientation."
+    },
+    {
+      "start": "04:41",
+      "end": "05:12",
+      "title": "Pendant setup, LED bulb, and dimmer",
+      "concepts": [
+        "pendent height (29 inches)",
+        "Edison base compatibility",
+        "LED replacement bulb",
+        "dimmer switch",
+        "LED energy efficiency"
+      ],
+      "description": "Describes installing the final pendant, setting its height, upgrading to an LED bulb, and using a dimmer—highlighting LED efficiency benefits."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Installing a floating feed to power a track lighting system",
+      "timestamp": "01:58",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cutting track to length and fitting four- and eight-foot sections",
+      "timestamp": "02:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Pre-assembly of track connectors before installation",
+      "timestamp": "02:36",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Mounting with toggle bolts when there is no structural backing",
+      "timestamp": "02:51",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Connecting power with a 90-degree connector and hiding it with a plate",
+      "timestamp": "03:48",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Inserting track heads and locking with the collar; orientation alignment",
+      "timestamp": "04:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Pendant installation height and LED bulb upgrade",
+      "timestamp": "04:41",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using LED bulbs with a dimmer for energy efficiency",
+      "timestamp": "05:04",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:47:40.784388+00:00"
+}

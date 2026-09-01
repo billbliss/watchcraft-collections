@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "video": "FzWu2nOJ614.youtube",
+  "title": "Under-Cabinet Lighting Upgrade: LED Fixtures, Centralized Switch, and USB Outlet",
+  "date": {
+    "display": "October 27, 2016",
+    "iso": "2016-10-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Probable kitchen",
+      "confidence": 0.6,
+      "basis": "Transcript mentions cooktop and cooking activities, implying a kitchen setting"
+    }
+  ],
+  "summary": "This video documents a retrofit of under-cabinet lighting from an aging fluorescent setup to LED diode-based fixtures, with a single centralized switch and a new USB-enabled outlet strip. The presenters compare old and new fixtures, relocate wiring into an in-cabinet box, and route power from the panel to the front of the cabinets. They demonstrate wiring the switch (hot, switched hot, neutral, and ground), using push-in connectors, daisy-chaining fixtures with a joiner, and installing a USB outlet strip under the cabinets. The result is a brighter, clutter-free counter space with easier control, plus a dimmer for LED lighting and a built-in tablet charging option.",
+  "topics": [
+    "Under-cabinet lighting",
+    "LED diode-based fixtures",
+    "Fluorescent vs LED comparisons",
+    "Single switched circuit",
+    "In-cabinet electrical box",
+    "Wiring: hot, switched hot, neutral, ground",
+    "Push-in connectors (no wire nuts)",
+    "Daisy-chain and joiner connectors",
+    "Cabinet-mounted USB charging outlet",
+    "120V outlet strip with USB",
+    "LED dimmer control",
+    "Cable management under cabinets",
+    "Re-routing power from panel to cabinet front",
+    "Safety procedures: power shutoff before work"
+  ],
+  "sections": [
+    {
+      "start": "00:00:06",
+      "end": "00:01:14",
+      "title": "Context, problems, and plan for upgrade",
+      "concepts": [
+        "hassle of multiple under-cabinet lights",
+        "outlet clutter on backsplash",
+        "desire to consolidate to a single switch",
+        "initial layout and coverage goals"
+      ],
+      "description": "The hosts discuss the downsides of the current two-light setup and countertop outlets, praising a mounted plug strip but noting its forward position. They outline the plan to relocate the strip, extend it to the edge, and install a new LED fixture arrangement that provides full countertop coverage with a single wall switch."
+    },
+    {
+      "start": "00:01:18",
+      "end": "00:03:34",
+      "title": "Electrical plan and reframing the install",
+      "concepts": [
+        "replacing fluorescent/bulb lighting with LED diode fixtures",
+        "planning to switch to one switch for all lights",
+        "conversion to a wired-in cabinet electrical box for splices"
+      ],
+      "description": "The old fixture is introduced and the LED replacement is described as diode-based with no bulbs. They plan to move wiring into an in-cabinet box to accommodate a single switched circuit and reroute power to front-facing fixtures, including eliminating the old wiring at the back of the cabinet."
+    },
+    {
+      "start": "00:03:37",
+      "end": "00:05:32",
+      "title": "Installation, connections, and testing",
+      "concepts": [
+        "switch wiring: hot black, switched hot red, neutral white, ground",
+        "push-in connectors for fixture connections",
+        "daisy-chaining fixtures with joiner connector",
+        "cabinet-mounted outlets with USB",
+        "dimmer for LED lighting",
+        "final power-on test and tablet charging"
+      ],
+      "description": "Wiring the wall switch is demonstrated, including a new conductor to feed the lights from a single switch. The fixtures connect with push-in connectors, and a joiner supplies power along the chain. A USB-equipped outlet strip is installed under the cabinet, connected from the panel, and a dimmer is used to control the LEDs. The segment ends with restoring power and testing the improved brightness and charging capability."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "LED fixture with diode array (no bulbs) replaces fluorescent tubes",
+      "timestamp": "01:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Convert to a single switched circuit by adding a third wire and routing through an in-cabinet box",
+      "timestamp": "02:46",
+      "confidence": 0.85
+    },
+    {
+      "technique": "In-cabinet electrical box for splices and concealment of wiring",
+      "timestamp": "02:53",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Push-in connectors used for fixture-to-fixture wiring (no wire nuts)",
+      "timestamp": "03:59",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Daisy-chaining LED fixtures with a joiner connector",
+      "timestamp": "04:13",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cabinet-mounted USB charging outlet integrated with a 120V strip",
+      "timestamp": "04:29",
+      "confidence": 0.85
+    },
+    {
+      "technique": "LED dimmer control for the under-cabinet lighting",
+      "timestamp": "05:10",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:00:09.890208+00:00"
+}

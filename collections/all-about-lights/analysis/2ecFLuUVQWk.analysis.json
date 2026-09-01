@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "video": "2ecFLuUVQWk.youtube",
+  "title": "Ultra-Thin LED Exterior Recessed Lighting Installation (Ask This Old House)",
+  "date": {
+    "display": "January 29, 2017",
+    "iso": "2017-01-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Exterior doorway soffit area (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript references placing the light over a door and beneath a soffit; no explicit shooting location."
+    }
+  ],
+  "summary": "The video demonstrates replacing an older, bulky recessed exterior light with a new ultra-thin LED recessed fixture. It explains the benefits of low-voltage operation (24V) derived from a 120V supply, and shows practical installation steps under a soffit, including mounting with clips and accommodating the soffit’s thickness. A key instructional focus is routing wiring to satisfy box capacity limits when adding multiple fixtures, followed by finishing with a digital astronomical wall switch to automate exterior lighting and a power-on reveal that highlights improved door illumination.",
+  "topics": [
+    "Floodlights vs recessed lighting for driveways",
+    "Surface-mount exterior lighting vs recessed",
+    "Old recessed fixture anatomy: trim, housing, junction box",
+    "Soffit structure and mounting constraints (3/4 inch)",
+    "Ultra-thin LED exterior recessed fixture",
+    "Low-voltage wiring (24V) from 120V supply",
+    "Flexible cable routing to multiple fixtures",
+    "Junction box capacity and two-wire limit",
+    "Mounting clips for LED fixtures",
+    "Wiring relocation to feed multiple fixtures",
+    "Digital wall switch with astronomical sunrise/sunset",
+    "Door lighting as design element",
+    "Power-on testing and final reveal"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:48",
+      "title": "Project framing: lighting options and driveway considerations",
+      "concepts": [
+        "floodlights",
+        "driveway lighting",
+        "glare",
+        "recessed vs surface-mounted",
+        "door lighting"
+      ],
+      "description": "Sets up the choice between floodlights for driveways and recessed/low-profile lighting near a doorway, noting glare issues with bright exterior lights and the aim for a cleaner door illumination."
+    },
+    {
+      "start": "00:00:48",
+      "end": "00:01:15",
+      "title": "Old recessed fixture anatomy and soffit constraints",
+      "concepts": [
+        "recessed fixture anatomy",
+        "trim",
+        "junction box",
+        "soffit",
+        "space constraints"
+      ],
+      "description": "Describes the existing recessed light: the trim, ~7 inches of housing, a hard bar, and the junction box, and discusses how soffit structure can complicate placement."
+    },
+    {
+      "start": "00:01:15",
+      "end": "00:01:55",
+      "title": "Introduction of ultra-thin LED replacement & power architecture",
+      "concepts": [
+        "ultra-thin LED",
+        "low-voltage",
+        "24V driver"
+      ],
+      "description": "Introduces the replacement fixture as ultra-thin and LED-powered, with a 120V input and 24V output to the LED via a flexible cable."
+    },
+    {
+      "start": "00:01:55",
+      "end": "00:02:46",
+      "title": "Installation approach: mounting, clips, and soffit fit",
+      "concepts": [
+        "clips",
+        "soffit compatibility",
+        "three-quarter inch soffit"
+      ],
+      "description": "Explains how the LED fixture is mounted using clips and is designed to fit in a 3/4 inch soffit, setting up for removal of the old fixture and installation of the new one."
+    },
+    {
+      "start": "00:02:46",
+      "end": "00:03:27",
+      "title": "Wiring routing for two-box limit and multi-fixture feed",
+      "concepts": [
+        "two-wire limit in box",
+        "power routing",
+        "box capacity"
+      ],
+      "description": "Addresses the practical constraint of only two wires per junction box and describes routing the conductors to feed multiple fixtures from a single run."
+    },
+    {
+      "start": "00:03:27",
+      "end": "00:03:52",
+      "title": "Automation and final reveal",
+      "concepts": [
+        "digital wall switch",
+        "astronomical timing",
+        "power-on reveal"
+      ],
+      "description": "Concludes with powering the system back on and presenting the automated, door-illuminating effect enabled by a digital astronomical switch."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Ultra-thin LED exterior recessed fixture installation",
+      "timestamp": "00:01:20",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Low-voltage (24V) LED driver integration from 120V supply",
+      "timestamp": "00:01:31",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Mounting clips to secure LED fixture under soffit",
+      "timestamp": "00:01:38",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Wiring reroute to feed multiple fixtures within a two-wire-per-box constraint",
+      "timestamp": "00:02:31",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Install digital astronomical wall switch for exterior lighting",
+      "timestamp": "00:03:27",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Replacement of bulky recessed fixture with slender LED retrofit",
+      "timestamp": "00:01:15",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:12:48.395455+00:00"
+}

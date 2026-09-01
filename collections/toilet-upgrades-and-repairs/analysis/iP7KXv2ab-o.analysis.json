@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "video": "iP7KXv2ab-o.youtube",
+  "title": "How to Change a Toilet Seat (This Old House)",
+  "date": {
+    "display": "August 20, 2014",
+    "iso": "2014-08-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Birmingham, Alabama",
+      "confidence": 0.6,
+      "basis": "Transcript explicitly states Alicia is from Birmingham, Alabama; it identifies a location connected to the speaker but not the shooting location."
+    }
+  ],
+  "summary": "This instructional video demonstrates the practical considerations and tools for removing and replacing a toilet seat. It covers choosing the correct seat size (round front vs elongated), exposing and removing the top bolt, and handling different hardware types—ranging from plastic wing nuts to older brass fittings. When space is tight, it introduces specialized tools such as a basin wrench and a ratcheting adjustable wrench, and it discusses strategies for stubborn or corroded bolts, including penetrating oil, deep sockets, cutting the bolt with a hacksaw, and protecting the porcelain with a putty/ broad knife to avoid damage. The presenter emphasizes adapting the approach to the hardware and space constraints rather than following a single universal method.",
+  "topics": [
+    "toilet seat size: round front vs elongated (16 vs 18 inches)",
+    "how to identify the top bolt and bolt cover",
+    "screwdriver selection to avoid bolt damage",
+    "wing nuts vs brass/metal hardware",
+    "narrow-space removal: basin wrench",
+    "alternative wrenches: adjustable wrench with ratchet, 90-degree crescent",
+    "older brass hardware and corrosion on toilet bolts",
+    "bottom nut corrosion and deep socket technique",
+    "penetrating oil to loosen corrosion",
+    "cutting off a bolt with a hacksaw",
+    "protecting porcelain with putty/broad knife during bolt removal",
+    "avoiding porcelain damage during removal",
+    "typical difficulty variance when changing seats",
+    "common install-and-replace workflow implied by changing out a toilet seat"
+  ],
+  "sections": [
+    {
+      "start": "00:00:03.400",
+      "end": "00:00:25.920",
+      "title": "Choose the right toilet seat size",
+      "concepts": [
+        "round front (16 inches)",
+        "elongated (18 inches)",
+        "seat sizing decision"
+      ],
+      "description": "Introduces the two common toilet-seat shapes and their approximate lengths, stressing the need to select the correct size before installation."
+    },
+    {
+      "start": "00:00:32.860",
+      "end": "01:04.720",
+      "title": "Loosening the top bolt and wing nuts",
+      "concepts": [
+        "exposed bolt",
+        "bolt cover",
+        "proper screwdriver size",
+        "wing nuts on plastic bolts",
+        "counterclockwise removal"
+      ],
+      "description": "Describes exposing the top bolt, avoiding damage by using an appropriately sized screwdriver, and removing the plastic wing nuts, sometimes by hand."
+    },
+    {
+      "start": "01:04.720",
+      "end": "01:44.400",
+      "title": "Working in tight spaces and alternative wrenches",
+      "concepts": [
+        "tight-space challenges",
+        "basin wrench",
+        "adjustable wrench with a ratchet",
+        "90-degree angle wrench",
+        "plastic bolts"
+      ],
+      "description": "Addresses cramped spaces against a tub/vanity/wall and presents tools suited for those constraints, including a basin wrench and a ratcheting adjustable wrench."
+    },
+    {
+      "start": "01:44.400",
+      "end": "02:42.560",
+      "title": "Dealing with older brass hardware and corrosion",
+      "concepts": [
+        "brass hinge/bolts",
+        "metal hardware vs plastic",
+        "bottom-nut corrosion",
+        "deep socket technique",
+        "penetrating oil"
+      ],
+      "description": "Explains how older toilet seats use brass hardware and may have corroded bottom nuts, suggesting a deep socket to back off and noting the potential use of penetrating oil."
+    },
+    {
+      "start": "02:02.080",
+      "end": "02:42.560",
+      "title": "Removing stubborn bolts and protecting the china",
+      "concepts": [
+        "deep socket",
+        "penetrating oil",
+        "cutting bolt off",
+        "hacksaw",
+        "putty knife",
+        "protecting porcelain"
+      ],
+      "description": "Outlines steps for stubborn bolts, including waiting with penetrating oil, cutting the bolt with a hacksaw, and using a broad knife/putty knife to protect the porcelain while cutting."
+    },
+    {
+      "start": "02:42.560",
+      "end": "02:48.080",
+      "title": "Wrap-up and cautions",
+      "concepts": [
+        "careful removal",
+        "avoid china damage",
+        "final checks"
+      ],
+      "description": "Concludes with a reminder to protect the china and to proceed carefully to complete the removal process."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Basin wrench for tight spaces to access toilet-seat bolts",
+      "timestamp": "00:01:26.720",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Using a broad knife or putty knife to protect porcelain while cutting the bolt",
+      "timestamp": "00:02:32.640",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Applying penetrating oil to break down corrosion on old hardware",
+      "timestamp": "00:02:15.320",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:00:45.111573+00:00"
+}

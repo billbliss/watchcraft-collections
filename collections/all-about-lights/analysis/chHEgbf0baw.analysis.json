@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "video": "chHEgbf0baw.youtube",
+  "title": "Wireless wall-switch retrofit using an in-fixture wireless receiver (Ask This Old House)",
+  "date": {
+    "display": "January 15, 2017",
+    "iso": "2017-01-15",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Guest bedroom / home office room",
+      "confidence": 0.6,
+      "basis": "Transcript states: 'We use this room as our guest bedroom and our home office.'"
+    }
+  ],
+  "summary": "This Old House demonstrates converting a single pull-chain light in a guest room into a wall-switch-controlled light using a wireless receiver mounted inside the fixture canopy. The host explains the historical context of lighting controls, identifies wiring colors (neutral white, hot black, switched leg red), mounts a wireless control module in the fixture, wires neutrals and hot to the module, ties the red switched leg to the fixture, installs a new LED fixture with a brushed-nickel bar, and finishes with a wall switch and system test. The approach avoids routing new conductors by using a wireless transmitter/receiver pair to operate the light, and it highlights common site constraints when routing wiring (attic access, wall notching, structure).",
+  "topics": [
+    "wireless light switch module",
+    "in-fixture receiver installation",
+    "neutral (white) wiring",
+    "hot (black) supply",
+    "switched leg (red) wiring",
+    "fixture canopy mounting",
+    "LED fixture installation",
+    "new wall switch installation",
+    "power testing after wiring",
+    "fixture replacement aesthetics",
+    "wire routing constraints",
+    "antenna/wireless switch operation"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:08:00",
+      "title": "Problem setup and historical context",
+      "concepts": [
+        "room usage (guest bedroom/home office)",
+        "current lighting (pull-chain)",
+        "desire for wall switch",
+        "historical evolution of lighting controls (oil -> gas -> electric)",
+        "wiring constraint awareness"
+      ],
+      "description": "Introduces the room and the single pull-chain light, outlines the goal of a wall switch, and provides a brief history of how lighting controls evolved, illustrating why wiring changes can be invasive in existing structures."
+    },
+    {
+      "start": "01:08:00",
+      "end": "02:12:00",
+      "title": "Wiring routing challenges",
+      "concepts": [
+        "best-case routing (fixture to wall switch)",
+        "attic access considerations",
+        "structural constraints",
+        "notching as a potential method"
+      ],
+      "description": "Discusses the typical plumbing/structure hurdles to running a new conductor from the fixture to a wall switch, and notes that notching the wall may be required if there isn’t a straightforward path."
+    },
+    {
+      "start": "02:12:00",
+      "end": "03:24:00",
+      "title": "Wireless switch solution introduction",
+      "concepts": [
+        "in-fixture wireless receiver",
+        "powering the module (neutral and hot)",
+        "wireless wall switch and antenna",
+        "control philosophy (wireless signal to open/close)"
+      ],
+      "description": "Introduces the wireless receiver/module that will emulate a switch inside the fixture, explains that it will be powered by the existing neutral and hot, and describes how the wireless switch communicates with the module."
+    },
+    {
+      "start": "03:24:00",
+      "end": "04:56:00",
+      "title": "Fixture disassembly and wiring connections",
+      "concepts": [
+        "fixture removal",
+        "ground connection to module",
+        "tie whites (neutrals)",
+        "module hot to building power",
+        "red switched leg to load",
+        "mounting the new fixture bar"
+      ],
+      "description": "Outlines the wiring steps: remove the existing fixture, connect the grounds, join neutrals, connect the module’s hot to line power, and connect the red switched leg to the fixture for controlled operation; includes mounting the new fixture bar."
+    },
+    {
+      "start": "04:56:00",
+      "end": "05:43:00",
+      "title": "Wall switch installation and power test",
+      "concepts": [
+        "wall switch installation",
+        "power restoration",
+        "system test"
+      ],
+      "description": "Completes the installation by wiring the wall switch, restoring power, and testing the system to verify wall-control functionality."
+    },
+    {
+      "start": "05:43:00",
+      "end": "05:43:34",
+      "title": "Conclusion and results",
+      "concepts": [
+        "final check",
+        "operational test",
+        "aesthetic update"
+      ],
+      "description": "Ends with a successful test of the wall-controlled lighting and a note on the updated fixture appearance."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Mounting a wireless receiver/module inside the light fixture canopy to control a circuit without running new conductors",
+      "timestamp": "00:02:11",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wiring neutrals and line to the wireless module (white from panel to module neutral, black hot to module), preparing the switched leg (red) to feed the fixture",
+      "timestamp": "00:03:49",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Connecting the module’s switched leg to the fixture (black from module to power and red from module to fixture) to complete the controlled circuit",
+      "timestamp": "00:04:12",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using the wireless switch/antenna to send a control signal to the receiver, enabling wall-switch operation",
+      "timestamp": "00:02:58",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Installing a new fixture bar and LED bulb to update aesthetics and longevity",
+      "timestamp": "00:03:34",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Wall switch mounting and subsequent power test to verify full functionality",
+      "timestamp": "00:05:34",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:49:32.096988+00:00"
+}

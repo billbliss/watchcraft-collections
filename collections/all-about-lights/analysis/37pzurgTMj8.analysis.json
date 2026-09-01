@@ -1,0 +1,162 @@
+{
+  "schema_version": 2,
+  "video": "37pzurgTMj8.youtube",
+  "title": "All About Lights: Recessed Light Installation (This Old House)",
+  "date": {
+    "display": "July 27, 2014",
+    "iso": "2014-07-27",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "attic",
+      "confidence": 0.9,
+      "basis": "Transcript explicitly states 'We were up in the attic.'"
+    }
+  ],
+  "summary": "This Old House demonstrates a practical attic-to-ceiling recessed lighting install. The episode covers selecting a lighting location away from obstructions, drilling clean access holes, running Romex 14-2 between fixtures, and mounting remodel housings with plaster-clips. It contrasts quick push-in wire connections with traditional twisting and wire nuts, shows grounding and neutrals being tied in a junction box, and ends with a test of the new recessed lights. The workflow emphasizes dust control, cable length planning, and safe termination of an unused conductor from the switch loop.",
+  "topics": [
+    "attic planning",
+    "hole saw",
+    "center bit",
+    "cordless drill",
+    "dust catcher",
+    "recessed light installation",
+    "remodel housing",
+    "Romex 14-2",
+    "two-conductor with ground",
+    "fish stick / wire fishing",
+    "wire length measurement",
+    "pushed-in connectors",
+    "wire nuts",
+    "twist-and-tape connections",
+    "hot (black) conductor",
+    "neutral (white) conductor",
+    "ground bonding",
+    "junction box",
+    "plaster clip clips",
+    "fixture mounting",
+    "switch wiring",
+    "cap unused conductor",
+    "test and verification"
+  ],
+  "sections": [
+    {
+      "start": "00:00:02",
+      "end": "00:00:16",
+      "title": "Planning in the attic",
+      "concepts": [
+        "Identify obstructions (ceiling joists, water pipe, gas pipe, wires)",
+        "Choose a lighting location that avoids obstructions"
+      ],
+      "description": "The presenter notes attic obstacles and discusses selecting a suitable location for lighting before drilling."
+    },
+    {
+      "start": "00:00:16",
+      "end": "00:00:41",
+      "title": "Hole drilling and dust control",
+      "concepts": [
+        "Six-inch hole saw with center bit",
+        "Cordless drill",
+        "Dust catcher to minimize dust while drilling"
+      ],
+      "description": "Demonstrates drilling a large hole, using a center bit and a dust-catching accessory to keep the work area cleaner."
+    },
+    {
+      "start": "00:00:43",
+      "end": "01:12",
+      "title": "Running Romex to each fixture",
+      "concepts": [
+        "Romex 14-2 (14-gauge, two-conductor with ground)",
+        "Fishing Romex across the ceiling using a fish stick",
+        "Cutting wire to length"
+      ],
+      "description": "Plan to run 14-2 Romex from light to light, with cable fished across the ceiling and measured before cutting."
+    },
+    {
+      "start": "01:12",
+      "end": "01:29",
+      "title": "Wiring prep for first fixture (remodel housing)",
+      "concepts": [
+        "Push Romex into connector",
+        "Remodel housing overview"
+      ],
+      "description": "Describes preparing the first recessed light: insert Romex into the connector and introduces the remodel housing used for installation."
+    },
+    {
+      "start": "01:29",
+      "end": "02:42",
+      "title": "Installing and clipping recessed lights",
+      "concepts": [
+        "Remodel housing",
+        "Four clips grab plaster",
+        "Slide and clip the light into the ceiling"
+      ],
+      "description": "Details the installation of the recessed fixture and how the four clips secure the housing to the ceiling plaster."
+    },
+    {
+      "start": "02:42",
+      "end": "03:50",
+      "title": "Electrical connections in the junction box",
+      "concepts": [
+        "Ground bonding to metal box and wiring grounds together",
+        "Neutral (white) wires and hot (black) wires connections",
+        "Cap unused switch conductor"
+      ],
+      "description": "Shows wiring the new Romex to the fixture: bonding grounds, tying neutrals, connecting hot, capping an unused conductor, and preparing the junction box cover."
+    },
+    {
+      "start": "03:50",
+      "end": "04:25",
+      "title": "Test and final result",
+      "concepts": [
+        "Attach cover to junction box",
+        "Screw in fixtures",
+        "Turn on switch and verify illumination"
+      ],
+      "description": "Final steps include securing the junction box cover, installing the fixture, and testing the lights to confirm operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Remodel housing allows can-light installation from below the ceiling (attic access not required for install)",
+      "timestamp": "01:23",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Use of a dust catcher to minimize debris when drilling attic holes",
+      "timestamp": "00:21",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Fisking Romex across the ceiling with a 'fish stick' and tape to wire length",
+      "timestamp": "00:54",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Push-in quick-connectors on recessed-light housings for fast wiring",
+      "timestamp": "01:43",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Traditional wire-nut and wire-twist method shown as alternative to push-in connectors",
+      "timestamp": "01:54",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Ground bonding to metal box and neutral/hot conductors coordinated in a junction box",
+      "timestamp": "03:28",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Clipping and securing the recessed housing with plaster-contacting four-clip system",
+      "timestamp": "02:36",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:38:39.628996+00:00"
+}

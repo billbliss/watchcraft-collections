@@ -1,0 +1,103 @@
+{
+  "schema_version": 2,
+  "video": "uBtFpmDkQus.youtube",
+  "title": "Surface-Mounted LED Downlights Retrofit with Wireless Dimming",
+  "date": {
+    "display": "February 26, 2017",
+    "iso": "2017-02-26",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Living room",
+      "confidence": 0.9,
+      "basis": "Explicit mention: \"lighting in my living room\""
+    },
+    {
+      "name": "Front door switch area",
+      "confidence": 0.7,
+      "basis": "Explicit mention: \"one more switch by the front door\""
+    }
+  ],
+  "summary": "The video documents upgrading four bright dome ceiling lights in a living room by introducing a surface-mounted LED fixture that mimics recessed lighting without drywall demolition. The host contrasts four common recessed lighting paths—new construction housings, old-work housings with drywall clips, and a four-inch recessed box—and demonstrates a surface-mount option that preserves ceiling integrity while providing even light distribution. After installation, the plan shifts to dimming control across a two-location, three-way setup: replacing one switch with an electronic dimmer and adding a battery-powered wireless dimmer remote at the opposite location to enable dimming and on/off control from either side, with a bypass of the existing switch wiring to enable seamless operation.",
+  "topics": [
+    "living room lighting",
+    "dome ceiling lights",
+    "recessed lighting options",
+    "new construction recessed fixture",
+    "old-work recessed fixture",
+    "drywall clips",
+    "four-inch recessed box",
+    "surface-mounted LED fixture",
+    "LED light distribution",
+    "electronic dimmer",
+    "three-way switch",
+    "wireless dimming remote",
+    "wire bypass",
+    "lighting control",
+    "install in living room"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:02:01",
+      "title": "Assessment of existing lighting and recessed options",
+      "concepts": [
+        "living room lighting",
+        "four dome fixtures",
+        "dome light brightness",
+        "recessed lighting concepts",
+        "new construction vs old work",
+        "drywall clips"
+      ],
+      "description": "The speakers discuss the current four-dome ceiling lights in the living room, noting that they are very bright and that four in one room is uncommon. They compare typical recessed lighting in other rooms (often with dimmers) to the living room setup and introduce the idea of replacing or augmenting with different recessed options."
+    },
+    {
+      "start": "00:02:01",
+      "end": "00:02:25",
+      "title": "Introduction of surface-mounted retrofit",
+      "concepts": [
+        "surface-mount light",
+        "look of recessed lighting",
+        "LED light distribution"
+      ],
+      "description": "A surface-mount LED fixture is proposed as a retrofit that provides the same end result as a recessed light while minimizing ceiling disruption and delivering good light spread without glare."
+    },
+    {
+      "start": "00:02:25",
+      "end": "00:04:45",
+      "title": "Installation and checkout of dimming plan",
+      "concepts": [
+        "installation of surface-mount fixture",
+        "three-way switch overview",
+        "electronic dimmer",
+        "wireless remote",
+        "bypass of switch",
+        "multi-location dimming"
+      ],
+      "description": "The team notes the surface-mount fixture installation and explains the two-location, three-way dimming scenario. An electronic dimmer is installed at one location, and a battery-powered wireless dimmer remote is added at the opposite location to replicate dimming control from both sides, with wiring bypass to the existing switch to enable seamless operation."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Surface-mounted LED downlight retrofit to simulate recessed lighting",
+      "timestamp": "00:02:14",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Electronic dimmer installation with three-way switching for multi-location control",
+      "timestamp": "00:03:37",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wireless battery-powered dimming remote synchronized with dimmer",
+      "timestamp": "00:03:45",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T11:28:54.159872+00:00"
+}

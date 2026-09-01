@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "video": "vYcrWeVKTog.youtube",
+  "title": "Understanding New Water Heater Regulations: Insulation, Venting, and Efficiency Options",
+  "date": {
+    "display": "October 4, 2015",
+    "iso": "2015-10-04",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The video presents a concise explainer of newer water heater standards that affect only new installations. It covers how insulation requirements for small gas units are increasing to reduce standby energy loss, clarifies which units qualify as “condensing” with venting changes away from chimney exhaust, and explains electric storage limits, while highlighting the growing role of hybrid heat-pump models and on-demand systems. It also emphasizes practical constraints in tight spaces (closets, basements), the need to rework chimneys for venting, and the rule that existing water heaters are not required to be replaced until their next cycle. The host notes estimated energy savings, cost and size premiums, and typical lifespans to contextualize choosing a compliant upgrade when replacing a unit.",
+  "topics": [
+    "Insulation requirements for small gas water heaters",
+    "Minimum insulation thickness (2 inches, 4 inches near heat)",
+    "Gas water heater sizing up to 50 gallons",
+    "Chimney and flue considerations for higher-efficiency units",
+    "Condensing gas water heaters and PVC venting",
+    "Chimney re-bricking when venting changes",
+    "Electric water heater limits (up to 55 gallons)",
+    "Hybrid heat-pump (energy-saving) water heaters",
+    "On-demand/tankless water heaters acceptance and usage",
+    "Space constraints in basements and closets",
+    "Replacement rules apply only to new systems",
+    "Lifespan of common water heaters (7-10 years)",
+    "Impact of regulations on installation location",
+    "Differences between tank-type, tankless, and heat-pump systems",
+    "Basement-room relocation implications for high-vented units"
+  ],
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:01:00",
+      "title": "Regulatory overview and insulation changes for small gas water heaters",
+      "concepts": [
+        "regulations",
+        "insulation",
+        "gas water heater",
+        "size up to 50 gallons",
+        "energy efficiency"
+      ],
+      "description": "Introduces the idea that new laws aim to reduce energy use in hot-water production, with emphasis on better insulation for smaller units and the practical effects on space-constrained installations."
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:01:46",
+      "title": "Gas water heaters: venting changes and chimney implications",
+      "concepts": [
+        "condensing water heater",
+        "PVC vent",
+        "chimney rework",
+        "flue height clearance",
+        "space constraints"
+      ],
+      "description": "Explains that traditional gas units vent into chimneys and that newer, more energy-efficient models (condensing) require external venting via PVC, which may necessitate moving the unit or rebuilding the chimney."
+    },
+    {
+      "start": "00:01:46",
+      "end": "00:02:15",
+      "title": "Electric water heaters and the rise of hybrids/heat pumps",
+      "concepts": [
+        "electric storage heaters",
+        "55-gallon limit",
+        "hybrid heat pump",
+        "backup element",
+        "size and cost premium"
+      ],
+      "description": "Describes electric storage tanks capped around 55 gallons and introduces hybrid heat-pump models that save energy (roughly 50% operating-cost savings) but come with larger size and higher upfront cost."
+    },
+    {
+      "start": "00:02:24",
+      "end": "00:02:44",
+      "title": "On-demand (tankless) and replacement considerations",
+      "concepts": [
+        "on-demand/tankless",
+        "energy use",
+        "existing units",
+        "replacement rules",
+        "lifespan"
+      ],
+      "description": "Notes that tankless systems remain accepted and recommended for efficiency, that the regulation applies to new installations, and discusses typical 7–10 year lifespans and when older units can be left in place."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Gas water heater condensing requirement and venting must move from chimney to PVC vent",
+      "timestamp": "01:27",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Increased insulation on small gas units (2 inches minimum, with 2–4 inches around heat zones)",
+      "timestamp": "00:37",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Chimney considerations and possible re-bricking due to higher venting",
+      "timestamp": "01:06",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Hybrid heat-pump water heater operation and energy savings (~50%)",
+      "timestamp": "02:03",
+      "confidence": 0.9
+    },
+    {
+      "technique": "On-demand (tankless) water heaters remain accepted and recommended",
+      "timestamp": "02:28",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Electric water heater size cap and non-acceptance above 55 gallons",
+      "timestamp": "01:55",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Replacement rules: regulation applies only to new water heaters",
+      "timestamp": "02:38",
+      "confidence": 0.95
+    },
+    {
+      "technique": "General lifespan guidance for storage heaters (7–10 years)",
+      "timestamp": "02:42",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T09:51:25.196998+00:00"
+}

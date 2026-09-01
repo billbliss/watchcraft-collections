@@ -1,0 +1,125 @@
+{
+  "schema_version": 2,
+  "video": "1SCXY6OeU2U.youtube",
+  "title": "All About Pendant Lights: Installing and Centering a 3-Pendant Kitchen Light (This Old House)",
+  "date": {
+    "display": "November 19, 2014",
+    "iso": "2014-11-19",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This Old House's pendant-light installation guide walks through planning and executing a three-pendant setup above a kitchen peninsula. The segment covers determining structure and ceiling-box placement, upgrading a two-gang box to a three-gang with a dimmer, pulling and routing new wiring from the attic via a switch leg, labeling conductors, and wiring the three pendants with pigtails. It also shows centering the pendants using countertop measurements and a plumb-bob, drilling pilot holes, securing pancake boxes, sealing the top plate per code, and finally mounting the canopies. The video emphasizes practical wiring tasks (hot/neutral/ground identification, Romex handling, wire nuts) and retrofit mounting considerations for multiple fixtures on a single circuit.",
+  "topics": [
+    "Pendant light installation",
+    "Three-gang electrical box upgrade",
+    "Dimmer installation for multiple pendants",
+    "Wiring with fish tape",
+    "Switch-leg wiring and wire identification (hot/neutral/ground)",
+    "Pigtail hot feeds to multiple fixtures",
+    "Centering three pendants using countertop measurements",
+    "Plumb bob transfer to ceiling",
+    "Pilot hole drilling for fixture boxes",
+    "Securing pancake boxes with drywall screws",
+    "Top plate drilling and firestop sealing",
+    "Romex connections and wire nuts",
+    "Canopy mounting to pancake boxes",
+    "Grounding and electrical box continuity"
+  ],
+  "sections": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:24",
+      "title": "Planning and Attic Access",
+      "concepts": [
+        "pendant placement",
+        "ceiling box location over peninsula",
+        "attic access for wiring"
+      ],
+      "description": "Decides to hang three pendants and plans ceiling-box placement over the peninsula; notes open attic access to run wiring."
+    },
+    {
+      "start": "00:01:24",
+      "end": "00:02:08",
+      "title": "Wiring Path and Switch Leg Prep",
+      "concepts": [
+        "drilling access hole",
+        "pulling wire with fish tape",
+        "labeling wires",
+        "switch leg identification"
+      ],
+      "description": "Prepares wiring path from attic to wall boxes, demonstrates locating the second wire with a drilled access point, and labels wires before reconnecting at the switches."
+    },
+    {
+      "start": "00:02:08",
+      "end": "00:03:41",
+      "title": "Box Retrofit and Rewiring",
+      "concepts": [
+        "3-gang box installation",
+        "pigtails for multiple fixtures",
+        "reconnecting switches",
+        "dimmer installation"
+      ],
+      "description": "Upgrades from a two-gang to a three-gang box, secures it to the stud, connects a dimmer, and uses pigtails to feed multiple pendants from a single circuit."
+    },
+    {
+      "start": "00:03:41",
+      "end": "00:04:54",
+      "title": "Centering Pendants and Ceiling Transfer",
+      "concepts": [
+        "center pendants via countertop measurements",
+        "plumb bob transfer",
+        "pilot holes"
+      ],
+      "description": "Centers three pendants by halving width and quartering length on the countertop, then transfers the layout to the ceiling with a plumb bob and drills pilot holes accordingly."
+    },
+    {
+      "start": "00:04:54",
+      "end": "00:05:44",
+      "title": "Wiring, Firestop, and Canopy Mount",
+      "concepts": [
+        "grounding and box mounting",
+        "firestop top plate",
+        "Romex connections",
+        "canopy mounting"
+      ],
+      "description": "Drives wires into pancake boxes, attaches ground conductors and connectors, seals the top plate per code, then runs switch legs between boxes and mounts the fixture canopies."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Centering three pendants using countertop half/quarter divisions and plumb-bob transfer",
+      "timestamp": "00:03:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Upgrading a two-gang box to a three-gang box with a dimmer",
+      "timestamp": "00:03:50",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Using fish tape to pull wiring from attic to switch box",
+      "timestamp": "00:01:19",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Pigtail hot feed to supply multiple fixtures in a single box",
+      "timestamp": "00:03:11",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Securing retrofit pancake boxes with drywall screws",
+      "timestamp": "00:02:30",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Sealing top plate opening with firestop material after wiring",
+      "timestamp": "00:04:54",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T10:11:42.836433+00:00"
+}

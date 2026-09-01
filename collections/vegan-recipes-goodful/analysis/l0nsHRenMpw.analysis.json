@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "video": "l0nsHRenMpw.youtube",
+  "title": "Global Vegans: NYC & LA Tasting of King Oyster Mushroom Bites, Katsu, Spam Musubi, Wings, and Cheesecake",
+  "date": {
+    "display": "August 13, 2025",
+    "iso": "2025-08-13",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "New York",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly states 'New York is the best place to be vegan' (00:00:00)."
+    },
+    {
+      "name": "Los Angeles",
+      "confidence": 0.85,
+      "basis": "Transcript explicitly states 'this video is proof that the vegan food in LA is unmatched' (00:00:12)."
+    }
+  ],
+  "summary": "This Goodful video presents a quick, opinionated vegan food tasting across two U.S. cities. The host foregrounds New York as the best vegan city and praises Los Angeles for its vegan scene, then highlights several dishes encountered: fried king oyster mushroom bites, a vegan katsu plate with mac salad, vegan spam musubi, vegan wings, and a vegan cheesecake. The format is a personal tasting commentary rather than a step-by-step recipe guide, emphasizing the appeal and variety of plant-based dishes rather than culinary technique tutorials.",
+  "topics": [
+    "New York vegan scene",
+    "Los Angeles vegan scene",
+    "Fried king oyster mushroom bites",
+    "Katsu (vegan) plate",
+    "Macaroni salad (vegan side)",
+    "Spam musubi (vegan version)",
+    "Vegan wings",
+    "Vegan cheesecake",
+    "Vegan barbecue spot near office",
+    "Global vegan foods concept"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:03",
+      "title": "Intro: NYC vegan leadership",
+      "concepts": [
+        "New York vegan scene",
+        "bold opening claim",
+        "host's stance"
+      ],
+      "description": "The host asserts New York is the best place to be vegan."
+    },
+    {
+      "start": "00:00:03",
+      "end": "00:00:08",
+      "title": "Vegan barbecue spot near the office",
+      "concepts": [
+        "vegan barbecue",
+        "variety",
+        "office location"
+      ],
+      "description": "The host mentions a vegan barbecue spot near the office and ordering one of everything."
+    },
+    {
+      "start": "00:00:08",
+      "end": "00:00:12",
+      "title": "LA vegan scene is unmatched",
+      "concepts": [
+        "Los Angeles vegan scene",
+        "unmatched quality"
+      ],
+      "description": "The video claims LA vegan food is unmatched."
+    },
+    {
+      "start": "00:00:12",
+      "end": "00:00:15",
+      "title": "Segue to tasting: move to bites",
+      "concepts": [
+        "transition between cities and dishes"
+      ],
+      "description": "A brief transition as the tasting progresses to the first dish."
+    },
+    {
+      "start": "00:00:15",
+      "end": "00:00:18",
+      "title": "Fried king oyster mushroom bites",
+      "concepts": [
+        "fried mushroom bites",
+        "texture",
+        "visual appeal"
+      ],
+      "description": "Introduction and praise of the fried king oyster mushroom bites; described as glowing and beloved."
+    },
+    {
+      "start": "00:00:18",
+      "end": "00:00:21",
+      "title": "Katsu plate: juiciness and mac salad",
+      "concepts": [
+        "vegan katsu",
+        "juicy katsu",
+        "mac salad"
+      ],
+      "description": "Katsu plate highlighted as the best of the night with juicy katsu and mac salad noted."
+    },
+    {
+      "start": "00:00:21",
+      "end": "00:00:24",
+      "title": "Transition: spam musubi snack",
+      "concepts": [
+        "spam musubi",
+        "vegan substitute",
+        "snack moment"
+      ],
+      "description": "Commentary introduces a snack with vegan spam musubi."
+    },
+    {
+      "start": "00:00:24",
+      "end": "00:00:27",
+      "title": "Spam musubi: not real spam?",
+      "concepts": [
+        "vegan spam",
+        "surprise similarity"
+      ],
+      "description": "The host remarks on vegan spam musubi and its resemblance to real spam."
+    },
+    {
+      "start": "00:00:27",
+      "end": "00:00:31",
+      "title": "Vegan wings: unreal visuals",
+      "concepts": [
+        "vegan wings",
+        "impressive presentation",
+        "visual wow factor"
+      ],
+      "description": "Wings are described as unreal and visually impressive."
+    },
+    {
+      "start": "00:00:31",
+      "end": "00:00:36",
+      "title": "Cheesecake finale: no regrets",
+      "concepts": [
+        "vegan cheesecake",
+        "final dessert",
+        "no regrets"
+      ],
+      "description": "The dessert moment with vegan cheesecake and no regrets."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Fried king oyster mushroom bites (vegan)",
+      "timestamp": "00:00:15",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Katsu plate (vegan katsu)",
+      "timestamp": "00:00:18",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Vegan spam musubi",
+      "timestamp": "00:00:24",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Vegan wings (plant-based wings)",
+      "timestamp": "00:00:27",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Vegan cheesecake presentation",
+      "timestamp": "00:00:31",
+      "confidence": 0.85
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T03:37:33.089867+00:00",
+  "timeline_repair_model": "gpt-5-nano",
+  "timeline_repair_prompt_version": 1,
+  "timeline_repaired_at": "2026-09-01T03:38:20.611003+00:00"
+}

@@ -111,6 +111,18 @@
       "source_key": "9-inch springform pan prep",
       "source_label": "9-inch springform pan prep"
     },
+    "accessibility and simplicity of vegan cooking": {
+      "alias_source_keys": [],
+      "canonical_key": "accessibility and simplicity of vegan cooking",
+      "canonical_label": "Accessibility and simplicity of vegan cooking",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-quick-meals-7a2b8826"
+      ],
+      "rationale": "The topic is about making vegan cooking accessible and simple, which aligns with fast, easy meal preparation.",
+      "source_key": "accessibility and simplicity of vegan cooking",
+      "source_label": "Accessibility and simplicity of vegan cooking"
+    },
     "accidentally vegan items": {
       "alias_source_keys": [],
       "canonical_key": "accidentally vegan items",
@@ -448,6 +460,18 @@
       "rationale": "Hummus with grilled vegetables is presented as an appetizer build.",
       "source_key": "appetizer: hummus with grilled vegetables",
       "source_label": "appetizer: hummus with grilled vegetables"
+    },
+    "appetizing vegan dishes for non-vegans": {
+      "alias_source_keys": [],
+      "canonical_key": "appetizing vegan dishes for non-vegans",
+      "canonical_label": "Appetizing vegan dishes for non-vegans",
+      "confidence": 0.61,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "rationale": "This is framed around audience reaction and appeal rather than a specific dish or technique.",
+      "source_key": "appetizing vegan dishes for non-vegans",
+      "source_label": "Appetizing vegan dishes for non-vegans"
     },
     "apple cider vinegar": {
       "alias_source_keys": [],
@@ -930,6 +954,18 @@
       "source_key": "avocado toast with tofu scramble",
       "source_label": "Avocado toast with tofu scramble"
     },
+    "avoiding mushy texture in vegan fillings": {
+      "alias_source_keys": [],
+      "canonical_key": "avoiding mushy texture in vegan fillings",
+      "canonical_label": "Avoiding mushy texture in vegan fillings",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "rationale": "Avoiding mushy fillings is a texture-control issue driven by cooking technique.",
+      "source_key": "avoiding mushy texture in vegan fillings",
+      "source_label": "Avoiding mushy texture in vegan fillings"
+    },
     "background music": {
       "alias_source_keys": [
         "background music in cooking videos"
@@ -994,6 +1030,18 @@
       "rationale": "The topic specifies pizza baking conditions for a dough-based recipe.",
       "source_key": "bake times and temperatures: 450°f (232°c) for 26-28 minutes, with optional broil",
       "source_label": "bake times and temperatures: 450°F (232°C) for 26-28 minutes, with optional broil"
+    },
+    "baking and re-baking texture considerations": {
+      "alias_source_keys": [],
+      "canonical_key": "baking and re-baking texture considerations",
+      "canonical_label": "Baking and re-baking texture considerations",
+      "confidence": 0.66,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "rationale": "The phrase points to baking/re-baking effects on food structure and texture.",
+      "source_key": "baking and re-baking texture considerations",
+      "source_label": "Baking and re-baking texture considerations"
     },
     "baking casserole assembly and timing": {
       "alias_source_keys": [],
@@ -4019,6 +4067,20 @@
       "source_key": "crisp thin crust",
       "source_label": "crisp thin crust"
     },
+    "crowd-pleasing vegan cooking": {
+      "alias_source_keys": [
+        "pantry staples for vegan cooking"
+      ],
+      "canonical_key": "crowd-pleasing vegan cooking",
+      "canonical_label": "Crowd-pleasing vegan cooking",
+      "confidence": 0.58,
+      "family_ids": [
+        "family-pantry-staples-7c6ba780"
+      ],
+      "rationale": "The topic is broad crowd-pleasing vegan cooking, and the alias refers to pantry staples used in that style.",
+      "source_key": "crowd-pleasing vegan cooking",
+      "source_label": "Crowd-pleasing vegan cooking"
+    },
     "crunchy jalapeño lime and onion chips (vegan)": {
       "alias_source_keys": [],
       "canonical_key": "crunchy jalapeño lime and onion chips (vegan)",
@@ -4387,6 +4449,18 @@
       "rationale": "Deep-frying dough pieces is a cooking method focused on texture.",
       "source_key": "deep-fry dough pieces",
       "source_label": "deep-fry dough pieces"
+    },
+    "definitions and explanations of veganism": {
+      "alias_source_keys": [],
+      "canonical_key": "definitions and explanations of veganism",
+      "canonical_label": "Definitions and explanations of veganism",
+      "confidence": 0.56,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "rationale": "This is an explanatory topic about veganism itself rather than a recipe category.",
+      "source_key": "definitions and explanations of veganism",
+      "source_label": "Definitions and explanations of veganism"
     },
     "dehydration and shaping of mushrooms": {
       "alias_source_keys": [],
@@ -4780,6 +4854,18 @@
       "source_key": "ears and head shaping",
       "source_label": "ears and head shaping"
     },
+    "eating with hands vs utensils in traditional dishes": {
+      "alias_source_keys": [],
+      "canonical_key": "eating with hands vs utensils in traditional dishes",
+      "canonical_label": "Eating with hands vs utensils in traditional dishes",
+      "confidence": 0.68,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "Hand-eating versus utensils is tied to traditional food culture and regional dining practices.",
+      "source_key": "eating with hands vs utensils in traditional dishes",
+      "source_label": "Eating with hands vs utensils in traditional dishes"
+    },
     "edamame": {
       "alias_source_keys": [],
       "canonical_key": "edamame",
@@ -4899,6 +4985,20 @@
       "rationale": "Fruit purée used for binding is an egg-free baking substitution technique.",
       "source_key": "egg-free binding with fruit purée",
       "source_label": "egg-free binding with fruit purée"
+    },
+    "egg-free lasagna noodles": {
+      "alias_source_keys": [
+        "regular lasagna noodles are vegan"
+      ],
+      "canonical_key": "egg-free lasagna noodles",
+      "canonical_label": "Egg-free lasagna noodles",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-ingredient-swaps-9cb10e0d"
+      ],
+      "rationale": "The alias directly matches the idea that standard lasagna noodles can be used as a vegan-friendly swap.",
+      "source_key": "egg-free lasagna noodles",
+      "source_label": "Egg-free lasagna noodles"
     },
     "eggplant": {
       "alias_source_keys": [],
@@ -5218,6 +5318,18 @@
       "rationale": "This is an advocacy/statistics topic, not one of the recipe or technique families.",
       "source_key": "factory farming stats: 97% us pigs",
       "source_label": "factory farming stats: 97% US pigs"
+    },
+    "family reactions to vegan food": {
+      "alias_source_keys": [],
+      "canonical_key": "family reactions to vegan food",
+      "canonical_label": "Family reactions to vegan food",
+      "confidence": 0.87,
+      "family_ids": [
+        "family-taste-tests-fefb843f"
+      ],
+      "rationale": "Family reactions are essentially a reaction-and-judgment segment around vegan food.",
+      "source_key": "family reactions to vegan food",
+      "source_label": "Family reactions to vegan food"
     },
     "farmers market produce discounts": {
       "alias_source_keys": [
@@ -5703,6 +5815,18 @@
       "source_key": "fresh pasta with mushrooms and chardonnay butter sauce",
       "source_label": "fresh pasta with mushrooms and chardonnay butter sauce"
     },
+    "fried king oyster mushroom bites": {
+      "alias_source_keys": [],
+      "canonical_key": "fried king oyster mushroom bites",
+      "canonical_label": "Fried king oyster mushroom bites",
+      "confidence": 0.84,
+      "family_ids": [
+        "family-plant-proteins-76480aee"
+      ],
+      "rationale": "King oyster mushroom bites are a protein-style savory centerpiece, even if mushroom-based rather than legume-based.",
+      "source_key": "fried king oyster mushroom bites",
+      "source_label": "Fried king oyster mushroom bites"
+    },
     "fritters": {
       "alias_source_keys": [],
       "canonical_key": "fritters",
@@ -5743,6 +5867,18 @@
       "rationale": "Full-fat coconut milk is the intended dairy-free rich base, and it appears in a tiramisu context.",
       "source_key": "full-fat coconut milk",
       "source_label": "full-fat coconut milk"
+    },
+    "future plans for vegan latin american recipes": {
+      "alias_source_keys": [],
+      "canonical_key": "future plans for vegan latin american recipes",
+      "canonical_label": "Future plans for vegan Latin American recipes",
+      "confidence": 0.78,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "Future plans for vegan Latin American recipes fit regional cuisine development.",
+      "source_key": "future plans for vegan latin american recipes",
+      "source_label": "Future plans for vegan Latin American recipes"
     },
     "garbanzo bean flour (garbanzo fava flour)": {
       "alias_source_keys": [],
@@ -5993,6 +6129,18 @@
       "rationale": "The glaze is a sauce composition for the yuba drumsticks, not a synonym for another topic.",
       "source_key": "glaze composition (water, soy sauce, molasses/dark soy sauce, maple syrup)",
       "source_label": "glaze composition (water, soy sauce, molasses/dark soy sauce, maple syrup)"
+    },
+    "global vegan foods concept": {
+      "alias_source_keys": [],
+      "canonical_key": "global vegan foods concept",
+      "canonical_label": "Global vegan foods concept",
+      "confidence": 0.6,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "rationale": "This is a broad show concept/series framing rather than one specific dish.",
+      "source_key": "global vegan foods concept",
+      "source_label": "Global vegan foods concept"
     },
     "gluten development": {
       "alias_source_keys": [
@@ -6537,6 +6685,30 @@
       "source_key": "herbs in vegan cheese (chives, dill, parsley)",
       "source_label": "Herbs in vegan cheese (chives, dill, parsley)"
     },
+    "herencia and cultural authenticity in cooking": {
+      "alias_source_keys": [],
+      "canonical_key": "herencia and cultural authenticity in cooking",
+      "canonical_label": "Herencia and cultural authenticity in cooking",
+      "confidence": 0.74,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "Herencia and authenticity relate to cultural roots in regional cooking.",
+      "source_key": "herencia and cultural authenticity in cooking",
+      "source_label": "Herencia and cultural authenticity in cooking"
+    },
+    "heritage and grandma's recipe influence": {
+      "alias_source_keys": [],
+      "canonical_key": "heritage and grandma's recipe influence",
+      "canonical_label": "Heritage and grandma's recipe influence",
+      "confidence": 0.71,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "Grandma's recipe influence is a heritage and tradition cue within regional cuisine.",
+      "source_key": "heritage and grandma's recipe influence",
+      "source_label": "Heritage and grandma's recipe influence"
+    },
     "hibiscus-based vegan meat": {
       "alias_source_keys": [],
       "canonical_key": "hibiscus-based vegan meat",
@@ -6887,6 +7059,18 @@
       "source_key": "impossible meat",
       "source_label": "Impossible meat"
     },
+    "impossible meat as ground beef substitute": {
+      "alias_source_keys": [],
+      "canonical_key": "impossible meat as ground beef substitute",
+      "canonical_label": "Impossible Meat as ground beef substitute",
+      "confidence": 0.97,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "rationale": "Impossible Meat is being used specifically as a ground beef substitute.",
+      "source_key": "impossible meat as ground beef substitute",
+      "source_label": "Impossible Meat as ground beef substitute"
+    },
     "impossible sausage": {
       "alias_source_keys": [],
       "canonical_key": "impossible sausage",
@@ -7068,6 +7252,20 @@
       "rationale": "Canned jackfruit is a pantry ingredient often used in vegan cooking.",
       "source_key": "jackfruit (canned)",
       "source_label": "Jackfruit (canned)"
+    },
+    "jackfruit as chicharrón substitute": {
+      "alias_source_keys": [
+        "jackfruit as meat substitute"
+      ],
+      "canonical_key": "jackfruit as chicharrón substitute",
+      "canonical_label": "Jackfruit as chicharrón substitute",
+      "confidence": 0.92,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "rationale": "Jackfruit is explicitly being used as a chicharrón-style meat substitute.",
+      "source_key": "jackfruit as chicharrón substitute",
+      "source_label": "Jackfruit as chicharrón substitute"
     },
     "jackfruit as meat substitute": {
       "alias_source_keys": [],
@@ -7274,6 +7472,18 @@
       "rationale": "Kappa carrageenan is a gelling/binding ingredient used to set vegan cheese textures.",
       "source_key": "kappa carrageenan binder",
       "source_label": "kappa carrageenan binder"
+    },
+    "katsu (vegan) plate": {
+      "alias_source_keys": [],
+      "canonical_key": "katsu (vegan) plate",
+      "canonical_label": "Katsu (vegan) plate",
+      "confidence": 0.82,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "A vegan katsu plate is a Japanese-inspired dish presentation.",
+      "source_key": "katsu (vegan) plate",
+      "source_label": "Katsu (vegan) plate"
     },
     "kelp granules": {
       "alias_source_keys": [],
@@ -7942,6 +8152,18 @@
       "source_key": "locally sourced ingredients",
       "source_label": "locally sourced ingredients"
     },
+    "los angeles vegan scene": {
+      "alias_source_keys": [],
+      "canonical_key": "los angeles vegan scene",
+      "canonical_label": "Los Angeles vegan scene",
+      "confidence": 0.9,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "The topic is the Los Angeles vegan scene, a regional food culture topic.",
+      "source_key": "los angeles vegan scene",
+      "source_label": "Los Angeles vegan scene"
+    },
     "low-sodium soy sauce": {
       "alias_source_keys": [
         "soy sauce"
@@ -7991,6 +8213,18 @@
       "rationale": "This is a cheesecake crust component for a dessert.",
       "source_key": "macadamia-nut crust with biscoff cookies (premium crust)",
       "source_label": "macadamia-nut crust with biscoff cookies (premium crust)"
+    },
+    "macaroni salad (vegan side)": {
+      "alias_source_keys": [],
+      "canonical_key": "macaroni salad (vegan side)",
+      "canonical_label": "Macaroni salad (vegan side)",
+      "confidence": 0.66,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "Macaroni salad here functions as a regional side within a broader cuisine context.",
+      "source_key": "macaroni salad (vegan side)",
+      "source_label": "Macaroni salad (vegan side)"
     },
     "macaroni with oat milk (microwave method)": {
       "alias_source_keys": [],
@@ -8285,6 +8519,18 @@
       "rationale": "No allowed family matches this topic exactly, but it concerns vegan chicken alternatives.",
       "source_key": "meal planning with vegan proteins",
       "source_label": "meal planning with vegan proteins"
+    },
+    "meal prep for leftovers": {
+      "alias_source_keys": [],
+      "canonical_key": "meal prep for leftovers",
+      "canonical_label": "Meal prep for leftovers",
+      "confidence": 0.52,
+      "family_ids": [
+        "family-budget-cooking-f1a4fd8d"
+      ],
+      "rationale": "Meal prep for leftovers centers on efficient use of food across multiple meals.",
+      "source_key": "meal prep for leftovers",
+      "source_label": "Meal prep for leftovers"
     },
     "meal prepping": {
       "alias_source_keys": [
@@ -8628,6 +8874,18 @@
       "source_key": "miyoko’s cheese melting in pasta/dishes",
       "source_label": "Miyoko’s cheese melting in pasta/dishes"
     },
+    "moral/ethical aspects of recreating meat and dairy": {
+      "alias_source_keys": [],
+      "canonical_key": "moral/ethical aspects of recreating meat and dairy",
+      "canonical_label": "Moral/ethical aspects of recreating meat and dairy",
+      "confidence": 0.57,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "rationale": "This is a discussion topic about the ethics of food recreation rather than a recipe element.",
+      "source_key": "moral/ethical aspects of recreating meat and dairy",
+      "source_label": "Moral/ethical aspects of recreating meat and dairy"
+    },
     "morel mushrooms in pasta": {
       "alias_source_keys": [],
       "canonical_key": "morel mushrooms in pasta",
@@ -8754,6 +9012,18 @@
       "rationale": "Mushroom-based rib substitute is explicitly a meat-style substitute.",
       "source_key": "mushroom-based rib substitute (baby back ribs)",
       "source_label": "mushroom-based rib substitute (baby back ribs)"
+    },
+    "mushroom-walnut meat substitute": {
+      "alias_source_keys": [],
+      "canonical_key": "mushroom-walnut meat substitute",
+      "canonical_label": "Mushroom-walnut meat substitute",
+      "confidence": 0.95,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "rationale": "A mushroom-walnut mix is being used as a meat substitute in the lasagna.",
+      "source_key": "mushroom-walnut meat substitute",
+      "source_label": "Mushroom-walnut meat substitute"
     },
     "mushroom-walnut umami paste and bewitching vegan burger patty texture": {
       "alias_source_keys": [],
@@ -8887,6 +9157,18 @@
       "rationale": "This is a vegan clam chowder, a soup with a regional New England style.",
       "source_key": "new england vegan clam chowder",
       "source_label": "New England vegan clam chowder"
+    },
+    "new york vegan scene": {
+      "alias_source_keys": [],
+      "canonical_key": "new york vegan scene",
+      "canonical_label": "New York vegan scene",
+      "confidence": 0.89,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "New York vegan scene is a regional food culture topic.",
+      "source_key": "new york vegan scene",
+      "source_label": "New York vegan scene"
     },
     "no narration": {
       "alias_source_keys": [],
@@ -10421,6 +10703,18 @@
       "source_key": "pasta with roasted pepper sauce (al dente texture)",
       "source_label": "Pasta with roasted pepper sauce (al dente texture)"
     },
+    "pastelitos (vegan substitution)": {
+      "alias_source_keys": [],
+      "canonical_key": "pastelitos (vegan substitution)",
+      "canonical_label": "Pastelitos (vegan substitution)",
+      "confidence": 0.72,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "Pastelitos are a Salvadoran dish, and the topic is their vegan adaptation.",
+      "source_key": "pastelitos (vegan substitution)",
+      "source_label": "Pastelitos (vegan substitution)"
+    },
     "patanko donut technique": {
       "alias_source_keys": [],
       "canonical_key": "patanko donut technique",
@@ -10817,6 +11111,18 @@
       "source_key": "plant-based recipes",
       "source_label": "plant-based recipes"
     },
+    "plant-based sauces and accompaniments": {
+      "alias_source_keys": [],
+      "canonical_key": "plant-based sauces and accompaniments",
+      "canonical_label": "Plant-based sauces and accompaniments",
+      "confidence": 0.55,
+      "family_ids": [
+        "family-pantry-staples-7c6ba780"
+      ],
+      "rationale": "Sauces and accompaniments are supporting flavor components used across recipes.",
+      "source_key": "plant-based sauces and accompaniments",
+      "source_label": "Plant-based sauces and accompaniments"
+    },
     "plant-based yogurt": {
       "alias_source_keys": [],
       "canonical_key": "plant-based yogurt",
@@ -11134,6 +11440,18 @@
       "rationale": "These are protein-forward pancakes, which still sit closest to a breakfast baking preparation.",
       "source_key": "protein-rich pancakes (vegan, chocolate chips)",
       "source_label": "protein-rich pancakes (vegan, chocolate chips)"
+    },
+    "public perception of vegan meat (soy-based products)": {
+      "alias_source_keys": [],
+      "canonical_key": "public perception of vegan meat (soy-based products)",
+      "canonical_label": "Public perception of vegan meat (soy-based products)",
+      "confidence": 0.64,
+      "family_ids": [
+        "family-taste-tests-fefb843f"
+      ],
+      "rationale": "Public perception of vegan meat is often conveyed through reaction and evaluation.",
+      "source_key": "public perception of vegan meat (soy-based products)",
+      "source_label": "Public perception of vegan meat (soy-based products)"
     },
     "publication date 2019-06-12": {
       "alias_source_keys": [],
@@ -11607,6 +11925,20 @@
       "rationale": "This is a marinating/resting-time instruction rather than a recipe ingredient.",
       "source_key": "refrigeration timing (six hours to overnight)",
       "source_label": "Refrigeration timing (six hours to overnight)"
+    },
+    "regular lasagna noodles are vegan": {
+      "alias_source_keys": [
+        "egg-free lasagna noodles"
+      ],
+      "canonical_key": "regular lasagna noodles are vegan",
+      "canonical_label": "Regular lasagna noodles are vegan",
+      "confidence": 0.93,
+      "family_ids": [
+        "family-ingredient-swaps-9cb10e0d"
+      ],
+      "rationale": "The topic directly states that regular lasagna noodles are vegan, making it an ingredient-compatibility swap note.",
+      "source_key": "regular lasagna noodles are vegan",
+      "source_label": "Regular lasagna noodles are vegan"
     },
     "rehydrating soy curls for kanekonchila": {
       "alias_source_keys": [],
@@ -13170,6 +13502,18 @@
       "source_key": "soy sauce-seasoning base",
       "source_label": "soy sauce-seasoning base"
     },
+    "spam musubi (vegan version)": {
+      "alias_source_keys": [],
+      "canonical_key": "spam musubi (vegan version)",
+      "canonical_label": "Spam musubi (vegan version)",
+      "confidence": 0.96,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "rationale": "Vegan spam musubi centers on replacing spam with a meat analogue.",
+      "source_key": "spam musubi (vegan version)",
+      "source_label": "Spam musubi (vegan version)"
+    },
     "speculoos cookies": {
       "alias_source_keys": [
         "speculoos crumbs"
@@ -14205,6 +14549,18 @@
       "source_key": "texture and moisture release in plant-based dishes",
       "source_label": "texture and moisture release in plant-based dishes"
     },
+    "texture and mouthfeel of vegan fillings": {
+      "alias_source_keys": [],
+      "canonical_key": "texture and mouthfeel of vegan fillings",
+      "canonical_label": "Texture and mouthfeel of vegan fillings",
+      "confidence": 0.88,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "rationale": "Mouthfeel of fillings is a texture-focused cooking issue.",
+      "source_key": "texture and mouthfeel of vegan fillings",
+      "source_label": "Texture and mouthfeel of vegan fillings"
+    },
     "texture and taste of vegan meringues": {
       "alias_source_keys": [],
       "canonical_key": "texture and taste of vegan meringues",
@@ -14578,6 +14934,20 @@
       "source_key": "tofu blending",
       "source_label": "Tofu blending"
     },
+    "tofu blending for texture": {
+      "alias_source_keys": [
+        "tofu blending"
+      ],
+      "canonical_key": "tofu blending for texture",
+      "canonical_label": "Tofu blending for texture",
+      "confidence": 0.94,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "rationale": "Blending tofu to change texture is a direct processing technique.",
+      "source_key": "tofu blending for texture",
+      "source_label": "Tofu blending for texture"
+    },
     "tofu crumbles for taco filling": {
       "alias_source_keys": [],
       "canonical_key": "tofu crumbles for taco filling",
@@ -14674,7 +15044,7 @@
     "tofu ricotta": {
       "alias_source_keys": [],
       "canonical_key": "tofu ricotta",
-      "canonical_label": "tofu ricotta",
+      "canonical_label": "Tofu ricotta",
       "confidence": 0.99,
       "family_ids": [
         "family-cheese-alternatives-149e77b4",
@@ -15166,6 +15536,18 @@
       "source_key": "ultimate vegan breakfast",
       "source_label": "Ultimate Vegan Breakfast"
     },
+    "umami development in vegan fillings": {
+      "alias_source_keys": [],
+      "canonical_key": "umami development in vegan fillings",
+      "canonical_label": "Umami development in vegan fillings",
+      "confidence": 0.86,
+      "family_ids": [
+        "family-pantry-staples-7c6ba780"
+      ],
+      "rationale": "Umami development here relies on ingredients like miso and other depth boosters.",
+      "source_key": "umami development in vegan fillings",
+      "source_label": "Umami development in vegan fillings"
+    },
     "under $5": {
       "alias_source_keys": [],
       "canonical_key": "under $5",
@@ -15413,6 +15795,20 @@
       "source_key": "vegan barbecue",
       "source_label": "vegan barbecue"
     },
+    "vegan barbecue spot near office": {
+      "alias_source_keys": [
+        "vegan barbecue"
+      ],
+      "canonical_key": "vegan barbecue spot near office",
+      "canonical_label": "Vegan barbecue spot near office",
+      "confidence": 0.83,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "A vegan barbecue spot is a cuisine/restaurant style topic, not just a generic concept.",
+      "source_key": "vegan barbecue spot near office",
+      "source_label": "Vegan barbecue spot near office"
+    },
     "vegan bouillon for broth": {
       "alias_source_keys": [],
       "canonical_key": "vegan bouillon for broth",
@@ -15644,6 +16040,18 @@
       "rationale": "This is about using vegan cheese in a dish, with the optional-cheese phrasing as the closest alias.",
       "source_key": "vegan cheese usage",
       "source_label": "vegan cheese usage"
+    },
+    "vegan cheesecake": {
+      "alias_source_keys": [],
+      "canonical_key": "vegan cheesecake",
+      "canonical_label": "Vegan cheesecake",
+      "confidence": 1.0,
+      "family_ids": [
+        "family-desserts-and-baking-560aa236"
+      ],
+      "rationale": "Vegan cheesecake is clearly a dessert topic.",
+      "source_key": "vegan cheesecake",
+      "source_label": "Vegan cheesecake"
     },
     "vegan chicken from flour": {
       "alias_source_keys": [],
@@ -16508,6 +16916,18 @@
       "source_key": "vegan trivia on pig farms and cafos",
       "source_label": "vegan trivia on pig farms and CAFOs"
     },
+    "vegan wings": {
+      "alias_source_keys": [],
+      "canonical_key": "vegan wings",
+      "canonical_label": "Vegan wings",
+      "confidence": 0.98,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "rationale": "Vegan wings are a clear plant-based meat-style substitute.",
+      "source_key": "vegan wings",
+      "source_label": "Vegan wings"
+    },
     "vegan yogurt": {
       "alias_source_keys": [],
       "canonical_key": "vegan yogurt",
@@ -17203,6 +17623,18 @@
       "source_key": "yuba sheet slicing",
       "source_label": "yuba sheet slicing"
     },
+    "yuca frita con chicharrón (vegan version)": {
+      "alias_source_keys": [],
+      "canonical_key": "yuca frita con chicharrón (vegan version)",
+      "canonical_label": "Yuca frita con chicharrón (vegan version)",
+      "confidence": 0.91,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "rationale": "Yuca frita con chicharrón is a Salvadoran-style dish adapted vegan.",
+      "source_key": "yuca frita con chicharrón (vegan version)",
+      "source_label": "Yuca frita con chicharrón (vegan version)"
+    },
     "zucchini": {
       "alias_source_keys": [],
       "canonical_key": "zucchini",
@@ -17241,6 +17673,7 @@
     "45-minute simmer for flavor": "Seitan Flavor Simmer",
     "50-minute vegan cheese": "Vegan Cheese Melt",
     "9-inch springform pan prep": "Springform Pan Prep",
+    "accessibility and simplicity of vegan cooking": "Vegan Meal Simplicity",
     "accidentally vegan items": "Accidentally Vegan Items",
     "acid in ice cream base": "Ice Cream Acidity",
     "activate yeast for dough": "Yeast Dough Activation",
@@ -17268,6 +17701,7 @@
     "aloo tikki binding with sandwich bread": "Aloo Tikki Binder",
     "anthocyanins and anti-inflammatory notes": "Anthocyanins Notes",
     "appetizer: hummus with grilled vegetables": "Hummus Veggie Appetizer",
+    "appetizing vegan dishes for non-vegans": "Vegan Crowd Appeal",
     "apple cider vinegar": "Apple Cider Vinegar",
     "apple cider vinegar and white vinegar pickle method": "Vinegar Pickle Method",
     "apple cider vinegar as acidity in vegan cheese": "Vegan Cheese Acidity",
@@ -17304,11 +17738,13 @@
     "avocado in sushi": "Avocado Sushi",
     "avocado salad dressing": "Avocado Dressing",
     "avocado toast with tofu scramble": "Avocado Toast Scramble",
+    "avoiding mushy texture in vegan fillings": "Filling Texture Control",
     "background music": "Background Music",
     "background music in cooking videos": "Cooking Video Music",
     "backyard cookout": "Backyard Cookout",
     "bake time: 7-8 minutes": "Seven Minute Bake",
     "bake times and temperatures: 450°f (232°c) for 26-28 minutes, with optional broil": "Pizza Bake Time",
+    "baking and re-baking texture considerations": "Rebaking Texture Notes",
     "baking casserole assembly and timing": "Casserole Baking Timing",
     "baking cookies (15 minutes) for crisp edges and chewy centers": "Chewy Cookie Bake",
     "baking duration (about 3 minutes)": "Three Minute Bake",
@@ -17538,6 +17974,7 @@
     "creaminess vs solidity": "Creaminess Balance",
     "creamy avocado toast variations": "Avocado Toast Variations",
     "crisp thin crust": "Crisp Thin Crust",
+    "crowd-pleasing vegan cooking": "Crowd-Pleasing Vegan Cooking",
     "crunchy jalapeño lime and onion chips (vegan)": "Trader Joe Chips",
     "crushed oregano in pozole": "Pozole Oregano",
     "crushing onions and tomatoes with spices for fool": "Fool Base Mashing",
@@ -17567,6 +18004,7 @@
     "dear bella ice cream/cookie references from the segment": "Dear Bella References",
     "deep-dish dough technique: sugar, instant yeast, coconut oil, flour, cornmeal, salt": "Deep-Dish Dough",
     "deep-fry dough pieces": "Deep-Fry Dough",
+    "definitions and explanations of veganism": "What Is Vegan",
     "dehydration and shaping of mushrooms": "Mushroom Shaping",
     "diced tomatoes (canned)": "Canned Diced Tomatoes",
     "diddy riese and erin mckenna's vegan bakery context in la": "Vegan Bakery Context",
@@ -17597,6 +18035,7 @@
     "dutch oven baking": "Dutch Oven Baking",
     "early tofu addition to stew": "Early Tofu Addition",
     "ears and head shaping": "Bento Face Shaping",
+    "eating with hands vs utensils in traditional dishes": "Hands vs Utensils",
     "edamame": "Edamame Overview",
     "edge trimming and patching scraps back into the roll": "Roll Edge Patching",
     "edible gold": "Edible Gold",
@@ -17606,6 +18045,7 @@
     "egg substitutes in baking: fruit puree, flax egg, banana, arrowroot": "Egg Substitutes Baking",
     "egg-free baking": "Egg Free Baking",
     "egg-free binding with fruit purée": "Fruit Purée Binding",
+    "egg-free lasagna noodles": "Egg-Free Lasagna Noodles",
     "eggplant": "Eggplant Overview",
     "eggplant in mac and cheese": "Eggplant Mac Sauce",
     "eggs replaced with vegan mayo": "Vegan Mayo Egg Swap",
@@ -17631,6 +18071,7 @@
     "extra-firm tofu cutting (into thirds)": "Extra Firm Tofu Cutting",
     "extra-firm tofu with turmeric, nutritional yeast, and spices": "Seasoned Tofu",
     "factory farming stats: 97% us pigs": "US Pig Factory Stats",
+    "family reactions to vegan food": "Family Vegan Reactions",
     "farmers market produce discounts": "Farmers Market Discounts",
     "fava beans (fool) preparation and masher technique": "Fool Mashing Technique",
     "fennel seeds and garlic as sausage aromatics": "Sausage Aromatics",
@@ -17668,9 +18109,11 @@
     "freezing tofu to improve texture": "Freezing Tofu",
     "fresh and frozen produce": "Fresh and Frozen Produce",
     "fresh pasta with mushrooms and chardonnay butter sauce": "Mushroom Chardonnay Pasta",
+    "fried king oyster mushroom bites": "Fried King Oyster Bites",
     "fritters": "Vegetable Fritters",
     "frozen blueberries milk ice cream": "Blueberry Milk Ice Cream",
     "full-fat coconut milk": "Full Fat Coconut Milk",
+    "future plans for vegan latin american recipes": "Latin Recipe Future Plans",
     "garbanzo bean flour (garbanzo fava flour)": "Garbanzo Fava Flour",
     "garbanzo bean flour in baking": "Garbanzo Flour",
     "garlic": "Garlic Basics",
@@ -17690,6 +18133,7 @@
     "ginger": "Ginger Basics",
     "ginger (optional heat)": "Ginger Dipping Sauce",
     "glaze composition (water, soy sauce, molasses/dark soy sauce, maple syrup)": "Yuba Glaze",
+    "global vegan foods concept": "Global Vegan Foods",
     "gluten development": "Gluten Development",
     "gluten development (kneading)": "Kneaded Gluten Development",
     "gluten-based seitan from all-purpose flour": "Seitan Flour",
@@ -17732,6 +18176,8 @@
     "healthy eating": "Healthy Eating",
     "hemp seeds": "Hemp Seeds",
     "herbs in vegan cheese (chives, dill, parsley)": "Herbed Vegan Cheese",
+    "herencia and cultural authenticity in cooking": "Cultural Authenticity",
+    "heritage and grandma's recipe influence": "Grandma Recipe Influence",
     "hibiscus-based vegan meat": "Hibiscus Meat",
     "high-temperature pizza baking": "High Heat Pizza",
     "holiday gift soup ideas": "Gift Soup Ideas",
@@ -17760,6 +18206,7 @@
     "imperfect sushi rolling": "Imperfect Sushi Rolling",
     "importance of protein in vegan meals": "Vegan Protein Importance",
     "impossible meat": "Impossible Meat",
+    "impossible meat as ground beef substitute": "Impossible Meat Swap",
     "impossible sausage": "Impossible Sausage",
     "inari sushi": "Inari Sushi",
     "influencer references: tabitha brown and edgy veg": "Influencer References",
@@ -17774,6 +18221,7 @@
     "italian seasoning and fennel seeds on pizza": "Pizza Seasoning Blend",
     "iterative recipe development (6-8 attempts)": "Iterative Recipe Development",
     "jackfruit (canned)": "Canned Jackfruit",
+    "jackfruit as chicharrón substitute": "Jackfruit Chicharron Swap",
     "jackfruit as meat substitute": "Jackfruit Meat Substitute",
     "jackfruit marination": "Jackfruit Marination",
     "jam topping and peanut butter drizzle decoration": "Jam Drizzle Decoration",
@@ -17790,6 +18238,7 @@
     "kale caesar salad with crispy chickpeas": "Kale Caesar Salad",
     "kale massage with oil and salt": "Kale Massage",
     "kappa carrageenan binder": "Kappa Carrageenan Binder",
+    "katsu (vegan) plate": "Vegan Katsu Plate",
     "kelp granules": "Kelp Granules",
     "kelp noodles soaked with lemon and salt": "Kelp Noodle Soaking",
     "kelp-based umami broth": "Kelp Umami Broth",
@@ -17841,10 +18290,12 @@
     "liquid smoke": "Liquid Smoke",
     "live parent feedback and taste testing": "Parent Taste Test",
     "locally sourced ingredients": "Local Ingredients",
+    "los angeles vegan scene": "Los Angeles Vegan Scene",
     "low-sodium soy sauce": "Low-Sodium Soy Sauce",
     "lunar new year association with tteokbokki": "Tteokbokki Association",
     "macadamia blondie": "Macadamia Blondie",
     "macadamia-nut crust with biscoff cookies (premium crust)": "Macadamia Biscoff Crust",
+    "macaroni salad (vegan side)": "Vegan Macaroni Salad",
     "macaroni with oat milk (microwave method)": "Microwave Macaroni",
     "maple syrup": "Maple Syrup",
     "maple syrup as natural sweetener": "Maple Sweetener",
@@ -17869,6 +18320,7 @@
     "meal ideas for entertaining": "Entertaining Meal Ideas",
     "meal planning for holidays": "Holiday Meal Planning",
     "meal planning with vegan proteins": "Vegan Protein Planning",
+    "meal prep for leftovers": "Leftover Meal Prep",
     "meal prepping": "Meal Prepping",
     "meal-prep sandwich ideas": "Sandwich Meal Prep",
     "meatless sandwiches": "Meatless Sandwiches",
@@ -17895,6 +18347,7 @@
     "miyoko's butter": "Miyoko's Butter",
     "miyoko's cheddar cheese": "Miyoko's Cheddar",
     "miyoko’s cheese melting in pasta/dishes": "Miyoko's Cheese Melt",
+    "moral/ethical aspects of recreating meat and dairy": "Ethics of Meat Recreates",
     "morel mushrooms in pasta": "Morel Mushroom Pasta",
     "mushroom and eggplant meat sauce": "Mushroom Eggplant Sauce",
     "mushroom and wild rice soup": "Mushroom Wild Rice Soup",
@@ -17905,6 +18358,7 @@
     "mushroom powder": "Mushroom Powder",
     "mushroom ramen with peppers, kale, onions": "Mushroom Ramen",
     "mushroom-based rib substitute (baby back ribs)": "Mushroom Rib Substitute",
+    "mushroom-walnut meat substitute": "Mushroom Walnut Meat",
     "mushroom-walnut umami paste and bewitching vegan burger patty texture": "Mushroom Walnut Burger",
     "mushrooms": "Mushroom Medley",
     "mushrooms, leeks, shallots sautéing": "Mushroom Leek Sauté",
@@ -17916,6 +18370,7 @@
     "neapolitan crust characteristics": "Neapolitan Crust",
     "nectarines": "Nectarine Topping",
     "new england vegan clam chowder": "Vegan Clam Chowder",
+    "new york vegan scene": "New York Vegan Scene",
     "no narration": "Music Only Intro",
     "no-blender crema technique": "No Blender Crema",
     "no-tomato white pizza with olive oil base": "White Pizza Base",
@@ -18030,6 +18485,7 @@
     "pasta choice: elbow macaroni": "Pasta Choice",
     "pasta coating": "Pasta Coating",
     "pasta with roasted pepper sauce (al dente texture)": "Roasted Pepper Pasta",
+    "pastelitos (vegan substitution)": "Vegan Pastelitos",
     "patanko donut technique": "Patanko Donuts",
     "patting tofu dry with paper towels": "Tofu Drying",
     "pbenguksu (korean spicy cold noodles)": "Korean Spicy Cold Noodles",
@@ -18063,6 +18519,7 @@
     "plant-based protein sources": "Plant Protein Sources",
     "plant-based ramen awareness": "Ramen Awareness",
     "plant-based recipes": "Plant-Based Recipes",
+    "plant-based sauces and accompaniments": "Plant-Based Sides",
     "plant-based yogurt": "Plant-Based Yogurt",
     "plastic-wrapped chilling period (30 minutes)": "Plastic Wrap Chilling",
     "plate preparation with coconut oil to prevent sticking": "Oiled Plate Prep",
@@ -18088,6 +18545,7 @@
     "proof dough 3-4 hours": "Dough Proofing",
     "prosciutto and carpaccio style vegan meats (imports-like)": "Vegan Deli Meats",
     "protein-rich pancakes (vegan, chocolate chips)": "Protein Pancakes",
+    "public perception of vegan meat (soy-based products)": "Vegan Meat Perception",
     "publication date 2019-06-12": "Publication Date",
     "pump and dump mixing technique": "Pump and Dump Mixing",
     "quick meals": "Quick Meals",
@@ -18124,6 +18582,7 @@
     "refrigeration": "Recipe Refrigeration",
     "refrigeration time: 30-40 minutes": "Cheese Chill Time",
     "refrigeration timing (six hours to overnight)": "Overnight Refrigeration",
+    "regular lasagna noodles are vegan": "Vegan Lasagna Noodles",
     "rehydrating soy curls for kanekonchila": "Soy Curls Rehydrating",
     "rescued/ugly produce (misfit market)": "Misfit Market Produce",
     "resistant starch benefits and gut health": "Resistant Starch Benefits",
@@ -18244,6 +18703,7 @@
     "soy sauce marinade": "Soy Sauce Marinade",
     "soy sauce umami": "Soy Sauce Umami",
     "soy sauce-seasoning base": "Soy Sauce Seasoning Base",
+    "spam musubi (vegan version)": "Vegan Spam Musubi",
     "speculoos cookies": "Speculoos Cookies",
     "speculoos crumbs": "Speculoos Crumbs",
     "spice and hot sauces: tabasco": "Tabasco Heat",
@@ -18325,6 +18785,7 @@
     "texture and flavor notes": "Texture Flavor Notes",
     "texture and flavor notes: softer than raw carrot, not crunchy": "Carrot Texture Notes",
     "texture and moisture release in plant-based dishes": "Moisture Release",
+    "texture and mouthfeel of vegan fillings": "Filling Mouthfeel",
     "texture and taste of vegan meringues": "Vegan Meringue Texture",
     "texture evaluation": "Texture Evaluation",
     "texture goals: crispy edges, chewy centers": "Cookie Texture Goals",
@@ -18354,6 +18815,7 @@
     "tofu": "Tofu Basics",
     "tofu and quinoa bowl": "Tofu Quinoa Bowl",
     "tofu blending": "Blended Tofu",
+    "tofu blending for texture": "Tofu Blending Texture",
     "tofu crumbles for taco filling": "Tofu Taco Filling",
     "tofu cut into fourths": "Tofu Quartering",
     "tofu marinade ingredients (soy sauce, rice vinegar, maple syrup, ginger, garlic, oil)": "Tofu Marinade Base",
@@ -18400,6 +18862,7 @@
     "two-version comparison": "Two Version Comparison",
     "ube mochi pancake and waffle mix (vegan)": "Ube Mochi Mix",
     "ultimate vegan breakfast": "Ultimate Vegan Breakfast",
+    "umami development in vegan fillings": "Umami Filling Development",
     "under $5": "Under $5 Snacks",
     "unsweetened non-dairy yogurt": "Unsweetened Vegan Yogurt",
     "use of pasta starch water to adjust sauce consistency": "Pasta Water Sauce",
@@ -18419,6 +18882,7 @@
     "vegan bacon (sweet earth)": "Sweet Earth Vegan Bacon",
     "vegan baking pitfalls and tips": "Vegan Baking Tips",
     "vegan barbecue": "Vegan Barbecue",
+    "vegan barbecue spot near office": "Vegan BBQ Spot",
     "vegan bouillon for broth": "Vegan Bouillon Broth",
     "vegan breakfast": "Vegan Breakfast",
     "vegan budget meals": "Vegan Budget Meals",
@@ -18436,6 +18900,7 @@
     "vegan cheese substitutes": "Vegan Cheese Substitutes",
     "vegan cheese topping options": "Cheese Topping Options",
     "vegan cheese usage": "Vegan Cheese Topping",
+    "vegan cheesecake": "Vegan Cheesecake",
     "vegan chicken from flour": "Seitan Chicken",
     "vegan chicken substitutes": "Chicken Substitutes",
     "vegan chipotle mayo": "Chipotle Mayo",
@@ -18501,6 +18966,7 @@
     "vegan tacos": "Vegan Tacos",
     "vegan three-course meal": "Vegan Three Course Meal",
     "vegan trivia on pig farms and cafos": "Pig Farm Trivia",
+    "vegan wings": "Vegan Wings",
     "vegan yogurt": "Vegan Yogurt",
     "vegan yogurt sauce (plant-based yogurt, olive oil, spices)": "Yogurt Spice Sauce",
     "vegan-friendly sushi fillings": "Sushi Fillings",
@@ -18557,6 +19023,7 @@
     "youtube cooking video": "YouTube Cooking Video",
     "yuba (tofu skin) rehydration": "Yuba Rehydration",
     "yuba sheet slicing": "Yuba Sheet Slicing",
+    "yuca frita con chicharrón (vegan version)": "Vegan Yuca Frita",
     "zucchini": "Zucchini Lentil Fritters Methods",
     "zucchini and red lentil fritters": "Zucchini Lentil Fritters"
   },
@@ -18745,6 +19212,12 @@
       "springform pan prep and parchment lining",
       "vegan cream cheese (kite hill) incorporation"
     ],
+    "accessibility and simplicity of vegan cooking": [
+      "importance of protein in vegan meals",
+      "quick vegan lunches",
+      "simple vegan meals",
+      "vegan dinner recipes"
+    ],
     "accidentally vegan items": [
       "apple cider vinegar and white vinegar pickle method",
       "bomba peanut snacks (hazelnut vegan; chocolate flavor non-vegan)",
@@ -18814,6 +19287,7 @@
     "affordability of vegan eel substitute": [
       "binding with slurry",
       "nori sheet",
+      "regular lasagna noodles are vegan",
       "russet potatoes",
       "vegan sushi construction: tomato “tuna”, eggplant “eel”, and soy-worcester-based marinades",
       "vegan-friendly sushi fillings"
@@ -18954,6 +19428,14 @@
       "guacamole with lime, tomato, red onion, jalapeño",
       "open-face grilled cheese caprese",
       "tofu toast with hummus"
+    ],
+    "appetizing vegan dishes for non-vegans": [
+      "gourmet vegan dishes",
+      "moral/ethical aspects of recreating meat and dairy",
+      "reactions to vegan dishes (surprise, delight, skepticism)",
+      "vegan meal concepts",
+      "vegan recipe ideas",
+      "vegan recipe inspiration"
     ],
     "apple cider vinegar": [
       "apple cider vinegar and white vinegar pickle method",
@@ -19225,6 +19707,13 @@
       "tofu toast with hummus",
       "veggie broth-based tofu cooking"
     ],
+    "avoiding mushy texture in vegan fillings": [
+      "baking and re-baking texture considerations",
+      "texture and mouthfeel of vegan fillings",
+      "texture evaluation",
+      "tofu blending for texture",
+      "vegan sausage texture using tofu, mushrooms, walnuts"
+    ],
     "background music": [
       "music cues",
       "no narration",
@@ -19265,6 +19754,14 @@
       "rest and rise guidance for cold apartments (wrap dough and rise guidance)",
       "thickening vegan cheese on the stove and adjusting texture with water",
       "vegan parmesan topping and final bake parameters for the $35 pizza"
+    ],
+    "baking and re-baking texture considerations": [
+      "avoiding mushy texture in vegan fillings",
+      "baking times and texture testing",
+      "texture and flavor notes",
+      "texture evaluation",
+      "texture-focused evaluation",
+      "tofu blending for texture"
     ],
     "baking casserole assembly and timing": [
       "blending time to reduce sliminess",
@@ -19364,6 +19861,7 @@
       "toffee ingredients (vegan butter, brown sugar, salt)"
     ],
     "baking times and texture testing": [
+      "baking and re-baking texture considerations",
       "baking soda",
       "baking time (90 minutes)",
       "baking time: 18–20 minutes",
@@ -19462,6 +19960,7 @@
     ],
     "barbecue oyster mushrooms (oven-baked with sauce)": [
       "extra-firm tofu with turmeric, nutritional yeast, and spices",
+      "fried king oyster mushroom bites",
       "king oyster mushroom chashu",
       "mushroom and eggplant meat sauce",
       "mushroom ramen with peppers, kale, onions",
@@ -19796,6 +20295,7 @@
       "acid in ice cream base",
       "blueberry cinnamon chia seed pudding",
       "ice cream churning and freezing process",
+      "vegan cheesecake",
       "vegan fat: coconut oil",
       "vegan ice cream base: oatmeal + coconut milk"
     ],
@@ -20010,6 +20510,7 @@
       "budget grocery shopping",
       "dried beans vs canned beans for budget meals",
       "grocery budget tips",
+      "meal prep for leftovers",
       "meal prepping",
       "trader joe’s vegan product highlights",
       "vegan budget meals"
@@ -20713,6 +21214,7 @@
       "miso and lemon in vegan cheesecake filling",
       "oat milk vs coconut milk base neutralization",
       "soaked cashews as cheesecake base",
+      "vegan cheesecake",
       "vegan cream cheese (vegan brand) usage",
       "vegan ice cream base (oat milk, coconut oil, unrefined sugar, acid)",
       "white miso as a depth enhancer in vegan fillings"
@@ -21092,6 +21594,13 @@
       "pizza texture and mozzarella stretch",
       "vegan pizza"
     ],
+    "crowd-pleasing vegan cooking": [
+      "nutritional yeast for cheesy flavor",
+      "pantry staples for vegan cooking",
+      "umami development in vegan fillings",
+      "vegan pantry ideas",
+      "vegan parmesan topping"
+    ],
     "crunchy jalapeño lime and onion chips (vegan)": [
       "accidentally vegan items",
       "apple cider vinegar and white vinegar pickle method",
@@ -21223,7 +21732,9 @@
       "vegan yogurt",
       "yogurt-making video"
     ],
-    "dairy-free motivations (health and environment)": [],
+    "dairy-free motivations (health and environment)": [
+      "moral/ethical aspects of recreating meat and dairy"
+    ],
     "dairy-free pea soup": [
       "cauliflower-potato soup",
       "holiday gift soup ideas",
@@ -21238,6 +21749,7 @@
       "calamari substitute made with coconut",
       "coconut oil as butter substitute in cookies",
       "dairy-free substitutions",
+      "egg-free lasagna noodles",
       "onion powder as an onion substitute",
       "oyster mushrooms as clam substitute",
       "pan-seared tofu as dairy-free paneer substitute",
@@ -21248,6 +21760,7 @@
       "baking with substitutions",
       "dairy-free substitutes",
       "dried dill substitution for fresh dill",
+      "egg-free lasagna noodles",
       "icing with powdered sugar and non-dairy milk",
       "ingredient substitutions",
       "pan-seared tofu as dairy-free paneer substitute",
@@ -21322,6 +21835,9 @@
       "knead dough by hand",
       "proof dough 3-4 hours",
       "roll and cut dough into rectangles"
+    ],
+    "definitions and explanations of veganism": [
+      "lifeline options: 10-second clip, ingredient definition, bona vegan"
     ],
     "dehydration and shaping of mushrooms": [
       "king oyster mushroom chashu",
@@ -21497,6 +22013,7 @@
       "dried beans",
       "end-of-day farmers market discounts as a saving tactic",
       "foil-wrapped kitchen experimentation (substitutions)",
+      "meal prep for leftovers",
       "meal prepping",
       "superfood powders cost considerations",
       "vegan budget meals"
@@ -21588,6 +22105,13 @@
       "vegan chocolate nose",
       "vegan mayo as edible glue"
     ],
+    "eating with hands vs utensils in traditional dishes": [
+      "future plans for vegan latin american recipes",
+      "herencia and cultural authenticity in cooking",
+      "heritage and grandma's recipe influence",
+      "pastelitos (vegan substitution)",
+      "yuca frita con chicharrón (vegan version)"
+    ],
     "edamame": [],
     "edge trimming and patching scraps back into the roll": [
       "brown sugar and cinnamon filling",
@@ -21658,6 +22182,13 @@
       "home-version of vegan cookies to avoid bakery trips",
       "texture goals: crispy edges, chewy centers",
       "vegan chocolate chip cookie ingredients: coconut oil"
+    ],
+    "egg-free lasagna noodles": [
+      "dairy-free substitutes",
+      "dairy-free substitutions",
+      "kelp noodles soaked with lemon and salt",
+      "regular lasagna noodles are vegan",
+      "veggie pai (egg-free option)"
     ],
     "eggplant": [
       "mushroom and eggplant meat sauce",
@@ -21732,6 +22263,7 @@
       "hibiscus-based vegan meat",
       "jackfruit as meat substitute",
       "jackfruit marination",
+      "mushroom-walnut meat substitute",
       "oven slow cooking for plant-based meats (300 f / 150 c, ~60 min)",
       "vegan tacos"
     ],
@@ -21763,6 +22295,7 @@
       "environmental impact of veganism",
       "environmental justice and climate considerations in veganism",
       "ethical notes: pigs intelligence",
+      "moral/ethical aspects of recreating meat and dairy",
       "vegan meal concepts",
       "vegan meals",
       "vegan recipe ideas",
@@ -21838,6 +22371,13 @@
       "veggie broth-based tofu cooking"
     ],
     "factory farming stats: 97% us pigs": [],
+    "family reactions to vegan food": [
+      "product comparisons between vegan proteins and chicken",
+      "public perception of vegan meat (soy-based products)",
+      "reactions to vegan dishes (surprise, delight, skepticism)",
+      "taste-testing and scoring in food experiments",
+      "vegan substitute flavor accuracy"
+    ],
     "farmers market produce discounts": [
       "end-of-day farmers market discounts as a saving tactic",
       "end-of-day market discounts",
@@ -22131,6 +22671,7 @@
       "fennel seeds and garlic as sausage aromatics",
       "mushroom-walnut umami paste and bewitching vegan burger patty texture",
       "pressing tofu to remove moisture",
+      "tofu blending for texture",
       "tofu press technique",
       "tofu pressing",
       "vegan sausage texture using tofu, mushrooms, walnuts"
@@ -22146,6 +22687,13 @@
       "morel mushrooms in pasta",
       "mushroom and eggplant meat sauce",
       "roasted garlic and red pepper pasta sauce (blended)"
+    ],
+    "fried king oyster mushroom bites": [
+      "barbecue oyster mushrooms (oven-baked with sauce)",
+      "mushroom pate ingredients (onion, mushrooms, optional walnuts, ginger, garlic, vegan worcestershire, soy sauce)",
+      "mushroom-based rib substitute (baby back ribs)",
+      "mushroom-walnut umami paste and bewitching vegan burger patty texture",
+      "vegan burger construction: tofu, mushrooms, vital wheat gluten"
     ],
     "fritters": [
       "zucchini and red lentil fritters"
@@ -22166,6 +22714,13 @@
       "silken tofu",
       "vanilla",
       "vegan mascarpone"
+    ],
+    "future plans for vegan latin american recipes": [
+      "eating with hands vs utensils in traditional dishes",
+      "herencia and cultural authenticity in cooking",
+      "heritage and grandma's recipe influence",
+      "pastelitos (vegan substitution)",
+      "yuca frita con chicharrón (vegan version)"
     ],
     "garbanzo bean flour (garbanzo fava flour)": [
       "chickpeas (garbanzo beans) nutrition and protein",
@@ -22338,6 +22893,13 @@
       "sugar",
       "water"
     ],
+    "global vegan foods concept": [
+      "vegan fast food",
+      "vegan meal concepts",
+      "vegan meals",
+      "vegan recipe inspiration",
+      "vegan recipes"
+    ],
     "gluten development": [
       "finger poke test for gluten",
       "kneading dough",
@@ -22495,6 +23057,7 @@
       "youtube cooking video"
     ],
     "gourmet vegan dishes": [
+      "appetizing vegan dishes for non-vegans",
       "goodful video style",
       "plant-based cooking",
       "plant-based dishes",
@@ -22509,6 +23072,7 @@
       "raspberry garnish and tasting notes",
       "soaked cashews as cheesecake base",
       "springform pan prep and parchment lining",
+      "vegan cheesecake",
       "vegan ice cream base (oat milk, coconut oil, unrefined sugar, acid)"
     ],
     "graham cracker crust with coconut oil": [
@@ -22652,6 +23216,20 @@
       "vegan cheese usage",
       "vegan grilled cheese",
       "vegan mac and cheese"
+    ],
+    "herencia and cultural authenticity in cooking": [
+      "eating with hands vs utensils in traditional dishes",
+      "future plans for vegan latin american recipes",
+      "heritage and grandma's recipe influence",
+      "pastelitos (vegan substitution)",
+      "yuca frita con chicharrón (vegan version)"
+    ],
+    "heritage and grandma's recipe influence": [
+      "eating with hands vs utensils in traditional dishes",
+      "future plans for vegan latin american recipes",
+      "herencia and cultural authenticity in cooking",
+      "pastelitos (vegan substitution)",
+      "yuca frita con chicharrón (vegan version)"
     ],
     "hibiscus-based vegan meat": [
       "beet puree to simulate “blood” in vegan burgers",
@@ -22844,6 +23422,7 @@
       "rice choice in sushi"
     ],
     "importance of protein in vegan meals": [
+      "accessibility and simplicity of vegan cooking",
       "avocado toast with tofu scramble",
       "extra-firm tofu with turmeric, nutritional yeast, and spices",
       "kale caesar salad with crispy chickpeas",
@@ -22857,13 +23436,23 @@
       "veggie broth-based tofu cooking"
     ],
     "impossible meat": [
+      "impossible meat as ground beef substitute",
       "impossible sausage",
+      "mushroom-walnut meat substitute",
       "salty-sweet flavor balance in vegan meat analogues",
       "saucing and topping integration with vegan meats"
+    ],
+    "impossible meat as ground beef substitute": [
+      "impossible meat",
+      "impossible sausage",
+      "jackfruit as chicharrón substitute",
+      "jackfruit as meat substitute",
+      "mushroom-walnut meat substitute"
     ],
     "impossible sausage": [
       "canadian bacon vs sausage narrative",
       "impossible meat",
+      "impossible meat as ground beef substitute",
       "light life sausage",
       "mcmuffin original elements",
       "vegan sausage technique: tofu base with mushroom, cornstarch, and flour; crumbling and forming",
@@ -22959,10 +23548,19 @@
       "nut butters",
       "vital wheat gluten"
     ],
+    "jackfruit as chicharrón substitute": [
+      "impossible meat as ground beef substitute",
+      "jackfruit as meat substitute",
+      "jackfruit marination",
+      "mushroom-walnut meat substitute",
+      "soy chicharrón"
+    ],
     "jackfruit as meat substitute": [
       "enoki mushroom carnitas",
       "environmental rationale for meat substitutes (reducing factory farming)",
       "hibiscus-based vegan meat",
+      "impossible meat as ground beef substitute",
+      "jackfruit as chicharrón substitute",
       "jackfruit marination",
       "lemongrass as sugar-cane substitute",
       "oven slow cooking for plant-based meats (300 f / 150 c, ~60 min)",
@@ -22977,6 +23575,7 @@
       "banana leaves for steaming and flavor infusion",
       "enoki mushroom carnitas",
       "hibiscus-based vegan meat",
+      "jackfruit as chicharrón substitute",
       "jackfruit as meat substitute",
       "oven slow cooking for plant-based meats (300 f / 150 c, ~60 min)",
       "soy chicharrón",
@@ -23002,6 +23601,7 @@
       "judging panel",
       "merlio cookie as a homemade benchmark (rating observed as 10+ by merle)",
       "pizza 108 (los angeles) vegan pizza",
+      "public perception of vegan meat (soy-based products)",
       "reactions to vegan dishes (surprise, delight, skepticism)",
       "vegan substitute flavor accuracy"
     ],
@@ -23091,6 +23691,14 @@
       "nutritional yeast cheesy base",
       "tapioca starch as thickener"
     ],
+    "katsu (vegan) plate": [
+      "los angeles vegan scene",
+      "macaroni salad (vegan side)",
+      "new york vegan scene",
+      "vegan barbecue",
+      "vegan barbecue spot near office",
+      "vegan foods"
+    ],
     "kelp granules": [
       "kimchi and sesame toppings",
       "lentils with cumin, hing, turmeric",
@@ -23100,8 +23708,10 @@
     ],
     "kelp noodles soaked with lemon and salt": [
       "binding with slurry",
+      "egg-free lasagna noodles",
       "kale massage with oil and salt",
-      "lemon juice"
+      "lemon juice",
+      "regular lasagna noodles are vegan"
     ],
     "kelp-based umami broth": [
       "40-minute simmer for kimchi jigae",
@@ -23472,6 +24082,7 @@
       "vegan bouillon for broth"
     ],
     "lifeline options: 10-second clip, ingredient definition, bona vegan": [
+      "definitions and explanations of veganism",
       "vegan fast food",
       "vegan grilling concepts",
       "vegan recipe inspiration",
@@ -23538,6 +24149,13 @@
       "batch-bulk ingredients and shelf-stable choices",
       "ingredient quality and cost"
     ],
+    "los angeles vegan scene": [
+      "katsu (vegan) plate",
+      "macaroni salad (vegan side)",
+      "new york vegan scene",
+      "vegan barbecue spot near office",
+      "vegan foods"
+    ],
     "low-sodium soy sauce": [
       "onion",
       "roasted garlic",
@@ -23571,6 +24189,13 @@
       "parchment circle lining",
       "peanut butter, lemon juice, vanilla in filling",
       "vanilla bean and miso in filling for tang"
+    ],
+    "macaroni salad (vegan side)": [
+      "katsu (vegan) plate",
+      "los angeles vegan scene",
+      "new york vegan scene",
+      "vegan barbecue spot near office",
+      "vegan dominican potato salad (ensalada rusa)"
     ],
     "macaroni with oat milk (microwave method)": [
       "diy vegan cheese on toast",
@@ -23744,10 +24369,17 @@
       "vegan recipes"
     ],
     "meal planning with vegan proteins": [],
+    "meal prep for leftovers": [
+      "budget meal prep",
+      "dried beans vs canned beans for budget meals",
+      "meal prepping",
+      "vegan budget meals"
+    ],
     "meal prepping": [
       "budget grocery shopping",
       "budget meal prep",
       "dried beans vs canned beans for budget meals",
+      "meal prep for leftovers",
       "vegan budget meals"
     ],
     "meal-prep sandwich ideas": [
@@ -23893,7 +24525,8 @@
       "graham cracker crust (vegan cheesecake)",
       "panna cotta base with cashews and coconut milk",
       "raspberry garnish and tasting notes",
-      "springform pan prep and parchment lining"
+      "springform pan prep and parchment lining",
+      "vegan cheesecake"
     ],
     "miso in vegan cheese": [
       "agar-based vegan cheese (parmesan)",
@@ -23954,6 +24587,11 @@
       "miyoko's cheddar cheese",
       "tapioca starch in vegan cheese"
     ],
+    "moral/ethical aspects of recreating meat and dairy": [
+      "appetizing vegan dishes for non-vegans",
+      "dairy-free motivations (health and environment)",
+      "environmental/ethical discussion tied to vegan choices"
+    ],
     "morel mushrooms in pasta": [
       "arabiata pasta (vegan)",
       "butter chardonnay sauce with morel mushrooms",
@@ -24013,6 +24651,7 @@
       "carrot dog dressing: relish, onions, ketchup",
       "extra-firm tofu cutting (into thirds)",
       "four-dollar sandwich assembly (mushroom pate, fried tofu, cucumber, cabbage slaw, jalapeño, quick-pickled elements)",
+      "fried king oyster mushroom bites",
       "pan-toasting/bread handling for cheap sandwich",
       "prosciutto and carpaccio style vegan meats (imports-like)",
       "roasted red pepper spread (roasted peppers, walnuts, olive oil, garlic, lemon, cumin, paprika, salt)",
@@ -24047,13 +24686,25 @@
       "vegan ramen"
     ],
     "mushroom-based rib substitute (baby back ribs)": [
+      "fried king oyster mushroom bites",
       "king oyster mushroom chashu",
+      "mushroom-walnut meat substitute",
       "mushrooms",
       "salty-sweet flavor balance in vegan meat analogues",
       "vegan chicken substitutes"
     ],
+    "mushroom-walnut meat substitute": [
+      "enoki mushroom carnitas",
+      "impossible meat",
+      "impossible meat as ground beef substitute",
+      "jackfruit as chicharrón substitute",
+      "mushroom-based rib substitute (baby back ribs)",
+      "vegan chicken substitutes",
+      "vegan sausage texture using tofu, mushrooms, walnuts"
+    ],
     "mushroom-walnut umami paste and bewitching vegan burger patty texture": [
       "freezing tofu to improve texture",
+      "fried king oyster mushroom bites",
       "searing mushroom scallops with vegan butter",
       "texture shredding to mimic chicken",
       "texture vs. flavor in seitan",
@@ -24123,6 +24774,13 @@
       "kimchi jigae (vegan)",
       "paso chongor (korean mushroom hot pot)",
       "vegan pozole"
+    ],
+    "new york vegan scene": [
+      "katsu (vegan) plate",
+      "los angeles vegan scene",
+      "macaroni salad (vegan side)",
+      "vegan barbecue spot near office",
+      "vegan foods"
     ],
     "no narration": [
       "background music",
@@ -24396,6 +25054,7 @@
     "nutritional yeast for cheesy flavor": [
       "basil/olive oil garlic drizzle and nutritional yeast substitution for parmesan",
       "cashews as vegan cheese base",
+      "crowd-pleasing vegan cooking",
       "garlic powder seasoning",
       "lemon juice for tang",
       "nutritional yeast",
@@ -24405,6 +25064,7 @@
       "nutritional yeast, turmeric, cumin in scrambles",
       "tomato sauce and chili powder seasoning",
       "turmeric for color",
+      "umami development in vegan fillings",
       "vegan cheese topping options",
       "vegan mac and cheese sauce",
       "vegetable broth for pasta sauce"
@@ -24693,6 +25353,7 @@
       "garlic powder in sauce",
       "nutritional yeast",
       "parsley",
+      "plant-based sauces and accompaniments",
       "spinach puree folded into tomato-onion sauce",
       "vegan parmesan topping"
     ],
@@ -24946,6 +25607,7 @@
     ],
     "pantry staples for vegan cooking": [
       "accidentally vegan items",
+      "crowd-pleasing vegan cooking",
       "lentils, oats, and beans as core pantry staples",
       "nutritional yeast in vegan cheese",
       "vegan bouillon for broth",
@@ -25041,6 +25703,13 @@
       "mushroom ramen with peppers, kale, onions",
       "noodle dressing with soy sauce, sesame oil, and sugar",
       "pesto pasta sauce with almond milk"
+    ],
+    "pastelitos (vegan substitution)": [
+      "eating with hands vs utensils in traditional dishes",
+      "future plans for vegan latin american recipes",
+      "herencia and cultural authenticity in cooking",
+      "heritage and grandma's recipe influence",
+      "yuca frita con chicharrón (vegan version)"
     ],
     "patanko donut technique": [
       "cookie flattening technique",
@@ -25315,6 +25984,13 @@
       "recipe demonstrations",
       "youtube cooking video"
     ],
+    "plant-based sauces and accompaniments": [
+      "onion sauce",
+      "sauce reduction",
+      "soy sauce",
+      "soy sauce umami",
+      "tomato sauce"
+    ],
     "plant-based yogurt": [
       "coconut yogurt",
       "dairy-free ingredients",
@@ -25478,6 +26154,7 @@
     "price-based competition and scorekeeping": [
       "budget storytelling about la restaurant-price contrasts",
       "price-to-value comparison ($1.50 vs $14)",
+      "public perception of vegan meat (soy-based products)",
       "taste test and value verdict by joyce"
     ],
     "price-to-value comparison ($1.50 vs $14)": [
@@ -25493,8 +26170,11 @@
       "two-version comparison"
     ],
     "product comparisons between vegan proteins and chicken": [
+      "family reactions to vegan food",
       "flavor comparisons between homemade and shop flavors",
+      "public perception of vegan meat (soy-based products)",
       "six vegan substitutes",
+      "spam musubi (vegan version)",
       "teriyaki-flavored mock chicken",
       "vegan bacon (sweet earth)",
       "vegan chicken substitutes",
@@ -25517,6 +26197,13 @@
       "baking powder and vanilla in batter",
       "chocolate chips",
       "ube mochi pancake and waffle mix (vegan)"
+    ],
+    "public perception of vegan meat (soy-based products)": [
+      "family reactions to vegan food",
+      "judging by merle and vegan panel",
+      "price-based competition and scorekeeping",
+      "product comparisons between vegan proteins and chicken",
+      "vegan substitute flavor accuracy"
     ],
     "publication date 2019-06-12": [
       "background music",
@@ -25543,6 +26230,7 @@
       "vegan fast food"
     ],
     "quick vegan lunches": [
+      "accessibility and simplicity of vegan cooking",
       "quick meals",
       "quick vegan snacks",
       "quick weeknight meals",
@@ -25643,9 +26331,11 @@
       "vegan substitute flavor accuracy"
     ],
     "reactions to vegan dishes (surprise, delight, skepticism)": [
+      "appetizing vegan dishes for non-vegans",
       "banter and humor in vegan cooking shows",
       "calamari substitute made with coconut",
       "explicit restaurant setting in video context",
+      "family reactions to vegan food",
       "grapefruit flavor guessing in vegan dishes",
       "ingredient guessing and sensory evaluation",
       "judging by merle and vegan panel",
@@ -25827,6 +26517,13 @@
       "slicing technique (1-inch diagonal slices)",
       "texture evaluation",
       "vacuum sealing marinades"
+    ],
+    "regular lasagna noodles are vegan": [
+      "affordability of vegan eel substitute",
+      "egg-free lasagna noodles",
+      "kelp noodles soaked with lemon and salt",
+      "vegan sour cream (tofu)",
+      "vegan sour cream (tofu-based)"
     ],
     "rehydrating soy curls for kanekonchila": [
       "blend soy milk from soaked beans",
@@ -26314,6 +27011,7 @@
       "cornstarch slurry to thicken sauce",
       "mushroom pate preparation (pan sauté, mushroom reduction, processor to smooth)",
       "peeling and preparing vegetables for sauce",
+      "plant-based sauces and accompaniments",
       "potato-tofu binding",
       "sauce: kombu dashi",
       "sauce: maple syrup",
@@ -26383,7 +27081,8 @@
       "serving with fixings on the side",
       "vegan feta with olives as a topping",
       "vegan pepperoni technique: vital wheat gluten base, fennel, smoked paprika, red pepper flakes; steaming",
-      "vegan sausage technique: tofu base with mushroom, cornstarch, and flour; crumbling and forming"
+      "vegan sausage technique: tofu base with mushroom, cornstarch, and flour; crumbling and forming",
+      "vegan wings"
     ],
     "sauerkraut as taco topping": [
       "taco assembly order and toppings (onions, cilantro, avocado, lime)",
@@ -26736,6 +27435,7 @@
       "twist/knot shaping of gluten"
     ],
     "simple vegan meals": [
+      "accessibility and simplicity of vegan cooking",
       "batch-friendly, 20-minute meals",
       "quick meals",
       "quick vegan lunches",
@@ -26748,10 +27448,12 @@
       "flavor impact of substitutes",
       "flax eggs (vegan egg substitute)",
       "product comparisons between vegan proteins and chicken",
+      "spam musubi (vegan version)",
       "vegan bacon (cast-iron)",
       "vegan bacon (sweet earth)",
       "vegan chicken substitutes",
       "vegan egg substitutes",
+      "vegan wings",
       "watermelon as smoked ham substitute",
       "watermelon tuna substitute"
     ],
@@ -26866,6 +27568,7 @@
     "soy chicharrón": [
       "environmental rationale for meat substitutes (reducing factory farming)",
       "hibiscus-based vegan meat",
+      "jackfruit as chicharrón substitute",
       "jackfruit as meat substitute",
       "jackfruit marination",
       "oven slow cooking for plant-based meats (300 f / 150 c, ~60 min)"
@@ -26881,6 +27584,7 @@
       "mushroom and eggplant meat sauce",
       "noodle dressing with soy sauce, sesame oil, and sugar",
       "pepper seasoning",
+      "plant-based sauces and accompaniments",
       "roasted garlic and red pepper pasta sauce (blended)",
       "sauce reduction",
       "sauce: kombu dashi",
@@ -26911,9 +27615,11 @@
     ],
     "soy sauce umami": [
       "low-sodium soy sauce",
+      "plant-based sauces and accompaniments",
       "sauce reduction",
       "soy sauce",
-      "soy sauce-seasoning base"
+      "soy sauce-seasoning base",
+      "umami development in vegan fillings"
     ],
     "soy sauce-seasoning base": [
       "garlic powder and cumin",
@@ -26924,6 +27630,13 @@
       "sesame oil and garlic for stir-fry glaze",
       "soy sauce",
       "soy sauce umami"
+    ],
+    "spam musubi (vegan version)": [
+      "product comparisons between vegan proteins and chicken",
+      "six vegan substitutes",
+      "vegan chicken substitutes",
+      "vegan poultry alternatives and crowd-pleasing potential",
+      "vegan wings"
     ],
     "speculoos cookies": [
       "blender/food processor",
@@ -27529,6 +28242,7 @@
     ],
     "taste-testing and scoring in food experiments": [
       "baking with substitutions",
+      "family reactions to vegan food",
       "kitchen article replication vs. real-world results",
       "live parent feedback and taste testing",
       "panel critique and scoring",
@@ -27590,6 +28304,7 @@
       "vegan chicken substitutes"
     ],
     "texture and flavor notes": [
+      "baking and re-baking texture considerations",
       "baking times and texture testing",
       "banana leaves for steaming and flavor infusion",
       "cheesecloth drainage",
@@ -27628,6 +28343,13 @@
       "vegan runny yolk (tomato-based yolk)",
       "wringing/release of moisture from rehydrated yuba"
     ],
+    "texture and mouthfeel of vegan fillings": [
+      "avoiding mushy texture in vegan fillings",
+      "texture evaluation",
+      "texture-focused evaluation",
+      "thickening vegan cheese on the stove and adjusting texture with water",
+      "vegan sausage texture using tofu, mushrooms, walnuts"
+    ],
     "texture and taste of vegan meringues": [
       "aquafaba as egg-white substitute",
       "baking time of 1.5 hours",
@@ -27640,6 +28362,8 @@
       "vanilla addition to aquafaba meringue"
     ],
     "texture evaluation": [
+      "avoiding mushy texture in vegan fillings",
+      "baking and re-baking texture considerations",
       "baking time (90 minutes)",
       "baking times and texture testing",
       "drying before baking",
@@ -27647,8 +28371,10 @@
       "refrigeration timing (six hours to overnight)",
       "slicing technique (1-inch diagonal slices)",
       "texture and moisture release in plant-based dishes",
+      "texture and mouthfeel of vegan fillings",
       "texture-focused evaluation",
-      "toasted nori for sushi texture"
+      "toasted nori for sushi texture",
+      "tofu blending for texture"
     ],
     "texture goals: crispy edges, chewy centers": [
       "add-ins in vegan ice cream: cookies, brownies, blondies",
@@ -27745,8 +28471,10 @@
     ],
     "texture-focused evaluation": [
       "air fryer settings (325°f / 160°c)",
+      "baking and re-baking texture considerations",
       "drumstick-wrapping technique with yuba",
       "texture and moisture release in plant-based dishes",
+      "texture and mouthfeel of vegan fillings",
       "texture evaluation",
       "water soaking ratio for rehydration",
       "wringing/release of moisture from rehydrated yuba",
@@ -27777,6 +28505,7 @@
       "freezer setting of vegan cheese",
       "melting behavior of vegan cheese",
       "potato-based vegan cheese: potatoes, potato water, flour, cornstarch, apple cider vinegar, nutritional yeast, salt",
+      "texture and mouthfeel of vegan fillings",
       "vegan mozzarella cheese (violife) and miyoko's cashew cheese layering"
     ],
     "thin slicing to mimic pork": [
@@ -27905,7 +28634,15 @@
       "salsa verde ingredients and blending",
       "texture impression vs eel",
       "tofu",
+      "tofu blending for texture",
       "tofu pressing"
+    ],
+    "tofu blending for texture": [
+      "avoiding mushy texture in vegan fillings",
+      "baking and re-baking texture considerations",
+      "freezing tofu to improve texture",
+      "texture evaluation",
+      "tofu blending"
     ],
     "tofu crumbles for taco filling": [
       "avocado toast with tofu scramble",
@@ -28057,6 +28794,7 @@
       "low-sodium soy sauce",
       "onion",
       "paprika",
+      "plant-based sauces and accompaniments",
       "red lentils",
       "roasted garlic",
       "roasted red pepper",
@@ -28314,6 +29052,14 @@
       "video duration 3:15",
       "youtube"
     ],
+    "umami development in vegan fillings": [
+      "crowd-pleasing vegan cooking",
+      "nutritional yeast for cheesy flavor",
+      "soy sauce umami",
+      "vegan bouillon for broth",
+      "vegan pantry ideas",
+      "vegan parmesan topping"
+    ],
     "under $5": [
       "affordable vegan foods",
       "budget shopping for snacks",
@@ -28492,13 +29238,22 @@
     ],
     "vegan barbecue": [
       "beet puree to simulate “blood” in vegan burgers",
+      "katsu (vegan) plate",
       "seasonal cooking (summer)",
+      "vegan barbecue spot near office",
       "vegan buffalo sauce considerations",
       "vegan chorizo addition",
       "vegan foods",
       "vegan grilling concepts",
       "vegan pozole",
       "vegan tacos"
+    ],
+    "vegan barbecue spot near office": [
+      "katsu (vegan) plate",
+      "los angeles vegan scene",
+      "macaroni salad (vegan side)",
+      "new york vegan scene",
+      "vegan barbecue"
     ],
     "vegan bouillon for broth": [
       "berbere spice as essential east african flavor",
@@ -28511,6 +29266,7 @@
       "pantry staples for vegan cooking",
       "roasted tomatoes in vegan sauce",
       "tamarind influence in soup",
+      "umami development in vegan fillings",
       "vegan pantry ideas",
       "vegan pozole/posole rojo broth with guajillo and pasilla chiles",
       "vegetable broth",
@@ -28541,6 +29297,7 @@
       "campus-friendly recipes",
       "dried beans vs canned beans for budget meals",
       "event planning for vegan barbecues",
+      "meal prep for leftovers",
       "meal prepping",
       "note on budget figures: $20 vs $200",
       "trader joe’s vegan product highlights",
@@ -28555,6 +29312,7 @@
       "vegan yogurt sauce (plant-based yogurt, olive oil, spices)"
     ],
     "vegan burger construction: tofu, mushrooms, vital wheat gluten": [
+      "fried king oyster mushroom bites",
       "mushroom pate ingredients (onion, mushrooms, optional walnuts, ginger, garlic, vegan worcestershire, soy sauce)",
       "mushroom-walnut umami paste and bewitching vegan burger patty texture",
       "mushrooms",
@@ -28675,6 +29433,13 @@
       "vegan lasagna",
       "vegan mozzarella (daiya) usage"
     ],
+    "vegan cheesecake": [
+      "blueberry cheesecake vegan ice cream (cream cheese)",
+      "coconut milk in vegan cheesecake filling",
+      "graham cracker crust (vegan cheesecake)",
+      "miso and lemon in vegan cheesecake filling",
+      "vegan mascarpone"
+    ],
     "vegan chicken from flour": [
       "45-minute simmer for flavor",
       "broth simmering with soy sauce",
@@ -28698,10 +29463,13 @@
       "hibiscus-based vegan meat",
       "jackfruit as meat substitute",
       "mushroom-based rib substitute (baby back ribs)",
+      "mushroom-walnut meat substitute",
       "product comparisons between vegan proteins and chicken",
       "six vegan substitutes",
+      "spam musubi (vegan version)",
       "teriyaki-flavored mock chicken",
-      "vegan poultry alternatives and crowd-pleasing potential"
+      "vegan poultry alternatives and crowd-pleasing potential",
+      "vegan wings"
     ],
     "vegan chipotle mayo": [
       "arugula",
@@ -28790,6 +29558,7 @@
       "wild rice simmering in soup"
     ],
     "vegan dinner recipes": [
+      "accessibility and simplicity of vegan cooking",
       "dinner ideas",
       "importance of protein in vegan meals",
       "simple vegan meals",
@@ -28805,6 +29574,7 @@
     "vegan dominican potato salad (ensalada rusa)": [
       "beet dye/coloring in salads",
       "cultural context and celebration associations",
+      "macaroni salad (vegan side)",
       "use of peas in the salad"
     ],
     "vegan egg substitutes": [
@@ -28830,6 +29600,7 @@
       "vegan baking pitfalls and tips"
     ],
     "vegan fast food": [
+      "global vegan foods concept",
       "goodful video format",
       "lifeline options: 10-second clip, ingredient definition, bona vegan",
       "plant-based cooking",
@@ -28863,6 +29634,9 @@
       "winter citrus arugula salad with vegan feta"
     ],
     "vegan foods": [
+      "katsu (vegan) plate",
+      "los angeles vegan scene",
+      "new york vegan scene",
       "vegan barbecue",
       "vegan pozole",
       "vegan ramen",
@@ -29024,7 +29798,8 @@
       "truffle aioli (vegan)",
       "vanilla",
       "vanilla extract",
-      "vegan butter finish"
+      "vegan butter finish",
+      "vegan cheesecake"
     ],
     "vegan mayo as edible glue": [
       "30 g rice portions for temari",
@@ -29047,9 +29822,11 @@
     ],
     "vegan meal concepts": [
       "30-day vegan journey and channel plug",
+      "appetizing vegan dishes for non-vegans",
       "background music",
       "channel: goodful",
       "environmental/ethical discussion tied to vegan choices",
+      "global vegan foods concept",
       "goodful",
       "no narration",
       "plant-based breakfast",
@@ -29060,6 +29837,7 @@
     "vegan meals": [
       "30-day vegan journey and channel plug",
       "environmental/ethical discussion tied to vegan choices",
+      "global vegan foods concept",
       "goodful video style",
       "gourmet vegan dishes",
       "meal planning for holidays",
@@ -29096,14 +29874,17 @@
     ],
     "vegan pantry ideas": [
       "accidentally vegan items",
+      "crowd-pleasing vegan cooking",
       "nutritional yeast in vegan sauces",
       "pantry staples for vegan cooking",
+      "umami development in vegan fillings",
       "vegan bouillon for broth"
     ],
     "vegan parmesan topping": [
       "agar-based vegan cheese (parmesan)",
       "bread crumbs",
       "cashews",
+      "crowd-pleasing vegan cooking",
       "daiya vegan cheese",
       "garlic herb seasoning",
       "gluten-free crackers as a topping",
@@ -29116,6 +29897,7 @@
       "rosemary grate trick (rosemary leaves)",
       "spinach greens topping",
       "tabitha brown vegan mac and cheese",
+      "umami development in vegan fillings",
       "vegan cheese topping options",
       "vegan feta with olives as a topping",
       "vegan lasagna",
@@ -29153,7 +29935,9 @@
     "vegan poultry alternatives and crowd-pleasing potential": [
       "drumstick-wrapping technique with yuba",
       "lemongrass as sugar-cane substitute",
-      "vegan chicken substitutes"
+      "spam musubi (vegan version)",
+      "vegan chicken substitutes",
+      "vegan wings"
     ],
     "vegan pozole": [
       "broken chili",
@@ -29222,6 +30006,7 @@
     ],
     "vegan recipe ideas": [
       "30-day vegan journey and channel plug",
+      "appetizing vegan dishes for non-vegans",
       "background music in cooking videos",
       "environmental/ethical discussion tied to vegan choices",
       "goodful video format",
@@ -29240,8 +30025,10 @@
     ],
     "vegan recipe inspiration": [
       "30-day vegan journey and channel plug",
+      "appetizing vegan dishes for non-vegans",
       "campus-friendly recipes",
       "environmental/ethical discussion tied to vegan choices",
+      "global vegan foods concept",
       "goodful video style",
       "gourmet vegan dishes",
       "inspiration from bosh video and cookbook",
@@ -29262,6 +30049,7 @@
       "el cocinero (vegan mexican restaurant)",
       "environmental/ethical discussion tied to vegan choices",
       "event planning for vegan barbecues",
+      "global vegan foods concept",
       "goodful youtube video",
       "lifeline options: 10-second clip, ingredient definition, bona vegan",
       "meal planning for holidays",
@@ -29306,14 +30094,17 @@
       "worcestershire sauce, apple cider vinegar, sugar in vegan sausage"
     ],
     "vegan sausage texture using tofu, mushrooms, walnuts": [
+      "avoiding mushy texture in vegan fillings",
       "cornstarch and flour to add chewiness",
       "dehydration and shaping of mushrooms",
       "forming pepperoni shapes on parchment and using a mold (kombucha cap)",
       "freezing tofu to improve texture",
       "impossible sausage",
       "light life sausage",
+      "mushroom-walnut meat substitute",
       "pressing tofu to remove moisture",
       "searing mushroom scallops with vegan butter",
+      "texture and mouthfeel of vegan fillings",
       "vegan pepperoni technique: vital wheat gluten base, fennel, smoked paprika, red pepper flakes; steaming",
       "vegan sausage technique: tofu base with mushroom, cornstarch, and flour; crumbling and forming",
       "walnut paste for italian sausage flavor",
@@ -29339,6 +30130,7 @@
       "chipotle crema (vegan mayo + vegan sour cream + lime + chipotle powder)",
       "chipotle crema with silken tofu",
       "lemon juice",
+      "regular lasagna noodles are vegan",
       "silken tofu",
       "sunflower seed butter (homemade)",
       "vegan mac and cheese sauce",
@@ -29348,6 +30140,7 @@
     "vegan sour cream (tofu-based)": [
       "chipotle crema (vegan mayo + vegan sour cream + lime + chipotle powder)",
       "chipotle crema with silken tofu",
+      "regular lasagna noodles are vegan",
       "silken tofu",
       "sunflower seed butter (homemade)",
       "vegan ranch dressing (mayo, non-dairy milk, vinegar, herbs)",
@@ -29357,11 +30150,13 @@
       "calamari substitute made with coconut",
       "canadian bacon vs sausage narrative",
       "ex-mcdonald’s employee guest",
+      "family reactions to vegan food",
       "flavor evaluation",
       "grapefruit flavor guessing in vegan dishes",
       "judging by merle and vegan panel",
       "pizza 108 (los angeles) vegan pizza",
       "product comparisons between vegan proteins and chicken",
+      "public perception of vegan meat (soy-based products)",
       "rating and evaluation of flavor",
       "reactions to vegan dishes (surprise, delight, skepticism)",
       "side-by-side taste test",
@@ -29430,6 +30225,13 @@
       "vegan recipe ideas",
       "vegan recipe inspiration",
       "vegan recipes"
+    ],
+    "vegan wings": [
+      "saucing and topping integration with vegan meats",
+      "six vegan substitutes",
+      "spam musubi (vegan version)",
+      "vegan chicken substitutes",
+      "vegan poultry alternatives and crowd-pleasing potential"
     ],
     "vegan yogurt": [
       "coconut yogurt",
@@ -29532,6 +30334,7 @@
     "veggie pai (egg-free option)": [
       "dairy-free substitutes",
       "dairy-free substitutions",
+      "egg-free lasagna noodles",
       "pan-seared tofu as dairy-free paneer substitute",
       "using canned aquafaba as a store-bought option"
     ],
@@ -29880,6 +30683,13 @@
       "wringing/release of moisture from rehydrated yuba",
       "yuba (tofu skin) rehydration"
     ],
+    "yuca frita con chicharrón (vegan version)": [
+      "eating with hands vs utensils in traditional dishes",
+      "future plans for vegan latin american recipes",
+      "herencia and cultural authenticity in cooking",
+      "heritage and grandma's recipe influence",
+      "pastelitos (vegan substitution)"
+    ],
     "zucchini": [
       "red lentils",
       "roasted garlic",
@@ -29893,14 +30703,14 @@
     ]
   },
   "schema_version": 1,
-  "source_hash": "ba730670a01de71d365692e680e8320ee990ddf9fc5309c9c64092621ebbf91f",
+  "source_hash": "b05062f35810316e8f1247e15379be1fbd81370c0bf6080c58cc9519548d696d",
   "stats": {
-    "canonical_topic_count": 1327,
-    "display_label_count": 1327,
+    "canonical_topic_count": 1362,
+    "display_label_count": 1362,
     "family_count": 20,
-    "raw_topic_count": 1333,
-    "related_edge_count": 4291
+    "raw_topic_count": 1368,
+    "related_edge_count": 4427
   },
   "status": "complete",
-  "updated_at": "2026-08-31T20:02:12.413952+00:00"
+  "updated_at": "2026-09-01T03:39:40.466952+00:00"
 }

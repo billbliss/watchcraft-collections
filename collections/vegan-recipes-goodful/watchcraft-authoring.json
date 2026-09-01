@@ -10,7 +10,6 @@
       "playlist_id": "PLQiGxGHwiuD0ydMqT4cDu2xoUoVvdFK7V",
       "url": "https://www.youtube.com/playlist?list=PLQiGxGHwiuD0ydMqT4cDu2xoUoVvdFK7V",
       "excluded_video_ids": [
-        "lfI0uq_cF-E",
         "TJOGW6hDxLk",
         "35_-6VObm04",
         "91wOu8Hl6gE",
@@ -23,127 +22,129 @@
         "hTAL271F3es",
         "EWHLDtXzTMM",
         "4m1B6PRkFOs",
-        "_jKJGUfxppM",
         "lgfCHlaRPVM",
         "du4yZTJorb0",
         "lddKZC9Ff7s",
         "uxron4JmV9U",
         "J9gAq6SW0I4",
-        "Olpq5sKbYPE",
-        "l0nsHRenMpw"
+        "Olpq5sKbYPE"
       ],
-      "caption_exclusions": [
-        {
-          "video_id": "lfI0uq_cF-E",
-          "language": "en",
-          "reason": "requested-language-unavailable"
-        },
+      "audio_exclusions": [
         {
           "video_id": "TJOGW6hDxLk",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 478.238,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "35_-6VObm04",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 208.341,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "91wOu8Hl6gE",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 1050.645,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "QT6MQpWZLl0",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 323.791,
+          "speech_seconds": 1.736
         },
         {
           "video_id": "TjqC3HJ8GUs",
-          "language": "en",
-          "reason": "requested-language-unavailable"
+          "reason": "no-speech-detected",
+          "audio_seconds": 245.841,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "39Vga74u7nM",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 328.829,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "ctm4ejdPHl8",
-          "language": "en",
-          "reason": "requested-language-unavailable"
+          "reason": "no-speech-detected",
+          "audio_seconds": 468.857,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "1ZDNfk-Sn8o",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 348.729,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "cNryZxNLeOw",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 514.566,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "hTAL271F3es",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 578.537,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "EWHLDtXzTMM",
-          "language": "en",
-          "reason": "requested-language-unavailable"
+          "reason": "no-speech-detected",
+          "audio_seconds": 213.182,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "4m1B6PRkFOs",
-          "language": "en",
-          "reason": "requested-language-unavailable"
-        },
-        {
-          "video_id": "_jKJGUfxppM",
-          "language": "en",
-          "reason": "requested-language-unavailable"
+          "reason": "no-speech-detected",
+          "audio_seconds": 472.898,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "lgfCHlaRPVM",
-          "language": "en",
-          "reason": "requested-language-unavailable"
+          "reason": "no-speech-detected",
+          "audio_seconds": 628.181,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "du4yZTJorb0",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 330.49,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "lddKZC9Ff7s",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 350.436,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "uxron4JmV9U",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 328.748,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "J9gAq6SW0I4",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 139.68,
+          "speech_seconds": 0.0
         },
         {
           "video_id": "Olpq5sKbYPE",
-          "language": "en",
-          "reason": "captions-disabled"
-        },
-        {
-          "video_id": "l0nsHRenMpw",
-          "language": "en",
-          "reason": "captions-disabled"
+          "reason": "no-speech-detected",
+          "audio_seconds": 112.064,
+          "speech_seconds": 0.0
         }
       ],
       "publisher": "Goodful",
       "publisher_url": "https://www.youtube.com/@Goodful"
     },
     "listed": true,
-    "publisher": "Goodful"
+    "publisher": "Goodful",
+    "category": "Cooking"
   },
   "sources": {
     "shyfkep1wQc.youtube": {
@@ -578,7 +579,7 @@
       "duration_seconds": 587,
       "published_at": "2020-08-26T08:00:03-07:00",
       "chapters": [],
-      "position": 22,
+      "position": 23,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -598,7 +599,7 @@
       "duration_seconds": 382,
       "published_at": "2021-03-20T08:00:31-07:00",
       "chapters": [],
-      "position": 23,
+      "position": 24,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -618,7 +619,7 @@
       "duration_seconds": 418,
       "published_at": "2021-05-15T08:00:25-07:00",
       "chapters": [],
-      "position": 24,
+      "position": 25,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -638,7 +639,7 @@
       "duration_seconds": 456,
       "published_at": "2020-12-12T11:00:20-08:00",
       "chapters": [],
-      "position": 25,
+      "position": 26,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -658,7 +659,7 @@
       "duration_seconds": 610,
       "published_at": "2022-02-05T08:00:14-08:00",
       "chapters": [],
-      "position": 26,
+      "position": 27,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -678,7 +679,7 @@
       "duration_seconds": 674,
       "published_at": "2020-07-09T08:00:02-07:00",
       "chapters": [],
-      "position": 27,
+      "position": 28,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -698,7 +699,7 @@
       "duration_seconds": 527,
       "published_at": "2021-02-20T10:00:12-08:00",
       "chapters": [],
-      "position": 28,
+      "position": 29,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -718,7 +719,7 @@
       "duration_seconds": 1076,
       "published_at": "2022-03-26T08:00:25-07:00",
       "chapters": [],
-      "position": 29,
+      "position": 30,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -738,7 +739,7 @@
       "duration_seconds": 973,
       "published_at": "2022-04-16T08:00:09-07:00",
       "chapters": [],
-      "position": 30,
+      "position": 31,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -758,7 +759,7 @@
       "duration_seconds": 644,
       "published_at": "2022-04-23T08:00:30-07:00",
       "chapters": [],
-      "position": 31,
+      "position": 32,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -778,7 +779,7 @@
       "duration_seconds": 945,
       "published_at": "2021-10-16T08:00:19-07:00",
       "chapters": [],
-      "position": 32,
+      "position": 33,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -798,7 +799,7 @@
       "duration_seconds": 1107,
       "published_at": "2021-02-08T08:00:32-08:00",
       "chapters": [],
-      "position": 33,
+      "position": 34,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -818,7 +819,7 @@
       "duration_seconds": 561,
       "published_at": "2021-05-22T11:00:00-07:00",
       "chapters": [],
-      "position": 34,
+      "position": 35,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -838,7 +839,7 @@
       "duration_seconds": 378,
       "published_at": "2021-03-04T08:00:13-08:00",
       "chapters": [],
-      "position": 35,
+      "position": 36,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -858,7 +859,7 @@
       "duration_seconds": 530,
       "published_at": "2020-07-19T08:00:07-07:00",
       "chapters": [],
-      "position": 36,
+      "position": 37,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -878,7 +879,7 @@
       "duration_seconds": 313,
       "published_at": "2021-06-19T08:00:33-07:00",
       "chapters": [],
-      "position": 37,
+      "position": 38,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -898,7 +899,7 @@
       "duration_seconds": 415,
       "published_at": "2021-09-04T08:00:33-07:00",
       "chapters": [],
-      "position": 38,
+      "position": 39,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -918,7 +919,7 @@
       "duration_seconds": 731,
       "published_at": "2021-06-14T08:00:09-07:00",
       "chapters": [],
-      "position": 39,
+      "position": 40,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -938,7 +939,7 @@
       "duration_seconds": 545,
       "published_at": "2021-05-29T08:00:35-07:00",
       "chapters": [],
-      "position": 40,
+      "position": 41,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -958,7 +959,7 @@
       "duration_seconds": 890,
       "published_at": "2022-08-28T08:00:09-07:00",
       "chapters": [],
-      "position": 41,
+      "position": 42,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -978,7 +979,7 @@
       "duration_seconds": 350,
       "published_at": "2021-06-08T11:00:13-07:00",
       "chapters": [],
-      "position": 42,
+      "position": 43,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -998,7 +999,7 @@
       "duration_seconds": 655,
       "published_at": "2021-06-28T11:00:04-07:00",
       "chapters": [],
-      "position": 43,
+      "position": 44,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1018,7 +1019,7 @@
       "duration_seconds": 779,
       "published_at": "2020-08-20T09:30:07-07:00",
       "chapters": [],
-      "position": 44,
+      "position": 45,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1038,7 +1039,7 @@
       "duration_seconds": 791,
       "published_at": "2021-06-03T08:00:12-07:00",
       "chapters": [],
-      "position": 45,
+      "position": 46,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1058,7 +1059,7 @@
       "duration_seconds": 635,
       "published_at": "2022-06-28T08:30:11-07:00",
       "chapters": [],
-      "position": 46,
+      "position": 47,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1078,7 +1079,7 @@
       "duration_seconds": 846,
       "published_at": "2022-07-23T08:00:13-07:00",
       "chapters": [],
-      "position": 47,
+      "position": 48,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1098,7 +1099,7 @@
       "duration_seconds": 197,
       "published_at": "2019-08-14T08:00:08-07:00",
       "chapters": [],
-      "position": 48,
+      "position": 49,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1118,7 +1119,7 @@
       "duration_seconds": 708,
       "published_at": "2021-05-24T12:00:07-07:00",
       "chapters": [],
-      "position": 49,
+      "position": 50,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1175,7 +1176,7 @@
           "title": "Paprika-Herb Carrots"
         }
       ],
-      "position": 50,
+      "position": 51,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1195,7 +1196,7 @@
       "duration_seconds": 446,
       "published_at": "2019-05-28T08:00:05-07:00",
       "chapters": [],
-      "position": 51,
+      "position": 52,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1215,7 +1216,7 @@
       "duration_seconds": 290,
       "published_at": "2018-12-28T10:00:00-08:00",
       "chapters": [],
-      "position": 52,
+      "position": 53,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1280,7 +1281,7 @@
           "title": "Baja Bahn Mi"
         }
       ],
-      "position": 53,
+      "position": 54,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1300,7 +1301,7 @@
       "duration_seconds": 195,
       "published_at": "2019-06-12T08:00:09-07:00",
       "chapters": [],
-      "position": 54,
+      "position": 55,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1320,7 +1321,7 @@
       "duration_seconds": 272,
       "published_at": "2021-04-26T08:00:14-07:00",
       "chapters": [],
-      "position": 55,
+      "position": 56,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1340,7 +1341,7 @@
       "duration_seconds": 4438,
       "published_at": "2021-12-22T08:00:00-08:00",
       "chapters": [],
-      "position": 56,
+      "position": 57,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1360,7 +1361,7 @@
       "duration_seconds": 671,
       "published_at": "2022-05-25T08:00:26-07:00",
       "chapters": [],
-      "position": 57,
+      "position": 58,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1380,7 +1381,7 @@
       "duration_seconds": 324,
       "published_at": "2021-10-11T08:00:11-07:00",
       "chapters": [],
-      "position": 58,
+      "position": 60,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1400,7 +1401,7 @@
       "duration_seconds": 194,
       "published_at": "2019-05-24T08:00:10-07:00",
       "chapters": [],
-      "position": 59,
+      "position": 61,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1420,7 +1421,7 @@
       "duration_seconds": 421,
       "published_at": "2021-03-15T08:00:16-07:00",
       "chapters": [],
-      "position": 60,
+      "position": 62,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1440,7 +1441,7 @@
       "duration_seconds": 311,
       "published_at": "2021-11-24T08:00:30-08:00",
       "chapters": [],
-      "position": 61,
+      "position": 63,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1460,7 +1461,7 @@
       "duration_seconds": 692,
       "published_at": "2021-10-13T10:00:36-07:00",
       "chapters": [],
-      "position": 62,
+      "position": 64,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1480,7 +1481,7 @@
       "duration_seconds": 366,
       "published_at": "2022-06-27T13:30:02-07:00",
       "chapters": [],
-      "position": 63,
+      "position": 65,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1500,7 +1501,7 @@
       "duration_seconds": 196,
       "published_at": "2019-05-06T09:00:07-07:00",
       "chapters": [],
-      "position": 64,
+      "position": 66,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1520,7 +1521,7 @@
       "duration_seconds": 273,
       "published_at": "2022-07-02T08:00:03-07:00",
       "chapters": [],
-      "position": 65,
+      "position": 67,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1540,7 +1541,7 @@
       "duration_seconds": 183,
       "published_at": "2022-05-12T12:00:03-07:00",
       "chapters": [],
-      "position": 66,
+      "position": 68,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1560,7 +1561,7 @@
       "duration_seconds": 131,
       "published_at": "2022-03-02T10:00:14-08:00",
       "chapters": [],
-      "position": 67,
+      "position": 69,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1580,7 +1581,7 @@
       "duration_seconds": 316,
       "published_at": "2025-07-09T16:04:02-07:00",
       "chapters": [],
-      "position": 69,
+      "position": 71,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1600,7 +1601,7 @@
       "duration_seconds": 322,
       "published_at": "2025-06-26T14:58:28-07:00",
       "chapters": [],
-      "position": 70,
+      "position": 72,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1637,7 +1638,7 @@
           "title": "Tomato Spinach Quinoa Pilaf"
         }
       ],
-      "position": 71,
+      "position": 73,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1657,7 +1658,7 @@
       "duration_seconds": 282,
       "published_at": "2025-10-29T01:01:02-07:00",
       "chapters": [],
-      "position": 72,
+      "position": 74,
       "captions": {
         "language": "en",
         "language_name": "English (auto-generated)",
@@ -1677,12 +1678,90 @@
       "duration_seconds": 500,
       "published_at": "2025-05-28T16:53:57-07:00",
       "chapters": [],
-      "position": 68,
+      "position": 70,
       "captions": {
         "language": "en",
         "language_name": "English",
         "generated": false,
         "source": "youtube-captions"
+      }
+    },
+    "lfI0uq_cF-E.youtube": {
+      "source_id": "youtube:lfI0uq_cF-E",
+      "type": "youtube",
+      "video_id": "lfI0uq_cF-E",
+      "url": "https://www.youtube.com/watch?v=lfI0uq_cF-E",
+      "title": "Delicious Vegan Lasagna By Merle",
+      "publisher": "Goodful",
+      "publisher_url": "https://www.youtube.com/@Goodful",
+      "thumbnail_url": "https://i.ytimg.com/vi/lfI0uq_cF-E/hqdefault.jpg",
+      "duration_seconds": 202,
+      "published_at": "2019-05-09T08:00:14-07:00",
+      "chapters": [],
+      "position": 22,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=lfI0uq_cF-E",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 201.579,
+        "speech_duration_seconds": 177.736,
+        "speech_range_count": 1,
+        "speech_coverage": 0.8817,
+        "audio_retained": false
+      }
+    },
+    "_jKJGUfxppM.youtube": {
+      "source_id": "youtube:_jKJGUfxppM",
+      "type": "youtube",
+      "video_id": "_jKJGUfxppM",
+      "url": "https://www.youtube.com/watch?v=_jKJGUfxppM",
+      "title": "Can I Fool My Family With Vegan Salvadoran Dishes?",
+      "publisher": "Goodful",
+      "publisher_url": "https://www.youtube.com/@Goodful",
+      "thumbnail_url": "https://i.ytimg.com/vi/_jKJGUfxppM/hqdefault.jpg",
+      "duration_seconds": 454,
+      "published_at": "2022-06-17T08:00:21-07:00",
+      "chapters": [],
+      "position": 59,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=_jKJGUfxppM",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 454.08,
+        "speech_duration_seconds": 412.688,
+        "speech_range_count": 11,
+        "speech_coverage": 0.9088,
+        "audio_retained": false
+      }
+    },
+    "l0nsHRenMpw.youtube": {
+      "source_id": "youtube:l0nsHRenMpw",
+      "type": "youtube",
+      "video_id": "l0nsHRenMpw",
+      "url": "https://www.youtube.com/watch?v=l0nsHRenMpw",
+      "title": "Global Vegans: Unbelievable Foods & Recipes from Around the World | Goodful",
+      "publisher": "Goodful",
+      "publisher_url": "https://www.youtube.com/@Goodful",
+      "thumbnail_url": "https://i.ytimg.com/vi/l0nsHRenMpw/hqdefault.jpg",
+      "duration_seconds": 583,
+      "published_at": "2025-08-13T07:01:09-07:00",
+      "chapters": [],
+      "position": 75,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=l0nsHRenMpw",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 583.424,
+        "speech_duration_seconds": 37.876,
+        "speech_range_count": 1,
+        "speech_coverage": 0.0649,
+        "audio_retained": false
       }
     }
   }

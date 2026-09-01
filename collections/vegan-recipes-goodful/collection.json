@@ -8,7 +8,7 @@
     "schema_version": 1,
     "prompt_version": 2,
     "model": "gpt-5.4-mini",
-    "source_hash": "ba730670a01de71d365692e680e8320ee990ddf9fc5309c9c64092621ebbf91f"
+    "source_hash": "b05062f35810316e8f1247e15379be1fbd81370c0bf6080c58cc9519548d696d"
   },
   "root": {
     "type": "group",
@@ -98,6 +98,10 @@
       {
         "type": "video",
         "item_id": "video-vegan-recipes-goodful-jx-koirfvaq-youtube-f59316cb"
+      },
+      {
+        "type": "video",
+        "item_id": "video-vegan-recipes-goodful-lfi0uq-cf-e-youtube-8101cc0c"
       },
       {
         "type": "video",
@@ -245,6 +249,10 @@
       },
       {
         "type": "video",
+        "item_id": "video-vegan-recipes-goodful-jkjgufxppm-youtube-8d72dc35"
+      },
+      {
+        "type": "video",
         "item_id": "video-vegan-recipes-goodful-9t3twdckdui-youtube-8bc371ab"
       },
       {
@@ -302,6 +310,10 @@
       {
         "type": "video",
         "item_id": "video-vegan-recipes-goodful-k9ngt-hlsjg-youtube-996f4f4b"
+      },
+      {
+        "type": "video",
+        "item_id": "video-vegan-recipes-goodful-l0nshrenmpw-youtube-7e7f238a"
       }
     ]
   },
@@ -472,6 +484,24 @@
         "topic-silken-tofu-based-filling-c788c1be",
         "topic-springform-pan-prep-and-parchment-lining-b30e04bc",
         "topic-vegan-cream-cheese-kite-hill-incorporation-9f079921"
+      ]
+    },
+    "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74": {
+      "topic_id": "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74",
+      "canonical_key": "accessibility and simplicity of vegan cooking",
+      "label": "Vegan Meal Simplicity",
+      "aliases": [
+        "Accessibility and simplicity of vegan cooking"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-quick-meals-7a2b8826"
+      ],
+      "related_topic_ids": [
+        "topic-importance-of-protein-in-vegan-meals-8bf97bac",
+        "topic-quick-vegan-lunches-725d4e4c",
+        "topic-simple-vegan-meals-aba1cb49",
+        "topic-vegan-dinner-recipes-3ad20c3d"
       ]
     },
     "topic-accidentally-vegan-items-1663948d": {
@@ -650,6 +680,7 @@
       "related_topic_ids": [
         "topic-binding-with-slurry-30bf46e0",
         "topic-nori-sheet-8c8b6e50",
+        "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c",
         "topic-russet-potatoes-f81ec4c4",
         "topic-vegan-friendly-sushi-fillings-cd0d1c7a",
         "topic-vegan-sushi-construction-tomato-tuna-eggplant-ee-463a9036"
@@ -1006,6 +1037,26 @@
         "topic-guacamole-with-lime-tomato-red-onion-jalape-o-215d691a",
         "topic-open-face-grilled-cheese-caprese-4b251403",
         "topic-tofu-toast-with-hummus-1b152520"
+      ]
+    },
+    "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42": {
+      "topic_id": "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
+      "canonical_key": "appetizing vegan dishes for non-vegans",
+      "label": "Vegan Crowd Appeal",
+      "aliases": [
+        "Appetizing vegan dishes for non-vegans"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "related_topic_ids": [
+        "topic-gourmet-vegan-dishes-f45acc77",
+        "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46",
+        "topic-reactions-to-vegan-dishes-surprise-delight-skept-dc31f665",
+        "topic-vegan-meal-concepts-411a8947",
+        "topic-vegan-recipe-ideas-0c39f459",
+        "topic-vegan-recipe-inspiration-308236ee"
       ]
     },
     "topic-apple-cider-vinegar-595424dc": {
@@ -1729,6 +1780,25 @@
         "topic-veggie-broth-based-tofu-cooking-954d0d76"
       ]
     },
+    "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac": {
+      "topic_id": "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
+      "canonical_key": "avoiding mushy texture in vegan fillings",
+      "label": "Filling Texture Control",
+      "aliases": [
+        "Avoiding mushy texture in vegan fillings"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "related_topic_ids": [
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
+        "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
+        "topic-texture-evaluation-6cf11dc7",
+        "topic-tofu-blending-for-texture-373f336a",
+        "topic-vegan-sausage-texture-using-tofu-mushrooms-walnu-6f52a002"
+      ]
+    },
     "topic-background-music-1dd86da0": {
       "topic_id": "topic-background-music-1dd86da0",
       "canonical_key": "background music",
@@ -1829,6 +1899,26 @@
         "topic-rest-and-rise-guidance-for-cold-apartments-wrap--7c2af098",
         "topic-thickening-vegan-cheese-on-the-stove-and-adjusti-151c1cb2",
         "topic-vegan-parmesan-topping-and-final-bake-parameters-66d2db50"
+      ]
+    },
+    "topic-baking-and-re-baking-texture-considerations-faef2d7f": {
+      "topic_id": "topic-baking-and-re-baking-texture-considerations-faef2d7f",
+      "canonical_key": "baking and re-baking texture considerations",
+      "label": "Rebaking Texture Notes",
+      "aliases": [
+        "Baking and re-baking texture considerations"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "related_topic_ids": [
+        "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
+        "topic-baking-times-and-texture-testing-bbf4b3d9",
+        "topic-texture-and-flavor-notes-d41d787b",
+        "topic-texture-evaluation-6cf11dc7",
+        "topic-texture-focused-evaluation-bf2a8161",
+        "topic-tofu-blending-for-texture-373f336a"
       ]
     },
     "topic-baking-casserole-assembly-and-timing-6b4d51ee": {
@@ -2106,6 +2196,7 @@
         "family-texture-and-technique-63d1c7a4"
       ],
       "related_topic_ids": [
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
         "topic-baking-soda-bdd9d474",
         "topic-baking-time-18-20-minutes-0b7212aa",
         "topic-baking-time-90-minutes-28311718",
@@ -2368,6 +2459,7 @@
       ],
       "related_topic_ids": [
         "topic-extra-firm-tofu-with-turmeric-nutritional-yeast--591a63a7",
+        "topic-fried-king-oyster-mushroom-bites-f06ab128",
         "topic-king-oyster-mushroom-chashu-ef02fb4b",
         "topic-mushroom-and-eggplant-meat-sauce-c6384ade",
         "topic-mushroom-ramen-with-peppers-kale-onions-424f1c9f",
@@ -3210,6 +3302,7 @@
         "topic-acid-in-ice-cream-base-b6081d1a",
         "topic-blueberry-cinnamon-chia-seed-pudding-f0cc91c9",
         "topic-ice-cream-churning-and-freezing-process-075fe5c6",
+        "topic-vegan-cheesecake-16f7400a",
         "topic-vegan-fat-coconut-oil-183d2f9f",
         "topic-vegan-ice-cream-base-oatmeal-coconut-milk-cc571699"
       ]
@@ -3764,6 +3857,7 @@
         "topic-budget-grocery-shopping-ca4f31fb",
         "topic-dried-beans-vs-canned-beans-for-budget-meals-f1000f6c",
         "topic-grocery-budget-tips-586f3d1f",
+        "topic-meal-prep-for-leftovers-ba550fd2",
         "topic-meal-prepping-61169645",
         "topic-trader-joe-s-vegan-product-highlights-75ef4f17",
         "topic-vegan-budget-meals-5d656c46"
@@ -5554,6 +5648,7 @@
         "topic-miso-and-lemon-in-vegan-cheesecake-filling-2708fe92",
         "topic-oat-milk-vs-coconut-milk-base-neutralization-ad85bd26",
         "topic-soaked-cashews-as-cheesecake-base-ffd42e4e",
+        "topic-vegan-cheesecake-16f7400a",
         "topic-vegan-cream-cheese-vegan-brand-usage-29bb4db3",
         "topic-vegan-ice-cream-base-oat-milk-coconut-oil-unrefi-66b7b432",
         "topic-white-miso-as-a-depth-enhancer-in-vegan-fillings-bbdbf0b1"
@@ -6522,6 +6617,25 @@
         "topic-vegan-pizza-fe272a5a"
       ]
     },
+    "topic-crowd-pleasing-vegan-cooking-6967a107": {
+      "topic_id": "topic-crowd-pleasing-vegan-cooking-6967a107",
+      "canonical_key": "crowd-pleasing vegan cooking",
+      "label": "Crowd-Pleasing Vegan Cooking",
+      "aliases": [
+        "Crowd-pleasing vegan cooking"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-pantry-staples-7c6ba780"
+      ],
+      "related_topic_ids": [
+        "topic-nutritional-yeast-for-cheesy-flavor-c0f4bfd0",
+        "topic-pantry-staples-for-vegan-cooking-98c046c2",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8",
+        "topic-vegan-pantry-ideas-362619e1",
+        "topic-vegan-parmesan-topping-d8919871"
+      ]
+    },
     "topic-crunchy-jalape-o-lime-and-onion-chips-vegan-b2d4eed5": {
       "topic_id": "topic-crunchy-jalape-o-lime-and-onion-chips-vegan-b2d4eed5",
       "canonical_key": "crunchy jalapeño lime and onion chips (vegan)",
@@ -6863,7 +6977,9 @@
       "family_ids": [
         "family-channel-and-format-e6fd913c"
       ],
-      "related_topic_ids": []
+      "related_topic_ids": [
+        "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46"
+      ]
     },
     "topic-dairy-free-pea-soup-ee76ec64": {
       "topic_id": "topic-dairy-free-pea-soup-ee76ec64",
@@ -6903,6 +7019,7 @@
         "topic-calamari-substitute-made-with-coconut-a62306a1",
         "topic-coconut-oil-as-butter-substitute-in-cookies-a1bb7e80",
         "topic-dairy-free-substitutions-de8c78d6",
+        "topic-egg-free-lasagna-noodles-4057d5a9",
         "topic-onion-powder-as-an-onion-substitute-6f403c7c",
         "topic-oyster-mushrooms-as-clam-substitute-8ca9ce69",
         "topic-pan-seared-tofu-as-dairy-free-paneer-substitute-0022e9ef",
@@ -6925,6 +7042,7 @@
         "topic-baking-with-substitutions-122b378b",
         "topic-dairy-free-substitutes-70dc0785",
         "topic-dried-dill-substitution-for-fresh-dill-5a745a27",
+        "topic-egg-free-lasagna-noodles-4057d5a9",
         "topic-icing-with-powdered-sugar-and-non-dairy-milk-0dd74113",
         "topic-ingredient-substitutions-f886e47f",
         "topic-pan-seared-tofu-as-dairy-free-paneer-substitute-0022e9ef",
@@ -7111,6 +7229,21 @@
         "topic-knead-dough-by-hand-dcff3167",
         "topic-proof-dough-3-4-hours-1c665170",
         "topic-roll-and-cut-dough-into-rectangles-b1f3b4ad"
+      ]
+    },
+    "topic-definitions-and-explanations-of-veganism-f669cde6": {
+      "topic_id": "topic-definitions-and-explanations-of-veganism-f669cde6",
+      "canonical_key": "definitions and explanations of veganism",
+      "label": "What Is Vegan",
+      "aliases": [
+        "Definitions and explanations of veganism"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "related_topic_ids": [
+        "topic-lifeline-options-10-second-clip-ingredient-defin-c1d0c8da"
       ]
     },
     "topic-dehydration-and-shaping-of-mushrooms-7c7ba2b1": {
@@ -7540,6 +7673,7 @@
         "topic-dried-beans-07c6fc25",
         "topic-end-of-day-farmers-market-discounts-as-a-saving--eb7eff77",
         "topic-foil-wrapped-kitchen-experimentation-substitutio-cbe730e0",
+        "topic-meal-prep-for-leftovers-ba550fd2",
         "topic-meal-prepping-61169645",
         "topic-superfood-powders-cost-considerations-3d77c525",
         "topic-vegan-budget-meals-5d656c46"
@@ -7759,6 +7893,25 @@
         "topic-vegan-mayo-as-edible-glue-76ab2d2b"
       ]
     },
+    "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8": {
+      "topic_id": "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
+      "canonical_key": "eating with hands vs utensils in traditional dishes",
+      "label": "Hands vs Utensils",
+      "aliases": [
+        "Eating with hands vs utensils in traditional dishes"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-future-plans-for-vegan-latin-american-recipes-855bba1d",
+        "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+        "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
+        "topic-pastelitos-vegan-substitution-bd64055c",
+        "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af"
+      ]
+    },
     "topic-edamame-291f2bec": {
       "topic_id": "topic-edamame-291f2bec",
       "canonical_key": "edamame",
@@ -7944,6 +8097,25 @@
         "topic-home-version-of-vegan-cookies-to-avoid-bakery-tr-435ce348",
         "topic-texture-goals-crispy-edges-chewy-centers-6e5403c4",
         "topic-vegan-chocolate-chip-cookie-ingredients-coconut--3f05e3e6"
+      ]
+    },
+    "topic-egg-free-lasagna-noodles-4057d5a9": {
+      "topic_id": "topic-egg-free-lasagna-noodles-4057d5a9",
+      "canonical_key": "egg-free lasagna noodles",
+      "label": "Egg-Free Lasagna Noodles",
+      "aliases": [
+        "Egg-free lasagna noodles"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-ingredient-swaps-9cb10e0d"
+      ],
+      "related_topic_ids": [
+        "topic-dairy-free-substitutes-70dc0785",
+        "topic-dairy-free-substitutions-de8c78d6",
+        "topic-kelp-noodles-soaked-with-lemon-and-salt-14d5e628",
+        "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c",
+        "topic-veggie-pai-egg-free-option-41ed65a3"
       ]
     },
     "topic-eggplant-d9e36ff2": {
@@ -8159,6 +8331,7 @@
         "topic-hibiscus-based-vegan-meat-b7568b3a",
         "topic-jackfruit-as-meat-substitute-c576b035",
         "topic-jackfruit-marination-c487255e",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
         "topic-oven-slow-cooking-for-plant-based-meats-300-f-15-00b4bbba",
         "topic-vegan-tacos-8b3ec502"
       ]
@@ -8250,6 +8423,7 @@
         "topic-environmental-impact-of-veganism-7910efc0",
         "topic-environmental-justice-and-climate-considerations-fcc2a499",
         "topic-ethical-notes-pigs-intelligence-efed4384",
+        "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46",
         "topic-vegan-meal-concepts-411a8947",
         "topic-vegan-meals-cc7a2b79",
         "topic-vegan-recipe-ideas-0c39f459",
@@ -8435,6 +8609,25 @@
       "video_count": 1,
       "family_ids": [],
       "related_topic_ids": []
+    },
+    "topic-family-reactions-to-vegan-food-bb1b581d": {
+      "topic_id": "topic-family-reactions-to-vegan-food-bb1b581d",
+      "canonical_key": "family reactions to vegan food",
+      "label": "Family Vegan Reactions",
+      "aliases": [
+        "Family reactions to vegan food"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-taste-tests-fefb843f"
+      ],
+      "related_topic_ids": [
+        "topic-product-comparisons-between-vegan-proteins-and-c-e4ebd3d4",
+        "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
+        "topic-reactions-to-vegan-dishes-surprise-delight-skept-dc31f665",
+        "topic-taste-testing-and-scoring-in-food-experiments-26fdf832",
+        "topic-vegan-substitute-flavor-accuracy-e2cfe40a"
+      ]
     },
     "topic-farmers-market-produce-discounts-99e3f9bb": {
       "topic_id": "topic-farmers-market-produce-discounts-99e3f9bb",
@@ -9168,6 +9361,7 @@
         "topic-fennel-seeds-and-garlic-as-sausage-aromatics-0686a1f6",
         "topic-mushroom-walnut-umami-paste-and-bewitching-vegan-601c0982",
         "topic-pressing-tofu-to-remove-moisture-c4fa02be",
+        "topic-tofu-blending-for-texture-373f336a",
         "topic-tofu-press-technique-eba995d3",
         "topic-tofu-pressing-2aff902a",
         "topic-vegan-sausage-texture-using-tofu-mushrooms-walnu-6f52a002"
@@ -9208,6 +9402,25 @@
         "topic-morel-mushrooms-in-pasta-aecce5e5",
         "topic-mushroom-and-eggplant-meat-sauce-c6384ade",
         "topic-roasted-garlic-and-red-pepper-pasta-sauce-blende-cc16a247"
+      ]
+    },
+    "topic-fried-king-oyster-mushroom-bites-f06ab128": {
+      "topic_id": "topic-fried-king-oyster-mushroom-bites-f06ab128",
+      "canonical_key": "fried king oyster mushroom bites",
+      "label": "Fried King Oyster Bites",
+      "aliases": [
+        "Fried king oyster mushroom bites"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-plant-proteins-76480aee"
+      ],
+      "related_topic_ids": [
+        "topic-barbecue-oyster-mushrooms-oven-baked-with-sauce-7a9828b4",
+        "topic-mushroom-based-rib-substitute-baby-back-ribs-8a4f9926",
+        "topic-mushroom-pate-ingredients-onion-mushrooms-option-9d7f3b80",
+        "topic-mushroom-walnut-umami-paste-and-bewitching-vegan-601c0982",
+        "topic-vegan-burger-construction-tofu-mushrooms-vital-w-2a3bb4d2"
       ]
     },
     "topic-fritters-6df2eafa": {
@@ -9267,6 +9480,25 @@
         "topic-silken-tofu-3996b183",
         "topic-vanilla-5296c024",
         "topic-vegan-mascarpone-c999367e"
+      ]
+    },
+    "topic-future-plans-for-vegan-latin-american-recipes-855bba1d": {
+      "topic_id": "topic-future-plans-for-vegan-latin-american-recipes-855bba1d",
+      "canonical_key": "future plans for vegan latin american recipes",
+      "label": "Latin Recipe Future Plans",
+      "aliases": [
+        "Future plans for vegan Latin American recipes"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
+        "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+        "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
+        "topic-pastelitos-vegan-substitution-bd64055c",
+        "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af"
       ]
     },
     "topic-garbanzo-bean-flour-garbanzo-fava-flour-2ac32a58": {
@@ -9681,6 +9913,25 @@
         "topic-water-0f416849"
       ]
     },
+    "topic-global-vegan-foods-concept-74ee8182": {
+      "topic_id": "topic-global-vegan-foods-concept-74ee8182",
+      "canonical_key": "global vegan foods concept",
+      "label": "Global Vegan Foods",
+      "aliases": [
+        "Global vegan foods concept"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "related_topic_ids": [
+        "topic-vegan-fast-food-d79da3dc",
+        "topic-vegan-meal-concepts-411a8947",
+        "topic-vegan-meals-cc7a2b79",
+        "topic-vegan-recipe-inspiration-308236ee",
+        "topic-vegan-recipes-7b7ee5b8"
+      ]
+    },
     "topic-gluten-development-f95aac71": {
       "topic_id": "topic-gluten-development-f95aac71",
       "canonical_key": "gluten development",
@@ -10048,6 +10299,7 @@
         "family-channel-and-format-e6fd913c"
       ],
       "related_topic_ids": [
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
         "topic-goodful-video-style-61aec29f",
         "topic-plant-based-cooking-456f7d01",
         "topic-plant-based-dishes-4092ad4d",
@@ -10076,6 +10328,7 @@
         "topic-raspberry-garnish-and-tasting-notes-82a80127",
         "topic-soaked-cashews-as-cheesecake-base-ffd42e4e",
         "topic-springform-pan-prep-and-parchment-lining-b30e04bc",
+        "topic-vegan-cheesecake-16f7400a",
         "topic-vegan-ice-cream-base-oat-milk-coconut-oil-unrefi-66b7b432"
       ]
     },
@@ -10499,6 +10752,44 @@
         "topic-vegan-cheese-usage-7c2bf769",
         "topic-vegan-grilled-cheese-7fd7b05a",
         "topic-vegan-mac-and-cheese-3512e0cd"
+      ]
+    },
+    "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca": {
+      "topic_id": "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+      "canonical_key": "herencia and cultural authenticity in cooking",
+      "label": "Cultural Authenticity",
+      "aliases": [
+        "Herencia and cultural authenticity in cooking"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
+        "topic-future-plans-for-vegan-latin-american-recipes-855bba1d",
+        "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
+        "topic-pastelitos-vegan-substitution-bd64055c",
+        "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af"
+      ]
+    },
+    "topic-heritage-and-grandma-s-recipe-influence-e9f91381": {
+      "topic_id": "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
+      "canonical_key": "heritage and grandma's recipe influence",
+      "label": "Grandma Recipe Influence",
+      "aliases": [
+        "Heritage and grandma's recipe influence"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
+        "topic-future-plans-for-vegan-latin-american-recipes-855bba1d",
+        "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+        "topic-pastelitos-vegan-substitution-bd64055c",
+        "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af"
       ]
     },
     "topic-hibiscus-based-vegan-meat-b7568b3a": {
@@ -11021,6 +11312,7 @@
         "family-quick-meals-7a2b8826"
       ],
       "related_topic_ids": [
+        "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74",
         "topic-avocado-toast-with-tofu-scramble-550f7865",
         "topic-extra-firm-tofu-with-turmeric-nutritional-yeast--591a63a7",
         "topic-kale-caesar-salad-with-crispy-chickpeas-f276ec12",
@@ -11046,9 +11338,30 @@
         "family-meat-analogues-a8b5ad1b"
       ],
       "related_topic_ids": [
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964",
         "topic-impossible-sausage-98dd90bb",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
         "topic-salty-sweet-flavor-balance-in-vegan-meat-analogu-0dadfe43",
         "topic-saucing-and-topping-integration-with-vegan-meats-fe2fcd99"
+      ]
+    },
+    "topic-impossible-meat-as-ground-beef-substitute-6d320964": {
+      "topic_id": "topic-impossible-meat-as-ground-beef-substitute-6d320964",
+      "canonical_key": "impossible meat as ground beef substitute",
+      "label": "Impossible Meat Swap",
+      "aliases": [
+        "Impossible Meat as ground beef substitute"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "related_topic_ids": [
+        "topic-impossible-meat-9d1ac44d",
+        "topic-impossible-sausage-98dd90bb",
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
+        "topic-jackfruit-as-meat-substitute-c576b035",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5"
       ]
     },
     "topic-impossible-sausage-98dd90bb": {
@@ -11065,6 +11378,7 @@
       "related_topic_ids": [
         "topic-canadian-bacon-vs-sausage-narrative-a5d4acdc",
         "topic-impossible-meat-9d1ac44d",
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964",
         "topic-light-life-sausage-a4e5e65b",
         "topic-mcmuffin-original-elements-ec4437c8",
         "topic-vegan-sausage-technique-tofu-base-with-mushroom--932da645",
@@ -11322,6 +11636,25 @@
         "topic-vital-wheat-gluten-22167afe"
       ]
     },
+    "topic-jackfruit-as-chicharr-n-substitute-77b5ea99": {
+      "topic_id": "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
+      "canonical_key": "jackfruit as chicharrón substitute",
+      "label": "Jackfruit Chicharron Swap",
+      "aliases": [
+        "Jackfruit as chicharrón substitute"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "related_topic_ids": [
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964",
+        "topic-jackfruit-as-meat-substitute-c576b035",
+        "topic-jackfruit-marination-c487255e",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
+        "topic-soy-chicharr-n-4a5629c1"
+      ]
+    },
     "topic-jackfruit-as-meat-substitute-c576b035": {
       "topic_id": "topic-jackfruit-as-meat-substitute-c576b035",
       "canonical_key": "jackfruit as meat substitute",
@@ -11338,6 +11671,8 @@
         "topic-enoki-mushroom-carnitas-f128fd72",
         "topic-environmental-rationale-for-meat-substitutes-red-8cb95c25",
         "topic-hibiscus-based-vegan-meat-b7568b3a",
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964",
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
         "topic-jackfruit-marination-c487255e",
         "topic-lemongrass-as-sugar-cane-substitute-2a51c7e6",
         "topic-oven-slow-cooking-for-plant-based-meats-300-f-15-00b4bbba",
@@ -11365,6 +11700,7 @@
         "topic-banana-leaves-for-steaming-and-flavor-infusion-67ebf64c",
         "topic-enoki-mushroom-carnitas-f128fd72",
         "topic-hibiscus-based-vegan-meat-b7568b3a",
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
         "topic-jackfruit-as-meat-substitute-c576b035",
         "topic-oven-slow-cooking-for-plant-based-meats-300-f-15-00b4bbba",
         "topic-soy-chicharr-n-4a5629c1",
@@ -11429,6 +11765,7 @@
         "topic-judging-panel-a7bdd1f5",
         "topic-merlio-cookie-as-a-homemade-benchmark-rating-obs-05ac256b",
         "topic-pizza-108-los-angeles-vegan-pizza-c883651f",
+        "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
         "topic-reactions-to-vegan-dishes-surprise-delight-skept-dc31f665",
         "topic-vegan-substitute-flavor-accuracy-e2cfe40a"
       ]
@@ -11656,6 +11993,26 @@
         "topic-tapioca-starch-as-thickener-18ceef58"
       ]
     },
+    "topic-katsu-vegan-plate-7216b7a5": {
+      "topic_id": "topic-katsu-vegan-plate-7216b7a5",
+      "canonical_key": "katsu (vegan) plate",
+      "label": "Vegan Katsu Plate",
+      "aliases": [
+        "Katsu (vegan) plate"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-los-angeles-vegan-scene-715139e7",
+        "topic-macaroni-salad-vegan-side-cfcbd1d5",
+        "topic-new-york-vegan-scene-9c25cc09",
+        "topic-vegan-barbecue-456d9923",
+        "topic-vegan-barbecue-spot-near-office-510e93e9",
+        "topic-vegan-foods-ea4c8bb9"
+      ]
+    },
     "topic-kelp-granules-88a4aaaf": {
       "topic_id": "topic-kelp-granules-88a4aaaf",
       "canonical_key": "kelp granules",
@@ -11689,8 +12046,10 @@
       ],
       "related_topic_ids": [
         "topic-binding-with-slurry-30bf46e0",
+        "topic-egg-free-lasagna-noodles-4057d5a9",
         "topic-kale-massage-with-oil-and-salt-0a6b5bed",
-        "topic-lemon-juice-a0d92592"
+        "topic-lemon-juice-a0d92592",
+        "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c"
       ]
     },
     "topic-kelp-based-umami-broth-6d706c3b": {
@@ -12587,6 +12946,7 @@
         "family-channel-and-format-e6fd913c"
       ],
       "related_topic_ids": [
+        "topic-definitions-and-explanations-of-veganism-f669cde6",
         "topic-vegan-fast-food-d79da3dc",
         "topic-vegan-grilling-concepts-6f7b8c72",
         "topic-vegan-recipe-inspiration-308236ee",
@@ -12750,6 +13110,25 @@
         "topic-ingredient-quality-and-cost-201d67b8"
       ]
     },
+    "topic-los-angeles-vegan-scene-715139e7": {
+      "topic_id": "topic-los-angeles-vegan-scene-715139e7",
+      "canonical_key": "los angeles vegan scene",
+      "label": "Los Angeles Vegan Scene",
+      "aliases": [
+        "Los Angeles vegan scene"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-katsu-vegan-plate-7216b7a5",
+        "topic-macaroni-salad-vegan-side-cfcbd1d5",
+        "topic-new-york-vegan-scene-9c25cc09",
+        "topic-vegan-barbecue-spot-near-office-510e93e9",
+        "topic-vegan-foods-ea4c8bb9"
+      ]
+    },
     "topic-low-sodium-soy-sauce-1844a303": {
       "topic_id": "topic-low-sodium-soy-sauce-1844a303",
       "canonical_key": "low-sodium soy sauce",
@@ -12830,6 +13209,25 @@
         "topic-parchment-circle-lining-1b85dafd",
         "topic-peanut-butter-lemon-juice-vanilla-in-filling-c997057b",
         "topic-vanilla-bean-and-miso-in-filling-for-tang-649d1aeb"
+      ]
+    },
+    "topic-macaroni-salad-vegan-side-cfcbd1d5": {
+      "topic_id": "topic-macaroni-salad-vegan-side-cfcbd1d5",
+      "canonical_key": "macaroni salad (vegan side)",
+      "label": "Vegan Macaroni Salad",
+      "aliases": [
+        "Macaroni salad (vegan side)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-katsu-vegan-plate-7216b7a5",
+        "topic-los-angeles-vegan-scene-715139e7",
+        "topic-new-york-vegan-scene-9c25cc09",
+        "topic-vegan-barbecue-spot-near-office-510e93e9",
+        "topic-vegan-dominican-potato-salad-ensalada-rusa-c179c3b9"
       ]
     },
     "topic-macaroni-with-oat-milk-microwave-method-6dd53d87": {
@@ -13290,6 +13688,24 @@
       "family_ids": [],
       "related_topic_ids": []
     },
+    "topic-meal-prep-for-leftovers-ba550fd2": {
+      "topic_id": "topic-meal-prep-for-leftovers-ba550fd2",
+      "canonical_key": "meal prep for leftovers",
+      "label": "Leftover Meal Prep",
+      "aliases": [
+        "Meal prep for leftovers"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-budget-cooking-f1a4fd8d"
+      ],
+      "related_topic_ids": [
+        "topic-budget-meal-prep-418a34c8",
+        "topic-dried-beans-vs-canned-beans-for-budget-meals-f1000f6c",
+        "topic-meal-prepping-61169645",
+        "topic-vegan-budget-meals-5d656c46"
+      ]
+    },
     "topic-meal-prepping-61169645": {
       "topic_id": "topic-meal-prepping-61169645",
       "canonical_key": "meal prepping",
@@ -13305,6 +13721,7 @@
         "topic-budget-grocery-shopping-ca4f31fb",
         "topic-budget-meal-prep-418a34c8",
         "topic-dried-beans-vs-canned-beans-for-budget-meals-f1000f6c",
+        "topic-meal-prep-for-leftovers-ba550fd2",
         "topic-vegan-budget-meals-5d656c46"
       ]
     },
@@ -13679,7 +14096,8 @@
         "topic-graham-cracker-crust-vegan-cheesecake-54766f2b",
         "topic-panna-cotta-base-with-cashews-and-coconut-milk-a6424777",
         "topic-raspberry-garnish-and-tasting-notes-82a80127",
-        "topic-springform-pan-prep-and-parchment-lining-b30e04bc"
+        "topic-springform-pan-prep-and-parchment-lining-b30e04bc",
+        "topic-vegan-cheesecake-16f7400a"
       ]
     },
     "topic-miso-in-vegan-cheese-67f014fa": {
@@ -13830,6 +14248,23 @@
         "topic-tapioca-starch-in-vegan-cheese-7288f5a1"
       ]
     },
+    "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46": {
+      "topic_id": "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46",
+      "canonical_key": "moral/ethical aspects of recreating meat and dairy",
+      "label": "Ethics of Meat Recreates",
+      "aliases": [
+        "Moral/ethical aspects of recreating meat and dairy"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-channel-and-format-e6fd913c"
+      ],
+      "related_topic_ids": [
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
+        "topic-dairy-free-motivations-health-and-environment-cee78fd6",
+        "topic-environmental-ethical-discussion-tied-to-vegan-c-c5a2eff2"
+      ]
+    },
     "topic-morel-mushrooms-in-pasta-aecce5e5": {
       "topic_id": "topic-morel-mushrooms-in-pasta-aecce5e5",
       "canonical_key": "morel mushrooms in pasta",
@@ -13965,6 +14400,7 @@
         "topic-carrot-dog-dressing-relish-onions-ketchup-32969a28",
         "topic-extra-firm-tofu-cutting-into-thirds-4034e8e3",
         "topic-four-dollar-sandwich-assembly-mushroom-pate-frie-e959edf6",
+        "topic-fried-king-oyster-mushroom-bites-f06ab128",
         "topic-pan-toasting-bread-handling-for-cheap-sandwich-27b704f9",
         "topic-prosciutto-and-carpaccio-style-vegan-meats-impor-680f1dc1",
         "topic-roasted-red-pepper-spread-roasted-peppers-walnut-96a1af9d",
@@ -14049,10 +14485,33 @@
         "family-plant-proteins-76480aee"
       ],
       "related_topic_ids": [
+        "topic-fried-king-oyster-mushroom-bites-f06ab128",
         "topic-king-oyster-mushroom-chashu-ef02fb4b",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
         "topic-mushrooms-a7cad0b2",
         "topic-salty-sweet-flavor-balance-in-vegan-meat-analogu-0dadfe43",
         "topic-vegan-chicken-substitutes-43e44169"
+      ]
+    },
+    "topic-mushroom-walnut-meat-substitute-b4fa86d5": {
+      "topic_id": "topic-mushroom-walnut-meat-substitute-b4fa86d5",
+      "canonical_key": "mushroom-walnut meat substitute",
+      "label": "Mushroom Walnut Meat",
+      "aliases": [
+        "Mushroom-walnut meat substitute"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "related_topic_ids": [
+        "topic-enoki-mushroom-carnitas-f128fd72",
+        "topic-impossible-meat-9d1ac44d",
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964",
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
+        "topic-mushroom-based-rib-substitute-baby-back-ribs-8a4f9926",
+        "topic-vegan-chicken-substitutes-43e44169",
+        "topic-vegan-sausage-texture-using-tofu-mushrooms-walnu-6f52a002"
       ]
     },
     "topic-mushroom-walnut-umami-paste-and-bewitching-vegan-601c0982": {
@@ -14069,6 +14528,7 @@
       ],
       "related_topic_ids": [
         "topic-freezing-tofu-to-improve-texture-488dedea",
+        "topic-fried-king-oyster-mushroom-bites-f06ab128",
         "topic-searing-mushroom-scallops-with-vegan-butter-a44c737c",
         "topic-texture-shredding-to-mimic-chicken-f678e2ac",
         "topic-texture-vs-flavor-in-seitan-ae4dd74a",
@@ -14258,6 +14718,25 @@
         "topic-kimchi-jigae-vegan-5b30b52f",
         "topic-paso-chongor-korean-mushroom-hot-pot-d63decf2",
         "topic-vegan-pozole-c77b06ad"
+      ]
+    },
+    "topic-new-york-vegan-scene-9c25cc09": {
+      "topic_id": "topic-new-york-vegan-scene-9c25cc09",
+      "canonical_key": "new york vegan scene",
+      "label": "New York Vegan Scene",
+      "aliases": [
+        "New York vegan scene"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-katsu-vegan-plate-7216b7a5",
+        "topic-los-angeles-vegan-scene-715139e7",
+        "topic-macaroni-salad-vegan-side-cfcbd1d5",
+        "topic-vegan-barbecue-spot-near-office-510e93e9",
+        "topic-vegan-foods-ea4c8bb9"
       ]
     },
     "topic-no-narration-b60d35ac": {
@@ -14891,11 +15370,11 @@
       "canonical_key": "nutritional yeast for cheesy flavor",
       "label": "Cheesy Yeast Flavor",
       "aliases": [
-        "nutritional yeast (cheesy flavor)",
         "Nutritional yeast for cheesy flavor",
+        "nutritional yeast (cheesy flavor)",
         "nutritional yeast for cheesy flavor"
       ],
-      "video_count": 3,
+      "video_count": 4,
       "family_ids": [
         "family-cheese-alternatives-149e77b4",
         "family-pantry-staples-7c6ba780"
@@ -14903,6 +15382,7 @@
       "related_topic_ids": [
         "topic-basil-olive-oil-garlic-drizzle-and-nutritional-y-6c850ac8",
         "topic-cashews-as-vegan-cheese-base-2ed88f71",
+        "topic-crowd-pleasing-vegan-cooking-6967a107",
         "topic-garlic-powder-seasoning-c2f7ec01",
         "topic-lemon-juice-for-tang-d3a503d3",
         "topic-nutritional-yeast-and-hemp-seeds-in-salads-02c28b24",
@@ -14912,6 +15392,7 @@
         "topic-nutritional-yeast-turmeric-cumin-in-scrambles-29a52f17",
         "topic-tomato-sauce-and-chili-powder-seasoning-a48d37e7",
         "topic-turmeric-for-color-309fed88",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8",
         "topic-vegan-cheese-topping-options-9ff6be32",
         "topic-vegan-mac-and-cheese-sauce-84c8362f",
         "topic-vegetable-broth-for-pasta-sauce-613141f5"
@@ -15624,6 +16105,7 @@
         "topic-garlic-powder-in-sauce-9ea4a6e1",
         "topic-nutritional-yeast-e3319725",
         "topic-parsley-2c8dcb8d",
+        "topic-plant-based-sauces-and-accompaniments-a8934b2e",
         "topic-spinach-puree-folded-into-tomato-onion-sauce-082308a7",
         "topic-vegan-parmesan-topping-d8919871"
       ]
@@ -16306,6 +16788,7 @@
       ],
       "related_topic_ids": [
         "topic-accidentally-vegan-items-1663948d",
+        "topic-crowd-pleasing-vegan-cooking-6967a107",
         "topic-lentils-oats-and-beans-as-core-pantry-staples-a312b6b8",
         "topic-nutritional-yeast-in-vegan-cheese-f7a7d1ba",
         "topic-vegan-bouillon-for-broth-f0197cd1",
@@ -16569,6 +17052,25 @@
         "topic-mushroom-ramen-with-peppers-kale-onions-424f1c9f",
         "topic-noodle-dressing-with-soy-sauce-sesame-oil-and-su-5a0eb82b",
         "topic-pesto-pasta-sauce-with-almond-milk-7913b56e"
+      ]
+    },
+    "topic-pastelitos-vegan-substitution-bd64055c": {
+      "topic_id": "topic-pastelitos-vegan-substitution-bd64055c",
+      "canonical_key": "pastelitos (vegan substitution)",
+      "label": "Vegan Pastelitos",
+      "aliases": [
+        "Pastelitos (vegan substitution)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
+        "topic-future-plans-for-vegan-latin-american-recipes-855bba1d",
+        "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+        "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
+        "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af"
       ]
     },
     "topic-patanko-donut-technique-07a2ac92": {
@@ -17240,6 +17742,25 @@
         "topic-youtube-cooking-video-401c50cc"
       ]
     },
+    "topic-plant-based-sauces-and-accompaniments-a8934b2e": {
+      "topic_id": "topic-plant-based-sauces-and-accompaniments-a8934b2e",
+      "canonical_key": "plant-based sauces and accompaniments",
+      "label": "Plant-Based Sides",
+      "aliases": [
+        "Plant-based sauces and accompaniments"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-pantry-staples-7c6ba780"
+      ],
+      "related_topic_ids": [
+        "topic-onion-sauce-b0b10589",
+        "topic-sauce-reduction-c2bd2b92",
+        "topic-soy-sauce-da72b5fb",
+        "topic-soy-sauce-umami-9d84d79b",
+        "topic-tomato-sauce-acb55318"
+      ]
+    },
     "topic-plant-based-yogurt-2c2b8a1d": {
       "topic_id": "topic-plant-based-yogurt-2c2b8a1d",
       "canonical_key": "plant-based yogurt",
@@ -17647,6 +18168,7 @@
       "related_topic_ids": [
         "topic-budget-storytelling-about-la-restaurant-price-co-def3f38b",
         "topic-price-to-value-comparison-1-50-vs-14-1a34d6c0",
+        "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
         "topic-taste-test-and-value-verdict-by-joyce-b42ead12"
       ]
     },
@@ -17687,8 +18209,11 @@
         "family-taste-tests-fefb843f"
       ],
       "related_topic_ids": [
+        "topic-family-reactions-to-vegan-food-bb1b581d",
         "topic-flavor-comparisons-between-homemade-and-shop-fla-e8c23d68",
+        "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
         "topic-six-vegan-substitutes-65fe3555",
+        "topic-spam-musubi-vegan-version-c3fab41e",
         "topic-teriyaki-flavored-mock-chicken-293a9112",
         "topic-vegan-bacon-sweet-earth-6e13cbec",
         "topic-vegan-chicken-substitutes-43e44169",
@@ -17750,6 +18275,25 @@
         "topic-baking-powder-and-vanilla-in-batter-53274ec9",
         "topic-chocolate-chips-3bd9fb99",
         "topic-ube-mochi-pancake-and-waffle-mix-vegan-7bb3d350"
+      ]
+    },
+    "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f": {
+      "topic_id": "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
+      "canonical_key": "public perception of vegan meat (soy-based products)",
+      "label": "Vegan Meat Perception",
+      "aliases": [
+        "Public perception of vegan meat (soy-based products)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-taste-tests-fefb843f"
+      ],
+      "related_topic_ids": [
+        "topic-family-reactions-to-vegan-food-bb1b581d",
+        "topic-judging-by-merle-and-vegan-panel-569e25ff",
+        "topic-price-based-competition-and-scorekeeping-fe27a2af",
+        "topic-product-comparisons-between-vegan-proteins-and-c-e4ebd3d4",
+        "topic-vegan-substitute-flavor-accuracy-e2cfe40a"
       ]
     },
     "topic-publication-date-2019-06-12-ccc1c8a0": {
@@ -17824,6 +18368,7 @@
         "family-quick-meals-7a2b8826"
       ],
       "related_topic_ids": [
+        "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74",
         "topic-quick-meals-7a2b8826",
         "topic-quick-vegan-snacks-75cfd364",
         "topic-quick-weeknight-meals-7842528d",
@@ -18084,9 +18629,11 @@
         "family-taste-tests-fefb843f"
       ],
       "related_topic_ids": [
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
         "topic-banter-and-humor-in-vegan-cooking-shows-c5ae060d",
         "topic-calamari-substitute-made-with-coconut-a62306a1",
         "topic-explicit-restaurant-setting-in-video-context-b7a49ef4",
+        "topic-family-reactions-to-vegan-food-bb1b581d",
         "topic-grapefruit-flavor-guessing-in-vegan-dishes-aaa8ac0b",
         "topic-ingredient-guessing-and-sensory-evaluation-2c79c620",
         "topic-judging-by-merle-and-vegan-panel-569e25ff",
@@ -18503,6 +19050,25 @@
         "topic-slicing-technique-1-inch-diagonal-slices-0eafef58",
         "topic-texture-evaluation-6cf11dc7",
         "topic-vacuum-sealing-marinades-3851f026"
+      ]
+    },
+    "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c": {
+      "topic_id": "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c",
+      "canonical_key": "regular lasagna noodles are vegan",
+      "label": "Vegan Lasagna Noodles",
+      "aliases": [
+        "Regular lasagna noodles are vegan"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-ingredient-swaps-9cb10e0d"
+      ],
+      "related_topic_ids": [
+        "topic-affordability-of-vegan-eel-substitute-5e97147f",
+        "topic-egg-free-lasagna-noodles-4057d5a9",
+        "topic-kelp-noodles-soaked-with-lemon-and-salt-14d5e628",
+        "topic-vegan-sour-cream-tofu-717fa8a3",
+        "topic-vegan-sour-cream-tofu-based-1092f39a"
       ]
     },
     "topic-rehydrating-soy-curls-for-kanekonchila-b8f73d58": {
@@ -19646,6 +20212,7 @@
         "topic-cornstarch-slurry-to-thicken-sauce-53acf4f6",
         "topic-mushroom-pate-preparation-pan-saut-mushroom-redu-639effae",
         "topic-peeling-and-preparing-vegetables-for-sauce-1bf30e8f",
+        "topic-plant-based-sauces-and-accompaniments-a8934b2e",
         "topic-potato-tofu-binding-083cf8ae",
         "topic-sauce-kombu-dashi-f0d824a6",
         "topic-sauce-maple-syrup-74ab079c",
@@ -19792,7 +20359,8 @@
         "topic-serving-with-fixings-on-the-side-41e7a8a3",
         "topic-vegan-feta-with-olives-as-a-topping-28fdcaad",
         "topic-vegan-pepperoni-technique-vital-wheat-gluten-bas-16d315b3",
-        "topic-vegan-sausage-technique-tofu-base-with-mushroom--932da645"
+        "topic-vegan-sausage-technique-tofu-base-with-mushroom--932da645",
+        "topic-vegan-wings-e639ca3c"
       ]
     },
     "topic-sauerkraut-as-taco-topping-9be3c52e": {
@@ -20639,6 +21207,7 @@
         "family-quick-meals-7a2b8826"
       ],
       "related_topic_ids": [
+        "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74",
         "topic-batch-friendly-20-minute-meals-6b6d5fae",
         "topic-quick-meals-7a2b8826",
         "topic-quick-vegan-lunches-725d4e4c",
@@ -20664,10 +21233,12 @@
         "topic-flavor-impact-of-substitutes-7daa99cf",
         "topic-flax-eggs-vegan-egg-substitute-0c42c2be",
         "topic-product-comparisons-between-vegan-proteins-and-c-e4ebd3d4",
+        "topic-spam-musubi-vegan-version-c3fab41e",
         "topic-vegan-bacon-cast-iron-d49dbcf7",
         "topic-vegan-bacon-sweet-earth-6e13cbec",
         "topic-vegan-chicken-substitutes-43e44169",
         "topic-vegan-egg-substitutes-9a672953",
+        "topic-vegan-wings-e639ca3c",
         "topic-watermelon-as-smoked-ham-substitute-8d684af5",
         "topic-watermelon-tuna-substitute-99b1d3e0"
       ]
@@ -20977,6 +21548,7 @@
       "related_topic_ids": [
         "topic-environmental-rationale-for-meat-substitutes-red-8cb95c25",
         "topic-hibiscus-based-vegan-meat-b7568b3a",
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
         "topic-jackfruit-as-meat-substitute-c576b035",
         "topic-jackfruit-marination-c487255e",
         "topic-oven-slow-cooking-for-plant-based-meats-300-f-15-00b4bbba"
@@ -21019,6 +21591,7 @@
         "topic-mushroom-and-eggplant-meat-sauce-c6384ade",
         "topic-noodle-dressing-with-soy-sauce-sesame-oil-and-su-5a0eb82b",
         "topic-pepper-seasoning-10016bed",
+        "topic-plant-based-sauces-and-accompaniments-a8934b2e",
         "topic-roasted-garlic-and-red-pepper-pasta-sauce-blende-cc16a247",
         "topic-sauce-kombu-dashi-f0d824a6",
         "topic-sauce-maple-syrup-74ab079c",
@@ -21074,9 +21647,11 @@
       ],
       "related_topic_ids": [
         "topic-low-sodium-soy-sauce-1844a303",
+        "topic-plant-based-sauces-and-accompaniments-a8934b2e",
         "topic-sauce-reduction-c2bd2b92",
         "topic-soy-sauce-da72b5fb",
-        "topic-soy-sauce-seasoning-base-f41c7ae3"
+        "topic-soy-sauce-seasoning-base-f41c7ae3",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8"
       ]
     },
     "topic-soy-sauce-seasoning-base-f41c7ae3": {
@@ -21099,6 +21674,25 @@
         "topic-sesame-oil-and-garlic-for-stir-fry-glaze-df36d775",
         "topic-soy-sauce-da72b5fb",
         "topic-soy-sauce-umami-9d84d79b"
+      ]
+    },
+    "topic-spam-musubi-vegan-version-c3fab41e": {
+      "topic_id": "topic-spam-musubi-vegan-version-c3fab41e",
+      "canonical_key": "spam musubi (vegan version)",
+      "label": "Vegan Spam Musubi",
+      "aliases": [
+        "Spam musubi (vegan version)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "related_topic_ids": [
+        "topic-product-comparisons-between-vegan-proteins-and-c-e4ebd3d4",
+        "topic-six-vegan-substitutes-65fe3555",
+        "topic-vegan-chicken-substitutes-43e44169",
+        "topic-vegan-poultry-alternatives-and-crowd-pleasing-po-8bc830b9",
+        "topic-vegan-wings-e639ca3c"
       ]
     },
     "topic-speculoos-cookies-ab8afc5b": {
@@ -22573,6 +23167,7 @@
       ],
       "related_topic_ids": [
         "topic-baking-with-substitutions-122b378b",
+        "topic-family-reactions-to-vegan-food-bb1b581d",
         "topic-kitchen-article-replication-vs-real-world-result-22fe043f",
         "topic-live-parent-feedback-and-taste-testing-4e2962e0",
         "topic-panel-critique-and-scoring-ee6c6c09",
@@ -22735,6 +23330,7 @@
         "family-texture-and-technique-63d1c7a4"
       ],
       "related_topic_ids": [
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
         "topic-baking-times-and-texture-testing-bbf4b3d9",
         "topic-banana-leaves-for-steaming-and-flavor-infusion-67ebf64c",
         "topic-cheesecloth-drainage-f515a1f4",
@@ -22798,6 +23394,25 @@
         "topic-wringing-release-of-moisture-from-rehydrated-yub-2145e0ef"
       ]
     },
+    "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535": {
+      "topic_id": "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
+      "canonical_key": "texture and mouthfeel of vegan fillings",
+      "label": "Filling Mouthfeel",
+      "aliases": [
+        "Texture and mouthfeel of vegan fillings"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "related_topic_ids": [
+        "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
+        "topic-texture-evaluation-6cf11dc7",
+        "topic-texture-focused-evaluation-bf2a8161",
+        "topic-thickening-vegan-cheese-on-the-stove-and-adjusti-151c1cb2",
+        "topic-vegan-sausage-texture-using-tofu-mushrooms-walnu-6f52a002"
+      ]
+    },
     "topic-texture-and-taste-of-vegan-meringues-7678b515": {
       "topic_id": "topic-texture-and-taste-of-vegan-meringues-7678b515",
       "canonical_key": "texture and taste of vegan meringues",
@@ -22834,6 +23449,8 @@
         "family-texture-and-technique-63d1c7a4"
       ],
       "related_topic_ids": [
+        "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
         "topic-baking-time-90-minutes-28311718",
         "topic-baking-times-and-texture-testing-bbf4b3d9",
         "topic-drying-before-baking-c64f9335",
@@ -22841,8 +23458,10 @@
         "topic-refrigeration-timing-six-hours-to-overnight-5e6bddea",
         "topic-slicing-technique-1-inch-diagonal-slices-0eafef58",
         "topic-texture-and-moisture-release-in-plant-based-dish-ececca25",
+        "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
         "topic-texture-focused-evaluation-bf2a8161",
-        "topic-toasted-nori-for-sushi-texture-a59e5a3a"
+        "topic-toasted-nori-for-sushi-texture-a59e5a3a",
+        "topic-tofu-blending-for-texture-373f336a"
       ]
     },
     "topic-texture-goals-crispy-edges-chewy-centers-6e5403c4": {
@@ -23040,8 +23659,10 @@
       ],
       "related_topic_ids": [
         "topic-air-fryer-settings-325-f-160-c-2bb424a8",
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
         "topic-drumstick-wrapping-technique-with-yuba-7d308706",
         "topic-texture-and-moisture-release-in-plant-based-dish-ececca25",
+        "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
         "topic-texture-evaluation-6cf11dc7",
         "topic-water-soaking-ratio-for-rehydration-689c05c7",
         "topic-wringing-release-of-moisture-from-rehydrated-yub-2145e0ef",
@@ -23111,6 +23732,7 @@
         "topic-freezer-setting-of-vegan-cheese-a2235c43",
         "topic-melting-behavior-of-vegan-cheese-69b12a12",
         "topic-potato-based-vegan-cheese-potatoes-potato-water--5f2b7cda",
+        "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
         "topic-vegan-mozzarella-cheese-violife-and-miyoko-s-cas-973e122b"
       ]
     },
@@ -23436,8 +24058,28 @@
         "topic-potato-tofu-binding-083cf8ae",
         "topic-salsa-verde-ingredients-and-blending-57c14baa",
         "topic-texture-impression-vs-eel-1580df4e",
+        "topic-tofu-blending-for-texture-373f336a",
         "topic-tofu-cc52e9ce",
         "topic-tofu-pressing-2aff902a"
+      ]
+    },
+    "topic-tofu-blending-for-texture-373f336a": {
+      "topic_id": "topic-tofu-blending-for-texture-373f336a",
+      "canonical_key": "tofu blending for texture",
+      "label": "Tofu Blending Texture",
+      "aliases": [
+        "Tofu blending for texture"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-texture-and-technique-63d1c7a4"
+      ],
+      "related_topic_ids": [
+        "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
+        "topic-freezing-tofu-to-improve-texture-488dedea",
+        "topic-texture-evaluation-6cf11dc7",
+        "topic-tofu-blending-8e38e966"
       ]
     },
     "topic-tofu-crumbles-for-taco-filling-e9c7cbe1": {
@@ -23600,10 +24242,10 @@
       "canonical_key": "tofu ricotta",
       "label": "Tofu Ricotta",
       "aliases": [
-        "tofu ricotta",
-        "Tofu ricotta"
+        "Tofu ricotta",
+        "tofu ricotta"
       ],
-      "video_count": 3,
+      "video_count": 4,
       "family_ids": [
         "family-cheese-alternatives-149e77b4",
         "family-plant-proteins-76480aee"
@@ -23793,6 +24435,7 @@
         "topic-low-sodium-soy-sauce-1844a303",
         "topic-onion-28897167",
         "topic-paprika-67aa6b6c",
+        "topic-plant-based-sauces-and-accompaniments-a8934b2e",
         "topic-red-lentils-151c2db9",
         "topic-roasted-garlic-899addb7",
         "topic-roasted-red-pepper-1b9b7412",
@@ -24418,6 +25061,26 @@
         "topic-youtube-24e6654b"
       ]
     },
+    "topic-umami-development-in-vegan-fillings-c6c1b9e8": {
+      "topic_id": "topic-umami-development-in-vegan-fillings-c6c1b9e8",
+      "canonical_key": "umami development in vegan fillings",
+      "label": "Umami Filling Development",
+      "aliases": [
+        "Umami development in vegan fillings"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-pantry-staples-7c6ba780"
+      ],
+      "related_topic_ids": [
+        "topic-crowd-pleasing-vegan-cooking-6967a107",
+        "topic-nutritional-yeast-for-cheesy-flavor-c0f4bfd0",
+        "topic-soy-sauce-umami-9d84d79b",
+        "topic-vegan-bouillon-for-broth-f0197cd1",
+        "topic-vegan-pantry-ideas-362619e1",
+        "topic-vegan-parmesan-topping-d8919871"
+      ]
+    },
     "topic-under-5-30495b90": {
       "topic_id": "topic-under-5-30495b90",
       "canonical_key": "under $5",
@@ -24836,13 +25499,34 @@
       ],
       "related_topic_ids": [
         "topic-beet-puree-to-simulate-blood-in-vegan-burgers-0e99f4b8",
+        "topic-katsu-vegan-plate-7216b7a5",
         "topic-seasonal-cooking-summer-893e4519",
+        "topic-vegan-barbecue-spot-near-office-510e93e9",
         "topic-vegan-buffalo-sauce-considerations-4565361d",
         "topic-vegan-chorizo-addition-882062ac",
         "topic-vegan-foods-ea4c8bb9",
         "topic-vegan-grilling-concepts-6f7b8c72",
         "topic-vegan-pozole-c77b06ad",
         "topic-vegan-tacos-8b3ec502"
+      ]
+    },
+    "topic-vegan-barbecue-spot-near-office-510e93e9": {
+      "topic_id": "topic-vegan-barbecue-spot-near-office-510e93e9",
+      "canonical_key": "vegan barbecue spot near office",
+      "label": "Vegan BBQ Spot",
+      "aliases": [
+        "Vegan barbecue spot near office"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-katsu-vegan-plate-7216b7a5",
+        "topic-los-angeles-vegan-scene-715139e7",
+        "topic-macaroni-salad-vegan-side-cfcbd1d5",
+        "topic-new-york-vegan-scene-9c25cc09",
+        "topic-vegan-barbecue-456d9923"
       ]
     },
     "topic-vegan-bouillon-for-broth-f0197cd1": {
@@ -24868,6 +25552,7 @@
         "topic-pantry-staples-for-vegan-cooking-98c046c2",
         "topic-roasted-tomatoes-in-vegan-sauce-8041ab0e",
         "topic-tamarind-influence-in-soup-9ab9b2df",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8",
         "topic-vegan-pantry-ideas-362619e1",
         "topic-vegan-pozole-posole-rojo-broth-with-guajillo-and-2e88c4f3",
         "topic-vegetable-broth-9c2cb65d",
@@ -24923,6 +25608,7 @@
         "topic-campus-friendly-recipes-9eb99d53",
         "topic-dried-beans-vs-canned-beans-for-budget-meals-f1000f6c",
         "topic-event-planning-for-vegan-barbecues-ac59af68",
+        "topic-meal-prep-for-leftovers-ba550fd2",
         "topic-meal-prepping-61169645",
         "topic-note-on-budget-figures-20-vs-200-f001fbd5",
         "topic-trader-joe-s-vegan-product-highlights-75ef4f17",
@@ -24963,6 +25649,7 @@
         "family-sandwiches-and-wraps-7f028304"
       ],
       "related_topic_ids": [
+        "topic-fried-king-oyster-mushroom-bites-f06ab128",
         "topic-mushroom-pate-ingredients-onion-mushrooms-option-9d7f3b80",
         "topic-mushroom-walnut-umami-paste-and-bewitching-vegan-601c0982",
         "topic-mushrooms-a7cad0b2",
@@ -25232,6 +25919,25 @@
         "topic-vegan-mozzarella-daiya-usage-102a273f"
       ]
     },
+    "topic-vegan-cheesecake-16f7400a": {
+      "topic_id": "topic-vegan-cheesecake-16f7400a",
+      "canonical_key": "vegan cheesecake",
+      "label": "Vegan Cheesecake",
+      "aliases": [
+        "Vegan cheesecake"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-desserts-and-baking-560aa236"
+      ],
+      "related_topic_ids": [
+        "topic-blueberry-cheesecake-vegan-ice-cream-cream-chees-b82649ee",
+        "topic-coconut-milk-in-vegan-cheesecake-filling-9369722e",
+        "topic-graham-cracker-crust-vegan-cheesecake-54766f2b",
+        "topic-miso-and-lemon-in-vegan-cheesecake-filling-2708fe92",
+        "topic-vegan-mascarpone-c999367e"
+      ]
+    },
     "topic-vegan-chicken-from-flour-81afecb1": {
       "topic_id": "topic-vegan-chicken-from-flour-81afecb1",
       "canonical_key": "vegan chicken from flour",
@@ -25279,10 +25985,13 @@
         "topic-hibiscus-based-vegan-meat-b7568b3a",
         "topic-jackfruit-as-meat-substitute-c576b035",
         "topic-mushroom-based-rib-substitute-baby-back-ribs-8a4f9926",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
         "topic-product-comparisons-between-vegan-proteins-and-c-e4ebd3d4",
         "topic-six-vegan-substitutes-65fe3555",
+        "topic-spam-musubi-vegan-version-c3fab41e",
         "topic-teriyaki-flavored-mock-chicken-293a9112",
-        "topic-vegan-poultry-alternatives-and-crowd-pleasing-po-8bc830b9"
+        "topic-vegan-poultry-alternatives-and-crowd-pleasing-po-8bc830b9",
+        "topic-vegan-wings-e639ca3c"
       ]
     },
     "topic-vegan-chipotle-mayo-9e4bb939": {
@@ -25498,6 +26207,7 @@
         "family-quick-meals-7a2b8826"
       ],
       "related_topic_ids": [
+        "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74",
         "topic-dinner-ideas-e344fb03",
         "topic-importance-of-protein-in-vegan-meals-8bf97bac",
         "topic-simple-vegan-meals-aba1cb49",
@@ -25538,6 +26248,7 @@
       "related_topic_ids": [
         "topic-beet-dye-coloring-in-salads-0564b9d9",
         "topic-cultural-context-and-celebration-associations-13fd7403",
+        "topic-macaroni-salad-vegan-side-cfcbd1d5",
         "topic-use-of-peas-in-the-salad-76f263ac"
       ]
     },
@@ -25588,6 +26299,7 @@
         "family-quick-meals-7a2b8826"
       ],
       "related_topic_ids": [
+        "topic-global-vegan-foods-concept-74ee8182",
         "topic-goodful-video-format-a0a09b32",
         "topic-lifeline-options-10-second-clip-ingredient-defin-c1d0c8da",
         "topic-plant-based-cooking-456f7d01",
@@ -25659,6 +26371,9 @@
         "family-global-flavors-258b91c3"
       ],
       "related_topic_ids": [
+        "topic-katsu-vegan-plate-7216b7a5",
+        "topic-los-angeles-vegan-scene-715139e7",
+        "topic-new-york-vegan-scene-9c25cc09",
         "topic-vegan-barbecue-456d9923",
         "topic-vegan-pozole-c77b06ad",
         "topic-vegan-ramen-017e916f",
@@ -25962,7 +26677,8 @@
         "topic-truffle-aioli-vegan-7b3291e8",
         "topic-vanilla-5296c024",
         "topic-vanilla-extract-d7aa0adb",
-        "topic-vegan-butter-finish-43afb051"
+        "topic-vegan-butter-finish-43afb051",
+        "topic-vegan-cheesecake-16f7400a"
       ]
     },
     "topic-vegan-mayo-as-edible-glue-76ab2d2b": {
@@ -26010,9 +26726,11 @@
       ],
       "related_topic_ids": [
         "topic-30-day-vegan-journey-and-channel-plug-a9c5fc5e",
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
         "topic-background-music-1dd86da0",
         "topic-channel-goodful-19471d9f",
         "topic-environmental-ethical-discussion-tied-to-vegan-c-c5a2eff2",
+        "topic-global-vegan-foods-concept-74ee8182",
         "topic-goodful-2dc9f646",
         "topic-no-narration-b60d35ac",
         "topic-plant-based-breakfast-433b8c7d",
@@ -26035,6 +26753,7 @@
       "related_topic_ids": [
         "topic-30-day-vegan-journey-and-channel-plug-a9c5fc5e",
         "topic-environmental-ethical-discussion-tied-to-vegan-c-c5a2eff2",
+        "topic-global-vegan-foods-concept-74ee8182",
         "topic-goodful-video-style-61aec29f",
         "topic-gourmet-vegan-dishes-f45acc77",
         "topic-meal-planning-for-holidays-ce777666",
@@ -26121,8 +26840,10 @@
       ],
       "related_topic_ids": [
         "topic-accidentally-vegan-items-1663948d",
+        "topic-crowd-pleasing-vegan-cooking-6967a107",
         "topic-nutritional-yeast-in-vegan-sauces-976aab6e",
         "topic-pantry-staples-for-vegan-cooking-98c046c2",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8",
         "topic-vegan-bouillon-for-broth-f0197cd1"
       ]
     },
@@ -26142,6 +26863,7 @@
         "topic-agar-based-vegan-cheese-parmesan-e0ef1ac8",
         "topic-bread-crumbs-80370133",
         "topic-cashews-fb8f4afb",
+        "topic-crowd-pleasing-vegan-cooking-6967a107",
         "topic-daiya-vegan-cheese-9fbe147e",
         "topic-garlic-herb-seasoning-0bd9ab96",
         "topic-gluten-free-crackers-as-a-topping-891a257d",
@@ -26154,6 +26876,7 @@
         "topic-rosemary-grate-trick-rosemary-leaves-72982208",
         "topic-spinach-greens-topping-1248c4e4",
         "topic-tabitha-brown-vegan-mac-and-cheese-f035c31a",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8",
         "topic-vegan-cheese-topping-options-9ff6be32",
         "topic-vegan-feta-with-olives-as-a-topping-28fdcaad",
         "topic-vegan-lasagna-6e55a3fa",
@@ -26243,7 +26966,9 @@
       "related_topic_ids": [
         "topic-drumstick-wrapping-technique-with-yuba-7d308706",
         "topic-lemongrass-as-sugar-cane-substitute-2a51c7e6",
-        "topic-vegan-chicken-substitutes-43e44169"
+        "topic-spam-musubi-vegan-version-c3fab41e",
+        "topic-vegan-chicken-substitutes-43e44169",
+        "topic-vegan-wings-e639ca3c"
       ]
     },
     "topic-vegan-pozole-c77b06ad": {
@@ -26388,6 +27113,7 @@
       ],
       "related_topic_ids": [
         "topic-30-day-vegan-journey-and-channel-plug-a9c5fc5e",
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
         "topic-background-music-in-cooking-videos-b480d6be",
         "topic-environmental-ethical-discussion-tied-to-vegan-c-c5a2eff2",
         "topic-goodful-video-format-a0a09b32",
@@ -26418,8 +27144,10 @@
       ],
       "related_topic_ids": [
         "topic-30-day-vegan-journey-and-channel-plug-a9c5fc5e",
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
         "topic-campus-friendly-recipes-9eb99d53",
         "topic-environmental-ethical-discussion-tied-to-vegan-c-c5a2eff2",
+        "topic-global-vegan-foods-concept-74ee8182",
         "topic-goodful-video-style-61aec29f",
         "topic-gourmet-vegan-dishes-f45acc77",
         "topic-inspiration-from-bosh-video-and-cookbook-df86f41d",
@@ -26453,6 +27181,7 @@
         "topic-el-cocinero-vegan-mexican-restaurant-733d520f",
         "topic-environmental-ethical-discussion-tied-to-vegan-c-c5a2eff2",
         "topic-event-planning-for-vegan-barbecues-ac59af68",
+        "topic-global-vegan-foods-concept-74ee8182",
         "topic-goodful-youtube-video-5c7b9f61",
         "topic-lifeline-options-10-second-clip-ingredient-defin-c1d0c8da",
         "topic-meal-planning-for-holidays-ce777666",
@@ -26547,14 +27276,17 @@
         "family-texture-and-technique-63d1c7a4"
       ],
       "related_topic_ids": [
+        "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
         "topic-cornstarch-and-flour-to-add-chewiness-37491708",
         "topic-dehydration-and-shaping-of-mushrooms-7c7ba2b1",
         "topic-forming-pepperoni-shapes-on-parchment-and-using--94aa9cfd",
         "topic-freezing-tofu-to-improve-texture-488dedea",
         "topic-impossible-sausage-98dd90bb",
         "topic-light-life-sausage-a4e5e65b",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
         "topic-pressing-tofu-to-remove-moisture-c4fa02be",
         "topic-searing-mushroom-scallops-with-vegan-butter-a44c737c",
+        "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
         "topic-vegan-pepperoni-technique-vital-wheat-gluten-bas-16d315b3",
         "topic-vegan-sausage-technique-tofu-base-with-mushroom--932da645",
         "topic-walnut-paste-for-italian-sausage-flavor-63face2f",
@@ -26618,6 +27350,7 @@
         "topic-chipotle-crema-vegan-mayo-vegan-sour-cream-lime--818a97b2",
         "topic-chipotle-crema-with-silken-tofu-7a9433e3",
         "topic-lemon-juice-a0d92592",
+        "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c",
         "topic-silken-tofu-3996b183",
         "topic-sunflower-seed-butter-homemade-ad48846e",
         "topic-vegan-mac-and-cheese-sauce-84c8362f",
@@ -26640,6 +27373,7 @@
       "related_topic_ids": [
         "topic-chipotle-crema-vegan-mayo-vegan-sour-cream-lime--818a97b2",
         "topic-chipotle-crema-with-silken-tofu-7a9433e3",
+        "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c",
         "topic-silken-tofu-3996b183",
         "topic-sunflower-seed-butter-homemade-ad48846e",
         "topic-vegan-ranch-dressing-mayo-non-dairy-milk-vinegar-e75d8bab",
@@ -26662,11 +27396,13 @@
         "topic-calamari-substitute-made-with-coconut-a62306a1",
         "topic-canadian-bacon-vs-sausage-narrative-a5d4acdc",
         "topic-ex-mcdonald-s-employee-guest-cf5bacf9",
+        "topic-family-reactions-to-vegan-food-bb1b581d",
         "topic-flavor-evaluation-7dd9891d",
         "topic-grapefruit-flavor-guessing-in-vegan-dishes-aaa8ac0b",
         "topic-judging-by-merle-and-vegan-panel-569e25ff",
         "topic-pizza-108-los-angeles-vegan-pizza-c883651f",
         "topic-product-comparisons-between-vegan-proteins-and-c-e4ebd3d4",
+        "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
         "topic-rating-and-evaluation-of-flavor-03dbb805",
         "topic-reactions-to-vegan-dishes-surprise-delight-skept-dc31f665",
         "topic-side-by-side-taste-test-abf7615d",
@@ -26810,6 +27546,25 @@
         "topic-vegan-recipe-ideas-0c39f459",
         "topic-vegan-recipe-inspiration-308236ee",
         "topic-vegan-recipes-7b7ee5b8"
+      ]
+    },
+    "topic-vegan-wings-e639ca3c": {
+      "topic_id": "topic-vegan-wings-e639ca3c",
+      "canonical_key": "vegan wings",
+      "label": "Vegan Wings",
+      "aliases": [
+        "Vegan wings"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-meat-analogues-a8b5ad1b"
+      ],
+      "related_topic_ids": [
+        "topic-saucing-and-topping-integration-with-vegan-meats-fe2fcd99",
+        "topic-six-vegan-substitutes-65fe3555",
+        "topic-spam-musubi-vegan-version-c3fab41e",
+        "topic-vegan-chicken-substitutes-43e44169",
+        "topic-vegan-poultry-alternatives-and-crowd-pleasing-po-8bc830b9"
       ]
     },
     "topic-vegan-yogurt-27168849": {
@@ -27047,6 +27802,7 @@
       "related_topic_ids": [
         "topic-dairy-free-substitutes-70dc0785",
         "topic-dairy-free-substitutions-de8c78d6",
+        "topic-egg-free-lasagna-noodles-4057d5a9",
         "topic-pan-seared-tofu-as-dairy-free-paneer-substitute-0022e9ef",
         "topic-using-canned-aquafaba-as-a-store-bought-option-8c0ce6c2"
       ]
@@ -27934,6 +28690,25 @@
         "topic-yuba-tofu-skin-rehydration-1afe85ed"
       ]
     },
+    "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af": {
+      "topic_id": "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af",
+      "canonical_key": "yuca frita con chicharrón (vegan version)",
+      "label": "Vegan Yuca Frita",
+      "aliases": [
+        "Yuca frita con chicharrón (vegan version)"
+      ],
+      "video_count": 1,
+      "family_ids": [
+        "family-global-flavors-258b91c3"
+      ],
+      "related_topic_ids": [
+        "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
+        "topic-future-plans-for-vegan-latin-american-recipes-855bba1d",
+        "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+        "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
+        "topic-pastelitos-vegan-substitution-bd64055c"
+      ]
+    },
     "topic-zucchini-4ea51196": {
       "topic_id": "topic-zucchini-4ea51196",
       "canonical_key": "zucchini",
@@ -28079,6 +28854,7 @@
         "topic-ingredient-quality-and-cost-201d67b8",
         "topic-jasmine-s-verdict-and-value-assessment-2c3e1409",
         "topic-locally-sourced-ingredients-77029aec",
+        "topic-meal-prep-for-leftovers-ba550fd2",
         "topic-meal-prepping-61169645",
         "topic-note-on-budget-figures-20-vs-200-f001fbd5",
         "topic-nutrition-considerations-of-vegan-proteins-5f80a90a",
@@ -28101,7 +28877,7 @@
         "topic-vegan-snacks-52fc01cc",
         "topic-yeast-proofing-and-kneading-times-0b81b7bb"
       ],
-      "video_count": 16
+      "video_count": 17
     },
     "family-channel-and-format-e6fd913c": {
       "family_id": "family-channel-and-format-e6fd913c",
@@ -28111,6 +28887,7 @@
       "topic_ids": [
         "topic-30-day-vegan-journey-and-channel-plug-a9c5fc5e",
         "topic-anthocyanins-and-anti-inflammatory-notes-317d40de",
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
         "topic-aquafaba-etymology-latin-roots-aqua-and-faba-fd310ed0",
         "topic-artichoke-scraps-and-composting-greens-browns-tu-ef9e3c44",
         "topic-attribution-to-alton-brown-s-recipe-9ea1a75e",
@@ -28132,6 +28909,7 @@
         "topic-coney-island-as-hypothetical-selling-locale-82f5c95f",
         "topic-dairy-free-motivations-health-and-environment-cee78fd6",
         "topic-dear-bella-ice-cream-cookie-references-from-the--2e1e795e",
+        "topic-definitions-and-explanations-of-veganism-f669cde6",
         "topic-diddy-riese-and-erin-mckenna-s-vegan-bakery-cont-f20537bc",
         "topic-eight-flavor-ice-cream-concept-cd941dca",
         "topic-el-cocinero-vegan-mexican-restaurant-733d520f",
@@ -28147,6 +28925,7 @@
         "topic-foil-wrapped-kitchen-experimentation-substitutio-cbe730e0",
         "topic-foodchallenge-c4192e09",
         "topic-giant-single-cookie-concept-eddf35ce",
+        "topic-global-vegan-foods-concept-74ee8182",
         "topic-goodful-2dc9f646",
         "topic-goodful-cookware-pan-dutch-oven-032cd2ef",
         "topic-goodful-publisher-7c1f9143",
@@ -28167,6 +28946,7 @@
         "topic-la-ice-cream-shop-culture-and-vegan-options-96588707",
         "topic-lifeline-options-10-second-clip-ingredient-defin-c1d0c8da",
         "topic-meal-planning-for-holidays-ce777666",
+        "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46",
         "topic-music-cues-cdb1d83f",
         "topic-no-narration-b60d35ac",
         "topic-note-on-budget-figures-20-vs-200-f001fbd5",
@@ -28222,7 +29002,7 @@
         "topic-youtube-24e6654b",
         "topic-youtube-cooking-video-401c50cc"
       ],
-      "video_count": 50
+      "video_count": 53
     },
     "family-cheese-alternatives-149e77b4": {
       "family_id": "family-cheese-alternatives-149e77b4",
@@ -28319,7 +29099,7 @@
         "topic-vegan-ricotta-from-cashews-74fc1f27",
         "topic-yoko-s-cashew-mozzarella-and-provolone-vegan-che-2fb1afe1"
       ],
-      "video_count": 29
+      "video_count": 30
     },
     "family-dairy-free-bases-2c106667": {
       "family_id": "family-dairy-free-bases-2c106667",
@@ -28614,6 +29394,7 @@
         "topic-vegan-baking-pitfalls-and-tips-f4239638",
         "topic-vegan-butter-5f051456",
         "topic-vegan-butter-and-brown-sugar-glaze-b601b21c",
+        "topic-vegan-cheesecake-16f7400a",
         "topic-vegan-chocolate-chip-cookie-ingredients-coconut--3f05e3e6",
         "topic-vegan-chocolate-chip-cookies-d11035b2",
         "topic-vegan-chocolate-nose-22ac3f59",
@@ -28627,7 +29408,7 @@
         "topic-wet-ingredients-for-cake-vegetable-oil-vanilla-s-1f91a427",
         "topic-whisking-icing-and-careful-milk-addition-16520154"
       ],
-      "video_count": 29
+      "video_count": 30
     },
     "family-egg-substitutes-2f526b9d": {
       "family_id": "family-egg-substitutes-2f526b9d",
@@ -28724,6 +29505,7 @@
         "topic-dal-palak-66123003",
         "topic-dressing-with-lemon-and-dijon-mustard-bdac2ec8",
         "topic-dried-dill-substitution-for-fresh-dill-5a745a27",
+        "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
         "topic-eggplant-d9e36ff2",
         "topic-el-cocinero-vegan-mexican-restaurant-733d520f",
         "topic-enoki-mushroom-carnitas-f128fd72",
@@ -28731,17 +29513,21 @@
         "topic-fennel-seeds-and-garlic-as-sausage-aromatics-0686a1f6",
         "topic-fresh-pasta-with-mushrooms-and-chardonnay-butter-a9f1da30",
         "topic-fritters-6df2eafa",
+        "topic-future-plans-for-vegan-latin-american-recipes-855bba1d",
         "topic-garlic-and-korean-chili-flakes-gochugaru-6840280b",
         "topic-garlic-powder-and-cumin-0457a00a",
         "topic-garnishes-cabbage-onions-radishes-caeb504a",
         "topic-gochujang-sauce-61e22ce6",
         "topic-gokoku-ramen-04fd3c1a",
         "topic-golden-milk-with-heated-turmeric-and-fat-for-cur-0db61a18",
+        "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+        "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
         "topic-identifying-edible-parts-of-artichoke-heart-a0e1f146",
         "topic-injera-as-serving-accompaniment-4f9d0107",
         "topic-italian-culinary-culture-and-veganism-8510aa9f",
         "topic-kabocha-croquettes-b0200326",
         "topic-kaffir-lime-leaves-and-lemongrass-aromatics-bf8eb6e4",
+        "topic-katsu-vegan-plate-7216b7a5",
         "topic-kimchi-jigae-vegan-5b30b52f",
         "topic-kimchi-juice-as-flavor-enhancer-803a8194",
         "topic-kochikaru-paste-d528633b",
@@ -28751,7 +29537,9 @@
         "topic-lemon-juice-and-zest-to-finish-broccoli-e3c097be",
         "topic-lentil-salad-with-cucumber-carrots-lime-juice-ci-0be96cfa",
         "topic-lime-in-pozole-d5bd301b",
+        "topic-los-angeles-vegan-scene-715139e7",
         "topic-lunar-new-year-association-with-tteokbokki-998dcc37",
+        "topic-macaroni-salad-vegan-side-cfcbd1d5",
         "topic-marinated-mushrooms-for-japchae-ac12b064",
         "topic-masala-grits-46c6cd5b",
         "topic-michael-simon-cauliflower-mac-and-cheese-b8134c35",
@@ -28765,12 +29553,14 @@
         "topic-mushrooms-leeks-shallots-saut-ing-1931565c",
         "topic-nashville-hot-mushroom-sandwich-marinade-batter--017c4d22",
         "topic-new-england-vegan-clam-chowder-be265ff3",
+        "topic-new-york-vegan-scene-9c25cc09",
         "topic-nori-lemon-miso-mushroom-scallops-king-oyster-mu-c8af1000",
         "topic-o-inarisan-bean-curd-pouch-352a9a91",
         "topic-palak-spinach-70ff32ad",
         "topic-pan-searing-aloo-tikki-3-5-minutes-per-side-9afb1f86",
         "topic-pandan-leaf-infusion-in-soy-milk-6d8efa74",
         "topic-parboiling-broccoli-rabe-54361a6f",
+        "topic-pastelitos-vegan-substitution-bd64055c",
         "topic-peanut-sauce-thickening-with-coconut-milk-5313ed1d",
         "topic-plant-based-irish-inspired-dishes-fe6a655f",
         "topic-pounding-and-mixing-papaya-salad-som-tam-context-b4c590e7",
@@ -28803,6 +29593,7 @@
         "topic-tteokbokki-base-with-gochujang-and-chili-779c457e",
         "topic-use-of-peas-in-the-salad-76f263ac",
         "topic-vegan-barbecue-456d9923",
+        "topic-vegan-barbecue-spot-near-office-510e93e9",
         "topic-vegan-buffalo-sauce-considerations-4565361d",
         "topic-vegan-chorizo-addition-882062ac",
         "topic-vegan-dominican-potato-salad-ensalada-rusa-c179c3b9",
@@ -28815,9 +29606,10 @@
         "topic-vegan-ramen-017e916f",
         "topic-vegan-tacos-8b3ec502",
         "topic-vegan-yogurt-sauce-plant-based-yogurt-olive-oil--be93fe17",
-        "topic-world-cuisines-0ac90a72"
+        "topic-world-cuisines-0ac90a72",
+        "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af"
       ],
-      "video_count": 36
+      "video_count": 38
     },
     "family-ingredient-swaps-9cb10e0d": {
       "family_id": "family-ingredient-swaps-9cb10e0d",
@@ -28850,6 +29642,7 @@
         "topic-dairy-free-substitutions-de8c78d6",
         "topic-dried-dill-substitution-for-fresh-dill-5a745a27",
         "topic-dry-ingredients-for-cake-brown-sugar-flour-cocoa-4dd67df3",
+        "topic-egg-free-lasagna-noodles-4057d5a9",
         "topic-eggplant-in-mac-and-cheese-960bb32b",
         "topic-eggs-replaced-with-vegan-mayo-86ca400b",
         "topic-filling-vegan-butter-brown-sugar-cinnamon-cd9267fd",
@@ -28879,6 +29672,7 @@
         "topic-parisian-cucumbers-29ce32d6",
         "topic-potato-and-carrot-prep-for-salads-2738e34a",
         "topic-recipe-substitutions-67932e6f",
+        "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c",
         "topic-rice-wine-vinegar-as-lactic-acid-substitute-8a5ff1ce",
         "topic-russet-potatoes-f81ec4c4",
         "topic-sunflower-seed-butter-homemade-ad48846e",
@@ -28900,7 +29694,7 @@
         "topic-veggie-pai-egg-free-option-41ed65a3",
         "topic-watermelon-preparation-93a76e04"
       ],
-      "video_count": 42
+      "video_count": 43
     },
     "family-meat-analogues-a8b5ad1b": {
       "family_id": "family-meat-analogues-a8b5ad1b",
@@ -28926,7 +29720,9 @@
         "topic-glaze-composition-water-soy-sauce-molasses-dark--fe105bb3",
         "topic-hibiscus-based-vegan-meat-b7568b3a",
         "topic-impossible-meat-9d1ac44d",
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964",
         "topic-impossible-sausage-98dd90bb",
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
         "topic-jackfruit-as-meat-substitute-c576b035",
         "topic-jackfruit-marination-c487255e",
         "topic-king-oyster-mushroom-chashu-ef02fb4b",
@@ -28935,6 +29731,7 @@
         "topic-light-life-sausage-a4e5e65b",
         "topic-mcmuffin-original-elements-ec4437c8",
         "topic-mushroom-based-rib-substitute-baby-back-ribs-8a4f9926",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
         "topic-nori-lemon-miso-mushroom-scallops-king-oyster-mu-c8af1000",
         "topic-nori-sheet-8c8b6e50",
         "topic-nori-sheets-for-fishy-flavor-3a580319",
@@ -28951,6 +29748,7 @@
         "topic-shiitake-bacon-a16e6f52",
         "topic-six-vegan-substitutes-65fe3555",
         "topic-soy-chicharr-n-4a5629c1",
+        "topic-spam-musubi-vegan-version-c3fab41e",
         "topic-taste-test-and-verdict-close-to-a-hot-dog-but-no-2a36ef21",
         "topic-teriyaki-flavored-mock-chicken-293a9112",
         "topic-texture-crispy-and-fatty-55fd5a1c",
@@ -28962,12 +29760,13 @@
         "topic-vegan-poultry-alternatives-and-crowd-pleasing-po-8bc830b9",
         "topic-vegan-sausage-technique-tofu-base-with-mushroom--932da645",
         "topic-vegan-sausage-texture-using-tofu-mushrooms-walnu-6f52a002",
+        "topic-vegan-wings-e639ca3c",
         "topic-walnut-paste-for-italian-sausage-flavor-63face2f",
         "topic-watermelon-as-smoked-ham-substitute-8d684af5",
         "topic-watermelon-tuna-substitute-99b1d3e0",
         "topic-worcestershire-sauce-apple-cider-vinegar-sugar-i-40b12157"
       ],
-      "video_count": 22
+      "video_count": 25
     },
     "family-pantry-staples-7c6ba780": {
       "family_id": "family-pantry-staples-7c6ba780",
@@ -29021,6 +29820,7 @@
         "topic-coconut-oil-saut-ing-onions-garlic-peppers-f4621e7e",
         "topic-coconut-water-391f01ce",
         "topic-coriander-4c44d1f4",
+        "topic-crowd-pleasing-vegan-cooking-6967a107",
         "topic-crunchy-jalape-o-lime-and-onion-chips-vegan-b2d4eed5",
         "topic-crushed-oregano-in-pozole-55d4f1fc",
         "topic-cumin-86119140",
@@ -29128,6 +29928,7 @@
         "topic-parsley-2c8dcb8d",
         "topic-pasta-wheat-gluten-free-legume-varieties-1457de16",
         "topic-pepper-seasoning-10016bed",
+        "topic-plant-based-sauces-and-accompaniments-a8934b2e",
         "topic-quinoa-as-a-protein-adding-side-73f8be79",
         "topic-quinoa-f32d6dd1",
         "topic-quinoa-side-8914ede8",
@@ -29208,6 +30009,7 @@
         "topic-turmeric-and-paprika-for-color-and-flavor-65e3b870",
         "topic-turmeric-and-paprika-seasoning-b3263def",
         "topic-turmeric-for-color-309fed88",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8",
         "topic-vanilla-5296c024",
         "topic-vanilla-bean-e0b38a12",
         "topic-vanilla-extract-d7aa0adb",
@@ -29230,7 +30032,7 @@
         "topic-wine-in-sauce-4ee2169a",
         "topic-zucchini-4ea51196"
       ],
-      "video_count": 52
+      "video_count": 54
     },
     "family-plant-proteins-76480aee": {
       "family_id": "family-plant-proteins-76480aee",
@@ -29260,6 +30062,7 @@
         "topic-finger-poke-test-for-gluten-0328192e",
         "topic-firm-tofu-997f2bec",
         "topic-freezing-tofu-to-improve-texture-488dedea",
+        "topic-fried-king-oyster-mushroom-bites-f06ab128",
         "topic-gluten-based-seitan-from-all-purpose-flour-6f0c739f",
         "topic-gluten-development-f95aac71",
         "topic-gluten-development-kneading-3edcda56",
@@ -29313,7 +30116,7 @@
         "topic-vegan-protein-substitutes-tofu-tempeh-606725af",
         "topic-veggie-broth-based-tofu-cooking-954d0d76"
       ],
-      "video_count": 32
+      "video_count": 34
     },
     "family-presentation-and-plating-c6bde660": {
       "family_id": "family-presentation-and-plating-c6bde660",
@@ -29395,6 +30198,7 @@
       "label": "Quick Meals",
       "description": "Fast weeknight dishes, mug recipes, and shortcut meals designed for low time and effort.",
       "topic_ids": [
+        "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74",
         "topic-banana-oatmeal-bake-03007624",
         "topic-banana-oatmeal-baked-aed60dd5",
         "topic-batch-friendly-20-minute-meals-6b6d5fae",
@@ -29442,7 +30246,7 @@
         "topic-vegan-snacks-52fc01cc",
         "topic-zucchini-and-red-lentil-fritters-433918a8"
       ],
-      "video_count": 22
+      "video_count": 23
     },
     "family-rice-and-noodles-ac1f9f1c": {
       "family_id": "family-rice-and-noodles-ac1f9f1c",
@@ -29666,6 +30470,7 @@
         "topic-comparison-to-non-vegan-bakeries-van-leeuwen-6f9298a6",
         "topic-dear-bella-ice-cream-cookie-references-from-the--2e1e795e",
         "topic-diddy-riese-and-erin-mckenna-s-vegan-bakery-cont-f20537bc",
+        "topic-family-reactions-to-vegan-food-bb1b581d",
         "topic-flavor-and-texture-evaluation-during-tasting-7ee7f4db",
         "topic-flavor-comparisons-between-homemade-and-shop-fla-e8c23d68",
         "topic-flavor-evaluation-7dd9891d",
@@ -29686,6 +30491,7 @@
         "topic-pizza-108-los-angeles-vegan-pizza-c883651f",
         "topic-price-based-competition-and-scorekeeping-fe27a2af",
         "topic-product-comparisons-between-vegan-proteins-and-c-e4ebd3d4",
+        "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
         "topic-rating-and-evaluation-of-flavor-03dbb805",
         "topic-reactions-to-vegan-dishes-surprise-delight-skept-dc31f665",
         "topic-review-rating-8-10-43efa21c",
@@ -29726,7 +30532,7 @@
         "topic-verbal-tasting-notes-and-texture-comparisons-08433707",
         "topic-video-contrast-la-pizza-108-vs-prime-pizza-vs-st-77743753"
       ],
-      "video_count": 34
+      "video_count": 35
     },
     "family-texture-and-technique-63d1c7a4": {
       "family_id": "family-texture-and-technique-63d1c7a4",
@@ -29748,8 +30554,10 @@
         "topic-artichoke-anatomy-choke-vs-heart-524bbcca",
         "topic-assembling-artichoke-based-nachos-a3a29d19",
         "topic-assembly-order-cheese-sausage-egg-substitute-muf-f74823ff",
+        "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
         "topic-bake-time-7-8-minutes-86ec20c3",
         "topic-bake-times-and-temperatures-450-f-232-c-for-26-2-b2a0ce90",
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
         "topic-baking-casserole-assembly-and-timing-6b4d51ee",
         "topic-baking-cookies-15-minutes-for-crisp-edges-and-ch-910ae651",
         "topic-baking-duration-about-3-minutes-16c8ec86",
@@ -29979,6 +30787,7 @@
         "topic-texture-and-flavor-notes-d41d787b",
         "topic-texture-and-flavor-notes-softer-than-raw-carrot--c00a53de",
         "topic-texture-and-moisture-release-in-plant-based-dish-ececca25",
+        "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
         "topic-texture-and-taste-of-vegan-meringues-7678b515",
         "topic-texture-crispy-and-fatty-55fd5a1c",
         "topic-texture-evaluation-6cf11dc7",
@@ -29996,6 +30805,7 @@
         "topic-toaster-oven-broil-for-pizza-eb0f205b",
         "topic-toffee-cooking-to-290-f-143-c-56ac4a56",
         "topic-tofu-blending-8e38e966",
+        "topic-tofu-blending-for-texture-373f336a",
         "topic-tofu-cut-into-fourths-f584dc55",
         "topic-tofu-placed-on-top-of-nori-99a8bc02",
         "topic-tofu-press-technique-eba995d3",
@@ -30023,7 +30833,7 @@
         "topic-yuba-sheet-slicing-0fe0b858",
         "topic-yuba-tofu-skin-rehydration-1afe85ed"
       ],
-      "video_count": 56
+      "video_count": 58
     }
   },
   "items": {
@@ -31150,6 +31960,70 @@
       ],
       "topic_sections": {},
       "chapter_count": 5
+    },
+    "video-vegan-recipes-goodful-jkjgufxppm-youtube-8d72dc35": {
+      "item_id": "video-vegan-recipes-goodful-jkjgufxppm-youtube-8d72dc35",
+      "title": "Vegan Salvadoran Classics Tasted: Pastelitos and Yuca Frita Reimagined with Jackfruit and Impossible Meat",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "_jKJGUfxppM",
+          "url": "https://www.youtube.com/watch?v=_jKJGUfxppM"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/_jKJGUfxppM.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "In this Goodful video, a host pairs Salvadoran dishes with vegan substitutions and invites family members to taste-test pastelitos and yuca frita. The host explains that jackfruit stands in for chicharrón and Impossible Meat substitutes for ground beef, framing the meal as a playful challenge to see if the family can identify the traditional dish when it’s vegan. Throughout the tasting, the family provides enthusiastic reactions, comments on authenticity tied to heritage (including references to grandma’s recipe and “herencia”), and participates in a brief tutorial on what vegan means. The segment blends cultural foodways with plant-based cooking, capturing moments of tradition, discovery, and potential expansion of vegan Latin American fare.",
+      "date": {
+        "display": "June 17, 2022",
+        "iso": "2022-06-17",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-pastelitos-vegan-substitution-bd64055c",
+        "topic-yuca-frita-con-chicharr-n-vegan-version-ddc2b6af",
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99",
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964",
+        "topic-plant-based-sauces-and-accompaniments-a8934b2e",
+        "topic-texture-and-mouthfeel-of-vegan-fillings-0a160535",
+        "topic-eating-with-hands-vs-utensils-in-traditional-dis-d5df33d8",
+        "topic-family-reactions-to-vegan-food-bb1b581d",
+        "topic-heritage-and-grandma-s-recipe-influence-e9f91381",
+        "topic-herencia-and-cultural-authenticity-in-cooking-9e7a06ca",
+        "topic-public-perception-of-vegan-meat-soy-based-produc-7ef6579f",
+        "topic-definitions-and-explanations-of-veganism-f669cde6",
+        "topic-future-plans-for-vegan-latin-american-recipes-855bba1d"
+      ],
+      "family_ids": [
+        "family-global-flavors-258b91c3",
+        "family-meat-analogues-a8b5ad1b",
+        "family-pantry-staples-7c6ba780",
+        "family-texture-and-technique-63d1c7a4",
+        "family-taste-tests-fefb843f",
+        "family-channel-and-format-e6fd913c"
+      ],
+      "topic_sections": {
+        "topic-pastelitos-vegan-substitution-bd64055c": [
+          0
+        ],
+        "topic-jackfruit-as-chicharr-n-substitute-77b5ea99": [
+          0
+        ],
+        "topic-impossible-meat-as-ground-beef-substitute-6d320964": [
+          0
+        ],
+        "topic-definitions-and-explanations-of-veganism-f669cde6": [
+          2
+        ]
+      },
+      "chapter_count": 4
     },
     "video-vegan-recipes-goodful-aoej8odebyw-youtube-a24b67a1": {
       "item_id": "video-vegan-recipes-goodful-aoej8odebyw-youtube-a24b67a1",
@@ -33060,6 +33934,160 @@
         ],
         "topic-blind-judging-fed46238": [
           0
+        ]
+      },
+      "chapter_count": 8
+    },
+    "video-vegan-recipes-goodful-l0nshrenmpw-youtube-7e7f238a": {
+      "item_id": "video-vegan-recipes-goodful-l0nshrenmpw-youtube-7e7f238a",
+      "title": "Global Vegans: NYC & LA Tasting of King Oyster Mushroom Bites, Katsu, Spam Musubi, Wings, and Cheesecake",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "l0nsHRenMpw",
+          "url": "https://www.youtube.com/watch?v=l0nsHRenMpw"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/l0nsHRenMpw.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This Goodful video presents a quick, opinionated vegan food tasting across two U.S. cities. The host foregrounds New York as the best vegan city and praises Los Angeles for its vegan scene, then highlights several dishes encountered: fried king oyster mushroom bites, a vegan katsu plate with mac salad, vegan spam musubi, vegan wings, and a vegan cheesecake. The format is a personal tasting commentary rather than a step-by-step recipe guide, emphasizing the appeal and variety of plant-based dishes rather than culinary technique tutorials.",
+      "date": {
+        "display": "August 13, 2025",
+        "iso": "2025-08-13",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [
+        {
+          "name": "New York",
+          "confidence": 0.85,
+          "basis": "Transcript explicitly states 'New York is the best place to be vegan' (00:00:00)."
+        },
+        {
+          "name": "Los Angeles",
+          "confidence": 0.85,
+          "basis": "Transcript explicitly states 'this video is proof that the vegan food in LA is unmatched' (00:00:12)."
+        }
+      ],
+      "topic_ids": [
+        "topic-new-york-vegan-scene-9c25cc09",
+        "topic-los-angeles-vegan-scene-715139e7",
+        "topic-fried-king-oyster-mushroom-bites-f06ab128",
+        "topic-katsu-vegan-plate-7216b7a5",
+        "topic-macaroni-salad-vegan-side-cfcbd1d5",
+        "topic-spam-musubi-vegan-version-c3fab41e",
+        "topic-vegan-wings-e639ca3c",
+        "topic-vegan-cheesecake-16f7400a",
+        "topic-vegan-barbecue-spot-near-office-510e93e9",
+        "topic-global-vegan-foods-concept-74ee8182"
+      ],
+      "family_ids": [
+        "family-global-flavors-258b91c3",
+        "family-plant-proteins-76480aee",
+        "family-meat-analogues-a8b5ad1b",
+        "family-desserts-and-baking-560aa236",
+        "family-channel-and-format-e6fd913c"
+      ],
+      "topic_sections": {
+        "topic-new-york-vegan-scene-9c25cc09": [
+          0
+        ],
+        "topic-los-angeles-vegan-scene-715139e7": [
+          2
+        ],
+        "topic-fried-king-oyster-mushroom-bites-f06ab128": [
+          4
+        ],
+        "topic-katsu-vegan-plate-7216b7a5": [
+          5
+        ],
+        "topic-vegan-wings-e639ca3c": [
+          8
+        ],
+        "topic-vegan-cheesecake-16f7400a": [
+          9
+        ],
+        "topic-vegan-barbecue-spot-near-office-510e93e9": [
+          1
+        ]
+      },
+      "chapter_count": 10
+    },
+    "video-vegan-recipes-goodful-lfi0uq-cf-e-youtube-8101cc0c": {
+      "item_id": "video-vegan-recipes-goodful-lfi0uq-cf-e-youtube-8101cc0c",
+      "title": "Vegan Lasagna Essentials: Tofu Ricotta and Mushroom-Walnut Meat for a Crowd-Pleasing Dish",
+      "media": [
+        {
+          "type": "youtube",
+          "delivery": "remote",
+          "video_id": "lfI0uq_cF-E",
+          "url": "https://www.youtube.com/watch?v=lfI0uq_cF-E"
+        }
+      ],
+      "analysis": {
+        "path": "analysis/lfI0uq_cF-E.analysis.json",
+        "schema_version": 2,
+        "model": "gpt-5-nano"
+      },
+      "summary": "This Goodful video presents a vegan lasagna that preserves nostalgic flavors by swapping dairy and meat with a tofu-based ricotta and a mushroom-w walnut-meat substitute. The host emphasizes both flavor and texture, highlighting the role of nutritional yeast in the ricotta, careful handling of the mushroom-walnut filling to develop umami without becoming mushy, and the simplicity of using ordinary egg-free lasagna noodles. The narrative weaves personal history with practical tips for assembling and baking a substantial dish that can serve a crowd or be portioned for the week, while addressing common vegan-accessibility questions about meat/dairy replacements and the ease of preparation.",
+      "date": {
+        "display": "May 9, 2019",
+        "iso": "2019-05-09",
+        "precision": "day",
+        "confidence": 1.0,
+        "basis": "YouTube publication date"
+      },
+      "locations": [],
+      "topic_ids": [
+        "topic-tofu-ricotta-ae50f917",
+        "topic-nutritional-yeast-for-cheesy-flavor-c0f4bfd0",
+        "topic-tofu-blending-for-texture-373f336a",
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5",
+        "topic-umami-development-in-vegan-fillings-c6c1b9e8",
+        "topic-avoiding-mushy-texture-in-vegan-fillings-045b31ac",
+        "topic-egg-free-lasagna-noodles-4057d5a9",
+        "topic-regular-lasagna-noodles-are-vegan-e4ed5a8c",
+        "topic-baking-and-re-baking-texture-considerations-faef2d7f",
+        "topic-crowd-pleasing-vegan-cooking-6967a107",
+        "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46",
+        "topic-appetizing-vegan-dishes-for-non-vegans-bcd38c42",
+        "topic-meal-prep-for-leftovers-ba550fd2",
+        "topic-accessibility-and-simplicity-of-vegan-cooking-cfdefc74"
+      ],
+      "family_ids": [
+        "family-cheese-alternatives-149e77b4",
+        "family-plant-proteins-76480aee",
+        "family-pantry-staples-7c6ba780",
+        "family-texture-and-technique-63d1c7a4",
+        "family-meat-analogues-a8b5ad1b",
+        "family-ingredient-swaps-9cb10e0d",
+        "family-channel-and-format-e6fd913c",
+        "family-budget-cooking-f1a4fd8d",
+        "family-quick-meals-7a2b8826"
+      ],
+      "topic_sections": {
+        "topic-tofu-ricotta-ae50f917": [
+          1
+        ],
+        "topic-nutritional-yeast-for-cheesy-flavor-c0f4bfd0": [
+          1
+        ],
+        "topic-tofu-blending-for-texture-373f336a": [
+          1
+        ],
+        "topic-mushroom-walnut-meat-substitute-b4fa86d5": [
+          2
+        ],
+        "topic-egg-free-lasagna-noodles-4057d5a9": [
+          6
+        ],
+        "topic-moral-ethical-aspects-of-recreating-meat-and-dai-bffd0e46": [
+          5
         ]
       },
       "chapter_count": 8
@@ -36412,8 +37440,8 @@
     }
   },
   "stats": {
-    "video_count": 72,
-    "topic_count": 1327,
+    "video_count": 75,
+    "topic_count": 1362,
     "topic_family_count": 20
   },
   "description": "A Watchcraft collection generated from the Vegan Recipes | Goodful YouTube playlist.",
@@ -36423,7 +37451,6 @@
     "playlist_id": "PLQiGxGHwiuD0ydMqT4cDu2xoUoVvdFK7V",
     "url": "https://www.youtube.com/playlist?list=PLQiGxGHwiuD0ydMqT4cDu2xoUoVvdFK7V",
     "excluded_video_ids": [
-      "lfI0uq_cF-E",
       "TJOGW6hDxLk",
       "35_-6VObm04",
       "91wOu8Hl6gE",
@@ -36436,125 +37463,126 @@
       "hTAL271F3es",
       "EWHLDtXzTMM",
       "4m1B6PRkFOs",
-      "_jKJGUfxppM",
       "lgfCHlaRPVM",
       "du4yZTJorb0",
       "lddKZC9Ff7s",
       "uxron4JmV9U",
       "J9gAq6SW0I4",
-      "Olpq5sKbYPE",
-      "l0nsHRenMpw"
+      "Olpq5sKbYPE"
     ],
-    "caption_exclusions": [
-      {
-        "video_id": "lfI0uq_cF-E",
-        "language": "en",
-        "reason": "requested-language-unavailable"
-      },
+    "audio_exclusions": [
       {
         "video_id": "TJOGW6hDxLk",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 478.238,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "35_-6VObm04",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 208.341,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "91wOu8Hl6gE",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 1050.645,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "QT6MQpWZLl0",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 323.791,
+        "speech_seconds": 1.736
       },
       {
         "video_id": "TjqC3HJ8GUs",
-        "language": "en",
-        "reason": "requested-language-unavailable"
+        "reason": "no-speech-detected",
+        "audio_seconds": 245.841,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "39Vga74u7nM",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 328.829,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "ctm4ejdPHl8",
-        "language": "en",
-        "reason": "requested-language-unavailable"
+        "reason": "no-speech-detected",
+        "audio_seconds": 468.857,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "1ZDNfk-Sn8o",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 348.729,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "cNryZxNLeOw",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 514.566,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "hTAL271F3es",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 578.537,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "EWHLDtXzTMM",
-        "language": "en",
-        "reason": "requested-language-unavailable"
+        "reason": "no-speech-detected",
+        "audio_seconds": 213.182,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "4m1B6PRkFOs",
-        "language": "en",
-        "reason": "requested-language-unavailable"
-      },
-      {
-        "video_id": "_jKJGUfxppM",
-        "language": "en",
-        "reason": "requested-language-unavailable"
+        "reason": "no-speech-detected",
+        "audio_seconds": 472.898,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "lgfCHlaRPVM",
-        "language": "en",
-        "reason": "requested-language-unavailable"
+        "reason": "no-speech-detected",
+        "audio_seconds": 628.181,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "du4yZTJorb0",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 330.49,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "lddKZC9Ff7s",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 350.436,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "uxron4JmV9U",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 328.748,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "J9gAq6SW0I4",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 139.68,
+        "speech_seconds": 0.0
       },
       {
         "video_id": "Olpq5sKbYPE",
-        "language": "en",
-        "reason": "captions-disabled"
-      },
-      {
-        "video_id": "l0nsHRenMpw",
-        "language": "en",
-        "reason": "captions-disabled"
+        "reason": "no-speech-detected",
+        "audio_seconds": 112.064,
+        "speech_seconds": 0.0
       }
     ],
     "publisher": "Goodful",
     "publisher_url": "https://www.youtube.com/@Goodful"
   },
-  "revision": 1,
-  "content_hash": "b1af5d6cbc193cc133cc8174eec2139b59844601bbcb948c4abbcd6d37fe1e00"
+  "revision": 2,
+  "content_hash": "3bb91e2e36b6aa86c69b15ee7153d20e42fb2dac96580694360d9d8ac442e051"
 }

@@ -1,4 +1,5 @@
 const DIRECTORY_URL = "./directory.json";
+const SHOW_DEVELOPER_INFO = new URLSearchParams(window.location.search).has("debug");
 
 function modeLabel(mode) {
   return {
@@ -30,10 +31,13 @@ function collectionCard(collection) {
     install.href = `watchcraft://install?url=${encodeURIComponent(collection.manifest_url)}`;
     install.textContent = "Open in Watchcraft";
 
-    const manifest = document.createElement("a");
-    manifest.href = collection.manifest_url;
-    manifest.textContent = "View manifest";
-    actions.append(install, manifest);
+    actions.append(install);
+    if (SHOW_DEVELOPER_INFO) {
+      const manifest = document.createElement("a");
+      manifest.href = collection.manifest_url;
+      manifest.textContent = "View manifest";
+      actions.append(manifest);
+    }
   } else if (collection.package_url) {
     const download = document.createElement("a");
     download.href = collection.package_url;
@@ -41,7 +45,17 @@ function collectionCard(collection) {
     actions.append(download);
   }
 
-  card.append(mode, title, description, actions);
+  const footer = document.createElement("div");
+  footer.className = "collection-footer";
+  const videoCount = document.createElement("span");
+  videoCount.className = "video-count";
+  const count = Number(collection.video_count);
+  videoCount.textContent = Number.isInteger(count) && count >= 0
+    ? `${count} ${count === 1 ? "video" : "videos"}`
+    : "Video count unavailable";
+  footer.append(actions, videoCount);
+
+  card.append(mode, title, description, footer);
   return card;
 }
 

@@ -1,14 +1,15 @@
 {
   "kind": "watchcraft.collection-directory",
-  "schema_version": 1,
+  "schema_version": 2,
   "base_url": "https://collections.watchcraft.stream",
   "description": "A non-authoritative directory of publicly advertised Watchcraft collections.",
   "collections": [
     {
       "collection_id": "hello-world-managed",
       "title": "Hello, Watchcraft! — Managed",
-      "description": "A tiny self-contained video downloaded into Watchcraft’s private storage.",
+      "description": "A Watchcraft-made example showing how a collection can keep its video in app-managed storage.",
       "category": "Examples",
+      "video_count": 1,
       "media_modes": [
         "managed-local"
       ],
@@ -18,8 +19,9 @@
     {
       "collection_id": "hello-world-referenced",
       "title": "Hello, Watchcraft! — Referenced",
-      "description": "The same tiny video kept in a folder that remains under your control.",
+      "description": "A Watchcraft-made example showing how a collection can play video from a folder you control.",
       "category": "Examples",
+      "video_count": 1,
       "media_modes": [
         "referenced-local"
       ],
@@ -29,8 +31,9 @@
     {
       "collection_id": "premiere-pro-ai-tools",
       "title": "Learning Adobe Premiere Pro",
-      "description": "Four public YouTube lessons with searchable topics and chapter navigation.",
+      "description": "A practical Premiere Pro learning path from Adobe Video, Think Media, Primal Video, and Gavin Herman, spanning first edits through AI-assisted workflows.",
       "category": "Video Editing",
+      "video_count": 4,
       "media_modes": [
         "remote"
       ],
@@ -39,8 +42,9 @@
     {
       "collection_id": "davinci-resolve",
       "title": "DaVinci Resolve",
-      "description": "Five public YouTube lessons with searchable topics and chapter navigation.",
+      "description": "Expert-led DaVinci Resolve instruction from Casey Faris, Hugh Hou, Greg Edits Video, and Content Creators, covering core editing, AI tools, and immersive video.",
       "category": "Video Editing",
+      "video_count": 5,
       "media_modes": [
         "remote"
       ],
@@ -49,8 +53,9 @@
     {
       "collection_id": "official-ptgui-tutorial",
       "title": "Official PTGUI Tutorial",
-      "description": "Nine public YouTube lessons with searchable topics and chapter navigation.",
+      "description": "PTGui’s official guide to panorama stitching, control points, HDR, masking, viewpoint correction, leveling, and patching.",
       "category": "Image Editing",
+      "video_count": 9,
       "media_modes": [
         "remote"
       ],
@@ -59,8 +64,9 @@
     {
       "collection_id": "essence-of-linear-algebra",
       "title": "Essence of linear algebra",
-      "description": "Sixteen visual lessons that build an intuitive understanding of vectors, matrices, determinants, and related ideas.",
+      "description": "3Blue1Brown’s visual introduction to the geometry and intuition behind vectors, matrices, determinants, eigenvalues, and linear transformations.",
       "category": "Mathematics",
+      "video_count": 16,
       "media_modes": [
         "remote"
       ],
@@ -69,8 +75,9 @@
     {
       "collection_id": "justinguitar-grade-1-beginner-guitar-course",
       "title": "JustinGuitar Grade 1 - Beginner Guitar Course",
-      "description": "Seventy-nine beginner guitar lessons covering essential chords, rhythm, technique, practice, and songs.",
+      "description": "JustinGuitar’s structured Grade 1 course for building beginner chords, rhythm, technique, practice habits, and a playable song repertoire.",
       "category": "Music",
+      "video_count": 79,
       "media_modes": [
         "remote"
       ],
@@ -79,8 +86,9 @@
     {
       "collection_id": "plumbing-repairs-and-upgrades",
       "title": "Plumbing Repairs and Upgrades",
-      "description": "One hundred forty-seven practical lessons on household plumbing repairs, installation, maintenance, and upgrades.",
+      "description": "This Old House’s hands-on guide to diagnosing, repairing, maintaining, and upgrading household plumbing—from faucets and toilets to water heaters and supply lines.",
       "category": "Home Improvement",
+      "video_count": 147,
       "media_modes": [
         "remote"
       ],
@@ -89,8 +97,9 @@
     {
       "collection_id": "techniquely-with-lan-lam-america-s-test-kitchen",
       "title": "Techniquely with Lan Lam | America's Test Kitchen",
-      "description": "Fifty-one cooking lessons that explain the techniques and food science behind better results in the kitchen.",
+      "description": "Lan Lam and America’s Test Kitchen unpack the technique and food science behind more reliable, better-tasting everyday cooking.",
       "category": "Cooking",
+      "video_count": 51,
       "media_modes": [
         "remote"
       ],
@@ -99,8 +108,9 @@
     {
       "collection_id": "photoshop-tutorial-for-beginners-complete-series",
       "title": "Photoshop Tutorial for Beginners | Complete Series",
-      "description": "A Watchcraft collection generated from the Photoshop Tutorial for Beginners | Complete Series YouTube playlist.",
+      "description": "PiXimperfect’s approachable introduction to the Photoshop workspace, essential tools, cropping, and creative editing fundamentals.",
       "category": "Image Editing",
+      "video_count": 3,
       "media_modes": [
         "remote"
       ],
@@ -109,8 +119,9 @@
     {
       "collection_id": "electrical-upgrades",
       "title": "Electrical Upgrades",
-      "description": "A Watchcraft collection generated from the Electrical Upgrades YouTube playlist.",
+      "description": "This Old House’s practical guide to safer electrical upgrades, including outlets, fixtures, switches, outdoor circuits, panels, and EV charging.",
       "category": "Home Improvement",
+      "video_count": 29,
       "media_modes": [
         "remote"
       ],
@@ -119,8 +130,9 @@
     {
       "collection_id": "photoshop-advanced-course-masking-retouching-3d-lighting-and-cameras",
       "title": "Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras",
-      "description": "A Watchcraft collection generated from the Photoshop Advanced Course: Masking, Retouching, 3D, Lighting and Cameras YouTube playlist.",
+      "description": "Bring Your Own Laptop’s focused advanced Photoshop course on precise selections, masking, retouching, 3D objects, materials, and lighting.",
       "category": "Image Editing",
+      "video_count": 4,
       "media_modes": [
         "remote"
       ],
@@ -129,8 +141,9 @@
     {
       "collection_id": "30-days-of-photoshop",
       "title": "30 Days of Photoshop",
-      "description": "A Watchcraft collection generated from the 30 Days of Photoshop YouTube playlist.",
+      "description": "PHLEARN’s practice-driven tour of Photoshop, progressing from core tools to retouching, compositing, color work, generative AI, and export.",
       "category": "Image Editing",
+      "video_count": 31,
       "media_modes": [
         "remote"
       ],
@@ -139,8 +152,9 @@
     {
       "collection_id": "vegan-recipes-goodful",
       "title": "Vegan Recipes | Goodful",
-      "description": "A Watchcraft collection generated from the Vegan Recipes | Goodful YouTube playlist.",
+      "description": "Goodful’s wide-ranging collection of plant-based recipes, pantry guidance, quick meals, clever substitutions, and ambitious vegan remakes.",
       "category": "Cooking",
+      "video_count": 75,
       "media_modes": [
         "remote"
       ],
@@ -149,32 +163,35 @@
     {
       "collection_id": "appliance-maintenance-and-repair",
       "title": "Appliance Maintenance and Repair",
-      "description": "A Watchcraft collection generated from the Appliance Maintenance and Repair YouTube playlist.",
+      "description": "This Old House’s practical guide to maintaining and repairing laundry equipment, kitchen appliances, furnaces, water heaters, and garbage disposals.",
+      "category": "Home Improvement",
+      "video_count": 10,
       "media_modes": [
         "remote"
       ],
-      "manifest_url": "https://collections.watchcraft.stream/collections/appliance-maintenance-and-repair/collection.json",
-      "category": "Home Improvement"
+      "manifest_url": "https://collections.watchcraft.stream/collections/appliance-maintenance-and-repair/collection.json"
     },
     {
       "collection_id": "toilet-upgrades-and-repairs",
       "title": "Toilet Upgrades and Repairs",
-      "description": "A Watchcraft collection generated from the Toilet Upgrades and Repairs YouTube playlist.",
+      "description": "This Old House’s guide to toilet repairs and upgrades, from leaks, valves, flanges, and seats to dual-flush systems and macerating installations.",
+      "category": "Home Improvement",
+      "video_count": 15,
       "media_modes": [
         "remote"
       ],
-      "manifest_url": "https://collections.watchcraft.stream/collections/toilet-upgrades-and-repairs/collection.json",
-      "category": "Home Improvement"
+      "manifest_url": "https://collections.watchcraft.stream/collections/toilet-upgrades-and-repairs/collection.json"
     },
     {
       "collection_id": "all-about-lights",
       "title": "All About Lights",
-      "description": "A Watchcraft collection generated from the All About Lights YouTube playlist.",
+      "description": "This Old House illuminates lighting design and installation, from pendants, track lights, and chandeliers to LEDs, smart controls, and outdoor fixtures.",
+      "category": "Home Improvement",
+      "video_count": 39,
       "media_modes": [
         "remote"
       ],
-      "manifest_url": "https://collections.watchcraft.stream/collections/all-about-lights/collection.json",
-      "category": "Home Improvement"
+      "manifest_url": "https://collections.watchcraft.stream/collections/all-about-lights/collection.json"
     }
   ]
 }

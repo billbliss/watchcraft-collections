@@ -71,6 +71,13 @@ valid Watchcraft manifest and its referenced metadata at any HTTP(S) location.
 
 ## License
 
-Original content in this repository is available under the [MIT License](LICENSE).
-Referenced third-party videos and media remain subject to their owners' terms
-and are not relicensed by this repository.
+The repository's code, website implementation, configuration, documentation,
+and collection metadata and analysis are available under the [MIT
+License](LICENSE), to the extent that copyright or other licensable rights in
+them are held by the repository's contributors.
+
+The license does not apply to referenced third-party videos, audio, thumbnails,
+transcripts, quotations, or other source material. Rights in those materials
+remain with their respective owners. Nothing in this repository grants
+permission to use the underlying works beyond permission otherwise provided by
+their owners or applicable law.

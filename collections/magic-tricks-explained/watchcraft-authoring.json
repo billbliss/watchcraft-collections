@@ -1,0 +1,393 @@
+{
+  "kind": "watchcraft.authoring",
+  "schema_version": 1,
+  "collection": {
+    "title": "Magic Tricks Explained",
+    "collection_id": "magic-tricks-explained",
+    "description": "Secrets behind magic tricks of all kinds from videos with millions of views.",
+    "source": {
+      "type": "youtube-playlist",
+      "playlist_id": "PLTdiTNpMcLBw",
+      "url": "https://www.youtube.com/playlist?list=PLTdiTNpMcLBw",
+      "playlist_description": "Secrets behind magic tricks of all kinds from videos with millions of views.",
+      "excluded_video_ids": [
+        "T5QIqfrISTI",
+        "xg6Y8-S8NLA"
+      ],
+      "publisher": "Hafu Go",
+      "publisher_url": "https://www.youtube.com/@hafu",
+      "embedding_exclusions": [
+        {
+          "video_id": "T5QIqfrISTI",
+          "reason": "owner-disabled-embedding"
+        },
+        {
+          "video_id": "xg6Y8-S8NLA",
+          "reason": "owner-disabled-embedding"
+        }
+      ]
+    },
+    "listed": true,
+    "publisher": "Hafu Go",
+    "category": "Magic Tricks"
+  },
+  "sources": {
+    "eGewFYQhJEQ.youtube": {
+      "source_id": "youtube:eGewFYQhJEQ",
+      "type": "youtube",
+      "video_id": "eGewFYQhJEQ",
+      "url": "https://www.youtube.com/watch?v=eGewFYQhJEQ",
+      "title": "Level 1 to 100 Magic Tricks Anyone Can Do",
+      "publisher": "Hafu Go",
+      "publisher_url": "https://www.youtube.com/@hafu",
+      "thumbnail_url": "https://i.ytimg.com/vi/eGewFYQhJEQ/hqdefault.jpg",
+      "duration_seconds": 940,
+      "published_at": "2024-02-03T04:00:27-08:00",
+      "chapters": [],
+      "position": 1,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=eGewFYQhJEQ",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 940.373,
+        "speech_duration_seconds": 913.365,
+        "speech_range_count": 9,
+        "speech_coverage": 0.9713,
+        "audio_retained": false
+      }
+    },
+    "z2I5J1ArmeM.youtube": {
+      "source_id": "youtube:z2I5J1ArmeM",
+      "type": "youtube",
+      "video_id": "z2I5J1ArmeM",
+      "url": "https://www.youtube.com/watch?v=z2I5J1ArmeM",
+      "title": "How to Levitate",
+      "publisher": "Mind Blown Magic Illusion",
+      "publisher_url": "https://www.youtube.com/@MindBlownMagicIllusion",
+      "thumbnail_url": "https://i.ytimg.com/vi/z2I5J1ArmeM/hqdefault.jpg",
+      "duration_seconds": 298,
+      "published_at": "2020-11-07T08:51:26-08:00",
+      "chapters": [],
+      "position": 2,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=z2I5J1ArmeM",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 297.773,
+        "speech_duration_seconds": 240.44,
+        "speech_range_count": 7,
+        "speech_coverage": 0.8075,
+        "audio_retained": false
+      }
+    },
+    "l4FLH1tO918.youtube": {
+      "source_id": "youtube:l4FLH1tO918",
+      "type": "youtube",
+      "video_id": "l4FLH1tO918",
+      "url": "https://www.youtube.com/watch?v=l4FLH1tO918",
+      "title": "The BEST Coin Vanish In The World | Revealed",
+      "publisher": "Oscar Owen Magic",
+      "publisher_url": "https://www.youtube.com/@oscar",
+      "thumbnail_url": "https://i.ytimg.com/vi/l4FLH1tO918/hqdefault.jpg",
+      "duration_seconds": 464,
+      "published_at": "2022-08-29T04:00:21-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "Intro"
+        },
+        {
+          "start_seconds": 60,
+          "title": "Taking The Coin"
+        },
+        {
+          "start_seconds": 137,
+          "title": "Learn The Sleight"
+        },
+        {
+          "start_seconds": 295,
+          "title": "Add In Your Other Hand"
+        }
+      ],
+      "position": 3,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=l4FLH1tO918",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 463.761,
+        "speech_duration_seconds": 459.909,
+        "speech_range_count": 1,
+        "speech_coverage": 0.9917,
+        "audio_retained": false
+      }
+    },
+    "PtDXH7dtyKM.youtube": {
+      "source_id": "youtube:PtDXH7dtyKM",
+      "type": "youtube",
+      "video_id": "PtDXH7dtyKM",
+      "url": "https://www.youtube.com/watch?v=PtDXH7dtyKM",
+      "title": "5 Simple Ways to Read Anyone's Mind | Revealed",
+      "publisher": "Oscar Owen Magic",
+      "publisher_url": "https://www.youtube.com/@oscar",
+      "thumbnail_url": "https://i.ytimg.com/vi/PtDXH7dtyKM/hqdefault.jpg",
+      "duration_seconds": 1055,
+      "published_at": "2023-06-26T04:16:00-07:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "Intro"
+        },
+        {
+          "start_seconds": 32,
+          "title": "Read minds like Derren Brown"
+        },
+        {
+          "start_seconds": 209,
+          "title": "The impossible prediction"
+        },
+        {
+          "start_seconds": 426,
+          "title": "Read minds like Dynamo"
+        },
+        {
+          "start_seconds": 510,
+          "title": "Guess any word object or number"
+        },
+        {
+          "start_seconds": 764,
+          "title": "Read minds like David Blaine"
+        },
+        {
+          "start_seconds": 994,
+          "title": "How to present these effects"
+        }
+      ],
+      "position": 4,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=PtDXH7dtyKM",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 1055.36,
+        "speech_duration_seconds": 1041.568,
+        "speech_range_count": 5,
+        "speech_coverage": 0.9869,
+        "audio_retained": false
+      }
+    },
+    "jjaYUdsX2jg.youtube": {
+      "source_id": "youtube:jjaYUdsX2jg",
+      "type": "youtube",
+      "video_id": "jjaYUdsX2jg",
+      "url": "https://www.youtube.com/watch?v=jjaYUdsX2jg",
+      "title": "This EASY CARD TRICK is INSANE & Fools Magicians - No setup!",
+      "publisher": "Matt McGurk",
+      "publisher_url": "https://www.youtube.com/@MattMcGurk",
+      "thumbnail_url": "https://i.ytimg.com/vi/jjaYUdsX2jg/hqdefault.jpg",
+      "duration_seconds": 530,
+      "published_at": "2024-01-12T12:05:39-08:00",
+      "chapters": [
+        {
+          "start_seconds": 0,
+          "title": "Intro"
+        },
+        {
+          "start_seconds": 33,
+          "title": "Performance"
+        },
+        {
+          "start_seconds": 134,
+          "title": "Explanation after the shuffle"
+        },
+        {
+          "start_seconds": 241,
+          "title": "What If?"
+        },
+        {
+          "start_seconds": 301,
+          "title": "Explanation - Spectator Instructions"
+        },
+        {
+          "start_seconds": 476,
+          "title": "Final Thoughts"
+        }
+      ],
+      "position": 5,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=jjaYUdsX2jg",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 529.81,
+        "speech_duration_seconds": 529.81,
+        "speech_range_count": 1,
+        "speech_coverage": 1.0,
+        "audio_retained": false
+      }
+    },
+    "CnKSgYDDFyE.youtube": {
+      "source_id": "youtube:CnKSgYDDFyE",
+      "type": "youtube",
+      "video_id": "CnKSgYDDFyE",
+      "url": "https://www.youtube.com/watch?v=CnKSgYDDFyE",
+      "title": "I EXPOSED Magic's Oldest SECRET! Penn And Teller's Trick  - day 88",
+      "publisher": "Jason Maher",
+      "publisher_url": "https://www.youtube.com/@streetmagiciandude",
+      "thumbnail_url": "https://i.ytimg.com/vi/CnKSgYDDFyE/hqdefault.jpg",
+      "duration_seconds": 435,
+      "published_at": "2023-03-29T22:43:50-07:00",
+      "chapters": [],
+      "position": 6,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=CnKSgYDDFyE",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 435.003,
+        "speech_duration_seconds": 435.003,
+        "speech_range_count": 1,
+        "speech_coverage": 1.0,
+        "audio_retained": false
+      }
+    },
+    "h4PKlyIlTyI.youtube": {
+      "source_id": "youtube:h4PKlyIlTyI",
+      "type": "youtube",
+      "video_id": "h4PKlyIlTyI",
+      "url": "https://www.youtube.com/watch?v=h4PKlyIlTyI",
+      "title": "99% of People Can’t Explain This Card Trick! (REVEALED)",
+      "publisher": "Matt McGurk",
+      "publisher_url": "https://www.youtube.com/@MattMcGurk",
+      "thumbnail_url": "https://i.ytimg.com/vi/h4PKlyIlTyI/hqdefault.jpg",
+      "duration_seconds": 837,
+      "published_at": "2025-03-17T10:00:51-07:00",
+      "chapters": [],
+      "position": 7,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=h4PKlyIlTyI",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 837.323,
+        "speech_duration_seconds": 837.323,
+        "speech_range_count": 1,
+        "speech_coverage": 1.0,
+        "audio_retained": false
+      }
+    },
+    "vmeg80riLik.youtube": {
+      "source_id": "youtube:vmeg80riLik",
+      "type": "youtube",
+      "video_id": "vmeg80riLik",
+      "url": "https://www.youtube.com/watch?v=vmeg80riLik",
+      "title": "Give me 6 mins, I'll teach you an IMPOSSIBLE card trick",
+      "publisher": "Oscar Owen Magic",
+      "publisher_url": "https://www.youtube.com/@oscar",
+      "thumbnail_url": "https://i.ytimg.com/vi/vmeg80riLik/hqdefault.jpg",
+      "duration_seconds": 375,
+      "published_at": "2025-06-06T16:01:04-07:00",
+      "chapters": [],
+      "position": 8,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=vmeg80riLik",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 374.124,
+        "speech_duration_seconds": 374.124,
+        "speech_range_count": 1,
+        "speech_coverage": 1.0,
+        "audio_retained": false
+      }
+    },
+    "jxPKzPhlcX0.youtube": {
+      "source_id": "youtube:jxPKzPhlcX0",
+      "type": "youtube",
+      "video_id": "jxPKzPhlcX0",
+      "url": "https://www.youtube.com/watch?v=jxPKzPhlcX0",
+      "title": "EASY MAGIC TRICKS with LEGO…",
+      "publisher": "TD BRICKS",
+      "publisher_url": "https://www.youtube.com/@TDBRICKS",
+      "thumbnail_url": "https://i.ytimg.com/vi/jxPKzPhlcX0/hqdefault.jpg",
+      "duration_seconds": 508,
+      "published_at": "2024-03-17T07:46:30-07:00",
+      "chapters": [],
+      "position": 9,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=jxPKzPhlcX0",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 507.937,
+        "speech_duration_seconds": 506.164,
+        "speech_range_count": 1,
+        "speech_coverage": 0.9965,
+        "audio_retained": false
+      }
+    },
+    "frWQjPlTScA.youtube": {
+      "source_id": "youtube:frWQjPlTScA",
+      "type": "youtube",
+      "video_id": "frWQjPlTScA",
+      "url": "https://www.youtube.com/watch?v=frWQjPlTScA",
+      "title": "I Tried Dangerous Magic Tricks",
+      "publisher": "Sambucha",
+      "publisher_url": "https://www.youtube.com/@Sambucha",
+      "thumbnail_url": "https://i.ytimg.com/vi/frWQjPlTScA/hqdefault.jpg",
+      "duration_seconds": 1486,
+      "published_at": "2025-05-01T16:00:46-07:00",
+      "chapters": [],
+      "position": 10,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=frWQjPlTScA",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 1486.208,
+        "speech_duration_seconds": 1457.992,
+        "speech_range_count": 6,
+        "speech_coverage": 0.981,
+        "audio_retained": false
+      }
+    },
+    "BEmfgg2oQRc.youtube": {
+      "source_id": "youtube:BEmfgg2oQRc",
+      "type": "youtube",
+      "video_id": "BEmfgg2oQRc",
+      "url": "https://www.youtube.com/watch?v=BEmfgg2oQRc",
+      "title": "10 Simple Magic Tricks You Can Do At Home",
+      "publisher": "EvanEraTV",
+      "publisher_url": "https://www.youtube.com/@EvanEraTV",
+      "thumbnail_url": "https://i.ytimg.com/vi/BEmfgg2oQRc/hqdefault.jpg",
+      "duration_seconds": 999,
+      "published_at": "2018-08-26T14:00:00-07:00",
+      "chapters": [],
+      "position": 11,
+      "transcript": {
+        "source": "youtube-audio",
+        "language": "en",
+        "model": "mlx-community/whisper-large-v3-turbo-q4",
+        "url": "https://www.youtube.com/watch?v=BEmfgg2oQRc",
+        "yt_dlp_version": "2026.08.19",
+        "audio_duration_seconds": 998.969,
+        "speech_duration_seconds": 968.229,
+        "speech_range_count": 8,
+        "speech_coverage": 0.9692,
+        "audio_retained": false
+      }
+    }
+  }
+}

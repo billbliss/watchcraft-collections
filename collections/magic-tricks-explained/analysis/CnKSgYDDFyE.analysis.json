@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "video": "CnKSgYDDFyE.youtube",
+  "title": "Exposed Cups and Balls: Copper vs Clear Cups with Penn & Teller-inspired misdirection",
+  "date": {
+    "display": "March 29, 2023",
+    "iso": "2023-03-29",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "Jason Maher presents a two-part Cups and Balls routine that juxtaposes traditional copper cups with clear plastic cups, framing the video as an 'exposed' version inspired by Penn & Teller. The host performs a classic three-ball routine with copper cups, including vanishes behind a stick, palm and pocket maneuvers, and a final reset under the cups. He then shifts to an exposed presentation using clear cups, highlighting the same sleights while making the mechanics visible. Throughout, the video foregrounds misdirection—orange and hat antics, wand and melon reveals—and includes meta-commentary about whether revealing tricks is appropriate. The piece blends humor, audience engagement, and explicit teaching of core sleights alongside the stylistic contrast between opaque and transparent props.",
+  "topics": [
+    "Cups and Balls",
+    "Copper cups",
+    "Clear plastic cups",
+    "Three-ball routine",
+    "Vanishing behind a stick",
+    "Flip-stick vanish",
+    "Blow vanish",
+    "Over/under vanish (palm/misdirection)",
+    "Pocket ball management",
+    "Hiding and producing balls under cups",
+    "Hat misdirection",
+    "Orange gag",
+    "Melon reveal",
+    "Exposed vs unexposed magic",
+    "Penn & Teller influence",
+    "Audience engagement (like/subscribe)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "title": "Intro and exposure concept",
+      "concepts": [
+        "exposed magic concept",
+        "inspiration from Penn & Teller",
+        "contrast copper vs clear cups"
+      ],
+      "description": "Host announces a two-track approach: perform Cups and Balls with copper cups and with clear cups, then expose the mechanics. He cites Penn & Teller as an influence and frames the video as a potential new series comparing exposed versus non-exposed versions while prioritizing entertainment."
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:21",
+      "title": "Copper cups routine (unexposed testing of vanishes)",
+      "concepts": [
+        "three copper cups",
+        "three balls",
+        "vanish behind the stick",
+        "wave/over/under vanish",
+        "pocket/extra-ball management"
+      ],
+      "description": "The basics of the copper-cup version are demonstrated: three balls with a visible vanish sequence, including a vanish behind a stick and hidden-ball management that precedes reappearance under the cups."
+    },
+    {
+      "start": "00:03:21",
+      "end": "00:04:58",
+      "title": "Gambling-style misdirection and orange gag",
+      "concepts": [
+        "gambling-style ball-location routine",
+        "orange gag",
+        "hidden ball manipulation",
+        "hat misdirection"
+      ],
+      "description": "A gambling-like setup guides audience perception, with an orange gag and misdirection centered on the hat, illustrating how attention is steered away from actual sleights and setup."
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:06:46",
+      "title": "Exposed variant: clear cups, wand/vanish, and final reveal",
+      "concepts": [
+        "clear plastic cups",
+        "flip-stick vanish",
+        "palm and pocket handling",
+        "three balls vanish and reappear under cups",
+        "orange and melon misdirection",
+        "melon final reveal"
+      ],
+      "description": "The performer shifts to an exposed presentation using clear cups, demonstrates a flip-stick vanish, and shows how balls appear/disappear with visible manipulations. The routine escalates with orange/melon misdirection culminating in a dramatic final reveal."
+    },
+    {
+      "start": "00:06:46",
+      "end": "00:07:11",
+      "title": "Wrap-up and channel cues",
+      "concepts": [
+        "audience engagement",
+        "series concept",
+        "like and subscribe"
+      ],
+      "description": "Closing remarks emphasize viewer interaction and tease future installments, interspersed with light commentary about potential backlash from the magic community."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Flip-stick vanish (hidden hand) behind the hand",
+      "timestamp": "00:05:02",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Blow vanish",
+      "timestamp": "00:02:04",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Over/under vanish with palm/misdirection",
+      "timestamp": "00:02:11",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Pocket/extra-ball management and timing",
+      "timestamp": "00:03:03",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Hat misdirection and orange/melon production",
+      "timestamp": "00:06:00",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Orange gag as distraction",
+      "timestamp": "00:04:02",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Melon reveal as final punchline",
+      "timestamp": "00:06:35",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Exposed vs unexposed presentation (concept)",
+      "timestamp": "00:00:33",
+      "confidence": 0.65
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T21:45:26.115454+00:00"
+}

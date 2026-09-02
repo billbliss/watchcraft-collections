@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "video": "z2I5J1ArmeM.youtube",
+  "title": "How to Levitate",
+  "date": {
+    "display": "November 7, 2020",
+    "iso": "2020-11-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This instructional video catalogs several levitation illusions, ranging from inexpensive, home-friendly tricks to more elaborate stage effects. It starts with a simple blanket-illusion that uses linked shoes and a cover to hide foot movements, then details a pants-slit method that disguises a hidden leg movement with Velcro-tied footwear, followed by a floor-based stage illusion that relies on a concealed vertical support and floor coverings to hide the rigging, and concludes with a hoop-and-beam routine designed for visibility from multiple angles. Each method is described with required props, setup notes, and the basic illusion mechanism as presented by the presenter.",
+  "topics": [
+    "levitation illusion overview",
+    "at-home levitation methods",
+    "shoe linkage using rubber band",
+    "shoe linkage using Velcro",
+    "blanket concealment technique",
+    "pants-slit levitation with jeans",
+    "hidden-leg movement and foot repositioning",
+    "velcro-shoe synchronization",
+    "stool-assisted levitation",
+    "floor-based stage levitation",
+    "concealed steel support beam",
+    "floor coverings to disguise rigging (sand, blanket, rug)",
+    "stage setup with support bed",
+    "hoop levitation around a hidden beam",
+    "angles and visibility considerations in levitation effects"
+  ],
+  "sections": [
+    {
+      "start": "00:00:42",
+      "end": "00:01:35",
+      "title": "Simple at-home blanket-illusion with linked shoes",
+      "concepts": [
+        "shoes",
+        "rubber band",
+        "blanket",
+        "illusion",
+        "foot repositioning"
+      ],
+      "description": "Describes a method where two shoes are linked so that moving one causes the other to move. The performer covers themselves with a blanket; under cover, the right foot is moved from one shoe to the other, while the left foot is lifted, creating the appearance of levitation when the blanket is removed and the shoes appear to be hovering."
+    },
+    {
+      "start": "00:01:42",
+      "end": "00:02:50",
+      "title": "Pants-slit levitation using jeans and hidden-foot mechanics",
+      "concepts": [
+        "baggy pants",
+        "jeans",
+        "slit",
+        "glue or tape to shoe",
+        "velcro inside shoes",
+        "foot concealment",
+        "stool setup"
+      ],
+      "description": "Outlines a low-cost method: cut a slit from top to bottom on the right leg of baggy jeans, glue or tape the pant to the bottom of the shoe, and use velcro to keep the shoes together so one foot can be freed and pulled out of the slit. The right foot steps onto a stool while the back of the legs remain connected, creating the illusion of floating as the body rises."
+    },
+    {
+      "start": "00:03:22",
+      "end": "00:04:28",
+      "title": "Floor-based stage levitation with concealed support (popular stage method)",
+      "concepts": [
+        "stage method",
+        "floor coverage",
+        "concealed support beam",
+        "sand/blanket on floor",
+        "vertical beam",
+        "seating/bed platform"
+      ],
+      "description": "Introduces a widely used stage illusion where a floor covering (blanket, sand, or rug) hides a steel support that runs from the floor up a staff and down the performer's back, forming a hidden seat. The audience cannot see the beam, enabling the illusion of levitation as the performer appears to rise with the support hidden on the floor and body."
+    },
+    {
+      "start": "00:04:34",
+      "end": "00:04:51",
+      "title": "Hoop levitation around a hidden vertical beam",
+      "concepts": [
+        "hoop",
+        "vertical beam",
+        "hidden support",
+        "stage illusion",
+        "angle performance"
+      ],
+      "description": "Describes a hoop maneuver where the hoop moves over the body from one end to the other, avoiding the visible beam. From the front it appears the hoop traverses the entire body, but it strategically covers the concealed support, enabling a convincing levitation illusion."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Rubber-band linked shoes with blanket concealment to simulate levitation",
+      "timestamp": "00:00:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Pants-slit levitation using jeans with hidden foot repositioning and velcro shoes",
+      "timestamp": "00:01:42",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Floor-based stage levitation using a concealed steel support beam and floor coverings",
+      "timestamp": "00:03:22",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Hoop levitation around a hidden vertical beam for stage visibility",
+      "timestamp": "00:04:34",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-01T21:53:18.388699+00:00"
+}

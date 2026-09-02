@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "video": "LTG94ODJJIk.youtube",
+  "title": "Toyota Yaris Rear Drum Brakes: Wheel Cylinder Leak, Line Replacement, and Bleeding",
+  "date": {
+    "display": "March 28, 2026",
+    "iso": "2026-03-28",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video provides an in-depth, hands-on repair of a Toyota Yaris rear drum brake system affected by a leaking wheel cylinder that contaminated the rear shoes. The host documents diagnosing no braking, replacing the leaking wheel cylinder, replacing rusty brake lines, cleaning contaminated components, installing new shoes and hardware, and bleeding the system via gravity and pedal methods. A test drive checks whether the master cylinder survived the service, with notes on a common Toyota quirk where the brake warning float can stick when fluid is low. The walkthrough emphasizes practical decisions when budget constraints exist (such as preserving a compromised backing plate) and cautions against fabricating hard lines in favor of OEM pre-bent parts. Throughout, the guide highlights key drum-brake concepts—shoe and star wheel adjustment, hydraulic threading, and iterative checks—to ensure safe, functional brakes after the repair.",
+  "topics": [
+    "Toyota Yaris rear drum brake system",
+    "wheel cylinder leak diagnosis",
+    "rear brake shoe contamination from brake fluid",
+    "drum brake hardware replacement (springs, pins, cups)",
+    "new wheel cylinder installation",
+    "brake line replacement and cutting technique",
+    "line wrench usage",
+    "OEM pre-bent brake lines vs fabrication",
+    "backing plate assessment and replacement considerations",
+    "heat shield condition and rattling",
+    "drum removal and hub interaction",
+    "star wheel adjuster directionality and self-adjustment concept",
+    "brake cleaning with brush and brake cleaner",
+    "gravity bleed and pedal bleed brake procedures",
+    "master cylinder low-fluid symptoms and warning light behavior",
+    "test drive validation of brake repair",
+    "post-repair maintenance notes (oil change, heat shield securement)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:15",
+      "title": "Diagnosis and prep",
+      "concepts": [
+        "no brakes",
+        "wheel cylinder leak",
+        "drum brake rear axle",
+        "brake fluid contamination",
+        "plan: replace wheel cylinder and rear brakes",
+        "master cylinder on standby"
+      ],
+      "description": "Initial assessment identifies a Toyota Yaris with no brakes due to a leaking rear wheel cylinder that soaks the drum and shoes. The plan is to replace the wheel cylinder, replace all rear brakes because of contamination, and bleed the system, with a master cylinder kept on standby in case a full master replacement is needed."
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:12:04",
+      "title": "Wheel cylinder removal and brake line prep",
+      "concepts": [
+        "wheel cylinder removal",
+        "clamping/halting fluid loss",
+        "cutting and replacing line",
+        "line wrench usage",
+        "pre-bent OEM line vs fabricated line"
+      ],
+      "description": "The wheel cylinder is removed and the leaking line is cut and replaced. A line clamp is used to prevent further master-cylinder drainage, and a line wrench is employed to remove fittings. The host emphasizes choosing OEM pre-bent lines rather than fabricating lines to ensure proper fit and reliability."
+    },
+    {
+      "start": "00:12:04",
+      "end": "00:18:04",
+      "title": "Cleaning and backing plate assessment",
+      "concepts": [
+        "contamination cleanup",
+        "rust and corrosion on backing plate",
+        "heat shield rattling",
+        "assessing whether backing plate replacement is needed"
+      ],
+      "description": "Exposure to brake fluid and rust prompts thorough cleaning of contaminated components. The backing plate integrity is evaluated, with a note about a rattling heat shield and a decision to preserve the backing plate on a budget-conscious repair, while acknowledging potential future bearing work."
+    },
+    {
+      "start": "00:18:04",
+      "end": "00:25:46",
+      "title": "Hydraulic installation and shoe hardware prep",
+      "concepts": [
+        "wheel cylinder installation",
+        "brake line orientation",
+        "new hardware vs reused",
+        "pin, spring, and cup setup",
+        "star wheel orientation",
+        "assembly sequencing"
+      ],
+      "description": "Wheel cylinder installation begins, followed by routing the brake line and installing new hardware. The team assembles the shoe hardware (pins, springs, cups) and navigates orientation challenges, including a misstep that is corrected to ensure correct star-wheel direction and functional adjustment."
+    },
+    {
+      "start": "00:25:46",
+      "end": "00:37:02",
+      "title": "Bleeding, adjustment, and initial testing",
+      "concepts": [
+        "gravity bleed",
+        "pedal bleed",
+        "air removal technique",
+        "brake pedal feel and adjustment",
+        "initial brake drum clearance and drag"
+      ],
+      "description": "Brake bleeding begins with gravity bleeding to minimize air introduction, followed by pedal bleeding with a helper pumping the pedal. The video covers initial adjustments and the challenges of achieving proper shoe alignment and drag, including iterative checks and re-assembly as needed. A plan for a test drive follows to verify system integrity."
+    },
+    {
+      "start": "00:37:02",
+      "end": "00:38:45",
+      "title": "Test drive, final notes, and next steps",
+      "concepts": [
+        "test drive",
+        "master cylinder survival",
+        "low-fluid warning light quirk",
+        "oil change and heat shield fix",
+        "rust considerations and safety"
+      ],
+      "description": "Post-repair test drive indicates the master cylinder has survived the service. The host shares a tip about the common Toyota quirk where a low-fluid warning light may stick and how tapping the master cylinder can reset it. Final notes include ongoing maintenance ideas (oil change, securing the heat shield) and a reminder to address rust and backing plate wear as needed."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Rear drum brake service workflow: wheel cylinder replacement, line replacement, and hardware refresh",
+      "timestamp": "00:04:13",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Use of a line wrench to remove brake line fittings",
+      "timestamp": "00:03:09",
+      "confidence": 0.75
+    },
+    {
+      "technique": "OEM pre-bent brake lines vs fabrication for proper fit",
+      "timestamp": "00:11:38",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Bleeding sequence: gravity bleed followed by pedal bleed to remove air and preserve the master",
+      "timestamp": "00:26:31",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Star wheel adjuster orientation and directional self-adjusting principle",
+      "timestamp": "00:34:55",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Post-repair reminder: tapping the master cylinder to release a stuck float warning light",
+      "timestamp": "00:37:32",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:29:21.010070+00:00"
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "video": "gbRBMXV1uIk.youtube",
+  "title": "Toyota 2019 4Runner AC Diagnosis: Evaporator Freeze, Expansion Valve, and Sleepless Nights",
+  "date": {
+    "display": "October 4, 2025",
+    "iso": "2025-10-04",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The Car Care Nut documents an intermittent air conditioning failure on a 2019 Toyota 4Runner (fifth generation) that only surfaces after extended driving. The shop pursues an ambitious dash-disassembly route to access the evaporator and expansion valve, uncovers rodent damage to the dash harness, and unfolds a multi-day diagnostic saga. Initial testing shows normal pressures, but the evaporator frost progresses with longer drives. The team suspects the expansion valve, replaces the evaporator assembly, and tests with gauges; eventual trouble resurfaces due to a misadjusted compressor clutch air gap and an aging “ID box” security harness, prompting a second round of repair. The video chronicles a roller-coaster process—from dash removal and harness diagnostics to compressor clutch shim adjustments and a recalibrated replacement valve—culminating in a resolved system and reflections on the challenges of intermittent AC faults, customer communication, and shop ethics. The narrative is anchored by live-shop footage and day-by-day progression rather than a single, clean-in-one-go repair.",
+  "topics": [
+    "2019 Toyota 4Runner HVAC layout",
+    "Evaporator core",
+    "Expansion valve (TXV)",
+    "Dash removal and HVAC box access",
+    "Cabin air filter replacement",
+    "HVAC control module and servo motors",
+    "Wiring harness behind the dash",
+    "Rodent damage to wiring harness",
+    "Airbag grounding safety with aftermarket wiring",
+    "ID box (anti-theft/immobilizer harness) and bypass cautions",
+    "Engine harness vs dash harness routing in Toyotas",
+    "Cold-start erosion test for evaporator frost",
+    "High-side/low-side refrigerant pressures and vacuum behavior",
+    "Compressor clutch air-gap and shim adjustment",
+    "Compressor replacement and clutch inspection",
+    "Appending a second expansion valve vs first valve failure",
+    "Thermal dynamics: evaporator freezing progression",
+    "Repair-fallout and sleepless nights: shop ethics and customer communication",
+    "Day-by-day diagnostic workflow in an independent repair shop"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "title": "Problem statement and initial diagnostic goals",
+      "concepts": [
+        "AC trouble after long drives",
+        "evaporator freezing",
+        "intermittent symptom"
+      ],
+      "description": "The host introduces a 2019 4Runner with an AC problem that only appears after about three hours of continuous driving. Initial testing shows no clear faults, and the team explains the challenge of replicating the fault in a shop setting while outlining the planned approach to pull the dash and inspect the evaporator and expansion valve."
+    },
+    {
+      "start": "00:03:59",
+      "end": "00:04:46",
+      "title": "Dash access plan and expectations for 5th-gen 4Runner",
+      "concepts": [
+        "dash removal",
+        "evaporator access"
+      ],
+      "description": "The video shows the dash being opened, noting that the fifth-generation 4Runner has a compact, deceptively simple dash layout and that accessing the HVAC components is the first step toward diagnosing the problem."
+    },
+    {
+      "start": "00:04:47",
+      "end": "00:05:15",
+      "title": "Rodent damage observed in the dash harness",
+      "concepts": [
+        "rodent damage",
+        "harness inspection"
+      ],
+      "description": "The host points out rodent damage to the dash harness, which necessitates harness replacement as part of the diagnostic and repair plan."
+    },
+    {
+      "start": "00:05:48",
+      "end": "00:06:50",
+      "title": "Harness removal strategy and safety notes",
+      "concepts": [
+        "column removal",
+        "airbag ground caution"
+      ],
+      "description": "Discussion of removing the steering column and considerations for the dash harness route; warning about grounding aftermarket electronics to airbag components due to safety risk."
+    },
+    {
+      "start": "00:09:29",
+      "end": "00:10:04",
+      "title": "HVAC wiring layout and grounding cautions",
+      "concepts": [
+        "wiring harness routing",
+        "airbag ground risk"
+      ],
+      "description": "The host explains the layout of Toyota HVAC wiring, including junction blocks and the danger of grounding aftermarket devices to airbag-related points."
+    },
+    {
+      "start": "00:10:10",
+      "end": "00:12:13",
+      "title": "Cold-start driven diagnostics and evaporator frost pattern",
+      "concepts": [
+        "cold-start test",
+        "evaporator freeze progression",
+        "diagnostic signaling"
+      ],
+      "description": "Diagnosis reveals that the evaporator freezing and loss of airflow become evident when the car is started cold and driven for about 20-30 minutes, guiding the diagnostic direction toward the evaporator/valve assembly."
+    },
+    {
+      "start": "00:12:19",
+      "end": "00:13:56",
+      "title": "Expansion valve suspicion and plan for evaporator assembly replacement",
+      "concepts": [
+        "expansion valve",
+        "evaporator replacement",
+        "diagnostic plan"
+      ],
+      "description": "Despite the car not being very old, the team suspects the expansion valve as a potential cause and discusses replacing the evaporator and expansion valve as a plan of action."
+    },
+    {
+      "start": "00:23:37",
+      "end": "00:25:15",
+      "title": "Day 1 wrap and transition to Day 2; shop realities",
+      "concepts": [
+        "workday progression",
+        "workflow",
+        "filming after hours"
+      ],
+      "description": "The first day concludes with a reflection on the complexity of the task, followed by a transition to Day 2 as the team acknowledges shop realities and the postponement of filming until after hours."
+    },
+    {
+      "start": "00:32:54",
+      "end": "00:37:20",
+      "title": "Day 2: compressor clutch air-gap and wiring-ID box discovery",
+      "concepts": [
+        "compressor clutch",
+        "air-gap shim",
+        "ID box",
+        "harness complexity"
+      ],
+      "description": "On Day 2, new symptoms emerge (compressor acts with AC off). Investigation reveals issues with the clutch air-gap, a missing shim, and the presence of an ID box that could be bypassed—highlighting the complexity of the car’s wiring harness."
+    },
+    {
+      "start": "00:37:25",
+      "end": "00:39:32",
+      "title": "Final resolution, testing, and closing reflections",
+      "concepts": [
+        "valve replacement",
+        "clutch shim adjustment",
+        "final test drive",
+        "customer communication"
+      ],
+      "description": "The final portion documents the resolution after iterative testing, including valve-related fixes and clutch adjustments, followed by a positive test drive and reflections on integrity, customer service, and sleepless nights overcome by persistence."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Accessing evaporator/expansion valve by dash removal in a 5th-gen 4Runner",
+      "timestamp": "00:03:59",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Identifying rodent damage to dash harness and planning replacement",
+      "timestamp": "00:04:47",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cold-start drive testing to provoke evaporator freezing and gauge-based refrigerant observations",
+      "timestamp": "00:10:10",
+      "confidence": 0.9
+    },
+    {
+      "technique": "Compressor clutch air-gap inspection and shim adjustment",
+      "timestamp": "00:35:08",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Warning about aftermarket grounds near airbags and safe grounding practices",
+      "timestamp": "00:09:45",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Evaluating ID box vulnerability and implications for starting the car",
+      "timestamp": "00:21:15",
+      "confidence": 0.75
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:28:32.881036+00:00"
+}

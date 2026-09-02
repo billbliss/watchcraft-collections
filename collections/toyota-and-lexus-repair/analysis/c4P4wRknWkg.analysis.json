@@ -1,0 +1,179 @@
+{
+  "schema_version": 2,
+  "video": "c4P4wRknWkg.youtube",
+  "title": "Modern Toyota Hybrid Maintenance Is Simpler Than You Think",
+  "date": {
+    "display": "April 11, 2026",
+    "iso": "2026-04-11",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The Car Care Nut demystifies practical maintenance on a modern Toyota/Lexus hybrid and an older LS430, focusing on coolant systems and fluids as well as non-routine repairs. The host demonstrates coolant service for both engine and inverter, identifies a dual-radiator setup within a single unit, drains radiators and transmission fluid, and then moves to a weatherstrip repair on the LS430 along with a rear-hatch shock motor swap. Throughout, the video emphasizes real-shop troubleshooting, tool selection (including a wobble socket for tight-clearance drains), and the importance of bleeding procedures and maintenance mode when servicing hybrids. The host also notes design quirks and safety considerations around high-voltage systems, offering practical guidance rather than relying on specialized diagnostics alone.",
+  "topics": [
+    "Hybrid inverter coolant drain",
+    "Engine coolant drain",
+    "Two-radiator-in-one unit",
+    "Transmission fluid drain and fill (ATF WS)",
+    "Rear hatch shock/motor replacement",
+    "Door weatherstrip seal clips",
+    "Wobble socket for tight drain plug access",
+    "Vent behavior in hybrid transmissions",
+    "Maintenance mode for hybrids",
+    "High-voltage safety considerations",
+    "Bleeding and filling cooling system on hybrids"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "01:05:00",
+      "title": "Intro and plan",
+      "concepts": [
+        "two-car plan (UX250h hybrid and LS430)",
+        "fluids and shocks planned",
+        "brief overview of tasks"
+      ],
+      "description": "Host introduces the shop day, outlines planned maintenance on a newer UX250h along with the older LS430: coolant for inverter and engine, transmission and differential fluids, and rear door shocks, plus a minor LS430 seal task."
+    },
+    {
+      "start": "01:05:00",
+      "end": "02:24:00",
+      "title": "Hybrid platform and coolant identifiers",
+      "concepts": [
+        "M20A-FXS hybrid engine",
+        "inverter coolant",
+        "engine coolant",
+        "engine cover removal not required"
+      ],
+      "description": "Identification of the hybrid powertrain (M20A-FXS) and the coolant targets: inverter coolant and engine coolant, with note that removing the engine cover isn’t necessary for this work."
+    },
+    {
+      "start": "02:24:00",
+      "end": "03:11:00",
+      "title": "Dual-radiator design explained",
+      "concepts": [
+        "two radiators in one unit",
+        "engine radiator vs inverter radiator drains"
+      ],
+      "description": "Explanation that newer hybrids use a two-radiator setup within one unit, with separate drain paths for the engine and inverter circuits."
+    },
+    {
+      "start": "03:11:00",
+      "end": "05:50:00",
+      "title": "Initial drains and transmission work",
+      "concepts": [
+        "drain bottom radiator first",
+        "transmission drain and fill",
+        "drain/fill plug locations"
+      ],
+      "description": "Drain order begins with the lower radiator (less coolant), then proceeds to drain the transmission. The host notes the location of the drain and fill plugs and shares a quick anecdote about a prior GX470 service."
+    },
+    {
+      "start": "06:31:00",
+      "end": "12:11:00",
+      "title": "LS430 weatherstrip repair with new clips",
+      "concepts": [
+        "weatherstrip clip failures",
+        "seal alignment and testing",
+        "door lock verification"
+      ],
+      "description": "The LS430 door weatherstrip seal is missing clips but intact; the team tests door operation and installs new retention clips to re-seat the seal, ensuring proper alignment."
+    },
+    {
+      "start": "14:41:00",
+      "end": "17:26:00",
+      "title": "Transmission fill procedure and fluid type",
+      "concepts": [
+        "ATF WS",
+        "front and rear fill",
+        "overflow fill verification"
+      ],
+      "description": "Transmission is filled with Lexus ATF WS (dual sections) until overflow, with attention to front and rear fill and expected capacity ranges."
+    },
+    {
+      "start": "18:27:00",
+      "end": "20:05:00",
+      "title": "Hybrid vent behavior and differential vent",
+      "concepts": [
+        "vent pressure in hybrids",
+        "spring-loaded vent concept",
+        "leak prevention"
+      ],
+      "description": "Discussion of why hybrid transmissions use a spring-loaded vent rather than a continuously open vent, including a prior example of a leaking vent and its replacement."
+    },
+    {
+      "start": "24:10:00",
+      "end": "25:57:00",
+      "title": "Wobble socket fix for a tight drain plug",
+      "concepts": [
+        "tight-access drain plug",
+        "tool: wobble socket",
+        "engineering-design challenges"
+      ],
+      "description": "Demonstration of using a wobble socket to reach a stubborn drain plug in a tight space, illustrating why diverse tools are essential when engineers design for space constraints."
+    },
+    {
+      "start": "33:06:00",
+      "end": "35:29:00",
+      "title": "Inverter bleed and maintenance mode prep",
+      "concepts": [
+        "inverter coolant bleed",
+        "maintenance mode entry",
+        "bleeding sequence and steps"
+      ],
+      "description": "Bleed procedure for the inverter coolant, including cycling the ignition and engine to move coolant and air, and preparing the system for final bleed under maintenance mode."
+    },
+    {
+      "start": "43:58:00",
+      "end": "45:52:00",
+      "title": "Maintenance mode recap and safety reminders",
+      "concepts": [
+        "maintenance mode steps",
+        "high-voltage safety",
+        "short test-drive cautions"
+      ],
+      "description": "Recap of the hybrid maintenance mode steps, cautions about high-voltage safety, and final thoughts on performing diagnostic checks and safe run testing."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Hybrid coolant bleed procedure (engine and inverter) with staged fills",
+      "timestamp": "33:06",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Wobble socket method to access a tight drain plug",
+      "timestamp": "24:10",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Door weatherstrip seal clip replacement and re-seating",
+      "timestamp": "08:36",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Rear hatch motor/shock replacement and functional testing",
+      "timestamp": "35:29",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Vent and differential vent behavior explanation for hybrids",
+      "timestamp": "18:27",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Hybrid maintenance mode activation steps",
+      "timestamp": "44:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Inverter vent leak diagnosis and replacement reminder",
+      "timestamp": "19:39",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:27:39.842967+00:00"
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "video": "Q3aK-Wzp07g.youtube",
+  "title": "Inside Toyota's Hybrid Inverter-Converter Assembly: MGECU, IPM, and High-Voltage Powertrain",
+  "date": {
+    "display": "July 25, 2026",
+    "iso": "2026-07-25",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Under the hood, driver's side of the engine bay (explicitly mentioned; Prius 3rd generation)",
+      "confidence": 0.6,
+      "basis": "Transcript line: 'under the hood on the driver's side of the engine bay you will have one of these' and reference to a 'third generation Prius'."
+    }
+  ],
+  "summary": "This video provides a meticulous, hands-on exploration of Toyota’s inverter-converter assembly—the 'brain' of the hybrid system. The host identifies key components (MG ECU, Intelligent Power Modules, DC-DC converter, boost converter), explains how high-voltage DC from the battery is turned into three-phase AC for MG1 and MG2, and covers cooling, thermal management, and sensor networks. The segment includes a close look at a failed IPM, discussion of safety features, and practical repair considerations, including cost and labor implications of replacing versus repairing the inverter. Historical context is provided by comparing to early Prius designs, highlighting how hybrid power electronics have evolved over time.",
+  "topics": [
+    "Toyota hybrid system overview",
+    "Inverter with converter assembly",
+    "MG ECU (MGECU)",
+    "Intelligent Power Module (IPM)",
+    "DC-DC converter (high voltage to 12V)",
+    "Boost converter (up to 650V)",
+    "Three-phase AC motors MG1 and MG2",
+    "Current sensors (three-phase)",
+    "Temperature sensors (IPM and other locations)",
+    "Atmospheric pressure sensor in circuit board",
+    "MG1 charging MG2 and starting engine",
+    "AC versus DC power and three-phase wiring",
+    "Regeneration charging during braking",
+    "IGBTs and switching in IPM",
+    "Thermal paste and cooling (IPM cooling)",
+    "IPM serviceability and replacement considerations",
+    "Common IPM failure modes and heat damage",
+    "Safety features: mega-ohm insulation checks",
+    "High-voltage wiring safety (orange wires)",
+    "Case-sealing, tools, and torque considerations",
+    "Labor and cost economics of inverter repair vs replacement",
+    "First-gen Prius inverter similarities",
+    "Capacitors and energy storage in the boost circuit",
+    "System diagnostics and Toyota trouble codes"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:57",
+      "title": "Intro",
+      "concepts": [
+        "Inverter with converter assembly",
+        "MG ECU (MGECU)",
+        "IPM (Intelligent Power Module)",
+        "DC-DC converter",
+        "Boost converter",
+        "MG1 and MG2 motors"
+      ],
+      "description": "Introduction to Toyota’s inverter-converter as the system ‘brain.’ The presenter names the MGECU, IPM, DC-DC converter, and boost converter, and sets up the discussion of how high-voltage, three-phase power is managed for MG1 and MG2."
+    },
+    {
+      "start": "00:00:57",
+      "end": "00:02:38",
+      "title": "Component Overview",
+      "concepts": [
+        "Inverter with converter assembly",
+        "MG ECU (MGECU)",
+        "IPM (Intelligent Power Module)",
+        "DC-DC converter",
+        "Boost converter",
+        "MG1 and MG2 motors"
+      ],
+      "description": "Introduction to Toyota’s inverter-converter as the system ‘brain.’ The presenter names the MGECU, IPM, DC-DC converter, and boost converter, and sets up the discussion of how high-voltage, three-phase power is managed for MG1 and MG2."
+    },
+    {
+      "start": "00:02:38",
+      "end": "00:29:17",
+      "title": "A look inside at the Toyota Hybrid Magic",
+      "concepts": [
+        "Inverter with converter assembly",
+        "MG ECU (MGECU)",
+        "IPM (Intelligent Power Module)",
+        "DC-DC converter",
+        "Boost converter",
+        "MG1 and MG2 motors"
+      ],
+      "description": "Introduction to Toyota’s inverter-converter as the system ‘brain.’ The presenter names the MGECU, IPM, DC-DC converter, and boost converter, and sets up the discussion of how high-voltage, three-phase power is managed for MG1 and MG2."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Live inspection of a failed IPM shows burnt IGBTs and degraded thermal paste, illustrating heat damage and cooling failure.",
+      "timestamp": "00:10:07",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Demonstration of DC-DC and boost converter operation, including the coil energization and capacitor energy storage to reach ~650V.",
+      "timestamp": "00:13:22",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Discussion of safety features and insulation testing (mega-ohm meter), including high-voltage wiring insulation containment.",
+      "timestamp": "00:24:17",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Case opening with a specialized tool and emphasis on precise torque, sealing, and thermal interface materials for rebuilds.",
+      "timestamp": "00:22:05",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:32:27.653762+00:00",
+  "timeline_source": "youtube-publisher-chapters"
+}

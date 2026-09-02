@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "video": "N7sS3qKU8jc.youtube",
+  "title": "LS400 Parts Cannon: Misdiagnosis and Root-Cause Fix",
+  "date": {
+    "display": "March 18, 2026",
+    "iso": "2026-03-18",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Illinois (car origin)",
+      "confidence": 0.75,
+      "basis": "Transcript states the car was originally bought from Illinois"
+    },
+    {
+      "name": "Georgia (owner residence)",
+      "confidence": 0.75,
+      "basis": "Transcript states the current owner lives in Georgia"
+    }
+  ],
+  "summary": "The Car Care Nut video recounts a pristine Lexus LS400 that suffered severe vibration and shake when accelerating, which was repeatedly worsened by a string of aftermarket parts and misdiagnoses. The host traces the problem back to original engine and transmission mounts, which were replaced with aftermarket units, and demonstrates how this cascade led to drive shaft and rear-end modifications that failed to solve the root cause. Through hands-on diagnosis, swapping in a known-good driveshaft, and comparing parts, the video illustrates a methodical backtracking approach to root-cause analysis, the challenges of sourcing original LS400 parts, and a call for using factory parts (where appropriate) to preserve the car’s integrity. It also highlights broader issues in independent shops’ part sourcing and emphasizes the importance of preserving LS400-era components via heritage-part programs.",
+  "topics": [
+    "LS400 engine mounts",
+    "LS400 transmission mounts",
+    "aftermarket mounts vs factory parts",
+    "driveshaft balance and length",
+    "driveshaft sleeves orientation",
+    "flex disk replacement",
+    "rear differential and axle integrity",
+    "tires and wheels as diagnostic controls",
+    "original vs aftermarket parts impact on LS400",
+    "GR Heritage parts program (heritage sourcing)",
+    "root-cause diagnostic backtracking",
+    "used driveshaft procurement and verification",
+    "part availability challenges for older Lexus LS models"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:56",
+      "title": "Parts cannon introduction",
+      "concepts": [
+        "definition of parts cannon",
+        "risk of throwing parts at a problem"
+      ],
+      "description": "Defines 'parts cannon' as the practice of replacing parts hoping to fix the root cause, and frames the video as a cautionary tale about how this approach can make problems worse."
+    },
+    {
+      "start": "00:00:56",
+      "end": "00:02:04",
+      "title": "Car background and symptoms",
+      "concepts": [
+        "car origin (Illinois), current owner in Georgia",
+        "65,000 miles",
+        "vibration on acceleration"
+      ],
+      "description": "Introduces the LS400 originally bought from Illinois, now in Georgia, with a vibration that shakes under acceleration and smooths when coasting, setting up the investigation."
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:04:32",
+      "title": "Early misdiagnosis and aftermarket interventions",
+      "concepts": [
+        "aftermarket parts experiments",
+        "drive shaft replacement",
+        "initial misdiagnosis of engine/transmission mounts"
+      ],
+      "description": "Describes the progression of hires at local shops that pursued a parts-cannon approach, replacing mounts and a drive shaft with aftermarket parts, which worsened the condition."
+    },
+    {
+      "start": "00:07:39",
+      "end": "00:11:19",
+      "title": "Root-cause discovery: factory mounts and diagnostic testing",
+      "concepts": [
+        "identifying factory engine and transmission mounts",
+        "replace with original parts",
+        "test with known-good driveshaft"
+      ],
+      "description": "Reveals that the correct solution began with recognizing the car’s original factory mounts, replacing them, and testing with a known-good driveshaft to verify the root cause and result."
+    },
+    {
+      "start": "00:11:20",
+      "end": "00:15:12",
+      "title": "Parts sourcing challenges and heritage options",
+      "concepts": [
+        "difficulty locating original LS400 driveshafts",
+        "using a donor driveshaft for testing",
+        "GR Heritage/heritage-part advocacy"
+      ],
+      "description": "Details the difficulties obtaining the correct parts, the plan to source a used, properly balanced driveshaft, and the appeal for heritage-part programs to preserve these cars."
+    },
+    {
+      "start": "00:15:12",
+      "end": "00:22:18",
+      "title": "Wrap-up, guidance, and call to action",
+      "concepts": [
+        "engine mounts as the known fix",
+        "avoid aftermarket parts on LS400/GS/IS",
+        "importance of original parts and careful sourcing"
+      ],
+      "description": "Concludes with reflections on the LS400’s build quality, reiterates the importance of proper parts selection (prefer original mounts in many cases), and encourages viewers to engage in responsible sourcing to keep these cars on the road."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Install factory engine and transmission mounts on LS400",
+      "timestamp": "00:07:39",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Diagnose vibration by swapping in a known-good driveshaft for verification",
+      "timestamp": "00:09:34",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Identify incorrect sleeve orientation in driveshaft assembly and correct it",
+      "timestamp": "00:08:28",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Rule out tires and wheels by swapping to test for root-cause",
+      "timestamp": "00:07:59",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Use heritage/original parts advocacy to mitigate future failures (GR Heritage)",
+      "timestamp": "00:19:21",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Backtrack diagnosis from symptom escalation to root cause",
+      "timestamp": "00:10:43",
+      "confidence": 0.7
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:30:05.840322+00:00"
+}

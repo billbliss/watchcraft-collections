@@ -1,0 +1,148 @@
+{
+  "schema_version": 2,
+  "video": "SrlgQwZXmeU.youtube",
+  "title": "Diagnosis and Troubleshooting of Toyota/Lexus Parking Sensor ICS Wiring and Calibration",
+  "date": {
+    "display": "September 10, 2025",
+    "iso": "2025-09-10",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The Car Care Nut’s video explains Toyota and Lexus Intelligent Clearance Sensors (ICS) parking systems, focusing on how these sensors are wired in a daisy-chained network and how to diagnose faults without blindly replacing components. The host details front/rear sensor separation, six-pin sensor design, and the three-wire-per-end architecture (ground plus two communications). He demonstrates practical diagnostic steps: testing continuity from the harness to individual sensors, recognizing that a single faulty sensor can disrupt the entire network, and the importance of using a known-good sensor to isolate failures. The video also covers calibration via bi-directional scan tools, interpretation of common codes such as C1AED, harness fragility near the exhaust, and pragmatic advice to consider replacing the harness when diagnosing. The overall emphasis is understanding how the ICS network operates before diagnosing to avoid misleading conclusions and extended diagnostics.",
+  "topics": [
+    "Intelligent Clearance Sensors (ICS)",
+    "Toyota/Lexus parking sensor systems",
+    "Daisy-chain wiring",
+    "Six-pin front/rear parking sensors",
+    "Ground and communication wiring",
+    "Sensor calibration and initialization",
+    "Front vs rear sensor separation",
+    "C1AED diagnostic code",
+    "Harness testing and replacement",
+    "Known-good sensor testing",
+    "Bi-directional scan tool calibrations",
+    "Calibration angles vs bumper programming",
+    "Wiring harness fragility near exhaust"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:59",
+      "title": "ICS basics and system differences",
+      "concepts": [
+        "Intelligent Clearance Sensors (ICS) concept",
+        "Difference between ICS and older parking sensors",
+        "Front and rear sensor operation and escalation to brake intervention"
+      ],
+      "description": "Introduction to how modern ICS parking sensors work in Toyota/Lexus, noting the shift from simple beeps to collision-preventing responses and the presence of sensors around the vehicle."
+    },
+    {
+      "start": "00:01:59",
+      "end": "00:06:39",
+      "title": "Wiring topology and sensor layout",
+      "concepts": [
+        "sensor placement",
+        "three wires exit for front and rear",
+        "ground and two communication wires",
+        "daisy-chain wiring",
+        "six-pin sensors"
+      ],
+      "description": "Explanation of the wiring harness in a typical Toyota/Lexus ICS setup, emphasizing that many cars use a consistent harness and that sensors are effectively the same device despite their location."
+    },
+    {
+      "start": "00:06:39",
+      "end": "00:12:18",
+      "title": "Diagnosis approach and common failure modes",
+      "concepts": [
+        "fragile harness near exhaust",
+        "common break points in the daisy-chain",
+        "incorrect diagnostic approach (avoid end-to-end checks)",
+        "sensor and wire failures disrupt communication"
+      ],
+      "description": "Discussion of why a faulty sensor can break the network and the pitfalls of diagnosing from sensor to sensor. Emphasis on inspecting the harness and understanding that a single bad sensor can affect the entire circuit."
+    },
+    {
+      "start": "00:12:18",
+      "end": "00:15:58",
+      "title": "Calibration and initialization concept",
+      "concepts": [
+        "calibration vs angle settings",
+        "bumper type and car programming",
+        "bi-directional scan tool calibrations",
+        "front vs rear calibration separation"
+      ],
+      "description": "Details on what calibration means for the ICS system, including why bumper type and vehicle programming matter, and how calibration is performed using a scan tool to initialize the sensors."
+    },
+    {
+      "start": "00:15:58",
+      "end": "00:19:20",
+      "title": "Code interpretation and sensor swap pitfalls",
+      "concepts": [
+        "C1AED diagnostic code",
+        "open/short vs initialization incomplete",
+        "sensor swapping effects on codes",
+        "driving diagnosis toward wiring issues"
+      ],
+      "description": "Exploration of the C1AED code and how sensor swaps can change codes, potentially misleading technicians into chasing a bad sensor instead of a wiring fault. Emphasis on re-checking wiring when codes change with swaps."
+    },
+    {
+      "start": "00:19:20",
+      "end": "00:21:40",
+      "title": "Practical repair workflow and reliability tips",
+      "concepts": [
+        "harness fragility near exhaust",
+        "replacement cost of harness (~$70)",
+        "testing with a known-good sensor",
+        "stepwise isolation to identify the failing component"
+      ],
+      "description": "Practical guidance for repair sequencing, including harness replacement rationale, using jumper testing to isolate issues, and the process of swapping in a known-good sensor to confirm the fault."
+    },
+    {
+      "start": "00:21:40",
+      "end": "00:22:03",
+      "title": "Closing tips and perspective",
+      "concepts": [
+        "importance of understanding system operation",
+        "time and resources in diagnosis"
+      ],
+      "description": "Final reminders to understand how the ICS network operates before diagnosing and to consider the real-world time and cost implications of diagnosis."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Visual mapping of the ICS sensor daisy-chain wiring and six-pin sensors",
+      "timestamp": "00:02:00",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Avoiding end-to-end wiring checks; diagnose via sectional continuity within the harness",
+      "timestamp": "00:07:24",
+      "confidence": 0.65
+    },
+    {
+      "technique": "Calibration via bi-directional scan tool with bumper and car selection",
+      "timestamp": "00:14:42",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Sensor swap testing to identify a faulty unit while monitoring changing codes",
+      "timestamp": "00:12:01",
+      "confidence": 0.7
+    },
+    {
+      "technique": "Harness replacement as a proactive step due to fragility and cost",
+      "timestamp": "00:18:49",
+      "confidence": 0.6
+    },
+    {
+      "technique": "Interpreting C1AED as a common fault trap and its diagnostic implications",
+      "timestamp": "00:15:49",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:34:31.869429+00:00"
+}

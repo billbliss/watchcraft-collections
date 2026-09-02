@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "video": "orOxocBqUN0.youtube",
+  "title": "Toyota Sienna Fuel Pump Replacement and Lean-Code Diagnosis (2GR-FE, SC430 wheels trivia)",
+  "date": {
+    "display": "May 23, 2026",
+    "iso": "2026-05-23",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This tutorial-style repair video follows a Toyota Sienna with suspected fuel-pump failure and lean-condition codes. The presenter documents an in-depth diagnostic sequence: confirming symptoms, measuring fuel pressure, and locating an accessible test point; performing a rear-tank fuel-pump replacement (tank drop, disconnecting lines, removing an exhaust-shield debate for strap clearance, and using a transmission jack as a makeshift pump-tank support); installing a complete pump module with new seal, lock ring, and gasket; and validating the repair with post-install pressure tests and fuel-trim re-learn. The video also covers interpretation of lean codes (PO171/PO174) using bank identification for the 2GR-FE engine, explains fuel-trim behavior (long vs short trims), and emphasizes driving to let the ECU relearn. A moment of vehicle-specific trivia—the Sienna with SC430 wheels—appears toward the end. The presenter notes the car has very high mileage (almost 300k miles) and highlights safety considerations when working with fuel systems, plus recall context and parts-packaging realities that influence whether only a pump or a full module is supplied.",
+  "topics": [
+    "Toyota Sienna",
+    "2GR-FE engine",
+    "SC430 wheels trivia",
+    "lean codes PO171/PO174",
+    "Bank identification for 2GR-FE",
+    "fuel pump recall",
+    "fuel pressure testing",
+    "fuel pressure normal range (50-60 psi)",
+    "fuel pressure testing on a feed line",
+    "fuel pressure reading when running (≈25 psi observed)",
+    "fuel pressure drop after shutoff (~20-21 psi)",
+    "fuel tank removal",
+    "rear fuel pump replacement",
+    "fuel line disconnect and line plugs",
+    "gasket, lock ring, and seal replacement",
+    "fuel pump module vs pump-only replacement",
+    "accessory tools: transmission jack used for tank support",
+    "exhaust shield considerations for strap clearance",
+    "safety: fire extinguisher near fuel work",
+    "line fittings and lubricant use (silicone spray cautions)",
+    "clip and connector handling (yellow clip, main fuel line clip)",
+    "fuel pump wiring and electrical connector in tank",
+    "freeze-frame data analysis",
+    "fuel-trim (long vs short) behavior",
+    "bank 1 vs bank 2 orientation for 2GR-FE",
+    "pre-repair and post-repair diagnostic steps",
+    "test-drive and ECU relearn requirement"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:31",
+      "title": "Symptoms, initial diagnosis, and plan",
+      "concepts": [
+        "lean codes",
+        "fuel pressure basics",
+        "suspected fuel-pump failure",
+        "Sienna context (high mileage)"
+      ],
+      "description": "Opening around symptoms (bogging, lean codes) and plan to verify fuel pressure, then inspect the fuel-system components before proceeding to tank service."
+    },
+    {
+      "start": "00:04:31",
+      "end": "00:12:40",
+      "title": "Accessing fuel pressure and setup for measurement",
+      "concepts": [
+        "accessible fuel-line test point",
+        "installing fuel pressure gauge",
+        "T-fitting and hose connections",
+        "potential fittings resistance and lubrication steps"
+      ],
+      "description": "The host demonstrates locating a practical fuel-line access point, removing a cover, and hooking up a pressure gauge with a T-fitting. He documents a gauge setup and notes potential spray and seal considerations during connection."
+    },
+    {
+      "start": "00:12:40",
+      "end": "00:25:36",
+      "title": "Fuel-tank drop and pump replacement procedure",
+      "concepts": [
+        "dropping the fuel tank",
+        "fuel-tank straps and exhaust-shield considerations",
+        "disconnecting hoses and lines",
+        "replacing pump, seal, and lock ring",
+        "gasoline-safety practices and line plugs",
+        "tooling for fuel-pump removal"
+      ],
+      "description": "Step-by-step tank drop, line disconnections, and the removal of the old pump. The host covers safety reminders, stripper clips, and the use of specialized tools, including a tool designed for the recall-era pump deletes and a transmission jack repurposed as a tank-support aid."
+    },
+    {
+      "start": "00:25:36",
+      "end": "00:33:54",
+      "title": "Pump installation, reassembly, and initial test",
+      "concepts": [
+        "new pump module installation",
+        "ring, gasket, and lock ring replacement",
+        "fuel line reattachment and pressure-test hookup",
+        "initial fuel-pressure verification (60 psi on startup)"
+      ],
+      "description": "After installing the new fuel-pump module, the tank is reassembled and the system is tested. The host shows the pump delivering about 60 psi on startup and notes that the pressure holds after start, validating the repair before moving to diagnostics."
+    },
+    {
+      "start": "00:33:54",
+      "end": "00:34:10",
+      "title": "Diagnostics wrap-up and vehicle trivia",
+      "concepts": [
+        "PO171/PO174 codes",
+        "bank identification (2GR-FE bank 1 vs bank 2)",
+        "freeze-frame data interpretation",
+        "fuel-trim behavior and ECU relearn guidance",
+        "uniqueness: SC430-wheeled Sienna"
+      ],
+      "description": "The video closes with an explanation of the lean codes in terms of engine banks, how to read freeze-frame and live data (fuel trims), and the importance of a long test drive for the ECU to relearn. A final aside notes the car's unusual SC430 wheels configuration and an emblematic high-mileage scenario."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Fuel pressure testing on the fuel rail feed using a T-fitting and inline gauge",
+      "timestamp": "00:02:09",
+      "confidence": 0.86
+    },
+    {
+      "technique": "Safe access and disconnection of fuel-line hardware with a temporary line plug",
+      "timestamp": "00:06:11",
+      "confidence": 0.82
+    },
+    {
+      "technique": "Dropping the fuel tank and using a transmission jack for support when removing/installing the tank",
+      "timestamp": "00:09:41",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Replacing the entire fuel-pump module (including sender, gasket, lock ring) rather than pump-only due to recall-era packaging",
+      "timestamp": "00:16:58",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Using freeze-frame data and fuel-trim interpretation to diagnose lean condition and post-repair relearn",
+      "timestamp": "00:28:12",
+      "confidence": 0.84
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:31:28.874730+00:00"
+}

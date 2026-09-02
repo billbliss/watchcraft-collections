@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "video": "v8xG-E1ZMGU.youtube",
+  "title": "2GR-FE ES350 Diagnostic Odyssey: Counterfeit Parts, Calculated Load, and a Blocked Catalytic Converter",
+  "date": {
+    "display": "May 20, 2026",
+    "iso": "2026-05-20",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This video chronicles a diagnostic odyssey on a 2013 Lexus ES350 (2GR-FE) with about 150,000 miles, where the team confronts a stubborn power-loss symptom that appears after a transmission replacement. Despite swapping counterfeit ignition coils, a counterfeit throttle body, and even the engine computer, and performing tests from fuel pressure to vacuum, the car gives no codes and misfires intermittently. After exhausting numerous hypotheses and even scheduling “timeouts,” the investigators discover a pivotal clue in the calculated load data, then compare with a similar Toyota Camry to identify a blocked catalytic converter as the root cause. A bottom-inspection reveals the honeycomb is partially collapsed, confirming the blockage. The video also discusses the impracticality of complete exhaust replacement and the owner’s decision not to fix the car, but emphasizes a key diagnostic takeaway: relying on calculated load and bottom-side catalytic converter inspection can be essential when vacuum and backpressure tests are inconclusive on modern Toyota engines.",
+  "topics": [
+    "2GR-FE engine",
+    "Lexus ES350 (2013)",
+    "power loss on acceleration",
+    "transmission replacement history",
+    "counterfeit ignition coils",
+    "counterfeit throttle body",
+    "engine computer replacement",
+    "mass airflow sensor testing",
+    "fuel pressure check",
+    "vacuum and brake booster testing",
+    "stall test",
+    "calculated load diagnostic concept",
+    "exhaust backpressure",
+    "toilet-paper look: catalytic converter blockage",
+    "visual inspection of catalytic converters (bottom view)",
+    "Camry data comparison (PO420) as diagnostic aid",
+    "exhaust system corrosion and replacement cost",
+    "diagnostic patience and timeouts"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "02:12:00",
+      "title": "Problem framing and vehicle history",
+      "concepts": [
+        "sharing the problem",
+        "vehicle background (2013 ES350, ~150k miles)",
+        "symptom description: power drop with heavy throttle after startup",
+        "previous shop actions: transmission replacement"
+      ],
+      "description": "Introductory segment describes the vehicle, its history, and the stubborn symptom set that prompted the diagnostic effort, including the initial belief that the transmission may have contributed to the issue."
+    },
+    {
+      "start": "02:12:00",
+      "end": "07:50:00",
+      "title": "Initial diagnostics and part substitutions",
+      "concepts": [
+        "basic checks: fuel pressure ok, no codes",
+        "suspected ignition and fueling components",
+        "replaced parts: spark plugs, ignition coils (counterfeit), throttle body (counterfeit), engine computer, mass airflow sensor",
+        "no codes despite extensive part changes",
+        "return to diagnostic uncertainty"
+      ],
+      "description": "The team documents a sequence of tests and part swaps driven by suspicion of multiple faulty components, including counterfeit parts, yet the problem persists without diagnostic codes."
+    },
+    {
+      "start": "07:50:00",
+      "end": "14:23:00",
+      "title": "Data-driven exploration and the catalytic-converter hypothesis",
+      "concepts": [
+        "stall test and vacuum observations",
+        "calculated load concept introduced",
+        "comparison of warmed idle vs. drive-load behavior",
+        "attempted cross-checks with other known-good components",
+        "beginning of cross-model reasoning (Camry) for comparison"
+      ],
+      "description": "The team emphasizes a key, data-driven insight: understanding calculated engine load and how the engine responds to load as a diagnostic signal. They begin cross-model comparisons to identify patterns that do not align with nominal sensor data."
+    },
+    {
+      "start": "14:23:00",
+      "end": "23:16:00",
+      "title": "Catalytic-converter blockage confirmed and diagnostic takeaway",
+      "concepts": [
+        "visual inspection of catalytic converters (bottom view) reveals blockage",
+        "comparison with Camry’s catalytic converter behavior and a PO420 code",
+        "exhaust-system considerations and replacement costs",
+        "owner decision not to repair due to cost and vehicle condition",
+        "final diagnostic takeaway: calculated load can indicate a clogged catalytic converter when typical vacuum/backpressure signs are inconclusive"
+      ],
+      "description": "The discovery of a blocked catalytic converter, supported by bottom-inspection evidence and cross-model comparison, provides the final diagnosis. The video concludes with reflections on the time invested, the owner's choices, and a practical diagnostic lesson emphasizing calculated load as a valuable tool when conventional tests fail."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Calculated load-based diagnostics for Toyota 2GR-FE engines (diagnostic signal interpretation)",
+      "timestamp": "00:06:27",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Cross-model data comparison to validate symptoms (comparing ES350 with Camry data)",
+      "timestamp": "00:12:20",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Bottom-side visual inspection of catalytic converters to detect internal blockage",
+      "timestamp": "00:13:31",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Stall test and vacuum assessment to evaluate torque converter and booster function",
+      "timestamp": "00:08:22",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:35:23.681772+00:00"
+}

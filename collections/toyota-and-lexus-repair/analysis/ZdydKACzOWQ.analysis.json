@@ -1,0 +1,136 @@
+{
+  "schema_version": 2,
+  "video": "ZdydKACzOWQ.youtube",
+  "title": "The 1988 Toyota Supra 7M-GE: A Three-Year Engine Saga",
+  "date": {
+    "display": "March 7, 2026",
+    "iso": "2026-03-07",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "This videos charts a dramatic, multi‑year repair saga of a 1988 Toyota Supra with the notoriously fragile 7M-GE engine. The shop narrates a relentless sequence of hurdles—from seized brakes and a misfiring engine to a crushed cylinder block and a failed machine-shop partnership—culminating in a donor‑engine salvage plan and a painstaking in‑house rebuild. Interwoven with a shift in momentum, the story culminates in a completed car, a relieved owner, and a heartfelt tribute to a skilled machinist who helped along the way, illustrating resilience and problem‑solving under pressure in a specialization-focused shop setting.",
+  "topics": [
+    "1988 Toyota Supra",
+    "7M-GE engine",
+    "head gasket failure",
+    "cylinder bore damage",
+    "engine block inspection",
+    "boroscope diagnostic",
+    "front cover machining error",
+    "machine shop coordination",
+    "donor engine strategy",
+    "1987 Supra donor",
+    "in-house engine teardown",
+    "oil leaks and rear main seal",
+    "coolant leaks",
+    "brake master cylinder failure",
+    "test drive challenges",
+    "perseverance in a repair shop",
+    "tribute to John (machinist)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:13",
+      "title": "Intro and initial diagnosis",
+      "concepts": [
+        "long repair timeline",
+        "1988 Supra with 7M-GE",
+        "head gasket repair planned",
+        "three+ years in the shop"
+      ],
+      "description": "The video opens with the car described as the most challenging the shop has faced, having sat for over three years and presenting a misfiring engine and seized brakes. The host frames the project as a test of perseverance and sets up the narrative arc toward completion."
+    },
+    {
+      "start": "00:04:13",
+      "end": "00:07:41",
+      "title": "Disassembly reveals cylinder and block issues",
+      "concepts": [
+        "cylinder bore inspection with boroscope",
+        "gouged cylinders and damaged block",
+        "questionable repair viability"
+      ],
+      "description": "After removing the cylinder head, boroscope inspection exposes severe cylinder damage and a compromised block, raising serious questions about whether the engine can be saved or must be replaced."
+    },
+    {
+      "start": "00:07:41",
+      "end": "00:12:30",
+      "title": "Machine-shop hurdles and salvage planning",
+      "concepts": [
+        "7M-GE block repair challenges",
+        "machine-shop reluctance and warranty concerns",
+        "search for a viable build shop and alternatives"
+      ],
+      "description": "The team discovers that sourcing and repairing a 7MGE block is difficult and risky, with many shops unwilling to warranty work. This section documents the decision context and the search for a salvage path, foreshadowing donor-engine considerations."
+    },
+    {
+      "start": "00:12:31",
+      "end": "00:21:55",
+      "title": "Donor-engine planning and in-house salvage effort",
+      "concepts": [
+        "front-cover machining error discovered later",
+        "exploration of donor options and 2JZ considerations",
+        "in-house teardown and rebuild approach"
+      ],
+      "description": "With limited confidence in restoring the original 7MGE, the shop debates donor-engine routes, notes the machining mismatch that caused a rework, and outlines the plan to salvage via an in-house teardown and a donor engine strategy."
+    },
+    {
+      "start": "00:21:55",
+      "end": "00:24:36",
+      "title": "Resolution, test drive, and emotional closure",
+      "concepts": [
+        "final adjustments and test drive",
+        "owner reaction and pride",
+        "tribute to machinist John"
+      ],
+      "description": "Despite numerous setbacks, the car reaches a functional state and undergoes a test drive. The owner's emotional response and a tribute to the late machinist John underscore the project’s human and educational weight—perseverance, problem‑solving, and craftsmanship in practice."
+    },
+    {
+      "start": "00:24:36",
+      "end": "00:25:02",
+      "title": "Closing reflections",
+      "concepts": [
+        "perseverance",
+        "value of craft in business"
+      ],
+      "description": "The host closes with a reflection on perseverance and pride in craft, emphasizing that problem‑solving and resilience are central to any skilled trade."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Boroscope inspection to assess cylinder condition",
+      "timestamp": "00:04:20",
+      "confidence": 0.75
+    },
+    {
+      "technique": "Head gasket planning for 7M-GE era",
+      "timestamp": "00:00:00",
+      "confidence": 0.4
+    },
+    {
+      "technique": "In-house engine teardown and salvage planning",
+      "timestamp": "00:19:22",
+      "confidence": 0.45
+    },
+    {
+      "technique": "Donor-engine strategy and viability assessment",
+      "timestamp": "00:14:20",
+      "confidence": 0.55
+    },
+    {
+      "technique": "Front cover machining review and rework",
+      "timestamp": "00:08:19",
+      "confidence": 0.5
+    },
+    {
+      "technique": "Braking system diagnostics during testing (master cylinder focus)",
+      "timestamp": "00:21:40",
+      "confidence": 0.6
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:36:34.330157+00:00"
+}

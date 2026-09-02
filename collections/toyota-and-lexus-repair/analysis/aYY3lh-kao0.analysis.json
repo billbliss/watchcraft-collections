@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "video": "aYY3lh-kao0.youtube",
+  "title": "HVAC Actuator Rescue on a 2013 Lexus RX350: Dual-Servo, One-Unit Design, and the Perils of DIY Repair",
+  "date": {
+    "display": "August 16, 2025",
+    "iso": "2025-08-16",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [],
+  "summary": "The video documents a repair attempt on a 2013 Lexus RX350’s climate-control system that centers on a single, integrated actuator unit containing two servo motors (one for mode/air distribution and one for temperature). The host explains how this design can complicate DIY fixes, especially when the previous repair involves cutting plastic and attempting to bypass proper assembly. Across the teardown, the discussion shifts to the broader design philosophy between automotive engineers and mechanics, the difficulty of aligning multiple tiny arms, the challenge of accessing the HVAC box behind the dash, and the risks of damaging the HVAC box or wiring harnesses. A donor car is used to help set the actuator in the correct position, followed by testing with a known-good unit. The host emphasizes meticulous organization (bolts and harnesses), adherence to the repair manual, and a caution against DIYing complex interior repairs or cutting corners, ending with a recap of lessons learned and practical guidance for viewers.",
+  "topics": [
+    "2013 Lexus RX350",
+    "dual climate control",
+    "HVAC system",
+    "actuator",
+    "servo motor",
+    "mode door",
+    "temperature door",
+    "blow er housing",
+    "defrost door",
+    "footwell door",
+    "center console removal",
+    "dash removal",
+    "blower housing removal",
+    "HVAC box",
+    "AC amplifier",
+    "wire harness routing",
+    "color-coded wires (blue/red/black)",
+    "donor car method",
+    "repair manual guidance",
+    "arm/pin alignment",
+    "security box",
+    "electrical connectors",
+    "clock spring / spiral cable",
+    "engineering vs mechanics in car design",
+    "bolts inventory / bolt counting",
+    "testing strategy (bench vs in-car)"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:50",
+      "title": "Intro and system context",
+      "concepts": [
+        "2013 Lexus RX350",
+        "rescue scenario",
+        "the car’s HVAC context is introduced"
+      ],
+      "description": "The host introduces the project as a rescue job on a Lexus RX350, frames it as a repair gone wrong, and begins framing the HVAC system and its actuator components that will be examined."
+    },
+    {
+      "start": "00:04:50",
+      "end": "01:12:50",
+      "title": "Actuator design and the one-unit complication",
+      "concepts": [
+        "dual servo motors (mode and temperature)",
+        "one-unit actuator housing",
+        "typical Toyota design vs RX350 design"
+      ],
+      "description": "Explanation of the two servo motors governing air distribution and temperature, and the key point that these are integrated in a single unit on the RX’s passenger side, complicating replacement compared with some other Toyotas."
+    },
+    {
+      "start": "01:12:50",
+      "end": "02:52:50",
+      "title": "DIY shortcut cautions and risk of damage",
+      "concepts": [
+        "cutting plastic as a misguided shortcut",
+        "potential HVAC box damage",
+        "financial and repair implications"
+      ],
+      "description": "The video discusses a failed DIY attempt to bypass proper replacement, emphasizing the risk of damaging the HVAC box and the high cost of fixes if the wrong approach is taken."
+    },
+    {
+      "start": "02:52:50",
+      "end": "03:53:50",
+      "title": "Interior teardown and access challenges",
+      "concepts": [
+        "dash removal",
+        "blower housing access",
+        "center console gaps and fit issues"
+      ],
+      "description": "The host describes the extensive interior teardown required to access the HVAC components, noting fit issues and a gap in the center console that hint at prior damage or improper reassembly."
+    },
+    {
+      "start": "03:53:50",
+      "end": "06:10:00",
+      "title": "Engineering vs mechanics: design philosophy",
+      "concepts": [
+        "engineer vs mechanic roles",
+        "production-focused design",
+        "component-level vs system-level challenges"
+      ],
+      "description": "A broader discussion about how engineers design for production and how that can clash with repair realities, using the RX350 HVAC assembly as a case study."
+    },
+    {
+      "start": "06:10:00",
+      "end": "12:40:00",
+      "title": "Arm alignment and access challenges",
+      "concepts": [
+        "multiple tiny arms",
+        "alignment in the correct positions",
+        "risk of misalignment preventing operation"
+      ],
+      "description": "The video highlights the difficulty of aligning several small doors/arms within the actuator housing, and why proper alignment is critical for the system to function."
+    },
+    {
+      "start": "21:04:00",
+      "end": "28:21:00",
+      "title": "HVAC box, harness routing, and donor-car strategy",
+      "concepts": [
+        "security box",
+        "dash/harness separation",
+        "donor car for actuator setting",
+        "testing with a known-good unit"
+      ],
+      "description": "Discussion of the wiring harness routes, the security box, and the strategy to use a donor car to set the actuator position, then test with a known-good unit to verify the repair approach."
+    },
+    {
+      "start": "38:08:00",
+      "end": "40:37:00",
+      "title": "Lessons and guidance: no corners, no DIY on uncharted work",
+      "concepts": [
+        "avoid cutting corners on complex jobs",
+        "don't DIY tasks outside your skillset",
+        "importance of following the repair manual and organization"
+      ],
+      "description": "The host summarizes key lessons: the dangers of corner-cutting on complex interior repairs, the value of relying on official manuals, and maintaining bolt/harness organization to avoid missing components."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Identify and understand a dual-servo unit inside a single HVAC actuator housing",
+      "timestamp": "00:53:00",
+      "confidence": 0.72
+    },
+    {
+      "technique": "Donor-car-assisted actuator positioning and validation",
+      "timestamp": "25:30:00",
+      "confidence": 0.88
+    },
+    {
+      "technique": "Systematic disassembly to access the HVAC box (blower housing and dash removal)",
+      "timestamp": "03:22:00",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Arm/pin alignment across multiple actuators within the housing",
+      "timestamp": "18:35:00",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Use of repair manual as step-by-step positional guidance",
+      "timestamp": "26:54:00",
+      "confidence": 0.84
+    },
+    {
+      "technique": "Bolt-counting and component-tracking workflow during reassembly",
+      "timestamp": "34:03:00",
+      "confidence": 0.85
+    },
+    {
+      "technique": "Wiring-harness management and identification of option plugs",
+      "timestamp": "36:31:00",
+      "confidence": 0.81
+    },
+    {
+      "technique": "Finalize with live vehicle confirmation and warning about clock spring (spiral cable) behavior",
+      "timestamp": "37:39:00",
+      "confidence": 0.77
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:26:32.803647+00:00"
+}

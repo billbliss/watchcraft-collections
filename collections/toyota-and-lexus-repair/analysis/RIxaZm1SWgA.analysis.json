@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "video": "RIxaZm1SWgA.youtube",
+  "title": "Toyota Sienna 2GR-FE Harness Replacement After Rodent Damage (ECU/ECU and Engine Wiring) ",
+  "date": {
+    "display": "January 17, 2026",
+    "iso": "2026-01-17",
+    "precision": "day",
+    "confidence": 1.0,
+    "basis": "YouTube publication date"
+  },
+  "locations": [
+    {
+      "name": "Sicagoland (probable)",
+      "confidence": 0.55,
+      "basis": "Transcript references a 'salty day here in Sicagoland'; no explicit shooting location is stated."
+    }
+  ],
+  "summary": "The Car Care Nut walks through a high-stakes harness replacement on a 2011 Toyota Sienna affected by severe rodent damage that fried injector drivers and the engine computer. The video covers diagnosing chewed wiring, deciding between repairing the existing harness versus replacing it with a new Toyota harness, and the rationale for choosing the harness route to avoid repeating failures. It details the arduous process of accessing and removing a stubborn belt-driven compressor to reach a crank sensor behind it, managing a tangle of brackets and connectors, and then installing a brand-new engine harness with careful attention to routing and orientation. After reinstalling the harness, the host programs the new ECU VIN, checks for trouble codes, and confirms the engine runs, all while noting missing brackets, a cracked belt, and follow-up tasks (oil cooler line, bracket replacement). The overall message emphasizes the importance of identifying proper, complete harness repairs rather than piecemeal fixes that leave the vehicle prone to future failure.",
+  "topics": [
+    "2GR-FE",
+    "engine wiring harness",
+    "engine computer / ECU replacement",
+    "injector drivers",
+    "rodent damage diagnosis",
+    "crank sensor behind A/C compressor",
+    "compressor removal",
+    "drive belt inspection",
+    "oil cooler line replacement",
+    "plenum removal",
+    "engine harness routing",
+    "ECU connectors",
+    "ground and sensor wiring",
+    "pins and clips in Toyota harnesses",
+    "avoid cutting the old harness",
+    "VIN programming",
+    "DTCs and readiness checks",
+    "starter and neutral safety switch wiring",
+    "connector access techniques"
+  ],
+  "sections": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:08",
+      "title": "Diagnosis and scope: rodent damage to a 2011 Sienna",
+      "concepts": [
+        "rodent damage",
+        "engine wiring harness",
+        "injector drivers failure",
+        "ECU/engine computer replacement",
+        "harness routed replacement decision"
+      ],
+      "description": "The video opens with the diagnosis of severe rodent damage on a 2011 Toyota Sienna. Two injectors were wiped out due to chewed wires that affected injector drivers, ultimately frying the engine computer. The shop options include repairing the harness versus installing a full new harness with a replacement ECU to ensure reliability."
+    },
+    {
+      "start": "00:03:08",
+      "end": "00:05:58",
+      "title": "Harness replacement philosophy: don't cut, remove in one piece",
+      "concepts": [
+        "don’t cut the old harness",
+        "remove in one piece",
+        "installation matching removal",
+        "golden rule of harness work"
+      ],
+      "description": "The presenter emphasizes a guiding principle: never cut the harness when removing it. The new harness must be installed in the reverse order of removal, preserving routing and avoiding misrouting or missing connections."
+    },
+    {
+      "start": "00:06:58",
+      "end": "00:16:54",
+      "title": "Access planning: removing plenum, compressor, and related components",
+      "concepts": [
+        "plenum removal",
+        "compressor access",
+        "crank sensor behind compressor",
+        "drive belt condition"
+      ],
+      "description": "The plan includes removing or maneuvering around the plenum and air intake assembly to access the crank sensor located behind the A/C compressor. The drive belt is inspected and a worn belt is not reinstalled, as access will be gained without full compressor removal if possible."
+    },
+    {
+      "start": "00:16:54",
+      "end": "00:36:45",
+      "title": "Harness removal: navigating tight spaces, brackets, and difficult connectors",
+      "concepts": [
+        "bracket removal",
+        "ECU and body connectors",
+        "painful connectors",
+        "neutral safety switch",
+        "oxygen sensor wiring",
+        "ground wiring"
+      ],
+      "description": "This segment follows the painstaking extraction of the old harness. The technician documents fighting through tight spaces, removing brackets, and wrestling with challenging connectors (notably the 'painful' ones) and grounding points while preserving the path of the harness to avoid misrouting."
+    },
+    {
+      "start": "00:36:45",
+      "end": "01:07:09",
+      "title": "Harness installation and initial reassembly",
+      "concepts": [
+        "brand-new harness layout",
+        "routing and orientation",
+        "bracket integrity",
+        "belt and accessory wiring",
+        "keeping track of bolts"
+      ],
+      "description": "The new harness is installed in a controlled sequence. The host notes missing hardware and discusses bracket alignment, bolt counting, and the importance of routing so the harness sits correctly on the brackets as the system is mocked back together."
+    },
+    {
+      "start": "01:11:13",
+      "end": "01:15:11",
+      "title": "VIN programming, DTCs, and verification start",
+      "concepts": [
+        "VIN programming",
+        "GTS Plus limitations",
+        "checking DTCs",
+        "engine miles and readiness",
+        "starting the engine"
+      ],
+      "description": "After the harness is connected, the new engine computer (ECU) is programmed with the VIN. The host checks for codes, explains permanent codes, and demonstrates starting the engine to verify the repair and overall readiness with the vehicle at approximately 228,000 miles."
+    },
+    {
+      "start": "01:15:11",
+      "end": "01:17:09",
+      "title": "Wrap-up and follow-up tasks",
+      "concepts": [
+        "return to customer",
+        "missing brackets",
+        "oil cooler line replacement",
+        "follow-up repairs",
+        "final status"
+      ],
+      "description": "The video concludes with the car ready for return, acknowledgment of missing brackets and upcoming follow-up items (e.g., oil cooler line, a bracket replacement). The host reflects on harness repair quality and the importance of durable fixes."
+    }
+  ],
+  "featured_techniques": [
+    {
+      "technique": "Do not cut the old harness; remove it in one piece to ensure correct fit and routing for the new harness",
+      "timestamp": "00:04:32",
+      "confidence": 0.92
+    },
+    {
+      "technique": "Gain access to the crank sensor by moving/removing the A/C compressor (and potentially the exhaust manifold) to reach tight connectors",
+      "timestamp": "00:09:22",
+      "confidence": 0.85
+    },
+    {
+      "technique": "VIN programming of a new Toyota ECU using GTS Plus to imprint the VIN for proper start-up",
+      "timestamp": "01:12:25",
+      "confidence": 0.78
+    },
+    {
+      "technique": "Check and clear diagnostic trouble codes after harness replacement; verify readiness before final start",
+      "timestamp": "01:13:20",
+      "confidence": 0.8
+    },
+    {
+      "technique": "Identify and replace a seized/cracked drive belt; avoid reusing a failed belt",
+      "timestamp": "01:07:28",
+      "confidence": 0.66
+    },
+    {
+      "technique": "Install the new harness with correct orientation and bracket alignment; counting bolts to avoid left-over hardware",
+      "timestamp": "00:36:56",
+      "confidence": 0.8
+    }
+  ],
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "analysis_created_at": "2026-09-02T05:33:23.882854+00:00"
+}

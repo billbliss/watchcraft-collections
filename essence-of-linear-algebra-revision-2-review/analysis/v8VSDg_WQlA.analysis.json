@@ -37,15 +37,6 @@
     "handler_version": "1",
     "job_id": "9199215c-9ed5-514d-8a6f-0088e69d07b4",
     "spec_sha256": "e9b395180f4fb96de03f6d00bec224e61ac09dbc46e9281aa4ecd40da26cb33f",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-4388fffbf711",
-        "term-48736627740b",
-        "term-a9237740cbe3"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 44257,
       "dependency_resolution_ms": 103,
@@ -137,11 +128,11 @@
   "summary": "This footnote to the Essence of Linear Algebra series explains how non-square matrices encode linear transformations between spaces of different dimensions. It shows that transforming 2D inputs to 3D outputs is represented by a 3×2 matrix, whose columns are the images of the input basis vectors, with explicit examples (I-hat maps to (2, -1, -2) and J-hat maps to (0, 1, 1)). The video then reviews how the shape of the matrix reflects input vs. output dimensionality (3×2 for 2D→3D, 2×3 for 3D→2D) and discusses a 2D→1D case encoded by a 1×2 matrix. Throughout, the geometric idea is that linearity preserves parallel grid lines and the origin, while inputs and outputs live in distinct vector spaces. The talk also notes that this type of transformation connects meaningfully to the dot product, which will be explored in the next video, and invites viewers to experiment with interpreting matrix multiplication and linear systems in cross-dimensional contexts.",
   "title": "Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra",
   "topics": [
-    "non-square matrices",
+    "Non-square matrices",
     "Linear transformations between dimensions",
     "Input space vs output space",
     "Basis vectors",
-    "matrix encoding of linear transformations",
+    "Matrix encoding of linear transformations",
     "Columns as images of basis vectors",
     "3x2 matrix (maps 2D to 3D)",
     "2x3 matrix (maps 3D to 2D)",
@@ -149,7 +140,7 @@
     "Column space interpretation",
     "Rank and full rank",
     "Origin mapping",
-    "grid lines and linearity",
+    "Grid lines and linearity",
     "Dot product teaser"
   ],
   "video": "v8VSDg_WQlA.youtube"

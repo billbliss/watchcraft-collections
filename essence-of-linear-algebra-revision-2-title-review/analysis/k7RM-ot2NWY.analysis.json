@@ -12,7 +12,7 @@
   "featured_techniques": [
     {
       "confidence": 0.78,
-      "technique": "Expressing coordinates as scalars multiplying unit basis vectors (i-hat, j-hat)",
+      "technique": "Expressing coordinates as scalars multiplying unit basis vectors (i_hat, j_hat)",
       "timestamp": "00:01:01"
     },
     {
@@ -42,15 +42,6 @@
     "handler_version": "1",
     "job_id": "7ca6ee70-0ea9-51a6-8ed5-809163985b93",
     "spec_sha256": "0ecc4768e376d41c6ba52a6e7edd1dad1f4d5189aa06b1570475543323971c69",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-54fa498ba904",
-        "term-55190aa16698",
-        "term-ed6cedd2a962"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 31387,
       "dependency_resolution_ms": 117,
@@ -77,10 +68,10 @@
     {
       "concepts": [
         "vector coordinates treated as scalars",
-        "i-hat and j-hat as unit basis vectors in x and y directions",
+        "i_hat and j_hat as unit basis vectors in x and y directions",
         "expressing a vector as a sum of two scaled basis vectors"
       ],
-      "description": "Introduces the view that coordinates describe how much to scale basis vectors (i-hat, j-hat) to reach a given vector; the vector is a linear combination of the basis vectors.",
+      "description": "Introduces the view that coordinates describe how much to scale basis vectors (i_hat, j_hat) to reach a given vector; the vector is a linear combination of the basis vectors.",
       "end": "00:03:11",
       "start": "00:00:00",
       "title": "Coordinates as linear combinations and the role of basis vectors"
@@ -149,10 +140,10 @@
       "title": "Definition of a basis and looking ahead to matrices"
     }
   ],
-  "summary": "This video introduces a central viewpoint in linear algebra: coordinates are best understood as scalars that scale basis vectors, so any vector is a linear combination of basis vectors. It names the x- and y-axes basis vectors i-hat and j-hat, and shows how changing the chosen basis changes the coordinate representation. The core ideas unfold through the concepts of linear combinations, spans, and the distinction between dependent and independent sets of vectors. The discussion extends from two-dimensional space to three dimensions, illustrating how new vectors can expand the span from a plane to the entire space, and it culminates in the precise definition of a basis as a linearly independent spanning set, setting up the upcoming topic of matrices and space transformations.",
+  "summary": "This video introduces a central viewpoint in linear algebra: coordinates are best understood as scalars that scale basis vectors, so any vector is a linear combination of basis vectors. It names the x- and y-axes basis vectors i_hat and j_hat, and shows how changing the chosen basis changes the coordinate representation. The core ideas unfold through the concepts of linear combinations, spans, and the distinction between dependent and independent sets of vectors. The discussion extends from two-dimensional space to three dimensions, illustrating how new vectors can expand the span from a plane to the entire space, and it culminates in the precise definition of a basis as a linearly independent spanning set, setting up the upcoming topic of matrices and space transformations.",
   "title": "Linear combinations, span, and basis vectors (Essence of linear algebra, Chapter 2)",
   "topics": [
-    "basis vectors i-hat and j-hat",
+    "basis vectors i_hat and j_hat",
     "interpreting coordinates as scalars multiplying basis vectors",
     "linear combination of vectors",
     "span of two vectors in the plane",

@@ -37,14 +37,6 @@
     "handler_version": "1",
     "job_id": "f33bbc5e-bfaf-5de8-a491-478f3d84788d",
     "spec_sha256": "26b084d3223fae99895dd8cd3ab01d2252d24cc112e44725cae1573de8ea5233",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-2e4a18c17f8e",
-        "term-8648d26839f8"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 55423,
       "dependency_resolution_ms": 50,
@@ -137,7 +129,7 @@
       "concepts": [
         "cross product is a vector",
         "magnitude equals area",
-        "right-hand-rule direction"
+        "right-hand rule direction"
       ],
       "description": "Clarifies that the true cross product is a vector; its magnitude equals the parallelogram area and direction is perpendicular following the right-hand rule.",
       "end": "00:06:02",
@@ -190,7 +182,7 @@
     "unit square to parallelogram mapping",
     "example with V = (-3, 1), W = (2, 1) and determinant -5",
     "magnitude vs direction of the cross product",
-    "right-hand rule for cross-product direction",
+    "right-hand rule for cross product direction",
     "scaling property: 3v x w = 3(v x w)",
     "cross product as a vector, not a scalar",
     "3D determinant method with i, j, k",

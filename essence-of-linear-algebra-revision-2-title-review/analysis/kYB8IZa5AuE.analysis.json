@@ -47,13 +47,6 @@
     "handler_version": "1",
     "job_id": "6a2f6e91-0d51-53ca-a0a0-ca9d7e558e97",
     "spec_sha256": "3d54301ada7a2f27b806b09fbd54d58f1df54a063c50cb3d06712222782b9170",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-55190aa16698"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 51442,
       "dependency_resolution_ms": 105,

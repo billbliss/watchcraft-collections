@@ -52,13 +52,6 @@
     "handler_version": "1",
     "job_id": "f1dc1b42-9026-56a8-998c-07150716e754",
     "spec_sha256": "8c3844fc7895998948d1a5553bd9c2e6f76de515bbb0d543196ab499e66b130c",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-005739f4cc8f"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 73179,
       "dependency_resolution_ms": 49,
@@ -84,7 +77,7 @@
   "sections": [
     {
       "concepts": [
-        "determinant as area scaling factor",
+        "determinant as area-scaling factor",
         "matrix diag([3,0],[0,2]) scales i-hat by 3 and j-hat by 2",
         "unit 1×1 square maps to a 2×3 rectangle",
         "area change from 1 to 6"

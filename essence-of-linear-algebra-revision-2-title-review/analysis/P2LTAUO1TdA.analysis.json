@@ -57,14 +57,6 @@
     "handler_version": "1",
     "job_id": "18efdd66-53eb-5d2b-acbd-855eb66e6460",
     "spec_sha256": "57ef3aabbf9bc12af6738fbbfbd0ec9cd125c4072d6aff035ab7fcf01df98435",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-9a4a0ee42fba",
-        "term-d2fa4ab3ecd4"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 39136,
       "dependency_resolution_ms": 57,
@@ -116,7 +108,7 @@
     },
     {
       "concepts": [
-        "matrix-vector multiplication with a matrix whose columns represent Jennifer's basis vectors",
+        "matrix-vector multiplication with a matrix whose columns are Jennifer's basis vectors",
         "this matrix translates Jennifer's coordinates into ours",
         "the inverse matrix translates in the opposite direction",
         "computing coordinates of a vector (e.g., 3,2) in Jennifer's basis using the inverse",
@@ -130,7 +122,7 @@
     {
       "concepts": [
         "matrix representation of a linear transformation",
-        "how Jennifer would describe this same transformation",
+        "how Jennifer would describe the same transformation",
         "rotation by 90 degrees CCW and its basis-dependent description",
         "start with Jennifer's language, translate to our language, apply the transformation, then translate back",
         "conjugation A^{-1} M A as a three-matrix composition representing the same transformation in Jennifer's language",

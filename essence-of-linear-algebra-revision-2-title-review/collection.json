@@ -1,6 +1,6 @@
 {
   "collection_id": "essence-of-linear-algebra",
-  "content_hash": "eee527c62d5efc7c513dc8d56c754330e8679ec2edabfb3f2bae0e3063ec681b",
+  "content_hash": "d95a03177534977f50e676ce5eaba9ebfbc95c0f16af1d32b5004c78b42d1825",
   "description": "A visual introduction to the core ideas of linear algebra.",
   "items": {
     "video-essence-of-linear-algebra-bam7ocem3g0-youtube-4ce12047": {
@@ -238,7 +238,8 @@
         "family-cross-products-2c7beda3",
         "family-determinants-51aa69f0",
         "family-linear-transformations-fe92792d",
-        "family-matrix-representations-f18d6595"
+        "family-matrix-representations-f18d6595",
+        "family-three-dimensional-geometry-f08b65c4"
       ],
       "item_id": "video-essence-of-linear-algebra-eu6i7wjeinw-youtube-dd58d9c4",
       "locations": [],
@@ -263,7 +264,7 @@
         "topic-unit-square-to-parallelogram-mapping-5bfb4adc",
         "topic-example-with-v-3-1-w-2-1-and-determinant-5-ed4d5ed3",
         "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
-        "topic-right-hand-rule-for-cross-product-direction-ee034f4c",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-scaling-property-3v-x-w-3-v-x-w-f4217e9b",
         "topic-cross-product-as-a-vector-not-a-scalar-ea1ea6a2",
         "topic-3d-determinant-method-with-i-j-k-5c7bfc57",
@@ -279,7 +280,7 @@
         "topic-i-hat-cross-j-hat-orientation-b4708e26": [
           2
         ],
-        "topic-right-hand-rule-for-cross-product-direction-ee034f4c": [
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7": [
           6
         ],
         "topic-unit-square-to-parallelogram-mapping-5bfb4adc": [
@@ -490,7 +491,7 @@
         "topic-matrix-as-linear-transformation-9ef757ed",
         "topic-columns-as-images-of-basis-vectors-i-hat-j-hat-389f5389",
         "topic-nonzero-determinant-and-invertibility-196123cd",
-        "topic-zero-determinant-case-singular-transformation-853955aa",
+        "topic-zero-determinant-case-singular-transformation-b23f6610",
         "topic-dot-product-and-orthonormal-transformations-fbbb2e65",
         "topic-dot-product-preservation-under-orthonormal-trans-92c055b0",
         "topic-parallelogram-area-representing-a-coordinate-y-c-0156791e",
@@ -548,10 +549,10 @@
           "video_id": "k7RM-ot2NWY"
         }
       ],
-      "summary": "This video introduces a central viewpoint in linear algebra: coordinates are best understood as scalars that scale basis vectors, so any vector is a linear combination of basis vectors. It names the x- and y-axes basis vectors i-hat and j-hat, and shows how changing the chosen basis changes the coordinate representation. The core ideas unfold through the concepts of linear combinations, spans, and the distinction between dependent and independent sets of vectors. The discussion extends from two-dimensional space to three dimensions, illustrating how new vectors can expand the span from a plane to the entire space, and it culminates in the precise definition of a basis as a linearly independent spanning set, setting up the upcoming topic of matrices and space transformations.",
+      "summary": "This video introduces a central viewpoint in linear algebra: coordinates are best understood as scalars that scale basis vectors, so any vector is a linear combination of basis vectors. It names the x- and y-axes basis vectors i_hat and j_hat, and shows how changing the chosen basis changes the coordinate representation. The core ideas unfold through the concepts of linear combinations, spans, and the distinction between dependent and independent sets of vectors. The discussion extends from two-dimensional space to three dimensions, illustrating how new vectors can expand the span from a plane to the entire space, and it culminates in the precise definition of a basis as a linearly independent spanning set, setting up the upcoming topic of matrices and space transformations.",
       "title": "Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra",
       "topic_ids": [
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-interpreting-coordinates-as-scalars-multiplying--c01c6e3a",
         "topic-linear-combination-of-vectors-1f54c465",
         "topic-span-of-two-vectors-in-the-plane-f17b8628",
@@ -567,7 +568,7 @@
         "topic-preview-of-matrices-and-linear-transformations-4f7c3962"
       ],
       "topic_sections": {
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": [
+        "topic-basis-vectors-i-hat-j-hat-d527eed1": [
           0
         ],
         "topic-definition-of-a-basis-bddb1a30": [
@@ -630,7 +631,7 @@
         "topic-grid-lines-preserved-by-linear-transformations-88436902",
         "topic-origin-fixed-under-linear-transformation-4e66c381",
         "topic-non-linear-versus-linear-examples-87fc0e1d",
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-images-of-basis-vectors-determine-the-transforma-a1945272",
         "topic-linear-combination-to-map-general-vectors-c1eed264",
         "topic-four-number-description-of-a-2d-transformation-591ee5fb",
@@ -650,7 +651,7 @@
         "topic-2x2-matrix-representation-2294cbba": [
           6
         ],
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": [
+        "topic-basis-vectors-i-hat-j-hat-d527eed1": [
           4,
           5,
           6
@@ -724,7 +725,7 @@
         "topic-symmetry-of-projection-interpretation-75681bba",
         "topic-scaling-effects-on-dot-product-8e6af27b",
         "topic-linear-transformations-from-r-2-to-r-657132aa",
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-1-by-2-matrix-representation-31389ae5",
         "topic-matrix-vector-multiplication-analogy-5aa23c7e",
         "topic-1-by-2-matrix-and-2d-vectors-correspondence-fb9087d8",
@@ -901,13 +902,13 @@
           "video_id": "PFDu9oVAE-g"
         }
       ],
-      "summary": "This 3Blue1Brown episode builds intuition for eigenvectors and eigenvalues by visualizing linear transformations in the plane, then derives the algebraic condition that defines eigenpairs. It starts from a concrete 2×2 transformation, explains how some vectors stay on their own span and are simply stretched, and introduces the terms eigenvector and eigenvalue. It moves to the symbolic eigenproblem Av = λv, shows how to rewrite it as (A - λI)v = 0 and why nonzero solutions require det(A − λI) = 0, and then explores representative examples: a rotation (which may have no real eigenvectors), a shear (with a real eigenbasis along the x-axis), and a scaling matrix. Finally, it motivates the eigenbasis and diagonalization idea, showing how changing to eigenvectors as a basis diagonalizes the transformation and greatly simplifies powers like A^n, while noting that not all transformations admit a full eigenbasis. The video closes with a teaser for the next topic on abstract vector spaces.",
+      "summary": "This 3Blue1Brown episode builds intuition for eigenvectors and eigenvalues by visualizing linear transformations in the plane, then derives the algebraic condition that defines eigenpairs. It starts from a concrete 2×2 transformation, explains how some vectors stay on their own span and are simply stretched, and introduces the terms eigenvector and eigenvalue. It moves to the symbolic eigenproblem Av = λv, shows how to rewrite it as (A − λI)v = 0 and why nonzero solutions require det(A − λI) = 0, and then explores representative examples: a rotation (which may have no real eigenvectors), a shear (with a real eigenbasis along the x-axis), and a scaling matrix. Finally, it motivates the eigenbasis and diagonalization idea, showing how changing to eigenvectors as a basis diagonalizes the transformation and greatly simplifies powers like A^n, while noting that not all transformations admit a full eigenbasis. The video closes with a teaser for the next topic on abstract vector spaces.",
       "title": "Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra",
       "topic_ids": [
         "topic-eigenvectors-cef34519",
         "topic-eigenvalues-288cf526",
         "topic-linear-transformation-c2e6dacb",
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-span-and-invariant-subspaces-1bbcddf4",
         "topic-2-2-matrix-example-a-with-columns-3-0-and-1-2-567bbabd",
         "topic-determinant-and-characteristic-equation-det-a-i--f9b5b6a7",
@@ -925,7 +926,7 @@
         "topic-3blue1brown-explanatory-style-334c772a"
       ],
       "topic_sections": {
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": [
+        "topic-basis-vectors-i-hat-j-hat-d527eed1": [
           1
         ],
         "topic-diagonal-matrices-and-powers-f4fd33eb": [
@@ -1272,14 +1273,14 @@
           "video_id": "XkY2DOUCWMU"
         }
       ],
-      "summary": "This video explains how linear transformations are represented by matrices, focusing on composing transformations as a single matrix. It reviews that a linear transformation is determined by its action on the basis vectors (i-hat, j-hat) and that a matrix’s columns encode where those basis vectors land after the transformation. The core idea is that composing two linear transformations—such as a rotation followed by a shear—yields a new linear transformation that can itself be described by a matrix, the “composition matrix.” The video demonstrates constructing this matrix by tracking how i-hat and j-hat are mapped through each transformation, shows how matrix multiplication implements the sequential application of transformations (read right-to-left), and provides concrete examples (M1 and M2) to compute the composition matrix column by column. It also discusses why the order matters and how associativity of matrix multiplication arises from thinking about applying transformations, with a symbolic generalization and a teaser for extending the ideas beyond two dimensions.",
+      "summary": "This video explains how linear transformations are represented by matrices, focusing on composing transformations as a single matrix. It reviews that a linear transformation is determined by its action on the basis vectors (i_hat, j_hat) and that a matrix’s columns encode where those basis vectors land after the transformation. The core idea is that composing two linear transformations—such as a rotation followed by a shear—yields a new linear transformation that can itself be described by a matrix, the “composition matrix.” The video demonstrates constructing this matrix by tracking how i_hat and j_hat are mapped through each transformation, shows how matrix multiplication implements the sequential application of transformations (read right-to-left), and provides concrete examples (M1 and M2) to compute the composition matrix column by column. It also discusses why the order matters and how associativity of matrix multiplication arises from thinking about applying transformations, with a symbolic generalization and a teaser for extending the ideas beyond two dimensions.",
       "title": "Matrix multiplication as composition | Chapter 4, Essence of linear algebra",
       "topic_ids": [
         "topic-linear-transformation-c2e6dacb",
         "topic-matrix-representation-f20d8895",
         "topic-basis-vectors-c7b4cebf",
-        "topic-i-hat-e05fbf45",
-        "topic-j-hat-81e9beb2",
+        "topic-i-hat-e6dd994f",
+        "topic-j-hat-3697a91b",
         "topic-images-of-basis-vectors-eaaa572f",
         "topic-matrix-vector-multiplication-4a7f1f55",
         "topic-composition-of-linear-transformations-10b3a8c6",
@@ -1311,13 +1312,13 @@
         "topic-extending-to-higher-dimensions-131b0d91": [
           3
         ],
-        "topic-i-hat-e05fbf45": [
+        "topic-i-hat-e6dd994f": [
           0
         ],
         "topic-images-of-basis-vectors-eaaa572f": [
           0
         ],
-        "topic-j-hat-81e9beb2": [
+        "topic-j-hat-3697a91b": [
           0
         ],
         "topic-linear-transformation-c2e6dacb": [
@@ -1484,7 +1485,7 @@
         "topic-3d-coordinate-system-4cee1e16",
         "topic-basis-independence-and-coordinate-systems-63ff549d",
         "topic-basis-vectors-c7b4cebf",
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-basis-vectors-i-hat-j-hat-k-hat-fe13647f",
         "topic-changing-coordinate-systems-with-different-bases-23b1697a",
         "topic-coordinate-system-4b417ae5",
@@ -1496,11 +1497,11 @@
         "topic-grid-lines-and-coordinate-frames-ed30356a",
         "topic-grid-lines-and-linearity-287d3e01",
         "topic-i-hat-and-j-hat-8a204faf",
-        "topic-i-hat-e05fbf45",
+        "topic-i-hat-e6dd994f",
         "topic-i-hat-j-hat-k-hat-3d9ccd87",
         "topic-images-of-basis-vectors-eaaa572f",
         "topic-interpreting-coordinates-as-scalars-multiplying--c01c6e3a",
-        "topic-j-hat-81e9beb2",
+        "topic-j-hat-3697a91b",
         "topic-linear-combination-of-vectors-1f54c465",
         "topic-transformation-of-basis-under-a-rotation-2deee4ee",
         "topic-translating-between-coordinate-systems-71c01dd4",
@@ -1575,7 +1576,7 @@
         "topic-perpendicular-to-v-and-w-393a1a4a",
         "topic-projection-onto-a-line-perpendicular-to-v-and-w-708731df",
         "topic-right-hand-rule-7319c13c",
-        "topic-right-hand-rule-for-cross-product-direction-ee034f4c",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-right-hand-rule-for-orientation-in-3d-85dd23ea",
         "topic-scaling-property-3v-x-w-3-v-x-w-f4217e9b",
         "topic-unit-square-to-parallelogram-mapping-5bfb4adc"
@@ -1637,7 +1638,7 @@
         "topic-universal-area-scaling-factor-2c87ab47",
         "topic-volume-scaling-in-3d-unit-cube-to-parallelepiped-ca262272",
         "topic-zero-determinant-and-dimension-collapse-40d87482",
-        "topic-zero-determinant-case-singular-transformation-853955aa",
+        "topic-zero-determinant-case-singular-transformation-b23f6610",
         "topic-zero-volume-implies-linear-dependence-of-columns-abf15109"
       ],
       "video_count": 8
@@ -1788,7 +1789,7 @@
         "topic-2x2-matrix-representation-2294cbba",
         "topic-3x3-matrices-8a2f1895",
         "topic-basis-vectors-c7b4cebf",
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-basis-vectors-i-hat-j-hat-k-hat-fe13647f",
         "topic-change-of-basis-matrix-a399bfe5",
         "topic-column-space-interpretation-9aec5dcc",
@@ -1801,11 +1802,9 @@
         "topic-diagonal-matrix-effect-on-basis-vectors-2bf2e566",
         "topic-four-number-description-of-a-2d-transformation-591ee5fb",
         "topic-grid-lines-preserved-by-linear-transformations-88436902",
-        "topic-i-hat-e05fbf45",
         "topic-images-of-basis-vectors-determine-the-transforma-a1945272",
         "topic-images-of-basis-vectors-eaaa572f",
         "topic-infinite-grid-visualization-53cf5841",
-        "topic-j-hat-81e9beb2",
         "topic-linear-combination-to-map-general-vectors-c1eed264",
         "topic-matrices-as-space-transformations-8c6fed55",
         "topic-matrix-a-as-a-linear-transformation-2df219be",
@@ -1910,7 +1909,7 @@
         "topic-span-of-columns-e221c0a0",
         "topic-vector-x-and-vector-v-eeebff4b",
         "topic-zero-determinant-and-dimension-collapse-40d87482",
-        "topic-zero-determinant-case-singular-transformation-853955aa"
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "video_count": 4
     },
@@ -1928,12 +1927,13 @@
         "topic-infinite-grid-visualization-53cf5841",
         "topic-ordered-pairs-and-triplets-6196c668",
         "topic-origin-preservation-in-transformations-ecdb5d6b",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-rotation-around-the-y-axis-c232e627",
         "topic-vector-transformation-in-3d-2fbc1e90",
         "topic-visualizing-3d-space-with-grids-7cfc0626",
         "topic-x-axis-rightward-y-axis-upward-z-axis-depth-4499dd06"
       ],
-      "video_count": 3
+      "video_count": 4
     },
     "family-transformation-composition-7e149b88": {
       "canonical_key": "transformation composition",
@@ -1999,7 +1999,7 @@
     "model": "gpt-5.4-mini",
     "prompt_version": 2,
     "schema_version": 1,
-    "source_hash": "69717f18616d0f03f9c23ee43a2e680deb443a1dfd6bc6ae49df81c6b69764e5"
+    "source_hash": "612476d56d411909964f28966c1a98b0d982077e9f992e2485f04ff18a8468ae"
   },
   "topic_scope": "collection",
   "topics": {
@@ -2160,6 +2160,7 @@
         "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
         "topic-notational-justification-and-duality-teaser-e7c6de36",
         "topic-parallelogram-area-as-cross-product-intuition-ac423178",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-unit-square-to-parallelogram-mapping-5bfb4adc"
       ],
       "topic_id": "topic-2d-cross-product-via-determinant-34453bba",
@@ -2225,7 +2226,7 @@
         "topic-linear-system-of-equations-4d8a96ab",
         "topic-nonzero-determinant-and-invertibility-196123cd",
         "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
-        "topic-zero-determinant-case-singular-transformation-853955aa"
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-2x2-linear-system-af9bf9a4",
       "video_count": 1
@@ -2336,7 +2337,8 @@
         "topic-3x3-determinant-with-a-variable-first-column-f9055093",
         "topic-cross-product-sign-and-orientation-83d1e156",
         "topic-example-with-v-3-1-w-2-1-and-determinant-5-ed4d5ed3",
-        "topic-i-hat-cross-j-hat-orientation-b4708e26"
+        "topic-i-hat-cross-j-hat-orientation-b4708e26",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7"
       ],
       "topic_id": "topic-3d-determinant-method-with-i-j-k-5c7bfc57",
       "video_count": 1
@@ -2661,7 +2663,9 @@
       "related_topic_ids": [
         "topic-columns-as-images-of-basis-vectors-379e1007",
         "topic-columns-representing-basis-vectors-4fa8c8ce",
+        "topic-i-hat-e6dd994f",
         "topic-images-of-basis-vectors-eaaa572f",
+        "topic-j-hat-3697a91b",
         "topic-matrix-representation-f20d8895",
         "topic-matrix-vector-multiplication-4a7f1f55",
         "topic-vector-described-in-different-bases-39719450"
@@ -2669,28 +2673,30 @@
       "topic_id": "topic-basis-vectors-c7b4cebf",
       "video_count": 3
     },
-    "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd": {
+    "topic-basis-vectors-i-hat-j-hat-d527eed1": {
       "aliases": [
-        "basis vectors i-hat and j-hat",
         "Basis vectors (i-hat, j-hat)",
+        "basis vectors i-hat and j-hat",
+        "basis vectors i_hat and j_hat",
         "i-hat and j-hat basis vectors"
       ],
-      "canonical_key": "basis vectors i-hat and j-hat",
+      "canonical_key": "basis vectors (i-hat, j-hat)",
       "family_ids": [
         "family-bases-and-coordinates-0a165a74",
         "family-matrix-representations-f18d6595"
       ],
-      "label": "basis vectors i-hat & j-hat",
+      "label": "i hat j hat Basis",
       "related_topic_ids": [
-        "topic-columns-as-images-of-basis-vectors-i-hat-j-hat-389f5389",
-        "topic-i-hat-e05fbf45",
+        "topic-definition-of-a-basis-bddb1a30",
+        "topic-i-hat-e6dd994f",
         "topic-images-of-basis-vectors-determine-the-transforma-a1945272",
+        "topic-images-of-basis-vectors-eaaa572f",
         "topic-interpreting-coordinates-as-scalars-multiplying--c01c6e3a",
-        "topic-j-hat-81e9beb2",
+        "topic-j-hat-3697a91b",
         "topic-linear-combination-of-vectors-1f54c465",
         "topic-matrix-columns-as-images-of-basis-vectors-c2606cbd"
       ],
-      "topic_id": "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+      "topic_id": "topic-basis-vectors-i-hat-j-hat-d527eed1",
       "video_count": 4
     },
     "topic-basis-vectors-i-hat-j-hat-k-hat-fe13647f": {
@@ -2702,7 +2708,7 @@
         "family-bases-and-coordinates-0a165a74",
         "family-matrix-representations-f18d6595"
       ],
-      "label": "Basis i-hat j-hat k-hat",
+      "label": "i j k Basis",
       "related_topic_ids": [
         "topic-3d-coordinate-system-4cee1e16",
         "topic-3x3-matrices-8a2f1895",
@@ -2919,14 +2925,14 @@
         "family-determinants-51aa69f0",
         "family-matrix-representations-f18d6595"
       ],
-      "label": "Columns i-hat j-hat",
+      "label": "columns images of basis vectors",
       "related_topic_ids": [
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
         "topic-determinant-as-common-scaling-factor-for-areas-v-f6c97d67",
         "topic-matrix-as-linear-transformation-9ef757ed",
         "topic-nonzero-determinant-and-invertibility-196123cd",
         "topic-parallelogram-area-representing-a-coordinate-y-c-0156791e",
-        "topic-solving-coordinates-via-determinants-of-modified-4f3098b0"
+        "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-columns-as-images-of-basis-vectors-i-hat-j-hat-389f5389",
       "video_count": 1
@@ -3273,7 +3279,7 @@
         "topic-parallelogram-area-representing-a-coordinate-y-c-0156791e",
         "topic-signed-area-interpretation-of-coordinates-8020aa13",
         "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
-        "topic-zero-determinant-case-singular-transformation-853955aa"
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-cramer-s-rule-also-called-kramer-s-rule-b13f7060",
       "video_count": 1
@@ -3311,7 +3317,8 @@
         "topic-2d-cross-product-via-determinant-34453bba",
         "topic-cross-product-sign-and-orientation-83d1e156",
         "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
-        "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e"
+        "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7"
       ],
       "topic_id": "topic-cross-product-as-a-vector-not-a-scalar-ea1ea6a2",
       "video_count": 1
@@ -3356,7 +3363,7 @@
         "topic-notational-justification-and-duality-teaser-e7c6de36",
         "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e",
         "topic-parallelogram-area-as-cross-product-intuition-ac423178",
-        "topic-right-hand-rule-for-cross-product-direction-ee034f4c",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-unit-square-to-parallelogram-mapping-5bfb4adc"
       ],
       "topic_id": "topic-cross-product-sign-and-orientation-83d1e156",
@@ -3403,6 +3410,7 @@
       ],
       "label": "Basis Definition",
       "related_topic_ids": [
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-changing-coordinate-systems-with-different-bases-23b1697a",
         "topic-conditions-for-span-to-fill-all-of-space-in-3d-4efc65df",
         "topic-dependence-vs-independence-of-vector-sets-419dda5d",
@@ -3540,7 +3548,8 @@
         "topic-parallelepiped-volume-representing-a-coordinate--1f3a96d8",
         "topic-parallelogram-area-representing-a-coordinate-y-c-0156791e",
         "topic-signed-area-interpretation-of-coordinates-8020aa13",
-        "topic-solving-coordinates-via-determinants-of-modified-4f3098b0"
+        "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-determinant-as-common-scaling-factor-for-areas-v-f6c97d67",
       "video_count": 1
@@ -4320,7 +4329,7 @@
         "topic-generalization-to-higher-dimensions-beyond-2d-e6a0c6a1",
         "topic-nonzero-determinant-and-invertibility-196123cd",
         "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
-        "topic-zero-determinant-case-singular-transformation-853955aa"
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-gaussian-elimination-as-a-computational-alternat-f9e21152",
       "video_count": 1
@@ -4452,7 +4461,7 @@
     },
     "topic-grid-lines-and-linearity-287d3e01": {
       "aliases": [
-        "grid lines and linearity"
+        "Grid lines and linearity"
       ],
       "canonical_key": "grid lines and linearity",
       "family_ids": [
@@ -4550,12 +4559,10 @@
       "family_ids": [
         "family-bases-and-coordinates-0a165a74"
       ],
-      "label": "i-hat j-hat",
+      "label": "i Hat j Hat",
       "related_topic_ids": [
         "topic-coordinate-system-4b417ae5",
         "topic-example-vector-coordinates-in-jennifer-s-languag-87adf9ed",
-        "topic-i-hat-e05fbf45",
-        "topic-j-hat-81e9beb2",
         "topic-transformation-of-basis-under-a-rotation-2deee4ee",
         "topic-translating-between-coordinate-systems-71c01dd4",
         "topic-vector-described-in-different-bases-39719450"
@@ -4564,37 +4571,42 @@
       "video_count": 1
     },
     "topic-i-hat-cross-j-hat-orientation-b4708e26": {
-      "aliases": [],
+      "aliases": [
+        "i-hat cross j-hat orientation"
+      ],
       "canonical_key": "i-hat cross j-hat orientation",
       "family_ids": [
         "family-cross-products-2c7beda3",
         "family-determinants-51aa69f0"
       ],
-      "label": "i-hat cross j-hat orientation",
+      "label": "Right-Hand Rule",
       "related_topic_ids": [
         "topic-2d-cross-product-via-determinant-34453bba",
         "topic-3d-determinant-method-with-i-j-k-5c7bfc57",
         "topic-cross-product-sign-and-orientation-83d1e156",
         "topic-parallelogram-area-as-cross-product-intuition-ac423178",
-        "topic-right-hand-rule-for-cross-product-direction-ee034f4c",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-unit-square-to-parallelogram-mapping-5bfb4adc"
       ],
       "topic_id": "topic-i-hat-cross-j-hat-orientation-b4708e26",
       "video_count": 1
     },
-    "topic-i-hat-e05fbf45": {
-      "aliases": [],
-      "canonical_key": "i-hat",
+    "topic-i-hat-e6dd994f": {
+      "aliases": [
+        "i_hat"
+      ],
+      "canonical_key": "i_hat",
       "family_ids": [
-        "family-bases-and-coordinates-0a165a74",
-        "family-matrix-representations-f18d6595"
+        "family-bases-and-coordinates-0a165a74"
       ],
-      "label": "i-hat",
+      "label": "i Hat",
       "related_topic_ids": [
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
-        "topic-i-hat-and-j-hat-8a204faf"
+        "topic-basis-vectors-c7b4cebf",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
+        "topic-images-of-basis-vectors-eaaa572f",
+        "topic-j-hat-3697a91b"
       ],
-      "topic_id": "topic-i-hat-e05fbf45",
+      "topic_id": "topic-i-hat-e6dd994f",
       "video_count": 1
     },
     "topic-i-hat-j-hat-k-hat-3d9ccd87": {
@@ -4606,7 +4618,7 @@
         "family-bases-and-coordinates-0a165a74",
         "family-cross-products-2c7beda3"
       ],
-      "label": "i-hat j-hat k-hat",
+      "label": "ijk Basis Vectors",
       "related_topic_ids": [
         "topic-basis-vectors-i-hat-j-hat-k-hat-fe13647f",
         "topic-dual-vector-010c65d0",
@@ -4650,7 +4662,7 @@
       "label": "Transformation from Basis Images",
       "related_topic_ids": [
         "topic-2d-visualization-of-transformations-d24bc177",
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-case-of-dependent-basis-images-transformation-co-c16d2f0e",
         "topic-deducing-a-transformation-from-a-matrix-8f46461f",
         "topic-four-number-description-of-a-2d-transformation-591ee5fb",
@@ -4682,9 +4694,12 @@
       "label": "Basis Images",
       "related_topic_ids": [
         "topic-basis-vectors-c7b4cebf",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-basis-vectors-i-hat-j-hat-k-hat-fe13647f",
         "topic-columns-as-images-of-basis-vectors-379e1007",
+        "topic-i-hat-e6dd994f",
         "topic-images-of-basis-vectors-determine-the-transforma-a1945272",
+        "topic-j-hat-3697a91b",
         "topic-matrix-columns-as-basis-images-36095663",
         "topic-matrix-representation-f20d8895",
         "topic-matrix-vector-multiplication-4a7f1f55",
@@ -4771,7 +4786,7 @@
       ],
       "label": "Scalar Coordinates",
       "related_topic_ids": [
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-changing-coordinate-systems-with-different-bases-23b1697a",
         "topic-definition-of-a-basis-bddb1a30",
         "topic-linear-combination-of-vectors-1f54c465",
@@ -4871,19 +4886,22 @@
       "topic_id": "topic-inverse-matrix-a-1-b06120b0",
       "video_count": 1
     },
-    "topic-j-hat-81e9beb2": {
-      "aliases": [],
-      "canonical_key": "j-hat",
+    "topic-j-hat-3697a91b": {
+      "aliases": [
+        "j_hat"
+      ],
+      "canonical_key": "j_hat",
       "family_ids": [
-        "family-bases-and-coordinates-0a165a74",
-        "family-matrix-representations-f18d6595"
+        "family-bases-and-coordinates-0a165a74"
       ],
-      "label": "j-hat",
+      "label": "j Hat",
       "related_topic_ids": [
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
-        "topic-i-hat-and-j-hat-8a204faf"
+        "topic-basis-vectors-c7b4cebf",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
+        "topic-i-hat-e6dd994f",
+        "topic-images-of-basis-vectors-eaaa572f"
       ],
-      "topic_id": "topic-j-hat-81e9beb2",
+      "topic_id": "topic-j-hat-3697a91b",
       "video_count": 1
     },
     "topic-jennifer-s-basis-b1-and-b2-50213467": {
@@ -4962,7 +4980,7 @@
       ],
       "label": "Linear Combination",
       "related_topic_ids": [
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-changing-coordinate-systems-with-different-bases-23b1697a",
         "topic-definition-of-a-basis-bddb1a30",
         "topic-dependence-vs-independence-of-vector-sets-419dda5d",
@@ -5225,7 +5243,7 @@
         "topic-cross-product-sign-and-orientation-83d1e156",
         "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e",
         "topic-parallelogram-area-as-cross-product-intuition-ac423178",
-        "topic-right-hand-rule-for-cross-product-direction-ee034f4c",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-scaling-property-3v-x-w-3-v-x-w-f4217e9b"
       ],
       "topic_id": "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
@@ -5343,7 +5361,7 @@
       "label": "Matrix Basis Images",
       "related_topic_ids": [
         "topic-2x2-matrix-representation-2294cbba",
-        "topic-basis-vectors-i-hat-and-j-hat-5dbffcfd",
+        "topic-basis-vectors-i-hat-j-hat-d527eed1",
         "topic-deducing-a-transformation-from-a-matrix-8f46461f",
         "topic-images-of-basis-vectors-determine-the-transforma-a1945272",
         "topic-matrices-as-space-transformations-8c6fed55",
@@ -5357,7 +5375,7 @@
     },
     "topic-matrix-encoding-of-linear-transformations-7b4562ef": {
       "aliases": [
-        "matrix encoding of linear transformations"
+        "Matrix encoding of linear transformations"
       ],
       "canonical_key": "matrix encoding of linear transformations",
       "family_ids": [
@@ -5765,12 +5783,14 @@
       "video_count": 1
     },
     "topic-non-square-matrices-64ba8128": {
-      "aliases": [],
+      "aliases": [
+        "Non-square matrices"
+      ],
       "canonical_key": "non-square matrices",
       "family_ids": [
         "family-non-square-matrices-64ba8128"
       ],
-      "label": "non-square matrices",
+      "label": "Non-Square Matrices",
       "related_topic_ids": [
         "topic-3x2-matrix-maps-2d-to-3d-37d44f2a",
         "topic-column-space-interpretation-9aec5dcc",
@@ -5791,7 +5811,7 @@
       "family_ids": [
         "family-non-square-matrices-64ba8128"
       ],
-      "label": "non-square matrices Later",
+      "label": "Non-Square Matrices Later",
       "related_topic_ids": [
         "topic-dimension-of-outputs-line-plane-space-a82eccc8",
         "topic-full-rank-e7554534"
@@ -5819,7 +5839,7 @@
         "topic-parallelepiped-volume-representing-a-coordinate--1f3a96d8",
         "topic-signed-area-interpretation-of-coordinates-8020aa13",
         "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
-        "topic-zero-determinant-case-singular-transformation-853955aa"
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-nonzero-determinant-and-invertibility-196123cd",
       "video_count": 1
@@ -6007,7 +6027,7 @@
         "topic-example-with-v-3-1-w-2-1-and-determinant-5-ed4d5ed3",
         "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
         "topic-parallelogram-area-as-cross-product-intuition-ac423178",
-        "topic-right-hand-rule-for-cross-product-direction-ee034f4c",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-scaling-property-3v-x-w-3-v-x-w-f4217e9b"
       ],
       "topic_id": "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e",
@@ -6283,6 +6303,7 @@
         "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
         "topic-notational-justification-and-duality-teaser-e7c6de36",
         "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
         "topic-scaling-property-3v-x-w-3-v-x-w-f4217e9b",
         "topic-unit-square-to-parallelogram-mapping-5bfb4adc"
       ],
@@ -6703,22 +6724,29 @@
       "topic_id": "topic-right-hand-rule-7319c13c",
       "video_count": 1
     },
-    "topic-right-hand-rule-for-cross-product-direction-ee034f4c": {
+    "topic-right-hand-rule-for-cross-product-direction-d6012ca7": {
       "aliases": [
-        "right-hand rule for cross-product direction"
+        "right-hand rule for cross product direction"
       ],
-      "canonical_key": "right-hand rule for cross-product direction",
+      "canonical_key": "right-hand rule for cross product direction",
       "family_ids": [
-        "family-cross-products-2c7beda3"
+        "family-cross-products-2c7beda3",
+        "family-three-dimensional-geometry-f08b65c4"
       ],
-      "label": "Right Hand Rule",
+      "label": "Cross Product Right Hand Rule",
       "related_topic_ids": [
+        "topic-2d-cross-product-via-determinant-34453bba",
+        "topic-3d-determinant-method-with-i-j-k-5c7bfc57",
+        "topic-cross-product-as-a-vector-not-a-scalar-ea1ea6a2",
         "topic-cross-product-sign-and-orientation-83d1e156",
         "topic-i-hat-cross-j-hat-orientation-b4708e26",
         "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
-        "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e"
+        "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e",
+        "topic-parallelogram-area-as-cross-product-intuition-ac423178",
+        "topic-scaling-property-3v-x-w-3-v-x-w-f4217e9b",
+        "topic-unit-square-to-parallelogram-mapping-5bfb4adc"
       ],
-      "topic_id": "topic-right-hand-rule-for-cross-product-direction-ee034f4c",
+      "topic_id": "topic-right-hand-rule-for-cross-product-direction-d6012ca7",
       "video_count": 1
     },
     "topic-right-hand-rule-for-orientation-in-3d-85dd23ea": {
@@ -6942,7 +6970,8 @@
         "topic-example-with-v-3-1-w-2-1-and-determinant-5-ed4d5ed3",
         "topic-magnitude-vs-direction-of-the-cross-product-b346d941",
         "topic-order-matters-v-x-w-vs-w-x-v-d0f8a77e",
-        "topic-parallelogram-area-as-cross-product-intuition-ac423178"
+        "topic-parallelogram-area-as-cross-product-intuition-ac423178",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7"
       ],
       "topic_id": "topic-scaling-property-3v-x-w-3-v-x-w-f4217e9b",
       "video_count": 1
@@ -7074,7 +7103,8 @@
         "topic-nonzero-determinant-and-invertibility-196123cd",
         "topic-parallelepiped-volume-representing-a-coordinate--1f3a96d8",
         "topic-parallelogram-area-representing-a-coordinate-y-c-0156791e",
-        "topic-solving-coordinates-via-determinants-of-modified-4f3098b0"
+        "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-signed-area-interpretation-of-coordinates-8020aa13",
       "video_count": 1
@@ -7147,7 +7177,7 @@
         "topic-parallelepiped-volume-representing-a-coordinate--1f3a96d8",
         "topic-parallelogram-area-representing-a-coordinate-y-c-0156791e",
         "topic-signed-area-interpretation-of-coordinates-8020aa13",
-        "topic-zero-determinant-case-singular-transformation-853955aa"
+        "topic-zero-determinant-case-singular-transformation-b23f6610"
       ],
       "topic_id": "topic-solving-coordinates-via-determinants-of-modified-4f3098b0",
       "video_count": 1
@@ -7504,12 +7534,14 @@
       "video_count": 1
     },
     "topic-u-hat-projection-intuition-5905a290": {
-      "aliases": [],
+      "aliases": [
+        "u-hat projection intuition"
+      ],
       "canonical_key": "u-hat projection intuition",
       "family_ids": [
         "family-dot-products-c15b8d11"
       ],
-      "label": "u-hat projection intuition",
+      "label": "Projection Intuition",
       "related_topic_ids": [
         "topic-coordinate-wise-multiplication-c5215010",
         "topic-diagonal-number-line-visualization-f904d232",
@@ -7559,7 +7591,8 @@
         "topic-determinant-as-area-change-under-linear-transfor-10d9b871",
         "topic-i-hat-cross-j-hat-orientation-b4708e26",
         "topic-notational-justification-and-duality-teaser-e7c6de36",
-        "topic-parallelogram-area-as-cross-product-intuition-ac423178"
+        "topic-parallelogram-area-as-cross-product-intuition-ac423178",
+        "topic-right-hand-rule-for-cross-product-direction-d6012ca7"
       ],
       "topic_id": "topic-unit-square-to-parallelogram-mapping-5bfb4adc",
       "video_count": 1
@@ -8084,11 +8117,11 @@
       "topic_id": "topic-zero-determinant-and-dimension-collapse-40d87482",
       "video_count": 1
     },
-    "topic-zero-determinant-case-singular-transformation-853955aa": {
+    "topic-zero-determinant-case-singular-transformation-b23f6610": {
       "aliases": [
-        "zero-determinant case (singular transformation)"
+        "zero determinant case (singular transformation)"
       ],
-      "canonical_key": "zero-determinant case (singular transformation)",
+      "canonical_key": "zero determinant case (singular transformation)",
       "family_ids": [
         "family-determinants-51aa69f0",
         "family-systems-and-inverses-e6987b27"
@@ -8096,12 +8129,15 @@
       "label": "Singular Transformation",
       "related_topic_ids": [
         "topic-2x2-linear-system-af9bf9a4",
+        "topic-columns-as-images-of-basis-vectors-i-hat-j-hat-389f5389",
         "topic-cramer-s-rule-also-called-kramer-s-rule-b13f7060",
+        "topic-determinant-as-common-scaling-factor-for-areas-v-f6c97d67",
         "topic-gaussian-elimination-as-a-computational-alternat-f9e21152",
         "topic-nonzero-determinant-and-invertibility-196123cd",
+        "topic-signed-area-interpretation-of-coordinates-8020aa13",
         "topic-solving-coordinates-via-determinants-of-modified-4f3098b0"
       ],
-      "topic_id": "topic-zero-determinant-case-singular-transformation-853955aa",
+      "topic_id": "topic-zero-determinant-case-singular-transformation-b23f6610",
       "video_count": 1
     },
     "topic-zero-volume-implies-linear-dependence-of-columns-abf15109": {

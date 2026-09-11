@@ -12,7 +12,7 @@
   "featured_techniques": [
     {
       "confidence": 0.95,
-      "technique": "Basis vectors mapped to matrix columns (images of i-hat and j-hat)",
+      "technique": "Basis vectors mapped to matrix columns (images of i_hat and j_hat)",
       "timestamp": "00:01:33.140"
     },
     {
@@ -47,15 +47,6 @@
     "handler_version": "1",
     "job_id": "eb5946ff-a60c-5aa8-b9ca-303b1b4b0be6",
     "spec_sha256": "8648ead6135ac6a08a7bf7e2ca74aa48426fa2d480804f5848ab264df0d5b6dc",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-54fa498ba904",
-        "term-55190aa16698",
-        "term-ed6cedd2a962"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 39765,
       "dependency_resolution_ms": 51,
@@ -82,12 +73,12 @@
     {
       "concepts": [
         "linear transformation",
-        "basis vectors (i-hat, j-hat)",
+        "basis vectors (i_hat, j_hat)",
         "images of basis vectors determine transformation",
         "matrix columns as coordinates of transformed basis vectors",
         "matrix-vector multiplication represents applying a transformation"
       ],
-      "description": "A recap of representing linear transformations with matrices, where a transformation is determined by the images of the basis vectors i-hat and j-hat, and those images form the columns of the matrix. The computation of how any vector transforms reduces to combining those column images proportionally to its coordinates.",
+      "description": "A recap of representing linear transformations with matrices, where a transformation is determined by the images of the basis vectors i_hat and j_hat, and those images form the columns of the matrix. The computation of how any vector transforms reduces to combining those column images proportionally to its coordinates.",
       "end": "00:02:01.500",
       "start": "00:00:10.880",
       "title": "Recap: Linear transformations and matrix basics"
@@ -99,7 +90,7 @@
         "shear",
         "composition matrix as the overall effect"
       ],
-      "description": "When two linear transformations are applied in sequence, the result is another linear transformation. The video shows a rotation followed by a shear and explains that this overall effect can be captured by a single matrix, whose columns are the final positions of i-hat and j-hat after both transformations.",
+      "description": "When two linear transformations are applied in sequence, the result is another linear transformation. The video shows a rotation followed by a shear and explains that this overall effect can be captured by a single matrix, whose columns are the final positions of i_hat and j_hat after both transformations.",
       "end": "00:04:29.540",
       "start": "00:02:01.500",
       "title": "Composition of transformations and the composition matrix"
@@ -111,7 +102,7 @@
         "concrete example with M1 and M2",
         "evidence that the composition matrix encodes the same net transformation as applying M1 then M2"
       ],
-      "description": "The presenter shows how to obtain the composition matrix by analyzing where i-hat and j-hat land after applying M1 and then M2. The first column is found by multiplying M1 by the first column of M2 (the image of i-hat), and the second column by multiplying M1 by the second column of M2 (the image of j-hat). A concrete M1/M2 example demonstrates this column-by-column construction.",
+      "description": "The presenter shows how to obtain the composition matrix by analyzing where i_hat and j_hat land after applying M1 and then M2. The first column is found by multiplying M1 by the first column of M2 (the image of i_hat), and the second column by multiplying M1 by the second column of M2 (the image of j_hat). A concrete M1/M2 example demonstrates this column-by-column construction.",
       "end": "00:06:54.340",
       "start": "00:04:29.540",
       "title": "Computing the composition matrix from M1 and M2 (column-by-column process)"
@@ -131,14 +122,14 @@
       "title": "Symbolic generalization, intuition, and conclusions"
     }
   ],
-  "summary": "This video explains how linear transformations are represented by matrices, focusing on composing transformations as a single matrix. It reviews that a linear transformation is determined by its action on the basis vectors (i-hat, j-hat) and that a matrix’s columns encode where those basis vectors land after the transformation. The core idea is that composing two linear transformations—such as a rotation followed by a shear—yields a new linear transformation that can itself be described by a matrix, the “composition matrix.” The video demonstrates constructing this matrix by tracking how i-hat and j-hat are mapped through each transformation, shows how matrix multiplication implements the sequential application of transformations (read right-to-left), and provides concrete examples (M1 and M2) to compute the composition matrix column by column. It also discusses why the order matters and how associativity of matrix multiplication arises from thinking about applying transformations, with a symbolic generalization and a teaser for extending the ideas beyond two dimensions.",
+  "summary": "This video explains how linear transformations are represented by matrices, focusing on composing transformations as a single matrix. It reviews that a linear transformation is determined by its action on the basis vectors (i_hat, j_hat) and that a matrix’s columns encode where those basis vectors land after the transformation. The core idea is that composing two linear transformations—such as a rotation followed by a shear—yields a new linear transformation that can itself be described by a matrix, the “composition matrix.” The video demonstrates constructing this matrix by tracking how i_hat and j_hat are mapped through each transformation, shows how matrix multiplication implements the sequential application of transformations (read right-to-left), and provides concrete examples (M1 and M2) to compute the composition matrix column by column. It also discusses why the order matters and how associativity of matrix multiplication arises from thinking about applying transformations, with a symbolic generalization and a teaser for extending the ideas beyond two dimensions.",
   "title": "Matrix multiplication as composition (Essence of Linear Algebra, Chapter 4)",
   "topics": [
     "linear transformation",
     "matrix representation",
     "basis vectors",
-    "i-hat",
-    "j-hat",
+    "i_hat",
+    "j_hat",
     "images of basis vectors",
     "matrix-vector multiplication",
     "composition of linear transformations",

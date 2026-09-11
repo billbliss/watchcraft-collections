@@ -32,14 +32,6 @@
     "handler_version": "1",
     "job_id": "f37cadb9-a016-5685-a5ee-ce3455bd8b72",
     "spec_sha256": "388c7aedaebaf4a68ec5da691811343525d0c155404a518f9587008f850f2171",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-300aca657fee",
-        "term-55190aa16698"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 55444,
       "dependency_resolution_ms": 38,
@@ -149,7 +141,7 @@
     "matrix as linear transformation",
     "columns as images of basis vectors (i-hat, j-hat)",
     "nonzero determinant and invertibility",
-    "zero-determinant case (singular transformation)",
+    "zero determinant case (singular transformation)",
     "dot product and orthonormal transformations",
     "dot product preservation under orthonormal transforms",
     "parallelogram area representing a coordinate (y-coordinate)",

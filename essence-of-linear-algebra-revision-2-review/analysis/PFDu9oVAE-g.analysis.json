@@ -12,7 +12,7 @@
   "featured_techniques": [
     {
       "confidence": 0.9,
-      "technique": "Solve eigenpairs via the equation (A - λI)v = 0 (characteristic equation) to find λ and v",
+      "technique": "Solve eigenpairs via the equation (A − λI)v = 0 (characteristic equation) to find λ and v",
       "timestamp": "00:05:40.160"
     },
     {
@@ -52,13 +52,6 @@
     "handler_version": "1",
     "job_id": "4b0f1197-975e-582c-afca-9017d5b19d59",
     "spec_sha256": "9967b5e08782d6352786c56188b01c894888e85ef738a2443c2b1856d422b932",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-db415ec22de5"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 63487,
       "dependency_resolution_ms": 104,
@@ -117,7 +110,7 @@
     {
       "concepts": [
         "A v = λ v",
-        "(A - λI)v = 0",
+        "(A − λI)v = 0",
         "nonzero solutions require det(A − λI) = 0",
         "characteristic equation"
       ],
@@ -160,7 +153,7 @@
       "title": "Wrap-up and next steps"
     }
   ],
-  "summary": "This 3Blue1Brown episode builds intuition for eigenvectors and eigenvalues by visualizing linear transformations in the plane, then derives the algebraic condition that defines eigenpairs. It starts from a concrete 2×2 transformation, explains how some vectors stay on their own span and are simply stretched, and introduces the terms eigenvector and eigenvalue. It moves to the symbolic eigenproblem Av = λv, shows how to rewrite it as (A - λI)v = 0 and why nonzero solutions require det(A − λI) = 0, and then explores representative examples: a rotation (which may have no real eigenvectors), a shear (with a real eigenbasis along the x-axis), and a scaling matrix. Finally, it motivates the eigenbasis and diagonalization idea, showing how changing to eigenvectors as a basis diagonalizes the transformation and greatly simplifies powers like A^n, while noting that not all transformations admit a full eigenbasis. The video closes with a teaser for the next topic on abstract vector spaces.",
+  "summary": "This 3Blue1Brown episode builds intuition for eigenvectors and eigenvalues by visualizing linear transformations in the plane, then derives the algebraic condition that defines eigenpairs. It starts from a concrete 2×2 transformation, explains how some vectors stay on their own span and are simply stretched, and introduces the terms eigenvector and eigenvalue. It moves to the symbolic eigenproblem Av = λv, shows how to rewrite it as (A − λI)v = 0 and why nonzero solutions require det(A − λI) = 0, and then explores representative examples: a rotation (which may have no real eigenvectors), a shear (with a real eigenbasis along the x-axis), and a scaling matrix. Finally, it motivates the eigenbasis and diagonalization idea, showing how changing to eigenvectors as a basis diagonalizes the transformation and greatly simplifies powers like A^n, while noting that not all transformations admit a full eigenbasis. The video closes with a teaser for the next topic on abstract vector spaces.",
   "title": "Geometric and algebraic intuition for eigenvectors and eigenvalues (3Blue1Brown, Chapter 14)",
   "topics": [
     "Eigenvectors",

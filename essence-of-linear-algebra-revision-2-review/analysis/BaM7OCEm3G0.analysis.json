@@ -27,7 +27,7 @@
     },
     {
       "confidence": 0.75,
-      "technique": "Constructing a linear functional L(x) = det([x, v, w]) and solving for P",
+      "technique": "Constructing a linear functional L(x) = det([x v w]) and solving for P",
       "timestamp": "02:46:00"
     },
     {
@@ -42,14 +42,6 @@
     "handler_version": "1",
     "job_id": "1d8daca0-ef96-5480-919c-54b962d8e337",
     "spec_sha256": "4bbe06560a849d5f7ae11ad5bf1199b3717927bdc778ec140f49ee35cc905896",
-    "terminology_resolution": {
-      "job_id": "6493f924-60f5-50ee-ab72-5579bb33567c",
-      "resolution_ids": [
-        "term-14cbf6785425",
-        "term-fb591d87707a"
-      ],
-      "source_hash": "a615e8d55b77257522c1f7fe1bb5695b7c03961b5300d27a7f5c85d1a2c8497a"
-    },
     "timing": {
       "analysis_ms": 42512,
       "dependency_resolution_ms": 130,
@@ -100,13 +92,13 @@
     {
       "concepts": [
         "linear functional",
-        "L(x) = det([x, v, w])",
+        "L(x) = det([x v w])",
         "dual vector P"
       ],
       "description": "Defines a linear functional L on R^3 parameterized by fixed vectors v and w, and asks for a vector P such that L(x) = P · x for all x = (x, y, z).",
       "end": "03:30:120",
       "start": "02:46:080",
-      "title": "Defining L(x) = det([x, v, w]) and seeking its dual P"
+      "title": "Defining L(x) = det([x v w]) and seeking its dual P"
     },
     {
       "concepts": [
@@ -145,7 +137,7 @@
         "P · x = L(x)",
         "perpendicular to v and w",
         "length equals parallelogram area",
-        "right-hand-rule alignment"
+        "right-hand rule alignment"
       ],
       "description": "Demonstrates that the same P obtained computationally via the determinant corresponds to a vector perpendicular to v and w whose length equals the area of the parallelogram spanned by v and w; orientation matches the right-hand rule.",
       "end": "11:43:560",

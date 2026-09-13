@@ -1,0 +1,216 @@
+{
+  "analysis_created_at": "2026-09-11T20:59:40.509523+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "July 14, 2020",
+    "iso": "2020-07-14",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.74,
+      "technique": "Decoding tire size and speed rating",
+      "timestamp": "00:00:24"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Door placard usage and spare size identification",
+      "timestamp": "00:02:37"
+    },
+    {
+      "confidence": 0.77,
+      "technique": "Reading and interpreting DOT date code",
+      "timestamp": "00:03:31"
+    },
+    {
+      "confidence": 0.74,
+      "technique": "Tread depth measurement with gauge and penny test reference",
+      "timestamp": "00:11:06"
+    },
+    {
+      "confidence": 0.76,
+      "technique": "Patch vs plug repair procedure (step-by-step)",
+      "timestamp": "00:14:12"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "AWD tread-depth balance and four-wheel alignment rationale",
+      "timestamp": "00:18:30"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript repeatedly references winter conditions, frost heaves, and driving in a New England context (00:18:58, 00:19:04; 00:28:40); not a shooting location but regional context.",
+      "confidence": 0.55,
+      "name": "New England (probable region)"
+    },
+    {
+      "basis": "General example using Texas flatlands as a scenario for snow/traction in discussion (00:18:59).",
+      "confidence": 0.4,
+      "name": "Texas (region)"
+    },
+    {
+      "basis": "Mentions of New Hampshire law about tire tread depth (2/32 in) as a regional example (00:11:40–00:12:01; 00:12:01 shows the 2/32 reference with state context).",
+      "confidence": 0.6,
+      "name": "New Hampshire (state)"
+    },
+    {
+      "basis": "Mentions of Massachusetts law in tread depth context (00:11:44–00:11:46).",
+      "confidence": 0.6,
+      "name": "Massachusetts (state)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "1c3fccb8-03d3-52bc-a94c-0e904ea22959",
+    "spec_sha256": "94bd9b846bf88ac56f268d9afd229b65007ff187d6903eae9b9681490fb5250c",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-213c9ca071fb",
+        "term-3b8f3b6df387"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 48744,
+      "dependency_resolution_ms": 85,
+      "handler_ms": 50629,
+      "input_fetch_ms": 1584
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 604688,
+      "digest": "8678a29507721638466de74ce7667e9e4b91224ffb5f852efde570d0481c0dc6",
+      "key": "objects/sha256/86/78a29507721638466de74ce7667e9e4b91224ffb5f852efde570d0481c0dc6",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c825166a-7611-5be3-ab10-0e743f328c75"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Tire size format: width, aspect ratio, radial construction, rim diameter",
+        "Speed rating letters and mph implications (H up to 130 mph, V up to 149 mph)"
+      ],
+      "description": "Explains the standard tire size code (width, aspect ratio, radial, rim diameter) and introduces speed ratings (H and V) to illustrate intended performance and safety considerations.",
+      "end": "00:01:46",
+      "start": "00:00:24",
+      "title": "Tire size basics and speed rating overview"
+    },
+    {
+      "concepts": [
+        "Door sticker location (driver’s side, sometimes passenger side)",
+        "Occasional alternative tire sizes or spare size information"
+      ],
+      "description": "Guides viewers to locate the vehicle’s exact tire-size requirements on the door placard and notes that some vehicles include alternative sizes and spare sizing information.",
+      "end": "00:03:29",
+      "start": "00:02:37",
+      "title": "Where to find exact tire spec for your car (door placard)"
+    },
+    {
+      "concepts": [
+        "DOT date code (week-year)",
+        "Example: 46th week of 2014; tire age as an aging risk"
+      ],
+      "description": "Highlights reading the tire date code to gauge age, with an example showing how to interpret the week and year to determine tire age.",
+      "end": "00:04:15",
+      "start": "00:03:31",
+      "title": "Tire age and date code importance"
+    },
+    {
+      "concepts": [
+        "Material build (polyester/steel/nylon layers)",
+        "Oil-based rubber aging and environmental effects"
+      ],
+      "description": "Brief look at tire construction and how aging affects performance, safety, and performance under heat and environmental exposure.",
+      "end": "00:05:15",
+      "start": "00:04:12",
+      "title": "Tire construction and aging risk concepts"
+    },
+    {
+      "concepts": [
+        "Manufacturer-recommended tire pressure vs max-pressure on sidewall",
+        "Door jamb placard as reference for proper pressure",
+        "Using a handheld gauge vs air pump readouts"
+      ],
+      "description": "Emphasizes that you should follow the vehicle’s door placard for pressure, not the tire’s max sidewall, and demonstrates reading pressure with a gauge.",
+      "end": "00:10:59",
+      "start": "00:07:40",
+      "title": "Tire pressure fundamentals and gauge usage"
+    },
+    {
+      "concepts": [
+        "Using a tread-depth gauge (mm and 32nds)",
+        "Real-world reading example (8-10 range)"
+      ],
+      "description": "Demonstrates how to measure tread depth with a gauge and explains the 32nds inch scale versus millimeters, including an observed reading range.",
+      "end": "00:13:39",
+      "start": "00:11:06",
+      "title": "Tread depth measurement basics and 32nds"
+    },
+    {
+      "concepts": [
+        "Difference between plugging and patching a puncture",
+        "Non-patching zone and burr removal",
+        "Plug insertion steps and safety notes"
+      ],
+      "description": "Details the repair options for a puncture, explaining when to prefer a patch over a plug, and outlines the basic steps to plug a tire when needed.",
+      "end": "00:18:30",
+      "start": "00:14:12",
+      "title": "Tire repair: patch vs plug — what to know"
+    },
+    {
+      "concepts": [
+        "Rotation timing concepts vs fixed mileage rules",
+        "All-wheel drive and the need for similar tread depth across all tires",
+        "Four-wheel alignment importance and frequency in varying terrains (New England context)"
+      ],
+      "description": "Discusses rotation frequency and the rationale behind keeping tire tread depths similar on AWD systems, plus the need for four-wheel alignment and its cost/value, particularly in regions with rough roads.",
+      "end": "00:28:11",
+      "start": "00:18:30",
+      "title": "Rotation, AWD considerations, and alignment importance"
+    },
+    {
+      "concepts": [
+        "Encourages subscribing and notification engagement"
+      ],
+      "description": "Final call to action and recap of the video’s purpose to help viewers with tire safety and maintenance.",
+      "end": "00:28:59",
+      "start": "00:28:50",
+      "title": "Closing tips and engagement"
+    }
+  ],
+  "summary": "In this tire-focused guide, Sue from 1A Auto explains how to read and interpret tire size codes, age, and proper maintenance to maximize safety and performance. The video covers decoding tire size (width, aspect ratio, radial construction, and rim diameter), understanding speed ratings, locating the official tire size on the door placard and the spare, and identifying tire age from the date code. It also demonstrates practical topics like tire pressure, using gauges, tread-depth checks (with gauges and the Lincoln penny method), and when to repair vs replace. The discussion extends to patching vs plugging, the importance of rotation, and the role of alignment for front-, rear-, and all-wheel-drive vehicles, including the need for four matching tires on AWD systems and seasonal considerations for snow tires. Practical buying guidance, maintenance cadence, and the rationale behind many recommendations are tied back to safety and performance considerations.",
+  "title": "Tire basics and maintenance: size, age, pressure, wear, repair, and alignment (1A Auto)",
+  "topics": [
+    "Tire size decoding (width, aspect ratio, radial construction, rim diameter)",
+    "Speed rating and mph implications (H vs V)",
+    "Door placard and spare tire identification",
+    "Tire DOT date code and tire age assessment (week-year)",
+    "Tire age vs tread depth and aging effects on rubber",
+    "Tire pressure basics and door-side reading vs max sidewall",
+    "Tire pressure gauges (types and correct use)",
+    "Tread depth measurement (tire tread gauge and 32nds vs millimeters)",
+    "Penny tread-depth visual test (Lincoln head)",
+    "Damaged/uneven wear and signs of poor alignment or bad road impact",
+    "Patch vs plug repair methods and best practices",
+    "Rotation frequency and rationale (front/rear wear, weight distribution)",
+    "All-wheel drive (AWD) considerations: tread depth uniformity and transfer case implications",
+    "Four-wheel alignment and when/how often to do it",
+    "Snow tires vs all-season performance and safety considerations",
+    "Independent tire brand selection and research approach"
+  ],
+  "video": "yMPR8-MKKEw.youtube"
+}

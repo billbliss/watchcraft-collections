@@ -1,0 +1,176 @@
+{
+  "analysis_created_at": "2026-09-11T21:05:24.211507+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "July 7, 2020",
+    "iso": "2020-07-07",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Cleaning a MAF sensor with a dedicated cleaner using indirect spray to avoid dripping cleaner into the sensor",
+      "timestamp": "00:07:20"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Diagnostic approach using an OBD scanner to graph MAF signals; alternative using a multimeter",
+      "timestamp": "00:05:39"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Physical inspection for air leaks by wiggling hoses and verifying clamps and connections",
+      "timestamp": "00:04:19"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "1f3ab7c3-96c7-5223-a8a2-cc8c5a2c401d",
+    "spec_sha256": "9185309c8b8477024e4a1f321caa1f28114051c5e98624a75ff128e8e746bdee",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-ad6c1a859dc1"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 63487,
+      "dependency_resolution_ms": 120,
+      "handler_ms": 64474,
+      "input_fetch_ms": 748
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 304408,
+      "digest": "ce85d7f9ccae6d69bd05aec73f99962c4ca9af6244fbb8555c14545e53c3b7f6",
+      "key": "objects/sha256/ce/85d7f9ccae6d69bd05aec73f99962c4ca9af6244fbb8555c14545e53c3b7f6",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "8cfc6628-bddd-538d-8f5c-a6c4d374fac0"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "MAF measures air volume and density",
+        "Signal to ECU to balance fuel",
+        "General importance to engine runnability"
+      ],
+      "description": "Introduction to the MAF sensor and its core function: sensing air entering the engine and sending a signal to the vehicle computer to optimize fuel delivery for efficient operation.",
+      "end": "00:02:11",
+      "start": "00:00:00",
+      "title": "MAF Sensor Overview"
+    },
+    {
+      "concepts": [
+        "Sensor placement near the air filter / intake",
+        "Variation in shapes and sizes",
+        "Some units include an integrated air temperature sensor"
+      ],
+      "description": "Discussion of where MAF sensors are typically located in the intake system and how they vary in form, while generally performing the same measurement task.",
+      "end": "00:02:57",
+      "start": "00:02:11",
+      "title": "Placement and Physical Variants"
+    },
+    {
+      "concepts": [
+        "Hard starting and poor runnability",
+        "Decreased fuel economy",
+        "Check engine light and P0101 code",
+        "Sensor out of range or dirty/broken"
+      ],
+      "description": "Outlines common symptoms of a failing MAF sensor and explains that a rough or lean/rich condition can trigger codes such as P0101.",
+      "end": "00:04:04",
+      "start": "00:02:57",
+      "title": "Symptoms and Diagnostic Clues"
+    },
+    {
+      "concepts": [
+        "Air filter condition",
+        "Vacuum/air leaks after the MAF",
+        "Clamp integrity and hose seating"
+      ],
+      "description": "Emphasizes checking for air leaks and a clean air filter before replacing or cleaning the MAF, since unmetered or restricted air affects readings.",
+      "end": "00:05:39",
+      "start": "00:04:04",
+      "title": "Pre-Check: Air Filter and Leaks"
+    },
+    {
+      "concepts": [
+        "MAF communicates with intake air temperature sensor",
+        "O2 sensors provide feedback for fuel trimming",
+        "Aim for the 14.7:1 air-to-fuel ratio"
+      ],
+      "description": "Highlights that the MAF's readings are corroborated by the intake air temperature sensor and that the O2 sensors help maintain the correct air-fuel balance for optimal combustion.",
+      "end": "00:06:34",
+      "start": "00:05:39",
+      "title": "Sensor Interactions and Air Density"
+    },
+    {
+      "concepts": [
+        "OBD/scan tools for graphing MAF signals",
+        "Affordable multimeter as an alternative",
+        "Realistic budget considerations"
+      ],
+      "description": "Discusses tools for verifying MAF behavior, including high-end scanners with graphing capabilities and a low-cost multimeter for basic measurements.",
+      "end": "00:07:20",
+      "start": "00:06:34",
+      "title": "Diagnostics Tools Overview"
+    },
+    {
+      "concepts": [
+        "Power down and disconnect the MAF",
+        "use dedicated MAF sensor cleaner (not general solvents)",
+        "Indirect spray and avoid direct contact with the sensing element",
+        "Do not use compressed air or a brush",
+        "Allow to dry and verify cleanliness"
+      ],
+      "description": "Demonstrates a cleaning procedure for the MAF sensor, emphasizing proper technique to avoid residue, damage, or pushing cleaner into the electronics. Includes steps for removal, careful spraying, drying, and the importance of not over-cleaning.",
+      "end": "00:11:23",
+      "start": "00:07:20",
+      "title": "Cleaning and Handling the MAF Sensor"
+    },
+    {
+      "concepts": [
+        "Debris or moisture risk to sensor electronics",
+        "Potential impact on catalytic converter from improper fuel balance",
+        "Caution about reassembly and ECU reset timing"
+      ],
+      "description": "Summarizes risks involved in improper cleaning and the downstream effects on engine and emissions systems, along with cautions about reassembly and resetting the ECU.",
+      "end": "00:11:55",
+      "start": "00:11:23",
+      "title": "Aftercare and Safety Considerations"
+    }
+  ],
+  "summary": "This video provides a practical overview of mass air flow (MAF) sensors commonly found in modern fuel-injected engines. It explains the sensor’s role in measuring air volume and density to help the engine computer balance air and fuel, outlines common symptoms of a failing or dirty sensor (including hard starts, reduced fuel economy, hesitation, and a check engine light with code P0101), and describes common failure modes such as intake leaks and dirty air filters. It also demonstrates basic diagnostics concepts (using basic tools or an OBD scanner), and presents a hands-on cleaning procedure using dedicated MAF cleaner, with cautions against improper cleaning techniques and irreversible damage. The video emphasizes safety, proper reassembly checks, and ECU reset steps after servicing the sensor.",
+  "title": "Mass Air Flow (MAF) Sensor: Overview, Symptoms, and In-Depth Cleaning Guide (1A Auto)",
+  "topics": [
+    "Mass Air Flow (MAF) sensor function",
+    "MAF sensor placement near air filter / intake",
+    "MAF sensor appearance and variants",
+    "Air intake temperature sensor relationship",
+    "Oxygen (O2) sensor role and fuel trim",
+    "air-fuel ratio baseline 14.7:1",
+    "Symptom: hard start, poor idle, reduced fuel economy",
+    "Diagnostic trouble code P0101",
+    "Potential causes: dirty air filter, air leaks, loose clamps",
+    "Importance of checking for intake leaks before replacing MAF",
+    "MAF sensor testing tools: OBD scanner vs multimeter",
+    "MAF cleaning procedure: dedicated cleaner, indirect spray, avoid brushing",
+    "Safety considerations when cleaning (eye protection, no compressed air)",
+    "Post-service ECU reset procedure (negative battery terminal)"
+  ],
+  "video": "ol99T_-iSWI.youtube"
+}

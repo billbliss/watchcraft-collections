@@ -1,0 +1,182 @@
+{
+  "analysis_created_at": "2026-09-11T20:59:34.617298+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "April 17, 2020",
+    "iso": "2020-04-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Scissor jack mechanism: two arms moved by a threaded rod to raise the center",
+      "timestamp": "00:00:46.740"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Pinch weld lift point alignment: place between two tabs and line up with groove",
+      "timestamp": "00:02:40.360"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Use of the jack tool to raise/lower safely",
+      "timestamp": "00:02:14.780"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Safety-first setup: chalk Wheel and engage parking brake",
+      "timestamp": "00:01:21.420"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Emergency-use only warning and limitations",
+      "timestamp": "00:01:31.780"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Pre-lift tire change prep: loosen lug nuts before lifting",
+      "timestamp": "00:03:17.600"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Lowering procedure: reverse of raising, then return jack to storage",
+      "timestamp": "00:03:34.720"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Cross-type applicability: bottle and floor jacks operate similarly on correct corner points",
+      "timestamp": "00:04:02.420"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "ca6424bf-58fd-5910-84d5-0993633490c7",
+    "spec_sha256": "c281f9d7783f4232524c58be828b199427f68ca481d02c8d9c3ad66d5297ec7a",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-110cc0b0413e",
+        "term-daf1802758ab"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 57497,
+      "dependency_resolution_ms": 161,
+      "handler_ms": 58746,
+      "input_fetch_ms": 938
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 87746,
+      "digest": "f6f225251376b59d0ccf4b17cb25f709fabb1eb795deba44996e2ebb31217f6e",
+      "key": "objects/sha256/f6/f225251376b59d0ccf4b17cb25f709fabb1eb795deba44996e2ebb31217f6e",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "23cb6d51-e929-57b9-b957-f007f769edde"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "types of scissor jacks",
+        "two-piece arm structure",
+        "threaded rod drives opposing pieces together"
+      ],
+      "description": "The presenter introduces scissor jacks, noting several variants with channels or grooves. He explains the mechanism: two metal halves connected by a threaded rod; tightening the rod brings the halves together like scissors, lifting the center as the jack closes, and loosening lowers it.",
+      "end": "00:01:12",
+      "start": "00:00:00",
+      "title": "Intro to scissor jacks and mechanism"
+    },
+    {
+      "concepts": [
+        "surface considerations (avoid hills, avoid dirt)",
+        "pavement as safer surface",
+        "Wheel chocks and parking brake"
+      ],
+      "description": "The video emphasizes not operating on inclines or dirt and recommends parking brake engagement and wheel chocks (wood or other props) to prevent wheel movement while lifting.",
+      "end": "00:02:04",
+      "start": "00:01:12",
+      "title": "Safety positioning and setup basics"
+    },
+    {
+      "concepts": [
+        "side indicators on jacks showing correct placement",
+        "pinch weld as lift point",
+        "between two tabs as strongest lift area",
+        "aligning pinch weld with the jack groove"
+      ],
+      "description": "Placement guidance is provided: some jacks show where to place the jack on their side; the pinch weld is identified, with the strongest lift point located between two tabs. The pinch weld should be lined up with the jack's groove.",
+      "end": "00:02:53",
+      "start": "00:02:04",
+      "title": "Jack placement indicators and lift points"
+    },
+    {
+      "concepts": [
+        "use of the included tool to tighten",
+        "slow but safer lifting"
+      ],
+      "description": "The presenter demonstrates using the jack’s tool to tighten and raise the vehicle, noting that the process takes time but is safer than improvised methods.",
+      "end": "00:03:04",
+      "start": "00:02:53",
+      "title": "Raising the vehicle with the jack tool"
+    },
+    {
+      "concepts": [
+        "loosen lug nuts before lifting",
+        "work quickly; minimize time with the vehicle elevated"
+      ],
+      "description": "If a tire change is planned, the lug nuts should be loosened while the jack is still on the ground; once lifted, the tire change should be performed efficiently to minimize time spent with the vehicle elevated.",
+      "end": "00:03:31",
+      "start": "00:03:04",
+      "title": "Preparing for a tire change"
+    },
+    {
+      "concepts": [
+        "lower by reverse operation",
+        "return the jack to its original location",
+        "other jacks (bottle, four-corner use) follow the same lift-and-lower idea"
+      ],
+      "description": "Lowering is described as the reverse of lifting. After use, the jack should be returned to its storage location. The video notes that other jack types (e.g., bottle jack) operate on the same general principle with the correct corner placement for lifting.",
+      "end": "00:04:12",
+      "start": "00:03:31",
+      "title": "Lowering, storage, and variant options"
+    },
+    {
+      "concepts": [
+        "safety reminders for roadside or worst-case scenarios",
+        "channel subscription and follow-up reminders"
+      ],
+      "description": "The presenter reiterates safety-minded use for emergencies, invites viewers to subscribe for more content, and closes the video.",
+      "end": "00:04:54",
+      "start": "00:04:12",
+      "title": "Wrap-up and context"
+    }
+  ],
+  "summary": "This tutorial explains the basic mechanics of a scissor jack, outlines safety precautions for roadside or drive-by use, demonstrates proper placement at the pinch-weld lift points, and contrasts scissor with other jack types (bottle and floor variants). The presenter emphasizes that scissor jacks are emergency use tools, shows how the threaded rod drives the two arms to lift the vehicle, and walks through setup steps (wheel chocks, parking brake, correct placement) and the reversal to lower, including cautions about quick tire changes and returning the jack to its stored location.",
+  "title": "How to Use a Scissor Jack to Raise Your Car, Truck, or SUV",
+  "topics": [
+    "scissor jack mechanism",
+    "threaded rod action",
+    "lift point concepts (pinch weld, tabs, groove alignment)",
+    "safety: pavement vs hill, wheel chocks, parking brake",
+    "emergency-use only disclaimer",
+    "jack indicators and placement guidelines",
+    "lug nuts pre-loosen for tire change",
+    "lifting and lowering procedure",
+    "alternative jacks (bottle, floor) and four-corner placement",
+    "returning jack to storage location after use"
+  ],
+  "video": "p0JhSF-ZCrM.youtube"
+}

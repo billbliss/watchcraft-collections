@@ -1,0 +1,271 @@
+{
+  "analysis_created_at": "2026-09-11T20:44:30.505672+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "February 12, 2018",
+    "iso": "2018-02-12",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Cylinder honing to create a 60-degree crosshatch pattern for oil retention",
+      "timestamp": "00:04:46"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Use of cylinder liners in aluminium blocks (bonding or lining options; NiCaCyl coating as an alternative)",
+      "timestamp": "00:03:32"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "NiCaCyl coating as a cylinder liner alternative in aluminium blocks",
+      "timestamp": "00:03:56"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Oil galleries and main oil supply routing within the block",
+      "timestamp": "00:06:39"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Oil jets installation to lubricate the inside of the cylinders and piston area",
+      "timestamp": "00:10:11"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Clarification of terminology: galleries vs galleys",
+      "timestamp": "00:06:43"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "838dbbce-c70d-5aed-82f7-d13726075ecd",
+    "spec_sha256": "b8f0399a05d3d7c7de270299d9935b6744d35ee5a606f28b420b2b9ba01b81d1",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-2872a9e33a26",
+        "term-9616a3a46d73"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 59297,
+      "dependency_resolution_ms": 132,
+      "handler_ms": 60520,
+      "input_fetch_ms": 1013
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 326599,
+      "digest": "8964db0831dd137a3286e3ca29fab5c6717229a2914316fe4fbd708f6d7f45e8",
+      "key": "objects/sha256/89/64db0831dd137a3286e3ca29fab5c6717229a2914316fe4fbd708f6d7f45e8",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "9d16bbb0-7621-59e2-8e3f-c034cd7ed02f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "engine block",
+        "cylinders",
+        "coolant passages",
+        "oil passages",
+        "accessory mounting"
+      ],
+      "description": "Introduces the engine block as the largest engine part, its role of housing cylinders, routing coolant and oil, and providing mounting points for accessories.",
+      "end": "00:01:01",
+      "start": "00:00:03",
+      "title": "Block basics and function"
+    },
+    {
+      "concepts": [
+        "cast iron",
+        "aluminium alloy",
+        "weight considerations",
+        "cast vs billet blocks",
+        "sand casting surface finish",
+        "machining of critical surfaces"
+      ],
+      "description": "Describes common block materials (cast iron and aluminium alloys), the move toward aluminium for weight savings, and mentions billet blocks used in high-end applications; notes the rough sand-cast surface and subsequent machining.",
+      "end": "00:02:56",
+      "start": "00:01:09",
+      "title": "Materials and manufacturing evolution"
+    },
+    {
+      "concepts": [
+        "cylinder liners",
+        "bore and bonding",
+        "aluminium cylinder preparation",
+        "cast iron liners for wear resistance"
+      ],
+      "description": "Explains how aluminium blocks handle cylinder bore either by directly machining cast iron bores or inserting/casting liners; discusses bonding into moulds and the role of liners in aluminium blocks.",
+      "end": "00:04:10",
+      "start": "00:03:01",
+      "title": "Cylinder liners in aluminium blocks and bonding"
+    },
+    {
+      "concepts": [
+        "cylinder surface finish",
+        "honing",
+        "crosshatch pattern",
+        "oil retention in the bore"
+      ],
+      "description": "Shows the importance of a smooth yet oil-retentive cylinder surface and introduces honing to create a fine crosshatch pattern that aids oil pooling for piston rings.",
+      "end": "00:05:04",
+      "start": "00:04:10",
+      "title": "Cylinder surface and finishing (honing overview)"
+    },
+    {
+      "concepts": [
+        "deck",
+        "cylinder head mating",
+        "head gasket function",
+        "flatness requirements",
+        "multi-deck engines"
+      ],
+      "description": "Defines the top surface (deck) and its mating to the cylinder head via a gasket; emphasizes the need for flatness and notes that multi-deck configurations require matched machining.",
+      "end": "00:06:39",
+      "start": "00:05:14",
+      "title": "Deck, head gasket, and multi-deck implications"
+    },
+    {
+      "concepts": [
+        "oil galleries",
+        "oil pump",
+        "sump",
+        "lubrication routes to head and crank",
+        "oil pressure considerations"
+      ],
+      "description": "Outlines the internal oil passageways (galleries) and how oil is pumped from the sump, routed through the block, and distributed to the head and crank areas.",
+      "end": "00:08:49",
+      "start": "00:06:39",
+      "title": "Oil galleries and lubrication routing"
+    },
+    {
+      "concepts": [
+        "internal lubrication",
+        "bearings",
+        "return paths",
+        "cylinder lubrication jets"
+      ],
+      "description": "Discusses how lubrication works inside the block, including pressure regulation and the role of jets that spray oil to bearings and cylinder walls.",
+      "end": "00:10:11",
+      "start": "00:08:49",
+      "title": "Block lubrication overview and internal jets"
+    },
+    {
+      "concepts": [
+        "oil jets",
+        "installation",
+        "torque",
+        "location pins"
+      ],
+      "description": "Demonstrates the installation of oil jets (one per cylinder), including locating pins, washer considerations, and hand-tight plus torque-wrench finalization.",
+      "end": "00:11:16",
+      "start": "00:10:11",
+      "title": "Installing oil jets"
+    },
+    {
+      "concepts": [
+        "crankshaft",
+        "main saddles",
+        "main caps",
+        "orientation and numbering"
+      ],
+      "description": "Describes the crankshaft siting in the lower block area (crankcase), the five main caps, their circular bore requirements, and the importance of reinstalling them in the correct order.",
+      "end": "00:12:21",
+      "start": "00:11:16",
+      "title": "Crankcase, main caps and cap orientation"
+    },
+    {
+      "concepts": [
+        "oil pan",
+        "gasket",
+        "undercarriage mounting"
+      ],
+      "description": "Shows the sump/oil pan and a gasket/adhesive alternative for mounting on the underside of the block.",
+      "end": "00:12:52",
+      "start": "00:12:21",
+      "title": "Sump and gasket"
+    },
+    {
+      "concepts": [
+        "core plugs",
+        "freeze plugs",
+        "expansion plugs",
+        "sand casting remnants",
+        "potential leak points"
+      ],
+      "description": "Explains core plugs (commonly called freeze plugs) used to remove sand from casts, their actual purpose, and notes that they can be a source of leaks if corroded or damaged.",
+      "end": "00:15:31",
+      "start": "00:13:01",
+      "title": "Core plugs and their purpose"
+    },
+    {
+      "concepts": [
+        "engine mounts",
+        "bosses",
+        "mounting holes",
+        "threaded surfaces"
+      ],
+      "description": "Covers engine mounting points to the block, including the mounting holes and the function of bosses and threaded surfaces for accessory attachments.",
+      "end": "00:16:16",
+      "start": "00:15:31",
+      "title": "Engine mounts and mounting bosses"
+    },
+    {
+      "concepts": [
+        "coolant circulation",
+        "temperature control",
+        "pre-ignition risk",
+        "clearance and expansion",
+        "air gaps in cooling system"
+      ],
+      "description": "Discusses the rationale for circulating coolant around the cylinders to manage heat, prevent pre-ignition and excessive piston wear, and notes design goals to avoid air pockets and ensure proper flow.",
+      "end": "00:17:42",
+      "start": "00:16:16",
+      "title": "Coolant flow management and thermal considerations"
+    }
+  ],
+  "summary": "This video explains the engine block as the core structure that houses cylinders and supports accessories, detailing material choices (cast iron, aluminium alloys, and occasional billet blocks), manufacturing steps (casting vs. machining), cylinder preparation (liners, bonding/coatings, and honing), the critical flatness of the deck for a proper head gasket seal, the oil and cooling passages that service the engine, and essential assembly aspects (crankcase, main caps, sump, core plugs, engine mounts, and bosses). It also covers practical nuances such as the purpose of crosshatch honing, the difference between liners and coatings in aluminium blocks, the role of oil jets, and how coolant flow is designed to avoid air pockets and excessive piston wear. The narration blends theory with on-vehicle demonstration to connect block design to engine reliability and performance.",
+  "title": "Engine Block Fundamentals: Materials, Machining, and Lubrication Pathways",
+  "topics": [
+    "Engine block purpose and location within the engine",
+    "Cylinders and piston motion",
+    "Block materials: cast iron vs aluminium alloy",
+    "Weight differences between aluminium and cast iron blocks",
+    "Billet engine blocks in racing and restoration",
+    "Cylinder liners in aluminium blocks",
+    "Liner bonding vs. poured bonding in cast iron blocks",
+    "NiCaCyl/coating as an alternative to iron liners",
+    "Machining of as-cast blocks and surface finish",
+    "Cylinder bore preparation in iron vs aluminium blocks",
+    "Honing and crosshatch pattern (60-degree crossover) for oil retention",
+    "Deck surface (top of block) and cylinder-head mating",
+    "head gasket function and flatness requirements",
+    "Multi-deck (V/W) engines and deck alignment",
+    "Oil galleries and lubrication pathway within the block",
+    "oil pump, feed galleries, and return circuits",
+    "Oil jets for cylinder walls and wrist pin lubrication",
+    "Crankcase (crankshaft housing) and main caps",
+    "Sump/oil pan, gaskets, and mounting to the block",
+    "Core plugs (freeze/expansion plugs) and their purpose",
+    "Engine mounts and bosses for accessory mounting",
+    "Coolant passages and flow through the block"
+  ],
+  "video": "-EUPaXWjaeg.youtube"
+}

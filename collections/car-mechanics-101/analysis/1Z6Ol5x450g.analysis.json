@@ -1,0 +1,243 @@
+{
+  "analysis_created_at": "2026-09-11T21:30:15.531390+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2023",
+    "iso": "2023-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Budget-friendly LS block selection using Dart iron blocks",
+      "timestamp": "01:18:40"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Multi-plate engine mounts to adjust engine position",
+      "timestamp": "02:13:00"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Twin-fan cooling with a compact radiator for LS swaps",
+      "timestamp": "02:56:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Compact front-runner AC/heater kits (Vintage Air) vs factory drives",
+      "timestamp": "03:58:00"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Update-only wiring harness vs reusing old OEM harness; SpearTech PCM integration",
+      "timestamp": "04:54:00"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "In-tank fuel pump with integrated fuel tank for EFI reliability",
+      "timestamp": "07:55:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Holley HP EFI as an EFI-first approach for non-PCM builds",
+      "timestamp": "08:30:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Billet valve covers with integrated coil-pack mounts; Moroso coil-mounts as reference",
+      "timestamp": "09:30:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Drive-by-wire systems explained vs cable throttle",
+      "timestamp": "10:33:00"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript states the shop is in Chambersburg, PA",
+      "confidence": 0.8,
+      "name": "JWC Performance, Chambersburg, Pennsylvania"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "1aeccde1-c184-54f2-a83f-c6e9fa6b05f9",
+    "spec_sha256": "b5426c5ae71647212432eec86ff43221b20c16c37d6fa74326e6f8443980a238",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-2521bcca0d6e",
+        "term-bc9587c9da89",
+        "term-dc5e410b9f85"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 59988,
+      "dependency_resolution_ms": 42,
+      "handler_ms": 60818,
+      "input_fetch_ms": 696
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 220697,
+      "digest": "3129b781418e0e5dd22fc94cbb77acceaf41c019f845ef8370bab51d2d71c8e2",
+      "key": "objects/sha256/31/29b781418e0e5dd22fc94cbb77acceaf41c019f845ef8370bab51d2d71c8e2",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "6be8d783-b146-52f3-9f5d-b9e7887b9637"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Introduction to the LS-swap topic",
+        "Visit to JWC Performance in Chambersburg, PA",
+        "Overview of the discussion format with Joe"
+      ],
+      "description": "Host introduces the goal of delivering practical LS-swap information and previews talking with Joe from JWC Performance about real-world fitment and component choices.",
+      "end": "00:04:40",
+      "start": "00:00:00",
+      "title": "Intro and shop context"
+    },
+    {
+      "concepts": [
+        "Car is an original LS1 with 4L60E from an 04 GTO",
+        "Budget as a key driver for the build",
+        "Customer did most of the work; Joe helped with details"
+      ],
+      "description": "Discussion centers on using a budget-conscious plan, leveraging customer-built work, and selecting parts that balance cost with reliability for an LS swap.",
+      "end": "01:18:40",
+      "start": "00:04:40",
+      "title": "Car details and budget-driven approach"
+    },
+    {
+      "concepts": [
+        "Most builds use fresh blocks (LS2 and up for bore size)",
+        "Difficulty of finding reasonable-price stock blocks",
+        "Dart as a major supplier for affordable iron blocks and other engine parts"
+      ],
+      "description": "Joe explains why Dart blocks are favored for budget LS builds and clarifies the shift toward blocks and parts that support larger bore designs without breaking the bank.",
+      "end": "01:46:00",
+      "start": "01:18:40",
+      "title": "Block sourcing and Dart options"
+    },
+    {
+      "concepts": [
+        "No single preferred mount; selection depends on project",
+        "Multi-plate mounts offer varied locations to fine-tune engine position",
+        "Crossmember, exhaust, and weight distribution considerations"
+      ],
+      "description": "The conversation covers practical mount choices, clearance issues, and how engine positioning affects weight distribution and fitment in a classic chassis.",
+      "end": "02:56:00",
+      "start": "01:46:00",
+      "title": "Engine mounts, fitment, and clearance"
+    },
+    {
+      "concepts": [
+        "Twin fans paired with the largest radiator that fits",
+        "Higher cooling capacity needed for supercharged builds"
+      ],
+      "description": "Joe notes the importance of adequate cooling with LS swaps, especially in performance setups, and describes typical two-fan configurations paired with a compact radiator.",
+      "end": "03:58:00",
+      "start": "02:56:00",
+      "title": "Cooling: radiator and fans"
+    },
+    {
+      "concepts": [
+        "Vintage Air front-runner kit as a compact, aesthetic option",
+        "Factory accessory setups can be used depending on car",
+        "Different base platforms (F-body, Corvette, trucks) offer mounting flexibility"
+      ],
+      "description": "The discussion compares limited-width aftermarket cooling/AC kits against factory-style drive setups, highlighting options for different car platforms.",
+      "end": "04:54:00",
+      "start": "03:58:00",
+      "title": "Accessory drives and compact kits"
+    },
+    {
+      "concepts": [
+        "Existing old wiring is not ideal for LS/EFI",
+        "Update kits for rewire vs reusing an older harness",
+        "SpearTech PCM solutions for easier factory-ECU integration"
+      ],
+      "description": "Joe emphasizes upgrading wiring harnesses to support modern LS/EFI configurations and mentions SpearTech as a straightforward PCM option to simplify wiring.",
+      "end": "06:52:00",
+      "start": "04:54:00",
+      "title": "Wiring upgrades and PCM strategy"
+    },
+    {
+      "concepts": [
+        "Recommendation for a new fuel tank with integrated baffling for in-tank pump",
+        "Internal pumps benefit cooling and clearance, avoid external pump mounted near exhaust"
+      ],
+      "description": "The host and Joe discuss the advantages of an in-tank fuel pump setup, including better fuel management and space considerations.",
+      "end": "07:55:00",
+      "start": "06:52:00",
+      "title": "Fuel system upgrade considerations"
+    },
+    {
+      "concepts": [
+        "EFI preferred; discussion of Holley HP as an EFI option",
+        "Carbureted LS swaps are discouraged if leveraging EFI benefits",
+        "Wideband closed-loop control for drivability"
+      ],
+      "description": "The dialogue weighs EFI approaches against carburetion, recommending modern EFI (Holley HP) for better drivability and control, while acknowledging core costs (core charges) in factory PCM routes.",
+      "end": "09:30:00",
+      "start": "07:55:00",
+      "title": "EFI vs carbureted strategies"
+    },
+    {
+      "concepts": [
+        "Billet valve covers developed to fit coil-pack arrangements",
+        "Moroso coil-pack mounts and hidden mounting locations (behind fender wells, under cow) for first-gen Camaros",
+        "Drive-by-wire vs cable throttle debate and mounting preferences"
+      ],
+      "description": "This segment covers cosmetic and functional valve-cover design, coil-pack mounting strategies, and a practical comparison of drive-by-wire versus traditional cable throttles, including preferred mounting approaches.",
+      "end": "11:25:00",
+      "start": "09:30:00",
+      "title": "Valve covers, coil packs, and throttle options"
+    },
+    {
+      "concepts": [
+        "Encouragement to submit questions",
+        "Website information for JWC Performance"
+      ],
+      "description": "Wrap-up and contact details are shared to invite further questions and direct viewers to JWC Performance’s site.",
+      "end": "11:25:40",
+      "start": "11:25:00",
+      "title": "Closing and contact"
+    }
+  ],
+  "summary": "In this interview-style overview from Backyard Barn Finds, Joe of JWC Performance walks through practical LS-swap considerations for a classic car. The discussion centers on budget-driven choices (e.g., Dart blocks as a cost-effective option), fitment challenges (engine mounts, crossmember, exhaust clearance), cooling and capacity (radiator and twin fans; Vintage Air front-runner kit vs factory setups), and modern electrical/wiring approaches (updated harnesses, SpearTech PCM integration). The video also covers fuel delivery strategies (in-tank pump and new tank), and EFI versus carbureted planning, with hands-on notes about billet valve covers and coil-pack mounting. The overall message emphasizes balancing cost, reliability, and drivability when converting a classic car to modern LS power with modern electronics.",
+  "title": "LS Swap Practicalities: Blocks, Mounts, Wiring, and EFI with JWC Performance",
+  "topics": [
+    "LS swap fundamentals",
+    "Budget-driven engine block selection (Dart blocks)",
+    "LS2 and up blocks for larger bore",
+    "New vs used engine blocks",
+    "Engine mounts with multi-plate options and forward/back clearance",
+    "Crossmember interference and exhaust/header fitment",
+    "Radiator sizing and twin-fan cooling",
+    "Vintage Air front-runner vs. factory accessory drive",
+    "Wiring harness upgrade vs OEM harness",
+    "SpearTech PCM integration for factory-like wiring",
+    "In-tank fuel pump upgrades and integrated tanks",
+    "Carbureted vs electronic fuel injection (EFI) approaches",
+    "Holley HP EFI as an option for non-PCM builds",
+    "Drive-by-wire vs cable throttle discussion",
+    "Billet valve covers and Moroso coil-pack mounts",
+    "coil-pack mounting positions (front/back, behind fender well)"
+  ],
+  "video": "1Z6Ol5x450g.youtube"
+}

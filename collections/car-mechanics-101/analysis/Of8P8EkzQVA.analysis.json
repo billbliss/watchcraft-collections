@@ -1,0 +1,194 @@
+{
+  "analysis_created_at": "2026-09-11T20:31:19.158576+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "July 19, 2017",
+    "iso": "2017-07-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.6,
+      "technique": "On-car visualization with 3D models",
+      "timestamp": "00:01:20"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Safe tool usage and handling during teardown",
+      "timestamp": "00:02:12"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "High-speed parts cleaning demonstration",
+      "timestamp": "00:02:21"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "interactive 3D models and VR plan",
+      "timestamp": "00:01:44"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "5a30b8e1-1a41-5d36-9dd6-fa510c542e7e",
+    "spec_sha256": "81410baf9294390f967a081bbce81de117a6c84a5712e4eae0acaad7a75baac2",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-07dcd379b8a0",
+        "term-5b2c11648985",
+        "term-5e3d049228cf",
+        "term-864ee89c5bfb",
+        "term-b66f73eb4892",
+        "term-fc3aeb57a77a"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 74605,
+      "dependency_resolution_ms": 75,
+      "handler_ms": 75590,
+      "input_fetch_ms": 793
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 63878,
+      "digest": "07a8b2b9a82411ad4d812ceceb57fe2a6b4e99efd9cd617035864d24ce4b7db4",
+      "key": "objects/sha256/07/a8b2b9a82411ad4d812ceceb57fe2a6b4e99efd9cd617035864d24ce4b7db4",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ac1ddaff-b61c-5c3a-87f3-f49ceefe26f8"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Introduce a 20-hour tear-down and rebuild series",
+        "Explain every car part in depth",
+        "Aim for a comprehensive internal map of car workings"
+      ],
+      "description": "The host outlines the ambitious plan to dissect a modern car and teach how each part functions, setting expectations for an unusually thorough educational series.",
+      "end": "00:01:04",
+      "start": "00:00:00",
+      "title": "Series concept and goals"
+    },
+    {
+      "concepts": [
+        "Why show components on the car rather than on a bench",
+        "Contextualizing parts within the full vehicle"
+      ],
+      "description": "Discussion of the challenges of teaching with parts on a bench and the benefits of keeping demonstrations on the car to preserve real-world context.",
+      "end": "00:01:20",
+      "start": "00:01:04",
+      "title": "On-car visibility and rationale"
+    },
+    {
+      "concepts": [
+        "Investment in advanced 3D visuals",
+        "on-car explanations supported by graphics"
+      ],
+      "description": "Announcement of extensive 3D modeling to illustrate operation and relationships of components, with the promise of interactive exploration.",
+      "end": "00:01:44",
+      "start": "00:01:20",
+      "title": "3D graphics and interactive models"
+    },
+    {
+      "concepts": [
+        "Models available on website and mobile",
+        "VR plans for enhanced learning"
+      ],
+      "description": "Explains access to models outside the video and the intent to expand into VR experiences as part of the learning ecosystem.",
+      "end": "00:02:12",
+      "start": "00:01:44",
+      "title": "Web/VR accessibility and model exploration"
+    },
+    {
+      "concepts": [
+        "4-cylinder fuel-injected petrol engine",
+        "Rear-wheel drive",
+        "Manual transmission"
+      ],
+      "description": "Justifies the MX-5 Miata selection as representative of many modern cars and suitable for explaining foundational concepts like differential behavior and manual transaxle operation.",
+      "end": "00:02:21",
+      "start": "00:02:12",
+      "title": "Car choice rationale"
+    },
+    {
+      "concepts": [
+        "Spring compressor",
+        "Safe jack usage",
+        "engine crane"
+      ],
+      "description": "Mentions essential tools and safety considerations to handle real-world teardown scenarios.",
+      "end": "00:02:21",
+      "start": "00:02:12",
+      "title": "Tools and safety emphasis"
+    },
+    {
+      "concepts": [
+        "High-speed parts cleaning machine",
+        "Practical cleaning for parts left on driveway"
+      ],
+      "description": "Shows both advanced cleaning equipment and practical approaches for cleaning parts after long-term storage in a real-world setting.",
+      "end": "00:02:37",
+      "start": "00:02:21",
+      "title": "Parts cleaning methods"
+    },
+    {
+      "concepts": [
+        "Disassembly by hand",
+        "Scrubbing parts to remove grime"
+      ],
+      "description": "Highlights a tactile approach to learn by taking parts apart and cleaning them to build familiarity with component geometry.",
+      "end": "00:02:55",
+      "start": "00:02:37",
+      "title": "Hands-on disassembly and scrubbing"
+    },
+    {
+      "concepts": [
+        "Pre-order incentive",
+        "Credit inclusion for supporters"
+      ],
+      "description": "Calls to action for audience involvement, tying pre-orders to production funding and participant recognition.",
+      "end": "00:03:12",
+      "start": "00:02:43",
+      "title": "Pre-order and credits"
+    }
+  ],
+  "summary": "This trailer introduces a multi-hour educational series that promises a complete teardown and rebuild of a Mazda MX-5 Miata, explained piece by piece with a focus on on-car demonstrations and high-fidelity 3D graphics. The host outlines a learning approach that emphasizes understanding how each component functions in situ, alongside plans for interactive 3D models accessible on web and mobile, with eventual virtual reality integration. The video highlights key systems and parts to be covered (engine, transmission, ABS, MAF, radiator cap), the use of specific tools, and a hands-on philosophy that includes dealing with real-world issues like rust and seized bolts. A pre-order drive is presented to fund production and earn participant recognition in credits.",
+  "title": "How a Car Works Trailer — On-Car 3D Visualization and MX-5 Miata Deep Dive",
+  "topics": [
+    "Mazda MX-5 Miata",
+    "on-car demonstration",
+    "Bench vs on-car comparison",
+    "3D graphics and models",
+    "interactive 3D models",
+    "virtual reality (VR) plans",
+    "4-cylinder petrol engine",
+    "Rear-wheel drive layout",
+    "Manual transmission fundamentals",
+    "Mass airflow meter (MAF)",
+    "ABS system overview",
+    "Radiator cap mechanical action",
+    "Front suspension, brakes, steering, wheel and tire",
+    "Common maintenance issues (rust, seized bolts)",
+    "Tools: spring compressor",
+    "Tools: jack",
+    "Tools: engine crane",
+    "Parts-cleaning machinery",
+    "In-drive parts cleaning",
+    "Pre-order program and production funding"
+  ],
+  "video": "Of8P8EkzQVA.youtube"
+}

@@ -1,0 +1,196 @@
+{
+  "analysis_created_at": "2026-09-11T20:51:02.257164+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "January 22, 2019",
+    "iso": "2019-01-22",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Centrifugal Impeller and volute interaction explained",
+      "timestamp": "00:04:29"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Mechanical seal with micron-scale clearance and Weep hole",
+      "timestamp": "00:11:43"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Fixed pulley drive vs. electric water pump implications",
+      "timestamp": "00:07:01"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Heat soak concept after engine shutdown and mitigation with electric pumps",
+      "timestamp": "00:08:57"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Practical diagnostic cue: squeeze test for impeller integrity",
+      "timestamp": "00:14:15"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "191c9217-ad22-5f9c-a0df-be749ba25ecc",
+    "spec_sha256": "860a96df33699868ab0b4354676926cd084c6d3f26ab9ff8127f3c2ecccc0f7b",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-0bf6e2e2a6e6",
+        "term-99c669e1fbbc",
+        "term-a2518a5b8a80",
+        "term-b0dbe0db62ca",
+        "term-b994de3ef2fa",
+        "term-db60cd7d83e5",
+        "term-fc9d2d7a453d"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 43252,
+      "dependency_resolution_ms": 54,
+      "handler_ms": 44425,
+      "input_fetch_ms": 1001
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 271142,
+      "digest": "1b69c274ca9f1c5d976a9222f0875307a1a15fdedc6346e310e30f36ffb69954",
+      "key": "objects/sha256/1b/69c274ca9f1c5d976a9222f0875307a1a15fdedc6346e310e30f36ffb69954",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "93479b07-cc3d-5931-919f-6cadfcf8a291"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "coolant composition",
+        "engine operating temperature",
+        "thermostat role (foreshadowed)"
+      ],
+      "description": "Introduces the coolant system concept and the idea that coolant is a mixture (approximately 50% water and 50% ethylene glycol). States the ideal engine temperature around 200 F / 90 C and notes that the cooling system's purpose is to keep hot engine parts from overheating, with the radiator acting as the heat sink.",
+      "end": "00:02:44",
+      "start": "00:00:00",
+      "title": "Coolant system overview and 50/50 coolant mix"
+    },
+    {
+      "concepts": [
+        "pump placement at front of engine",
+        "belt drive from crankshaft",
+        "coolant flow: radiator bottom -> engine block -> cylinder head -> radiator",
+        "thermostat controls flow based on temperature"
+      ],
+      "description": "Describes the pump’s location on the front of the engine, driven by a belt from the crankshaft, and outlines the coolant’s loop through the engine and back to the radiator. Explains that the thermostat regulates flow to the radiator depending on engine temperature.",
+      "end": "00:06:33",
+      "start": "00:02:44",
+      "title": "Water pump location, basic operation, and coolant flow path"
+    },
+    {
+      "concepts": [
+        "one-to-one pulley ratio",
+        "engine RPM versus pump speed",
+        "limitations of fixed drive"
+      ],
+      "description": "Notes that the pump typically runs at a fixed ratio to engine RPM and points out the limitation of this arrangement, setting up the discussion of electric water pumps as a more flexible alternative.",
+      "end": "00:07:01",
+      "start": "00:06:33",
+      "title": "Pump speed and fixed drive ratio; lead-in to electric pumps"
+    },
+    {
+      "concepts": [
+        "electric pumps offer flexible flow control and mounting",
+        "heat soak after shutdown",
+        "stop-start and hybrid implications"
+      ],
+      "description": "Explains why some manufacturers use electric water pumps for better flow control and placement, and introduces heat soak—the engine temperature can rise briefly after shutdown because cooling ceases. Mentions hybrids and stop-start systems as drivers for electric pumps.",
+      "end": "00:10:12",
+      "start": "00:07:01",
+      "title": "Electric water pumps and heat soak concept"
+    },
+    {
+      "concepts": [
+        "bearing integrated into shaft",
+        "sealed-for-life design",
+        "replacement alongside timing belt service"
+      ],
+      "description": "Shows that the pump is sealed for life and typically replaced as a whole unit (except the pulley) and reveals that the bearing is integrated into the shaft and lubricated at the factory.",
+      "end": "00:12:21",
+      "start": "00:10:12",
+      "title": "Water pump internals and why pumps are replaced as units"
+    },
+    {
+      "concepts": [
+        "two-face mechanical seal",
+        "micron-scale clearance",
+        "Weep hole as a discharge path"
+      ],
+      "description": "Details the mechanical seal construction (two faces with a micron clearance) and the Weep hole that allows small amounts of liquid to escape, which can be a normal feature or a sign of issues if coolant leaks are excessive.",
+      "end": "00:14:15",
+      "start": "00:12:21",
+      "title": "Mechanical seal, Weep hole, and leakage diagnostics"
+    },
+    {
+      "concepts": [
+        "seal leaks due to bearing failure",
+        "noisy bearings",
+        "impeller failure"
+      ],
+      "description": "Outlines three main failure modes: leaks from a worn seal (often bearing-related), bearing noise, and impeller failure or corrosion leading to reduced flow.",
+      "end": "00:14:36",
+      "start": "00:14:15",
+      "title": "Common Water-pump failure modes"
+    },
+    {
+      "concepts": [
+        "promotion of How A Car Works site",
+        "availability of a series on car mechanics"
+      ],
+      "description": "Wrapping up with a call to visit the site for more in-depth videos and further topics on car parts and mechanics.",
+      "end": "00:15:05",
+      "start": "00:14:36",
+      "title": "Conclusion and resources"
+    }
+  ],
+  "summary": "The video from How a Car Works explains the role of the water pump in a typical automotive cooling system, using a Mazda MX-5 Miata as the exemplar. It covers coolant composition (roughly 50/50 water and ethylene glycol), the closed cooling loop path from radiator to engine and back, and the thermostat’s role in regulating flow. The pump is shown as belt-driven and mounted at the front of the engine, driving the coolant through the engine and to the radiator. The internals are explored—an impeller inside a volute, a shaft-driven bearing, and a mechanical seal with a Weep hole—along with common failure modes. The video contrasts belt-driven pumps with electric pumps, discusses heat soak after engine shutdown, and notes maintenance practices such as replacing the pump as a unit during timing belt service. Practical diagnostic cues and model examples (BMW, Audi, Prius/Lexus hybrids) are highlighted to illustrate the varying implementations in modern cars.",
+  "title": "Water Pump Anatomy and Operation in a Car Cooling System",
+  "topics": [
+    "50/50 coolant-water mix",
+    "ethylene glycol coolant",
+    "radiator-to-engine coolant path",
+    "thermostat operation",
+    "belt-driven water pump",
+    "crankshaft belt drive",
+    "Impeller and volute",
+    "centrifugal-pump principle",
+    "pump bearing integrated into shaft",
+    "Water-pump mechanical seal",
+    "Weep hole",
+    "pump leakage indicators",
+    "Water-pump failure modes",
+    "heat soak after engine shutdown",
+    "stop-start and hybrid effects on cooling",
+    "electric water pump advantages",
+    "pump replacement during timing belt service",
+    "pump flow rate (approx. 20x coolant circulation per minute)",
+    "closed-loop cooling system",
+    "radiator cooling via airflow",
+    "two-pump configurations (mechanical + electric)"
+  ],
+  "video": "ByEddKXPNfY.youtube"
+}

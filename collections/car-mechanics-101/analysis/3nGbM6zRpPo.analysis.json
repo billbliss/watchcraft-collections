@@ -1,0 +1,244 @@
+{
+  "analysis_created_at": "2026-09-11T20:55:30.296426+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 23, 2018",
+    "iso": "2018-03-23",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.6,
+      "technique": "Close-up valve anatomy explanation (valve stem, face, and seat)",
+      "timestamp": "00:02:21"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Demonstration of valve assembly concept with DIY model",
+      "timestamp": "00:02:21"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Discussion of valve seat/grind finish for sealing",
+      "timestamp": "00:03:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Valve float concept and cam/follower interaction",
+      "timestamp": "00:08:41"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Interference vs non-interference engine timing",
+      "timestamp": "00:11:11"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript discusses valve fit into the cylinder head, valve guides, seats, and references to a cast aluminium head with inserts; explicit focus on the valve seating area inside the head",
+      "confidence": 0.85,
+      "name": "Cylinder head (demonstrated)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "2a5c89ff-f8f2-5cc8-a694-7b738cc05cce",
+    "spec_sha256": "65f20e9b8d4af5ed2b43eb392f7c2b05a04bf19397995b419cfa5c4ca4673866",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-27d3c8fd4139",
+        "term-35e285943db2",
+        "term-54538ab09ddd"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 60515,
+      "dependency_resolution_ms": 100,
+      "handler_ms": 61481,
+      "input_fetch_ms": 783
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 230134,
+      "digest": "1ed1ee90a74cb10b3c3d963dd993c8408010ebfa6562539cd56271fcb7ea566a",
+      "key": "objects/sha256/1e/d1ee90a74cb10b3c3d963dd993c8408010ebfa6562539cd56271fcb7ea566a",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "22491fc9-1633-5680-804a-df84c6deab57"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "gas flow through intake/exhaust ports",
+        "valves open/close to control flow",
+        "minimum two valves; four-valve example",
+        "multi-valve efficiency"
+      ],
+      "description": "Introduces how gases move through the cylinder head and how valves close and open to regulate that flow, noting that many modern engines use multiple valves per cylinder to improve flow and power.",
+      "end": "00:01:04",
+      "start": "00:00:01",
+      "title": "Valve basics and multi-valve concept"
+    },
+    {
+      "concepts": [
+        "valve guides",
+        "valve head vs stem",
+        "valve seat relationship"
+      ],
+      "description": "Describes how valves sit in their guides and how the valve assembly relates to the cylinder head before showing close-up components.",
+      "end": "00:02:21",
+      "start": "00:01:04",
+      "title": "Valve fitment into the cylinder head"
+    },
+    {
+      "concepts": [
+        "valve stem",
+        "valve head",
+        "valve face",
+        "valve seat",
+        "gas-tight seal"
+      ],
+      "description": "Explains the main valve components and how the valve face mates with the valve seat to seal the combustion chamber.",
+      "end": "00:03:26",
+      "start": "00:02:21",
+      "title": "Valve anatomy: stem, head, face and seat"
+    },
+    {
+      "concepts": [
+        "finish tolerances",
+        "grinding surfaces to seal"
+      ],
+      "description": "Discusses the importance of a precise finish on the valve face and seat, and how grinding creates a proper mating surface for sealing.",
+      "end": "00:04:13",
+      "start": "00:03:26",
+      "title": "Valve face/seat finish and grinding"
+    },
+    {
+      "concepts": [
+        "stem material",
+        "head material",
+        "welding/sealing",
+        "heat in valve"
+      ],
+      "description": "Outlines typical materials for valve stem and head and explains how valves endure heat from combustion and how materials and welds influence durability and heat transfer.",
+      "end": "00:05:07",
+      "start": "00:04:13",
+      "title": "Valve materials and heat considerations"
+    },
+    {
+      "concepts": [
+        "exhaust valve tougher and smaller",
+        "port sizing differences"
+      ],
+      "description": "Notes that exhaust valves are generally smaller and built to withstand higher heat, while intake valves are larger to accommodate inlet flow.",
+      "end": "00:05:39",
+      "start": "00:05:07",
+      "title": "Intake vs exhaust valve design differences"
+    },
+    {
+      "concepts": [
+        "intake port larger",
+        "cross-sectional area for flow"
+      ],
+      "description": "Explains why intake paths are larger than exhaust ones, focusing on maximizing air intake and overall flow efficiency.",
+      "end": "00:06:50",
+      "start": "00:05:39",
+      "title": "Gas flow area and port sizing"
+    },
+    {
+      "concepts": [
+        "valve guides fit",
+        "valve seals prevent oil ingress/exit"
+      ],
+      "description": "Describes how valve guides constrain valve motion and how seals prevent oil from leaking along the guide into ports or the cylinder.",
+      "end": "00:07:24",
+      "start": "00:06:50",
+      "title": "Valve guides and seals"
+    },
+    {
+      "concepts": [
+        "spring duty",
+        "contact with cam follower",
+        "valve float"
+      ],
+      "description": "Details the function and orientation of the valve spring, how it keeps the valve against its pushing surface, and the risk of valve float if contact is lost during high-speed operation.",
+      "end": "00:08:52",
+      "start": "00:07:24",
+      "title": "valve springs and valve float"
+    },
+    {
+      "concepts": [
+        "valve opening frequency",
+        "energy wasted on springs",
+        "timing considerations"
+      ],
+      "description": "Discusses how often valves open per second, the energy costs of opening springs, and the importance of efficient valve timing for overall engine efficiency.",
+      "end": "00:09:59",
+      "start": "00:08:52",
+      "title": "valve timing and energy efficiency"
+    },
+    {
+      "concepts": [
+        "burnt valve",
+        "bent valve",
+        "interference engine",
+        "non-interference engine"
+      ],
+      "description": "Covers common valve faults like burnt or bent valves and contrasts interference vs non-interference engines in terms of potential piston-valve contact.",
+      "end": "00:12:00",
+      "start": "00:10:28",
+      "title": "Valve faults and timing interference"
+    },
+    {
+      "concepts": [
+        "installation into cylinder head",
+        "bolt head onto block",
+        "camshaft link to valves"
+      ],
+      "description": "Concludes with the practical step of installing valves into the head and alludes to continuing work on camshafts.",
+      "end": "00:12:54",
+      "start": "00:12:00",
+      "title": "Valve installation and camshaft prep"
+    }
+  ],
+  "summary": "This How a Car Works video explains engine valves by detailing the flow path through the intake and exhaust ports, the purpose of valves in opening and sealing that path, and the advantages of multi-valve configurations. It then dissects the valve assembly—stem, head, face, and seat—covering how a precise seal is achieved and why finish and material choices matter for heat dissipation. The presentation contrasts intake and exhaust valves, discusses port sizing and cross-sectional area, explains valve guides and seals, and outlines the role of the valve spring and the risk of valve float. It also introduces valve timing concepts, the difference between interference and non-interference engines, common valve faults (burnt and bent valves), and concludes with an installation note and a look ahead to camshaft work.",
+  "title": "Engine Valves: Structure, Operation, and Common Faults",
+  "topics": [
+    "cylinder head",
+    "intake valve",
+    "exhaust valve",
+    "multi-valve engine",
+    "valve guide",
+    "valve seat",
+    "valve face",
+    "valve stem",
+    "valve seal",
+    "valve spring",
+    "valve float",
+    "camshaft",
+    "follower",
+    "piston-valve interference",
+    "interference engine",
+    "non-interference engine",
+    "burnt valve",
+    "bent valve",
+    "valve grinding",
+    "valve seating",
+    "inserts",
+    "Port cross-sectional area"
+  ],
+  "video": "3nGbM6zRpPo.youtube"
+}

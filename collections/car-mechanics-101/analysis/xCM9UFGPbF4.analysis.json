@@ -1,0 +1,210 @@
+{
+  "analysis_created_at": "2026-09-11T21:22:46.278287+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "April 8, 2020",
+    "iso": "2020-04-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Charging a sitting battery with a digital charger (positive then negative terminal)",
+      "timestamp": "00:00:21"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Interpreting battery readout from a digital charger (voltage and charge percentage)",
+      "timestamp": "00:00:33"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Fluid checks and leak inspection after a sit (oil, coolant, power steering; under-vehicle inspection)",
+      "timestamp": "00:01:05"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Tire pressure check against door placard and adjustment",
+      "timestamp": "00:01:34"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Wiper blade condition assessment and replacement recommendation",
+      "timestamp": "00:02:05"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Cowl area debris removal to protect heating/engine safety",
+      "timestamp": "00:02:25"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Braking and rust cure approach on first drive (gentle stops to clear rotor rust)",
+      "timestamp": "00:03:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "4349bfcd-34b4-54c9-91fe-00e64b032046",
+    "spec_sha256": "26509de83b0f2381a6e3516459138f107d63581155e76f2c326888bcb52cf34f",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-3161902275ad",
+        "term-56af95bab24a",
+        "term-b9786b2c038d",
+        "term-dcdac19e54b0",
+        "term-f2bdafebde18"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 69378,
+      "dependency_resolution_ms": 102,
+      "handler_ms": 70279,
+      "input_fetch_ms": 671
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 77193,
+      "digest": "949c37afcf14656ab199ed73cbbb4560252b6f2ae71b3dfdeee59eb763d28f12",
+      "key": "objects/sha256/94/9c37afcf14656ab199ed73cbbb4560252b6f2ae71b3dfdeee59eb763d28f12",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "39aa04b3-77a8-58c9-a837-22cfac1f74fb"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Battery may be weak after weeks of sitting",
+        "charging with a battery charger",
+        "Positive then negative terminal connection",
+        "Digital charger readout (voltage and percent)",
+        "safe handling of charging vs jump-starting"
+      ],
+      "description": "Introduces the need to assess battery health when a car has sat for weeks and demonstrates charging with a digital charger, noting the charger’s readout (12V and percent charged). It also mentions that jump-starting depends on the vehicle and owner's manual guidance.",
+      "end": "00:01:00",
+      "start": "00:00:00",
+      "title": "Battery readiness and charging"
+    },
+    {
+      "concepts": [
+        "When charging isn’t possible, consult the owner’s manual for jump-start procedures",
+        "Some vehicles cannot be jump-started",
+        "Initial fluids check: power steering fluid, oil, coolant",
+        "Look for leaks under the vehicle"
+      ],
+      "description": "Addresses the scenario where charging may not be possible, emphasizing manual-specific instructions and occasional jump-start restrictions. Also covers a quick fluids check and the importance of inspecting for leaks after a car has sat.",
+      "end": "00:01:56",
+      "start": "00:01:00",
+      "title": "Jump-start caveats and fluids check"
+    },
+    {
+      "concepts": [
+        "top off windshield washer fluid",
+        "Remove debris on the cowl (leaves, pine needles) that could affect heating",
+        "Cowl debris can pose fire risk and heating issues"
+      ],
+      "description": "Instructs topping off washer fluid and clearing debris from the cowl area to maintain proper heating and reduce fire risk when the vehicle is started.",
+      "end": "00:02:12",
+      "start": "00:01:19",
+      "title": "Washer fluid and hood-area prep"
+    },
+    {
+      "concepts": [
+        "Check all four tires with a pressure gauge",
+        "Compare to door placard pressures and adjust",
+        "Significant tire pressure difference (>10 psi) may indicate a problem with bead, nail, or valve stem",
+        "If only down by ~5 psi, add air"
+      ],
+      "description": "Guides measuring and adjusting tire pressures, including interpretation of readings versus the vehicle’s door placard. Also notes evaluating sudden pressure discrepancies as potential tire issues.",
+      "end": "00:01:56",
+      "start": "00:02:01",
+      "title": "Tire pressure checks and wipers"
+    },
+    {
+      "concepts": [
+        "Check wiper blades for wear",
+        "Replace if they are not functioning well or leave residue"
+      ],
+      "description": "Advises inspecting and replacing worn windshield wipers to ensure visibility after a period of inactivity.",
+      "end": "00:02:16",
+      "start": "00:02:01",
+      "title": "Wiper inspection"
+    },
+    {
+      "concepts": [
+        "Remove debris around the cowl area",
+        "Check under the hood for anything that could affect operation or create fire risk"
+      ],
+      "description": "Mentions clearing leaves and needles from around the hood area to prevent heating issues or fire hazards and to keep the area clean for safe operation.",
+      "end": "00:02:37",
+      "start": "00:02:25",
+      "title": "Under-hood debris and hood/engine area safety"
+    },
+    {
+      "concepts": [
+        "Start the car and let it run for a short period",
+        "Avoid driving away immediately after start"
+      ],
+      "description": "Emphasizes allowing the engine to run briefly after starting, rather than pulling away immediately, to let systems settle.",
+      "end": "00:02:55",
+      "start": "00:02:39",
+      "title": "Engine start and warm-up"
+    },
+    {
+      "concepts": [
+        "Possible brake noise or sticking due to rotor rust",
+        "Expect some grinding on the first braking after sitting",
+        "Perform a couple of gradual stops to clear rust",
+        "Avoid hard braking on initial drive"
+      ],
+      "description": "Notes that rust on rotors can cause initial brake noise, and recommends a few gentle stops to clear it rather than panicking if the first braking feels abnormal.",
+      "end": "00:03:25",
+      "start": "00:02:55",
+      "title": "First-drive brake observations and rust clearing"
+    },
+    {
+      "concepts": [
+        "Invite comments for other suggestions",
+        "Encourage subscription and notifications"
+      ],
+      "description": "Wraps up the video with a quick invitation for audience input and a channel CTA.",
+      "end": "00:03:43",
+      "start": "00:03:25",
+      "title": "Closing tips and channel call-to-action"
+    }
+  ],
+  "summary": "This 1A Auto guide provides a concise, step-by-step routine for preparing a car that has sat for weeks before returning to the road. It covers battery readiness with a digital charger, cautions about jump-starts, and follows with fluids verification and leak checks, washer fluid top-off, tire pressure and wiper inspection, removal of hood debris, and finally a careful engine start and short warm-up. The video also describes early brake feel after sitting (possible rust on rotors) and recommends a brief, gradual stop pattern to clear it. The overall goal is to help drivers head back on the road safely after a period of inactivity, rather than merely starting and driving away.",
+  "title": "Pre-Drive Checks for a Car That Has Been Sitting",
+  "topics": [
+    "Battery health and 12V status",
+    "Charging a sitting battery with a digital charger",
+    "Battery connection order when charging",
+    "Jump-start safety and manual reference",
+    "Fluid checks (oil, coolant, power steering)",
+    "Under-vehicle leak inspection",
+    "Washer-fluid top-off",
+    "Cowl debris removal and heating/engine safety",
+    "Tire pressure checks and target pressures from door placard",
+    "Tire bead/valve stem leak indications",
+    "Wiper blade condition and replacement",
+    "Debris removal under the hood",
+    "Engine start and warm-up duration after sitting",
+    "Brake rotor surface rust and initial braking behavior",
+    "Gradual braking to clear rust on first drive"
+  ],
+  "video": "xCM9UFGPbF4.youtube"
+}

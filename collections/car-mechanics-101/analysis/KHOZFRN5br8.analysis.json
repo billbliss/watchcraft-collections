@@ -1,0 +1,132 @@
+{
+  "analysis_created_at": "2026-09-11T21:20:18.494680+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "January 31, 2018",
+    "iso": "2018-01-31",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Not over-tightening a drain plug; torque guidance (snug plus quarter-turn)",
+      "timestamp": "00:00:57"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Warning against using air tools or long wrenches to avoid stripping threads",
+      "timestamp": "00:01:00"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Demonstration of cross-threading and plug spinning when over-tightened",
+      "timestamp": "00:01:39"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Remedial consequences of cross-threading: plug removal failure and potential pan replacement",
+      "timestamp": "00:02:03"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "dccd69c8-dbd2-5faf-adc3-36cabc263e9e",
+    "spec_sha256": "6964a5ff24dc44a943450761c6c125e3b627ba491a8b3d1529b4ae9686a7e8a7",
+    "timing": {
+      "analysis_ms": 43757,
+      "dependency_resolution_ms": 123,
+      "handler_ms": 44518,
+      "input_fetch_ms": 552
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 38868,
+      "digest": "a6b1d0d1c36c5ad067cf529f7f6aba6a0209f949095128384ef54396e16f2613",
+      "key": "objects/sha256/a6/b1d0d1c36c5ad067cf529f7f6aba6a0209f949095128384ef54396e16f2613",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d85a84b9-26ed-5d1d-946a-dd0934eb9304"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "drain plug basics",
+        "threaded insert in oil pan",
+        "seal washer contact"
+      ],
+      "description": "Mike introduces the setup: the drain plug threads into a small threaded insert in a sheet-metal oil pan and sets the expectation that over-tightening should be avoided.",
+      "end": "00:00:57",
+      "start": "00:00:03",
+      "title": "Intro and drain plug basics"
+    },
+    {
+      "concepts": [
+        "over-tightening attempt",
+        "air tool risk",
+        "long wrench risk",
+        "tightening until spinning"
+      ],
+      "description": "The instructor tightens the drain plug beyond snug, warns that over-tightening or using an air tool/long wrench can strip threads, and proceeds to test how far the plug can be tightened.",
+      "end": "00:01:45",
+      "start": "00:00:57",
+      "title": "Demonstration: attempting to over-tighten"
+    },
+    {
+      "concepts": [
+        "cross-threading",
+        "plug spins",
+        "stuck drain plug",
+        "removal difficulty"
+      ],
+      "description": "The plug stops tightening and begins to spin freely, indicating cross-threading; the transcript notes the plug is now cross-threaded and stuck, illustrating a serious failure mode.",
+      "end": "00:02:16",
+      "start": "00:01:45",
+      "title": "Consequence: cross-threading and stuck plug"
+    },
+    {
+      "concepts": [
+        "avoid over-tightening",
+        "snug then quarter-turn",
+        "remedial options"
+      ],
+      "description": "The video closes with the takeaway to avoid over-tightening, tighten to snug plus a quarter-turn, and recognize that a damaged drain plug or oil pan may require drilling out the plug or replacing the pan.",
+      "end": "00:02:31",
+      "start": "00:02:16",
+      "title": "Closing guidance"
+    }
+  ],
+  "summary": "In this 1A Auto lesson, Mike demonstrates why you should not over-tighten an oil drain plug. He describes the drain plug as threading into a small insert in a sheet-metal oil pan and notes that a quarter-turn past snug is sufficient. The video then shows an attempt to over-tighten with excessive force, including warnings about using air tools or very long wrenches, which can strip the threads. As tightening continues, the plug stops tightening and begins to spin, indicating cross-threading. The plug becomes cross-threaded and stuck, illustrating a worst-case outcome that may require drilling out the plug or replacing the oil pan. The core takeaway is to tighten only to snug, then an additional quarter-turn, and to avoid overdoing it to prevent thread damage and potential costly pan replacement.",
+  "title": "Don't Over Tighten an Oil Drain Plug: Torque, Cross-Threading, and Pan Replacement",
+  "topics": [
+    "oil pan",
+    "drain plug",
+    "threaded insert",
+    "seal washer",
+    "snug torque",
+    "quarter-turn rule",
+    "over-tightening risk",
+    "thread stripping",
+    "cross-threading",
+    "plug spins",
+    "plug removal difficulty",
+    "air tool risk",
+    "long wrench risk",
+    "stuck drain plug",
+    "drill-out remedy",
+    "oil pan replacement",
+    "maintenance best practices"
+  ],
+  "video": "KHOZFRN5br8.youtube"
+}

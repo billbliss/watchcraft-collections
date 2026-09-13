@@ -1,0 +1,190 @@
+{
+  "analysis_created_at": "2026-09-11T21:27:19.726486+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "April 20, 2020",
+    "iso": "2020-04-20",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.7,
+      "technique": "Distinguishing spark plug seating types by electrode edge (beveled vs flat) and placement",
+      "timestamp": "00:23:06"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Assessing shank length and electrode height to ensure correct engine fit",
+      "timestamp": "01:09:00"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Comparing spark plug materials (copper vs platinum vs iridium) and their wear implications",
+      "timestamp": "02:02:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Guidance on heat range and porcelain exposure and their practical implications",
+      "timestamp": "04:18:00"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Gapping strategy and using multiple gap tools to hit manufacturer spec",
+      "timestamp": "05:45:00"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Dielectric grease application and its role in moisture sealing and removal ease",
+      "timestamp": "09:50:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Using rubber-grommet spark plug sockets to avoid plug damage",
+      "timestamp": "08:39:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Ceramic crack inspection and moisture-related misfire diagnosis",
+      "timestamp": "07:42:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "5b87abf6-4d9d-5f9b-b986-65dbaf8846b9",
+    "spec_sha256": "f9d086dc32db4b868234e0872b23527d8f3c46168ac974ab5d283ca91b755688",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-0c3ecab45973",
+        "term-12a9b93bd768",
+        "term-6fc4d551ae37",
+        "term-ad466ddcf506",
+        "term-d9605d129df3",
+        "term-e0af795d1f56",
+        "term-e99193c3a181"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 46809,
+      "dependency_resolution_ms": 68,
+      "handler_ms": 47691,
+      "input_fetch_ms": 677
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 279000,
+      "digest": "109c9096c92133255f04d06bfb4e99735b5976c0913a2d8b0a29e611fc85421d",
+      "key": "objects/sha256/10/9c9096c92133255f04d06bfb4e99735b5976c0913a2d8b0a29e611fc85421d",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "31352130-a0ae-57cd-a577-eb473012b4b3"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Beveled vs flat seating surfaces",
+        "gasket seating and gasket squish",
+        "torque and service interval implications"
+      ],
+      "description": "Introduction to spark plug types and seat geometry. The presenter contrasts beveled seating with flat-edged plugs, notes the importance of matching seating style to the engine bore, and warns that reusing a squished gasket can compromise seating and sealing. The speaker also stresses torquing to specification and not removing plugs until the next service.",
+      "end": "01:10:00",
+      "start": "00:00:00",
+      "title": "Spark Plug Types, Seating, and Basic Fit"
+    },
+    {
+      "concepts": [
+        "shank-length differences",
+        "Electrode alignment relative to the ground electrode",
+        "Copper vs platinum vs iridium composition and use cases"
+      ],
+      "description": "Discussion of how differing shank lengths and electrode heights affect combustion chamber behavior. Copper plugs are described as inexpensive and common in older vehicles, with shorter wear life; platinum offers longer wear and more resistance to wear; iridium is positioned as the most expensive with a very fine tip for controlled ignition.",
+      "end": "02:40:00",
+      "start": "01:10:00",
+      "title": "Shank Length, Electrode Height, and Material Choices"
+    },
+    {
+      "concepts": [
+        "Heat range and porcelain exposure as heat management",
+        "Implications of hotter vs cooler plugs",
+        "Reliance on manufacturer specs and owner's manual"
+      ],
+      "description": "The host explains how the amount of ceramic/porcelain exposed correlates to plug heat range and dissipation. More porcelain generally means hotter operation and different performance implications. He advocates following vehicle-specific recommendations from the owner's manual and manufacturer specifications for plug type and gap.",
+      "end": "04:40:00",
+      "start": "02:40:00",
+      "title": "Heat Range, Porcelain Exposure, and Manufacturer Specs"
+    },
+    {
+      "concepts": [
+        "Gap measurement and target values (example 0.035 inch)",
+        "Using various gap tools and the ease of use of different gauges",
+        "Cautions about bending or spreading electrodes, especially on platinum/iridium"
+      ],
+      "description": "Guidance on selecting and setting the spark plug gap to the manufacturer’s specification. The presenter demonstrates different tools, emphasizes using an appropriate gauge, and discusses risks of incorrect gaps and potential damage when adjusting certain types of plugs.",
+      "end": "07:30:00",
+      "start": "04:40:00",
+      "title": "Electrical Gap, Electrode Wear, and Proper Gap Adjustment"
+    },
+    {
+      "concepts": [
+        "Cracks in the ceramic insulator",
+        "Signs of wear on the electrode and misfires related to moisture"
+      ],
+      "description": "The video covers visual diagnostics such as spotting cracks in the insulator, which can allow moisture to cause misfires, and describes wear patterns on the electrode that affect spark efficiency. It also notes that misfires may be more noticeable in damp conditions.",
+      "end": "10:12:00",
+      "start": "07:30:00",
+      "title": "Diagnostics, Wear, and Visual Inspection"
+    },
+    {
+      "concepts": [
+        "Socket selection with rubber grommets",
+        "Dielectric grease usage on the spark plug boot/coil connection",
+        "torque, seating, and ease of future removal"
+      ],
+      "description": "Final segment focuses on proper installation tools and lubricants. The presenter recommends dielectric grease to aid installation and moisture sealing, stresses rubber-grommet spark plug sockets to avoid damaging plugs, and reiterates torque and seating considerations for long-term reliability.",
+      "end": "11:15:00",
+      "start": "10:12:00",
+      "title": "Installation Tools, Lubricants, and Final Tips"
+    }
+  ],
+  "summary": "This instructional video from 1A Auto explains spark plug fundamentals relevant to cars, trucks, SUVs, and vans. It covers differences in seating styles (beveled vs flat), shank length implications, and electrode geometry across copper, platinum, and iridium plugs. The presenter emphasizes following manufacturer specifications for plug type and gap, explains how heat range relates to the porcelain/ceramic exposed area, and highlights maintenance considerations such as service intervals and torque. Practical how-tos include selecting the correct gap with various tools, avoiding improper gapping on platinum or iridium tips, using dielectric grease for easier installation and moisture protection, and inspecting plugs for cracks or wear. The video also discusses tools (spark plug sockets with rubber grommets, gap gauges) and cautions against reusing worn gaskets or mis-seating plugs, all framed within a practical, hands-on demonstration on a workbench.",
+  "title": "Spark Plug Basics: Copper, Platinum, Iridium, Gapping, and Installation",
+  "topics": [
+    "Spark plug types: copper, platinum, iridium",
+    "Beveled vs flat seating on spark plugs",
+    "gasket seating and gasket squish implications",
+    "torque and service interval considerations",
+    "shank-length differences and their impact on combustion-chamber fit",
+    "Electrode geometry and ground path",
+    "Manufacturer specifications and vehicle compatibility",
+    "Copper spark plugs: typical applications and life (20,000–30,000 miles)",
+    "Platinum spark plugs: cost, wear, and life (60,000–100,000 miles)",
+    "Iridium spark plugs: cost, precision spark, and life (up to ~120,000 miles)",
+    "Electrode count variety (2, 4, 6) and its perceived pros/cons",
+    "Heat range and porcelain exposure as a heat-dissipation indicator",
+    "Heat range implications for nitrous and high-heat applications",
+    "consulting the owner's manual for recommended plug and gap",
+    "Gap tooling: identifying and setting the correct gap (example 0.035 inch)",
+    "Different gap tools: fixed vs adjustable gauges and ease of use",
+    "Gapping cautions: avoid bending or over-spreading electrodes, especially on platinum/iridium",
+    "Identifying and interpreting cracks in the ceramic/insulator",
+    "Moisture-related misfires and the importance of a good seal",
+    "Spark plug sockets with rubber grommets to prevent damage",
+    "Dielectric grease versus never-seize: recommended usage for ease of installation and moisture sealing",
+    "Installation best practices: apply dielectric grease to the plug tip and slide into place",
+    "Consequences of heat and age on ignition components and how to diagnose misfires"
+  ],
+  "video": "75xv6mUZ-q4.youtube"
+}

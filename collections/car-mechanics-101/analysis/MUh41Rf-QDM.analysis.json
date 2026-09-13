@@ -1,0 +1,180 @@
+{
+  "analysis_created_at": "2026-09-11T21:09:39.387637+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 15, 2019",
+    "iso": "2019-06-15",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Diagnosing a door lock actuator by observing lock travel with the key fob and door button",
+      "timestamp": "00:00:34"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Door panel removal to access the locking mechanism and actuator",
+      "timestamp": "00:01:26"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Cable movement testing by manipulating cables with the door panel removed",
+      "timestamp": "00:01:40"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Disassembly and inspection of the internal locking actuator",
+      "timestamp": "00:02:02"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Off-vehicle functional test of actuator to demonstrate operation",
+      "timestamp": "00:02:35"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Replacement planning and directing viewers to a dedicated replacement video",
+      "timestamp": "00:03:20"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript explicitly states the vehicle model and work occurs on the door panel inside the door",
+      "confidence": 0.92,
+      "name": "Door panel (inside the door) of a 2014 Subaru Forester"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "192970f3-4d6f-54f8-b86d-b9d60f0eb0b5",
+    "spec_sha256": "c3747e8f3f94b64973fa8b42abaea4af88049168c735926c9e1d1d32a5ddd101",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-59e1f60f34ae"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 107967,
+      "dependency_resolution_ms": 39,
+      "handler_ms": 108888,
+      "input_fetch_ms": 737
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 74445,
+      "digest": "2f8b078313f1374863f5068605a300810b8fb21baed0898504d32cbe29f68126",
+      "key": "objects/sha256/2f/8b078313f1374863f5068605a300810b8fb21baed0898504d32cbe29f68126",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "2239c5f0-a1d9-5496-9443-e75ce04ec41b"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Model: 2014 Subaru Forester",
+        "Door lock on this door does not fully lock when activated",
+        "Other doors lock normally; audible noise and partial movement observed"
+      ],
+      "description": "The presenter notes a single door acting up, with incomplete lock movement and an audible cue, setting up the goal to diagnose the cause.",
+      "end": "00:00:24",
+      "start": "00:00:07",
+      "title": "Symptom identification on the target door"
+    },
+    {
+      "concepts": [
+        "Key fob/lock button tested outside the vehicle",
+        "Lock moves a little but does not reach the locked position",
+        "Signs of possible binding or internal interference prompting door-panel diagnosis"
+      ],
+      "description": "Using the door lock button from outside, the lock advances only slightly, accompanied by an inside-door audible sound, indicating the issue may be internal to the door mechanism.",
+      "end": "00:01:04",
+      "start": "00:00:32",
+      "title": "External lock test and initial diagnosis logic"
+    },
+    {
+      "concepts": [
+        "Door panel removed",
+        "Cables exposed in the hand",
+        "Key used to test cable movement"
+      ],
+      "description": "The panel is removed to gain access to the locking cable and actuator, enabling direct observation of the cable behavior during lock/unlock attempts.",
+      "end": "00:01:56",
+      "start": "00:01:26",
+      "title": "Door panel removal and access to locking components"
+    },
+    {
+      "concepts": [
+        "Observation: white cable to the locking unit shows binding",
+        "Inference: binding likely responsible for inability to fully lock"
+      ],
+      "description": "Visual cue of binding in the locking cable pathway suggests the fault lies at or beyond the cable connection to the locking unit.",
+      "end": "00:02:15",
+      "start": "00:01:56",
+      "title": "Identification of binding in the locking cable"
+    },
+    {
+      "concepts": [
+        "Locking unit removed from the vehicle",
+        "Attempted disassembly with hand tools",
+        "Humorous note about using a hammer vs. screwdriver"
+      ],
+      "description": "The actuator assembly is taken apart to inspect its internals, with the presenter outlining the intent to reveal what operates inside the unit.",
+      "end": "00:02:31",
+      "start": "00:02:02",
+      "title": "Disassembly and internal inspection begins"
+    },
+    {
+      "concepts": [
+        "Reconnect wiring harness",
+        "Lock and unlock actions tested on the removed/partially assembled unit",
+        "Explanation of how pushing the signal drives the motor, which pulls the cable to operate the lock"
+      ],
+      "description": "With the assembly tested outside the door, the presenter demonstrates how the actuator translates motor motion into cable movement that locks or unlocks the door.",
+      "end": "00:03:01",
+      "start": "00:02:31",
+      "title": "Functional testing of the isolated actuator assembly"
+    },
+    {
+      "concepts": [
+        "Inside-the-door mechanism demonstrated",
+        "Decision to replace the faulty component rather than reassemble a partial unit",
+        "Direct viewers to the replacement video on 1A Auto"
+      ],
+      "description": "The host confirms the fault and opts for replacement, inviting viewers to consult their replacement guide for the actual installation.",
+      "end": "00:03:36",
+      "start": "00:03:14",
+      "title": "Conclusion and replacement plan"
+    }
+  ],
+  "summary": "This tutorial-clip from 1A Auto demonstrates diagnosing a sticking door lock actuator on a 2014 Subaru Forester. The host first confirms that the lock on one door only moves a short distance and produces an audible cue, then systematically tests the mechanism by inspecting the cables and opening the door panel to access the lock actuator. He identifies binding in the locking cable, disassembles the actuator to inspect internal components, and demonstrates how the lock motor translates rotation into cable motion. The video concludes with a plan to replace the faulty unit and a note that viewers can watch 1A Auto’s replacement video for the actual part install.",
+  "title": "Diagnosing and Replacing a Faulty Door Lock Actuator on a 2014 Subaru Forester",
+  "topics": [
+    "2014 Subaru Forester",
+    "door lock actuator diagnosis",
+    "Central locking system",
+    "Door panel removal",
+    "Locking cable inspection",
+    "Lock/unlock testing with key fob",
+    "Actuator internal inspection",
+    "Disassembly of locking actuator",
+    "Replacement of door lock actuator",
+    "Safety equipment (safety glasses)",
+    "DIY auto repair guidance",
+    "1A Auto instructional video"
+  ],
+  "video": "MUh41Rf-QDM.youtube"
+}

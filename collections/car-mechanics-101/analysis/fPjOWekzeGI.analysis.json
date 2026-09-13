@@ -1,0 +1,300 @@
+{
+  "analysis_created_at": "2026-09-11T20:38:35.484600+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "October 10, 2022",
+    "iso": "2022-10-10",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "4-stroke engine cycle (intake, compression, power, exhaust)",
+      "timestamp": "00:02:36"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Unibody vs. body-on-frame construction",
+      "timestamp": "00:01:33"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "McPherson strut front suspension",
+      "timestamp": "00:06:43"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Front-wheel drive components within gearbox housing",
+      "timestamp": "00:04:10"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "All-wheel drive transfer case and torque distribution",
+      "timestamp": "00:04:57"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Powertrain concept: engine plus transmission",
+      "timestamp": "00:04:35"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "4-cylinder, 16-valve gasoline engine example",
+      "timestamp": "00:02:29"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Front-drive layout with final drive and differential on drive axle",
+      "timestamp": "00:04:31"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "29a2791c-81ea-50f6-827a-f41c279e5e96",
+    "spec_sha256": "1b31aa471d4cfccb3481da2c063c1b726bed185e9d84b417d82fd5839662858c",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-110cc0b0413e",
+        "term-391c32cddd0c",
+        "term-6b74841c966f",
+        "term-b95d2960f059",
+        "term-c34e3354746f",
+        "term-d86c50481ba8"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 75077,
+      "dependency_resolution_ms": 35,
+      "handler_ms": 75871,
+      "input_fetch_ms": 643
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 112121,
+      "digest": "2bb93418080aa3cd2074cd0792cd0ff59b2c03548193303d6cb379a1846b17a6",
+      "key": "objects/sha256/2b/b93418080aa3cd2074cd0792cd0ff59b2c03548193303d6cb379a1846b17a6",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c0316f24-8829-5964-bd44-9e1d02d72072"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "body-on-frame",
+        "engine",
+        "transmission",
+        "suspension systems, Wheel and tires",
+        "control systems",
+        "electrical systems",
+        "engine subsystems",
+        "climatic equipment"
+      ],
+      "description": "Introduces the major systems included in a vehicle and notes that each system will be explored in greater detail.",
+      "end": "00:00:56",
+      "start": "00:00:04",
+      "title": "Overview of major car systems"
+    },
+    {
+      "concepts": [
+        "body",
+        "frame",
+        "body-on-frame",
+        "unibody",
+        "modern car construction",
+        "off-road vehicles"
+      ],
+      "description": "Defines the body as space for occupants and cargo, and the frame as the main supporting structure; explains body-on-frame versus unibody construction and notes that unibody is common in modern cars while body-on-frame is rarer and used in some off-road SUVs.",
+      "end": "00:01:50",
+      "start": "00:01:00",
+      "title": "Body and frame: construction concepts"
+    },
+    {
+      "concepts": [
+        "engine location",
+        "internal combustion engine",
+        "fuel types",
+        "electric and hybrid propulsion"
+      ],
+      "description": "Notes that engines are usually at the front; describes the internal combustion engine and its reliance on gasoline or diesel, and mentions electric and hybrid motors as growing alternatives.",
+      "end": "00:02:29",
+      "start": "00:01:50",
+      "title": "Engine location and type"
+    },
+    {
+      "concepts": [
+        "intake system",
+        "exhaust system",
+        "fuel supply system",
+        "cooling system",
+        "4-stroke cycle",
+        "intake",
+        "compression",
+        "power",
+        "exhaust"
+      ],
+      "description": "Outlines engine subsystems and presents the 4-stroke operating cycle (intake, compression, power, exhaust).",
+      "end": "00:03:13",
+      "start": "00:02:29",
+      "title": "Engine cycles and subsystems"
+    },
+    {
+      "concepts": [
+        "powertrain",
+        "engine-transmission interaction",
+        "transmission types",
+        "manual",
+        "automatic",
+        "gearbox",
+        "drive modes",
+        "torque transfer"
+      ],
+      "description": "Defines the powertrain as the engine plus transmission, contrasts manual and automatic gearboxes, and introduces drive modes and how torque is transferred to drive Wheel.",
+      "end": "00:04:42",
+      "start": "00:03:13",
+      "title": "Powertrain and transmission concepts"
+    },
+    {
+      "concepts": [
+        "torque distribution",
+        "transfer case",
+        "front-back drive"
+      ],
+      "description": "Introduces all-wheel drive concepts and mentions the transfer case and how torque distribution can be managed in AWD layouts.",
+      "end": "00:04:57",
+      "start": "00:04:42",
+      "title": "All-wheel drive awareness: transfer details"
+    },
+    {
+      "concepts": [
+        "final drive",
+        "differential",
+        "propeller shaft",
+        "axles"
+      ],
+      "description": "Notes that AWD systems include final drives and differentials on the drive axles, with transfer between axles via shafts.",
+      "end": "00:05:19",
+      "start": "00:04:57",
+      "title": "All-wheel drive components"
+    },
+    {
+      "concepts": [
+        "Wheel",
+        "tires",
+        "Inner tube",
+        "Wheel hub",
+        "steering knuckle",
+        "coil spring",
+        "shock absorbers",
+        "anti-roll bar",
+        "subframe",
+        "bushings",
+        "McPherson struts",
+        "torsion bar"
+      ],
+      "description": "Describes Wheel and tires, then details suspension components and common arrangements, including McPherson struts at the front and a torsion-bar rear setup.",
+      "end": "00:06:54",
+      "start": "00:05:28",
+      "title": "Suspension, Wheel and tires"
+    },
+    {
+      "concepts": [
+        "steering system",
+        "braking system",
+        "engine control",
+        "transmission control"
+      ],
+      "description": "Outlines the purpose of the steering and braking systems and notes engine and transmission controls, including an obsolete mechanical throttle valve.",
+      "end": "00:07:54",
+      "start": "00:06:58",
+      "title": "Car control systems: steering and braking"
+    },
+    {
+      "concepts": [
+        "power sources",
+        "Power consumers",
+        "electrical wiring",
+        "auxiliary elements",
+        "battery",
+        "generator",
+        "headlights",
+        "starter motor",
+        "engine control unit",
+        "relays and fuses",
+        "buttons and switches"
+      ],
+      "description": "Classifies electrical equipment into power sources, consumers, wiring, and auxiliary elements, and lists examples like the battery, generator, ECU, and fuses.",
+      "end": "00:08:57",
+      "start": "00:07:54",
+      "title": "Electrical systems in a vehicle"
+    },
+    {
+      "concepts": [
+        "summary",
+        "future videos"
+      ],
+      "description": "Wraps up the review of basic car components and encourages viewers to watch the next videos.",
+      "end": "00:09:03",
+      "start": "00:08:57",
+      "title": "Conclusion and next videos"
+    }
+  ],
+  "summary": "The video provides a guided tour of the major systems and assemblies that constitute a car. It starts with an overview of the key subsystems—body-on-frame, engine, transmission, suspension with Wheel and tires, control systems, and electrical systems—then explains body-on-frame versus unibody construction, front-engine placement, the 4-stroke engine cycle and its subsystems, how the engine connects to the drive Wheel via the powertrain, and common drive layouts (front-, rear-, and all-wheel drive). The sections cover suspension components, wheel and tire features, steering and braking controls, engine and transmission controls, and the basics of automotive electrical systems, before inviting viewers to watch more videos. The content is presented with brief definitions and visual cues typical of a high-level introductory explain-and-see approach.",
+  "title": "Car Anatomy Basics: How Cars Work (3D animation)",
+  "topics": [
+    "body",
+    "frame",
+    "body-on-frame",
+    "unibody",
+    "front-engine layout",
+    "internal combustion engine",
+    "fuel types (gasoline, diesel)",
+    "electric/hybrid propulsion",
+    "4-stroke engine cycle",
+    "intake system",
+    "exhaust system",
+    "fuel supply system",
+    "cooling system",
+    "powertrain",
+    "transmission",
+    "manual gearbox",
+    "automatic gearbox",
+    "gearbox and clutch",
+    "drive modes",
+    "front-wheel drive",
+    "rear-wheel drive",
+    "all-wheel drive",
+    "final drive",
+    "differential",
+    "axle shafts",
+    "propeller shaft",
+    "Wheel hub",
+    "suspension",
+    "springs",
+    "shock absorbers",
+    "anti-roll bar",
+    "subframe",
+    "bushings",
+    "McPherson struts",
+    "torsion bar",
+    "steering system",
+    "braking system",
+    "engine control unit",
+    "transmission control",
+    "electrical systems"
+  ],
+  "video": "fPjOWekzeGI.youtube"
+}

@@ -1,0 +1,144 @@
+{
+  "analysis_created_at": "2026-09-11T21:14:03.345572+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "April 19, 2017",
+    "iso": "2017-04-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Visual frame inspection",
+      "timestamp": "00:00:46.180"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Identify C-channel geometry and material loss",
+      "timestamp": "00:01:05.900"
+    },
+    {
+      "confidence": 0.92,
+      "technique": "Hammer test for soft spots",
+      "timestamp": "01:37.240"
+    },
+    {
+      "confidence": 0.89,
+      "technique": "Observation of material loss and holes after hammering",
+      "timestamp": "01:58:460"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Assessment of front vs. rear frame integrity",
+      "timestamp": "02:31:700"
+    },
+    {
+      "confidence": 0.95,
+      "technique": "Detection of transmission bracket tearing",
+      "timestamp": "02:55:220"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Recognition of stress cracking and welded patches",
+      "timestamp": "03:41:940"
+    },
+    {
+      "confidence": 0.93,
+      "technique": "Safety verdict: not safe to jack up or work under",
+      "timestamp": "04:18:040"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "bd4d7f80-7ab3-5a9a-b507-dcca189f5542",
+    "spec_sha256": "b0bbea9afb4d3a836a603f386fb3c46fc12d50337a07d184747b3daed15c46a9",
+    "timing": {
+      "analysis_ms": 53017,
+      "dependency_resolution_ms": 66,
+      "handler_ms": 53816,
+      "input_fetch_ms": 611
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 70545,
+      "digest": "3d7880cc400f83cbb1fd1615202fca9007850409f019a520e9b4c2c7c9fb221b",
+      "key": "objects/sha256/3d/7880cc400f83cbb1fd1615202fca9007850409f019a520e9b4c2c7c9fb221b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d37a0a78-f7bd-5bba-94a8-2d2cd87d39fe"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "purpose of frame inspection",
+        "safety considerations before lifting"
+      ],
+      "description": "Mike from 1A Auto introduces the video topic and asserts that most vehicle repairs require lifting, setting the stage for inspecting frame condition before raising a vehicle.",
+      "end": "00:00:46.180",
+      "start": "00:00:19.480",
+      "title": "Introduction and need for frame inspection"
+    },
+    {
+      "concepts": [
+        "visual inspection",
+        "surface rust vs structural strength",
+        "C-channel frame shape"
+      ],
+      "description": "The visual inspection is described as the first step. The frame shows surface rust, but the upper part of the rear C-channel is missing; some areas can be moved by hand, indicating weakness.",
+      "end": "01:27:140",
+      "start": "00:00:46.180",
+      "title": "Visual assessment and initial findings"
+    },
+    {
+      "concepts": [
+        "hammer test",
+        "soft spots indicate weakness",
+        "edge and edge-edge damage"
+      ],
+      "description": "The presenter uses a hammer to probe the frame; soft areas are revealed, with chunks falling out and holes appearing where material has deteriorated or been compromised.",
+      "end": "02:01:520",
+      "start": "01:27:140",
+      "title": "Hammer test and uncovering soft spots"
+    },
+    {
+      "concepts": [
+        "transmission bracket detachment",
+        "stress cracking and welding patches",
+        "overall safety for lifting and working under"
+      ],
+      "description": "Despite some solid sections, the rear frame shows severe degradation, including torn transmission brackets and stress cracks with welded patches. The frame back end is largely reduced to sheet metal, making it unsafe to drive, lift, or work under, and unsafe to attempt repairs.",
+      "end": "04:24:100",
+      "start": "02:01:520",
+      "title": "Rear frame deterioration and failure risk; safety implications"
+    }
+  ],
+  "summary": "In this instructional clip from 1A Auto, the presenter guides viewers through a thorough frame-condition check before lifting or working under a vehicle. The video emphasizes that most repairs require raising and supporting a vehicle, and demonstrates a step-by-step assessment: starting with a visual inspection to identify surface rust and structural loss, then probing for softness with a hammer to reveal weak metal and missing sections, and finally highlighting more severe findings such as cracked/stressed welds, detached transmission brackets, and severely rotted frame sections. The instructor stresses that even if some areas look solid, other sections can be dangerously compromised, and concludes that the truck in the video is not safe to drive, jack up, or work under. The tone reinforces safety: always inspect the entire frame on both sides before supporting the vehicle, as compromised areas can fail under load.",
+  "title": "Assessing Frame Condition and Safety to Work Under a Vehicle: Visual and Hammer Tests",
+  "topics": [
+    "visual inspection of frame",
+    "surface rust assessment",
+    "C-channel frame identification",
+    "frame material loss and soft spots",
+    "hammer test for frame integrity",
+    "hole punching and material removal as a diagnostic",
+    "rear frame damage and sheet metal replacement",
+    "transmission bracket integrity",
+    "stress cracks and weld patches",
+    "front vs rear frame condition comparison",
+    "bed rail/rail corrosion indicators",
+    "safety implications for lifting and working under a vehicle"
+  ],
+  "video": "YzUf1YtSxDM.youtube"
+}

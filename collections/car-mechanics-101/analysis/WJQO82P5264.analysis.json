@@ -1,0 +1,226 @@
+{
+  "analysis_created_at": "2026-09-11T21:14:34.395593+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 9, 2019",
+    "iso": "2019-03-09",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Explaining clutch system anatomy and operation via diagram (pedal-to-flywheel flow)",
+      "timestamp": "00:00:29"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Detailing on-car component layout and hydraulic actuation (master/slave, fork, release bearing)",
+      "timestamp": "00:04:16"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Component wear inspection: pilot bushing, disc, springs, and pressure plate",
+      "timestamp": "00:05:10"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Identifying hydraulic leakage signs on the slave cylinder boot",
+      "timestamp": "00:08:09"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Diagnosing clutch issues with pedal engagement height and road testing",
+      "timestamp": "00:09:22"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Adjusting clutch master linkage/push rod for pedal firmness",
+      "timestamp": "00:09:39"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Assessing clutch fluid quality and identifying overheated brake fluid",
+      "timestamp": "00:10:19"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Identifying throw-out bearing wear/noise as a diagnostic cue",
+      "timestamp": "00:10:53"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Cataloging common clutch failure points (slave, throw-out bearing, master, disc)",
+      "timestamp": "00:09:01"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Maintenance guidance to treat clutch hydraulics gently and replace worn parts",
+      "timestamp": "00:12:09"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript explicitly states the slave cylinder is mounted on the side of the transmission and describes its interaction with the release bearing and clutch fork.",
+      "confidence": 0.8,
+      "name": "Side of the transmission (slave cylinder mounting area)"
+    },
+    {
+      "basis": "Transcript describes the pilot bearing/bushing inside the milled-out crankshaft area to receive the transmission spline.",
+      "confidence": 0.7,
+      "name": "Pilot bearing/bushing housing inside the crankshaft"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "d7a77a68-c606-5900-a1c0-532a3e66bae0",
+    "spec_sha256": "bf567ada1b9ee31764b93258c50603868a3c6666b8bbfa26570c9fe184446829",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-2324d4d9b2eb",
+        "term-23b52f668852",
+        "term-37a1bc009295",
+        "term-3e15e54972d7",
+        "term-45c3b1ec1f88",
+        "term-82724e048378",
+        "term-b1e8d2d10569",
+        "term-d8fe131d693a"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 52980,
+      "dependency_resolution_ms": 520,
+      "handler_ms": 54265,
+      "input_fetch_ms": 631
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 257120,
+      "digest": "7b2990985db285c8faf5ebffc9d9aca0742180d4ac979515a8b3026ce66feb98",
+      "key": "objects/sha256/7b/2990985db285c8faf5ebffc9d9aca0742180d4ac979515a8b3026ce66feb98",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "68e5dc5c-aa92-512d-91db-445c86caf133"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "pedal actuation",
+        "hydraulic master/slave",
+        "release bearing (throw-out bearing)",
+        "clutch fork",
+        "pressure plate",
+        "clutch disc",
+        "flywheel"
+      ],
+      "description": "Introduction to the manual transmission clutch: pressing the pedal pressurizes brake fluid in the master cylinder, moving the slave cylinder, which via the clutch fork and release bearing pushes the pressure plate to separate the clutch disc from the flywheel, enabling gear changes and then re-engagement when the pedal is released.",
+      "end": "00:02:02",
+      "start": "00:00:16",
+      "title": "Clutch system basics: how it works"
+    },
+    {
+      "concepts": [
+        "flywheel",
+        "pilot bearing / pilot bushing",
+        "clutch disc",
+        "pressure plate",
+        "release bearing",
+        "alignment pins"
+      ],
+      "description": "Explains the arrangement and function of the major clutch parts, including how the disc sits against the flywheel, the role of springs in the disc, and how the pressure plate and the release bearing interact with the flywheel and disc during engagement.",
+      "end": "00:04:01",
+      "start": "00:02:08",
+      "title": "Clutch components and assembly details"
+    },
+    {
+      "concepts": [
+        "clutch fork",
+        "release bearing alignment",
+        "slave cylinder placement",
+        "master cylinder position"
+      ],
+      "description": "Describes the spatial relationships of the clutch fork, release bearing, slave cylinder mounted on the transmission, and the master cylinder near the firewall, illustrating how hydraulic pressure translates pedal input into disc engagement.",
+      "end": "00:04:59",
+      "start": "00:04:01",
+      "title": "On-vehicle layout of hydraulic clutch parts"
+    },
+    {
+      "concepts": [
+        "pilot shaft bushing",
+        "disc wear and material",
+        "springs and centrifugal force",
+        "pressure plate condition",
+        "release bearing/noise"
+      ],
+      "description": "Shows wear and failure indications from a used clutch: a worn pilot bushing with shiny interior indicating possible transmission wobble; disc wear patterns; centrifugal springs showing wear; and the general condition of the pressure plate and its fingers.",
+      "end": "00:07:56",
+      "start": "00:05:04",
+      "title": "Diagnostic assessment of a used clutch: wear and component condition"
+    },
+    {
+      "concepts": [
+        "slave cylinder leakage",
+        "master cylinder leakage",
+        "fluid color and condition",
+        "boot/seal integrity",
+        "Pedal feel and adjustment",
+        "road-test indicators",
+        "repair sequencing and parts replacement"
+      ],
+      "description": "Covers hydraulic-related failures, including leaking slave cylinders and master cylinder seals, signs such as wetness on the slave boot and degraded pedal feel due to internal seals; explains how to check fluid level and condition, assess the need for adjustment, perform a road test to determine whether the disc is worn or misadjusted, and emphasizes proper maintenance to extend clutch life.",
+      "end": "00:12:15",
+      "start": "00:07:59",
+      "title": "Hydraulic system faults, diagnoses, and maintenance tips"
+    },
+    {
+      "concepts": [
+        "maintenance reminders",
+        "where to source parts",
+        "additional content"
+      ],
+      "description": "Wrap-up with practical reminders for regular inspection, technician checks, and directing viewers to 1A Auto for parts and further DIY auto repair content.",
+      "end": "00:12:34",
+      "start": "00:12:15",
+      "title": "Closing tips and takeaways"
+    }
+  ],
+  "summary": "This video provides a foundational overview of a typical hydraulic clutch system for passenger cars and light-duty trucks. It explains each major component—pedal, clutch master cylinder, hydraulic line, slave cylinder, clutch fork, release (throw-out) bearing, pressure plate, clutch disc, flywheel, and pilot bearing/bushing—and describes how hydraulic input from the pedal ultimately frees and engages the clutch via the release bearing pushing the pressure plate fingers against the clutch disc against the flywheel. The host then presents a kit of replacement parts, demonstrates expected assembly order, and discusses on-vehicle layout. A substantial portion of the video is devoted to diagnosing common clutch problems observed in shop practice, including pilot shaft bushing wear, disc wear patterns, worn springs, and a noisy/dragging throw-out bearing, along with signs of hydraulic leakage from the slave and master cylinders. Practical diagnostic checks include inspecting fluid level and condition, detecting leaks via a leaky slave or boot, confirming road-test engagement height to distinguish wear from misadjustment, and adjusting the clutch master to restore firm pedal feel. The video closes with maintenance guidance emphasizing gentle clutch use, regular inspection of hydraulic components, and the importance of replacing worn parts to preserve system health and safety.",
+  "title": "How a Clutch System Works and How to Diagnose Problems (1A Auto)",
+  "topics": [
+    "Clutch pedal operation",
+    "Clutch hydraulic system: master cylinder",
+    "clutch hydraulic system: slave cylinder",
+    "Release bearing / throw-out bearing",
+    "clutch fork mechanics",
+    "Pressure plate anatomy",
+    "clutch disc composition and wear",
+    "Flywheel function and engagement",
+    "Pilot bearing / pilot bushing",
+    "Pilot shaft wear indicators",
+    "clutch component kit (flywheel, disc, pressure plate, bearing, bushing)",
+    "Disc alignment pins",
+    "On-vehicle clutch layout and mounting",
+    "Wear patterns on disc and springs",
+    "Springs in the pressure plate and centrifugal load",
+    "Hydraulic fluid condition (brake fluid in clutch system)",
+    "Slave cylinder leakage and boot inspection",
+    "Master cylinder leakage and firewall boot",
+    "clutch pedal adjustment procedure",
+    "Road test indicators of clutch wear vs. misadjustment",
+    "Diagnostic workflow for clutch problems",
+    "Maintenance and replacement guidance for clutches"
+  ],
+  "video": "WJQO82P5264.youtube"
+}

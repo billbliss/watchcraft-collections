@@ -1,0 +1,201 @@
+{
+  "analysis_created_at": "2026-09-11T21:07:00.671095+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "December 20, 2018",
+    "iso": "2018-12-20",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Using a dial indicator to measure vertical play in a front lower ball joint",
+      "timestamp": "00:04:47"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Determining load-carrying vs non-load-carrying ball joints by spring location",
+      "timestamp": "00:01:41"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Unloading the suspension to isolate ball joint movement",
+      "timestamp": "00:01:07"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Using locking pliers to anchor the joint and stabilize setup",
+      "timestamp": "00:02:54"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Zeroing the gauge prior to a pry-based travel test",
+      "timestamp": "00:04:34"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Prying the tire to induce movement for measurement",
+      "timestamp": "00:05:05"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Interpreting measured play against a 0.020 inch tolerance to decide replacement",
+      "timestamp": "00:05:12"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "0a03a935-0f16-5061-a827-d9732792d4d3",
+    "spec_sha256": "82c3c02d551f9b13638316baca4d4bee6dc4bbda5cb791a36cd65df1e16905e5",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-1f85ec0d04f1"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 52355,
+      "dependency_resolution_ms": 54,
+      "handler_ms": 53252,
+      "input_fetch_ms": 676
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 102412,
+      "digest": "267215d17581e10085abb2220d7ea9d6594638d4b90ff0c484f55ea472cffcdc",
+      "key": "objects/sha256/26/7215d17581e10085abb2220d7ea9d6594638d4b90ff0c484f55ea472cffcdc",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "5afd0a7f-e165-5074-9aee-e4ce225f2d2c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "introducers: Mike and Andy of 1A Auto",
+        "goal: show how to check front lower ball joints with a dial indicator",
+        "measure: vertical play between the knuckle and ball joint"
+      ],
+      "description": "Presenters state the purpose: to inspect front lower ball joints using a dial indicator and define the measure as the play when the knuckle moves up and down.",
+      "end": "00:01:02",
+      "start": "00:00:03",
+      "title": "Introduction and objective"
+    },
+    {
+      "concepts": [
+        "definition of load carrying: weight on the lower ball joint via the control arm",
+        "spring location as the giveaway: rear/forward attachment indicates load carrying",
+        "general explanation of how the spring and strut relate to the joint"
+      ],
+      "description": "Explains how to tell if a ball joint is load carrying by locating the spring and describes how the spring’s attachment point determines load behavior.",
+      "end": "00:02:02",
+      "start": "00:01:02",
+      "title": "Load-carrying vs. non-load carrying ball joints"
+    },
+    {
+      "concepts": [
+        "replacement cues: torn boot, binding, or squeaking",
+        "initial tolerance: up-down vertical play allowed up to ~0.020 inches",
+        "side-to-side movement as an additional concern"
+      ],
+      "description": "Outlines when a ball joint looks suspect and introduces the 0.020 inch vertical tolerance; notes side-to-side movement also factors into replacement decisions.",
+      "end": "00:02:41",
+      "start": "00:02:21",
+      "title": "Reasons to replace and the tolerance concept"
+    },
+    {
+      "concepts": [
+        "locking pliers used to anchor to the lower control arm",
+        "dial gauge setup and adjustments"
+      ],
+      "description": "Introduces the main tools: locking pliers and a dial gauge; mentions there are many adjustments with the tool.",
+      "end": "00:03:17",
+      "start": "00:02:47",
+      "title": "Tools and setup for measurement"
+    },
+    {
+      "concepts": [
+        "positioning the tool out of the way of the floor jack",
+        "raising the front suspension to unload the ball joint",
+        "aiming for about an inch of clearance under the tire"
+      ],
+      "description": "Describes how to support and raise the vehicle so the lower ball joint is unloaded and ready for measurement.",
+      "end": "00:04:18",
+      "start": "00:03:17",
+      "title": "Vehicle prep and load removal"
+    },
+    {
+      "concepts": [
+        "zeroing the dial gauge before prying",
+        "note on gauge sensitivity: small movements shift the reading"
+      ],
+      "description": "Demonstrates zeroing the gauge and preparing the setup for the pry test, acknowledging the gauge’s sensitivity.",
+      "end": "00:04:47",
+      "start": "00:04:34",
+      "title": "Gauge zeroing and setup check"
+    },
+    {
+      "concepts": [
+        "pry bar under the tire to raise and lower",
+        "alternative to use a partner to monitor gauge while prying"
+      ],
+      "description": "Shows lifting the tire with a pry bar to induce movement while observing the gauge for vertical play.",
+      "end": "00:05:16",
+      "start": "00:05:03",
+      "title": "Pry test to measure play"
+    },
+    {
+      "concepts": [
+        "observed movement around 0.050 inches",
+        "tolerance is 0.020 inches; this exceeds spec",
+        "conclusion: replace ball joint now"
+      ],
+      "description": "Reports a measured ~0.050 inch movement, interprets against the 0.020 inch tolerance, and concludes replacement is indicated.",
+      "end": "00:05:37",
+      "start": "00:05:12",
+      "title": "Interpreting results and replacement decision"
+    },
+    {
+      "concepts": [
+        "explicit example: 2009 Chevy Suburban",
+        "note: other vehicles may use similar procedures",
+        "advise checking the repair manual for tolerances"
+      ],
+      "description": "Mentions a specific vehicle model to illustrate the procedure and cautions viewers to consult the repair manual for vehicle-specific tolerances.",
+      "end": "00:06:10",
+      "start": "00:06:01",
+      "title": "Vehicle example and guidance"
+    }
+  ],
+  "summary": "This video demonstrates a hands-on method to diagnose play in a front lower ball joint with a dial indicator. Andy explains how to distinguish load‑carrying from non‑load‑carrying joints by spring location, then shows unloading the suspension to take weight off the joint. Using locking pliers, a gauge, a floor jack, and a pry bar, the presenter zeroes the gauge, lifts the tire for a measured vertical movement, and compares the observed play to a 0.020 inch (20 thousandths) tolerance. A movement around 0.050 inches indicates replacement is needed, while smaller movements may be acceptable depending on tolerances from the repair manual. The example uses a 2009 Chevy Suburban and ends with guidance to consult the repair manual for vehicle-specific tolerances.",
+  "title": "Diagnosing a Front Lower Ball Joint Using a Dial Indicator",
+  "topics": [
+    "front lower ball joint",
+    "dial indicator / dial gauge",
+    "load-carrying vs non-load-carrying ball joints",
+    "spring location as diagnostic indicator",
+    "lower control arm and knuckle interaction",
+    "visually inspecting ball joints (boot condition, binding, squeaking)",
+    "tools: locking pliers, gauge, pry bar, floor jack",
+    "unloading suspension to test ball joint play",
+    "proper setup: gauge zeroing and clearance from tire",
+    "measuring vertical play (up-down) vs side-to-side movement",
+    "tolerance reference: 0.020 inches vertical play",
+    "interpreting test results: replace if movement exceeds tolerance",
+    "example vehicle: 2009 Chevy Suburban",
+    "check repair manual for vehicle-specific tolerances"
+  ],
+  "video": "ZzwvijyQpdU.youtube"
+}

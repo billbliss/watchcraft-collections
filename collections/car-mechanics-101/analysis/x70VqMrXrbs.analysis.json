@@ -1,0 +1,294 @@
+{
+  "analysis_created_at": "2026-09-11T20:36:56.588907+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "April 17, 2021",
+    "iso": "2021-04-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Cylinder head flow configuration types",
+      "timestamp": "00:04:01"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Dry vs. wet cylinder liners",
+      "timestamp": "00:08:10"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Piston rings types and counts (compression vs oil control)",
+      "timestamp": "00:10:37"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "camshaft drive mechanisms (gear, chain, belt)",
+      "timestamp": "00:14:16"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Top dead center and bottom dead center definitions",
+      "timestamp": "00:09:18"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "eef5e0f7-3d43-54aa-a8e2-fa81b5f7fae5",
+    "spec_sha256": "b708947e355a6175ff04fa96c106654099094b037015ac34dbfc2103a5da2d1a",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-02f6ed6a4faa",
+        "term-0674676c7c23",
+        "term-2012621d7fe1",
+        "term-201b6c15e389",
+        "term-248355ad8389",
+        "term-45b0ef55bea3",
+        "term-4a7d714ba608",
+        "term-524c3b065e96",
+        "term-54538ab09ddd",
+        "term-5bc6afad6014",
+        "term-62ccd6ebba4d",
+        "term-69914e7d1b71",
+        "term-6fa20098e700",
+        "term-7286e94117b7",
+        "term-80fc7b2b18e8",
+        "term-8eefe32fe787",
+        "term-9616a3a46d73",
+        "term-9829bde82f3a",
+        "term-9e05c2913b08",
+        "term-a6cde509f009",
+        "term-b3c0f116cc91",
+        "term-b5d9566ab611",
+        "term-c2874c24cd97",
+        "term-c2f55cb8a880",
+        "term-d9605d129df3",
+        "term-db60cd7d83e5",
+        "term-efea3ccbae79",
+        "term-f578765e9347"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 65767,
+      "dependency_resolution_ms": 127,
+      "handler_ms": 66891,
+      "input_fetch_ms": 857
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 218355,
+      "digest": "25348e035c8d0ae0c60d06cadb6b3189737b0a738c532268b360ffb80ffc6c15",
+      "key": "objects/sha256/25/348e035c8d0ae0c60d06cadb6b3189737b0a738c532268b360ffb80ffc6c15",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c072c97a-87fb-598b-9127-3ba5f5a53491"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "engine converts energy into mechanical energy",
+        "Heat engines burn fuel to perform work",
+        "internal combustion engine vs. external combustion engine",
+        "Spark ignition initiating combustion inside cylinder"
+      ],
+      "description": "Defines the engine as a device that converts heat from fuel into mechanical work, contrasting internal combustion engines (fuel burned inside the cylinder) with external combustion engines, and noting the spark-driven ignition that starts the process.",
+      "end": "00:01:14",
+      "start": "00:00:04",
+      "title": "Engine overview and internal vs external combustion"
+    },
+    {
+      "concepts": [
+        "Cylinder block",
+        "Cylinder head",
+        "oil pan",
+        "Manifolds",
+        "gasket",
+        "Piston"
+      ],
+      "description": "Lists the primary components of an internal combustion engine that will be examined in detail.",
+      "end": "00:02:15",
+      "start": "00:01:34",
+      "title": "Main engine parts list"
+    },
+    {
+      "concepts": [
+        "Cylinder, valve ports, cooling passages",
+        "grey cast iron or aluminium alloys",
+        "Oil galleries",
+        "timing gear, water pump, ignition, flywheel, fuel pump"
+      ],
+      "description": "Describes the block as the basic framework with its internal cylinders and cooling/oil passageways, and notes attached components essential for operation.",
+      "end": "00:03:14",
+      "start": "00:02:15",
+      "title": "Cylinder block construction and lubrication"
+    },
+    {
+      "concepts": [
+        "Cylinder head as a joint between head and block",
+        "combustion chamber, valve guides, seats, ports",
+        "Coolant jackets and spark plug threads",
+        "Loop flow, offset cross flow, inline cross flow types"
+      ],
+      "description": "Explains the cylinder head’s role, its internal features, and three flow configurations that affect performance.",
+      "end": "00:04:14",
+      "start": "00:03:14",
+      "title": "Cylinder head and flow types"
+    },
+    {
+      "concepts": [
+        "Crankcase as bottom housing for crankshaft",
+        "oil pan as oil reservoir",
+        "Drain plug and gasket",
+        "oil pump suction from pan to engine components"
+      ],
+      "description": "Details the crankcase structure, its support for crankshaft bearings, and the oil pan’s role in lubrication and oil circulation.",
+      "end": "00:05:59",
+      "start": "00:04:48",
+      "title": "Crankcase and oil pan"
+    },
+    {
+      "concepts": [
+        "intake and exhaust manifolds",
+        "cast-iron construction",
+        "gaskets for leak-proof joints"
+      ],
+      "description": "Covers separate air-fuel intake and exhaust channels and the gasketed connections that seal the joints.",
+      "end": "00:07:25",
+      "start": "00:06:34",
+      "title": "Manifolds and gaskets"
+    },
+    {
+      "concepts": [
+        "Wear protection inside cylinders",
+        "Dry liners vs wet liners",
+        "Material composition and machining",
+        "Outer vs inner surface accuracy"
+      ],
+      "description": "Explains liners used to reduce cylinder wear and the differences between dry and wet liner designs in terms of outer machining and cooling contact.",
+      "end": "00:08:31",
+      "start": "00:07:25",
+      "title": "Cylinder liners"
+    },
+    {
+      "concepts": [
+        "Piston as cylindrical plug moving in the cylinder",
+        "top dead center (TDC) and bottom dead center (BDC)",
+        "Piston material (cast iron, aluminium) and construction",
+        "Piston clearance and lubrication layer"
+      ],
+      "description": "Describes the piston’s role in converting combustion pressure to motion, defines key piston positions, materials, and the necessity of clearance for lubrication.",
+      "end": "00:09:31",
+      "start": "00:08:49",
+      "title": "Pistons and piston movement"
+    },
+    {
+      "concepts": [
+        "Sealing between piston and cylinder wall",
+        "compression rings vs. oil control rings",
+        "Ring materials and count"
+      ],
+      "description": "Outlines the sealing function of piston rings and differentiates the two main ring types and their typical counts.",
+      "end": "00:10:52",
+      "start": "00:10:05",
+      "title": "Piston rings"
+    },
+    {
+      "concepts": [
+        "connecting rod transmits piston motion to crankshaft",
+        "I-beam section and alloy steel",
+        "Piston pin (gudgeon pin) types and attachment",
+        "Small vs big ends of the connecting rod"
+      ],
+      "description": "Describes how the connecting rod links piston to crankshaft, including pin types and end connections.",
+      "end": "00:12:24",
+      "start": "00:10:52",
+      "title": "connecting rod and piston pin"
+    },
+    {
+      "concepts": [
+        "converts reciprocating to rotary motion",
+        "Main journals, crank pins, balance weights",
+        "Gear/driving features (camshaft, damper, fan belt pulley)"
+      ],
+      "description": "Covers the crankshaft as the primary power transmission member and notes drive connections to ancillary components.",
+      "end": "00:13:39",
+      "start": "00:12:33",
+      "title": "Crankshaft"
+    },
+    {
+      "concepts": [
+        "camshaft mounted cams translating rotary to linear motion",
+        "Cams drive valve opening/closing",
+        "Drive types: gear, chain, belt"
+      ],
+      "description": "Explains how cams open valves and the different drive methods that synchronize valve timing with the crankshaft.",
+      "end": "00:14:25",
+      "start": "00:13:39",
+      "title": "camshaft and drive mechanisms"
+    },
+    {
+      "concepts": [
+        "Heavy wheel attached to crankshaft",
+        "Inertia maintains steady crank speed"
+      ],
+      "description": "Describes the flywheel’s inertia role in smoothing engine operation and maintaining rotational speed.",
+      "end": "00:14:48",
+      "start": "00:14:25",
+      "title": "Flywheel"
+    },
+    {
+      "concepts": [
+        "Valve timing and flow control",
+        "Inlet and outlet locations",
+        "Valve seats and their sealing positions"
+      ],
+      "description": "Summarizes how valves regulate air-fuel intake and exhaust, completing the basic engine cycle.",
+      "end": "00:15:25",
+      "start": "00:14:48",
+      "title": "Engine valves"
+    }
+  ],
+  "summary": "This video provides a structured overview of an internal combustion engine, outlining the core components and their roles in converting fuel energy into mechanical work. It covers the cylinder block and head, crankcase and oil pan, lubrication and cooling passages, manifolds, gaskets, liners, pistons and rings, connecting rods, crankshaft, camshaft, flywheel, and the valve system, with explanations of flow types, lubrication paths, and timing mechanisms. The narration ties each part to its function in fuel combustion, power transmission, and engine efficiency.",
+  "title": "Car Engine Parts & Their Functions Explained in Details | The Engineers Post",
+  "topics": [
+    "internal combustion engine",
+    "External combustion engine",
+    "Cylinder block",
+    "Cylinder head",
+    "Crankcase / oil pan",
+    "Cooling water passages",
+    "Oil galleries",
+    "timing gear",
+    "Water pump",
+    "Ignition distributor",
+    "Flywheel",
+    "Piston",
+    "Piston rings",
+    "Piston clearance",
+    "Piston pin",
+    "connecting rod",
+    "Crankshaft",
+    "camshaft",
+    "valve timing",
+    "intake manifold",
+    "exhaust manifold",
+    "gaskets",
+    "Cylinder liners (dry vs wet)"
+  ],
+  "video": "x70VqMrXrbs.youtube"
+}

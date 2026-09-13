@@ -1,0 +1,276 @@
+{
+  "analysis_created_at": "2026-09-11T20:33:39.187956+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 20, 2020",
+    "iso": "2020-08-20",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.7,
+      "technique": "Brake fluid level check, visual leak inspection around master cylinder and booster",
+      "timestamp": "01:25:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Identifying sealed cooling system with pressure cap and cautions for hot systems",
+      "timestamp": "02:39:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Air intake inspection and locating the air filter housing with MAF sensor awareness",
+      "timestamp": "04:41:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Oil dipstick procedure and reading oil level with max/min marks",
+      "timestamp": "07:01:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Transmission fluid check with engine running and contaminant assessment",
+      "timestamp": "08:59:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Battery inspection: corrosion signs, hold-down, and terminal security",
+      "timestamp": "11:12:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "7d2334a7-da4d-5b47-b9e4-3744425e1a00",
+    "spec_sha256": "26ea87f89d60d88ca2af3e4b0330f4b0431c6d178c0fb7015568f27fa7c7eabd",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-97f87dce1120",
+        "term-b590f8383ce5",
+        "term-d86c50481ba8"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 74150,
+      "dependency_resolution_ms": 133,
+      "handler_ms": 75457,
+      "input_fetch_ms": 1054
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 416161,
+      "digest": "b9dfd26e9fe43f382f7717a23e35756ab81efcf612177769354c8f4e7751b03e",
+      "key": "objects/sha256/b9/dfd26e9fe43f382f7717a23e35756ab81efcf612177769354c8f4e7751b03e",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "dc9fb70a-81c3-5b4b-b3c4-17579f9597e4"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "hood release location",
+        "safety when hood is up"
+      ],
+      "description": "Describe where the hood latch is found (left kick panel or under the steering column) and the need to lift the hood safely, noting that some vehicles have pistons that can drop if not secured.",
+      "end": "01:04:00",
+      "start": "00:27:06",
+      "title": "Hood release and initial safety"
+    },
+    {
+      "concepts": [
+        "brake master cylinder",
+        "brake booster"
+      ],
+      "description": "Identify the brake master cylinder on the left side, with the booster attached; introduce the idea that braking assist is provided by the booster and that fluid sits in the reservoir on the opposite side of the firewall.",
+      "end": "01:18:00",
+      "start": "01:04:00",
+      "title": "Brake system orientation and brake master cylinder"
+    },
+    {
+      "concepts": [
+        "fluid level check",
+        "leak indicators",
+        "master cylinder to booster area"
+      ],
+      "description": "Explain how to check brake fluid level, note a very low level, and describe common reasons (worn brake pads or leaks). Describe visual cues for leaks around the master cylinder and booster and explain why leaks are a safety concern.",
+      "end": "02:20:00",
+      "start": "01:18:00",
+      "title": "Brake fluid level and leakage indicators"
+    },
+    {
+      "concepts": [
+        "radiator cap location",
+        "sealed cooling system",
+        "pressure testing"
+      ],
+      "description": "Introduce the radiator/cap area and discuss the difference between open caps and sealed systems. Explain the recommended pressure (16 psi for this vehicle) and how a pressure tester would be used; describe symptoms of a failing cap (odor or white crusts) and note other potential leak points in the cooling system.",
+      "end": "03:28:00",
+      "start": "02:20:00",
+      "title": "Coolant system basics and pressure cap"
+    },
+    {
+      "concepts": [
+        "electric cooling fan",
+        "fan clutch"
+      ],
+      "description": "Differentiate electrical fans from mechanical fans with a clutch and explain when each type operates to cool the engine.",
+      "end": "04:18:00",
+      "start": "04:04:00",
+      "title": "Cooling fan types and operation"
+    },
+    {
+      "concepts": [
+        "air filter condition",
+        "air filter housing integrity",
+        "MAF sensor visibility"
+      ],
+      "description": "Demonstrate opening the air filter housing, inspecting a relatively new filter, and noting that a dirty filter causes restricted airflow; highlight securing the air filter housing to prevent unfiltered air from entering. Briefly reference the MAF sensor location and cleanliness.",
+      "end": "05:49:00",
+      "start": "04:41:00",
+      "title": "Air intake and air filter inspection"
+    },
+    {
+      "concepts": [
+        "power steering reservoir",
+        "fluid level check",
+        "air in system symptoms"
+      ],
+      "description": "Show the reservoir path to the pump, advise turning the vehicle off before checking, and describe looking at fluid level and condition; mention that air in the system can cause wind noise when idling or accelerating.",
+      "end": "06:30:00",
+      "start": "05:51:00",
+      "title": "Power steering basics"
+    },
+    {
+      "concepts": [
+        "oil cap location",
+        "oil grade example 5W20",
+        "oil level range"
+      ],
+      "description": "Identify the oil fill cap location on the valve cover, read the oil grade (example 5W-20), and describe using the dipstick to assess level between maximum and minimum marks; discuss winter/summer differences and safe ranges, including hot vs cold expansion.",
+      "end": "08:12:00",
+      "start": "07:01:00",
+      "title": "Engine oil dipstick check and oil grade"
+    },
+    {
+      "concepts": [
+        "transmission dipstick with engine running",
+        "contaminant indicators"
+      ],
+      "description": "Explain checking the transmission fluid with the engine running on a level surface, inspecting color consistency (red vs other colors) to detect contaminants, and rechecking after wiping and reinserting the dipstick.",
+      "end": "09:53:00",
+      "start": "08:59:00",
+      "title": "Transmission fluid check and interpretation"
+    },
+    {
+      "concepts": [
+        "clutch master fluid",
+        "washer fluid reservoir",
+        "fluid color variations"
+      ],
+      "description": "Note that some manual transmissions share brake fluid in the clutch master cylinder; identify DOT 3 as common for clutches. Describe checking washer fluid and variations in color, reinforcing windshield visibility importance.",
+      "end": "10:28:00",
+      "start": "10:04:00",
+      "title": "Clutch fluid and washer fluid basics"
+    },
+    {
+      "concepts": [
+        "battery condition",
+        "terminal corrosion",
+        "battery hold-down",
+        "engine computer location",
+        "fuse box location"
+      ],
+      "description": "Cover battery health and typical three-to-five-year lifespan, signs of terminal corrosion, and the need for a secure hold-down. Mention that the engine computer may be under the hood or in the cabin, and that a fuse box is present with fuses/relays.",
+      "end": "12:30:00",
+      "start": "10:53:00",
+      "title": "Battery, ECU, fuse box and electrical systems basics"
+    },
+    {
+      "concepts": [
+        "ignition coil",
+        "distributor cap",
+        "spark plug locations"
+      ],
+      "description": "Differentiate vehicles with a separate ignition coil from those with a direct coil over plugs, and describe distributor caps with wires leading to spark plugs located on various positions on the engine.",
+      "end": "13:16:00",
+      "start": "12:32:00",
+      "title": "Ignition system components"
+    },
+    {
+      "concepts": [
+        "alternator",
+        "serpentine belt",
+        "belt wear"
+      ],
+      "description": "Explain the alternator’s role in charging the battery, show the serpentine belt and its pulleys, and warn about belts with missing grooves or misalignment that can cause damage.",
+      "end": "13:54:00",
+      "start": "13:16:00",
+      "title": "Alternator and serpentine belt"
+    },
+    {
+      "concepts": [
+        "AC condensation lines",
+        "Water under the car"
+      ],
+      "description": "Mention condensation from AC lines as normal when AC is running, and describe how external temperatures can create visible moisture beneath the vehicle.",
+      "end": "14:06:00",
+      "start": "13:58:00",
+      "title": "AC condensation notes"
+    },
+    {
+      "concepts": [
+        "owner's manual",
+        "maintenance schedule",
+        "regular checks"
+      ],
+      "description": "Summarize the essentials—focus on battery condition and fluid levels—and encourage referencing the owner's manual and maintaining a maintenance schedule for reliability.",
+      "end": "14:59:00",
+      "start": "14:24:00",
+      "title": "Wrap-up and maintenance reminders"
+    }
+  ],
+  "summary": "In this instructional overview, Len from 1A Auto guides viewers through fundamental under-the-hood checks and considerations. The video emphasizes using the owner's manual as a starting point, then details practical checks and observations across several systems: locating the hood release and safety concerns, brake master cylinder and fluid level with leak indicators, coolant/pressure-cap considerations in a sealed cooling system, and cooling fan types. It also covers the air intake path and mass airflow sensor visibility, power steering fluid levels, engine oil dipstick technique and oil grade, transmission fluid checks, washer fluid basics, battery condition and terminal health, engine computer/fuse box awareness, ignition components, alternator and serpentine belt condition, and AC condensation. Throughout, the host underscores safety (not opening hot caps) and maintenance habits (referencing the owner’s manual and a regular maintenance schedule).",
+  "title": "Under the Hood Basics: Core Fluid, Electrical, and Component Checks",
+  "topics": [
+    "Hood release location and safety",
+    "Brake master cylinder location",
+    "Brake booster",
+    "Brake fluid level check",
+    "Brake fluid leaks indicators",
+    "Radiator / coolant system overview",
+    "Sealed cooling system with pressure cap",
+    "Radiator cap pressure (16 psi for shown vehicle)",
+    "Coolant overflow and expansion",
+    "Coolant leak indicators (sweet smell, white crust)",
+    "Safe coolant checking procedure (not when hot)",
+    "Cooling fan types: electric vs fan clutch",
+    "Air intake system and air filter",
+    "Mass airflow sensor location and condition",
+    "Power steering reservoir and fluid check",
+    "Engine oil dipstick procedure and oil grade (5W20 example)",
+    "Oil level range (max/min) and hot vs cold expansion",
+    "Transmission fluid dipstick check (engine running)",
+    "Clutch master fluid (DOT 3) location",
+    "Washer fluid reservoir and color variations",
+    "Battery condition, corrosion on terminals, and hold-down",
+    "Battery terminal security and potential damage to computer",
+    "Engine computer and fuse box basics",
+    "Ignition system components (coil, distributor cap)",
+    "Alternator and serpentine belt condition",
+    "AC condensation lines and effects"
+  ],
+  "video": "Yeb7zft_79k.youtube"
+}

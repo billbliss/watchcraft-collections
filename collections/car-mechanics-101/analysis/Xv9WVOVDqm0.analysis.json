@@ -1,0 +1,176 @@
+{
+  "analysis_created_at": "2026-09-11T21:10:34.439387+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 19, 2018",
+    "iso": "2018-11-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Digital tread depth gauge measurement on tire tread",
+      "timestamp": "00:00:36.700"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Penny test for estimating tread depth",
+      "timestamp": "00:01:12.740"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Cross-tire tread wear assessment across multiple tires",
+      "timestamp": "00:02:02.600"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Inflation and alignment impact on tread wear",
+      "timestamp": "00:03:12.140"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "73139d96-175d-5fa0-9e7f-4055c6e9501c",
+    "spec_sha256": "67d385a2075fca31fad8f218a39994c2a5b7523467860a3386f8783a7a9c6c66",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-086905e8fd08"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 52589,
+      "dependency_resolution_ms": 241,
+      "handler_ms": 53572,
+      "input_fetch_ms": 604
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 54225,
+      "digest": "b0e04691989a027b3244e44cc3f780a51cdd2b1debbe18608570cf86b8279cc4",
+      "key": "objects/sha256/b0/e04691989a027b3244e44cc3f780a51cdd2b1debbe18608570cf86b8279cc4",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "74c63b4c-f6a1-5f2c-a667-401d33720169"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "gauge usage",
+        "measuring remaining tread"
+      ],
+      "description": "Presenter introduces a digital tread depth gauge and demonstrates placing it on the tire tread to measure remaining tread life.",
+      "end": "00:01:05.140",
+      "start": "00:00:31.620",
+      "title": "Digital tread depth gauge demonstration"
+    },
+    {
+      "concepts": [
+        "penny test",
+        "Lincoln's head exposure",
+        "approximate measurement"
+      ],
+      "description": "Reader explains how to perform the penny test by holding a penny upside down to gauge depth, with an initial reading described around the hairline.",
+      "end": "00:01:25.660",
+      "start": "00:01:05.140",
+      "title": "Penny test initiation and initial reading"
+    },
+    {
+      "concepts": [
+        "penny test on another tire",
+        "gauge reading comparison",
+        "early wear assessment"
+      ],
+      "description": "Another tire is checked with the penny and then with the gauge, noting differences in wear across tires and indicating uneven wear in some cases.",
+      "end": "00:02:02.600",
+      "start": "00:01:25.660",
+      "title": "Second tire penny test and gauge comparison"
+    },
+    {
+      "concepts": [
+        "uneven wear patterns",
+        "outer vs middle vs back wear",
+        "cross-tire checks"
+      ],
+      "description": "Discussion of wear patterns showing that checking only the outer edge can be misleading; emphasis on evaluating the entire tread surface.",
+      "end": "00:02:26.380",
+      "start": "00:02:02.600",
+      "title": "Uneven tread wear assessment"
+    },
+    {
+      "concepts": [
+        "tread depth thresholds",
+        "3 32nds vs 5–6 32nds"
+      ],
+      "description": "Statement about replacement timing based on measured depth, noting thresholds mentioned as 3 32nds and considering closer to 5–6 32nds for more life.",
+      "end": "00:02:41.980",
+      "start": "00:02:29.100",
+      "title": "Tire replacement thresholds and wear conclusions"
+    },
+    {
+      "concepts": [
+        "penny test corroboration",
+        "gauge readings: 9/32 and 7/32",
+        "inflation impact"
+      ],
+      "description": "Further tire check shows higher readings (near 9/32 on the edge and 7/32 in the middle); discussion implies variable wear and possible overinflation.",
+      "end": "00:03:12.140",
+      "start": "00:02:41.980",
+      "title": "Newer tread readings and edge vs middle wear"
+    },
+    {
+      "concepts": [
+        "overinflation center wear",
+        "underinflation edge wear",
+        "alignment wear pattern"
+      ],
+      "description": "Explanation of how inflation and alignment influence wear distribution across the tire surface.",
+      "end": "00:03:23.600",
+      "start": "00:03:12.140",
+      "title": "Inflation and alignment effects on wear"
+    },
+    {
+      "concepts": [
+        "final thanks"
+      ],
+      "description": "Video ends with a closing thanks.",
+      "end": "00:03:50.580",
+      "start": "00:03:50.580",
+      "title": "Closing remarks"
+    }
+  ],
+  "summary": "This 1A Auto tutorial demonstrates two practical methods for assessing tire tread depth across multiple tires: using a digital tread depth gauge and performing a penny test. The host shows how to place a gauge on the tread to quantify remaining life, compares readings across different tires, and explains how to interpret results (including when replacement may be needed). The penny test is demonstrated as a quick visual check, with notes on how to read Lincoln’s head exposure to estimate depth. The video also highlights the importance of checking across the full tread, not just the outer edge, and describes wear patterns influenced by tire inflation and wheel alignment. Throughout, the presenters compare measurements (including values expressed in 32nds of an inch) to determine tire condition and potential safety implications.",
+  "title": "Tire Tread Depth Check: Gauge and Penny Methods (1A Auto)",
+  "topics": [
+    "Digital tread depth gauge usage",
+    "Reading gauge measurements on tires",
+    "Penny tread-depth test",
+    "Lincoln's head exposure as a depth cue",
+    "Tread depth expressed in 32nds of an inch",
+    "Checking across full tread width (not just the edge)",
+    "Uneven tread wear across a tire",
+    "Interpreting wear by tire position (outer vs middle vs back)",
+    "Tire replacement thresholds (3/32, 5/32, 6/32, 9/32 as discussed)",
+    "Effects of overinflation on center tread wear",
+    "Effects of underinflation on edge wear",
+    "Impact of wheel alignment on tread wear",
+    "Cross-tire wear assessment on a single vehicle",
+    "1A Auto product and parts guidance",
+    "Using multiple tires on the same vehicle to assess wear",
+    "Publication metadata and video provenance"
+  ],
+  "video": "Xv9WVOVDqm0.youtube"
+}

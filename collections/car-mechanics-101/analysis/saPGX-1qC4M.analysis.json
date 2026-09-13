@@ -1,0 +1,226 @@
+{
+  "analysis_created_at": "2026-09-11T20:45:27.465611+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "January 30, 2011",
+    "iso": "2011-01-30",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Dual overhead cam (DOHC) cam timing overview",
+      "timestamp": "00:02:12"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Valve train operation and lifter types comparison",
+      "timestamp": "00:04:52"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "timing belt/chain/gear-driven timing explanation",
+      "timestamp": "00:10:00"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Piston, rings, and combustion chamber overview",
+      "timestamp": "00:28:40"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "a0751139-f209-52bc-8cd3-9b8d8adaa0c6",
+    "spec_sha256": "fa0c38221e992166eebcb49c03de7662bc797d921d0fe9c3ace2ff0db5b801b2",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-0674676c7c23",
+        "term-27d3c8fd4139",
+        "term-2bbea8e02073",
+        "term-2c6496ef07ed",
+        "term-442ff00de58f",
+        "term-4a7d714ba608",
+        "term-54538ab09ddd",
+        "term-5d64edda08fb",
+        "term-6fa20098e700",
+        "term-86fd8ff8d85b",
+        "term-9616a3a46d73",
+        "term-a6cde509f009",
+        "term-aff4446be3e5",
+        "term-d776e4064f99",
+        "term-db60cd7d83e5",
+        "term-efea3ccbae79",
+        "term-f3050c0f3efe",
+        "term-f4e5c6764730"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 61931,
+      "dependency_resolution_ms": 57,
+      "handler_ms": 62821,
+      "input_fetch_ms": 709
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 523482,
+      "digest": "3dfdbefb14953f3549782e38f092133b4d5e7438cfa14ca12b4238ad3a220977",
+      "key": "objects/sha256/3d/fdbefb14953f3549782e38f092133b4d5e7438cfa14ca12b4238ad3a220977",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "e4cb3f57-dfa8-5557-b8cf-92062c332b7e"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "video purpose",
+        "basic parts",
+        "terminology"
+      ],
+      "description": "EricTheCarGuy introduces the video focus: identifying and naming the basic engine parts, with a quick note on the engine vs motor terminology and the specific 1.8L Honda Integra reference.",
+      "end": "00:02:10",
+      "start": "00:00:01",
+      "title": "Introduction and scope"
+    },
+    {
+      "concepts": [
+        "dual overhead cam",
+        "intake vs exhaust cam",
+        "valve control"
+      ],
+      "description": "Explanation of a dual overhead cam engine, including the roles of the intake and exhaust camshafts, cam lobes, and how they regulate valve opening and timing to enable engine breathing.",
+      "end": "00:04:50",
+      "start": "00:02:12",
+      "title": "DOHC architecture and cam function"
+    },
+    {
+      "concepts": [
+        "cam lobes",
+        "hah lifters",
+        "hydraulic vs solid lifters",
+        "pushrods"
+      ],
+      "description": "Discussion of cam followers, valve lifters, and the difference between hydraulic and solid lifters, as well as a comparison between pushrod and overhead-cam configurations.",
+      "end": "00:07:20",
+      "start": "00:04:52",
+      "title": "Valve train dynamics and lifter types"
+    },
+    {
+      "concepts": [
+        "distributor",
+        "timing relation to camshaft",
+        "oil pump drive"
+      ],
+      "description": "Overview of the old-school distributor, its mechanical linkage to the camshaft, and how the oil pump is driven in many engines, highlighting potential timing issues when components are out of time.",
+      "end": "00:09:56",
+      "start": "00:07:21",
+      "title": "Ignition timing and oil system connections"
+    },
+    {
+      "concepts": [
+        "intake manifold",
+        "exhaust manifold",
+        "runner lengths"
+      ],
+      "description": "Description of the intake and exhaust manifolds, how runners feed each cylinder, and the importance of equal-length runners for smooth operation and balanced power.",
+      "end": "00:12:20",
+      "start": "00:09:56",
+      "title": "intake and exhaust manifolds; runners"
+    },
+    {
+      "concepts": [
+        "fuel injectors",
+        "fuel rail",
+        "air-fuel delivery"
+      ],
+      "description": "Comparison of fuel delivery in injected vs carbureted systems, including the placement of injectors behind the fuel rail and timing with the engine's sensors.",
+      "end": "00:15:55",
+      "start": "00:12:20",
+      "title": "Fuel delivery: injectors, rails, and air/fuel flow"
+    },
+    {
+      "concepts": [
+        "valve seats",
+        "valve guides",
+        "combustion chamber shapes (HEMI, pent roof)"
+      ],
+      "description": "Exploration of cylinder head features, including the head gasket, valve seats, guides, seals, and the impact of combustion chamber geometry on engine performance.",
+      "end": "00:21:20",
+      "start": "00:15:55",
+      "title": "Cylinder head, combustion chamber, and valve machining"
+    },
+    {
+      "concepts": [
+        "valve springs",
+        "valve float",
+        "keepers"
+      ],
+      "description": "Discussion on valve springs, retainers, and keepers, and how spring strength relates to RPM and valve control, including the phenomenon of valve float.",
+      "end": "00:24:50",
+      "start": "00:21:20",
+      "title": "Valve train retention and behavior under RPM"
+    },
+    {
+      "concepts": [
+        "crankshaft",
+        "flywheel",
+        "flex plate",
+        "harmonic balancer"
+      ],
+      "description": "Coverage of the crankshaft and its attachments, including flywheel vs flex plate depending on transmission type, and the function of the harmonic balancer to smooth out torsional pulses.",
+      "end": "00:28:50",
+      "start": "00:24:50",
+      "title": "Crankshaft assembly, damping, and engine balance"
+    },
+    {
+      "concepts": [
+        "piston",
+        "rings (compression, oil control)",
+        "wrist pin",
+        "displacement"
+      ],
+      "description": "Close with a piston-centric view: the rings, wrist pin, and connecting rod interaction, how displacement is defined, and a candid note on the engine's overall efficiency versus power output.",
+      "end": "00:32:23",
+      "start": "00:28:50",
+      "title": "Pistons, rings, and overall engine efficiency"
+    }
+  ],
+  "summary": "In this instructional video, host EricTheCarGuy walks through the basic components and functions of a conventional internal combustion engine using a 1.8 liter Honda Integra engine as a visual reference. The talk covers terminology (engine vs. motor), major assemblies (valve train, camshafts, timing system, ignition, intake/exhaust manifolds), and critical subsystems (valves, springs, seals, pistons, rings, crankshaft, oiling system, and cooling-related components). The video emphasizes how timing and geometry affect engine breathing, torque, and horsepower, and it includes practical anecdotes about common designs (DOHC, distributor ignition, carbureted vs. fuel-injected layouts) and the trade-offs engineers balance in automotive design.",
+  "title": "Dissecting an Engine: Basic Parts and Their Functions (Honda 1.8L DOHC)",
+  "topics": [
+    "Engine vs motor terminology",
+    "starter motor",
+    "Valve cover",
+    "Dual overhead cam (DOHC)",
+    "intake camshaft",
+    "exhaust camshaft",
+    "cam lobes",
+    "valve timing",
+    "timing belt",
+    "Water pump",
+    "oil pump",
+    "distributor",
+    "intake manifold",
+    "exhaust manifold",
+    "fuel injector",
+    "fuel rail",
+    "Intake runner length and torque",
+    "Cylinder head and head gasket",
+    "Valve seats and guides",
+    "valve springs and valve float"
+  ],
+  "video": "saPGX-1qC4M.youtube"
+}

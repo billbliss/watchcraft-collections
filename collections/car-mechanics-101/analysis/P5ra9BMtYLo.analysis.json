@@ -1,0 +1,169 @@
+{
+  "analysis_created_at": "2026-09-11T20:50:05.751611+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 7, 2018",
+    "iso": "2018-05-07",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Aluminium oxide forms an impermeable, self-healing barrier",
+      "timestamp": "06:04"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Copper oxide patina as a protective oxide",
+      "timestamp": "05:46"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Paint/oil/grease/lacquer as barrier coatings",
+      "timestamp": "07:42"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Dry storage to slow corrosion (dry atmosphere)",
+      "timestamp": "02:56"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Galvanizing: sacrificial zinc coating",
+      "timestamp": "08:42"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Chrome plating as a protective barrier",
+      "timestamp": "09:00"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Self-healing properties of sacrificial coatings (zinc) to seal small breaches",
+      "timestamp": "08:50"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Airstream aluminum panels with oxide layer as a long-lasting finish",
+      "timestamp": "06:54"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript mentions aircraft stored for years in Nevada to avoid moisture; used as an illustrative example of dry storage",
+      "confidence": 0.55,
+      "name": "Nevada, USA (probable dry storage site for aircraft)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "cf069e15-6f3c-5a06-963d-de381d5296ea",
+    "spec_sha256": "dcb29241c6a7b64e5872c6535671955d64012ea8d78b64abeea406214e5ab785",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-d614372c0af3"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 95206,
+      "dependency_resolution_ms": 92,
+      "handler_ms": 96246,
+      "input_fetch_ms": 874
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 170481,
+      "digest": "a4dc85f54f6044020060bac897221fd146e159643dfb74abe10e64ee3b45a81d",
+      "key": "objects/sha256/a4/dc85f54f6044020060bac897221fd146e159643dfb74abe10e64ee3b45a81d",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "6441a1c6-c7e1-53c1-ac07-be69cf5c9eb8"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "steel composition (iron + carbon)",
+        "iron oxidation to iron oxide (rust)",
+        "need for water and oxygen",
+        "electrolytes and salts accelerating corrosion",
+        "permeability of rust",
+        "reversibility of rust (requires smelting)"
+      ],
+      "description": "Introduction to steel's ubiquity and the core problem: rust forms when iron encounters water, oxygen, and electrolytes. The video distinguishes rust from other oxides and notes that rust is permeable and not a true protective barrier, leading to progressive metal loss if unchecked.",
+      "end": "00:04:58",
+      "start": "00:00:03",
+      "title": "Rust fundamentals and why metals corrode"
+    },
+    {
+      "concepts": [
+        "iron oxide vs protective oxides",
+        "aluminium oxide as an impermeable barrier",
+        "copper oxide patina as a protective layer",
+        "self-healing and barrier formation on metals"
+      ],
+      "description": "Discussion of how different oxides affect corrosion. Iron oxide (rust) is permeable and continues to allow oxygen access, whereas aluminium oxide forms an impermeable surface barrier (and can self-heal after minor scratches). Copper develops a green patina oxide with protective implications.",
+      "end": "00:07:52",
+      "start": "00:04:58",
+      "title": "Oxide barriers and metal-specific corrosion behaviors"
+    },
+    {
+      "concepts": [
+        "barrier coatings to exclude atmosphere",
+        "paint, oil, wax, lacquer as protection for ferrous metals",
+        "galvanizing: sacrificial zinc coating",
+        "chrome plating: chromium barrier coating"
+      ],
+      "description": "Overview of coatings that protect metal by preventing oxygen and moisture from reaching the substrate. Galvanizing uses a sacrificial zinc layer; chrome plating offers a harder, more durable barrier; maintenance of coatings on vehicles and stored parts is emphasized.",
+      "end": "00:09:49",
+      "start": "00:07:52",
+      "title": "Protective coatings: paints, oils, galvanizing, and chrome plating"
+    },
+    {
+      "concepts": [
+        "summary of oxide behavior and coatings",
+        "future discussion on removing and treating rust"
+      ],
+      "description": "Brief recap and a note that a future episode will cover removing and treating rusted parts.",
+      "end": "00:10:28",
+      "start": "00:09:49",
+      "title": "Recap and practical takeaway; tease for rust-removal episode"
+    }
+  ],
+  "summary": "This short technical deep-dive explains why ferrous metals like steel rust, how water, oxygen, and electrolytes accelerate corrosion, and why different metals form distinct oxide barriers. It contrasts porous iron oxide (rust) with protective oxides like aluminium oxide, and covers practical protective strategies including paints and coatings, galvanizing (sacrificial zinc), and chrome plating. The host also notes real-world accelerants such as coastal salt and winter road salt, emphasizes maintenance implications for vehicle bodies and internal parts, and previews rust-removal techniques in a future episode.",
+  "title": "Rust and Corrosion: Mechanisms, Barriers, and Protective Coatings",
+  "topics": [
+    "rust",
+    "iron oxide",
+    "oxygen",
+    "water",
+    "electrolyte",
+    "salts and corrosion acceleration",
+    "dry storage to slow corrosion",
+    "oxide barriers",
+    "rust permeability",
+    "aluminium oxide barrier",
+    "copper oxide patina",
+    "aluminium self-healing oxide",
+    "paint coatings",
+    "oil, grease, wax, lacquer coatings",
+    "galvanizing (zinc sacrificial layer)",
+    "chrome plating",
+    "barrier vs sacrificial coatings",
+    "internal engine part protection",
+    "rust removal and surface restoration"
+  ],
+  "video": "P5ra9BMtYLo.youtube"
+}

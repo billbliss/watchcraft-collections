@@ -1,0 +1,276 @@
+{
+  "analysis_created_at": "2026-09-11T21:25:10.481626+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "July 13, 2020",
+    "iso": "2020-07-13",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Bulb/socket swap to diagnose bulb vs. socket/wiring",
+      "timestamp": "00:15:00"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Cross-switch window regulator fault isolation",
+      "timestamp": "00:55:00"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Relay swapping with same-number relays to verify circuit faults",
+      "timestamp": "01:34:00"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Ignition misfire diagnosis by swapping coil/plug/wire",
+      "timestamp": "02:03:00"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Fuse inspection and selective replacement for suspected circuit faults",
+      "timestamp": "02:20:00"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Bounce test for suspension/shock assessment",
+      "timestamp": "05:43:00"
+    },
+    {
+      "confidence": 0.76,
+      "technique": "U-joint and center bearing play check under driveline",
+      "timestamp": "06:57:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Rattle source check across exhaust, suspension, and driveline",
+      "timestamp": "07:22:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "011d70c1-2d05-531f-b170-29b266521774",
+    "spec_sha256": "2fc80a197f8ce5567e512113ef2c1105c230452a90e581710706bf0190a3ae73",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-7a1064b13ae1",
+        "term-b628c39a3a71",
+        "term-d27e18881717",
+        "term-edadf9ce33cd"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 71932,
+      "dependency_resolution_ms": 131,
+      "handler_ms": 72699,
+      "input_fetch_ms": 554
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 167386,
+      "digest": "7106cfc6c0a6d5dcc30944669c2eba51aa91aff48a244c04741c7532ef05ef1c",
+      "key": "objects/sha256/71/06cfc6c0a6d5dcc30944669c2eba51aa91aff48a244c04741c7532ef05ef1c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "80e4c6a3-6f80-5759-bae9-b97c38ec8fbb"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "no-tools approach",
+        "simple, observable checks",
+        "problem isolation without specialized tools"
+      ],
+      "description": "The video introduces a no-tools diagnostic approach and sets expectations for simple techniques to identify common vehicle issues without specialized equipment.",
+      "end": "00:15:00",
+      "start": "00:00:00",
+      "title": "Intro: No-tools diagnostic mindset"
+    },
+    {
+      "concepts": [
+        "3157 bulb",
+        "swap with another identical bulb",
+        "determine if issue is bulb vs socket/wiring"
+      ],
+      "description": "Demonstrates diagnosing burnt-out lights by pulling the bulb and swapping a known-good bulb (e.g., 3157) with a similar circuit to see if the problem is the bulb or the socket/wiring.",
+      "end": "00:55:00",
+      "start": "00:15:00",
+      "title": "Bulbs and sockets: swap to verify"
+    },
+    {
+      "concepts": [
+        "test across sides",
+        "swap switches between doors",
+        "identify bad switch"
+      ],
+      "description": "Explains testing a faulty window by removing the malfunctioning switch and substituting the switch from the other side to confirm whether the regulator/switch is defective.",
+      "end": "01:19:00",
+      "start": "00:55:00",
+      "title": "Window switch fault isolation"
+    },
+    {
+      "concepts": [
+        "check speakers",
+        "swap side-to-side connectors",
+        "isolate wiring vs speaker failure"
+      ],
+      "description": "Offers a method to diagnose speaker faults by swapping speakers to see if the issue follows the speaker or remains with the wiring/radio.",
+      "end": "01:31:00",
+      "start": "01:19:00",
+      "title": "Speaker swap test"
+    },
+    {
+      "concepts": [
+        "swap relays with same number",
+        "test horn/AC/cranking circuits",
+        "start with a known-good relay"
+      ],
+      "description": "Describes swapping relays with identical numbers to determine if a relay is at fault, applying to horn, AC, and cranking circuits.",
+      "end": "01:54:00",
+      "start": "01:34:00",
+      "title": "Relay testing for circuits"
+    },
+    {
+      "concepts": [
+        "test with duplicates",
+        "confirm functional vs faulty part"
+      ],
+      "description": "Reiterates using duplicate/components from the same vehicle to test a suspected faulty part and confirm results.",
+      "end": "02:03:00",
+      "start": "01:55:00",
+      "title": "General known-good-part testing"
+    },
+    {
+      "concepts": [
+        "swap coil/plug/wire",
+        "identify misfire source"
+      ],
+      "description": "Gives a targeted misfire-diagnosis approach by swapping ignition components to determine which part causes the misfire.",
+      "end": "02:12:00",
+      "start": "02:03:00",
+      "title": "Ignition misfire: swap to locate fault"
+    },
+    {
+      "concepts": [
+        "find fuse for washer pump",
+        "inspect fuse visually (middle connection)",
+        "replace fuse if burnt",
+        "fuse behavior when circuit draws excess current"
+      ],
+      "description": "Shows how to locate and inspect the washer pump fuse, replace if burnt, and interprets fuse behavior as an indicator of circuit issues.",
+      "end": "03:15:00",
+      "start": "02:20:00",
+      "title": "Fuse inspection: windshield washer pump"
+    },
+    {
+      "concepts": [
+        "check engine wires for burns or looseness",
+        "coils color change as misfire indicator",
+        "plug wires and vacuum lines for looseness",
+        "avoid touching while running and tracing noise sources",
+        "check snorkel and connectors for looseness"
+      ],
+      "description": "Outlines a manual inspection for rough-running engines focusing on wiring, coil/plug connections, and vacuum-line integrity, with emphasis on safety.",
+      "end": "04:18:00",
+      "start": "03:16:00",
+      "title": "Engine roughness: wiring, coils, and vacuum"
+    },
+    {
+      "concepts": [
+        "Inspect connectors for corrosion",
+        "fluid level checks: oil, transmission, coolant",
+        "impact of low oil or coolant on performance and heat"
+      ],
+      "description": "Directs attention to connector condition (corrosion) and critical fluid levels, linking fluid deficits to rough running or heating issues.",
+      "end": "05:13:00",
+      "start": "04:18:00",
+      "title": "Connectors and fluids: corrosion and levels"
+    },
+    {
+      "concepts": [
+        "headlight brightness as a starter indicator",
+        "recharge or replace battery",
+        "check and clean connections; wiggle test",
+        "look for terminal corrosion"
+      ],
+      "description": "Provides a practical battery-health check: assess headlight strength, inspect and service battery terminals, and consider recharging or replacement.",
+      "end": "05:37:00",
+      "start": "05:13:00",
+      "title": "Battery and starting checks"
+    },
+    {
+      "concepts": [
+        "lug nut torque and wheel centering",
+        "suspension shake test (side-to-side and vertical)",
+        "tie rods, lower ball joints, wheel bearing indicators",
+        "bounce-test for shocks/struts",
+        "driveline vibration and U-joints",
+        "center support bearing condition",
+        "rattling sources (exhaust, suspension, driveline)"
+      ],
+      "description": "Covers a practical suite of non-tools checks for tires, suspension, and driveline components, including torque, play tests, bounce testing, and listening for rattles.",
+      "end": "07:30:00",
+      "start": "05:43:00",
+      "title": "Suspension, driveline, and tire checks"
+    },
+    {
+      "concepts": [
+        "subscribe and notifications",
+        "channel branding"
+      ],
+      "description": "Concludes with a call to action typical of DIY auto channels, encouraging subscription and engagement.",
+      "end": "07:45",
+      "start": "07:30",
+      "title": "Outro and channel encouragement"
+    }
+  ],
+  "summary": "This 1A Auto tutorial demonstrates no-tool diagnostic techniques for common vehicle symptoms. The host emphasizes using known-good parts to test circuits and components, then isolating the fault through straightforward swaps, visual inspections, and level checks. Covered areas include electrical faults (bulbs, switches, relays, fuses, speakers, ignition components), engine roughness (wiring, vacuum lines, connectors), fluid levels (oil, transmission fluid, coolant), battery health, and basic suspension/tire diagnostics. The approach centers on confirming whether a fault lies in a component or in the surrounding wiring or system by substituting a similar-known-good part and observing results, with cautions about safe handling when the engine is running and when testing power systems.",
+  "title": "No-Tools Vehicle Diagnostics: Practical Field Tests and Part Swapping",
+  "topics": [
+    "bulb swap test",
+    "3157 bulb identification",
+    "socket vs bulb diagnosis",
+    "window switch fault isolation",
+    "swapping window regulators between sides",
+    "speaker testing by swapping",
+    "speaker connectors and polarity",
+    "relay swapping for horn/AC/cranking",
+    "same-number relay substitution",
+    "general known-good-part testing",
+    "engine misfire diagnosis by swapping coil/plug/wire",
+    "borrowing parts for testing",
+    "windshield washer fuse inspection",
+    "visual fuse inspection (burnt vs intact)",
+    "fuse replacement and immediate failure check",
+    "engine roughness inspection (wiring, coils, vacuum lines)",
+    "air intake snorkel and connector checks",
+    "corrosion on connectors and contact quality",
+    "fluid level checks (oil, transmission, coolant)",
+    "coolant top-off and leak diagnosis",
+    "battery health tests via headlights",
+    "battery terminal corrosion and wiggle test",
+    "lug nut torque and wheel centering",
+    "suspension shake test (bounce test)",
+    "tie rods and lower ball joints feel for play",
+    "Wheel-bearing symptoms and tests",
+    "Driveline vibration and U-joint checks",
+    "center support bearing condition",
+    "rattling checks in exhaust/suspension/driveline"
+  ],
+  "video": "nmHsk41OQZQ.youtube"
+}

@@ -1,0 +1,143 @@
+{
+  "analysis_created_at": "2026-09-12T16:58:23.044325+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 6, 2018",
+    "iso": "2018-03-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Identify belt tensioning system (manual vs automatic)",
+      "timestamp": "00:00:34.720"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Observe and describe belt wear indicators (cracks, fraying, dryness, grooves)",
+      "timestamp": "00:01:59.240"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Compare worn belt to a new belt to illustrate flexibility and groove integrity",
+      "timestamp": "00:03:05.080"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Discuss impact of automatic vs manual tensioners on belt wear and squeal",
+      "timestamp": "00:03:16.800"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "ced34e43-cd1b-54e9-9a70-317829a4017f",
+    "spec_sha256": "dc2220a4a5479713d040d396ac0064a97e2c660dc693dee5826ad82728ed0527",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-6681a0099629",
+        "term-b6b426b7c6f7",
+        "term-ca642bc823da",
+        "term-ea1b1d89d9af"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 39231,
+      "dependency_resolution_ms": 137,
+      "handler_ms": 40402,
+      "input_fetch_ms": 641
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 57834,
+      "digest": "22acefb71323d39f01f0e5a85e7298026659182c51f01fa4576d61712c4bbfa4",
+      "key": "objects/sha256/22/acefb71323d39f01f0e5a85e7298026659182c51f01fa4576d61712c4bbfa4",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "0b62eaca-366f-5fb6-b25f-f1d7b6ba263f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Manual tensioners on belts",
+        "Two separate dry belts",
+        "absence of an auto tensioner in this vehicle",
+        "Initial note on adjusting belt tension"
+      ],
+      "description": "Mike introduces the vehicle’s belt arrangement, noting there are two separate dry belts each with a manual tensioner, and that there is no automatic tensioner in this setup. He mentions the need to adjust and set belt tension and indicates plans to replace worn belts.",
+      "end": "00:01:14.740",
+      "start": "00:00:03.100",
+      "title": "Intro and belt system description"
+    },
+    {
+      "concepts": [
+        "Visual wear signs on belts",
+        "cold-start squealing as a symptom",
+        "Rust staining and rough exterior surfaces",
+        "Burnout-like wear patterns on belt surface",
+        "Belts slipping on pulleys as wear progresses"
+      ],
+      "description": "The video shows belts with wear signs such as rough surfaces, rust staining, and sections that look worn smooth. Squealing when starting the car is highlighted as an indicator of belt wear, especially with a manual tensioner where slack is not automatically taken up.",
+      "end": "00:02:58.840",
+      "start": "00:01:26.720",
+      "title": "Observations and symptoms of belt wear"
+    },
+    {
+      "concepts": [
+        "Cracks and dry rot in rubber",
+        "Fraying at belt edges",
+        "Worn grooves and stiffness",
+        "Inflexibility of aged belts",
+        "comparison with a new belt"
+      ],
+      "description": "Detailed criteria for judging belt health are presented: cracks, dry rot, fraying, hard and inflexible belts, and worn grooves. The presenter contrasts the degraded belt with a new, flexible belt to illustrate what healthy belt performance looks like.",
+      "end": "00:03:43.380",
+      "start": "00:02:58.840",
+      "title": "Wear indicators and belt condition criteria"
+    },
+    {
+      "concepts": [
+        "Belt replacement with new belts",
+        "Elimination of squealing after replacement"
+      ],
+      "description": "The worn belts are replaced with new belts, and the presenter notes that the embarrassing squeal is gone after replacement, concluding the inspection and replacement process.",
+      "end": "00:03:57.100",
+      "start": "00:03:43.380",
+      "title": "Replacement outcome and conclusion"
+    }
+  ],
+  "summary": "The video from 1A Auto demonstrates inspecting two dry drive belts on a vehicle that uses manual tensioners (no auto tensioner). The presenter notes squealing on startup as belts wear, identifies wear indicators such as cracks, fraying, and stiffness, and compares worn belts to a new belt. He explains that automatic tensioners can mask wear, whereas manual tensioners allow wear to show as slipping and noise. The lesson concludes with replacing the belts and removing the squeal. The guidance emphasizes visual and tactile belt checks and replacing worn belts rather than attempting to retension them.",
+  "title": "Inspecting and Replacing Dry Drive Belts with Manual Tensioners",
+  "topics": [
+    "manual belt tensioners",
+    "Dry belt system",
+    "Two-belt configuration",
+    "Belt squeal on startup as diagnostic cue",
+    "Cracks in belt rubber",
+    "Dry rot indicators on belts",
+    "Fraying edges on belts",
+    "Worn grooves and belt rigidity",
+    "Burnout-like wear patterns on belts",
+    "Rust staining on belt surfaces",
+    "Belt flexibility vs stiffness",
+    "Automatic tensioner vs manual tensioner impact on wear",
+    "Rhythm of belt replacement vs re-tensioning",
+    "Visual inspection under hood for belt health",
+    "New belt vs worn belt comparison",
+    "Post-replacement reduction of noise"
+  ],
+  "video": "XlUK0XDpCSY.youtube"
+}

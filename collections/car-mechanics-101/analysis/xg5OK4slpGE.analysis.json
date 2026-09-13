@@ -1,0 +1,165 @@
+{
+  "analysis_created_at": "2026-09-11T21:19:17.113951+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 1, 2017",
+    "iso": "2017-05-01",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Setting lug-nut torque to 140 ft-lbs on a 1/2\" drive torque wrench",
+      "timestamp": "00:02:11"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Applying lug-nut torque in a triangular pattern on a 6-lug wheel",
+      "timestamp": "00:04:31"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Locking the torque setting with the bottom thumb screw to prevent drift",
+      "timestamp": "00:03:45"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Avoiding rapid clicking and single-click method to prevent over-torque",
+      "timestamp": "00:06:01"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Using a torque-angle gauge for torque-to-yield applications like head bolts",
+      "timestamp": "00:11:23"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript mentions the GMC Sierra is in the shop",
+      "confidence": 0.6,
+      "name": "Shop"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "864efa26-103c-56cc-b270-b3049e036b22",
+    "spec_sha256": "0abc752a434342a185bd0f96f838df82152e477a82b9b8369fa2cccc1cbb9727",
+    "terminology_resolution": {
+      "job_id": "0f46a5d2-5310-5d5a-83d7-456fca28ffdb",
+      "resolution_ids": [
+        "term-110cc0b0413e",
+        "term-33fd0e9b99d2"
+      ],
+      "source_hash": "7b46b89a6f5ecad27fd075b5c9399716a4011f277b177921e810db31bef72c89"
+    },
+    "timing": {
+      "analysis_ms": 59329,
+      "dependency_resolution_ms": 98,
+      "handler_ms": 60868,
+      "input_fetch_ms": 1296
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 203480,
+      "digest": "955735daa2e211dfa517aeea31538add3a9774b0a7b451d2b2601099d9e839a8",
+      "key": "objects/sha256/95/5735daa2e211dfa517aeea31538add3a9774b0a7b451d2b2601099d9e839a8",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "4508da98-6d64-5611-99f0-24130f80573f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "click-type torque wrench",
+        "Drive sizes (3/8\", 1/2\" drive)",
+        "torque ranges",
+        "unit conversions (in-lb to ft-lb)"
+      ],
+      "description": "Introduces torque specifications and the most common types of torque wrenches (with a note that ranges vary by wrench).",
+      "end": "00:02:11",
+      "start": "00:00:00",
+      "title": "Torque wrench basics and tool options"
+    },
+    {
+      "concepts": [
+        "target torque 140 ft-lbs",
+        "reading the dial and increments",
+        "top-edge alignment with reference line",
+        "locking the setting with the bottom thumb screw"
+      ],
+      "description": "Demonstrates locating and setting 140 ft-lbs, reading increments, and securing the setting so the dial doesn’t drift.",
+      "end": "00:04:31",
+      "start": "00:02:11",
+      "title": "Setting lug nut torque on a GMC Sierra"
+    },
+    {
+      "concepts": [
+        "lug patterns: triangles (6 lug)",
+        "squares (8 lug)",
+        "stars (5 lug)",
+        "order and symmetry"
+      ],
+      "description": "Explains tightening patterns for different lug configurations to ensure even clamping.",
+      "end": "00:06:01",
+      "start": "00:04:31",
+      "title": "Torque patterns for lug nuts on multi-lug Wheel"
+    },
+    {
+      "concepts": [
+        "avoid rapid clicking",
+        "don’t push through; let it click and release",
+        "don’t over-torque by moving while clicking",
+        "don’t leave spring tension engaged"
+      ],
+      "description": "Highlights frequent bad habits and stresses smooth, deliberate torque application and proper use of the click mechanism.",
+      "end": "00:07:46",
+      "start": "00:06:01",
+      "title": "Common mistakes and good practices"
+    },
+    {
+      "concepts": [
+        "beam-type vs click-type",
+        "calibration requirements",
+        "lock screws and storage",
+        "torque-angle gauge for high-torque applications",
+        "calibration intervals"
+      ],
+      "description": "Compares wrench types, discusses maintenance and calibration, and introduces torque-angle gauges for specialized torque scenarios.",
+      "end": "00:12:52",
+      "start": "00:08:53",
+      "title": "Torque wrench options, maintenance, and alternatives"
+    }
+  ],
+  "summary": "This 1A Auto guide on torque wrenches explains how to apply correct rotational force to automotive fasteners, with practical demonstrations of setting and reading torque values, choosing appropriate drive sizes, and following a proper tightening sequence. The video compares click-type and beam-type wrenches, discusses common errors (such as rapid clicking and using a torque wrench as a breaker bar), and covers maintenance and calibration to preserve accuracy. It also introduces torque-angle gauges for high-torque applications and outlines lug-pattern sequences for multi-lug Wheel.",
+  "title": "How to Use a Torque Wrench Properly",
+  "topics": [
+    "lug nut torque specification (140 ft-lbs)",
+    "click-type torque wrench",
+    "beam-type torque wrench",
+    "torque wrench Drive sizes (3/8\", 1/2\" drive)",
+    "torque multiplier concept",
+    "reading torque (dial increments and alignment)",
+    "lug nut tightening patterns (triangles, squares, stars)",
+    "proper tightening sequence for multi-lug Wheel",
+    "avoid rapid clicking / single-click method",
+    "locking the torque setting with the thumb screw",
+    "calibration frequency (annual or 5,000 cycles)",
+    "torque wrench not used as breaker bar",
+    "releasing spring tension after use",
+    "torque angle gauge usage",
+    "torque-to-yield concepts for head bolts",
+    "beam vs click tradeoffs (cost and calibration)"
+  ],
+  "video": "xg5OK4slpGE.youtube"
+}

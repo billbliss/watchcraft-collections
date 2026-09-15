@@ -1,0 +1,146 @@
+{
+  "analysis_created_at": "2026-09-14T22:26:31.872872+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Empathetic, customer-centric philosophy (belief in customers and employees)",
+      "timestamp": "00:00:07"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Purpose-driven customer lifecycle mapping (intersecting customer life and emotions)",
+      "timestamp": "00:00:23"
+    },
+    {
+      "confidence": 0.72,
+      "technique": "Authenticity and removing corporate veneer",
+      "timestamp": "00:01:10"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Reliability and consistency as brand storytelling (operational reliability)",
+      "timestamp": "00:01:31"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Contrition as a core competency (seriousness about apologies)",
+      "timestamp": "00:02:14"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript states the speaker began career at Land's End in the middle of a Wisconsin farmland.",
+      "confidence": 0.65,
+      "name": "Wisconsin farmland (Land's End origin story)"
+    },
+    {
+      "basis": "Transcript states the speaker grew up in Chicago, Illinois.",
+      "confidence": 0.85,
+      "name": "Chicago, Illinois"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "c19153ee-a2aa-5765-95de-775d41a085b9",
+    "spec_sha256": "05e367a533955ed8eb9dafeede12713db55d7feb57446abec2576e94ce49e2d4",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-0bb3382c85d5",
+        "term-6305593a1dae"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 37669,
+      "dependency_resolution_ms": 35,
+      "handler_ms": 38566,
+      "input_fetch_ms": 672
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 56469,
+      "digest": "46c912e28bb35f68cb328e91d020216692bdc2334367f3e74ea00c741796564c",
+      "key": "objects/sha256/46/c912e28bb35f68cb328e91d020216692bdc2334367f3e74ea00c741796564c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c1b5c116-6068-58b8-b64e-cc4817ca7b4f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "believing in customers",
+        "believing in employees",
+        "suspending cynicism",
+        "clarity of purpose",
+        "intersecting with the customer’s life"
+      ],
+      "description": "Introduces the five decisions and grounds them in empathy and intent, with the Land’s End anecdote illustrating envisioning the customer journey and emotional moments.",
+      "end": "00:01:05",
+      "start": "00:00:00",
+      "title": "Belief, Cynicism, and Purpose"
+    },
+    {
+      "concepts": [
+        "being real",
+        "removing corporate veneer",
+        "operational reliability",
+        "consistency in what customers experience",
+        "social media impact"
+      ],
+      "description": "Discusses removing the corporate veneer, creating an environment for employees to show their best, and how reliability and consistency shape what gets shared about a brand online.",
+      "end": "00:02:01",
+      "start": "00:01:10",
+      "title": "Authenticity, Reliability, and Social Narrative"
+    },
+    {
+      "concepts": [
+        "mistakes as humanity test",
+        "act of contrition as core competency",
+        "hollow apologies",
+        "emotional connection",
+        "trust repair"
+      ],
+      "description": "Explores how brands should recover from missteps and treat contrition as a core capability, illustrated by personal anecdotes and the risk of hollow apologies.",
+      "end": "00:03:30",
+      "start": "00:02:01",
+      "title": "Mistakes, Contrition, and Emotional Trust"
+    }
+  ],
+  "summary": "The talk presents five decisions that define Beloved Companies, grounding them in beliefs about customers and employees, purposeful engagement with customers’ lives, authenticity, reliability, and compassionate response to missteps. Through a Land’s End anecdote about imagining the customer experience and emotional moments, plus personal family stories, the speaker argues that trust and emotional connection are built by removing corporate veneer, delivering consistent experiences, and treating apologies as a core capability. The transcript highlights practical implications for customer experience, social media implications, and the humility required to repair trust after mistakes.",
+  "title": "Five Decisions to Transform Into a Beloved Company — Transcript Analysis",
+  "topics": [
+    "Suspending cynicism",
+    "Belief in customers",
+    "Belief in employees",
+    "Clarity of purpose",
+    "Intersecting the customer’s life",
+    "Imagining the customer experience (Land’s End anecdote)",
+    "Deciding to be real (removing corporate veneer)",
+    "Being there (operational reliability)",
+    "consistency in service",
+    "social media as reflection of experience",
+    "Mistakes as humanity litmus test",
+    "Contrition as core competency",
+    "Repairing trust after missteps",
+    "Hollow apology and emotional connection"
+  ],
+  "video": "h8iAYOBiP3w.youtube"
+}

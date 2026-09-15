@@ -1,0 +1,120 @@
+{
+  "analysis_created_at": "2026-09-14T21:45:26.118211+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Proactive frontline empowerment and preparation",
+      "timestamp": "00:00:10"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Customer involvement in design and promoter outreach (NPS)",
+      "timestamp": "00:49:00"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Handoff optimization across providers (no Bermuda Triangle)",
+      "timestamp": "01:01:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "60edf84e-eaf4-51dc-86e8-c83fb1ae7dbc",
+    "spec_sha256": "52a80575e6dee37befc6010254c144b9ae895cbf8e48d5abb1ac0801487ad59a",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-da0fefe155fe"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 47425,
+      "dependency_resolution_ms": 121,
+      "handler_ms": 48348,
+      "input_fetch_ms": 701
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 21464,
+      "digest": "fd3d7ca4747f3e10125b055be739b7d5e6f12a12f98e2e582a0c87625562119b",
+      "key": "objects/sha256/fd/3d7ca4747f3e10125b055be739b7d5e6f12a12f98e2e582a0c87625562119b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "255e9f68-8dd7-5e42-8021-88b779e20674"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "frontline empowerment",
+        "proactive problem-solving",
+        "tools and training",
+        "avoid reliance on improvised heroics"
+      ],
+      "description": "Introduce the first action: brainstorm ahead of time the heroic actions your frontline can take without desk support, and provide the tools, training, and proactive preparation needed to respond effectively, rather than forcing improvised heroics or creating workarounds for ineffective processes.",
+      "end": "00:49:00",
+      "start": "00:00:00",
+      "title": "Action 1: Proactively empower frontline to handle issues"
+    },
+    {
+      "concepts": [
+        "customer participation",
+        "Net Promoter Score (NPS)",
+        "promoter outreach"
+      ],
+      "description": "Second action emphasizes giving customers a seat at the table when thinking about new products and services, especially for those managed through the Net Promoter process. Reach out to promoters who want to contribute to shaping the future of their experiences.",
+      "end": "01:01:00",
+      "start": "00:49:00",
+      "title": "Action 2: Involve customers in design and feedback (NPS promoters)"
+    },
+    {
+      "concepts": [
+        "handoff processes",
+        "service provider transitions",
+        "Bermuda Triangle"
+      ],
+      "description": "Third action focuses on fixing handoffs when customers move from one service provider to another, ensuring clear, reliable transitions and avoiding the so-called Bermuda Triangle of information loss.",
+      "end": "01:10:00",
+      "start": "01:01:00",
+      "title": "Action 3: Improve handoffs between service providers"
+    }
+  ],
+  "summary": "Jeanne Bliss outlines three concrete actions to improve reliability in customer experience. Action 1 centers on proactively empowering the frontline to handle issues without desk support, by brainstorming in advance the heroic actions they can take and equipping them with the right tools, training, and preparation. Action 2 invites customers into the design process, particularly by engaging promoters identified via Net Promoter Score (NPS) initiatives so they can help shape future products and services. Action 3 focuses on improving handoffs between service providers to prevent lost information and avoid a dysfunctional transition, described metaphorically as avoiding a Bermuda Triangle. Together, these actions emphasize proactive preparation, customer co-creation, and reliable provider handoffs to reduce failures and strengthen customer experience reliability.",
+  "title": "Three Actions to Build Reliability into Your Customer Experience",
+  "topics": [
+    "Frontline empowerment",
+    "Proactive problem-solving",
+    "Operational diligence",
+    "Heroics vs processes",
+    "Service recovery",
+    "Frontline training and tools",
+    "Net Promoter Score (NPS)",
+    "Promoters engagement",
+    "Customer co-design",
+    "Product/service design input",
+    "Customer seats at the table",
+    "handoffs between providers",
+    "Provider transitions",
+    "Bermuda Triangle metaphor",
+    "Reliability in customer experience"
+  ],
+  "video": "fjH56h7aVeQ.youtube"
+}

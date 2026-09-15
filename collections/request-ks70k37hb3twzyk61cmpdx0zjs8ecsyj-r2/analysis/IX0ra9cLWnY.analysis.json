@@ -1,0 +1,139 @@
+{
+  "analysis_created_at": "2026-09-14T22:33:32.455869+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Ambient music or sound cues in the parking area to set a calming tone",
+      "timestamp": "00:01:02"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Valet parking to streamline entrance and reduce friction",
+      "timestamp": "00:01:08"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Concierge services in parking and front area to assist families",
+      "timestamp": "00:01:15"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Front-line empowerment and recognition as part of the service design",
+      "timestamp": "00:00:39"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Customer-emotion driven service design (life-centered approach)",
+      "timestamp": "00:00:34"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicitly named in transcript as the hospital discussed; mentions Connecticut context",
+      "confidence": 0.85,
+      "name": "Griffin Hospital"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "8b9b3da0-fdfd-5363-af57-4e479f916857",
+    "spec_sha256": "2d98d5b0e3f0afdac7be9c3f741fea7097b94fd37204141adf116e65c740c1e2",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-d05bc373adb6"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 50605,
+      "dependency_resolution_ms": 119,
+      "handler_ms": 51590,
+      "input_fetch_ms": 748
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 26936,
+      "digest": "ba4948b4d729b1f3dfa856069c71caff4353e33a806323d6e293e535243735dc",
+      "key": "objects/sha256/ba/4948b4d729b1f3dfa856069c71caff4353e33a806323d6e293e535243735dc",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "3efd9db1-c05f-57a1-b77d-04476d64349c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "emergency room stress",
+        "parent experience",
+        "signage and navigation challenges",
+        "negative perception of the hospital"
+      ],
+      "description": "The speaker opens by recalling the anxiety of taking a child to the emergency room and notes a prior reputation problem for Griffin Hospital due to ineffective processes and lack of front-line respect.",
+      "end": "00:00:34",
+      "start": "00:00:00",
+      "title": "Problem framing: the stressful emergency room experience"
+    },
+    {
+      "concepts": [
+        "emotional journey",
+        "life of the mom",
+        "moving from frantic to calm",
+        "deliberate actions in service design"
+      ],
+      "description": "Describes a shift to design that begins with the customer’s emotional state and life context, emphasizing deliberateness and honor for frontline staff as core to the transformation.",
+      "end": "00:01:02",
+      "start": "00:00:34",
+      "title": "Transformation mindset: starting with the customer’s life and emotions"
+    },
+    {
+      "concepts": [
+        "ambient music in parking lot",
+        "valet parking",
+        "concierge in parking lot and lobby",
+        "front-line acknowledgment",
+        "growth metrics"
+      ],
+      "description": "Cites concrete actions used to calm the patient/family journey: playing music in the parking area, providing a valet, and offering a concierge in the parking lot and front area to assist with children. The speaker attributes a growth advantage to these deliberate actions (three times faster growth than other Connecticut hospitals).",
+      "end": "00:01:17",
+      "start": "00:01:02",
+      "title": "Deliberate actions and outcomes: specific parking/entry improvements"
+    }
+  ],
+  "summary": "In this brief talk, Jeanne Bliss uses Griffin Hospital as a case study to illustrate how a healthcare provider can deliberately design the patient and family experience around the life and emotions of the customer. The speaker contrasts Griffin Hospital’s past reputation for poor processes with a redesign that begins by understanding the mom’s perspective and the emotional journey from frantic to calm. The turnaround hinges on concrete, front-line-focused actions in the parking and entry experience—such as ambient music, valet parking, and concierge support—that signal welcome and reduce anxiety. The result, the speaker notes, is a measurable improvement in performance, with the hospital reportedly growing much faster than peers in Connecticut.",
+  "title": "Griffin Hospital’s Deliberate Patient Experience Design: Moving from Frantic to Calm",
+  "topics": [
+    "emergency room experience",
+    "patient and family stress",
+    "reputation and process design",
+    "emotional journey mapping in service design",
+    "calming interventions for parents",
+    "ambient environment design",
+    "parking-lot ambiance",
+    "valet parking",
+    "concierge services in healthcare",
+    "front-line empowerment",
+    "customer-centric healthcare transformation",
+    "Griffin Hospital case study",
+    "Connecticut hospitals",
+    "service design outcomes",
+    "patient-centered improvement"
+  ],
+  "video": "IX0ra9cLWnY.youtube"
+}

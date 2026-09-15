@@ -1,0 +1,97 @@
+{
+  "analysis_created_at": "2026-09-15T03:28:16.536056+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Attach metrics to moments of truth in the customer journey",
+      "timestamp": "00:00:36.880"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Monitor cycle time for paperwork and implement complaint rescue",
+      "timestamp": "00:00:50.660"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Align incentives by measuring experience across departments",
+      "timestamp": "00:01:00.800"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "01912455-c465-5d79-8b1a-9b18f143ca90",
+    "spec_sha256": "6f1a6b37aa97104241feab791d15748656c6817c22da8e77ad566adb74309819",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-7f0c701344fe",
+        "term-cdb7e7cb40d9"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 31653,
+      "dependency_resolution_ms": 133,
+      "handler_ms": 32676,
+      "input_fetch_ms": 683
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 27183,
+      "digest": "24145fa4adb4e5cd40af86c69d20595eb23a4988b9accb6284bab1db304032e9",
+      "key": "objects/sha256/24/145fa4adb4e5cd40af86c69d20595eb23a4988b9accb6284bab1db304032e9",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "53b162c4-04b3-5371-8871-f6d7c6d5c1b8"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "KPIs",
+        "moments of truth",
+        "Customer experience",
+        "defaulted experience",
+        "cross-functional alignment"
+      ],
+      "description": "Defines the concept of key performance indicators tied to moments of truth in the customer journey and explains how failing to inventory these moments leads to missed opportunities to strengthen customer relationships. Uses an insurance example to illustrate timing of follow-up, paperwork delivery, and the need to rescue customers who begin to raise complaints.",
+      "end": "00:01:25.600",
+      "start": "00:00:00.000",
+      "title": "Identifying and attaching KPIs to moments of truth"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that organizations often deliver a “defaulted experience” when internal teams chase their own metrics instead of optimizing the customer journey. She advocates inventorying moments of truth—critical touchpoints in the customer experience—and attaching key performance indicators to those moments. Using an insurance example, she shows that within three weeks of policy issuance a large share of customers may experience buyer’s remorse, highlighting the need for metrics on outreach by agents, the cycle time to deliver paperwork, and proactive recovery for customers who begin to complain. The talk emphasizes cross‑functional alignment of metrics and incentives to prevent customer experience from faltering and to better reflect the actual journey customers undergo, rather than the internal org chart depiction seen on websites.",
+  "title": "Attaching KPIs to Moments of Truth in Customer Experience",
+  "topics": [
+    "Key performance indicators (KPIs)",
+    "moments of truth",
+    "Defaulted customer experience",
+    "Customer journey",
+    "Outreach metrics",
+    "cycle time",
+    "Complaint rescue",
+    "Cross-functional metrics",
+    "Incentives alignment",
+    "Insurance policy follow-up",
+    "Paperwork delivery",
+    "Customer retention"
+  ],
+  "video": "mWPFjShu4EY.youtube"
+}

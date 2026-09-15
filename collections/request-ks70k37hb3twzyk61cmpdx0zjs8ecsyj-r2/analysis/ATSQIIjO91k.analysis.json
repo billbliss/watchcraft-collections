@@ -1,0 +1,92 @@
+{
+  "analysis_created_at": "2026-09-14T21:36:43.511552+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 1, 2013",
+    "iso": "2013-08-01",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "core values screening",
+      "timestamp": "00:00:10"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "cultural fit assessment",
+      "timestamp": "00:00:16"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "culture strategy fit during growth/M&A",
+      "timestamp": "00:00:34"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "diagnosing culture fit for sustainment",
+      "timestamp": "00:00:34"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "b4f1ba14-da87-52d2-a704-02887fb62672",
+    "spec_sha256": "e68e52cc61581596cbb4a7354b632c2949863d3b3e60ccdbe49166ed51a2226b",
+    "timing": {
+      "analysis_ms": 32739,
+      "dependency_resolution_ms": 182,
+      "handler_ms": 33613,
+      "input_fetch_ms": 577
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 11385,
+      "digest": "51c7f55f41ae98d9ecf5704020982117ea7c88f336b1d5d62ad5190e740db74d",
+      "key": "objects/sha256/51/c7f55f41ae98d9ecf5704020982117ea7c88f336b1d5d62ad5190e740db74d",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "13ff61cc-34d3-5b14-93ca-75d8e1728e61"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "hiring strategy",
+        "core values",
+        "cultural fit",
+        "growth strategy",
+        "M&A",
+        "culture sustainment"
+      ],
+      "description": "Concise exhortation to hire based on culture fit and to consider culture strategy along with growth and acquisitions.",
+      "end": "00:00:38",
+      "start": "00:00:00",
+      "title": "Culture-aligned hiring"
+    }
+  ],
+  "summary": "In this brief talk, Jeanne Bliss asks whether organizations hire partners or simply fill positions, urging hiring decisions be anchored in core values and cultural fit. She encourages screening candidates to determine who will fit within the organization’s culture, not just who can fill a role. The talk also suggests that growth strategies, including mergers and acquisitions, should be evaluated for a culture fit, effectively diagnosing how new hires will contribute to sustaining the culture over time.",
+  "title": "Culture-First Hiring: Partners vs. Filling Positions",
+  "topics": [
+    "hiring mindset: partners vs filling positions",
+    "core values screening",
+    "cultural fit",
+    "culture screening in hiring",
+    "growth strategy hiring",
+    "mergers and acquisitions",
+    "culture strategy fit",
+    "culture sustainment",
+    "diagnosing culture fit for sustainability"
+  ],
+  "video": "ATSQIIjO91k.youtube"
+}

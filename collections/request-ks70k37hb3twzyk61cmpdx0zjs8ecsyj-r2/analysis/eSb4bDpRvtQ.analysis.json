@@ -1,0 +1,139 @@
+{
+  "analysis_created_at": "2026-09-14T21:56:16.530077+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Core-values-based hiring",
+      "timestamp": "00:00:17.920"
+    },
+    {
+      "confidence": 0.68,
+      "technique": "Seeing customers as assets at the start of the relationship",
+      "timestamp": "00:00:49.040"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Suspending cynicism to hardwire culture",
+      "timestamp": "00:01:03.860"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Training to create belief (and be believed)",
+      "timestamp": "00:01:13.760"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicitly described in transcript as the setting (drive-through window at Chick-fil-A) and used as example, not a confirmed shooting location.",
+      "confidence": 0.75,
+      "name": "Chick-fil-A drive-through"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "7331f6a9-ec41-53fc-a617-b3f27db94ed7",
+    "spec_sha256": "75a2f43c19567ca2501c2c97cb651c83a33387898d07197950705ac89ff48e34",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-16cd51da03a4"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 46485,
+      "dependency_resolution_ms": 128,
+      "handler_ms": 47777,
+      "input_fetch_ms": 1071
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 19734,
+      "digest": "52169c2952b65025f6a61498e786d78c955da38ec7b77609615543843d753f75",
+      "key": "objects/sha256/52/169c2952b65025f6a61498e786d78c955da38ec7b77609615543843d753f75",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "97139647-2dee-514e-9984-8fa3429974cb"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "drive-through setting",
+        "joyous customer experience",
+        "core values as hiring criteria"
+      ],
+      "description": "The video frames the Chick-fil-A drive-through as a joyous event and introduces the premise that employees are hired for their core values and to be part of the business story for life.",
+      "end": "00:00:24.220",
+      "start": "00:00:00.000",
+      "title": "Setting and hiring premise at the window"
+    },
+    {
+      "concepts": [
+        "values-informed hiring",
+        "culture as growth driver",
+        "43 years of consecutive sales growth"
+      ],
+      "description": "It links core-value hiring to business goals and notes a long track record of sales growth, suggesting culture underpins sustained performance.",
+      "end": "00:00:37.720",
+      "start": "00:00:24.220",
+      "title": "Culture driving growth"
+    },
+    {
+      "concepts": [
+        "customer as asset",
+        "beginning of relationship",
+        "growth through relationships"
+      ],
+      "description": "Belief is articulated as recognizing the customer as an asset from the outset and punctuating that initial relationship as a determinant of growth.",
+      "end": "00:01:03.860",
+      "start": "00:00:37.720",
+      "title": "Belief and the customer relationship"
+    },
+    {
+      "concepts": [
+        "suspending cynicism",
+        "hardwiring culture",
+        "training and education to enable belief"
+      ],
+      "description": "The final segment emphasizes suspending cynicism, embedding culture, and providing training so employees can believe and be believed in the job they do.",
+      "end": "00:01:18.380",
+      "start": "00:01:03.860",
+      "title": "Hardwiring belief through training and culture"
+    }
+  ],
+  "summary": "The video uses a Chick-fil-A drive-through interaction to illustrate how hiring for core values and framing customers as valuable assets can shape the early moments of the customer relationship, fueling sustained growth. It argues that a culture built on belief—fostered by training and a commitment to suspend cynicism—results in happy frontline staff who can be believed in and who in turn contribute to long-term business performance, as evidenced by Chick-fil-A’s described growth and the emphasis on embedding values through culture and education.",
+  "title": "Core Values, Customer Asset Mindset, and Training-Driven Belief in Service (Chick-fil-A Drive-Through Case)",
+  "topics": [
+    "Core values-based hiring",
+    "team members hired for core values",
+    "Employees as part of the business story",
+    "Customers treated as assets at the beginning",
+    "Beginning relationship and customer growth impact",
+    "Culture and business growth linkage",
+    "Suspending cynicism in organizational culture",
+    "Hardwiring culture across the organization",
+    "Training and education to enable belief",
+    "Belief in employees and in the job",
+    "Frontline happiness and customer experience",
+    "Long-term sales growth as a cultural outcome",
+    "Story-based business culture"
+  ],
+  "video": "eSb4bDpRvtQ.youtube"
+}

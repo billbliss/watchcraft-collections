@@ -1,0 +1,148 @@
+{
+  "analysis_created_at": "2026-09-15T02:59:00.068760+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 9, 2010",
+    "iso": "2010-11-09",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.7,
+      "technique": "Emotion-first service design: deliberately shaping entry and exit emotions to influence memory and advocacy",
+      "timestamp": "00:01:12"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Ambient cues and friction reduction: using music/ambience to calm anxious customers at entry",
+      "timestamp": "00:01:29"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Stress-relief operational toolkit: valet, concierge, and kid-friendly amenities to support families",
+      "timestamp": "00:01:31"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Simple action items for delivery: translating emotion design into concrete steps",
+      "timestamp": "00:01:45"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicitly cited as the case study in the transcript",
+      "confidence": 0.8,
+      "name": "Griffin Hospital"
+    },
+    {
+      "basis": "Transcript references to Connecticut hospitals",
+      "confidence": 0.6,
+      "name": "Connecticut, USA"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "4b69fc32-df9f-58cf-a832-af8a945761ed",
+    "spec_sha256": "c26a0758cf654da056ee8bc94ae044aadabea68c3e47ff76b0cbbeb9d2616998",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-41bfaa62fd2b"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 51747,
+      "dependency_resolution_ms": 39,
+      "handler_ms": 53495,
+      "input_fetch_ms": 1388
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 35479,
+      "digest": "c2fea31bbc6620f43dd00ff638519baf67ec00c335df4bf51c8634bfddd8f9ee",
+      "key": "objects/sha256/c2/fea31bbc6620f43dd00ff638519baf67ec00c335df4bf51c8634bfddd8f9ee",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "e6e05983-5257-559a-acdd-7752b9ab0254"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "bookends",
+        "emotion at start and end",
+        "memory and storytelling"
+      ],
+      "description": "Introduces the core idea that customer memories are built from the initial and final emotions of an experience, and that deliberate emotional design should govern what customers feel at the outset and after the interaction ends.",
+      "end": "00:00:40",
+      "start": "00:00:03",
+      "title": "Bookends: Emotion at entry and exit shapes memory"
+    },
+    {
+      "concepts": [
+        "Griffin Hospital",
+        "initial fear",
+        "calm operational process"
+      ],
+      "description": "Uses Griffin Hospital as an example to illustrate how an organization can design for calm by anticipating and shaping emotional states at the moment of entry.",
+      "end": "00:01:24",
+      "start": "00:00:48",
+      "title": "Griffin Hospital case study: from fear to calm through deliberate design"
+    },
+    {
+      "concepts": [
+        "operational calm",
+        "parking-lot music",
+        "sound cues",
+        "valet"
+      ],
+      "description": "Details concrete interventions—ambient music in the parking lot, valet service, and other services—that communicate calm and foster partnership with families and patients.",
+      "end": "00:01:41",
+      "start": "00:01:24",
+      "title": "Environmental cues and services to reduce stress"
+    },
+    {
+      "concepts": [
+        "growth",
+        "deliberate emotion",
+        "actionable items"
+      ],
+      "description": "Summarizes the claimed impact: Griffin Hospital grew three times faster than peers by being deliberate about emotion and implementing simple, deliverable actions.",
+      "end": "00:01:58",
+      "start": "00:01:45",
+      "title": "Outcome: deliberate emotion drives growth"
+    }
+  ],
+  "summary": "The speaker argues that memorable customer experiences hinge on deliberate bookends—the emotions customers feel at the start and at the end of an encounter. Using Griffin Hospital as a case study, she explains how a designed emotional journey transforms anxiety into calm through a set of concrete operational choices. By layering ambient cues (parking-lot music), practical services (valet, concierge), and family-friendly amenities (hot dog wagons for waiting children), the hospital aimed to reduce fear and foster a sense of partnership with families. The result, framed as formal action items, is a stronger brand story and faster growth, illustrating that emotion can be deliberately designed into service delivery—and tracked through outcomes and word-of-mouth narratives.",
+  "title": "Deliberate Emotion Bookends: Designing Calm in Customer Experience (Griffin Hospital Case)",
+  "topics": [
+    "customer experience bookends",
+    "emotion design in service",
+    "entry emotion",
+    "exit emotion",
+    "short-term memory and storytelling",
+    "Griffin Hospital case study",
+    "fear and panic in hospital entry",
+    "calm as an operational process",
+    "parking-lot music as ambient cue",
+    "valet service in patient experience",
+    "concierge in healthcare",
+    "amenities for waiting families",
+    "hot dog wagons for kids",
+    "deliberate emotion and growth",
+    "simple action items for service design",
+    "emotional design and brand narrative"
+  ],
+  "video": "hLIGdpeee74.youtube"
+}

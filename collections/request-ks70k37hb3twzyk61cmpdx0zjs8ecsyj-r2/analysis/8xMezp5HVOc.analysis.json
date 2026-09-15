@@ -1,0 +1,122 @@
+{
+  "analysis_created_at": "2026-09-14T22:38:01.266525+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Zappos' commitment litmus test during onboarding",
+      "timestamp": "00:00:23.200"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Two-month onboarding with periodic quit incentive (offer of $2,000)",
+      "timestamp": "00:00:40.000"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Quitting incentive as a predictor of cultural alignment",
+      "timestamp": "00:00:44.820"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Link between employee commitment and customer loyalty metrics (repeat business)",
+      "timestamp": "00:01:04.620"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "df065166-9f1b-54ff-b195-b841cd7b6e08",
+    "spec_sha256": "c40861a93819b1707427894d071f41b89035621817e7fa132b8952d643846946",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-0d1c9928c459"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 43069,
+      "dependency_resolution_ms": 42,
+      "handler_ms": 43811,
+      "input_fetch_ms": 569
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 22208,
+      "digest": "3c0ea062b29cb6dd36437f071c8fda1bd085f751b068cafaf72a2eb388acd5b8",
+      "key": "objects/sha256/3c/0ea062b29cb6dd36437f071c8fda1bd085f751b068cafaf72a2eb388acd5b8",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "e54e055e-20fa-59a0-b4a3-82c5f3cae8fc"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Culture fit",
+        "Clarity of organizational purpose",
+        "Criteria for bringing people into the organization"
+      ],
+      "description": "The speaker argues that a clear sense of serving customers defines the criteria for who to hire, effectively tying recruitment to the company’s mission.",
+      "end": "00:00:23.200",
+      "start": "00:00:00.000",
+      "title": "Purpose-driven hiring criteria"
+    },
+    {
+      "concepts": [
+        "Two-month onboarding process",
+        "Litmus test for commitment"
+      ],
+      "description": "Zappos brings new hires through roughly two months of training and periodically offers them $2,000 to quit if the role isn’t a fit, using this as a test of genuine commitment to the company and its service ethos.",
+      "end": "00:00:59.200",
+      "start": "00:00:23.200",
+      "title": "Zappos' commitment litmus test during onboarding"
+    },
+    {
+      "concepts": [
+        "Repeat business as a performance signal",
+        "75% of daily orders from repeat customers"
+      ],
+      "description": "Bliss notes that the commitment approach correlates with a strong base of repeat customers, quantified as about 75% of daily orders.",
+      "end": "00:01:04.620",
+      "start": "00:00:59.200",
+      "title": "Impact on business outcomes"
+    }
+  ],
+  "summary": "Jeanne Bliss discusses how Zappos ties hiring to the soul of the company and uses a culture-focused onboarding litmus test to reveal true commitment. The onboarding lasts about two months, with periodic intervals offering new hires $2,000 to quit if the role isn’t a fit. The aim is to separate those driven by genuine commitment from those who would take the money and leave. According to Bliss, very few take the offer, implying alignment with a customer-centric mission, which correlates with a high share of repeat business (about 75% of daily orders). This video highlights how culture and clarity of purpose can shape hiring practices and downstream business outcomes.",
+  "title": "Zappos Culture Test for Customer Commitment",
+  "topics": [
+    "Culture fit in hiring",
+    "Purpose-driven service",
+    "Hiring criteria aligned with customer experience",
+    "Zappos commitment litmus test",
+    "Onboarding and training practices",
+    "Two-month training period",
+    "Intervals to quit with $2,000 incentive",
+    "Attrition risk management in service roles",
+    "Low quitting rate as a signal of alignment",
+    "impact of employee commitment on customer loyalty",
+    "Repeat business as a performance metric",
+    "Call center culture and service delivery",
+    "Incentive-based assessment during onboarding",
+    "Culture-driven HR decision-making",
+    "Economic context and hiring strategies"
+  ],
+  "video": "8xMezp5HVOc.youtube"
+}

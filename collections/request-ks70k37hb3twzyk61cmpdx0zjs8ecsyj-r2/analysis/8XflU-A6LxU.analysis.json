@@ -1,0 +1,119 @@
+{
+  "analysis_created_at": "2026-09-14T22:56:05.973923+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.7,
+      "technique": "Sensory storytelling to define customer experience",
+      "timestamp": "00:00:13"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Culture-focused hiring (4-5 interviews) to hardwire culture",
+      "timestamp": "00:02:50"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Concrete service standards as brand promise (24-hour scheduling, uniforms, professional fleet)",
+      "timestamp": "00:01:01"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "7e358e1b-36e2-527b-aa22-42243c09368a",
+    "spec_sha256": "247876e44cdb83523d95ad5ab7d2658448fb76b79a4e6fb9f5ec524ca8c2dc62",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-7d68feb84492"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 69745,
+      "dependency_resolution_ms": 132,
+      "handler_ms": 70785,
+      "input_fetch_ms": 735
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 61374,
+      "digest": "07cedaa259194e64f5bd09b3b24d14caf5294ad4cb8ddd4a1b145644f7b48999",
+      "key": "objects/sha256/07/cedaa259194e64f5bd09b3b24d14caf5294ad4cb8ddd4a1b145644f7b48999",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "a452b5cb-9f6a-589d-b36f-9abaf90dcc59"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "three operating pillars of great companies",
+        "clear singular focus and clarity of purpose",
+        "internal alignment behind purpose",
+        "hiring for culture and trusting employees"
+      ],
+      "description": "Introduction to the central idea that successful customer experience rests on a clear purpose and strong internal alignment, illustrated by the notion of a brand guiding how customers should feel.",
+      "end": "00:01:01",
+      "start": "00:00:00",
+      "title": "clarity of purpose and Brand Alignment"
+    },
+    {
+      "concepts": [
+        "1-800-GOT-JUNK as the 'FedEx of junk'",
+        "appointment scheduling within 24 hours",
+        "professional appearance and respectful interactions",
+        "on-site service rituals and ethical actions (donation, disposal)",
+        "Zappos reference to call-center trust and culture",
+        "Genentech's 'in business for life' purpose",
+        "culture screening in hiring (4-5 interviews)",
+        "alignment of purpose with hiring and behavior",
+        "customer experience metrics (repurchase impact)"
+      ],
+      "description": "Shows how purpose translates into concrete operations and culture: branding as service promise, precise scheduling, professional presentation, and the people-processes that shape customer outcomes, including Genentech’s culture framework and call-center dynamics.",
+      "end": "00:03:31",
+      "start": "00:01:01",
+      "title": "Operationalizing Purpose: Service Standards, Culture, and Outcomes"
+    }
+  ],
+  "summary": "In this talk, Jeanne Bliss argues that beloved companies succeed when they maintain a clear, singular purpose for how they serve customers. She illustrates how a crisp clarity of purpose creates internal alignment, fuels authentic culture, and guides hiring, operations, and customer interactions. Through concrete examples—from 1-800-GOT-JUNK to Zappos and Genentech—she shows how brands translate purpose into tangible service standards (such as 24-hour scheduling and professional appearance), how culture screening shapes hires, and how customer experiences drive retention, citing metrics like an 86% repurchase rate after positive calls versus 37% after poor experiences. The overall message positions purpose as the essential “glue” that holds customer experience together across touchpoints.",
+  "title": "Clarity of Purpose as the Glue of Customer Experience",
+  "topics": [
+    "clarity of purpose",
+    "singular focus on customer experience",
+    "internal alignment around purpose",
+    "brand-driven service culture",
+    "passion vs. rules in service",
+    "trusting employees to behave authentically",
+    "FedEx of junk as a branding aspiration",
+    "24-hour appointment scheduling",
+    "professional image and uniforms",
+    "customer-facing rituals (garage sweep, battery disposal, donations)",
+    "positive call experience and repurchase rate",
+    "call center culture and decompression",
+    "Genentech's 'in business for life' purpose",
+    "culture screening in hiring (4-5 interviews)",
+    "hardwiring culture into operations",
+    "brand cues and customer perception",
+    "ma'am as respectful customer interaction",
+    "Metrics: 86% repurchase after positive calls",
+    "Metrics: 37% repurchase after poor experiences"
+  ],
+  "video": "8XflU-A6LxU.youtube"
+}

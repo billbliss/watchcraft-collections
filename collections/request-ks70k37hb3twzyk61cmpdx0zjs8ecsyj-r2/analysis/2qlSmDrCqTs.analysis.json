@@ -1,0 +1,203 @@
+{
+  "analysis_created_at": "2026-09-14T22:52:37.376751+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Customer math: identify newest and lost customers and follow up regularly",
+      "timestamp": "00:02:26"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Frontline empowerment with trust to resolve customer issues (e.g., Zappos model)",
+      "timestamp": "00:04:15"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Emotional packaging as brand storytelling (animal imagery inside boxes)",
+      "timestamp": "00:00:57"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Stairway to desire: cross-functional alignment to enhance loyalty",
+      "timestamp": "00:09:48"
+    },
+    {
+      "confidence": 0.55,
+      "technique": "Human duct tape concept for cross-department collaboration",
+      "timestamp": "00:14:44"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript mentions travel locations: 'From Madrid to Montreal, from Sydney to Sao Paulo.'",
+      "confidence": 0.85,
+      "name": "Madrid"
+    },
+    {
+      "basis": "Transcript mentions travel locations: 'From Madrid to Montreal, from Sydney to Sao Paulo.'",
+      "confidence": 0.85,
+      "name": "Montreal"
+    },
+    {
+      "basis": "Transcript mentions travel locations: 'From Madrid to Montreal, from Sydney to Sao Paulo.'",
+      "confidence": 0.85,
+      "name": "Sydney"
+    },
+    {
+      "basis": "Transcript mentions travel locations: 'From Madrid to Montreal, from Sydney to Sao Paulo.'",
+      "confidence": 0.85,
+      "name": "Sao Paulo"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "5fabe88b-5d9d-517e-a6ee-df6951aea23a",
+    "spec_sha256": "c79b8b62a332b7ff48fb5820e9b7023ac8273e528013a3fb099e4673e1d6e8b3",
+    "timing": {
+      "analysis_ms": 56285,
+      "dependency_resolution_ms": 55,
+      "handler_ms": 57009,
+      "input_fetch_ms": 587
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 248135,
+      "digest": "dd18f9782eba47a8ef285eead4c89b452e7c28999f01cb7bcd5e6181802f1208",
+      "key": "objects/sha256/dd/18f9782eba47a8ef285eead4c89b452e7c28999f01cb7bcd5e6181802f1208",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "252440f3-07e9-53fc-8e8a-0de8f51e32a6"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "consistent phone support",
+        "rapid order fulfillment",
+        "reliability enabling differentiation"
+      ],
+      "description": "The talk opens by illustrating how Land's End achieves high reliability (phone response before dialing, 24-hour shipping) as the platform that enables a differentiated customer experience beyond mere product.",
+      "end": "00:01:38",
+      "start": "00:00:01",
+      "title": "Reliability as the foundation for customer experience"
+    },
+    {
+      "concepts": [
+        "emotional connection",
+        "brand personality",
+        "inside-box surprises"
+      ],
+      "description": " Bliss describes extending care to the kids line by printing animal heads/tails inside the box to foster an emotional connection and shared family values, illustrating how small touches can humanize a brand.",
+      "end": "00:02:00",
+      "start": "00:01:39",
+      "title": "Emotional connection through branding and packaging"
+    },
+    {
+      "concepts": [
+        "customer math",
+        "new vs lost customers",
+        "why follow-up"
+      ],
+      "description": "Bliss recommends embedding five customer-focused questions into executive discourse, especially asking who the newest and who the lost customers are, and iterating based on ongoing customer feedback to keep customer focus embedded in strategy.",
+      "end": "00:04:37",
+      "start": "00:02:00",
+      "title": "Customer math: five questions and ongoing feedback"
+    },
+    {
+      "concepts": [
+        "frontline autonomy",
+        "trust in employees",
+        "customer-centric service policy"
+      ],
+      "description": "Illustrates how Zappos lets staff solve problems and trust customers, including generous return policies, creating loyal customers and word-of-mouth growth.",
+      "end": "00:04:37",
+      "start": "00:04:37",
+      "title": "Zappos as a model of frontline trust"
+    },
+    {
+      "concepts": [
+        "clarity of purpose",
+        "passion-driven culture",
+        "hiring for culture"
+      ],
+      "description": "Bliss outlines three operating principles that define successful beloved brands: clear purpose, passionate culture, and empowering people, reinforcing that culture drives behavior beyond strict rules.",
+      "end": "00:05:16",
+      "start": "00:04:37",
+      "title": "Beloved companies: clarity, passion, and people-driven culture"
+    },
+    {
+      "concepts": [
+        "Genentech's 'in business for life' culture",
+        "culture screening in hiring",
+        "branding via customer experience"
+      ],
+      "description": "The speaker cites Genentech’s rigorous cultural screening and 1-800-GOT-JUNK’s branding and service standards, illustrating how purpose and culture translate into measurable customer experiences.",
+      "end": "00:08:16",
+      "start": "00:05:16",
+      "title": "Examples of culture in action: Genentech, 1-800-GOT-JUNK, and more"
+    },
+    {
+      "concepts": [
+        "call center as brand steward",
+        "impact of positive call experiences on repeat business",
+        "silobusting to protect the customer journey"
+      ],
+      "description": "Bliss emphasizes that frontline agents preserve the brand with every interaction and provides data (86% repurchase after positive calls) to illustrate the business value of good service and the risk of siloed failures.",
+      "end": "00:12:58",
+      "start": "00:08:16",
+      "title": "Frontline as brand preservation and the cost of poor experiences"
+    },
+    {
+      "concepts": [
+        "organizational alignment",
+        "stairway to desire",
+        "human collaboration across departments"
+      ],
+      "description": "The speaker argues for uniting leadership across functions to deliver a unified customer experience, coining the 'stairway to desire' as a metaphor for building stronger customer loyalty through collaboration and shared metrics.",
+      "end": "00:15:07",
+      "start": "00:12:58",
+      "title": "Silos, alignment, and the ladder to desire"
+    }
+  ],
+  "summary": "Jeanne Bliss discusses how leading organizations move beyond silos to design holistic, customer-centric experiences. She emphasizes reliability as the foundation for trust (e.g., Land’s End shipping within 24 hours, responsive service), then explains how emotional connection—such as packaging that speaks to shared values—can differentiate brands. The talk frames customer-centric leadership around the practice of 'customer math' (tracking new and lost customers, gathering regular feedback), frontline empowerment (trusting staff to do the right thing, exemplified by Zappos), and a culture built on clear purpose, passion, and consistent behaviors (as seen in Genentech, 1-800-GOT-JUNK, Land’s End, and others). Bliss also highlights the dangers of silos for the customer experience and advocates for organizational alignment, shared metrics, and a deliberate, memorable language around customers, culminating in her memorable metaphors like 'stairway to desire' and 'human duct tape.'",
+  "title": "Silos to Service: Customer Experience Lessons from Jeanne Bliss",
+  "topics": [
+    "customer experience",
+    "silos and cross-functional collaboration",
+    "frontline empowerment",
+    "customer-centric leadership",
+    "beacon of hope",
+    "customer math",
+    "new vs lost customers",
+    "retention and repurchase",
+    "word of mouth growth",
+    "Zappos customer service model",
+    "365-day returns",
+    "brand heroes (call center)",
+    "Genentech culture and culture screening",
+    "land's end reliability and emotional packaging",
+    "1-800-GOT-JUNK branding (FedEx of junk)",
+    "stairway to desire",
+    "human duct tape metaphor",
+    "silos as a business risk",
+    "customer experience metrics",
+    "silent language of customers"
+  ],
+  "video": "2qlSmDrCqTs.youtube"
+}

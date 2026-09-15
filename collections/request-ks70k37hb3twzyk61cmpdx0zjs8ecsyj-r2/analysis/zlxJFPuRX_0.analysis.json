@@ -1,0 +1,170 @@
+{
+  "analysis_created_at": "2026-09-14T21:23:05.126993+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Five-competency framework to drive growth in customer experience",
+      "timestamp": "00:00:13"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Asset-based definition of customers and asset metric",
+      "timestamp": "00:00:18"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Experience-centered leadership and outcomes in meetings",
+      "timestamp": "00:00:28"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Align around onboarding, product, and purchase experiences",
+      "timestamp": "00:00:43"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Build a customer listening path with multi-source feedback",
+      "timestamp": "00:01:24"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Proactive reliability and innovation with a rigorous CX design methodology",
+      "timestamp": "00:01:52"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Leadership alignment and deliberate growth",
+      "timestamp": "00:02:21"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "a67b6810-dd02-581a-9cc1-3784b08fbc8a",
+    "spec_sha256": "b2a05d42458423fa130ce1dbaef2d626545e6e28b13f7e904bc6662b7a60addb",
+    "timing": {
+      "analysis_ms": 60458,
+      "dependency_resolution_ms": 47,
+      "handler_ms": 61277,
+      "input_fetch_ms": 650
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 53251,
+      "digest": "0acadbfa2775e2a0e43d31699adfed78e74478585f2adf562995b0b846f5995f",
+      "key": "objects/sha256/0a/cadbfa2775e2a0e43d31699adfed78e74478585f2adf562995b0b846f5995f",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "27b4a3f7-6902-53d7-856a-69cf102ec2a1"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "cx work as reactive vs. proactive",
+        "five competencies as growth engine",
+        "customers as assets",
+        "asset metric definition",
+        "leadership meeting behavior",
+        "outcome-oriented work"
+      ],
+      "description": "The speaker frames customer experience work as often reactive to survey results and announces a five-competency framework to drive growth. She introduces the idea of viewing customers as assets and creating a company-wide asset metric, then describes shifting leadership meetings to focus on outcomes and the growth implications of this reframing.",
+      "end": "00:01:04",
+      "start": "00:00:00",
+      "title": "Intro and Competency 1: Leadership language and asset-based success"
+    },
+    {
+      "concepts": [
+        "alignment around experience over silos",
+        "onboarding experience",
+        "new product experience",
+        "purchase experience",
+        "market-facing metrics aligned early"
+      ],
+      "description": "This section emphasizes aligning organizational focus around the customer experience across onboarding, product, and purchase, rather than by traditional silos (marketing, operations, sales). It highlights the shift in how a company brings a product to market and the early metrics that shape field operations.",
+      "end": "00:01:24",
+      "start": "00:01:04",
+      "title": "Competency 2: Align around experience (break silos)"
+    },
+    {
+      "concepts": [
+        "customer listening path",
+        "multi-source feedback",
+        "journey mapping",
+        "beyond surveys"
+      ],
+      "description": "The speaker describes aggregating feedback from multiple sources (surveys, social, complaints) and mapping it to the customer journey, rather than relying solely on survey results tied to specific questions.",
+      "end": "00:01:36",
+      "start": "00:01:24",
+      "title": "Competency 3: Build a customer listening path"
+    },
+    {
+      "concepts": [
+        "reliability of experience",
+        "repeatable customer experience",
+        "innovation in experiences",
+        "rigorous CX design methodology",
+        "parity with product development discipline"
+      ],
+      "description": "This portion stresses the need for repeatable, reliable customer experiences and the ability to innovate experiences. It argues for a rigorous customer experience design approach that is as disciplined as product development to earn the customer’s story and positive social proof.",
+      "end": "00:02:15",
+      "start": "00:01:36",
+      "title": "Competency 4: Proactive experience reliability and innovation"
+    },
+    {
+      "concepts": [
+        "leadership decision-making",
+        "hiring",
+        "removing ineffective rules",
+        "alignment of leadership",
+        "deliberate growth"
+      ],
+      "description": "The final competency centers on leadership behavior: how decisions are made, how people are hired or dismissed, how unnecessary rules are removed, and whether the leadership team remains centered and committed to growth that is deliberate and aligned.",
+      "end": "00:02:36",
+      "start": "00:02:15",
+      "title": "Competency 5: Leadership decisions and deliberate growth"
+    }
+  ],
+  "summary": "In this short talk, Jeanne Bliss outlines a five-competency framework intended to transform customer experience work from a reactive, survey-driven activity into a growth engine for the business. She starts by reframing success around customers as assets and establishes an asset-based metric, then explains how leadership behavior and cross-functional alignment around experience (onboarding, product, and purchase) support this shift. Additional competencies cover building a comprehensive customer listening path from multiple feedback sources, instituting proactive and repeatable experience reliability with a rigorous CX design method, and ensuring leadership decisions, hiring, and policy environments align with deliberate growth. Together, these elements are presented as an organizational engine to drive sustained growth through improved customer experience.",
+  "title": "Jeanne Bliss On \"The Five Competencies\"",
+  "topics": [
+    "customer experience",
+    "five competencies",
+    "leadership language",
+    "asset-based customer metric",
+    "outcomes-focused meetings",
+    "cross-functional alignment",
+    "onboarding experience",
+    "product experience",
+    "purchase experience",
+    "experience-based metrics",
+    "customer listening path",
+    "multi-source feedback",
+    "survey data vs. journey staging",
+    "proactive experience reliability",
+    "experience innovation",
+    "customer experience design methodology",
+    "data-driven growth",
+    "leadership decisions",
+    "hiring practices",
+    "removing obstructive rules",
+    "deliberate growth"
+  ],
+  "video": "zlxJFPuRX_0.youtube"
+}

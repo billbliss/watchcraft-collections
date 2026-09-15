@@ -1,0 +1,312 @@
+{
+  "analysis_created_at": "2026-09-14T23:09:11.603935+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.72,
+      "technique": "Litmus test for commitment (two-month onboarding) used by Zappos",
+      "timestamp": "00:14:27"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Proactive customer service recovery: MOM meeting and Chief Forgiveness Officer (Fred Taylor) at Southwest",
+      "timestamp": "00:29:42"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "love buck: post-incident gesture to win back customers",
+      "timestamp": "00:30:16"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Elimination of dehumanizing airline jargon and reframing customers as honored guests (WestJet)",
+      "timestamp": "00:20:28"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Two-way staff onboarding with lasting handoffs (Edward Jones example)",
+      "timestamp": "00:26:38"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Service magnets: low-cost, high-visibility moments to attract customers (TD Bank arcade; Amy's bag test for candidates)",
+      "timestamp": "00:25:11"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Knowledge as a bond: prioritizing knowledge and transparency over endless training",
+      "timestamp": "00:24:52"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention in transcript",
+      "confidence": 0.75,
+      "name": "Griffin Hospital, Connecticut area"
+    },
+    {
+      "basis": "Explicit mention in transcript",
+      "confidence": 0.8,
+      "name": "Zane Cycles, Connecticut"
+    },
+    {
+      "basis": "Explicit mention in transcript",
+      "confidence": 0.85,
+      "name": "Amy's Ice Creams, Austin, Texas"
+    },
+    {
+      "basis": "Explicit memory reference tied to the speaker's family history",
+      "confidence": 0.7,
+      "name": "Des Plaines, Illinois"
+    },
+    {
+      "basis": "Explicit memory reference tied to Land's End origin story",
+      "confidence": 0.7,
+      "name": "Dodgeville, Wisconsin"
+    },
+    {
+      "basis": "Mention of Seattle Fish Market as a comparable experience",
+      "confidence": 0.6,
+      "name": "Seattle, Washington"
+    },
+    {
+      "basis": "Speaker notes living in California and referencing local context",
+      "confidence": 0.6,
+      "name": "California"
+    },
+    {
+      "basis": "Speaker cites being Catholic Italian from Chicago",
+      "confidence": 0.6,
+      "name": "Chicago"
+    },
+    {
+      "basis": "WestJet described as a Canadian airline (location inference to Canada)",
+      "confidence": 0.55,
+      "name": "Canada"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "54d5a2fc-1559-5d15-9bbb-88b4d50f57b6",
+    "spec_sha256": "f3a375bb3c892a2bd42daf8ea78f4a13eae2e5963ba1ee3bebf5c4f57dbc7b39",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-5001e21a53b9"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 75093,
+      "dependency_resolution_ms": 142,
+      "handler_ms": 76171,
+      "input_fetch_ms": 814
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 579672,
+      "digest": "6858a0366bc6168a023bc5946b5cf40f88d00789a72f297c8844c56ddee91edd",
+      "key": "objects/sha256/68/58a0366bc6168a023bc5946b5cf40f88d00789a72f297c8844c56ddee91edd",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "3f674a51-5c2b-5cb9-9037-06205e820ab5"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "trust in customers",
+        "trust in employees",
+        "suspending cynicism",
+        "story of the brand"
+      ],
+      "description": "Beloved companies begin by believing in people—customers and employees alike—and suspend cynicism to create a foundation for trustworthy relationships.",
+      "end": "00:02:14.640",
+      "start": "00:01:42.840",
+      "title": "Believe: trust in customers and employees"
+    },
+    {
+      "concepts": [
+        "clarity of purpose",
+        "higher promise",
+        "alignment"
+      ],
+      "description": "Decisions are aligned to a higher purpose of serving and supporting customers’ lives, ensuring all actions reinforce the brand promise.",
+      "end": "00:02:31.180",
+      "start": "00:02:11.820",
+      "title": "Decide with clarity: purpose-driven decisions"
+    },
+    {
+      "concepts": [
+        "real culture",
+        "humility",
+        "non-veneer leadership"
+      ],
+      "description": "Beloved companies shed corporate veneer and enable employees to bring their best selves to work, creating genuine connections with customers.",
+      "end": "00:02:58.300",
+      "start": "00:02:31.440",
+      "title": "Be Real: authenticity and humane work environment"
+    },
+    {
+      "concepts": [
+        "being there daily",
+        "reliable relationship-building"
+      ],
+      "description": "Consistent, attentive presence at every touchpoint helps customers feel valued and assures they can return when needed.",
+      "end": "00:04:29.560",
+      "start": "00:02:46.520",
+      "title": "Be There: everyday presence for customers"
+    },
+    {
+      "concepts": [
+        "Griffin Hospital",
+        "USAA",
+        "Lush",
+        "Zara",
+        "Zappos"
+      ],
+      "description": "Concrete cases illustrate how belief, clarity, authenticity, presence, and repair translate into tangible customer loyalty and business success.",
+      "end": "00:06:22.060",
+      "start": "00:04:21.020",
+      "title": "Real-world exemplars of beloved companies"
+    },
+    {
+      "concepts": [
+        "genuine apologies",
+        "repairing trust",
+        "emotional reconciliation"
+      ],
+      "description": "Beloved companies are skilled at not just apologizing, but repairing the emotional bond that distance or mistakes create.",
+      "end": "00:06:22.060",
+      "start": "00:04:39.100",
+      "title": "Repair: repairing the emotional connection via meaningful apology"
+    },
+    {
+      "concepts": [
+        "commitment litmus test",
+        "probation period loyalty",
+        "repeat business"
+      ],
+      "description": "Zappos recruits with a two-month trial; those who stay show deep commitment, contributing to high repeat-order rates and stronger fit with the brand.",
+      "end": "00:15:56.960",
+      "start": "00:14:27.580",
+      "title": "Zappos litmus test and customer-experience bookends"
+    },
+    {
+      "concepts": [
+        "start and end emotions",
+        "memorable moments"
+      ],
+      "description": "Memorable beginnings and endings of experiences shape customer stories and drive word-of-mouth.",
+      "end": "00:15:56.960",
+      "start": "00:15:14.340",
+      "title": "Customer experience bookends"
+    },
+    {
+      "concepts": [
+        "calm in emergency",
+        "employee engagement",
+        "lived customer lives"
+      ],
+      "description": "Deliberate attention to customer emotions and staff empowerment yields calmer experiences and higher engagement.",
+      "end": "00:19:13.000",
+      "start": "00:16:27.180",
+      "title": "Emotional design in service: Griffin Hospital, USAA, Lush, Zara"
+    },
+    {
+      "concepts": [
+        "honored guests",
+        "clear customer-facing language"
+      ],
+      "description": "Redefining internal language to honor and elevate customers shifts organizational culture and market position.",
+      "end": "00:21:12.740",
+      "start": "00:20:28.860",
+      "title": "Removing dehumanizing lingo: WestJet and other shifts"
+    },
+    {
+      "concepts": [
+        "values-aligned hiring",
+        "two-year shadowing and handoffs",
+        "front-line autonomy"
+      ],
+      "description": "Hiring for cultural fit and ensuring smooth handoffs maintain relationships and strengthen trust with customers.",
+      "end": "00:27:08.940",
+      "start": "00:21:12.740",
+      "title": "Hiring, loyalty, and continuity: Chick-fil-A, Zappos, Edward Jones, L.L. Bean"
+    },
+    {
+      "concepts": [
+        "magnet moments",
+        "arcades",
+        "restart prevention"
+      ],
+      "description": "Small, memorable, low-cost magnets (arcades, quirky perks) draw customers in and reduce the risk of losing relationships when staff turnover occurs.",
+      "end": "00:26:11.160",
+      "start": "00:25:11.220",
+      "title": "Magnets and restart prevention: service magnets and avoid restarting"
+    },
+    {
+      "concepts": [
+        "handoff synchronization",
+        "customer continuity"
+      ],
+      "description": "Structured transitions ensure customers do not feel abandoned when personnel changes occur.",
+      "end": "00:27:13.880",
+      "start": "00:26:38.960",
+      "title": "Continuity during staff changes: handoffs that keep the relationship solid"
+    },
+    {
+      "concepts": [
+        "define your story",
+        "align actions with values",
+        "measure what you want to be known for"
+      ],
+      "description": "End with a challenge: decide who you want to be for customers, and design decisions, experiences, and hiring to tell that story.",
+      "end": "00:33:50.340",
+      "start": "00:27:24.220",
+      "title": "Conclusion and call to action: the decision is yours"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that truly beloved companies are defined not by lightweight slogans but by deliberate, values-driven decisions that shape every customer interaction. She outlines five core decisions—believe, decide with clarity, be real, be there, and repair the emotional connection—and grounds them with concrete, real-world examples from Griffin Hospital, USAA, Zara, Zappos, Southwest, WestJet, Amy’s Ice Creams, and others. The talk emphasizes viewing customers as assets, empowering front-line employees to act with trust, and designing service moments that create lasting memories. It also showcases practical tactics such as onboarding litmus tests, proactive recovery routines, personalizing apologies, and creating simple magnets or rituals (arcades, white-paper job applications, love bucks) to attract and retain customers. The overarching message is that consistency between heart and habit—and the ability to repair trust when mistakes occur—drives not only customer loyalty but sustainable prosperity and a positive organizational culture.",
+  "title": "Beloved Company Five: Five Decisions That Create Trust, Loyalty, and Growth",
+  "topics": [
+    "believe in customers and employees",
+    "suspending cynicism",
+    "clarity of purpose in decision-making",
+    "aligning decisions with higher purpose",
+    "be real: authenticity and humility",
+    "removing corporate veneer to empower employees",
+    "be there: consistent customer presence",
+    "repair emotional connection after mistakes",
+    "treat customers as assets, not costs",
+    "long-term customer lifetime value",
+    "deliberate cross-functional decision-making",
+    "front-line empowerment",
+    "trust over rules and procedures",
+    "litmus tests for commitment (Zappos example)",
+    "employee retention and cultural fit",
+    "customer experience bookends",
+    "service magnets and low-cost wow moments",
+    "handoff continuity to avoid restarting relationships",
+    "proactive service recovery (MOM, Love Bucks)",
+    "apology as a humane practice",
+    "eliminating dehumanizing internal lingo (WestJet example)",
+    "customer-centric hiring practices (Chick-fil-A, L.L. Bean)"
+  ],
+  "video": "eTGYZy-m2x0.youtube"
+}

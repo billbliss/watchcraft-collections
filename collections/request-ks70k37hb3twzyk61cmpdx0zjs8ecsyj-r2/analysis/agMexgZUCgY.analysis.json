@@ -1,0 +1,127 @@
+{
+  "analysis_created_at": "2026-09-15T03:35:00.144880+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 11, 2010",
+    "iso": "2010-08-11",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.78,
+      "technique": "Congruence of heart and habit as the backbone of the organization",
+      "timestamp": "00:01:43"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Habit as translation of decisions into organizational action",
+      "timestamp": "00:02:18"
+    },
+    {
+      "confidence": 0.76,
+      "technique": "Blending commerce with humanity to guide decision making",
+      "timestamp": "00:01:27"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "c7f7dab0-970a-59cb-8eca-e229be401bdd",
+    "spec_sha256": "c5868431c1fc60aab434ad7536f4f344ca6bc651a389484c2f4ac5a3464dda97",
+    "timing": {
+      "analysis_ms": 32998,
+      "dependency_resolution_ms": 46,
+      "handler_ms": 33869,
+      "input_fetch_ms": 687
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 61583,
+      "digest": "00b3b7a70e167c656c7edd2a69fa9d372390dba032793a8bb234528ff377390a",
+      "key": "objects/sha256/00/b3b7a70e167c656c7edd2a69fa9d372390dba032793a8bb234528ff377390a",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "50e524f7-66c8-53d2-9399-e54d31df8e85"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "definition of beloved companies",
+        "five decisions that drive loyalty",
+        "aligning decisions with customers and employees",
+        "word-of-mouth advocacy"
+      ],
+      "description": "Jean Bliss introduces the idea that beloved companies earn loyalty by making decisions that move toward customers and employees, prompting them to advocate for the brand and seek it out over competitors.",
+      "end": "00:01:15",
+      "start": "00:00:00",
+      "title": "Premise: Beloved Companies and Loyalty"
+    },
+    {
+      "concepts": [
+        "culture as the compass of decision making",
+        "congruence of heart and habit",
+        "fork in the road: decisions for others vs internal agendas",
+        "long-term growth vs short-term gain"
+      ],
+      "description": "The speaker links culture to decision direction, noting that at key forks, choosing the path that serves customers and employees (over self-interest) supports long-term prosperity. Congruence of heart and habit becomes the backbone of the Beloved Company.",
+      "end": "00:02:18",
+      "start": "00:01:15",
+      "title": "Culture as Compass: Heart, Habit, and the Fork in the Road"
+    },
+    {
+      "concepts": [
+        "habit translates decisions into actions",
+        "internal alignment shapes external experience",
+        "inside-out vs outside-in effects"
+      ],
+      "description": "Habit is described as the mechanism by which decisions become everyday actions across the organization, shaping the customer experience through coordinated internal behavior.",
+      "end": "00:02:59",
+      "start": "00:02:18",
+      "title": "Habit as Translation of Decisions"
+    },
+    {
+      "concepts": [
+        "golden rule in business",
+        "personal values in business",
+        "customers telling your story",
+        "growth when customers love what you do and how you do it"
+      ],
+      "description": "Bliss argues that the decisions and values inside a beloved company define what customers perceive and value. When customers love the firm, they become storytellers and growth drivers.",
+      "end": "00:03:52",
+      "start": "00:03:07",
+      "title": "Impact: Values, Story, and Growth through Love"
+    }
+  ],
+  "summary": "In this short talk, Jeanne Bliss explains how beloved companies earn extraordinary customer loyalty by making decisions that prioritize customers and employees, blending commerce with humanity, and aligning culture with actions. The content emphasizes the concept of congruence between heart (culture) and habit (actions), the way internal choices at critical forks steer outcomes, and how everyday decisions become the unified experience customers encounter. When customers love how you do business, they effectively become advocates who help grow the company.",
+  "title": "Beloved Companies: How Culture and Heart Translate Decisions into Customer Growth",
+  "topics": [
+    "customer loyalty",
+    "employee advocacy",
+    "customer-centric decision making",
+    "long-term growth vs short-term gain",
+    "road less traveled",
+    "culture as decision-making compass",
+    "congruence of heart and habit",
+    "internal agendas vs customer needs",
+    "translation of decisions into actions",
+    "unified organizational actions",
+    "inside-out organizational alignment",
+    "blending commerce with humanity",
+    "personal values in business",
+    "golden rule in business",
+    "customer storytelling and word-of-mouth",
+    "growth driven by love and trust"
+  ],
+  "video": "agMexgZUCgY.youtube"
+}

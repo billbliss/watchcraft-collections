@@ -1,0 +1,81 @@
+{
+  "analysis_created_at": "2026-09-14T21:53:19.422624+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Trust-framing prompts",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Two-way trust evaluation",
+      "timestamp": "00:00:12"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "7691ee7f-e0eb-5527-99a4-589cb9244b81",
+    "spec_sha256": "ef79f44ad0ba2fe0d240dbffe93c88f77573a71c2161351e68bf0fec1f93814b",
+    "timing": {
+      "analysis_ms": 24820,
+      "dependency_resolution_ms": 250,
+      "handler_ms": 26132,
+      "input_fetch_ms": 961
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 5139,
+      "digest": "ff3a3f1c11831168ebfe368d8c8c76c9836015fdb3765de514256e11601d8d9b",
+      "key": "objects/sha256/ff/3a3f1c11831168ebfe368d8c8c76c9836015fdb3765de514256e11601d8d9b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d8f44245-c86c-58ed-b7f7-0f0a191cc6b3"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "trust",
+        "customer trust",
+        "employee trust",
+        "leadership beliefs"
+      ],
+      "description": "The speaker opens with two reflective questions: would customers say you trust them, and would employees say you believe in them?",
+      "end": "00:00:12",
+      "start": "00:00:00",
+      "title": "Two questions about trust in customer and employee relationships"
+    }
+  ],
+  "summary": "This brief clip presents a leadership perspective on trust in business relationships. Jeanne Bliss poses two provocative questions intended to prompt executives to assess whether their relationships with customers and employees are grounded in mutual trust: whether customers would say they are trusted, and whether employees would say the leader believes in them. The two questions frame trust as a two-way, foundational element of customer experience and workplace culture, inviting reflection on how leadership behavior communicates belief in others.",
+  "title": "Do Your Customers Talk About Your Trust in Them? - Jeanne Bliss",
+  "topics": [
+    "two-way trust",
+    "customer trust",
+    "employee trust",
+    "trust-based leadership",
+    "leadership belief in staff",
+    "relationship storytelling",
+    "customer-centric culture",
+    "organizational trust",
+    "trust as differentiator",
+    "credibility in relationships"
+  ],
+  "video": "a4T2E2avIEA.youtube"
+}

@@ -1,0 +1,130 @@
+{
+  "analysis_created_at": "2026-09-15T03:06:27.466615+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 4, 2010",
+    "iso": "2010-11-04",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Exit incentive offer to leave (buyout) implemented during onboarding/training",
+      "timestamp": "00:02:28"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Turn-down of incentive as a commitment signal",
+      "timestamp": "00:03:52"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Bottom-up, non-hierarchical organizational culture",
+      "timestamp": "00:01:07"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Graceful exit preserving dignity",
+      "timestamp": "00:04:50"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "2ef42d00-150d-5c2e-b5db-f3a624905883",
+    "spec_sha256": "054c11fd4afc43d7ae2ca61f8c263ca4ea5f8bfee3f81fdb410a2e90bc4552df",
+    "timing": {
+      "analysis_ms": 35405,
+      "dependency_resolution_ms": 103,
+      "handler_ms": 36315,
+      "input_fetch_ms": 676
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 101943,
+      "digest": "2dd8f2a11d82573036bada618580838d0cdcb59ec6386533c68b7a68b6252d7f",
+      "key": "objects/sha256/2d/d8f2a11d82573036bada618580838d0cdcb59ec6386533c68b7a68b6252d7f",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c4f5a277-316b-5a85-8e4f-5901d7ab7c95"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "belief in culture as empowerment",
+        "core values guiding behavior",
+        "alignment between personal and company goals",
+        "non-hierarchical, bottoms-up culture"
+      ],
+      "description": "The speaker links the idea of 'decide to believe' to employee empowerment and cultural alignment, presenting how beliefs about the culture enable faster, more natural decision-making and a happier, more aligned workforce.",
+      "end": "00:01:02",
+      "start": "00:00:02",
+      "title": "Culture and empowerment through belief"
+    },
+    {
+      "concepts": [
+        "culture fit in new hires",
+        "onboarding messaging about values",
+        "bottoms-up idea generation",
+        "shared leadership among founders"
+      ],
+      "description": "Discussion of how Zappos emphasizes culture during recruitment and onboarding, and how a large employee base (cited as 1,400) can generate a large volume of ideas when leadership emphasizes collective input over top-down direction.",
+      "end": "00:01:58",
+      "start": "00:01:02",
+      "title": "Hiring, onboarding, and idea-sharing culture"
+    },
+    {
+      "concepts": [
+        "exit incentive to leave during training",
+        "reducing friction to find another job",
+        "evolution from hundreds to $2,000",
+        "HR/legal considerations and reality checks",
+        "commitment vs. recruitment accuracy"
+      ],
+      "description": "Explanation of the core program: if someone is not committed, Zappos should pay them to leave to reduce friction of leaving their current job for a new one. The plan was refined to offer during training and aimed to improve cultural fit, even as HR/legal concerns were raised. The discussion also notes that it helps weed out mismatches more quickly.",
+      "end": "00:04:41",
+      "start": "00:01:54",
+      "title": "The $2,000 leave-for-commitment concept"
+    },
+    {
+      "concepts": [
+        "turning down $2,000 as a stronger commitment signal",
+        "reflective decision-making",
+        "preserving grace and dignity in departure"
+      ],
+      "description": "The transcript emphasizes that choosing not to take the incentive is a more meaningful test of commitment, and frames exits as respectful, dignity-preserving transitions rather than dismissal.",
+      "end": "00:05:13",
+      "start": "00:04:41",
+      "title": "Turn-down as a commitment signal and graceful exit"
+    }
+  ],
+  "summary": "This excerpt features Alfred Lin discussing Zappos' culture-first approach, where belief in the company values drives empowerment and decision-making. It outlines a non-hierarchical, bottoms-up organization and details a controversial incentive: paying new hires to leave during training to weed out non-committed individuals. The conversation explains how the program evolved from a small amount to $2,000, the reasoning behind turning down the offer as a commitment test, and the emphasis on leaving with grace and dignity. Taken together, the material provides a concrete case study of how culture, onboarding, and selective incentives shape retention, fit, and organizational vitality in a customer-service-focused brand.",
+  "title": "Zappos Culture, Belief, and the $2,000 Leave-If-Uncommitted Program",
+  "topics": [
+    "Zappos culture",
+    "core values",
+    "employee empowerment",
+    "bottom-up organization",
+    "non-hierarchical culture",
+    "onboarding and orientation",
+    "culture-driven hiring",
+    "exit incentive",
+    "commitment testing",
+    "graceful departure",
+    "HR/legal considerations",
+    "recruiting accuracy",
+    "leadership and culture (Tony Hsieh mentioned)"
+  ],
+  "video": "OtRe7Q-Tqz8.youtube"
+}

@@ -1,0 +1,170 @@
+{
+  "analysis_created_at": "2026-09-14T23:10:43.181320+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Bowl of quarters lifetime value demonstration",
+      "timestamp": "00:13:21"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Lifetime value ROI and long-term service commitments (e.g., lifetime free service, lifetime warranty, 90-day price protection)",
+      "timestamp": "00:34:50"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Proactive apology program and customer communications process (letters/videos) @ Southwest",
+      "timestamp": "00:29:43"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Morning Overview Meeting (MOM) workflow and cross-functional escalation at Southwest",
+      "timestamp": "00:28:08"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Hiring customers and VetNet at USAA",
+      "timestamp": "00:43:46"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Mission clarity framework at USAA (Inspiration, What, Aspirational)",
+      "timestamp": "00:37:34"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e2a3669b-717e-5b6c-b5f4-0feb856ba4d2",
+    "spec_sha256": "08e7c8ad3f5a76c56e3f1625b9492d9750149bac0cc113a614d7dac9d460c40a",
+    "timing": {
+      "analysis_ms": 79150,
+      "dependency_resolution_ms": 44,
+      "handler_ms": 80053,
+      "input_fetch_ms": 779
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1182665,
+      "digest": "7a72ec71ef228e8e71a04848f7653290d96b8ac6d4cb71594c294d1bc1ddc8db",
+      "key": "objects/sha256/7a/72ec71ef228e8e71a04848f7653290d96b8ac6d4cb71594c294d1bc1ddc8db",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "379e6d06-38f3-5c99-bf30-9de24d62646f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer-influenced decisions",
+        "story told by customers",
+        "beloved companies and people-first focus",
+        "financial prosperity and employee prosperity as outcomes"
+      ],
+      "description": "Openings frame how daily decisions shape a company’s story for customers and employees. The speaker emphasizes that customer stories online reflect company behavior, and cites the split of influence between marketing (22%) and customers (78%). The talk then introduces five decisions beloved companies make to stay true to their people: believe, be clear in purpose, be real, be there, and say sorry (accountability and humility).",
+      "end": "00:12:21",
+      "start": "00:00:00",
+      "title": "Introduction: Decisions that define a company’s relationship with customers"
+    },
+    {
+      "concepts": [
+        "lifetime value of a customer",
+        "bowl of quarters analogy",
+        "deliberate service investments",
+        "tests, warranties, and gesture policy"
+      ],
+      "description": "Chris Zane introduces lifetime value as the financial backbone of service decisions. The bowl of quarters illustrates how much a business is willing to invest in a customer over time to maintain relationships, leading into the notion that service policies (beyond price) sustain long-term loyalty.",
+      "end": "00:22:50",
+      "start": "00:12:06",
+      "title": "Lifetime value and the bowl of quarters: Zane Cycles’ service philosophy"
+    },
+    {
+      "concepts": [
+        "believe / trust customers",
+        "clarity of higher purpose",
+        "being real and authentic",
+        "being there for customers",
+        "saying sorry with accountability"
+      ],
+      "description": "This section details how decisions rooted in trust, purpose, authenticity, presence, and accountability create emotional bonds with customers. It includes the idea that a company’s decisions must align personal and business life and uses the Toyota situation as a real-world test of humility and repair in relationships.",
+      "end": "00:23:58",
+      "start": "00:12:22",
+      "title": "The five decisions in practice and the apology that builds trust"
+    },
+    {
+      "concepts": [
+        "lifetime value calculations",
+        "test-ride experiences",
+        "two-year / lifetime free service / lifetime warranty",
+        "90-day price protection",
+        "hiring for values and internal culture"
+      ],
+      "description": "A deeper dive into how Zane Cycles monetizes long-term relationships: estimated lifetime revenue per customer, margins, and examples (hole-in-tube remedy, gesture-based service), plus how value-based policies (lifetime service, warranty, price protection) support the relationship and differentiate the business.",
+      "end": "00:40:50",
+      "start": "00:22:50",
+      "title": "Lifetime-value in action: pricing, policies, and people"
+    },
+    {
+      "concepts": [
+        "proactive communications",
+        "end-to-end responsibility for service failures",
+        "the MOM (Morning Overview Meeting) workflow",
+        "rapid, personalized apologies and gestures"
+      ],
+      "description": "Southwest Airlines is highlighted for proactive customer communications, including personalized letters, videos, and a structured MOM process to diagnose and respond to incidents within 28–48 business hours. The discussion expands with notes on how large brands (e.g., Tropicana, American Express) invest in relationships through consistent service and storytelling.",
+      "end": "01:04:16",
+      "start": "00:40:50",
+      "title": "Proactive service culture: Southwest, Tropicana, and American Express examples"
+    },
+    {
+      "concepts": [
+        "mission clarity (inspiration, what, aspirational)",
+        "member-centric focus",
+        "vetting employees and VetNet",
+        "new employee orientation and immersion",
+        "tangible business impact and loyalty"
+      ],
+      "description": "The talk shifts to USAA, detailing a three-part mission that guides every interaction and decision. Wayne Peacock describes how frontline staff, veterans, and military families are embedded in the culture—through events, orientation, and programs like VetNet—to build lifelong relationships. Statistics on member retention and loyalty illustrate the financial and reputational benefits of mission-driven service.",
+      "end": "01:05:59",
+      "start": "01:04:16",
+      "title": "Closing: USAA’s mission-led, member-centric culture"
+    }
+  ],
+  "summary": "Jeanne Bliss’s talk outlines how “beloved” companies win long-term loyalty by making people-centered decisions that align with customers and employees. The talk pairs high-level principles (belief, clarity of purpose, authenticity, presence, and owning mistakes) with practical demonstrations and case studies. Chris Zane (Zane Cycles) and executives from Southwest Airlines and USAA illustrate the power of lifetime value, service over price, and proactive, personalized responses to problems. Key demonstrations include a bowl-of-quarters metaphor for customer lifetime value, a lifetime-service and price-protection toolkit, and a proactive communications program. The session emphasizes breaking down silos, hiring for values, guiding behavior through mission and empathy, and treating customers as lifelong relationships rather than transactions.",
+  "title": "Beloved Companies in Practice: Net Promoter, Lifetime Value, and Proactive Service",
+  "topics": [
+    "Net Promoter",
+    "beloved companies",
+    "customer experience",
+    "lifetimes value of a customer",
+    "lifetime service warranty",
+    "proactive apology / proactive communications",
+    "removing silos / cross-functional collaboration",
+    "trust and transparency with customers",
+    "test rides / experiential selling",
+    "employee empowerment",
+    "hiring customers / VetNet",
+    "mission clarity",
+    "empathy in service",
+    "gesture of goodwill / ROI on service",
+    "Mom: Morning Overview Meeting (Southwest)",
+    "guaranteed price protection (90-day)"
+  ],
+  "video": "nAZSS3lmkzI.youtube"
+}

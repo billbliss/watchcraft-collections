@@ -1,0 +1,87 @@
+{
+  "analysis_created_at": "2026-09-15T03:31:07.669108+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Human duct tape metaphor for cross-functional alignment (CCO role)",
+      "timestamp": "00:00:40.200"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "205e8cee-6a2e-542a-9579-e8cf79877558",
+    "spec_sha256": "9174d1d98d1944f737c23ac9fddea7aba66e54402fdea67400ef7485c8f1515f",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-4677ae38d7e6",
+        "term-9386ad698abb",
+        "term-c059eab906e7"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 30753,
+      "dependency_resolution_ms": 236,
+      "handler_ms": 32418,
+      "input_fetch_ms": 1067
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 15839,
+      "digest": "d45e4af2b83b8e4063b8203e5f3fc0f1f2154aa07d92c35447487c157925fc6c",
+      "key": "objects/sha256/d4/5e4af2b83b8e4063b8203e5f3fc0f1f2154aa07d92c35447487c157925fc6c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "7140ccd6-acae-5f4a-8923-1f8d57db3955"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "CCO is not a silver bullet",
+        "not every organization needs a CCO",
+        "CCO is most relevant in highly siloed organizations",
+        "silos exist in areas like billing, operations, and marketing",
+        "The customer traverses multiple silos",
+        "CCO (or Chief Experience Officer) as a unifying role",
+        "Cross-silo thinking from the customer experience perspective"
+      ],
+      "description": "This section consolidates the core claims: a Chief Customer Officer is not universally required; its value emerges in environments with strong departmental silos, where customers move across multiple functional areas. The CCO's job is to bridge those silos and adopt a customer-centric view that spans operations rather than focusing solely on a single department.",
+      "end": "00:00:53.020",
+      "start": "00:00:00.000",
+      "title": "Key points"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that a Chief Customer Officer (CCO) is not a universal solution for improving customer focus. The CCO is most relevant in highly siloed organizations, where departments such as billing, operations, and marketing excel within their own domains but create a fragmented customer experience across silos. In such contexts, the CCO (or Chief Experience Officer) acts as a unifying, cross-functional advocate—described as a form of human duct tape—whose role is to align silos from the customer experience perspective and ensure coordination across operations toward a seamless customer journey.",
+  "title": "Do You Need a Chief Customer Officer? Not a Silver Bullet",
+  "topics": [
+    "Chief Customer Officer (CCO) role",
+    "Chief Experience Officer",
+    "siloed organizations",
+    "cross-functional alignment",
+    "customer journey across silos",
+    "customer experience perspective",
+    "organizational silos (billing, operations, marketing)",
+    "silver bullet vs. context-dependent solutions",
+    "customer focus in large organizations"
+  ],
+  "video": "ikYEDYPloPs.youtube"
+}

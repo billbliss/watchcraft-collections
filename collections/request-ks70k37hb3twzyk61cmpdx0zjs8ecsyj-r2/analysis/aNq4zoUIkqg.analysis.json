@@ -1,0 +1,120 @@
+{
+  "analysis_created_at": "2026-09-14T22:39:22.522800+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Contrast framing: everyday vs beloved company (customer life-centric positioning)",
+      "timestamp": "00:00:15"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Lived-experience design illustration: tangible product to reveal real-life needs using a children's cup example",
+      "timestamp": "00:00:34"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Outcome-focused design emphasis: spill prevention as a design driver",
+      "timestamp": "00:00:54"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Customer input via focus groups versus lived context: moms as a reference point",
+      "timestamp": "00:00:40"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "ed16abf9-3478-54da-9682-beaed0dce057",
+    "spec_sha256": "43ef4976efa8121045eae6118cb326b3cbbd214facef1483926002707fabed60",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-d5f639d2d08f"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 36691,
+      "dependency_resolution_ms": 266,
+      "handler_ms": 37482,
+      "input_fetch_ms": 450
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 20887,
+      "digest": "40014ce5992f85b6dd5c3ee5f28c529f0db21b7a17fbada5ad90aba0954af00b",
+      "key": "objects/sha256/40/014ce5992f85b6dd5c3ee5f28c529f0db21b7a17fbada5ad90aba0954af00b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "3be21e91-517a-5191-a35b-8a4ef9613134"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer-centric vs. task-driven",
+        "definition of 'everyday' vs 'beloved' companies"
+      ],
+      "description": "The speaker outlines two archetypes: the 'everyday' company that executes tasks without considering customers' lives, and the 'beloved' company that thinks about customers' lives and their roles as everyday people.",
+      "end": "00:00:24",
+      "start": "00:00:00",
+      "title": "Introduction: Everyday vs Beloved Company"
+    },
+    {
+      "concepts": [
+        "product development vs user needs",
+        "focus group limitations",
+        "potential cup features (indentation, straw)",
+        "spill prevention as a design driver"
+      ],
+      "description": "Using a children's cup as an example, the talk contrasts a traditional focus-group process (choosing among a few cup options) with the idea that real-life parenting contexts should drive design decisions aimed at reducing mess and supporting daily life.",
+      "end": "00:01:00",
+      "start": "00:00:24",
+      "title": "The Cup Example: Feature Ideation vs Lived Experience"
+    },
+    {
+      "concepts": [
+        "outcome-oriented value",
+        "brand positioning"
+      ],
+      "description": "The everyday company is portrayed as selling cups, while the beloved company is framed as supporting parenthood, reframing success as enhancing family life rather than simply selling a product.",
+      "end": "00:01:05",
+      "start": "00:01:00",
+      "title": "Conclusion: Beloved Company as Parenthood Support"
+    }
+  ],
+  "summary": "Jeanne Bliss contrasts an 'everyday', task-driven approach with a 'beloved', life-centric approach to customers. Using the concrete example of a children's cup, she argues that successful companies design around real-life contexts—specifically parenting—and not just product features. The talk highlights the limits of traditional focus groups and emphasizes creating outcomes (like spill prevention and easier handling) that support parenthood, reframing business success as improving customers’ daily lives rather than simply selling a cup.",
+  "title": "From Selling Cups to Supporting Parenthood: A Customer-Centric Framework",
+  "topics": [
+    "customer-centric strategy",
+    "everyday company vs beloved company",
+    "lived customer experience",
+    "life context in product design",
+    "focus groups limitations",
+    "childrens cup design",
+    "spill-prevention as design driver",
+    "outcome-oriented value",
+    "parenthood-supporting branding",
+    "co-creation vs feedback",
+    "branding: selling vs supporting",
+    "feature vs user-need thinking"
+  ],
+  "video": "aNq4zoUIkqg.youtube"
+}

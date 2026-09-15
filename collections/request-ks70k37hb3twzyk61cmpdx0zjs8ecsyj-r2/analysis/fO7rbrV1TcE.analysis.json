@@ -1,0 +1,100 @@
+{
+  "analysis_created_at": "2026-09-14T21:28:06.754531+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Causal analysis of customer gains/losses to drive growth through leadership focus on customer outcomes",
+      "timestamp": "00:00:07.120"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "c0541b20-3077-5cdc-bf49-1dc15561c09e",
+    "spec_sha256": "a40957bc75ff78a675f82db8b1c63fdd21e2350d441bc4ba8ddaf9a38440abe8",
+    "timing": {
+      "analysis_ms": 37465,
+      "dependency_resolution_ms": 148,
+      "handler_ms": 38589,
+      "input_fetch_ms": 853
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 8091,
+      "digest": "55459384f48b8b5797bbe6f1936e0eab474a24e722915e31fcdbf3c4451a3467",
+      "key": "objects/sha256/55/459384f48b8b5797bbe6f1936e0eab474a24e722915e31fcdbf3c4451a3467",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ba448e36-79bf-55b3-9bb0-8f727933b4ba"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "net growth",
+        "acquisition",
+        "churn"
+      ],
+      "description": "Introduces the central metric—whether more customers were gained than lost—and sets up the focus on the balance of new and departing customers.",
+      "end": "00:00:07.120",
+      "start": "00:00:01.620",
+      "title": "Net Customer Growth as a Metric"
+    },
+    {
+      "concepts": [
+        "leadership accountability",
+        "why gains/losses occur",
+        "causal understanding"
+      ],
+      "description": "Stresses that leaders should care about the reasons behind customer gains and losses, prompting deeper inquiry beyond surface numbers.",
+      "end": "00:00:13.040",
+      "start": "00:00:07.120",
+      "title": "Leadership Accountability for Gains and Losses"
+    },
+    {
+      "concepts": [
+        "customer impact",
+        "lives interrupted",
+        "lives improved",
+        "growth drivers"
+      ],
+      "description": "Argues that caring about how the product or service interrupts or improves customers’ lives can drive growth and enable fundamental business change.",
+      "end": "00:00:22.840",
+      "start": "00:00:13.040",
+      "title": "Impact on Customers as a Growth Driver"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that business success is ultimately measured by net customer growth rather than raw headcount, and she emphasizes that leaders must care about the reasons behind gains and losses. By focusing on how and why customers’ lives were interrupted or improved by the company’s offerings, leaders can uncover the causal drivers of growth, align leadership attention with customer outcomes, and drive transformative change in the business.",
+  "title": "Leadership Behaviors: The Why Behind Customer Growth",
+  "topics": [
+    "net customer growth",
+    "customer acquisition",
+    "customer churn",
+    "leadership accountability",
+    "causal analysis",
+    "why gains or losses occur",
+    "customer lifecycle",
+    "customer impact",
+    "lives interrupted",
+    "lives improved",
+    "growth through customer outcomes",
+    "business transformation"
+  ],
+  "video": "fO7rbrV1TcE.youtube"
+}

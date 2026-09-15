@@ -1,0 +1,85 @@
+{
+  "analysis_created_at": "2026-09-14T22:48:43.229927+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 19, 2013",
+    "iso": "2013-03-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.72,
+      "technique": "Belief-driven decision-making",
+      "timestamp": "00:00:15"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Make belief a competency across the organization",
+      "timestamp": "00:00:25"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Suspend cynicism to guide outcomes",
+      "timestamp": "00:00:31"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Trust-based messaging to customers and service partners",
+      "timestamp": "00:00:20"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Belief as a driver of loyalty and growth",
+      "timestamp": "00:00:44"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "8e91fed7-bb34-5daa-b627-efccc74180f8",
+    "spec_sha256": "d057c07639faa652b12501c0dc450d382a4f90cdb3e0377f9e2e970abbf1cf17",
+    "timing": {
+      "analysis_ms": 26256,
+      "dependency_resolution_ms": 30,
+      "handler_ms": 27199,
+      "input_fetch_ms": 763
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 13215,
+      "digest": "2a8fcab59d186167d36fe6283b02caa5971c573f61d3919c51c3e14b8bed4fbb",
+      "key": "objects/sha256/2a/8fcab59d186167d36fe6283b02caa5971c573f61d3919c51c3e14b8bed4fbb",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "7c1fd2b2-547e-571a-b96e-f1d08f74f080"
+  },
+  "schema_version": 2,
+  "sections": [],
+  "summary": "In this brief message, Jeanne Bliss argues that belief is not a mere feeling but a strategic driver of business performance. By declaring belief in customers and those who serve them, companies channel decisions and actions toward trust, imagination, and growth. Bliss contends that the most successful organizations treat belief as a core competency spanning people and operations, and at critical decision points they suspend cynicism and fear to let belief guide outcomes. The result, she suggests, is enhanced loyalty from customers and employees and stronger overall business growth.",
+  "title": "Decide To Believe (Decision 1) — Belief as a Business Competency",
+  "topics": [
+    "belief as a business competency",
+    "trust in customers",
+    "trust in service providers",
+    "belief-guided decision making",
+    "suspension of cynicism at decision points",
+    "suspension of fear at decision points",
+    "operational alignment with belief",
+    "customer loyalty",
+    "employee loyalty",
+    "growth through belief",
+    "story-driven loyalty",
+    "leadership mindset"
+  ],
+  "video": "KivBKpXIfk8.youtube"
+}

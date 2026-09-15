@@ -1,0 +1,112 @@
+{
+  "analysis_created_at": "2026-09-14T21:13:13.517128+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Leverage customer advocacy as a growth engine (megaphone)",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Treat customers and employees with fairness to enable trust",
+      "timestamp": "00:00:07"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Leadership decisions aligned with personal ethics",
+      "timestamp": "00:00:11"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Eliminate rules that block customer trust and require workarounds",
+      "timestamp": "00:00:20"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "148adb46-6cf5-5db0-9675-b23a3f2c65d3",
+    "spec_sha256": "fd7991cf0c4c6057128a621e024f34e0e3716d44bbd9532dfe5d5a77a6c89439",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-687d091e6b22"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 42569,
+      "dependency_resolution_ms": 133,
+      "handler_ms": 44071,
+      "input_fetch_ms": 1141
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 11633,
+      "digest": "7f6e9af6ce78e89798de52c5be477da70bea66f413df3cc31c07dfe0c6a1c241",
+      "key": "objects/sha256/7f/6e9af6ce78e89798de52c5be477da70bea66f413df3cc31c07dfe0c6a1c241",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "3f3aa11a-f708-50a5-9d30-0f9a43843b12"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "beloved company",
+        "customer advocacy",
+        "customer-first culture",
+        "employee treatment"
+      ],
+      "description": "Defines the core idea: growth comes from customers who become your market megaphone, supported by fair treatment of customers and employees.",
+      "end": "00:00:11",
+      "start": "00:00:00",
+      "title": "Foundations of a Beloved Company"
+    },
+    {
+      "concepts": [
+        "congruent decision-making",
+        "personal ethics in business",
+        "removal of rules",
+        "trust and friction reduction"
+      ],
+      "description": "Describes a workplace where leadership decisions mirror personal life ethics and where rules are removed to prevent customer distrust and employee workarounds.",
+      "end": "00:00:32",
+      "start": "00:00:11",
+      "title": "Culture of Congruent Leadership and Rule Elimination"
+    }
+  ],
+  "summary": "In a concise 35-second talk, Jeanne Bliss outlines the core idea of a 'beloved company': growth comes from customers who become your megaphone in the marketplace, which requires treating customers well and also treating employees well. She emphasizes building an environment where leadership decisions align with how you would act in your personal life, and she argues that removing rules that hinder trust or force employees into workarounds is essential to delivering what customers expect without friction.",
+  "title": "Being a Beloved Company: Growth Through Customer Advocacy and Employee Experience",
+  "topics": [
+    "beloved company",
+    "growth via customer advocacy",
+    "customers as megaphones",
+    "customer-first treatment",
+    "employee treatment",
+    "employee experience",
+    "leadership decision-making congruence with personal life",
+    "trust-building",
+    "removing obstructive rules",
+    "eliminating workarounds",
+    "customer trust",
+    "culture and delivery alignment"
+  ],
+  "video": "8U5X0CMoD00.youtube"
+}

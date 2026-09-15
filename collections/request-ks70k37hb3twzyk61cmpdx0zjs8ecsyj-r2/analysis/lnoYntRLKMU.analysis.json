@@ -1,0 +1,148 @@
+{
+  "analysis_created_at": "2026-09-14T21:33:32.454843+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Vision-based leadership for a 'beloved' company",
+      "timestamp": "00:00:12"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Emphasis on treating customers and employees well as a decision framework",
+      "timestamp": "00:00:18"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Executive adoption and team-wide use of leadership literature",
+      "timestamp": "00:00:23"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "c3404b21-6304-5f8e-b13d-14d54883acd6",
+    "spec_sha256": "efd38ef8b4c2d2b109103e40da89f2eeebc381cd662708ac28244f6959761dfb",
+    "timing": {
+      "analysis_ms": 41675,
+      "dependency_resolution_ms": 126,
+      "handler_ms": 42614,
+      "input_fetch_ms": 689
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 13704,
+      "digest": "3e34ae638cd14be680c436e594a560ffbade63bab7cd9ebb57200c53917bd9da",
+      "key": "objects/sha256/3e/34ae638cd14be680c436e594a560ffbade63bab7cd9ebb57200c53917bd9da",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d305c546-4c71-5d48-b0cd-aad5320ae1e5"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "I Love You More Than My Dog",
+        "Five Decisions That Drive Extreme Customer Loyalty"
+      ],
+      "description": "Introduces the book and its subtitle, positioning it as a precursor to Chief Customer Officer and framing its role as a leadership guide.",
+      "end": "00:00:06",
+      "start": "00:00:02",
+      "title": "Book Context and Title"
+    },
+    {
+      "concepts": [
+        "beloved company",
+        "customer-centric goals"
+      ],
+      "description": "Outlines the book's purpose: defining the kind of company leaders want to become, with emphasis on trust and loyalty.",
+      "end": "00:00:12",
+      "start": "00:00:06",
+      "title": "What Kind of Company to Become"
+    },
+    {
+      "concepts": [
+        "beloved",
+        "customer treatment",
+        "employee treatment"
+      ],
+      "description": "Defines what it means to be a beloved company, not as idealism but through concrete approaches to how customers and employees are treated.",
+      "end": "00:00:18",
+      "start": "00:00:12",
+      "title": "Beloved Company Vision"
+    },
+    {
+      "concepts": [
+        "leadership decisions",
+        "customer treatment",
+        "employee treatment"
+      ],
+      "description": "Stresses decision-level actions that shape loyalty, linking leadership behavior to customer and employee experiences.",
+      "end": "00:00:23",
+      "start": "00:00:18",
+      "title": "Decisions that Drive Loyalty"
+    },
+    {
+      "concepts": [
+        "leadership book",
+        "box of copies",
+        "CEOs buy for teams"
+      ],
+      "description": "Notes who buys the book and how it is used within organizations to educate teams, highlighting its practical deployment.",
+      "end": "00:00:27",
+      "start": "00:00:23",
+      "title": "Audience and Usage"
+    },
+    {
+      "concepts": [
+        "we want to go here",
+        "leadership vision"
+      ],
+      "description": "Frames the book as a guide toward a specific aspirational direction for leadership and culture.",
+      "end": "00:00:31",
+      "start": "00:00:27",
+      "title": "Vision and Outcome"
+    },
+    {
+      "concepts": [
+        "leadership culture",
+        "customer loyalty"
+      ],
+      "description": "Concludes with the notion that the book serves as a leadership resource to foster loyalty and a strong organizational culture.",
+      "end": "00:00:35",
+      "start": "00:00:31",
+      "title": "Closing Takeaway"
+    }
+  ],
+  "summary": "In this concise keynote excerpt, Jeanne Bliss discusses her leadership book I Love You More Than My Dog (subtitle: Five Decisions That Drive Extreme Customer Loyalty in Good Times and Bad) as a blueprint for shaping the kind of company leaders want to create. She frames the book as a practical leadership guide rather than abstract theory, positioning it as a precursor to the Chief Customer Officer role. Bliss emphasizes building a ‘beloved’ company by guiding decisions about how to treat customers and employees, and notes that the book is widely used by leaders and CEOs as a training resource for teams to align around a shared aspirational direction.",
+  "title": "Becoming a Beloved Company: Jeanne Bliss on I Love You More Than My Dog",
+  "topics": [
+    "I Love You More Than My Dog (book)",
+    "Five Decisions That Drive Extreme Customer Loyalty",
+    "beloved company concept",
+    "customer loyalty",
+    "customer experience",
+    "employee treatment",
+    "leadership decisions",
+    "Chief Customer Officer",
+    "CEO buy-in",
+    "leadership books for teams",
+    "vision for corporate culture"
+  ],
+  "video": "lnoYntRLKMU.youtube"
+}

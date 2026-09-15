@@ -1,0 +1,226 @@
+{
+  "analysis_created_at": "2026-09-14T21:16:45.116187+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Coaching approach (vs. traditional consulting)",
+      "timestamp": "00:00:38"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Immediate, hands-on engagement with client teams",
+      "timestamp": "00:00:58"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Removing management oversight to empower action",
+      "timestamp": "00:01:24"
+    },
+    {
+      "confidence": 0.87,
+      "technique": "Building emotional bonds with customers as a strategic differentiator",
+      "timestamp": "00:01:31"
+    },
+    {
+      "confidence": 0.84,
+      "technique": "customer-centric leadership focused on improving customers’ lives",
+      "timestamp": "00:01:04"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Using storytelling and Energy to align leadership",
+      "timestamp": "00:01:47"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Positioning customer advocacy as a growth driver (irrational love as a business concept)",
+      "timestamp": "00:02:08"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript line: 'I have six Catholic Italian from Chicago.'",
+      "confidence": 0.75,
+      "name": "Chicago, IL (origin of presenter)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e95cdeb9-1c2b-518d-a217-205323965b8a",
+    "spec_sha256": "8f191bcb7df0380d94c5cb97cfcc719ceca4e8e07e2afb427c6a02ceaf1df511",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-a13eb851ac35",
+        "term-b378a025f160"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 51799,
+      "dependency_resolution_ms": 208,
+      "handler_ms": 52630,
+      "input_fetch_ms": 534
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 42042,
+      "digest": "92e71ce4a5c427bd4c8bac7dc52c47dd61f0abc57fd35dc221c16e73c9fe83e2",
+      "key": "objects/sha256/92/e71ce4a5c427bd4c8bac7dc52c47dd61f0abc57fd35dc221c16e73c9fe83e2",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "f625b902-e724-52bd-a4f8-7ec3d1fb732e"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer storytelling",
+        "employee alignment with brand narrative"
+      ],
+      "description": "Opening questions set the frame: are customers and employees telling the story the company wants told, hinting at the aspiration for customer-driven growth.",
+      "end": "00:00:09",
+      "start": "00:00:02",
+      "title": "Opening questions: storytelling by customers and employees"
+    },
+    {
+      "concepts": [
+        "executive coaching",
+        "customer-driven growth"
+      ],
+      "description": "Jean Bliss introduces herself and states her focus on coaching executives to transform the business toward earning the right to grow through customer impact.",
+      "end": "00:00:17",
+      "start": "00:00:09",
+      "title": "Presenter introduction and mission"
+    },
+    {
+      "concepts": [
+        "growth",
+        "revenue",
+        "profitability",
+        "customer referrals"
+      ],
+      "description": "Bliss links positive customer experiences to tangible business results, framing growth as a byproduct of solving customer needs and enabling advocates.",
+      "end": "00:00:32",
+      "start": "00:00:17",
+      "title": "Impact of customer experience on business outcomes"
+    },
+    {
+      "concepts": [
+        "coaching vs consulting",
+        "ownership",
+        "skin in the game"
+      ],
+      "description": "She differentiates her practice from traditional consultancies, emphasizing immediate, practical work and personal accountability rather than long, abstract engagements.",
+      "end": "00:00:58",
+      "start": "00:00:38",
+      "title": "Coaching, not consulting"
+    },
+    {
+      "concepts": [
+        "customer-centric leadership",
+        "human-centric business"
+      ],
+      "description": "Bliss highlights a commitment to improving customers' lives, tying this mission to leadership and organizational impact.",
+      "end": "00:01:04",
+      "start": "00:00:58",
+      "title": "Dedicated to improving customers’ lives"
+    },
+    {
+      "concepts": [
+        "leadership development",
+        "customer-centric metrics"
+      ],
+      "description": "The talk emphasizes leaders who grow by improving customers’ lives, connecting personal leadership to business outcomes.",
+      "end": "00:01:10",
+      "start": "00:01:04",
+      "title": "Learning and leadership focus"
+    },
+    {
+      "concepts": [
+        "trust-based culture",
+        "empowerment",
+        "removing management oversight"
+      ],
+      "description": "Bliss describes creating an organization that enables action by trusted employees and removing excessive oversight to empower initiative and customer focus.",
+      "end": "00:01:24",
+      "start": "00:01:10",
+      "title": "Building an enabling organization"
+    },
+    {
+      "concepts": [
+        "emotional customer bond",
+        "differentiation through culture"
+      ],
+      "description": "The talk highlights forming an emotional bond with customers as a distinguishing feature of a customer-centric organization.",
+      "end": "00:01:47",
+      "start": "00:01:31",
+      "title": "Emotional bonds with customers"
+    },
+    {
+      "concepts": [
+        "executive alignment",
+        "energetic leadership"
+      ],
+      "description": "She notes how her presence can rally leadership teams and shorten their learning curve toward customer-focused action.",
+      "end": "00:01:59",
+      "start": "00:01:47",
+      "title": "Leadership resonance and Energy"
+    },
+    {
+      "concepts": [
+        "personal background"
+      ],
+      "description": "A brief aside reveals the speaker’s Chicago origins, offering context for her perspective and Energy.",
+      "end": "00:01:59",
+      "start": "00:01:52",
+      "title": "Personal origin note"
+    },
+    {
+      "concepts": [
+        "customer love",
+        "irrational business behavior",
+        "the decision is yours"
+      ],
+      "description": "Bliss reframes customer love as irrational yet rewarding, framing decisions as client-centered and action-oriented for leadership.",
+      "end": "00:02:26",
+      "start": "00:02:08",
+      "title": "Irrational love and decisive action"
+    }
+  ],
+  "summary": "In this brief talk, Jeanne Bliss presents a coaching-centered approach to transforming organizations around customer experience. She argues that growth and profitability arise when leaders and employees focus on improving customers’ lives, create emotional bonds with customers, and empower staff by removing heavy management oversight. She contrasts coaching with traditional consulting—emphasizing immediate, actionable work and skin-in-the-game leadership—and describes how culture that honors customers can accelerate growth, loyalty, and advocacy. The talk blends practical stance on leadership with a vision of customer love as a strategic, if irrational-seeming, business driver.",
+  "title": "Jeanne Bliss on Coaching for Customer-Driven Growth and Customer-Centric Leadership",
+  "topics": [
+    "customer-driven growth",
+    "coaching vs consulting",
+    "customer experience impact on growth",
+    "employee empowerment",
+    "removing management oversight",
+    "trust-based organizational culture",
+    "honoring customers",
+    "emotional bond with customers",
+    "leadership alignment around customer lives",
+    "solving customer problems",
+    "acting with intent in the marketplace",
+    "customer love as business strategy",
+    "rapid learning and reducing learning curves",
+    "storytelling about customers"
+  ],
+  "video": "9J5yIPTrm-0.youtube"
+}

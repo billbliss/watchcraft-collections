@@ -1,0 +1,97 @@
+{
+  "analysis_created_at": "2026-09-14T21:13:08.426258+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Client empowerment and transition-focused coaching (preparing clients to leave and own transformation)",
+      "timestamp": "00:00:28"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "32ddda0c-3b90-5ce5-b1ba-05c040ca2c25",
+    "spec_sha256": "ceeafdcee7c692ae7316926c0e2fe08b2227c3b4fd5657283aaf6a45df46ceb8",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-2e0b047d6a10",
+        "term-ce3349a05c18"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 31504,
+      "dependency_resolution_ms": 115,
+      "handler_ms": 32414,
+      "input_fetch_ms": 580
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 16380,
+      "digest": "e0099511b470cd78235566ff0bc70f240fbb7aca5432373d61fc0377c989c187",
+      "key": "objects/sha256/e0/099511b470cd78235566ff0bc70f240fbb7aca5432373d61fc0377c989c187",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "374bf0b8-eddf-564d-a9ea-3b203c7c539c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Executive coaching",
+        "CX leadership",
+        "practitioner perspective",
+        "Direct client engagement"
+      ],
+      "description": "Bliss describes the value she offers to executive teams and CX leaders, foregrounding her hands-on, practitioner background and her direct involvement with clients.",
+      "end": "00:00:23",
+      "start": "00:00:02",
+      "title": "Coaching value and practitioner background"
+    },
+    {
+      "concepts": [
+        "Client ownership",
+        "Exit strategy in coaching",
+        "Behavioral change",
+        "Sustainable transformation"
+      ],
+      "description": "She explains a distinctive approach: prepare clients to leave, so they own the changes, alter behaviors, and drive transformation after the engagement ends.",
+      "end": "00:00:37",
+      "start": "00:00:28",
+      "title": "Client empowerment and exit-driven transformation"
+    }
+  ],
+  "summary": "In this brief clip, Jeanne Bliss articulates a practitioner-focused approach to executive CX coaching. She emphasizes hands-on, lived-experience leadership in helping chief customer officers and CX leaders, asserting that she personally engages with clients. A defining thread is her provocative commitment to end-user independence: she aims to equip clients to continue driving change after she leaves, ensuring ownership, behavioral change, and sustained transformation rather than dependency on the coach.",
+  "title": "Jeanne Bliss on Teaching You to Fish: Coaching for Client Ownership and Transformation",
+  "topics": [
+    "Chief Customer Officer (CCO)",
+    "Customer experience leadership",
+    "Executive coaching",
+    "practitioner-turned-coach",
+    "Direct client engagement",
+    "Client ownership and independence",
+    "Behavioral change in organizations",
+    "Transformation leadership",
+    "Exit strategy in coaching",
+    "Experience-based practice",
+    "Long-term value of coaching"
+  ],
+  "video": "6LmOaViVm2s.youtube"
+}

@@ -1,0 +1,211 @@
+{
+  "analysis_created_at": "2026-09-14T23:13:30.288636+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Test ride without collateral",
+      "timestamp": "00:01:44"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Demonstration of long-term customer value",
+      "timestamp": "00:02:24"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Cup-to-parenthood product development reframing",
+      "timestamp": "00:03:28"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Anecdotal evidence of personal customer relationships (shoe merchant)",
+      "timestamp": "00:04:49"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Continuity-first account handoffs (data/relationship preservation)",
+      "timestamp": "00:05:42"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Structured handoff example (Edward Jones) with shadowing",
+      "timestamp": "00:06:02"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Apology as a litmus test with actionable repair",
+      "timestamp": "00:06:55"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Grace and wisdom guiding resilience of the organization",
+      "timestamp": "00:07:43"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit in transcript: 'You go into Zane Cycles in Connecticut' [00:01:44]",
+      "confidence": 0.85,
+      "name": "Zane Cycles, Connecticut, USA"
+    },
+    {
+      "basis": "Transcript references a 'merchant I know in a small Midwestern town' and a local shoe merchant [00:04:37–00:04:49], no named place.",
+      "confidence": 0.4,
+      "name": "Midwestern town (unnamed), USA"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "5a8effa5-1102-5691-b3af-8d9125d588d7",
+    "spec_sha256": "90db71c41f9a35efba57acfae47a14eb0686fd5f1757b7f475108015b19c3ab7",
+    "timing": {
+      "analysis_ms": 80615,
+      "dependency_resolution_ms": 55,
+      "handler_ms": 82050,
+      "input_fetch_ms": 1263
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 131240,
+      "digest": "1fd72c7a9af12ee48f38c13293a2771077ed6b53ac6a7e97659ee8a43b25b019",
+      "key": "objects/sha256/1f/d72c7a9af12ee48f38c13293a2771077ed6b53ac6a7e97659ee8a43b25b019",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "77a5d5f5-0658-5b81-a7c2-33376bbad2ae"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "beloved companies",
+        "five decisions",
+        "trust and belief",
+        "clarity of purpose",
+        "being real and present",
+        "customer-first mindset"
+      ],
+      "description": "Introduction to the idea that beloved companies are defined by core decisions that shape how they relate to customers, including trust, purpose, authenticity, presence, and prioritizing the customer.",
+      "end": "00:01:12",
+      "start": "00:00:03",
+      "title": "Five Core Decisions and the Beloved Company"
+    },
+    {
+      "concepts": [
+        "be real and genuine",
+        "reduce corporate bureaucracy",
+        "empower employees"
+      ],
+      "description": "The speaker argues for removing needless rules to enable authentic relationships and to empower people to bring their best selves to work.",
+      "end": "00:02:03",
+      "start": "00:01:12",
+      "title": "Be Real, Be Present, Reduce Bureaucracy"
+    },
+    {
+      "concepts": [
+        "start with the customer",
+        "customer-centric thinking",
+        "lifetime value framing"
+      ],
+      "description": "Emphasizes beginning with who the customer is and what they need, rather than pushing a product or account-first view.",
+      "end": "00:02:56",
+      "start": "00:02:03",
+      "title": "Start with the Customer, Then the Product"
+    },
+    {
+      "concepts": [
+        "cup example",
+        "supporting parenthood",
+        "implications for product development"
+      ],
+      "description": "Contrasts an ordinary approach (selling cups) with a beloved approach (supporting parenthood), illustrating how customer context reshapes development cycles.",
+      "end": "00:04:10",
+      "start": "00:02:56",
+      "title": "From Cups to Parenthood: A Product Development Shift"
+    },
+    {
+      "concepts": [
+        "people over accounts",
+        "community impact",
+        "brand as personal trust"
+      ],
+      "description": "Uses a shoe merchant anecdote and the idea of personal recognition to illustrate lasting customer loyalty built on relationships rather than transactions.",
+      "end": "00:05:42",
+      "start": "00:04:10",
+      "title": "People, Not Accounts: Personal Relationships and Community"
+    },
+    {
+      "concepts": [
+        "account continuity",
+        "handoff processes",
+        "data and relationship preservation"
+      ],
+      "description": "Discusses the risk of losing customer information during changes and presents the need for smooth handoffs to keep relationships intact (prefiguring structured handoffs like Edward Jones).",
+      "end": "00:06:18",
+      "start": "00:05:42",
+      "title": "Continuity and Handoff: Protecting the Relationship"
+    },
+    {
+      "concepts": [
+        "humane apologies",
+        "operational repair",
+        "avoiding hollow apologies"
+      ],
+      "description": "Argues that true accountability is shown through sincere, actionable apologies rather than hollow letters, with a relatable family analogy.",
+      "end": "00:07:38",
+      "start": "00:06:18",
+      "title": "Apology as a Humility Litmus Test"
+    },
+    {
+      "concepts": [
+        "grace and wisdom in tough times",
+        "customer-centered decisions",
+        "personal responsibility"
+      ],
+      "description": "Concludes with a moral imperative to choose values that honor customers and reinforce the organization’s lasting impact on their lives.",
+      "end": "00:08:25",
+      "start": "00:07:38",
+      "title": "Final Call to Action: Decide Who You Are"
+    }
+  ],
+  "summary": "The speaker outlines how “beloved” companies differ from ordinary ones by adopting six guiding principles—trusting customers, pursuing a clear higher purpose, being real and present, starting with the customer rather than the product, and apologizing with accountability. Through concrete examples (Zane Cycles’ test ride policy; a shoe merchant’s community impact; Edward Jones’ advisor handoff), the talk links these behaviors to lasting customer relationships, culture, and measurable lifetime value. It contrasts product-centric thinking with experiential, human-centered design, and ends with a call to action: decide who you are and what you value in customer interactions.",
+  "title": "Beloved Companies: Five Core Decisions and Customer-Centric Practice",
+  "topics": [
+    "beloved companies",
+    "five core decisions",
+    "trust customers / belief",
+    "bureaucracy reduction",
+    "clarity of higher purpose",
+    "be real and genuine",
+    "be there for customers",
+    "start with the customer, not the product",
+    "apology and accountability",
+    "customers as assets, not costs",
+    "customer lifetime value (approximately $12,500 per relationship)",
+    "culture and employee empowerment",
+    "product development oriented to customers",
+    "cup vs. parenthood example",
+    "cup product development centered on families",
+    "careful handoffs to preserve relationships",
+    "account continuity vs data loss",
+    "test drives without collateral",
+    "anecdotes of personal customer relationships (shoe merchant)",
+    "humane litmus tests for service"
+  ],
+  "video": "v_g_c2fRhik.youtube"
+}

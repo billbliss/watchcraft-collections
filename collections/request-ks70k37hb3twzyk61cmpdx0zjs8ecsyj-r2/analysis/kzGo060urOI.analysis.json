@@ -1,0 +1,160 @@
+{
+  "analysis_created_at": "2026-09-14T22:00:38.807095+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.6,
+      "technique": "Brand storytelling through customer perception",
+      "timestamp": "00:01:02"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Decision-based leadership in HR and operations for branding",
+      "timestamp": "00:00:42"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Using customer love as a market signal",
+      "timestamp": "00:00:20"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "2ff5890d-5575-5333-92b2-38a4ce5548ea",
+    "spec_sha256": "e644102f3a9aa7c43bebe46388c7783404217b97d65816203454a4172b2e485c",
+    "timing": {
+      "analysis_ms": 51556,
+      "dependency_resolution_ms": 254,
+      "handler_ms": 52656,
+      "input_fetch_ms": 710
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 18157,
+      "digest": "ea91f4301fe42d41d644f8ee717fd5d88ec99719a115d488df2a956a02a4519b",
+      "key": "objects/sha256/ea/91f4301fe42d41d644f8ee717fd5d88ec99719a115d488df2a956a02a4519b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "207426b0-d1c5-58d4-b787-5a435b2ea6c2"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer storytelling",
+        "brand narrative"
+      ],
+      "description": "The speaker frames the talk around whether customers are telling a story about the brand that aligns with the company’s intended narrative.",
+      "end": "00:00:07",
+      "start": "00:00:00",
+      "title": "Opening question: Are customers telling your story?"
+    },
+    {
+      "concepts": [
+        "market perception",
+        "brand storytelling"
+      ],
+      "description": "A direct prompt about whether public perception matches the desired brand story.",
+      "end": "00:00:14",
+      "start": "00:00:07",
+      "title": "Are they telling the story you want?"
+    },
+    {
+      "concepts": [
+        "irrational love",
+        "customer loyalty"
+      ],
+      "description": "The speaker asserts that customer love is irrational, setting up the idea that loyalty can be driven by non-rational factors.",
+      "end": "00:00:20",
+      "start": "00:00:14",
+      "title": "Love is irrational"
+    },
+    {
+      "concepts": [
+        "customer love",
+        "brand strength"
+      ],
+      "description": "Beloved companies gain disproportionate market share because their decisions aren’t constantly under review.",
+      "end": "00:00:27",
+      "start": "00:00:20",
+      "title": "Irrational love rewards brands"
+    },
+    {
+      "concepts": [
+        "decision-making",
+        "brand signaling"
+      ],
+      "description": "A call to action to choose and decide with every decision in the business.",
+      "end": "00:00:42",
+      "start": "00:00:38",
+      "title": "Make a choice; decide"
+    },
+    {
+      "concepts": [
+        "hiring",
+        "audits",
+        "training",
+        "customer experience"
+      ],
+      "description": "With every hiring decision, audit, training, greeting, and farewell, determine how you want to show up and what story you want told.",
+      "end": "00:00:54",
+      "start": "00:00:42",
+      "title": "Align actions with the story"
+    },
+    {
+      "concepts": [
+        "values",
+        "marketplace narrative"
+      ],
+      "description": "The speaker emphasizes aligning public storytelling and internal culture with the company’s values.",
+      "end": "00:01:02",
+      "start": "00:00:54",
+      "title": "Your story and values in the marketplace"
+    },
+    {
+      "concepts": [
+        "agency",
+        "brand stewardship"
+      ],
+      "description": "Closing reminder that the responsibility for the brand’s story rests with the leader and their choices.",
+      "end": "00:01:08",
+      "start": "00:01:02",
+      "title": "The decision is yours"
+    }
+  ],
+  "summary": "In this concise talk, Jeanne Bliss links brand narrative to the stories customers tell about a company, arguing that customer love—though irrational—is a powerful reward for authentic, consistent behavior. She suggests that beloved brands capture a larger share precisely because leaders aren’t constantly scrutinizing every decision, and she issues a call to action: with every hiring choice, audit, training investment, and every customer-facing moment, decide how you want to show up and what story your organization is amplifying in the marketplace. The central message is that the responsibility for shaping the brand's story rests with leaders who deliberately align daily actions with the values they want customers and employees to perceive.",
+  "title": "Are Customers Telling Your Story? — Crafting Brand Narrative Through Customer Experience",
+  "topics": [
+    "customer storytelling",
+    "brand narrative",
+    "customer love",
+    "irrational business behavior",
+    "brand equity",
+    "decision making",
+    "hiring decisions as brand signals",
+    "audits and training alignment",
+    "customer experience",
+    "employer-employee branding",
+    "marketplace perception",
+    "values communication",
+    "brand stewardship",
+    "leadership responsibility"
+  ],
+  "video": "kzGo060urOI.youtube"
+}

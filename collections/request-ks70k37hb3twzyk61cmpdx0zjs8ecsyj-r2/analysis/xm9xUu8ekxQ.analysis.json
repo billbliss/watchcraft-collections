@@ -1,0 +1,127 @@
+{
+  "analysis_created_at": "2026-09-15T03:18:12.525832+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 1, 2010",
+    "iso": "2010-11-01",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Cross-site search to fulfill out-of-stock requests (agent-empowered stock locating)",
+      "timestamp": "00:02:01"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Deliver wow through service as a core value",
+      "timestamp": "00:02:52"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Quantifying service cost and branding ROI (five-to-six minute talks per call)",
+      "timestamp": "00:03:27"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Balance of long-term customer relationships over single sales",
+      "timestamp": "00:01:51"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "9f7b2675-95c2-50a9-9d82-78597f0d0b24",
+    "spec_sha256": "f5d573596332cbb7b875f52fb28615c5bd6ceccbee8a6d5996d65a2055c5fc67",
+    "timing": {
+      "analysis_ms": 40804,
+      "dependency_resolution_ms": 41,
+      "handler_ms": 41878,
+      "input_fetch_ms": 904
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 83023,
+      "digest": "7dc8acfc2ce26f2173fc40f2aa5186f8395ee5c395a0341b3355db77398f759a",
+      "key": "objects/sha256/7d/c8acfc2ce26f2173fc40f2aa5186f8395ee5c395a0341b3355db77398f759a",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "8b002ebc-cec5-50d6-b2da-d64447dba39d"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Beloved companies",
+        "secret sauce behind success",
+        "growth during downturn (2008-2009)"
+      ],
+      "description": "Introduction to the book I Love You More Than My Dog and its focus on identifying beloved companies and uncovering the inner workings behind their success, with emphasis on how Zappos sustained growth during challenging years.",
+      "end": "00:01:03",
+      "start": "00:00:02",
+      "title": "Intro and book context"
+    },
+    {
+      "concepts": [
+        "Miracle on 34th Street analogy",
+        "stock availability",
+        "cross-site search by customer service"
+      ],
+      "description": "Discussion of empowering customer loyalty reps to locate shoes not in stock by searching across multiple websites and guiding customers to where they can find the product.",
+      "end": "00:02:20",
+      "start": "00:01:34",
+      "title": "Miracle on 34th Street analogy and stock search"
+    },
+    {
+      "concepts": [
+        "Deliver wow through service",
+        "core value",
+        "cost of delivering wow",
+        "average talk time"
+      ],
+      "description": "Statement of Zappos’ core value to deliver a wow experience through service, and the argument that while going the extra mile has some incremental cost, it yields substantial branding value due to customer attention and referrals.",
+      "end": "00:03:30",
+      "start": "00:02:52",
+      "title": "Deliver wow through service and cost-benefit"
+    },
+    {
+      "concepts": [
+        "branding impact of service",
+        "customer advocacy",
+        "per-call cost vs. branding value"
+      ],
+      "description": "Close framing that the branding and advocacy created by great service can outweigh the modest per-call costs, highlighting the strategic value of experience over immediate revenue.",
+      "end": "00:03:41",
+      "start": "00:03:30",
+      "title": "Brand ROI of exceptional service"
+    }
+  ],
+  "summary": "In this interview excerpt, Alfred Lin of Zappos discusses the company's enduring focus on exceptional customer service as a growth engine. The conversation covers enabling front-line reps to locate out-of-stock shoes across multiple sites (a proactive, customer-first approach), the company’s core value of delivering 'wow through service,' and the belief that long-term customer relationships trump individual sales. The dialogue also frames the cost of great service in branding terms, noting an average call length of five to six minutes and arguing that the branding value of a positive customer experience outweighs the incremental costs. The exchange references the Miracle on 34th Street analogy to illustrate proactive service and cites downturn-era resilience in 2008–2009 as part of Zappos’ sustained growth.",
+  "title": "Zappos: Delivering WOW Through Service and Long-Term Customer Relationships",
+  "topics": [
+    "Zappos customer service philosophy",
+    "Deliver wow through service",
+    "Long-term customer relationships vs single sale",
+    "Out-of-stock item fulfillment across websites",
+    "Cross-site product search and sourcing",
+    "Informing customers where to find products when unavailable",
+    "Average talk time (5-6 minutes)",
+    "Per-call cost versus branding value",
+    "Brand advocacy from excellent service",
+    "Macy's Miracle on 34th Street analogy",
+    "Book context: I Love You More Than My Dog",
+    "Economic resilience during 2008-2009 downturn",
+    "Service as a differentiator in growth"
+  ],
+  "video": "xm9xUu8ekxQ.youtube"
+}

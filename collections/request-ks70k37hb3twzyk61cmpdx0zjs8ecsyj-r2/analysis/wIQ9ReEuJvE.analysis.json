@@ -1,0 +1,104 @@
+{
+  "analysis_created_at": "2026-09-15T03:02:05.738730+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 9, 2010",
+    "iso": "2010-11-09",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Assortment pruning (annual product cuts to focus on core offerings)",
+      "timestamp": "00:00:26"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Deliberate actions to create a magnetic customer experience",
+      "timestamp": "00:00:31"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Achieving break-even in new stores within ~3 months",
+      "timestamp": "00:00:37"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "High customer engagement through purposeful store/product experience",
+      "timestamp": "00:00:44"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Knowing and serving customers' lives to sustain service",
+      "timestamp": "00:00:58"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Personal, direct customer interaction in business relationships",
+      "timestamp": "00:01:04"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "1094dabe-1fe6-5755-859d-c0b2c97fc104",
+    "spec_sha256": "36b2b4aa2a53bcf5fde12e86772bae20b161bc2faf8ec249d14b78c2cbddfb29",
+    "timing": {
+      "analysis_ms": 36253,
+      "dependency_resolution_ms": 127,
+      "handler_ms": 37134,
+      "input_fetch_ms": 648
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 24094,
+      "digest": "b898a4b7a5d5957e46f8c7cdf24c51264ad51bab58b718ab3669d0f96013a89d",
+      "key": "objects/sha256/b8/98a4b7a5d5957e46f8c7cdf24c51264ad51bab58b718ab3669d0f96013a89d",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "a54d0d62-419c-54a9-b3d6-71c29d7011aa"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "annual product pruning",
+        "deliberate actions to create a magnetic experience",
+        "rapid profitability in new stores",
+        "high frequency of store visits",
+        "customer-life-centered service",
+        "personal customer interactions"
+      ],
+      "description": "This section grounds Bliss's message in Zara as the illustrated example. It references an annual 'mafia meeting' where a large number of products are cut despite customer affinity, framing pruning as a deliberate strategic move. It notes Zara’s ability to break even in a new store within roughly three months, and highlights the high level of customer engagement (average 17 store visits per year) driven by deliberate actions that shape a continuous product and service experience. The paragraph concludes with a emphasis on knowing customers’ lives to serve them, and the importance of direct, personal engagement in business.",
+      "end": "00:01:08",
+      "start": "00:00:03",
+      "title": "Zara case study: assortment pruning and customer experience"
+    }
+  ],
+  "summary": "In this excerpt from Jeanne Bliss’s talk, Zara is presented as a concrete example of how beloved, prosperous companies sustain magnetic momentum through deliberate business actions. The speaker notes that top brands prune their product lines aggressively (even cutting a hundred products annually) to focus on what customers truly love, while still creating a compelling offer. Zara is highlighted for its ability to break even in a new store within about three months, and for driving high customer touchpoints—visits averaging 17 per year—through a deliberate store and product experience. The overall message emphasizes knowing customers’ lives to serve them effectively, maintaining a continuous, lifecycle-aware product and service experience, and engaging with customers personally in business relationships.",
+  "title": "Zara as a Case Study in Jeanne Bliss's Talk on Beloved and Prosperous Companies",
+  "topics": [
+    "annual product pruning",
+    "assortment management",
+    "magnetic customer experience",
+    "deliberate business actions",
+    "rapid store profitability",
+    "Zara as a case study",
+    "customer engagement frequency",
+    "continuous product experience",
+    "knowing customers' lives",
+    "personal customer interaction",
+    "front-line customer relationships"
+  ],
+  "video": "wIQ9ReEuJvE.youtube"
+}

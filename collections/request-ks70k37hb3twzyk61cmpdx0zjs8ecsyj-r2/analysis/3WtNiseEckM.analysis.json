@@ -1,0 +1,100 @@
+{
+  "analysis_created_at": "2026-09-15T03:04:55.103460+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 8, 2010",
+    "iso": "2010-11-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Brand storytelling through customer experiences",
+      "timestamp": "00:00:03.100"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Leverage online reviews and social proof",
+      "timestamp": "00:00:24.660"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Earn the right to the customer's story",
+      "timestamp": "00:00:41.440"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Rely on peer influence in decision making",
+      "timestamp": "00:01:01.020"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Memorable experiences drive loyalty",
+      "timestamp": "00:01:08.340"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "087571da-6ca6-5e8c-8a13-e90b9973e714",
+    "spec_sha256": "926da1f03d903b8c213b0b0e12a9acf8ad9c646789719e254d98e54e2869fa1d",
+    "timing": {
+      "analysis_ms": 32659,
+      "dependency_resolution_ms": 56,
+      "handler_ms": 33430,
+      "input_fetch_ms": 633
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 20148,
+      "digest": "7c0d693e15380724b60d7cd17514921900dc4f5648b9c42905fbd53f64bbbdab",
+      "key": "objects/sha256/7c/0d693e15380724b60d7cd17514921900dc4f5648b9c42905fbd53f64bbbdab",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "0388cdd8-2472-5f7e-a734-f477a8da98d0"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "brand storytelling",
+        "customer experience",
+        "online reviews",
+        "social proof",
+        "peer influence",
+        "memorable experiences"
+      ],
+      "description": "Overview of how an organization’s collective decisions craft the customer and market story, the role of online reviews and social conversations, and the imperative to earn customers’ loyalty by delivering memorable experiences.",
+      "end": "00:01:20.820",
+      "start": "00:00:03.100",
+      "title": "Earning the Right to Customer Loyalty"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that in business, the collective decisions of an organization tell a story about who we are and what we value for customers, employees, and the marketplace. In the age of the internet and social media, that story shows up in online reviews and conversations on sites like TripAdvisor and Yelp. Loyal customers champion brands, but a company must first earn the right to tell their story by delivering experiences that are memorable and worthy of sharing. With only a portion of a brand’s marketing message owned directly by the company, the vast majority of influence comes from peers whose opinions shape buying decisions; therefore focusing on how customers are treated and ensuring memorable experiences is central to earning loyalty.",
+  "title": "Earning the Right to Customer Loyalty",
+  "topics": [
+    "customer loyalty",
+    "brand storytelling",
+    "online reviews",
+    "social media influence",
+    "customer experience",
+    "memorable experience",
+    "peer-to-peer influence",
+    "word-of-mouth marketing",
+    "online reputation",
+    "marketing message composition",
+    "stories of how customers were treated",
+    "collective organizational decisions"
+  ],
+  "video": "3WtNiseEckM.youtube"
+}

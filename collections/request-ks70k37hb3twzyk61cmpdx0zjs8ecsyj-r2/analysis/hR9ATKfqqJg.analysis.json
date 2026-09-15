@@ -1,0 +1,125 @@
+{
+  "analysis_created_at": "2026-09-15T03:16:46.267106+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 2, 2010",
+    "iso": "2010-11-02",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Internal social media adoption at scale to strengthen employee cohesion",
+      "timestamp": "00:01:02.620"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Authentic, non-promotional daily-life sharing to build customer connection",
+      "timestamp": "00:02:10.440"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Leveraging customer feedback to reinforce the perception of knowing staff",
+      "timestamp": "00:01:39.600"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Maintaining a human-centric social media narrative",
+      "timestamp": "00:02:03.440"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript reference: 'Tony went to South by Southwest and they used Twitter to communicate.'",
+      "confidence": 0.8,
+      "name": "South by Southwest (SXSW)"
+    },
+    {
+      "basis": "Transcript reference: 'I was at the U2 concert during the weekend.'",
+      "confidence": 0.75,
+      "name": "U2 concert"
+    },
+    {
+      "basis": "Transcript reference: 'I could be at a restaurant and another one of our employees... could be, you know, at a restaurant across the street.'",
+      "confidence": 0.5,
+      "name": "Restaurant"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "d2ca9154-4159-515e-a10f-34e9bb24c32d",
+    "spec_sha256": "f3935d5980c3bd396f2e382202c1029545274bbc5922585345d8bbdf01918939",
+    "timing": {
+      "analysis_ms": 52563,
+      "dependency_resolution_ms": 138,
+      "handler_ms": 53412,
+      "input_fetch_ms": 631
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 51563,
+      "digest": "9d1ea9d24f4efd2e1440328bc03319921e70270c1afb554bc283a922172f647e",
+      "key": "objects/sha256/9d/1ea9d24f4efd2e1440328bc03319921e70270c1afb554bc283a922172f647e",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "5f3788f3-8f63-5aea-a18c-bbb9c93ba13e"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "initial exposure to Twitter",
+        "early followers (Tony about 1.4M; Lin about 10–11k)",
+        "500 employees using Twitter at Zappos",
+        "goals: tighter internal bonds and serendipity"
+      ],
+      "description": "Alfred Lin recounts how Tony Hsieh was encouraged to try Twitter, starting with a small circle, expanding to 500 employees, with the aim of strengthening internal connections and enabling serendipitous encounters across the organization.",
+      "end": "00:01:02.620",
+      "start": "00:00:03.000",
+      "title": "Origins and internal adoption of Twitter at Zappos"
+    },
+    {
+      "concepts": [
+        "customers feel they know the people behind the brand",
+        "tweets are often non-promotional",
+        "sharing daily experiences (e.g., weekend events) to humanize the company",
+        "open, human-centered communication as a brand value"
+      ],
+      "description": "As the Twitter network grows, customers report feeling a personal connection to staff, driven by authentic, everyday updates rather than promotions. Tweets include sharing personal experiences (such as attending events) to create a sense of openness and humanity in the brand.",
+      "end": "00:02:34.680",
+      "start": "00:01:02.620",
+      "title": "From internal adoption to customer perception and authenticity"
+    }
+  ],
+  "summary": "The interview excerpt presents how Zappos integrated Twitter into its culture and customer relationship practices. Alfred Lin describes a bottom-up adoption that began with Tony Hsieh's suggestion, expanded to hundreds of employees, and aimed to strengthen internal bonds and enable serendipitous encounters across locations. The discussion emphasizes that many tweets are authentic daily-life updates rather than promotional messages, contributing to customers feeling personally connected to the people behind the brand. The core lesson is that social media can humanize commerce when used to foster real human interaction among employees and with customers, rather than as a pure marketing tool.",
+  "title": "Zappos Twitter Adoption: Culture, Serendipity, and Customer Connection",
+  "topics": [
+    "Twitter adoption",
+    "Zappos internal social media",
+    "employee engagement",
+    "serendipity",
+    "cross-location collaboration",
+    "authentic company communication",
+    "humane technology",
+    "customer perception and relationship",
+    "non-promotional content",
+    "daily-life sharing",
+    "open communication",
+    "brand humanity",
+    "SXSW",
+    "U2 concert",
+    "followers and reach",
+    "customer loyalty through transparency"
+  ],
+  "video": "hR9ATKfqqJg.youtube"
+}

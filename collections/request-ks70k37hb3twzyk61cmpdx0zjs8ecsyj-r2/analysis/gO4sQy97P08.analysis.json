@@ -1,0 +1,143 @@
+{
+  "analysis_created_at": "2026-09-14T23:18:32.428280+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 10, 2010",
+    "iso": "2010-11-10",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Proactive Customer Service Recovery Team (Southwest MOM framework)",
+      "timestamp": "01:52"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Personalized letters to customers after incidents",
+      "timestamp": "02:04"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "love buck gesture (L-U-V) to customers",
+      "timestamp": "02:18"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Frontline empowerment to decide from heart and gut (Land’s End / L.L. Bean reference)",
+      "timestamp": "03:57"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Philosophy: 'Sorry is the last decision' and starting with belief",
+      "timestamp": "04:04"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e2347c4b-e0f6-5b51-a8a7-40e04e87940a",
+    "spec_sha256": "9f3d22dd84cc6960951fc999cea6f5698945cbf6c612ec0f26bd0652f99dc909",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-5001e21a53b9"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 55576,
+      "dependency_resolution_ms": 48,
+      "handler_ms": 56431,
+      "input_fetch_ms": 689
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 83549,
+      "digest": "5db404adf8d33c4e490adcca015323532258f46d3ec0e9f8d1d8a2a711620b20",
+      "key": "objects/sha256/5d/b404adf8d33c4e490adcca015323532258f46d3ec0e9f8d1d8a2a711620b20",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "b32f1cb9-80e5-5574-a1f7-997b86d2993c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "humility",
+        "remorse",
+        "organized and deliberate process",
+        "repairing the emotional connection"
+      ],
+      "description": "Intro establishes apology as a humanity-driven test and frames four behaviors (humility, remorse, organized process, repair of emotional connection) as essential to addressing customer pain and preserving trust when mistakes occur.",
+      "end": "00:01:32",
+      "start": "00:00:02",
+      "title": "Apology as a Peace Process and Core Behaviors"
+    },
+    {
+      "concepts": [
+        "MOM meeting",
+        "Proactive Customer Service Recovery Team",
+        "Chief Forgiveness Officer",
+        "personalized customer letters",
+        "love buck gesture",
+        "revenue impact metrics"
+      ],
+      "description": "Describes a proactive framework for customer recovery: a dedicated meeting (MOM) at Southwest Airlines, a Proactive Customer Service Recovery Team, and a leader nicknamed Chief Forgiveness Officer; outlines actions such as crafting personalized letters and sending Love Bucks, with emphasis on balancing cost against customer loyalty and measurable revenue impact (2009 net increase of about $1.7M; 70% of recipients returning). It also notes the IT-style recovery discipline and five-item action concept mentioned in passing.",
+      "end": "00:02:52",
+      "start": "00:01:32",
+      "title": "Proactive Recovery Systems and Real-World Examples"
+    },
+    {
+      "concepts": [
+        "frontline decision rights",
+        "Land’s End example (mistakes and phone handling)",
+        "L.L. Bean empowerment",
+        "start with believing",
+        "sorry as last decision",
+        "operationally deliberate to identify breakdowns"
+      ],
+      "description": "Expands on empowering frontline staff to act from heart and gut, with references to Land’s End and L.L. Bean. Emphasizes belief in employees, higher purpose, authenticity, and the need for clear operational governance to identify and fix service breakdowns; culminates in the principle that apology should be the last resort after ensuring the right structure and beliefs are in place.",
+      "end": "00:04:43",
+      "start": "00:02:52",
+      "title": "Frontline Empowerment and Belief in People"
+    }
+  ],
+  "summary": "Jeanne Bliss frames a customer apology as a humane, proactive process that repairs the emotional bond with customers when something goes wrong. The talk emphasizes four behaviors—humility, remorse, an organized and deliberate recovery process, and an explicit effort to repair the connection—arguing that these actions reveal a company’s true character under pressure. She contrasts IT-style recovery playbooks with customer life disruption, highlighting a Southwest Airlines example (the MOM meeting and a Proactive Customer Service Recovery Team led by a figure described as the Chief Forgiveness Officer) and the practice of writing personalized letters and sending gestures like Love Bucks to customers. The discussion also foregrounds frontline empowerment (as at Land’s End and L.L. Bean), the need to believe in employees, and the principle that apology should be the last resort after clear parameters. With concrete outcomes cited (70% of recipients returning customers and a 2009 net revenue impact of about $1.7 million for the program, within a company with about $1.5 billion in annual sales), Bliss argues that genuine, well-executed apologies can be both ethically sound and financially beneficial. The closing questions challenge organizations to assess whether their apologies restore confidence and stand as their finest hour.",
+  "title": "Apology as a Peace Process: Proactive Recovery and Frontline Empowerment",
+  "topics": [
+    "apology as humanity litmus test",
+    "acknowledging mistakes",
+    "humility in customer service",
+    "remorse as part of apology",
+    "organized and deliberate apology process",
+    "repairing emotional connection",
+    "proactive customer recovery systems",
+    "IT reaction vs. customer disruption",
+    "five action items in IT recovery (referenced)",
+    "Southwest Airlines MOM meeting (Morning Overview)",
+    "Proactive Customer Service Recovery Team",
+    "Chief Forgiveness Officer (Fred Taylor referenced)",
+    "personalized letters to customers after incidents",
+    "love buck gesture to customers",
+    "revenue impact: 1.7 million net increase in 2009",
+    "70% of recipients return as customers",
+    "congruence of heart and habit",
+    "frontline empowerment (Land’s End, LL Bean)",
+    "belief in employees and higher purpose",
+    "start with believing; parameters vs belief",
+    "apology as last decision",
+    "be real and human; operationally deliberate"
+  ],
+  "video": "gO4sQy97P08.youtube"
+}

@@ -1,0 +1,179 @@
+{
+  "analysis_created_at": "2026-09-14T22:04:10.869921+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Frontline empowerment and autonomous decision-making",
+      "timestamp": "00:00:00.000"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Belief-led leadership and trust in employees",
+      "timestamp": "00:00:11.100"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Apology as last-resort, for emotional repair",
+      "timestamp": "00:00:15.320"
+    },
+    {
+      "confidence": 0.68,
+      "technique": "Aligning service with higher purpose",
+      "timestamp": "00:00:22.740"
+    },
+    {
+      "confidence": 0.71,
+      "technique": "Operationally deliberate to identify breakdowns",
+      "timestamp": "00:00:25.620"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Emotionally repair customer relationships via apology",
+      "timestamp": "00:00:31.000"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Use business outcomes as evidence of a customer-centric approach",
+      "timestamp": "00:00:35.820"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "7b73bc9b-d73d-5912-8a68-c49fe7c69fbc",
+    "spec_sha256": "1ea478f0ddb161f1ea8724cc75a60647801c7c29200c4cd2e85c8d6899407ebb",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-1cd919e1b0b6",
+        "term-b0694c7b17c5"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 66988,
+      "dependency_resolution_ms": 112,
+      "handler_ms": 68677,
+      "input_fetch_ms": 1455
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 14698,
+      "digest": "05bd4533df923be5e842450ad64ef29900d0cb97301b65ce45d87e2049601cdf",
+      "key": "objects/sha256/05/bd4533df923be5e842450ad64ef29900d0cb97301b65ce45d87e2049601cdf",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "deff9a7e-a6af-53f4-8395-1f1aa093309c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Frontline autonomy",
+        "Decision-making from heart/gut",
+        "Authority to act in customer interactions"
+      ],
+      "description": "Our friends at L.L. Bean have the same process around giving the front line the ability to work from their heart and their gut and make the decisions that they know are right.",
+      "end": "00:00:11.100",
+      "start": "00:00:00.000",
+      "title": "Frontline empowerment: heart and gut decisions"
+    },
+    {
+      "concepts": [
+        "Belief in employees"
+      ],
+      "description": "Now I know you need to put some parameters around that, but start with believing.",
+      "end": "00:00:15.320",
+      "start": "00:00:11.100",
+      "title": "Begin with believing"
+    },
+    {
+      "concepts": [
+        "Apology as last resort"
+      ],
+      "description": "There's a reason why sorry is the last decision in the chapter of this book.",
+      "end": "00:00:19.360",
+      "start": "00:00:15.320",
+      "title": "Apology as last decision"
+    },
+    {
+      "concepts": [
+        "Trust in staff"
+      ],
+      "description": "It's that you need to believe your people.",
+      "end": "00:00:22.740",
+      "start": "00:00:19.360",
+      "title": "Believe your people"
+    },
+    {
+      "concepts": [
+        "higher purpose",
+        "customer-centric purpose"
+      ],
+      "description": "You need to be clear about the higher purpose you have with customers.",
+      "end": "00:00:25.620",
+      "start": "00:00:22.740",
+      "title": "higher purpose in customer care"
+    },
+    {
+      "concepts": [
+        "Real and human interactions",
+        "Operationally deliberate to identify breakdowns"
+      ],
+      "description": "You need to be real and human. You need to be operationally deliberate to know where the breakdowns are happening.",
+      "end": "00:00:31.000",
+      "start": "00:00:25.620",
+      "title": "Real, human, and deliberate service"
+    },
+    {
+      "concepts": [
+        "Apology as emotional repair"
+      ],
+      "description": "And that enables the best kind of sorry that repairs the emotional connection.",
+      "end": "00:00:35.820",
+      "start": "00:00:31.000",
+      "title": "Emotional repair through apologizing"
+    },
+    {
+      "concepts": [
+        "Business outcomes from customer experience",
+        "L.L. Bean revenue"
+      ],
+      "description": "As a result, they're worshipped and they just had annual sales of 1.5 billion dollars.",
+      "end": "00:00:42.000",
+      "start": "00:00:35.820",
+      "title": "Business impact: L.L. Bean example"
+    }
+  ],
+  "summary": "Jeanne Bliss presents a concise leadership approach that centers frontline empowerment: give frontline staff the authority to act from their heart and gut to make guiding decisions for customers. The talk emphasizes starting with belief in people, aligning actions with a clear higher purpose for customers, and maintaining real, human interactions while being operationally deliberate to identify where service breakdowns occur. The speaker argues that apologies should be the last resort, used to repair the emotional connection once the underlying issues are understood. The message is supported by a brief business example referencing L.L. Bean's performance, illustrating how customer-centric frontline behavior can correlate with strong company results, such as substantial annual sales (about 1.5 billion).",
+  "title": "Can Your Frontline Rescue Customers?",
+  "topics": [
+    "Frontline empowerment",
+    "Decision-making autonomy",
+    "Belief in employees",
+    "higher purpose in customer service",
+    "Real and human interactions",
+    "Operationally deliberate to identify breakdowns",
+    "Apology as last resort",
+    "Emotional connection repair",
+    "Customer-centric business outcomes",
+    "Case study: L.L. Bean"
+  ],
+  "video": "xojAXpXyeXM.youtube"
+}

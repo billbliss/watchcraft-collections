@@ -1,0 +1,88 @@
+{
+  "analysis_created_at": "2026-09-14T22:47:25.591676+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 19, 2013",
+    "iso": "2013-03-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Clarity of purpose as a decision filter",
+      "timestamp": "00:00:04.980"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Ironclad integrity and clarity guiding decisions",
+      "timestamp": "00:00:21.580"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Yes-button criterion at forks in the road",
+      "timestamp": "00:00:30.000"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Operational unity around brand promise and stories",
+      "timestamp": "00:00:38.720"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "56a8995f-e154-5397-a283-d299c9c10a84",
+    "spec_sha256": "0b9838f19421f8fd6f561558b87d09a08d98169a72c0b5276b60416a05b5da6c",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-30433c2ee66f",
+        "term-3e9d657aa6f3"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 39729,
+      "dependency_resolution_ms": 86,
+      "handler_ms": 40472,
+      "input_fetch_ms": 591
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 11910,
+      "digest": "b514bc1b148f7604ccd9ed31cf07df059d82427c6fb80c356bdf8a54003a5002",
+      "key": "objects/sha256/b5/14bc1b148f7604ccd9ed31cf07df059d82427c6fb80c356bdf8a54003a5002",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "788ba342-c38f-5010-b6d5-6bbc5f1b699b"
+  },
+  "schema_version": 2,
+  "sections": [],
+  "summary": "Jeanne Bliss argues that beloved companies differentiate themselves by a clear, unique promise to customers. When decisions are made, they are aligned to that purpose, elevating work from merely executing tasks to delivering memorable experiences that customers will want to repeat. These experiences are reinforced by ironclad integrity and clarity that guide every decision, especially at forks in the road where the yes button is revealed. In operations, such clarity unites the organization around the customer story and the employee story, driving extreme loyalty and business growth.",
+  "title": "Decide with Clarity of Purpose: Align Decisions to Your Brand Promise",
+  "topics": [
+    "Brand promise to customers",
+    "Clarity of purpose in decision-making",
+    "Decision-making aligned to purpose",
+    "Delivering customer experiences",
+    "Repeatable customer experiences",
+    "Integrity and clarity as decision guides",
+    "Yes button decision criterion",
+    "Operational alignment around clarity",
+    "customer story",
+    "Employee story",
+    "Customer loyalty",
+    "business growth"
+  ],
+  "video": "JyTZM1q-KIw.youtube"
+}

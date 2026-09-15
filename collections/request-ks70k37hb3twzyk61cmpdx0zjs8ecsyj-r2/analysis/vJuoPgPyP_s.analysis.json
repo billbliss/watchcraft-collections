@@ -1,0 +1,119 @@
+{
+  "analysis_created_at": "2026-09-14T22:32:06.163274+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Establish bookend customer experiences",
+      "timestamp": "00:00:13"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Hire memory makers and assess memory-creating ability via storytelling",
+      "timestamp": "00:01:00"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Cruise director / navigator guiding through complexity to create memory and peace of mind",
+      "timestamp": "00:01:22"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "b1c57a15-c899-5eb9-b837-abd3493a97cd",
+    "spec_sha256": "d098ffedbf34c67dfe6c817670858e3ba16e82b257732af083d926aad817efd4",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-05c80a12769a",
+        "term-1fa1a5601282",
+        "term-7826ccd2fc27",
+        "term-87ee52225cda"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 47919,
+      "dependency_resolution_ms": 259,
+      "handler_ms": 49250,
+      "input_fetch_ms": 945
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 27115,
+      "digest": "f928071a1b2249f5db79a2331e6b5e7be117f390a256ddeeeb807bc21dbbbc85",
+      "key": "objects/sha256/f9/28071a1b2249f5db79a2331e6b5e7be117f390a256ddeeeb807bc21dbbbc85",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "2b79663b-f6a9-563d-a9ef-f8a405272bc8"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "bookend experiences",
+        "involving middle management",
+        "hellos and goodbyes",
+        "rhythmic service consideration",
+        "moving away from legacy practices",
+        "personal connection"
+      ],
+      "description": "Define the start and end moments of customer interactions (hellos and goodbyes) as bookends. Engage mid-level staff to brainstorm these moments, determine which rituals belong to the experience, consider whether some elements should be delegated to a rhythmic service, and push to shed legacy industry practices in favor of a more personal connection.",
+      "end": "00:01:06",
+      "start": "00:00:13",
+      "title": "Action 1 — Establish bookend customer experiences"
+    },
+    {
+      "concepts": [
+        "memory makers in hiring",
+        "light behind the eye",
+        "storytelling in interviews",
+        "memory creation in customers’ experiences",
+        "cruise director",
+        "navigator through complexity",
+        "memory-driven peace of mind",
+        "business growth linked to peace of mind"
+      ],
+      "description": "During hires, seek candidates who can create memory and reveal it through stories or demonstrations. Look for the 'light behind the eye' as an indicator. Position the organization with a 'cruise director' or navigator who guides customers through complexity, with the resulting memories delivering peace of mind that fuels business growth.",
+      "end": "00:01:37",
+      "start": "00:01:06",
+      "title": "Action 2–3 — Hire memory makers and appoint a cruise director"
+    }
+  ],
+  "summary": "In a concise 98-second talk, Jeanne Bliss outlines three actions to embed clarity of purpose into a business. She advocates starting with bookend customer experiences to engage mid-level staff in shaping the most meaningful entry and exit moments, challenging legacy practices, and pushing for a more personal connection with customers. She then emphasizes hiring for memory-making ability—looking for candidates who can create memorable moments and demonstrate it in storytelling or a concrete example. Finally, she pitches the role of a cruise director or navigator who guides customers through organizational complexity, with the guidance turning into memory that delivers peace of mind and, in turn, drives business growth.",
+  "title": "Three Actions to Build Clarity of Purpose in Your Organization (Jeanne Bliss)",
+  "topics": [
+    "bookend customer experiences",
+    "Hello and goodbye moments",
+    "Rhythmic service concept",
+    "Legacy industry practices",
+    "Personal connection in service",
+    "hire memory makers",
+    "Light behind the eye (memory-building interview cue)",
+    "Story-based demonstration during hiring",
+    "Memory creation in customer experience",
+    "Cruise director role",
+    "navigator through complexity",
+    "memory as peace of mind",
+    "Memory-driven business growth",
+    "Industry examples (finance, healthcare, IT)",
+    "PDF resource referenced"
+  ],
+  "video": "vJuoPgPyP_s.youtube"
+}

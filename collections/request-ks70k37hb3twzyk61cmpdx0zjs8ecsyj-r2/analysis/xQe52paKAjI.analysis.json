@@ -1,0 +1,170 @@
+{
+  "analysis_created_at": "2026-09-14T22:44:49.460077+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 19, 2013",
+    "iso": "2013-03-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Thinking from the customer's life: empathy-driven POV",
+      "timestamp": "00:49"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Reliability as a growth engine (consistent delivery)",
+      "timestamp": "00:35"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Encouraging customer advocacy through memorable experiences",
+      "timestamp": "01:16"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "546fbf67-f630-5742-a390-032c9c43dc84",
+    "spec_sha256": "967720914ee43ad45156cc438d40be0e3f9a3553561daef404ed4e67764ea079",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-e8f3ebb49556"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 44973,
+      "dependency_resolution_ms": 263,
+      "handler_ms": 45752,
+      "input_fetch_ms": 434
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 22736,
+      "digest": "dcc4f136b59523e47d3f6d78dcb4df3b1cb0cef9a387d6b4ea6fb144bbfa6784",
+      "key": "objects/sha256/dc/c4f136b59523e47d3f6d78dcb4df3b1cb0cef9a387d6b4ea6fb144bbfa6784",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "cf02e1bb-dd0a-5d34-946a-627c7b5df1d0"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer-centricity",
+        "beloved companies",
+        "prosperity engine"
+      ],
+      "description": "States the core premise that presence for customers drives prosperity and reliability in business.",
+      "end": "00:04:00",
+      "start": "00:00:00",
+      "title": "Opening: Being there fuels customer prosperity"
+    },
+    {
+      "concepts": [
+        "customer POV",
+        "rethinking operations",
+        "growth through customer insights"
+      ],
+      "description": "Describes how leaders rethink their approach from the customer's perspective to earn growth.",
+      "end": "00:16:00",
+      "start": "00:04:00",
+      "title": "Reframing business from the customer’s point of view"
+    },
+    {
+      "concepts": [
+        "experience over task",
+        "memorable service",
+        "repeatable experiences"
+      ],
+      "description": "Notes that customers remember experiences and seek to repeat them, not just complete tasks.",
+      "end": "00:28:00",
+      "start": "00:16:00",
+      "title": "From tasks to experiences: enabling memorable customer moments"
+    },
+    {
+      "concepts": [
+        "reliability",
+        "prosperity engine",
+        "case example: Amazon 1995"
+      ],
+      "description": "Identifies reliability as a core driver of growth, citing Amazon’s early success with doing books right in 1995.",
+      "end": "00:41:00",
+      "start": "00:35:00",
+      "title": "Reliability as the prosperity engine (Amazon example)"
+    },
+    {
+      "concepts": [
+        "empathy",
+        "understanding what matters",
+        "POV-driven action"
+      ],
+      "description": "Encourages learning about customers and acting from their perspective to earn loyalty.",
+      "end": "00:56:00",
+      "start": "00:49:00",
+      "title": "Imagining customers’ lives and acting from their point of view"
+    },
+    {
+      "concepts": [
+        "trust",
+        "relational equity",
+        "decision-making at forks"
+      ],
+      "description": "Suggests decisions should reinforce the right to ongoing customer relationships and peace of mind.",
+      "end": "01:09:00",
+      "start": "01:03:00",
+      "title": "Earn the right to a continued relationship"
+    },
+    {
+      "concepts": [
+        "customer advocacy",
+        "word-of-mouth",
+        "sharing experiences"
+      ],
+      "description": "Describes how beloved companies are told through the voices of their customers who want others to experience the same benefits.",
+      "end": "01:23:00",
+      "start": "01:16:00",
+      "title": "Customer storytelling and advocacy"
+    },
+    {
+      "concepts": [
+        "self-assessment",
+        "current state of customer relationships"
+      ],
+      "description": "Close with a prompt encouraging the viewer to assess their current position relative to these principles.",
+      "end": "01:29:00",
+      "start": "01:28:00",
+      "title": "Conclusion: Where are you now?"
+    }
+  ],
+  "summary": "This short, lecture‑style message argues that sustained prosperity comes from being consistently present for customers and adopting their point of view. By prioritizing reliability and designing experiences around what matters to customers, brands earn the right to grow and become beloved. The speaker anchors the idea with a nod to Amazon’s early reliability (doing books right in 1995) and then exhorts leaders to imagine customers’ lives, understand what matters to them, and act accordingly to deliver peace of mind. The conclusion asks viewers to assess their own current standing relative to these principles and prompts customer advocacy through memorable experiences that customers will tell others about.",
+  "title": "Being There for Customers: Reliability as a Prosperity Engine (Decision 4)",
+  "topics": [
+    "Customer-centric strategy",
+    "Reliability as growth engine",
+    "Customer point of view",
+    "Empathy and understanding customers' lives",
+    "Delivering peace of mind",
+    "earning the right to a relationship",
+    "Customer advocacy and storytelling",
+    "Brand love and loyalty",
+    "Case study: Amazon 1995",
+    "Proactive customer experience",
+    "Decision-making for customer-centric outcomes",
+    "Where are you now? (self-assessment)"
+  ],
+  "video": "xQe52paKAjI.youtube"
+}

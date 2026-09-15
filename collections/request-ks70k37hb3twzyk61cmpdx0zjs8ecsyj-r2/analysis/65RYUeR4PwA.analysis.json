@@ -1,0 +1,107 @@
+{
+  "analysis_created_at": "2026-09-14T21:48:23.639097+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Customer-centric operations emphasis",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Reliability-focused fulfillment metrics (ship within 24 hours; 98.6% success)",
+      "timestamp": "00:00:15"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Empathy-driven storytelling about delivery experience",
+      "timestamp": "00:00:30"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript: 'in the middle of a cornfield in Dodgeville, Wisconsin.'",
+      "confidence": 0.9,
+      "name": "Dodgeville, Wisconsin, USA"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "a6bb6764-85b6-5b7d-9398-a3667f6855ef",
+    "spec_sha256": "dc0f9b53aacfcfc808cce0fcdd25394a8cf6d4091731bbd147a410f0305979f4",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-ab8d5c6ccdf3"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 37931,
+      "dependency_resolution_ms": 59,
+      "handler_ms": 38816,
+      "input_fetch_ms": 708
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 14232,
+      "digest": "e55e380410f24b64759d9b958c83631bdec02c558e4bf1fb1b91f4ce38fdbebd",
+      "key": "objects/sha256/e5/5e380410f24b64759d9b958c83631bdec02c558e4bf1fb1b91f4ce38fdbebd",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "4dbbc3d1-1981-5012-881f-3919a053d928"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "1983 Lands' End start in a cornfield",
+        "Dodgeville, Wisconsin",
+        "catalog business context",
+        "Guaranteed shipping within 24 hours",
+        "98.6% on-time shipping",
+        "imagining customers' lives",
+        "report card of customer experience",
+        "the role of delivery and product experience in reliability"
+      ],
+      "description": "The speaker situates the Lands' End origin in a rural setting, ties a bold shipping guarantee to customer experience, and frames reliability as a core metric of business success derived from imagining and measuring how customers live and experience the product.",
+      "end": "00:00:38",
+      "start": "00:00:00",
+      "title": "Land's End origin and the start of a customer-focused philosophy"
+    }
+  ],
+  "summary": "Jeanne Bliss recounts an origin moment from her early career at Lands' End, describing starting work in 1983 in a rural setting near Dodgeville, Wisconsin. She highlights a catalog-driven retail era that relied on a strong guarantee: 98.6% of orders shipped within 24 hours. The talk emphasizes imagining customers’ lives and treating the delivery experience—how the UPS driver interacts and how it feels to try on a product—as essential signals of reliability and customer satisfaction, framing customer experience as the ultimate measure of brand success.",
+  "title": "Do You Start with the Product or Your Customer? — Jeanne Bliss",
+  "topics": [
+    "Lands' End origin story",
+    "1980s catalog business",
+    "customer experience",
+    "shipping guarantee",
+    "on-time shipping",
+    "98.6% within 24 hours",
+    "imagining customers' lives",
+    "report card of customer experience",
+    "delivery experience",
+    "UPS driver experience",
+    "unboxing/try-on experience",
+    "reliability as brand value",
+    "service-led branding",
+    "historical retailer practices"
+  ],
+  "video": "65RYUeR4PwA.youtube"
+}

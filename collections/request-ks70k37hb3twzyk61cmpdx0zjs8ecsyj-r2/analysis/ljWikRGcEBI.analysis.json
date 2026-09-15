@@ -1,0 +1,168 @@
+{
+  "analysis_created_at": "2026-09-14T23:21:37.314343+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 9, 2010",
+    "iso": "2010-11-09",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Authenticity through personal storytelling and family examples",
+      "timestamp": "00:01:19"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Eliminating internal jargon to preserve customer-facing clarity",
+      "timestamp": "00:02:04"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Reframing customer service language to honor customers",
+      "timestamp": "00:03:04"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Using public, anecdotal case studies (WestJet, Southwest) to teach culture",
+      "timestamp": "00:03:25"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript explicitly states the speaker's father sold Buster Brown shoes in Des Plaines, Illinois.",
+      "confidence": 0.8,
+      "name": "Des Plaines, Illinois"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "ec858d37-b29b-53a5-b61a-5cb84406ba69",
+    "spec_sha256": "f702965d2feeeb93464f9fbbbaf0ad646273bf591cfb17e25a44222c6110b72e",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-dd8749ee55c9"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 50956,
+      "dependency_resolution_ms": 240,
+      "handler_ms": 51846,
+      "input_fetch_ms": 549
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 74668,
+      "digest": "7dd726fdc623008089e0c14b68a3aebab22f4ba4aad7fe865e2785231f518aff",
+      "key": "objects/sha256/7d/d726fdc623008089e0c14b68a3aebab22f4ba4aad7fe865e2785231f518aff",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c4a66b3b-0903-580b-b0dc-3ea87835b0f6"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "authentic customer service",
+        "humility in sales",
+        "lasting impact of genuine care"
+      ],
+      "description": "A Midwestern shoe merchant demonstrates realness through generosity and practical advice to customers, making family and life stories part of the buying experience and illustrating how authenticity can drive loyalty.",
+      "end": "00:01:13",
+      "start": "00:00:02",
+      "title": "Shoe merchant story: realness in action"
+    },
+    {
+      "concepts": [
+        "family influence on business values",
+        "humility as a cultural foundation"
+      ],
+      "description": " Jeanne Bliss cites her father, Vincenzo Lombardo, and the Lombardo children to underscore humility and the importance of being real as foundational business virtues.",
+      "end": "00:01:50",
+      "start": "00:01:13",
+      "title": "Family example: the Lombardo realness ethos"
+    },
+    {
+      "concepts": [
+        "scaling culture",
+        "organizational alignment around customer reality"
+      ],
+      "description": "The talk raises a central question: can a culture of realness be embedded across an entire company, not just in select roles or moments?",
+      "end": "00:02:32",
+      "start": "00:01:50",
+      "title": "From realness to scalability: can we scale authenticity?"
+    },
+    {
+      "concepts": [
+        "internal jargon vs. customer reality",
+        "how words shape actions"
+      ],
+      "description": "A thought experiment and examples illustrate how the way we talk about customers internally can influence customer experience and public perception.",
+      "end": "00:03:11",
+      "start": "00:02:53",
+      "title": "Language and perception: lingo vs. humanity"
+    },
+    {
+      "concepts": [
+        "customer-centric language",
+        "honored guests mindset"
+      ],
+      "description": "WestJet’s approach to rebranding internal speech includes treating passengers as honored guests and eliminating dehumanizing shorthand, signaling a culture shift.",
+      "end": "00:03:11",
+      "start": "00:03:04",
+      "title": "WestJet: replacing shorthand with respect"
+    },
+    {
+      "concepts": [
+        "humor in branding",
+        "authentic response to competition",
+        "cultural consistency across channels"
+      ],
+      "description": "An anecdote about Southwest’s response to Northwest Airlines’ claim of being number one shows how a candid, even cheeky, brand voice reinforces trust and authenticity in the face of rival narratives.",
+      "end": "00:04:18",
+      "start": "00:03:25",
+      "title": "Southwest and PR: authentic voice in action"
+    },
+    {
+      "concepts": [
+        "serious commitment to customers",
+        "humor as a strategic tool"
+      ],
+      "description": "The talk concludes that beloved brands balance serious customer focus with a light, human touch, avoiding self-importance while staying true to customers.",
+      "end": "00:04:18",
+      "start": "00:04:18",
+      "title": "Closing ethos: be real, but not self-serious"
+    }
+  ],
+  "summary": "Jeanne Bliss uses a set of anecdotes to argue that authenticity and humility in customer service can scale across organizations without losing the human touch. Beginning with a small-town shoe merchant and a family’s example, she cautions against corporate jargon that obscures the customer, then highlights how language and culture shape experiences. Through WestJet’s hospitality reframing and Southwest’s humorous, customer‑driven response to competition, the talk demonstrates that treating customers as real people and communicating with humility can build lasting loyalty, even as companies grow larger and more complex.",
+  "title": "Being Real with Customers: Authenticity, Humility, and Scalable Customer-Centric Culture",
+  "topics": [
+    "Authenticity in customer service",
+    "Humility as a business value",
+    "Scaling authentic culture across an organization",
+    "Impact of internal jargon on customer perception",
+    "Human-centric brand language",
+    "Customer as honored guest vs. internal shorthand",
+    "WestJet's language transformation",
+    "Pax vs. honored guests: brand voice case study",
+    "Southwest vs. Northwest: authentic branding and PR",
+    "Using anecdotal storytelling to teach culture",
+    "Family influence on business ethics and behavior",
+    "small business customer relationships and community impact",
+    "Experiential service and hospitality culture",
+    "Balancing seriousness and humor in branding"
+  ],
+  "video": "ljWikRGcEBI.youtube"
+}

@@ -1,0 +1,138 @@
+{
+  "analysis_created_at": "2026-09-14T21:59:06.122016+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.6,
+      "technique": "Trust-based customer relationships as a strategic growth driver",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Reduction of rules and oversight to enable innovation",
+      "timestamp": "00:00:08"
+    },
+    {
+      "confidence": 0.55,
+      "technique": "Value-based competition over price-based shopping",
+      "timestamp": "00:00:16"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Employee empowerment and autonomy",
+      "timestamp": "00:00:26"
+    },
+    {
+      "confidence": 0.55,
+      "technique": "Decentralized decision-making to boost Energy and collaboration",
+      "timestamp": "00:00:32"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Culture of honoring employees to improve retention",
+      "timestamp": "00:00:51"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Personal-professional value congruence as cultural cornerstone",
+      "timestamp": "00:00:53"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "f721842a-c38d-5843-89d4-ba255c90c681",
+    "spec_sha256": "8cee5682b711d13f31777ae692794b05f1949cb7cbfc4b4bf3b9109017570c91",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-a13eb851ac35"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 39361,
+      "dependency_resolution_ms": 103,
+      "handler_ms": 40189,
+      "input_fetch_ms": 606
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 16543,
+      "digest": "a0ee16315a642512643bf825fc8a7d676343dfa8c49de36821ecd2c99a885446",
+      "key": "objects/sha256/a0/ee16315a642512643bf825fc8a7d676343dfa8c49de36821ecd2c99a885446",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "604ee79d-8a8d-5981-bfcf-8df6de953167"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "trusting customers",
+        "fewer rules and procedures",
+        "innovation and partnership"
+      ],
+      "description": "Bliss asserts that beloved companies replace extra rules with trust in customers and shift toward innovative, partnership-based interactions rather than transactional, rule-bound exchanges.",
+      "end": "00:00:26",
+      "start": "00:00:00",
+      "title": "Trust in Customers and Reduction of Rules"
+    },
+    {
+      "concepts": [
+        "employee empowerment",
+        "autonomy",
+        "reduced management oversight",
+        "Energy and collaboration"
+      ],
+      "description": "The speaker argues that employees should be trusted to do the right thing, with less top-down oversight, fostering Energy, collaboration, and a workplace where people want to stay because they feel supported.",
+      "end": "00:00:53",
+      "start": "00:00:26",
+      "title": "Empowering Employees and Decentralized Decision-Making"
+    },
+    {
+      "concepts": [
+        "honor",
+        "congruence between corporate and personal decisions",
+        "brand culture",
+        "Land's End example"
+      ],
+      "description": "Bliss emphasizes staying in an organization where one feels honored and where business decisions align with personal life values; Land’s End is referenced as an example of congruence between personal and corporate choices.",
+      "end": "01:01:01",
+      "start": "00:00:53",
+      "title": "Culture of Honor and Personal-Professional Congruence"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that beloved companies win by choosing trust over control: they treat customers as trustworthy and replace excessive rules with innovation and partnership, while empowering employees to do the right thing rather than micromanaging every action. The talk contrasts policy-heavy, price-driven competition with a culture that emphasizes Energy, collaboration, and long-term loyalty. Bliss also suggests that employees stay and thrive when the organization honors them and when corporate decisions align with personal values, citing Land’s End as an example of congruence between business choices and lived life. The result is a customer- and employee-centric culture built on trust, autonomy, and shared purpose.",
+  "title": "Trust-Driven Culture: Customers and Employees at the Core",
+  "topics": [
+    "trust-based customer relationships",
+    "customer-centric culture",
+    "regulatory and policy reduction",
+    "innovation and partnerships with customers",
+    "value-based competition beyond price",
+    "employee empowerment and autonomy",
+    "decentralized decision-making",
+    "reduced management oversight",
+    "Energy, collaboration, and retention",
+    "honor and organizational loyalty",
+    "culture of personal-professional congruence",
+    "Land's End as congruence example"
+  ],
+  "video": "lJn2-_oTPY0.youtube"
+}

@@ -1,0 +1,98 @@
+{
+  "analysis_created_at": "2026-09-14T21:51:07.218525+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Shadowing the outgoing advisor with the incoming advisor during client meetings to preserve relationships",
+      "timestamp": "00:34:14"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "65f25951-d6a5-55b6-b97b-62aed9275832",
+    "spec_sha256": "0c988d00f4499f757a331a6a92f7db85b3a8f327fc58cc44ca5cc1434654c343",
+    "timing": {
+      "analysis_ms": 33086,
+      "dependency_resolution_ms": 71,
+      "handler_ms": 34086,
+      "input_fetch_ms": 797
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 18300,
+      "digest": "0e57f52046e5e8e548ab57af5e05fbf542c8455bd86105df5d462a0bf6ce5e7e",
+      "key": "objects/sha256/0e/57f52046e5e8e548ab57af5e05fbf542c8455bd86105df5d462a0bf6ce5e7e",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "31c48d6f-8621-5980-8b5f-a019f24b2e8f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "continuity",
+        "customer experience",
+        "relationship"
+      ],
+      "description": "Introduces the core issue: when a service provider changes, does the customer experience continuity endure or require a restart of the relationship?",
+      "end": "00:00:22",
+      "start": "00:00:00",
+      "title": "Problem: continuity of service during change"
+    },
+    {
+      "concepts": [
+        "continuity",
+        "handoff",
+        "customer experience"
+      ],
+      "description": "Poses the core question about preserving ongoing service during transitions between advisors or service providers.",
+      "end": "00:00:34",
+      "start": "00:00:22",
+      "title": "Question: Can continuity be maintained in handoffs?"
+    },
+    {
+      "concepts": [
+        "shadowing",
+        "handoff",
+        "book of business",
+        "customer relationship"
+      ],
+      "description": "Describes a practice at Edward Jones where a younger advisor shadows the older advisor for six months with the customer in every meeting, ensuring that the relationship persists when the book of business is finally handed over.",
+      "end": "01:00:00",
+      "start": "00:34:14",
+      "title": "Edward Jones approach: shadowing to preserve relationships"
+    }
+  ],
+  "summary": "This short talk centers on how to maintain a seamless client experience when service providers change. The speaker highlights the risk of customers feeling forced to restart a long-standing relationship and introduces a concrete practice from Edward Jones: when a younger advisor is set to assume the books of a more mature advisor, the younger advisor shadows the older advisor for six months in every client meeting. The aim is to ensure an ongoing relationship remains intact and the transition supports customer advocacy and prosperity.",
+  "title": "Continuity of Service During Advisor Transitions",
+  "topics": [
+    "continuity of service",
+    "transition management",
+    "handoff of book of business",
+    "shadowing during client transition",
+    "customer relationship preservation",
+    "customer advocacy",
+    "customer prosperity",
+    "change management in financial services",
+    "advisor onboarding",
+    "Edward Jones example"
+  ],
+  "video": "-DU34BQ3880.youtube"
+}

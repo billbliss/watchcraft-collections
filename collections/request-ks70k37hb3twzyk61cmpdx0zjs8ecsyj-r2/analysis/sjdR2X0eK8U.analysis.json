@@ -1,0 +1,126 @@
+{
+  "analysis_created_at": "2026-09-15T03:38:54.126212+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 11, 2010",
+    "iso": "2010-08-11",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Cross-functional ownership of the customer experience",
+      "timestamp": "00:00:36.540"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Shared metrics and cross-functional accountability for a single touchpoint",
+      "timestamp": "01:12.120"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Bite-sized change strategy to drive large-scale transformation",
+      "timestamp": "02:17.220"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Employing the Chief Customer Officer framework as a change toolset",
+      "timestamp": "01:55.040"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "f3963178-7385-5d15-8875-8480eedb1af3",
+    "spec_sha256": "739a9b2de3974293636908701f845e3beca9ede50b15d34edb443946d64a0254",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-a13eb851ac35",
+        "term-dc873ddfdcc6"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 42610,
+      "dependency_resolution_ms": 150,
+      "handler_ms": 43594,
+      "input_fetch_ms": 720
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 38006,
+      "digest": "dbf05dbf74f07d045e842135c67acd0ee48516198a8e0f2293d50d43608b5bcd",
+      "key": "objects/sha256/db/f05dbf74f07d045e842135c67acd0ee48516198a8e0f2293d50d43608b5bcd",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "f5fefbc7-4ed4-5851-a698-4843563ef164"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "silos",
+        "decision execution",
+        "customer experience"
+      ],
+      "description": "Introduction framing: strong decisions can fail when passed through silos, leading to a watered-down customer experience. The section sets up the core goal of uniting actions and goals to create a truly customer-centered organization.",
+      "end": "00:54.600",
+      "start": "00:00:00.000",
+      "title": "Silos vs. the Beloved Company"
+    },
+    {
+      "concepts": [
+        "ownership relinquishment",
+        "shared metrics",
+        "cross-functional accountability",
+        "billing as a shared experience"
+      ],
+      "description": "Bliss argues for giving up siloed ownership in favor of a collective approach to delivering the customer experience. The billing experience is used as an example to show how marketing, sales, operations, customer service, and billing must all influence and be accountable for the outcome.",
+      "end": "01:55:040",
+      "start": "00:54:600",
+      "title": "Shared Ownership and Cross-Functional Metrics"
+    },
+    {
+      "concepts": [
+        "process rigor",
+        "customer touchpoint management",
+        "tools from Chief Customer Officer",
+        "bite-sized change"
+      ],
+      "description": "The talk emphasizes adopting a rigorous, collaborative framework for identifying and improving customer touchpoints. It references Bliss's Chief Customer Officer tools and advocates breaking the journey into manageable steps to sustain transformation and customer focus.",
+      "end": "02:32:980",
+      "start": "01:55:040",
+      "title": "Rigorous Processes and Bite-Sized Change"
+    }
+  ],
+  "summary": "Jeanne Bliss describes how a company becomes 'beloved' by uniting actions and goals across organizational silos to improve the customer experience. The talk emphasizes that customer impact is enhanced when cross-functional teams share ownership of the customer experience, adopt common and sometimes uncomfortable metrics, and replace siloed ownership with collaborative, process-driven rigor. A billing example illustrates how multiple departments influence a single touchpoint, while Bliss ties the approach to her Chief Customer Officer framework and advocates breaking change into bite-sized steps to make durable progress.",
+  "title": "Beloved Companies: Uniting Actions & Goals Across Silos to Improve Customer Experience",
+  "topics": [
+    "silos and organizational barriers",
+    "Beloved company aspiration",
+    "Cross-functional collaboration",
+    "Shared metrics and accountability",
+    "Billing experience as a cross-functional touchpoint",
+    "Ownership relinquishment across departments",
+    "Customer touchpoints and experience mapping",
+    "Rigorous process design for customer experience",
+    "Tools from the Chief Customer Officer framework",
+    "Bite-sized change strategy",
+    "Leadership-driven customer focus",
+    "Measurement of customer-centric decisions",
+    "Avoiding wasted Energy and mediocre customer experience",
+    "Integration of marketing, sales, operations, and customer service"
+  ],
+  "video": "sjdR2X0eK8U.youtube"
+}

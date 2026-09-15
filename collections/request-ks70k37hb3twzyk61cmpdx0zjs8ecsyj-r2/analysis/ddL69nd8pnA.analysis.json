@@ -1,0 +1,143 @@
+{
+  "analysis_created_at": "2026-09-15T03:32:02.546903+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Belief-based organizational culture as a driver of growth",
+      "timestamp": "00:00:00.000"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Trust-driven test-drive policy (no driver’s license requirement)",
+      "timestamp": "00:00:50.780"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "74ec513f-4192-56c1-b64f-49417232f5c5",
+    "spec_sha256": "a3bf3b1d3b0e99d92e418a242b7a75c9a1c790a63094f2890cecdf6f976d9ddf",
+    "timing": {
+      "analysis_ms": 50613,
+      "dependency_resolution_ms": 105,
+      "handler_ms": 51715,
+      "input_fetch_ms": 885
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 21289,
+      "digest": "54f689bbb735e05845fc80ea7df3615d83c63bd763270f1430aeac28c644b566",
+      "key": "objects/sha256/54/f689bbb735e05845fc80ea7df3615d83c63bd763270f1430aeac28c644b566",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "482356eb-01eb-5802-b2d3-eee7f720484d"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "five key decisions",
+        "belief as foundation"
+      ],
+      "description": "Beloved companies enable five key decisions with belief serving as a core foundation.",
+      "end": "00:04.820",
+      "start": "00:00:00.000",
+      "title": "Intro: belief as a foundational concept"
+    },
+    {
+      "concepts": [
+        "believe employees",
+        "good people",
+        "decision-making"
+      ],
+      "description": "Companies believe their employees are good, capable of making right decisions, and should be empowered.",
+      "end": "00:10.320",
+      "start": "00:04.820",
+      "title": "Belief in employees"
+    },
+    {
+      "concepts": [
+        "hire",
+        "train",
+        "empower to act"
+      ],
+      "description": "They hire, train, and then allow employees to do what they know is right.",
+      "end": "00:23.400",
+      "start": "00:10.320",
+      "title": "Hiring, training, and empowerment"
+    },
+    {
+      "concepts": [
+        "believe customers",
+        "good people"
+      ],
+      "description": "They believe customers are good people, reducing adversarial interactions with the company.",
+      "end": "00:29.600",
+      "start": "00:23.400",
+      "title": "Belief in customers"
+    },
+    {
+      "concepts": [
+        "black box rules",
+        "regulations",
+        "cynicism"
+      ],
+      "description": "This belief lets them discard rigid rules that foster cynicism and create a more open relationship.",
+      "end": "00:39.420",
+      "start": "00:29.600",
+      "title": "Elimination of rigid rules and cynicism"
+    },
+    {
+      "concepts": [
+        "cynicism",
+        "relationships",
+        "trust"
+      ],
+      "description": "Belief in others dispels cynicism and yields a markedly different customer relationship.",
+      "end": "00:46.800",
+      "start": "00:39.420",
+      "title": "Belief reduces cynicism; changes relationships"
+    },
+    {
+      "concepts": [
+        "Dane Cycles",
+        "test-drive policy",
+        "no driver’s license"
+      ],
+      "description": "A company example cited is Dane Cycles, where customers can borrow a $6,000 bike for a test drive without showing a driver's license.",
+      "end": "00:59.600",
+      "start": "00:46.800",
+      "title": "Dane Cycles and the test-drive policy"
+    }
+  ],
+  "summary": "This short, 1-minute video by Jeanne Bliss argues that ‘beloved’ companies are built on a foundation of belief: they first believe in their employees, then in their customers. The speaker explains that trusting employees to make good decisions and empowering them through hiring and training reduces the need for rigid, “black box” rules, and fosters a healthier, less cynical relationship with customers. A concrete example is given via Dane Cycles, a company that embodies this trust by allowing customers to borrow a high-value bike for a test drive without requiring a driver’s license. The message positions belief as a core driver of growth by enabling more open, collaborative, and customer-centric interactions.",
+  "title": "Belief in Employees and Customers Fuels Growth — Dane Cycles Test-Drive Example",
+  "topics": [
+    "Belief as organizational foundation",
+    "Believing employees",
+    "Hiring and empowerment",
+    "Belief in customers",
+    "Elimination of rigid rules",
+    "Reducing cynicism",
+    "Dane Cycles case study",
+    "Test-drive policy without ID",
+    "Belief as growth driver"
+  ],
+  "video": "ddL69nd8pnA.youtube"
+}

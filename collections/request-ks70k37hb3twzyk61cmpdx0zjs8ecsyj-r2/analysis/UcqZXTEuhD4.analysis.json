@@ -1,0 +1,110 @@
+{
+  "analysis_created_at": "2026-09-14T21:31:41.740723+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Tell the story of customers' lives using social media data to illuminate the total customer experience.",
+      "timestamp": "00:00:42.700"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Validate what you know with numeric survey scores, but do not let the score drive the story.",
+      "timestamp": "00:00:48.020"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Let the life of the customer lead the story, rather than prioritizing the score.",
+      "timestamp": "00:00:53.340"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "ebe9730e-ed70-59fa-b6b0-471905192718",
+    "spec_sha256": "d0cf5ab3339ce4b3a45b29421c577caa98dfa1bd33dc47388486aef78393d427",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-e3f461c42555",
+        "term-f4e4da29e124"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 34236,
+      "dependency_resolution_ms": 59,
+      "handler_ms": 35155,
+      "input_fetch_ms": 739
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 16729,
+      "digest": "aedef85d53967d2fec72fdef5b5081d95db679f7440beea23d3c1700f0fa2c9f",
+      "key": "objects/sha256/ae/def85d53967d2fec72fdef5b5081d95db679f7440beea23d3c1700f0fa2c9f",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "89303295-1393-510f-81b3-e4904f253042"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Silo-based organizations",
+        "marketing, operations, sales as separate silos",
+        "customer navigates across the experience",
+        "need for a central guiding function",
+        "aim for a holistic one company experience"
+      ],
+      "description": "Explains how companies have become siloed and argues for a central role to guide the organization toward delivering a holistic customer experience across departments.",
+      "end": "00:00:23.840",
+      "start": "00:00:00",
+      "title": "Silos vs. a Center for Customer Experience"
+    },
+    {
+      "concepts": [
+        "social media reveals the total customer experience",
+        "social media as a mechanism to tell the story of customers' lives",
+        "validate insights with numeric survey scores",
+        "do not let the score lead the story",
+        "let the life lead the story"
+      ],
+      "description": "Describes social media as a powerful, transparent lens into customer experience and outlines a storytelling approach that centers on customers’ lived experiences, using scores only as validation rather than the narrative driver.",
+      "end": "00:00:53.340",
+      "start": "00:00:23.840",
+      "title": "Social Media as a Tool to Understand and Tell the Customer's Story"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that modern organizations have become siloed, with marketing, operations, and sales excelling in their disciplines while customers move across the entire journey. She proposes placing a central function to orchestrate a holistic, one-company customer experience. The video highlights social media as a powerful revealer of the total customer experience, beyond traditional service metrics. Bliss teaches that insights should be drawn from the lives of customers and validated with numeric survey data, but the story should be led by the lived experience rather than by the score alone.",
+  "title": "Using Social Media to Map the Total Customer Experience",
+  "topics": [
+    "siloed organizations",
+    "central owner of customer experience",
+    "holistic one company experience",
+    "social media as feedback channel",
+    "customer journey mapping",
+    "storytelling from customer lives",
+    "validation with numeric survey scores",
+    "not letting scores drive the narrative",
+    "life-led storytelling",
+    "voice of the customer through social data",
+    "customer experience vs customer service",
+    "holistic customer experience vs departmental silos"
+  ],
+  "video": "UcqZXTEuhD4.youtube"
+}

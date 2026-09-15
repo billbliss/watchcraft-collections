@@ -1,0 +1,118 @@
+{
+  "analysis_created_at": "2026-09-14T21:48:31.701335+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Free penny arcade as service magnet",
+      "timestamp": "00:00:23"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Value-added touches as a growth driver",
+      "timestamp": "00:01:04"
+    },
+    {
+      "confidence": 0.55,
+      "technique": "Thought leadership and free audits",
+      "timestamp": "00:01:10"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Planning tools for customers (families, students)",
+      "timestamp": "00:01:24"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "b8448049-71fc-5931-b998-8d80bcc46a56",
+    "spec_sha256": "2af3ad828c4d54225bea668b5ac2739ee951fb38354ba2d0f0c81b776b3f87f1",
+    "timing": {
+      "analysis_ms": 35322,
+      "dependency_resolution_ms": 75,
+      "handler_ms": 36208,
+      "input_fetch_ms": 723
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 30605,
+      "digest": "4797d80601118c370dfb045777ae1f17c60964685d9307f12329ccd4ef6965dd",
+      "key": "objects/sha256/47/97d80601118c370dfb045777ae1f17c60964685d9307f12329ccd4ef6965dd",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c34c0cec-5985-5578-b2f4-dcc4e25749c6"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "service magnet",
+        "value-added",
+        "pre-sell value"
+      ],
+      "description": "Introduction to the idea of a service magnet—adding value beyond the regular offering to attract customers and demonstrate value before a purchase.",
+      "end": "00:00:23",
+      "start": "00:00:00",
+      "title": "Defining a Service Magnet"
+    },
+    {
+      "concepts": [
+        "penny arcade",
+        "in-store engagement",
+        "value-added service",
+        "growth seed"
+      ],
+      "description": "A free penny arcade in bank locations creates crowds and can convert participants into accounts, illustrating how an in-store value-added touchpoint can drive growth.",
+      "end": "00:01:04",
+      "start": "00:00:23",
+      "title": "TD Bank Penny Arcade: A Real-World Magnet"
+    },
+    {
+      "concepts": [
+        "growth strategy",
+        "thought leadership",
+        "free audits",
+        "consumer checkups",
+        "planning tools",
+        "future asset"
+      ],
+      "description": "Discussion of scaling impact by offering thought leadership and practical tools—free audits/checkups and planning resources for customers (e.g., families, graduating students)—to cultivate relationships and secure future growth.",
+      "end": "00:01:38",
+      "start": "00:01:04",
+      "title": "From Touchpoints to Growth: Thought Leadership and Tools"
+    }
+  ],
+  "summary": "Jeanne Bliss introduces the concept of a service magnet—offering value-added experiences beyond the standard set of processes and services to attract customers and pre-sell value. She cites TD Bank’s free penny arcade in stores as a tangible example: lines form, customers engage without opening an account, and the arcade is tied to a quick path to account openings, illustrating how an in-store touchpoint can function as a growth driver. The talk expands to other potential magnets, such as thought leadership, free audits or consumer checkups, and planning tools designed for specific groups (e.g., families, college students), framing these touches as investments that build trust, community, and a future asset for the business.",
+  "title": "Do You Have a Service Magnet? Creating Value-Added Touchpoints to Attract and Pre-Sell Customers",
+  "topics": [
+    "service magnet",
+    "value-added touchpoints",
+    "free penny arcade",
+    "TD Bank example",
+    "in-store customer engagement",
+    "growth strategy",
+    "thought leadership",
+    "free audits",
+    "consumer checkups",
+    "planning tools",
+    "future asset",
+    "customer acquisition"
+  ],
+  "video": "Byz68u7-0yk.youtube"
+}

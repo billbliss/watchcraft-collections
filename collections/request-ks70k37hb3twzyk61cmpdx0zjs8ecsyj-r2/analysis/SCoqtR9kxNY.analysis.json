@@ -1,0 +1,222 @@
+{
+  "analysis_created_at": "2026-09-14T21:21:44.144578+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.78,
+      "technique": "Touchpoint mapping (selective)",
+      "timestamp": "00:03:42"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "moments of truth (origins and mapping)",
+      "timestamp": "00:12:14"
+    },
+    {
+      "confidence": 0.76,
+      "technique": "Vulcan mind meld (leadership alignment exercise)",
+      "timestamp": "00:18:24"
+    },
+    {
+      "confidence": 0.74,
+      "technique": "Be a customer / executive immersion ( experiential learning)",
+      "timestamp": "00:22:48"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Defector pipeline (risk/retention focus)",
+      "timestamp": "00:19:04"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Customer room (monthly/quarterly governance)",
+      "timestamp": "00:27:10"
+    },
+    {
+      "confidence": 0.68,
+      "technique": "Zip card journey and visual storytelling",
+      "timestamp": "00:30:55"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript: \"I did this in 1983 at Lands' End\"",
+      "confidence": 0.85,
+      "name": "Lands' End (implementation of journey-stage approach, 1983)"
+    },
+    {
+      "basis": "Transcript: \"the father of giving us this methodology is actually Jan Carlson at SAS Airlines\"",
+      "confidence": 0.8,
+      "name": "SAS Airlines (moments of truth origin)"
+    },
+    {
+      "basis": "Transcript: \"USAA. Create a process called be a customer\"",
+      "confidence": 0.6,
+      "name": "USAA (customer immersion example)"
+    },
+    {
+      "basis": "Transcript: \"Adobe, which is in the new book they have an executive immersion process\"",
+      "confidence": 0.6,
+      "name": "Adobe (executive immersion process)"
+    },
+    {
+      "basis": "Transcript: \"Amazon is a reliability engine\"",
+      "confidence": 0.6,
+      "name": "Amazon (reliability engine)"
+    },
+    {
+      "basis": "Transcript: \"1-800 got junk\" example and description of reliability focus",
+      "confidence": 0.6,
+      "name": "1-800-GOT-JUNK (example of reliability)"
+    },
+    {
+      "basis": "Transcript: \"the Smithsonian Institute just hired a guy who's rebuilding the whole Smithsonian journey\"",
+      "confidence": 0.6,
+      "name": "Smithsonian Institution (visual journey mapping example)"
+    },
+    {
+      "basis": "Transcript: \"the Smithsonian journey is in there... the Smithsonian zip card journey\"",
+      "confidence": 0.5,
+      "name": "Smithsonian’s zoo (context for Smithsonian journey)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "682ede99-e2fe-53e8-8287-8602c6753968",
+    "spec_sha256": "ceed67ba147927bbbaf0359b0b5292822553410200f366bd37e6cc6286c8c622",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-7f0c701344fe",
+        "term-dee6dea3ebc9"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 53579,
+      "dependency_resolution_ms": 116,
+      "handler_ms": 55324,
+      "input_fetch_ms": 1507
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 535595,
+      "digest": "3f400f3c9c62d8c72c2e4fd3dabb9303633a8d3d433fcc845d7bbe196da09e4c",
+      "key": "objects/sha256/3f/400f3c9c62d8c72c2e4fd3dabb9303633a8d3d433fcc845d7bbe196da09e4c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "5d32bfc3-1a85-56ce-813d-fbf52cdba72c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer-centric culture",
+        "organizational silos",
+        "bite-sized work",
+        "fearless collaboration"
+      ],
+      "description": "Bliss frames the talk around becoming the 'human duct tape' who can drive customer-focused work. She critiques memos and generic slogans and emphasizes breaking work into manageable pieces while uniting leaders with frontline teams to deliver a consistent, customer-centered experience.",
+      "end": "00:04:08",
+      "start": "00:00:00",
+      "title": "Opening: From memos to deliberate customer focus"
+    },
+    {
+      "concepts": [
+        "reliability first",
+        "kill a stupid rule",
+        "frontline empowerment",
+        "touchpoint mapping",
+        "moments of truth"
+      ],
+      "description": "The speaker argues against silo-driven, heroic frontline efforts and highlights the importance of removing back-end frictions. She introduces the idea of touching points and the need to map and prioritize a small set of critical moments (10-15) to deliver reliability where it matters most.",
+      "end": "00:12:14",
+      "start": "00:04:08",
+      "title": "Reliability over wow moments; breaking down barriers"
+    },
+    {
+      "concepts": [
+        "moments of truth origin",
+        "customer as asset",
+        "SAS Airlines",
+        "Lands' End",
+        "Amazon as reliability engine"
+      ],
+      "description": "Bliss ties historical development of customer experience to real-world examples. She cites SAS Airlines and Jan Carlson’s work on moments of truth, Lands’ End’s growth via journey thinking, and Amazon’s reliability-driven growth as demonstrations of the framework in action.",
+      "end": "00:19:04",
+      "start": "00:12:14",
+      "title": "Roots, case studies, and the idea of customer assets"
+    },
+    {
+      "concepts": [
+        "five competencies",
+        "customer assets",
+        "journey stages",
+        "storytelling by stage",
+        "Vulcan mind meld"
+      ],
+      "description": "The keynote introduces the main framework: five competencies to lead customer experience. She discusses treating customers as assets, naming journey stages, building a listening path, and storytelling. A preview of the upcoming book and the concept of a Vulcan mind meld for reality-checks in leadership discussions are included.",
+      "end": "00:26:55",
+      "start": "00:19:04",
+      "title": "Five competencies and the preview of Chief Customer Officer 2.0"
+    },
+    {
+      "concepts": [
+        "listening paths: unaided/survey/experiential",
+        "be a customer immersion",
+        "customer room",
+        "corporate patience",
+        "recipe cards for leaders"
+      ],
+      "description": "The final section covers Competencies 3-5, focusing on building a robust listening path, preempting unreliability, and establishing accountability and governance. Bliss describes practical governance tools like the customer room, immersive leadership experiences (Adobe), and a recipe-card approach to executive actions, plus the need for corporate patience as a cultural lever.",
+      "end": "00:31:42",
+      "start": "00:26:55",
+      "title": "Competencies 3-5: listening, reliability, and accountability; operational governance"
+    }
+  ],
+  "summary": "Jeanne Bliss presents a practical framework for turning customer-centric rhetoric into a repeatable, revenue-driving growth engine. She argues that most organizations are siloed and deliver inconsistent experiences unless work is broken into bite-sized, cross-functional efforts focused on reliable performance in the moments that matter. The talk traces roots of the discipline (moments of truth) through SAS Airlines, Lands’ End, and other case studies, then introduces five competencies for leading a customer-centric organization: treating customers as assets, defining journey stages, building a disciplined listening path, preempting unreliability, and ensuring leadership accountability. She peppered the talk with concrete tactics (touchpoint mapping, ‘kill a stupid rule,’ the customer room, storytelling by stage, and Vulcan mind meld exercises) and illustrated how reliability precedes delight, how to converge customer data into actionable insights, and how to structure governance to sustain a culture of customer growth.",
+  "title": "Building a Customer-Driven Growth Engine: Jeannie Bliss on Reliability, Moments of Truth, and Five Competencies",
+  "topics": [
+    "customer-driven growth engine",
+    "silos and cross-functional alignment",
+    "reliability first",
+    "touchpoint mapping",
+    "moments of truth",
+    "kill a stupid rule",
+    "1-800-GOT-JUNK case",
+    "hospitality quotient index",
+    "Forrester Index",
+    "Amazon reliability engine",
+    "Lands' End journey mapping",
+    "SAS Airlines moments of truth",
+    "Be a customer immersion (Adobe)",
+    "customer as assets",
+    "journey stages naming",
+    "defector pipeline",
+    "surveys vs unaided vs experiential listening",
+    "Vulcan mind meld",
+    "customer room",
+    "executive accountability",
+    "storytelling by stage",
+    "zip card journey",
+    "visual learning",
+    "Smithsonian journey mapping",
+    "CEO/leadership alignment"
+  ],
+  "video": "SCoqtR9kxNY.youtube"
+}

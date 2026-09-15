@@ -1,0 +1,89 @@
+{
+  "analysis_created_at": "2026-09-14T21:41:55.817794+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Rebranding frontline roles to 'customer escape artists'",
+      "timestamp": "00:01:01.460"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Operational redesign to support the customer escape artist model (including valet service)",
+      "timestamp": "00:01:37.160"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Framing service quality around a clarified organizational purpose for frontline staff",
+      "timestamp": "00:00:46.360"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e80a5330-3aca-5d25-aa06-b54101734306",
+    "spec_sha256": "9378a565096bcfaec0ca832703fd44f54d5fa23f4f25d1d6a1f8adb7b3424009",
+    "timing": {
+      "analysis_ms": 39931,
+      "dependency_resolution_ms": 128,
+      "handler_ms": 41620,
+      "input_fetch_ms": 1457
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 30830,
+      "digest": "dbc5562fa769c0dc8d7322327b4862aed1a41f0315c9986a2b08d076d3cbd93b",
+      "key": "objects/sha256/db/c5562fa769c0dc8d7322327b4862aed1a41f0315c9986a2b08d076d3cbd93b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "784a585a-becf-5902-8a74-886755a731c9"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "frustration with conventional spa visits that drain time and memory",
+        "need for unified purpose across diverse frontline staff",
+        "reframing frontline roles as customer-focused performers",
+        "link between branding of roles and service delivery",
+        "introduction of redesigned operations (e.g., valet) to support the new model"
+      ],
+      "description": "This section frames the problem with typical spa experiences, introduces the idea of uniting a heterogeneous frontline under a single purpose, and presents the core pivot: rename and reshape staff roles into 'customer escape artists' with corresponding training and operational changes to support a superior customer journey.",
+      "end": "00:01:41.460",
+      "start": "00:00:00",
+      "title": "From spa experience critique to customer-centered service transformation"
+    }
+  ],
+  "summary": "This short talk critiques the traditional spa experience and documents a transformation strategy used by a large spa company: redefine frontline staff from “spa technicians” to “customer escape artists,” align every person around a unified purpose, and redesign operations and training to deliver a more memorable, frictionless customer journey. The speaker argues a clear purpose unites diverse frontline backgrounds, and that the right role definitions, training, and service processes—exemplified by offerings like valet service—are essential to creating genuine customer escape experiences rather than simply performing technical tasks.",
+  "title": "Jeanne Bliss - Spa Technicians? No! Customer Escape Artists? Yes!",
+  "topics": [
+    "customer escape artists",
+    "clarity of purpose",
+    "frontline training",
+    "operational process redesign",
+    "valet service",
+    "service design",
+    "hospitality culture",
+    "brand reframing",
+    "service journey memory",
+    "touchpoint alignment",
+    "organizational change",
+    "customer experience transformation"
+  ],
+  "video": "NWz7Tl0g1Tw.youtube"
+}

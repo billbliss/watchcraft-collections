@@ -1,0 +1,104 @@
+{
+  "analysis_created_at": "2026-09-14T21:30:46.547295+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.6,
+      "technique": "Pioneering the Chief Customer Officer role across industries",
+      "timestamp": "00:00:01"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Centering the customer in product/service delivery",
+      "timestamp": "00:00:15"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Unifying leadership around a single customer-centric mindset",
+      "timestamp": "00:00:42"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Growing by focusing on the customer's life",
+      "timestamp": "00:00:54"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "4baf5e34-e80a-55ec-8732-71ea20f23db4",
+    "spec_sha256": "0d6822dd6bfd3da1693ce0213fe27e7e1adede0013c6f5f4b7a6f4ad8d5e3bfc",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-048989e1db48"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 37895,
+      "dependency_resolution_ms": 103,
+      "handler_ms": 38834,
+      "input_fetch_ms": 695
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 20839,
+      "digest": "011b2a5ba69713a8a067afce87c6881a5e75ef489b5c9d1a87189a635638f5f9",
+      "key": "objects/sha256/01/1b2a5ba69713a8a067afce87c6881a5e75ef489b5c9d1a87189a635638f5f9",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "abf1a671-56c5-5a23-b0af-00eb93fada8d"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Early leadership at Land's End",
+        "Designing product/service experiences with leadership input",
+        "Cross-industry application of CX lessons",
+        "Unifying leadership around a customer-centric growth model",
+        "Growing by focusing on the customer's life"
+      ],
+      "description": "Overview of Jeanne Bliss's early leadership role at Land's End and her subsequent cross-industry application of customer-centric strategy to unify leadership around delivering experiences centered on the customer.",
+      "end": "00:00:58",
+      "start": "00:00:01",
+      "title": "Career path and customer-centric leadership"
+    }
+  ],
+  "summary": "In this concise talk, Jeanne Bliss describes how she helped pioneer the Chief Customer Officer (CCO) role by placing the customer at the center of business strategy and experience across multiple industries. Beginning at Land's End, she collaborated with the executive committee to design how products and services would be delivered. Over roughly two decades, she moved across industries—Mazda, Coldwell Banker, Allstate, and Microsoft—taking on roles that did not previously exist, all with the aim of uniting leadership around a single customer-centric approach and growing the business by focusing on the customer's life.",
+  "title": "Pioneering the Chief Customer Officer: Jeanne Bliss's cross-industry customer-centric leadership",
+  "topics": [
+    "Chief Customer Officer (CCO) role",
+    "Customer-centric growth strategy",
+    "Customer experience design and delivery",
+    "Cross-industry CX leadership",
+    "Land's End customer experience",
+    "Creating new roles in organizations",
+    "Mazda automotive CX",
+    "Coldwell Banker B2B franchise CX",
+    "Allstate CX",
+    "Microsoft CX leadership",
+    "Leadership alignment around customer experience",
+    "Customer lifecycle as growth driver",
+    "Integrated customer experience",
+    "Deliberate career path applying CX lessons",
+    "customer-centric leadership development"
+  ],
+  "video": "0Hxj85ODFIE.youtube"
+}

@@ -29,6 +29,8 @@ jobs:
           cp site/collections.json _site/collections.json
           cp site/collections.json _site/directory.json
           cp -R collections _site/collections
+          # Preserve previously published URLs saved by Watchcraft users.
+          cp -R _site/collections/jeanne-bliss-customer-experience _site/collections/request-ks70k37hb3twzyk61cmpdx0zjs8ecsyj-r2
           mkdir -p _site/downloads
           (cd collections && zip -qr ../_site/downloads/hello-world-referenced.zip hello-world-referenced)
           touch _site/.nojekyll

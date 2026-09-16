@@ -1,0 +1,110 @@
+{
+  "analysis_created_at": "2026-09-15T03:13:19.752734+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 2, 2010",
+    "iso": "2010-11-02",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Inventory-first fulfillment to control the customer experience",
+      "timestamp": "00:01:22"
+    },
+    {
+      "confidence": 0.4,
+      "technique": "Confession bell as tour engagement cue",
+      "timestamp": "00:00:52"
+    },
+    {
+      "confidence": 0.55,
+      "technique": "Operating with minimal outside investment to enable bold pivots",
+      "timestamp": "00:02:02"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "de94d81d-ae9b-57b1-bc6c-260e72184fdd",
+    "spec_sha256": "0fd2c2e6083c3deeef528f9fe93743fb19a2509252cf205960ef6bcf11ab8bc8",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-f6634cd3d975"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 50746,
+      "dependency_resolution_ms": 150,
+      "handler_ms": 51467,
+      "input_fetch_ms": 508
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 41805,
+      "digest": "fecffb5f2196666b21d933bddc54ccb3c9143b626f9fcfd8590d6351f4b2122b",
+      "key": "objects/sha256/fe/cffb5f2196666b21d933bddc54ccb3c9143b626f9fcfd8590d6351f4b2122b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "9afb9ea6-b2fa-54a1-b18b-21b76a5cfb6c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "dropshipping",
+        "inventory",
+        "brand partners",
+        "customer experience",
+        "fulfillment"
+      ],
+      "description": "The discussion traces the original dropship model (market online, send orders to brand partners to ship) and why manufacturers sometimes blocked this approach. It then notes the shift toward inventorying more product to gain control over fulfillment and, by extension, the customer experience.",
+      "end": "00:01:30",
+      "start": "00:00:03",
+      "title": "From dropshipping to inventory ownership"
+    },
+    {
+      "concepts": [
+        "foregone revenue",
+        "25% revenue",
+        "capital and cash needs",
+        "board decisions",
+        "investor environment",
+        "growth"
+      ],
+      "description": "This segment highlights the financial trade-off: stopping dropshipping meant forfeiting roughly 25% of revenue and bearing greater capital needs. It also notes the governance context—few outside investors and a leadership group that effectively functioned as the board—making the decision easier than might be expected in a larger funding environment.",
+      "end": "00:02:13",
+      "start": "00:01:30",
+      "title": "Economic impact and governance of the pivot"
+    }
+  ],
+  "summary": "In this brief interview excerpt, Alfred Lin discusses Zappos’ strategic shift from a dropshipping model to stocking inventory in order to better control the customer experience. The team explains how the original plan—market on the web and pass orders to brand partners for shipment—carried the appeal of no inventory costs, but many brand manufacturers blocked that approach. As a result, Zappos began inventorying more products and found that owning fulfillment enabled a noticeably better customer experience. The pivotal decision to stop dropshipping required sacrificing about 25% of revenue and increasing capital and cash needs, a trade-off deemed worthwhile for service and growth. Governance around the pivot was relatively uncomplicated by comparison, since there were few outside investors and the founders were effectively the board at the time. The tour moment also showcases a confession bell used to engage participants, adding a light aside to the otherwise strategic discussion.",
+  "title": "Zappos pivots from dropshipping to inventory-driven fulfillment to improve customer experience",
+  "topics": [
+    "dropshipping",
+    "Inventory management",
+    "Fulfillment strategy",
+    "Customer experience",
+    "Brand partner constraints",
+    "Capital requirements",
+    "Revenue impact",
+    "Growth strategy",
+    "Board decisions",
+    "Investor environment",
+    "Zappos culture",
+    "Supply chain constraints"
+  ],
+  "video": "WVZWg_w3bow.youtube"
+}

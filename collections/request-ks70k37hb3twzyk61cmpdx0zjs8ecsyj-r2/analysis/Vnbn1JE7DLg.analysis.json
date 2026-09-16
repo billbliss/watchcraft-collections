@@ -1,0 +1,201 @@
+{
+  "analysis_created_at": "2026-09-14T23:16:42.839020+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 10, 2010",
+    "iso": "2010-11-10",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.9,
+      "technique": "Belief in customers and employees",
+      "timestamp": "00:00:07"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Suspending cynicism",
+      "timestamp": "00:00:15"
+    },
+    {
+      "confidence": 0.92,
+      "technique": "Purpose-driven decision making",
+      "timestamp": "00:00:19"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Be real / reduce veneer",
+      "timestamp": "00:00:31"
+    },
+    {
+      "confidence": 0.93,
+      "technique": "Be there / everyday presence",
+      "timestamp": "00:00:45"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Earn the right to return",
+      "timestamp": "00:00:53"
+    },
+    {
+      "confidence": 0.92,
+      "technique": "Repair emotional connections after mistakes",
+      "timestamp": "00:01:06"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Sincere vs shallow apologies",
+      "timestamp": "00:02:03"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Prosperity through human spirit and magnetic Energy",
+      "timestamp": "00:02:34"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript includes a personal anecdote: 'Catholic Italian from Chicago,' used for background; no explicit filming location given",
+      "confidence": 0.45,
+      "name": "Chicago, USA (anecdotal reference)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "0f8c8ac1-51f0-592d-ba98-0ffac29962f9",
+    "spec_sha256": "13615a9c4e92620b3fcec83f86f150137319ba7b3854d321ef18e1bc36f04136",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-1cd919e1b0b6",
+        "term-a13eb851ac35"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 40539,
+      "dependency_resolution_ms": 238,
+      "handler_ms": 41531,
+      "input_fetch_ms": 642
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 45814,
+      "digest": "fe7694efbd46f67b8a5c5911cedf4b800a3d14ec842c830a35d6846611ae1359",
+      "key": "objects/sha256/fe/7694efbd46f67b8a5c5911cedf4b800a3d14ec842c830a35d6846611ae1359",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "65ff10a3-1bce-5599-80fb-2eda952ea381"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Believe customers",
+        "Believe employees",
+        "Suspend cynicism"
+      ],
+      "description": "Foundation of the Beloved Companies: trust in people and a conscious rejection of cynicism.",
+      "end": "00:00:19",
+      "start": "00:00:07",
+      "title": "Believe"
+    },
+    {
+      "concepts": [
+        "Clarity of purpose",
+        "higher purpose in serving customers",
+        "Decision alignment to promise"
+      ],
+      "description": "Decisions are guided by a defined mission to serve and support customers' lives.",
+      "end": "00:00:31",
+      "start": "00:00:19",
+      "title": "Purpose"
+    },
+    {
+      "concepts": [
+        "Be real",
+        "Reduce packaging/ veneer",
+        "Create an environment for employees to bring their best selves"
+      ],
+      "description": "Companies shed ostentation to cultivate authentic, human-centered workplaces.",
+      "end": "00:00:45",
+      "start": "00:00:31",
+      "title": "Be Real"
+    },
+    {
+      "concepts": [
+        "Be there daily for customers",
+        "Earn the right for customers to return"
+      ],
+      "description": "Consistent daily presence in interactions reinforces loyalty and trust.",
+      "end": "00:01:06",
+      "start": "00:00:45",
+      "title": "Be There"
+    },
+    {
+      "concepts": [
+        "Repair after mistakes",
+        "Go beyond saying sorry"
+      ],
+      "description": "Effective recovery of trust requires genuine emotional repair rather than perfunctory apologies.",
+      "end": "00:02:12",
+      "start": "00:01:06",
+      "title": "Repair Emotional Connection"
+    },
+    {
+      "concepts": [
+        "Personal anecdote about siblings",
+        "Contrast between genuine repair and shallow letters"
+      ],
+      "description": "An illustrative contrast used to highlight the difference between authentic apologies and hollow ones.",
+      "end": "00:02:08",
+      "start": "00:01:17",
+      "title": "Anecdotal Illustration: Sincere vs Shallow Apologies"
+    },
+    {
+      "concepts": [
+        "Prosperity of the human spirit",
+        "Magnetic Energy from a healthy customer-employee ecosystem",
+        "Financial prosperity as an outcome"
+      ],
+      "description": "Bliss notes that people-first decisions yield both human and financial prosperity, evidenced by loyalty and energetic workplaces.",
+      "end": "00:02:52",
+      "start": "00:02:34",
+      "title": "Prosperity and Magnetic Energy"
+    }
+  ],
+  "summary": "Jeanne Bliss outlines five core decisions that distinguish beloved companies in their relationships with customers and employees: believe, with suspending cynicism; decide with clarity of purpose and align actions to a higher service-oriented promise; be real by shedding corporate veneer and creating an environment where employees can bring their best selves; be there by showing up for customers every day in ways that earn their loyalty; and repair the emotional connection after mistakes, moving beyond perfunctory apologies. Bliss links these practices to both financial prosperity and the prosperity of the human spirit, noting that genuine care generates customer loyalty and a energetic, magnet-like workplace culture. The talk contrasts sincere, repair-focused apologies with hollow ones and cites two years of research supporting the link between deliberate people-first decisions and better outcomes.",
+  "title": "Jeanne Bliss: Five Decisions Beloved Companies Make",
+  "topics": [
+    "Believe customers",
+    "Believe employees",
+    "Suspending cynicism",
+    "Clarity of purpose",
+    "higher purpose in serving customers",
+    "Align decisions to promise",
+    "Be real",
+    "Shine away corporate veneer",
+    "Authentic workplace environment",
+    "Be there",
+    "Everyday presence for customers",
+    "Earn the right to return",
+    "Repair emotional connection",
+    "Sincere apologies vs shallow letters",
+    "Genuine mistake repair",
+    "Prosperity of the human spirit",
+    "Magnetic Energy of customers and employees",
+    "Financial prosperity during downturn",
+    "Two years of research on customer- and employee-centric organizations"
+  ],
+  "video": "Vnbn1JE7DLg.youtube"
+}

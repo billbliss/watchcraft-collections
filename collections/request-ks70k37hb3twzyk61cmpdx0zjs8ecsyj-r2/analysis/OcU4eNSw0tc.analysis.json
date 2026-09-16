@@ -1,0 +1,133 @@
+{
+  "analysis_created_at": "2026-09-15T02:59:07.020448+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 9, 2010",
+    "iso": "2010-11-09",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Beloved vs. everyday company framework (cup analogy) to guide product, service, and hiring decisions",
+      "timestamp": "00:01:31"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Hiring for soul and life-alignment with company mission",
+      "timestamp": "00:02:24"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Zappos-like litmus test: two-month onboarding with an exit option and $2,000 payoff",
+      "timestamp": "00:02:42"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Linking employee commitment to repeat business (customer experience impact)",
+      "timestamp": "00:03:12"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "31c20bc1-a720-5d89-8b52-beef88fae35f",
+    "spec_sha256": "b6b15fb405fa3fa1ceb69f6fd7d8b9e56fda8d73c25a4a3b5c8fc3403162ba79",
+    "timing": {
+      "analysis_ms": 47487,
+      "dependency_resolution_ms": 100,
+      "handler_ms": 48095,
+      "input_fetch_ms": 424
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 55094,
+      "digest": "ea8e97b57a039c3c268318104f25a0b19081a4e55038f4c1451c5c3324b9b96c",
+      "key": "objects/sha256/ea/8e97b57a039c3c268318104f25a0b19081a4e55038f4c1451c5c3324b9b96c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "bbced7c4-9c88-5e6e-8cba-fe7676ed5c34"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "pledge of belief",
+        "practice-oriented beliefs",
+        "trust linking employees to customers",
+        "participatory call-and-response"
+      ],
+      "description": "The speaker introduces a pledge of belief that converts a fuzzy idea into actionable practices, inviting the audience to affirm the pledge.",
+      "end": "00:00:56",
+      "start": "00:00:02",
+      "title": "Introduction: Pledge of Belief"
+    },
+    {
+      "concepts": [
+        "beloved company",
+        "everyday company",
+        "customer life needs",
+        "organization alignment with purpose"
+      ],
+      "description": "Bliss differentiates beloved companies, which bind the organization around serving customers’ lives, from everyday firms that merely execute tasks. She begins the cup-manufacturer example to illustrate how products and customer experiences diverge when the company focuses on life context versus simple sales.",
+      "end": "01:31:00",
+      "start": "00:00:56",
+      "title": "Beloved vs. Everyday Companies: The Cup Analogy"
+    },
+    {
+      "concepts": [
+        "soul of the company",
+        "hiring for organizational fit",
+        "customer-centric product development",
+        "definition of criteria for joining"
+      ],
+      "description": "Continuing the analogy, Bliss asks what it means to hire people who fit the soul of the company and how clarity of purpose defines recruitment and retention, emphasizing that alignment with serving customers’ lives guides hiring decisions.",
+      "end": "02:39:00",
+      "start": "01:31:00",
+      "title": "Cup Manufacturer Analogy: Hiring and Cultural Fit"
+    },
+    {
+      "concepts": [
+        "Zappos litmus test for commitment",
+        "two-month training period",
+        "exit option with $2,000 payment",
+        "low attrition during training",
+        "repeat business as outcome"
+      ],
+      "description": "Bliss explains Zappos’ approach: a two-month onboarding phase where employees can leave for a $2,000 payment, a test of genuine commitment. With attrition under 2%, the company achieves approximately 75% of daily orders from repeat customers, illustrating how commitment translates into customer loyalty.",
+      "end": "03:32:00",
+      "start": "02:42:00",
+      "title": "Zappos Litmus Test: Commitment and Outcomes"
+    }
+  ],
+  "summary": "In this brief talk, Jeanne Bliss reframes a fuzzy notion of belief into concrete organizational practices that center on trust between employees and customers. She contrasts “beloved” companies—those that think through customers’ lives and experiences—with task-focused, “everyday” firms, using a cup-manufacturer analogy and the example of Zappos to illustrate how hiring, onboarding, and commitment can produce meaningful outcomes like high repeat business. The speech emphasizes hiring for soul and purpose, and describes a two-month onboarding litmus test at Zappos that offers a $2,000 payoff to those who leave, revealing a strong link between employee commitment and customer satisfaction.",
+  "title": "Jeanne Bliss: A Pledge of Believe — Do You Believe Your Customers and Employees?",
+  "topics": [
+    "pledge of belief",
+    "trust in employees and customers",
+    "beloved company vs everyday company",
+    "customer life orientation",
+    "cup manufacturer analogy",
+    "focus group vs experiential insight",
+    "hiring for soul fit",
+    "clarity of purpose",
+    "focus on customer experience",
+    "Zappos litmus test for commitment",
+    "two-month onboarding",
+    "exit incentive ($2,000)",
+    "training duration",
+    "repeat business impact",
+    "customer-centric culture"
+  ],
+  "video": "OcU4eNSw0tc.youtube"
+}

@@ -1,0 +1,90 @@
+{
+  "analysis_created_at": "2026-09-14T21:25:22.997007+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.7,
+      "technique": "Executive coaching for C-suite and CX leadership",
+      "timestamp": "00:00:02"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "CX transformation roadmap development",
+      "timestamp": "00:00:21"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Five competencies framework for CX transformation",
+      "timestamp": "00:00:32"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "08430944-6373-520a-a922-7e5cfc2a5de0",
+    "spec_sha256": "fb7e9bbe8f2e508a05e498d092881b1505a8f755bc66579a45dbbd3b9e44699a",
+    "timing": {
+      "analysis_ms": 28703,
+      "dependency_resolution_ms": 44,
+      "handler_ms": 29655,
+      "input_fetch_ms": 791
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 12485,
+      "digest": "d888c31900c6702c7e630e868f08eed3a12886dda6a2ac568ff9e0813d9eab7f",
+      "key": "objects/sha256/d8/88c31900c6702c7e630e868f08eed3a12886dda6a2ac568ff9e0813d9eab7f",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "f32670b6-08ba-51c0-a244-d10c447c52a3"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "CCO 2.0 book release",
+        "coaching C-suite and CX leadership",
+        "customer experience transformation",
+        "roadmap and deliberate actions",
+        "five competencies framework"
+      ],
+      "description": "This section introduces the speaker's new book Chief Customer Officer 2.0, highlights a decade of coaching C-suite teams and emerging CX leaders, references a deliberate roadmap since the first book, and states that the book presents all-new content built around five competencies for leading CX transformation.",
+      "end": "00:00:36",
+      "start": "00:00:01",
+      "title": "Introduction and core premise"
+    }
+  ],
+  "summary": "In this 43-second YouTube clip, Jeanne Bliss announces the release of Chief Customer Officer 2.0 and reflects on a decade of coaching C-suite leaders and emerging Chief Customer Officers or VPs of Customer Experience. She frames the new book as a culmination of a developing roadmap for customer experience (CX) transformation, noting that the content is all new and organized around five competencies intended to guide CX initiatives within organizations.",
+  "title": "Chief Customer Officer 2.0: Book Release and Five-Competency CX Transformation",
+  "topics": [
+    "Chief Customer Officer 2.0 (book)",
+    "Jeanne Bliss",
+    "Chief Customer Officer (CCO) role",
+    "Customer Experience (CX) transformation",
+    "C-suite coaching",
+    "VP of Customer Experience",
+    "CX transformation roadmap",
+    "five competencies (CX framework)",
+    "publication announcement",
+    "10-year coaching track record",
+    "emerging CX leadership",
+    "all-new content in a book",
+    "leadership for CX programs"
+  ],
+  "video": "ZYxE6SOd-ds.youtube"
+}

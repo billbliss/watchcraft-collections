@@ -1,0 +1,112 @@
+{
+  "analysis_created_at": "2026-09-14T22:02:25.765038+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Cross-functional crisis visibility via a daily overview–style meeting",
+      "timestamp": "00:00:36"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Frontline-informed escalation and support during customer issues",
+      "timestamp": "00:00:52"
+    },
+    {
+      "confidence": 0.55,
+      "technique": "Proactive customer recovery plan (analogous to IT recovery planning)",
+      "timestamp": "00:01:02"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "14ee8f10-6700-5850-96aa-7caff09f9b98",
+    "spec_sha256": "49ba5a16f1d838e8ec476958cfcc864c79baa187d57044269a52533a6b893a44",
+    "timing": {
+      "analysis_ms": 51153,
+      "dependency_resolution_ms": 53,
+      "handler_ms": 52440,
+      "input_fetch_ms": 1114
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 18857,
+      "digest": "e37cc9f0b6021231ad617099466b0f6c058b8fe15fb319f31ffda0865083c7e5",
+      "key": "objects/sha256/e3/7cc9f0b6021231ad617099466b0f6c058b8fe15fb319f31ffda0865083c7e5",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "586cc106-5a20-579d-8372-2af03763d12e"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "accountability",
+        "humility",
+        "remorse",
+        "genuine apology",
+        "organizational culture"
+      ],
+      "description": "The speaker frames saying sorry as more than words—it's about accepting accountability, repairing the connection with humility and remorse, and embedding that ethical standard into the organization's culture. The questions posed ask whether apologies are genuine and whether this moment represents the organization's finest hour.",
+      "end": "00:01:02",
+      "start": "00:00:00",
+      "title": "Intro: accountability, humility, and remorse"
+    },
+    {
+      "concepts": [
+        "daily overview-like process",
+        "frontline input",
+        "customer recovery plan",
+        "cross-functional coordination",
+        "IT recovery analogy"
+      ],
+      "description": "Bliss introduces three actions to guide when to say sorry: (1) establish an internal, Southwest Airlines–style daily overview for cross-team visibility during audits or customer issues to provide peace of mind; (2) ask frontline staff what they need to handle calls effectively; (3) create a diligent customer recovery plan that kicks in, akin to an IT recovery plan.",
+      "end": "00:01:08",
+      "start": "00:01:02",
+      "title": "Action Framework: Three actions to say sorry"
+    }
+  ],
+  "summary": "Jeanne Bliss frames apologies as a disciplined practice: taking accountability, repairing the connection with humility and remorse, and embedding those behaviors into an organization's culture. She then outlines a practical three-part framework to decide when to say sorry: first, establish a cross-functional, daily overview-style process so all teams have visibility during customer audits or incidents; second, actively solicit what frontline staff need when handling customer calls; and third, implement a proactive customer recovery plan analogous to an IT recovery plan to guide timely, transparent remediation.",
+  "title": "Three Actions to Earn Back Customer Trust — Jeanne Bliss",
+  "topics": [
+    "accountability",
+    "genuine apology",
+    "humility",
+    "remorse",
+    "organizational culture",
+    "daily overview meeting",
+    "cross-functional visibility",
+    "frontline input",
+    "customer issues",
+    "auditing/glitches",
+    "crisis communication",
+    "customer recovery plan",
+    "IT recovery plan",
+    "peace of mind",
+    "trust restoration",
+    "proactive outreach",
+    "transparency",
+    "escalation",
+    "recovery actions",
+    "service recovery",
+    "audit responses",
+    "customer satisfaction"
+  ],
+  "video": "p9dTpcm6GJg.youtube"
+}

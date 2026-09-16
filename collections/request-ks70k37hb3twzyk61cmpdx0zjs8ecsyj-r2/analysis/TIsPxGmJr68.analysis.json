@@ -1,0 +1,149 @@
+{
+  "analysis_created_at": "2026-09-14T22:05:28.483280+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Preemptive apology letter",
+      "timestamp": "00:00:30"
+    },
+    {
+      "confidence": 0.92,
+      "technique": "love buck compensation (flight credit)",
+      "timestamp": "00:00:38"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Cross-functional disruption review team (operations, meteorology, forgiveness officer)",
+      "timestamp": "00:00:13"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Revenue impact measurement of goodwill gestures",
+      "timestamp": "00:00:58"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "559736c3-c290-5cb5-b449-4de17e140de7",
+    "spec_sha256": "54668187fedaccddaaf8ae017d80720d9c0625a5a186e705ffe17f4991c2b740",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-5001e21a53b9"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 48398,
+      "dependency_resolution_ms": 99,
+      "handler_ms": 49085,
+      "input_fetch_ms": 507
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 18836,
+      "digest": "e3ebc57995548968f5705832b81d52ef7f08c015f5a5cfb7ca45ae0aca60eade",
+      "key": "objects/sha256/e3/ebc57995548968f5705832b81d52ef7f08c015f5a5cfb7ca45ae0aca60eade",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ce7ab18e-6a18-59b8-aa90-ff86aaeff252"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "disruption",
+        "flight review",
+        "customer impact"
+      ],
+      "description": "Southwest Airlines reviews every flight from the prior day to determine if a passenger’s life was interrupted, signaling a proactive stance toward service recovery.",
+      "end": "00:00:13",
+      "start": "00:00:00",
+      "title": "Daily disruption review"
+    },
+    {
+      "concepts": [
+        "operations",
+        "meteorologists",
+        "chief forgiveness officer"
+      ],
+      "description": "The airline convenes a team of operations personnel, meteorologists, and a person dubbed the chief forgiveness officer by the New York Times to assess disruptions.",
+      "end": "00:00:27",
+      "start": "00:00:13",
+      "title": "Cross-functional response team"
+    },
+    {
+      "concepts": [
+        "disruption severity",
+        "decision criteria"
+      ],
+      "description": "Actions are taken based on how severely a passenger’s life was interrupted, guiding whether a response is warranted.",
+      "end": "00:00:30",
+      "start": "00:00:27",
+      "title": "Severity-based decision making"
+    },
+    {
+      "concepts": [
+        "apology",
+        "customer outreach"
+      ],
+      "description": "If warranted, the airline sends a letter explaining the disruption and apologizing, often before the customer initiates contact.",
+      "end": "00:00:38",
+      "start": "00:00:30",
+      "title": "Proactive apology communications"
+    },
+    {
+      "concepts": [
+        "love buck",
+        "monetary gesture",
+        "flight credit"
+      ],
+      "description": "In some cases, Southwest issues a love buck—money to be used on a future flight—as part of the recovery effort.",
+      "end": "00:00:42",
+      "start": "00:00:38",
+      "title": "love buck compensation"
+    },
+    {
+      "concepts": [
+        "analyst skepticism",
+        "net revenue impact",
+        "customer goodwill gestures"
+      ],
+      "description": "The speaker contrasts this with typical corporate caution, noting that critics would advise against such gestures, yet Southwest reports a net revenue increase of $1.7 million from Love Bucks.",
+      "end": "00:00:58",
+      "start": "00:00:42",
+      "title": "Industry critique and financial impact"
+    }
+  ],
+  "summary": "The video presents a Southwest Airlines example of proactive customer experience recovery. Each day the airline reviews the prior day’s flights to identify whether a passenger’s life was interrupted, regardless of fault. A cross‑functional team—including operations staff, meteorologists, and a labeled “chief forgiveness officer”—assesses disruption severity and may respond with a preemptive apology letter and, in some cases, a monetary gesture called a love buck to encourage future travel. The speaker contrasts this approach with conventional “finance-only” thinking, noting Southwest still achieved a net revenue increase of about $1.7 million from these goodwill gestures, illustrating how proactive recovery can align customer satisfaction with financial outcomes.",
+  "title": "Proactive Customer Experience Recovery: Apology Letters and Love Bucks (Southwest Airlines Case)",
+  "topics": [
+    "daily disruption review",
+    "cross-functional response team (operations, meteorology, forgiveness officer)",
+    "severity-based action",
+    "preemptive apology letters",
+    "love buck compensation (flight credits)",
+    "customer-centric recovery strategy",
+    "finance vs. customer goodwill gestures",
+    "revenue impact of recovery programs",
+    "Southwest Airlines case study"
+  ],
+  "video": "TIsPxGmJr68.youtube"
+}

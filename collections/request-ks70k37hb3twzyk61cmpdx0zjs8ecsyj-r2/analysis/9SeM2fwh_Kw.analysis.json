@@ -1,0 +1,150 @@
+{
+  "analysis_created_at": "2026-09-14T22:25:01.153651+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Strategic decision-making for growth",
+      "timestamp": "00:00:11.980"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Cultivating prosperity of the human spirit through kindness",
+      "timestamp": "00:00:22.860"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Deliberate growth strategy framing",
+      "timestamp": "00:01:08.100"
+    },
+    {
+      "confidence": 0.73,
+      "technique": "Lower recruiting costs via a beloved culture",
+      "timestamp": "00:01:14.920"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Customers as a growth army and advertising reduction",
+      "timestamp": "00:01:21.420"
+    },
+    {
+      "confidence": 0.68,
+      "technique": "Competitive immunity through customer loyalty",
+      "timestamp": "00:01:34.140"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "285bfef5-0a3e-52a2-8d95-d0b9b38d35d0",
+    "spec_sha256": "bc8c9135635d080bf6b5d254891385bd61bf4ac7f641606a4fb1ac2fd3770339",
+    "timing": {
+      "analysis_ms": 46098,
+      "dependency_resolution_ms": 245,
+      "handler_ms": 47022,
+      "input_fetch_ms": 582
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 27321,
+      "digest": "a0b95559d81bc1a09f1702db8e026b0d232e5e29c696971d5ba2993044a769fa",
+      "key": "objects/sha256/a0/b95559d81bc1a09f1702db8e026b0d232e5e29c696971d5ba2993044a769fa",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "eba6ee36-d3ba-5083-aa9a-5c40cf17b8e3"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "financial prosperity",
+        "clear organizational decisions",
+        "beloved companies"
+      ],
+      "description": "Introduction to the idea that prosperity comes from both financial outcomes and a prospered human spirit, anchored in the ability to make clear strategic decisions about where to go and where not to go.",
+      "end": "00:00:30",
+      "start": "00:00:00",
+      "title": "Prosperity foundations: financial and human"
+    },
+    {
+      "concepts": [
+        "kindness",
+        "understanding employees' lives",
+        "support life",
+        "employee retention"
+      ],
+      "description": "Emphasizes that people are drawn to and stay with organizations that treat them with kindness and genuinely support their lives, driving loyalty and growth.",
+      "end": "00:01:00",
+      "start": "00:00:30",
+      "title": "Prosperity of the human spirit"
+    },
+    {
+      "concepts": [
+        "strategy",
+        "growth"
+      ],
+      "description": "Affirms that growth comes from a deliberate, strategic approach rather than vague or superficial 'foo-foo' efforts.",
+      "end": "00:01:08",
+      "start": "00:01:00",
+      "title": "Deliberate growth strategy"
+    },
+    {
+      "concepts": [
+        "lower recruiting costs",
+        "high-quality employees",
+        "customer advocacy",
+        "reduced advertising"
+      ],
+      "description": "Links culture to tangible business results: recruiting costs decline as quality staff stay, and customers become advocates, reducing advertising needs.",
+      "end": "00:01:23",
+      "start": "00:01:08",
+      "title": "Operational outcomes of beloved culture"
+    },
+    {
+      "concepts": [
+        "customer advocacy",
+        "margins",
+        "immune to competition"
+      ],
+      "description": "Argues that when customers advocate for the brand, margins can rise and the company becomes more resistant to competitive offers.",
+      "end": "00:01:39",
+      "start": "00:01:23",
+      "title": "Competitive immunity via customer advocacy"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that companies that deliberately cultivate a culture of kindness and clear strategic decision-making achieve more than financial prosperity alone. The talk frames financial success as a consequence of decisions about where to go and what not to do, but emphasizes a deeper prosperity—the prosperity of the human spirit—driven by leaders who treat employees well and understand their lives. This people-centered approach is presented as a concrete growth strategy, not mere sentiment: it lowers recruiting costs by retaining high-quality staff, can grow margins as customers become a positive, self-reinforcing army, and ultimately makes the business more resilient against competitive offers. The speaker reinforces that this is a deliberate strategy for growing the business, supported by the idea that customers and employees together form the core engine of sustainable profitability.",
+  "title": "Jeanne Bliss - The Prosperity of Beloved Companies",
+  "topics": [
+    "financial prosperity",
+    "decision-making",
+    "beloved companies",
+    "prosperity of the human spirit",
+    "employee engagement",
+    "kindness toward employees",
+    "retention and growth",
+    "recruiting costs",
+    "high-quality employees",
+    "customer advocacy",
+    "word-of-mouth growth",
+    "advertising reduction",
+    "margins",
+    "customer loyalty",
+    "competitive immunity"
+  ],
+  "video": "9SeM2fwh_Kw.youtube"
+}

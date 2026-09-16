@@ -1,0 +1,88 @@
+{
+  "analysis_created_at": "2026-09-14T22:29:11.467538+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Narrative framing of corporate values through daily decisions",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Highlighting corrective action, reliability, and care as signals to stakeholders",
+      "timestamp": "00:00:51"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "5aec9216-a3a4-5691-9550-16bb29b5f18a",
+    "spec_sha256": "864d294a8ca5c877d6ff763c438b42fe73da8b4e44f0098131fc65083079e67a",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-34d586d044b4",
+        "term-6305593a1dae"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 26274,
+      "dependency_resolution_ms": 34,
+      "handler_ms": 27085,
+      "input_fetch_ms": 660
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 17334,
+      "digest": "a8bd0507b14083eaf680bcd3cfe7260130ae5a4c49c252997e486dfe41cc1236",
+      "key": "objects/sha256/a8/bd0507b14083eaf680bcd3cfe7260130ae5a4c49c252997e486dfe41cc1236",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "bd27ac03-0d45-5ae9-892b-3eb271cc2f7f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Daily decisions create personal life paths",
+        "Business decisions shape stories told to customers and employees",
+        "Deliberate responses to problems reflect values and care"
+      ],
+      "description": "This section synthesizes the core premise: individuals’ daily choices map personal paths, and organizations’ collective decisions convey who they are, what they value, and how they treat people at the end of every decision.",
+      "end": "00:01:05",
+      "start": "00:00:00",
+      "title": "Overview: Decisions shape life and business narrative"
+    }
+  ],
+  "summary": "The video argues that the daily decisions a company makes across operations, people, and processes collectively tell a story about who the company is and what it values. By being deliberate about how we respond when things go wrong, our commitment to delivering on promises, maintaining quality, and supporting employees sends a clear signal to customers and the marketplace about care and intention. The message positions everyday operational choices as the differentiator between an ordinary company and a beloved one, grounded in trust, reliability, and attention to people at the end of every decision.",
+  "title": "From Everyday Decisions to a Beloved Company: How Daily Choices Shape Value for Customers and Employees",
+  "topics": [
+    "Decision making",
+    "Company values",
+    "Brand narrative",
+    "Customer experience",
+    "quality and delivery",
+    "Operational integrity",
+    "Error correction",
+    "Employee support",
+    "Stakeholder signals",
+    "consistency"
+  ],
+  "video": "h0npX-hsCY4.youtube"
+}

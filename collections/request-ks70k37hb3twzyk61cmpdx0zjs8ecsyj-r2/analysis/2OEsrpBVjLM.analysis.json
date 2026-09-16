@@ -1,0 +1,75 @@
+{
+  "analysis_created_at": "2026-09-15T03:33:45.396180+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.72,
+      "technique": "Repair the emotional bond through actions beyond apology (emotional reconnect strategy)",
+      "timestamp": "00:00:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "8956c13d-2f70-5db4-9f2b-02fe463d1a85",
+    "spec_sha256": "8703af720e0efdbec37f5e0ac5b92f1551f6c8879ddb7e5907026a74d66e4111",
+    "timing": {
+      "analysis_ms": 31548,
+      "dependency_resolution_ms": 108,
+      "handler_ms": 32358,
+      "input_fetch_ms": 614
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 10264,
+      "digest": "42329ebd6f8fb4c32057bd3e830c780b09b5695bf749274b64728ce1f379868d",
+      "key": "objects/sha256/42/329ebd6f8fb4c32057bd3e830c780b09b5695bf749274b64728ce1f379868d",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "68bdf039-7eab-5733-8bbd-a2ac73904d55"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "emotional connection",
+        "apology",
+        "trust restoration",
+        "customer perception"
+      ],
+      "description": "Defines saying sorry as a process for repairing the emotional bond with customers after a mistake, and contrasts mere apology letters with actions that aim to restore the customer’s sense of being valued and connected to the brand.",
+      "end": "00:00:28",
+      "start": "00:00:00",
+      "title": "Apology as emotional connection repair"
+    }
+  ],
+  "summary": "In this brief clip, Jeanne Bliss reframes apologies as a strategy for repairing the emotional bond between a company and its customers after a failure. She argues that the value of an apology lies not in issuing a letter, but in actions that restore trust and bring the customer’s heart back to a state of feeling valued or “beloved.” The message emphasizes the emotional impact of mistakes and the careful work required to re-engage customers so they want to continue talking about and with the brand.",
+  "title": "Saying Sorry to Customers is about Repairing the Relationship",
+  "topics": [
+    "emotional connection after service failure",
+    "apology vs. action",
+    "repairing customer trust",
+    "re-engagement after a mistake",
+    "emotional impact of service failures",
+    "customer loyalty and emotional bonds",
+    "post-incident relationship repair",
+    "bio-psychology of customer service",
+    "building beloved customer relationships"
+  ],
+  "video": "2OEsrpBVjLM.youtube"
+}

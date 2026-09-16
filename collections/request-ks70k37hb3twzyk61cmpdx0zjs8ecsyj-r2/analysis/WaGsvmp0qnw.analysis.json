@@ -1,0 +1,137 @@
+{
+  "analysis_created_at": "2026-09-14T21:54:21.474133+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Hiring anchored in core values (values-based screening)",
+      "timestamp": "00:00:08.420"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Kill-a-stupid-rule movement and exposure of legacy rules",
+      "timestamp": "00:00:19.120"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Campaign reward for surfacing rules and whack-a-mole elimination",
+      "timestamp": "00:00:52.120"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Open financials to employees (financial transparency)",
+      "timestamp": "00:01:00.840"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Container Store open books example as organizational practice",
+      "timestamp": "00:01:10.640"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "31796773-2f67-53ee-af18-9363f8739f84",
+    "spec_sha256": "f0f82b62189bc38fcd4a964e29fe5a32f7902835e7069b2ca7ca9d1feaa1b9f2",
+    "timing": {
+      "analysis_ms": 68010,
+      "dependency_resolution_ms": 56,
+      "handler_ms": 68728,
+      "input_fetch_ms": 580
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 22803,
+      "digest": "2760fb2e66faddb6f3fdab3cb3958bbd9d7983c4e3ee29e0f87d0d55c516b0fd",
+      "key": "objects/sha256/27/60fb2e66faddb6f3fdab3cb3958bbd9d7983c4e3ee29e0f87d0d55c516b0fd",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "32d6cd3a-ba4c-5e8b-a85e-a27498cf2c57"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "three actions",
+        "belief in core competency"
+      ],
+      "description": "Opening framing: three actions to think about for hardwiring believing in your organization’s core competency.",
+      "end": "00:00:08.420",
+      "start": "00:00:00.000",
+      "title": "Introduction: Three actions to hardwire belief"
+    },
+    {
+      "concepts": [
+        "core values",
+        "hiring screening",
+        "values-based screening",
+        "Chick-fil-A example"
+      ],
+      "description": "Revamp how you hire by starting with core values and incorporating values-based screening as the initial step, with Chick-fil-A mentioned as an example.",
+      "end": "00:00:19.120",
+      "start": "00:00:08.420",
+      "title": "Action 1 — Hire with core values"
+    },
+    {
+      "concepts": [
+        "kill-a-stupid-rule",
+        "legacy rules",
+        "light of day",
+        "workarounds",
+        "whack-a-mole",
+        "parade celebration"
+      ],
+      "description": "Introduce a campaign to surface and discard outdated rules. Legacy rules that once made sense become counterproductive; reward exposure of these rules and celebrate their removal with the team, described through the 'kill-a-stupid rule' movement and 'whack-a-mole' elimination approach.",
+      "end": "00:00:57.100",
+      "start": "00:00:19.120",
+      "title": "Action 2 — Kill-a-stupid-rule movement and elimination of legacy rules"
+    },
+    {
+      "concepts": [
+        "financial transparency",
+        "open books",
+        "Container Store example"
+      ],
+      "description": "Finish with financial transparency: share your financials with every employee to build trust; cites Container Store as an example of a privately held company sharing full financial reports with all staff.",
+      "end": "00:01:10.640",
+      "start": "00:01:00.840",
+      "title": "Action 3 — Share financials with employees"
+    }
+  ],
+  "summary": "Jeanne Bliss presents three concrete actions to hardwire belief in an organization's core competency: first, revamp hiring by starting with core values and adopting values-based screening (citing Chick-fil-A as an example); second, launch a “kill-a-stupid rule” movement to expose and eliminate outdated legacy rules, rewarding transparency and even celebrating successful removals with employee engagement; and third, share financials with all employees to build trust, with Container Store cited as an example of open financial reporting within a private company.",
+  "title": "Three Actions to Build a Culture of Belief in Your Organization",
+  "topics": [
+    "core values",
+    "values-based hiring",
+    "hiring screening",
+    "recruitment process redesign",
+    "kill-a-stupid-rule movement",
+    "legacy rules elimination",
+    "light-of-day exposure",
+    "reward for surfacing outdated rules",
+    "whack-a-mole elimination approach",
+    "parade/celebration for rule removal",
+    "financial transparency",
+    "open financials",
+    "Container Store example",
+    "Chick-fil-A as hiring example",
+    "Commerce Bank origin of the rule movement",
+    "TD Bank merger context"
+  ],
+  "video": "WaGsvmp0qnw.youtube"
+}

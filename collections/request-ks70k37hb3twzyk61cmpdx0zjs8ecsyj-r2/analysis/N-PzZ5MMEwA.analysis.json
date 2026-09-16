@@ -1,0 +1,174 @@
+{
+  "analysis_created_at": "2026-09-14T21:29:13.200799+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Keller Fay Talk Track Report applied to customer decision-making",
+      "timestamp": "00:01:39"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Treat customers as assets with lifetime value framing",
+      "timestamp": "00:12:02"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Memory-creation criterion for hiring",
+      "timestamp": "00:15:45"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Price design anchored to customer life (IKEA example)",
+      "timestamp": "00:14:24"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Test-drive policy as a trust-building practice",
+      "timestamp": "00:11:46"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Operational reliability as a differentiator and driver of loyalty",
+      "timestamp": "00:05:55"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Hollow vs genuine apology and the four-part peace process",
+      "timestamp": "00:23:16"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Love notes as proactive recovery and potential revenue",
+      "timestamp": "00:24:45"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Story-driven onboarding and memory-centric culture (USAA, Lands' End references)",
+      "timestamp": "00:19:24"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit in transcript describing the speaker's father selling Buster Brown shoes in Des Plaines, Illinois",
+      "confidence": 0.8,
+      "name": "Des Plaines, Illinois"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "ee16d988-7b9c-555c-8f86-17c659e097d3",
+    "spec_sha256": "bac96a4f8fc339ac954c412b2d2ce80d4843e369f6a2d053df648abc33052af5",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-14546eeb10b6"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 72224,
+      "dependency_resolution_ms": 137,
+      "handler_ms": 72882,
+      "input_fetch_ms": 459
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 450147,
+      "digest": "71def44f861c26bf7e3e9814beac7e0e2530bb38a63b670319e91b6cad26d6f0",
+      "key": "objects/sha256/71/def44f861c26bf7e3e9814beac7e0e2530bb38a63b670319e91b6cad26d6f0",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "23a1cc92-9dc5-5283-a1c6-93d73949b21e"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "beloved vs ordinary company",
+        "five decisions that mark a company",
+        "believing in customers as true",
+        "clarity of purpose",
+        "being there vs being transactional"
+      ],
+      "description": "Introductory contrast between an everyday company and a beloved company that grows by focusing on customers' and employees' lives; introduces five decisions and the idea of life-centered purpose.",
+      "end": "00:06:28",
+      "start": "00:00:03",
+      "title": "Belief, purpose, and the life-centered lens"
+    },
+    {
+      "concepts": [
+        "hiring for values (IHOP example)",
+        "being there as reliability",
+        "operational discipline vs margins",
+        "test-drive policy in kid-focused business",
+        "memory over price/volume"
+      ],
+      "description": "The speaker discusses hiring for life-centered values, illustrating how service moments (e.g., spontaneous tests for customers, how staff treat wait staff) shape brand congruence and long-term loyalty. She contrasts a cash-margin mindset with a values-driven approach that yields reliability.",
+      "end": "00:16:11",
+      "start": "00:06:28",
+      "title": "Deliberate practice: hiring for values and moments of truth"
+    },
+    {
+      "concepts": [
+        "memory creation as brand currency",
+        "designing products around customer life (IKEA)",
+        "pricing from life needs",
+        "brand stories embedded in employees' behavior"
+      ],
+      "description": "Bliss emphasizes memory creation—hiring people who create memorable moments and designing offerings around customers' real-life constraints and aspirations (e.g., IKEA chair priced for a specific family budget), with anecdotes about Lands' End, USAA onboarding, and Southwest’s customer-centric culture.",
+      "end": "00:23:16",
+      "start": "00:16:11",
+      "title": "Memory creation and life-first design"
+    },
+    {
+      "concepts": [
+        "swift response",
+        "connect the dots across teams",
+        "humility and remorse",
+        "fearless solution and transparent communication",
+        "proactive customer rescue (love notes)"
+      ],
+      "description": "The talk closes with a four-part recovery framework for service failures and a case for proactive outreach (Southwest’s meteorologists, operations team, and forgiveness leader) to repair trust and even generate goodwill and future revenue.",
+      "end": "00:27:03",
+      "start": "00:23:16",
+      "title": "Proactive recovery and the peace process"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that sustainable growth comes from building a 'beloved' company that serves the lives of customers and employees, not a company that reflexively competes with others. The talk centers on five deliberate decisions—believing in customers, clarifying purpose, being present, being real, and creating lasting memories—that together cultivate trust, loyalty, and higher margins. Through real-world examples (Trader Joe’s memory-driven service, IKEA’s price-first design grounded in customers’ life, USAA’s life-centered onboarding, Southwest’s proactive fault recovery, Lands’ End anecdotes, IHOP hiring for values), Bliss illustrates how operational reliability and humane apologies reinforce an emotional bond. She emphasizes memory creation as the currency of a brand, hiring for memory creators, and the power of proactive rescue (love notes, “chief forgiveness officer”) to turn service failures into growth opportunities. The transcript provides a practical framework—the four-part peace process for recovery—and challenges leaders to ensure customers tell the story they want, and employees embody the same life-centered values in every interaction.",
+  "title": "Earning Your Customer's Rave: A Life-Centered Framework for Beloved Companies (Jeanne Bliss keynote)",
+  "topics": [
+    "Beloved company vs. everyday company",
+    "Life-centered decision making",
+    "Keller Fay Talk Track Report: 80/20 reliance on word-of-mouth vs company messaging",
+    "Three review questions: reliability, life improvement, emotional impact",
+    "Decide to believe: customers as assets and lifetime value",
+    "Clarity of purpose: uniting the organization around a simple life-improving aim",
+    "Being there: operational reliability and consistent experience",
+    "Being real: hiring and culture that reflect humane values",
+    "memory creation as brand currency",
+    "Hire memory creators over just skilled technicians",
+    "Deliberate moments of truth across the customer journey",
+    "Pricing designed from the customer life (IKEA example: Lilyburg chair)",
+    "Test-drive policy as a trust-builder (Zane cycles example)",
+    "Proactive problem rescue and love notes as revenue generators",
+    "The peace process: swift response, connect dots, humility, fearless solution",
+    "Cross-silo alignment and the 'human duct tape' concept"
+  ],
+  "video": "N-PzZ5MMEwA.youtube"
+}

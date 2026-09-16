@@ -1,0 +1,124 @@
+{
+  "analysis_created_at": "2026-09-15T03:09:03.195709+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 2, 2010",
+    "iso": "2010-11-02",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "brand vision evolution narrative (selection -> service -> delivering happiness)",
+      "timestamp": "00:00:02"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Articulating service as a core driver with a personal emotional connection",
+      "timestamp": "00:00:19"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Positioning 'delivering happiness' as the culmination of a customer-centric strategy",
+      "timestamp": "00:00:30"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "2f7d9506-adde-5bb2-a145-0000c7b1ee76",
+    "spec_sha256": "fb77f8e8e12c0b0c4c0b56bfdc076f22abd0bfbbbd6c38ab471ab76f78c1f4af",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-7d5cf8e91625"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 46539,
+      "dependency_resolution_ms": 87,
+      "handler_ms": 47293,
+      "input_fetch_ms": 608
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 14643,
+      "digest": "a60a4280ef2807bb417c046fef050c9f82e589da7a482da38b9cb0275ab06d66",
+      "key": "objects/sha256/a6/0a4280ef2807bb417c046fef050c9f82e589da7a482da38b9cb0275ab06d66",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "30a1326c-2fe2-5a86-92c5-c66772a41cd3"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "vision evolution",
+        "initial focus on selection",
+        "founder anecdote about finding shoes"
+      ],
+      "description": "The discussion notes that the company began with a focus on selection and that the vision evolved to include service, signaling a shift in strategic emphasis as the business grew.",
+      "end": "00:00:16",
+      "start": "00:00:02",
+      "title": "Evolution of the brand vision: from selection to selection + service"
+    },
+    {
+      "concepts": [
+        "service definition",
+        "powered by service",
+        "personal emotional connection with the customer"
+      ],
+      "description": "The speakers explore what it means to be powered by service and introduce the idea of cultivating a personal emotional connection with customers.",
+      "end": "00:00:25",
+      "start": "00:00:16",
+      "title": "Defining service: 'powered by service' and personal connection"
+    },
+    {
+      "concepts": [
+        "delivering happiness",
+        "expanding vision"
+      ],
+      "description": "The narrative marks a shift toward delivering happiness as a core objective and frames it as an evolution of the brand vision.",
+      "end": "00:00:32",
+      "start": "00:00:25",
+      "title": "Delivering happiness as the next strategic objective"
+    },
+    {
+      "concepts": [
+        "vision expansion daily",
+        "constant evolution",
+        "deliver on behalf of the customer"
+      ],
+      "description": "The speakers underscore that the vision is continually expanding and that the company must evolve to consistently deliver for customers.",
+      "end": "00:00:41",
+      "start": "00:00:32",
+      "title": "Ongoing expansion: delivering for the customer"
+    }
+  ],
+  "summary": "The video presents a concise narrative of how Zappos’ guiding vision has evolved. Beginning with a focus on product selection, the company shifted to service, defining service as powering a personal emotional connection with customers, and ultimately moving toward delivering happiness. The speakers emphasize that the vision is continually expanding and that the company must evolve to deliver on behalf of the customer.",
+  "title": "Zappos Vision Evolution: Selection, Service, and Delivering Happiness",
+  "topics": [
+    "Zappos",
+    "Customer service philosophy",
+    "Delivering happiness",
+    "brand vision evolution",
+    "Service culture",
+    "Personal emotional connection",
+    "Entrepreneurship",
+    "Founder anecdote (Nick)",
+    "Customer-centric business model",
+    "Product selection vs. service"
+  ],
+  "video": "hZ7mfaI26zw.youtube"
+}

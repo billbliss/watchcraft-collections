@@ -1,0 +1,91 @@
+{
+  "analysis_created_at": "2026-09-14T22:23:04.838879+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Framing the talk around brand storytelling and marketplace perception (opening question about your story)",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Self-reflection prompt: use of a 'challenge question' to assess current position",
+      "timestamp": "00:00:28"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "60b67d1b-c097-52e9-b8f1-9e970d13b1bb",
+    "spec_sha256": "99f1f05d65807b6041ea5062d45a2604e43b7effdf5ad4e39b4de8703f53208f",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-49cd9f340842",
+        "term-51e9fe815b69",
+        "term-ea77b0034088"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 35172,
+      "dependency_resolution_ms": 52,
+      "handler_ms": 36764,
+      "input_fetch_ms": 1141
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 12253,
+      "digest": "fe9d12bba0e0e9dae8c283f41553f6637cb9763d2bdb31a6ed5af5d54914e0ee",
+      "key": "objects/sha256/fe/9d12bba0e0e9dae8c283f41553f6637cb9763d2bdb31a6ed5af5d54914e0ee",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "4c33f004-7cf6-53f5-b09b-b217d6b5bd20"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Brand storytelling",
+        "Customer perception",
+        "Employee perception",
+        "Beloved company",
+        "Self-reflection"
+      ],
+      "description": "Opening questions about the story being told about you in the marketplace by customers and employees; framing the talk as a journey studying great companies that become beloved; introduction of a 'challenge question' to encourage self-evaluation of current positioning.",
+      "end": "00:00:33",
+      "start": "00:00:00",
+      "title": "Opening framing: your brand story and the challenge"
+    }
+  ],
+  "summary": "Jeanne Bliss asks viewers to consider the narrative their brand presents to customers and employees, framing the short talk as a study of how great companies earn the right to be seen as beloved. She introduces a self-reflection element—a “challenge question” meant to prompt viewers to evaluate where they stand in shaping that story today and how they might respond to the ongoing challenges in marketplace storytelling.",
+  "title": "What Story Is Being Told About You In the Marketplace? — Self-Reflection on Brand Narrative",
+  "topics": [
+    "brand storytelling in the marketplace",
+    "Customer perception of brand",
+    "Employee perception of brand",
+    "Beloved company concept",
+    "Self-reflection prompts",
+    "Challenge questions for self-assessment",
+    "Narrative alignment with business strategy",
+    "benchmarking against great companies",
+    "marketplace messaging",
+    "Leadership communication and narrative"
+  ],
+  "video": "a8tCNfHFn2g.youtube"
+}

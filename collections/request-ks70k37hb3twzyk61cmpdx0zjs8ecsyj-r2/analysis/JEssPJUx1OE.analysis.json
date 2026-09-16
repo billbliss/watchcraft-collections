@@ -1,0 +1,103 @@
+{
+  "analysis_created_at": "2026-09-14T22:07:55.811717+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Framing apology as a humanity litmus test",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Telling the true story of the company through crisis recovery",
+      "timestamp": "00:00:11"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Promoting a peace process between customers and company",
+      "timestamp": "00:00:31"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Acknowledging human and program errors as normal parts of operations",
+      "timestamp": "00:00:41"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "8d64adff-d272-59ba-9ea5-22b0686ad567",
+    "spec_sha256": "ec04d6d478b902b93ac7cc8ac766b0924c7f4a5ac7ea65ea1196644b9aca6610",
+    "timing": {
+      "analysis_ms": 36929,
+      "dependency_resolution_ms": 40,
+      "handler_ms": 37754,
+      "input_fetch_ms": 670
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 15012,
+      "digest": "23dc8b60f1d9f022e00cf4f4a5daf7988e2fac7123e6877f510876d7c8d3db12",
+      "key": "objects/sha256/23/dc8b60f1d9f022e00cf4f4a5daf7988e2fac7123e6877f510876d7c8d3db12",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "56da3de2-3740-5fc3-93af-52ebac00d12f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "apology",
+        "humanity litmus test",
+        "pain removal",
+        "true company story",
+        "grace and wisdom in crisis"
+      ],
+      "description": "The opening segment links the act of apologizing to the authenticity of a company's humanity, arguing that resolving customer pain and telling the genuine story of the company during crises reveals its character more than blame or deflection.",
+      "end": "00:00:36",
+      "start": "00:00:00",
+      "title": "Apology as Humanity Litmus Test and Crisis Response Narrative"
+    },
+    {
+      "concepts": [
+        "peace process between customers and company",
+        "human errors",
+        "computer program errors"
+      ],
+      "description": "The latter segment reframes missteps as inevitable and promotes a constructive process to restore trust, emphasizing that people create processes and both human and software errors occur.",
+      "end": "00:00:49",
+      "start": "00:00:36",
+      "title": "Peace Process with Customers; Acknowledging Human and System Errors"
+    }
+  ],
+  "summary": "In this brief talk, Jeanne Bliss argues that how a company apologizes when something goes wrong reveals its true character more than any other moment. The message centers on using apology to remove pain and resolve problems as a storytelling device that defines the brand. She elevates grace and wisdom over accusations or deflection, reframing missteps as opportunities to demonstrate accountability and care. The talk introduces a “peace process” concept: a constructive, ongoing effort to repair trust between the company and its customers. It acknowledges that human beings design processes and that both human error and software errors are inevitable, underscoring that transparent, compassionate responses are essential to maintaining trust when things go wrong.",
+  "title": "Your Values Are On Stage When You Make a Mistake",
+  "topics": [
+    "apology as humanity litmus test",
+    "pain removal as brand storytelling",
+    "crisis leadership with grace and wisdom",
+    "accountability vs. blame",
+    "peace process between customers and company",
+    "human-centered processes",
+    "human error in people and systems",
+    "transparency in problem resolution",
+    "brand trust through repair",
+    "customer experience recovery"
+  ],
+  "video": "JEssPJUx1OE.youtube"
+}

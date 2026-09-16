@@ -1,0 +1,99 @@
+{
+  "analysis_created_at": "2026-09-14T22:17:04.632452+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Immersive onboarding through life-experience simulation (military-style orientation for new hires)",
+      "timestamp": "00:00:16"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Life-first conversations to shift focus from policy to personal context",
+      "timestamp": "00:00:32"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Deliberate field exposure to understand the customer’s life",
+      "timestamp": "00:00:39"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Linking Net Promoter Score and renewal rates to ongoing customer insight",
+      "timestamp": "00:01:04"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Lifecycle-oriented onboarding recommendations for other businesses",
+      "timestamp": "00:01:26"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "f6768b11-fb0e-584d-b7c5-66aa226806c0",
+    "spec_sha256": "a7a337a5ea30a6a7bb9a5a70d93a46b8eda500c006a11cf9a70b3288ddcb664a",
+    "timing": {
+      "analysis_ms": 41648,
+      "dependency_resolution_ms": 244,
+      "handler_ms": 42680,
+      "input_fetch_ms": 664
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 28318,
+      "digest": "ecf9c9a7dfe9260e82af9854cc26123e9aec317587d07f56fd5c0ee28f0df45c",
+      "key": "objects/sha256/ec/f9c9a7dfe9260e82af9854cc26123e9aec317587d07f56fd5c0ee28f0df45c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d728b790-9f9b-51b3-9812-496b561f636b"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "immersion in the customer’s life",
+        "military-style onboarding",
+        "field-based interaction with customers",
+        "life-first conversations",
+        "customer lifecycle focus",
+        "outcome metrics (NPS, renewals)"
+      ],
+      "description": "The speaker outlines USAA’s approach where new hires undergo military-style onboarding (meals, gear, letters) to start with the customer’s life rather than policy. The talk emphasizes regular field interactions to understand the customer, culminating in strong outcomes such as high Net Promoter Score and 2011 renewal rate, and ends by proposing that this life-centered approach be applied to other businesses.",
+      "end": "00:01:36",
+      "start": "00:00:00",
+      "title": "Immersive onboarding and life-centric customer empathy"
+    }
+  ],
+  "summary": "This talk excerpt describes USAA’s onboarding approach that immerses new hires in the customer’s life (military-style orientation, field exposure) to foster deep customer empathy before discussing policy. The speaker argues that deliberate, ongoing field interactions keep staff connected to customers and their lives, contributing to strong outcomes such as a high Net Promoter Score and a 98% renewal rate in 2011. The speaker then suggests applying life-centered onboarding and lifecycle engagement to other businesses, emphasizing understanding the customer beyond paperwork.",
+  "title": "Immersive onboarding and life-centric customer empathy (USAA case study)",
+  "topics": [
+    "USAA onboarding",
+    "Customer empathy",
+    "Immersive onboarding",
+    "Field-based customer exposure",
+    "Life-centric conversations",
+    "Net Promoter Score (NPS)",
+    "98% renewal rate (2011)",
+    "Lifecycle-based customer engagement",
+    "Life of customer vs policy",
+    "Onboarding for service professions",
+    "Customer-centric business transformation"
+  ],
+  "video": "hCrDni5MIs0.youtube"
+}

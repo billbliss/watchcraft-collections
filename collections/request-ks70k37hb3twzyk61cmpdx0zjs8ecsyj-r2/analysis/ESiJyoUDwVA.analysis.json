@@ -1,0 +1,114 @@
+{
+  "analysis_created_at": "2026-09-14T21:19:41.437117+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 26, 2015",
+    "iso": "2015-05-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Define and promote a new CX leadership role (Chief Customer Officer) and articulate its organizational value",
+      "timestamp": "00:00:23"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Frame the book as a practical roadmap for CX leadership within organizations",
+      "timestamp": "00:00:32"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Use metaphorical framing to mobilize practitioners (brave Crusaders; customer gauntlet)",
+      "timestamp": "00:00:42"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention in transcript: left Microsoft in 2002",
+      "confidence": 0.85,
+      "name": "Microsoft"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "d51c9961-8ccf-5357-86ed-0f313a09e673",
+    "spec_sha256": "87a115efd34271cf5fb871caf43f7af7852ebe5f121e91fb4a4f313cd844b95c",
+    "timing": {
+      "analysis_ms": 36909,
+      "dependency_resolution_ms": 136,
+      "handler_ms": 38178,
+      "input_fetch_ms": 1015
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 15466,
+      "digest": "201f74cfadafd748d0bbc1c4341a2c2eacc9c0f21e3f7d0343d1c96d5368d499",
+      "key": "objects/sha256/20/1f74cfadafd748d0bbc1c4341a2c2eacc9c0f21e3f7d0343d1c96d5368d499",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "b9d442fd-6e5d-5f9f-a083-6ea413621c78"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Leaving Microsoft in 2002",
+        "Need for a practical CX desk guide"
+      ],
+      "description": "Bliss describes the motivation to create a desk guide on customer experience after her tenure at Microsoft.",
+      "end": "00:00:13",
+      "start": "00:00:00",
+      "title": "Origin and motivation for the guidebook"
+    },
+    {
+      "concepts": [
+        "Book titled Chief Customer Officer",
+        "Publisher's initial doubt about the role",
+        "Emergence of the role as a concept"
+      ],
+      "description": "She recounts the decision to title the book with the role and the publisher’s skepticism, noting the role was just beginning to be considered.",
+      "end": "00:00:32",
+      "start": "00:00:13",
+      "title": "Publishing the Chief Customer Officer and naming the role"
+    },
+    {
+      "concepts": [
+        "Book as a roadmap for CX leadership",
+        "Brave Crusaders metaphor",
+        "Customer gauntlet framing"
+      ],
+      "description": "Bliss emphasizes the book's reception as a practical roadmap and uses metaphor to describe practitioners tackling customer-centric challenges.",
+      "end": "00:00:42",
+      "start": "00:00:32",
+      "title": "Impact and framing for practitioners"
+    }
+  ],
+  "summary": "In this concise 45-second excerpt, Jeanne Bliss recalls leaving Microsoft in 2002 and writing what she calls the first practical guide to customer experience, Chief Customer Officer. She notes she had to convince the publisher to name the book after the emerging role, and observes that the book quickly provided a roadmap for practitioners—supporting her view that the Chief Customer Officer role was just beginning to be considered. BlissThen frames the idea of “brave Crusaders” tackling the customer gauntlet, positioning the book as foundational guidance for organizations seeking to formalize customer-centric leadership.",
+  "title": "Chief Customer Officer: Defining a Leadership Role for Customer Experience",
+  "topics": [
+    "Chief Customer Officer (CCO) role",
+    "customer experience leadership",
+    "guidebook for CX leadership",
+    "publication and naming of a new role",
+    "publisher hesitation vs. adoption",
+    "CCO as a growing concept",
+    "Brave Crusaders metaphor",
+    "customer gauntlet concept",
+    "impact of the book as a roadmap",
+    "career transition from Microsoft",
+    "global adoption of CCO concept",
+    "foundational CX guidance"
+  ],
+  "video": "ESiJyoUDwVA.youtube"
+}

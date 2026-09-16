@@ -1,0 +1,118 @@
+{
+  "analysis_created_at": "2026-09-14T21:38:44.880931+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 1, 2013",
+    "iso": "2013-08-01",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Mindset: customer as asset at the beginning",
+      "timestamp": "00:00:03"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Communication: punctuate the beginning relationship to influence growth",
+      "timestamp": "00:00:08"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Culture work: suspend cynicism in organizational culture",
+      "timestamp": "00:00:17"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Culture work: hardwire belief and address minority perspectives",
+      "timestamp": "00:00:22"
+    },
+    {
+      "confidence": 0.93,
+      "technique": "Capability building: training and education to enable belief",
+      "timestamp": "00:00:33"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "566a16bd-29da-577b-ac70-fd219e71c744",
+    "spec_sha256": "b9956ecb70010d923a7e15298a0e0e199768fb25df1b5d125ebf3fa6fc659237",
+    "timing": {
+      "analysis_ms": 33567,
+      "dependency_resolution_ms": 135,
+      "handler_ms": 35198,
+      "input_fetch_ms": 1432
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 10049,
+      "digest": "4061bca949bbbacb67d73af65ad9f610ef601b50b77d96782c6eddcbc35b1021",
+      "key": "objects/sha256/40/61bca949bbbacb67d73af65ad9f610ef601b50b77d96782c6eddcbc35b1021",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "33c96493-3d6a-5d84-aa6c-80de538f4bae"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "believing is about two things",
+        "customer as asset at the beginning",
+        "impact of the beginning relationship on growth"
+      ],
+      "description": "The speaker introduces believing as comprising two main ideas: viewing the customer as an asset from the start and recognizing that how you begin the relationship drives future growth.",
+      "end": "00:00:08",
+      "start": "00:00:00",
+      "title": "Two core ideas of believing"
+    },
+    {
+      "concepts": [
+        "beginning relationship punctuation",
+        "growth linkage",
+        "suspending cynicism",
+        "hardwiring belief in culture",
+        "managing to the minority"
+      ],
+      "description": "The talk expands to the cultural level: punctuating the initial customer relationship to influence growth, and the need to suspend cynicism and embed belief into the organization's culture, including addressing minority perspectives as part of that cultural hardwiring.",
+      "end": "00:00:28",
+      "start": "00:00:08",
+      "title": "Suspending cynicism and hardwiring belief into culture"
+    },
+    {
+      "concepts": [
+        "training and education",
+        "creating belief in employees",
+        "believe and be believed in the job"
+      ],
+      "description": "The final point emphasizes equipping employees with training and education so they can both believe in their work and be believed in by others, completing the cycle of a belief-centered workplace.",
+      "end": "00:00:33",
+      "start": "00:00:28",
+      "title": "Training to enable belief and be believed"
+    }
+  ],
+  "summary": "In this succinct clip from Jeanne Bliss’s Beloved Companies framework, the speaker defines believing as two intertwined commitments: first, to treat the customer as an asset from the outset and to carefully punctuate that opening relationship because it shapes growth; second, to suspend cynicism and hardwire belief into the organizational culture, including efforts to address the needs of the minority. The final emphasis is on empowering employees through training and education so they can believe in their work and be believed in, forming the foundation of a culture where customers and staff are valued as essential assets.",
+  "title": "Belief as Asset: Customer-first Mindset and Training for a Culture of Belief",
+  "topics": [
+    "customer as asset",
+    "beginning customer relationship",
+    "growth influence of initial contact",
+    "suspending cynicism",
+    "hardwiring belief into culture",
+    "managing to the minority",
+    "employee belief",
+    "training and education for belief",
+    "believe and be believed in the job"
+  ],
+  "video": "_EWSKMSIWYU.youtube"
+}

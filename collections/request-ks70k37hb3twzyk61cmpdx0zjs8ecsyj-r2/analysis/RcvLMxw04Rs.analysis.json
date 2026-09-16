@@ -1,0 +1,99 @@
+{
+  "analysis_created_at": "2026-09-14T21:50:57.044230+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Reliability-driven storytelling on social media",
+      "timestamp": "00:00:08"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Explicit focus on front-line and process reliability as key service levers",
+      "timestamp": "00:00:15"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "bc447045-40dd-5f05-ae33-958edcd6413c",
+    "spec_sha256": "0cc86915c4046c1e1fa8e9028503ce331842758882d72405aea6f2b1c00c22b0",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-5df47ebd609b",
+        "term-6305593a1dae",
+        "term-cdb7e7cb40d9",
+        "term-ef8809f41257"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 36327,
+      "dependency_resolution_ms": 64,
+      "handler_ms": 37140,
+      "input_fetch_ms": 633
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 10337,
+      "digest": "4796b8f5886c2d2a39fac3ae89f5efe8e0947c8a61e1eef9f5793b4943f6632b",
+      "key": "objects/sha256/47/96b8f5886c2d2a39fac3ae89f5efe8e0947c8a61e1eef9f5793b4943f6632b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "a19c926b-647b-582b-82d7-4f9cba3f0bab"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "operational reliability",
+        "consistency",
+        "peace of mind",
+        "front line quality",
+        "process reliability",
+        "response time",
+        "cycle time",
+        "time to first review"
+      ],
+      "description": "This section presents the core claim: reliability across people, processes, and response cadence shapes the story customers tell on social media.",
+      "end": "00:00:33",
+      "start": "00:00:00",
+      "title": "Reliability as the foundation of social media storytelling"
+    }
+  ],
+  "summary": "In this 38-second talk published May 8, 2013, Jeanne Bliss argues that social media success hinges on operational reliability. She states that reliability across the front line, processes, and response times creates a trust-worthy customer experience, because your reliability is what gives customers a story to tell: \"in social media, your ability to be reliable is what gives your customers a story to tell.\" The talk highlights specific reliability touchpoints—quality of staff, process reliability, how long it takes to answer a phone, and cycle time to deliver the first review—and invites organizations to assess their current reliability to turn service consistency into a compelling social narrative.",
+  "title": "Experience Reliability as a Social Media Story",
+  "topics": [
+    "Operational reliability",
+    "consistency",
+    "Peace of mind",
+    "front line staff reliability",
+    "Process reliability",
+    "Phone response time",
+    "cycle time",
+    "Time to first information review",
+    "Social media storytelling",
+    "Customer experience management",
+    "Reliability metrics in customer service",
+    "Service levels on social channels",
+    "Reliability assessment",
+    "Brand storytelling"
+  ],
+  "video": "RcvLMxw04Rs.youtube"
+}

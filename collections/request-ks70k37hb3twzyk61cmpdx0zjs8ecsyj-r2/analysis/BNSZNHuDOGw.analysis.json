@@ -1,0 +1,124 @@
+{
+  "analysis_created_at": "2026-09-14T22:13:38.327636+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Gumby Award (recognition for flexibility and collaboration)",
+      "timestamp": "00:00:13"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Culture of cross-functional helping to improve customer experience",
+      "timestamp": "00:00:24"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Transparency with customers (sharing financials as trust-building)",
+      "timestamp": "00:00:51"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript explicitly ties Gumby Award to The Container Store; filming location cannot be inferred.",
+      "confidence": 0.6,
+      "name": "Container Store (explicit mention in transcript as context for the award)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "318c6c27-1c0a-5737-9e7d-b91a33d428e1",
+    "spec_sha256": "567e4c9e9008e6746da2241b7b80650b1af8e7dfdfdd0b0c65eca9a6006f9930",
+    "timing": {
+      "analysis_ms": 33985,
+      "dependency_resolution_ms": 40,
+      "handler_ms": 35067,
+      "input_fetch_ms": 903
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 16261,
+      "digest": "b7dcc431fe7cfb95811ec7b5661a0820c0dfc778a875a2f428c2727095e5106f",
+      "key": "objects/sha256/b7/dcc431fe7cfb95811ec7b5661a0820c0dfc778a875a2f428c2727095e5106f",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "5891722d-4a3d-5494-a652-c14cf02e9b45"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "flexibility",
+        "gut instinct",
+        "audience framing"
+      ],
+      "description": "Introductory question framing the core idea of valuing flexible, instinct-based responses in teams.",
+      "end": "00:00:13",
+      "start": "00:00:00",
+      "title": "Opening the topic: Do you encourage flexibility and gut?"
+    },
+    {
+      "concepts": [
+        "Gumby Award",
+        "Container Store",
+        "organizational recognition"
+      ],
+      "description": "Explanation of Gumby Award as the most flexible in helping others, tied to The Container Store and its leadership.",
+      "end": "00:00:24",
+      "start": "00:00:13",
+      "title": "Gumby and Pokey; Gumby Award at The Container Store"
+    },
+    {
+      "concepts": [
+        "cross-functional collaboration",
+        "customer service",
+        "team culture"
+      ],
+      "description": "Argues that in retail, a culture where people help each other prevents customer frustration and supports business growth.",
+      "end": "00:00:50",
+      "start": "00:00:24",
+      "title": "Culture of mutual aid over competition"
+    },
+    {
+      "concepts": [
+        "financial transparency"
+      ],
+      "description": "Notes sharing financials with customers as part of a broader strategy.",
+      "end": "00:00:51",
+      "start": "00:00:50",
+      "title": "Transparency with customers"
+    }
+  ],
+  "summary": "Jeanne Bliss frames a retail leadership approach built on flexibility and gut instinct, illustrating the idea with The Container Store’s Gumby Award, presented by chairman Kip Tindell to the person who is most flexible in helping others. The message emphasizes that a culture of mutual assistance reduces customer friction and enhances the shopping experience, contrasting it with internal competition. Bliss also notes that shared financial information with customers is part of a broader strategy to foster trust and transparency as part of service-oriented leadership.",
+  "title": "Encouraging Flexibility and Gut in Retail Culture: Gumby Award and Cross-Functional Collaboration",
+  "topics": [
+    "Gumby Award",
+    "Kip Tindell",
+    "Container Store",
+    "flexibility",
+    "gut instinct",
+    "employee empowerment",
+    "cross-functional collaboration",
+    "culture of helping",
+    "retail leadership",
+    "customer experience",
+    "silo elimination",
+    "transparency with customers"
+  ],
+  "video": "BNSZNHuDOGw.youtube"
+}

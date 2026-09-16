@@ -1,0 +1,81 @@
+{
+  "analysis_created_at": "2026-09-14T22:40:28.598009+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 21, 2013",
+    "iso": "2013-03-21",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.7,
+      "technique": "Decision-to-Action-to-Brand Story progression",
+      "timestamp": "00:00:28"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Audience reflection prompt: 'What’s your story?'",
+      "timestamp": "00:00:38"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "80fc23e4-2953-549a-8224-a5a784902a63",
+    "spec_sha256": "dfe1a0c8a00ee44752f83d2c16ca197fd47b0f996e4804242ff89c9a6ab426be",
+    "timing": {
+      "analysis_ms": 24692,
+      "dependency_resolution_ms": 57,
+      "handler_ms": 25430,
+      "input_fetch_ms": 602
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 12276,
+      "digest": "f441080af6fd1820f8a3d92cc52097b7516513ed94a223ddbe53735f4e6aa358",
+      "key": "objects/sha256/f4/41080af6fd1820f8a3d92cc52097b7516513ed94a223ddbe53735f4e6aa358",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "236f422a-9930-5d73-9b5c-3e1be14e9af0"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "devoted customers",
+        "five decisions",
+        "actions from decisions",
+        "brand story"
+      ],
+      "description": "Introduction to the core premise: love from customers translates into their advocacy, but that advocacy comes from earning the right to their story through five decisive actions that drive growth.",
+      "end": "00:00:40",
+      "start": "00:00:00",
+      "title": "Five decisions shape devoted customers and brand story"
+    }
+  ],
+  "summary": "In a competitive landscape, Jeanne Bliss argues that customer love is earned by a sequence of deliberate organizational choices. The transcript frames five decisions that generate devoted customers and business growth, explaining that decisions lead to actions, and the accumulation of those actions forms the company’s story. The speaker then invites viewers to consider what their own company’s story says about them, prompting reflection on how decisions are reflected in customer perception and word-of-mouth.",
+  "title": "Is Your Company Beloved? — Five Decisions to Create Devoted Customers (Jeanne Bliss)",
+  "topics": [
+    "customer love",
+    "brand storytelling",
+    "customer experience",
+    "decision-to-action chain",
+    "business growth through retention",
+    "word-of-mouth marketing",
+    "brand perception",
+    "market differentiation",
+    "brand narrative",
+    "customer advocacy"
+  ],
+  "video": "OCKpTcSDM0w.youtube"
+}

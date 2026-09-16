@@ -1,0 +1,120 @@
+{
+  "analysis_created_at": "2026-09-14T22:28:07.351900+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Monitoring online reviews and social proof (Yelp and other sites)",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Quantifying influence split in buying decisions (20% vs 80%)",
+      "timestamp": "00:00:19"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Sentiment tracking of social-media adoption (Keller K. Chalk Track)",
+      "timestamp": "00:00:51"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "0efc4554-7b79-539a-bffd-6cd82ffe8ae1",
+    "spec_sha256": "cf32526df07609d808ebb0d8ac8319ad05d2ebf449a2932fb263246d7670cd47",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-32ed076a0044",
+        "term-d0b986424176"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 48970,
+      "dependency_resolution_ms": 114,
+      "handler_ms": 49895,
+      "input_fetch_ms": 681
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 16474,
+      "digest": "4ebdc378feeca92a52415db6e8b0a570e41e0611f26877abd7e0bdff8e139972",
+      "key": "objects/sha256/4e/bdc378feeca92a52415db6e8b0a570e41e0611f26877abd7e0bdff8e139972",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ac2b70a0-c387-5278-81af-68f9f7596612"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Yelp",
+        "hundreds of websites",
+        "customer opinions",
+        "social proof",
+        "online reviews",
+        "brand perception"
+      ],
+      "description": "The speaker references Yelp and numerous websites where customers discuss brands they love, framing these online opinions as a major influence on buying decisions and the broader concept of social proof.",
+      "end": "00:00:42",
+      "start": "00:00:00",
+      "title": "Online reviews and social proof"
+    },
+    {
+      "concepts": [
+        "Keller K. Chalk Track",
+        "sentiment",
+        "social media adoption"
+      ],
+      "description": "Introduction of the Keller K. Chalk Track, described as a way to track how much people are embracing and using social media in their purchasing choices.",
+      "end": "00:00:51",
+      "start": "00:00:42",
+      "title": "Keller K. Chalk Track"
+    },
+    {
+      "concepts": [
+        "sentiment tracking",
+        "social media influence",
+        "buying decisions"
+      ],
+      "description": "The track is framed as measuring sentiment and the extent to which social media shapes the end of the buyer’s day and overall decision process.",
+      "end": "00:01:00",
+      "start": "00:00:51",
+      "title": "Sentiment tracking and social media influence"
+    }
+  ],
+  "summary": "The video presents how modern purchasing decisions are heavily influenced by online conversations rather than marketer-led content. It notes that customers spend only about 20% of their decision-making time listening to brands and reading marketing material, while roughly 80% comes from input from colleagues, friends, and strangers on the internet. The content references Yelp and other websites as sources of public opinion, framing this online chatter as a form of social proof. It introduces the Keller K. Chalk Track as a way to track sentiment and the extent to which people embrace and use social media in their buying decisions.",
+  "title": "Online Reviews, Social Proof, and the Keller K Chalk Track",
+  "topics": [
+    "Yelp",
+    "Online opinions on hundreds of websites",
+    "Social proof in buying decisions",
+    "B2B buying decisions influenced by social proof",
+    "B2C buying decisions influenced by social proof",
+    "20% vs 80% information influence in buying decisions",
+    "Peer recommendations and colleague input",
+    "Input from complete strangers on the internet",
+    "brand perception shaped by online conversations",
+    "Sentiment tracking of social media adoption",
+    "Keller K. Chalk Track",
+    "Online reviews and consumer trust"
+  ],
+  "video": "H88bdzQ7hAA.youtube"
+}

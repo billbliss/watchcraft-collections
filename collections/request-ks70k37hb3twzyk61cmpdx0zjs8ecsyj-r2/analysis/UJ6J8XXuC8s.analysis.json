@@ -1,0 +1,132 @@
+{
+  "analysis_created_at": "2026-09-14T22:20:13.553700+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Servant leadership and enabling the best selves",
+      "timestamp": "00:00:12"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Being real and human in organizational culture",
+      "timestamp": "00:00:19"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Public response to competitor assertion",
+      "timestamp": "00:00:49"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Humor in corporate communications",
+      "timestamp": "00:01:05"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Whimsy as daily discipline",
+      "timestamp": "01:36:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e5291f13-8177-584c-ba73-da780269af5f",
+    "spec_sha256": "a26fb4753df025ce39b128f4baa40e46ca423d571734c213e8e1349f3237ac8a",
+    "timing": {
+      "analysis_ms": 46412,
+      "dependency_resolution_ms": 47,
+      "handler_ms": 47225,
+      "input_fetch_ms": 647
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 25464,
+      "digest": "f37ffc1ca3d62a9c060c1ba572431aeb2ab961f531be1a8b4ee3d76d24eaf50c",
+      "key": "objects/sha256/f3/7ffc1ca3d62a9c060c1ba572431aeb2ab961f531be1a8b4ee3d76d24eaf50c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "e4da225c-fbc4-5f9c-bd74-857eb4eda135"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Colleen Barrett",
+        "servant leadership",
+        "enabling employees to bring their best selves",
+        "being real"
+      ],
+      "description": "The speaker notes Colleen Barrett's role and introduces servant leadership as enabling the best version of employees and emphasizing humanity in the workplace.",
+      "end": "00:00:25",
+      "start": "00:00:00",
+      "title": "Intro: Colleen Barrett, servant leadership, and being real"
+    },
+    {
+      "concepts": [
+        "Southwest Airlines",
+        "Northwest Airlines rivalry",
+        "customer satisfaction",
+        "official corporate response"
+      ],
+      "description": " Southwest has become highly successful in customer satisfaction, prompting Northwest to claim they are number one; the transcript references an official corporate response after executive and legal consultation.",
+      "end": "00:01:05",
+      "start": "00:00:25",
+      "title": "Southwest ascent and competitor response"
+    },
+    {
+      "concepts": [
+        "humor in corporate communications",
+        "tone of public statements"
+      ],
+      "description": "The transcript captures a moment of humorous phrasing ('liar liar pants on fire') and discusses how humor interacts with serious business messaging.",
+      "end": "00:01:26",
+      "start": "00:01:05",
+      "title": "Humor in messaging and tone"
+    },
+    {
+      "concepts": [
+        "whimsy in daily life",
+        "hardwiring whimsy into culture",
+        "closing emphasis on daily practice"
+      ],
+      "description": "The speaker emphasizes hardwiring whimsy into everyday operations as an important part of the company’s culture and daily life.",
+      "end": "01:41:00",
+      "start": "01:26:00",
+      "title": "Whimsy as daily discipline"
+    }
+  ],
+  "summary": "The speaker discusses Colleen Barrett’s role at Southwest Airlines and frames leadership around being real and human, grounded in servant leadership. The narrative juxtaposes Southwest’s rising customer satisfaction with a rival claim from Northwest Airlines and describes an official corporate response, followed by a lighthearted tone that emphasizes humor and whimsy as a deliberate daily practice. Together, these elements illustrate how culture, communication, and leadership style contribute to Southwest’s authenticity and customer focus.",
+  "title": "Southwest Airlines: Realness, Servant Leadership, and Whimsy in Corporate Culture",
+  "topics": [
+    "Colleen Barrett",
+    "Southwest Airlines",
+    "Northwest Airlines rivalry",
+    "servant leadership",
+    "being real and human in business",
+    "official corporate response",
+    "humor in corporate communications",
+    "whimsy in daily life",
+    "I Love You More Than My Dog (book)",
+    "foreword by Colleen Barrett",
+    "customer satisfaction",
+    "corporate culture",
+    "business authenticity"
+  ],
+  "video": "UJ6J8XXuC8s.youtube"
+}

@@ -1,0 +1,185 @@
+{
+  "analysis_created_at": "2026-09-15T03:15:18.445185+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 2, 2010",
+    "iso": "2010-11-02",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Deliver wow through service as a core value",
+      "timestamp": "00:02:52"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Empowerment of customer-service reps to locate out-of-stock items (multi-website search)",
+      "timestamp": "00:02:02"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "2,000 leave program as a culture and commitment test",
+      "timestamp": "00:05:38"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Stop dropshipping to own inventory for better customer experience",
+      "timestamp": "00:11:57"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Twitter adoption for internal bonding and customer connection",
+      "timestamp": "00:10:13"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Decide to believe — culture-driven hiring and empowerment",
+      "timestamp": "00:04:02"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicitly mentioned in transcript as a comparison for customer service behavior; not stated as filming location.",
+      "confidence": 0.55,
+      "name": "Macy's flagship store (analogy context for 'Miracle on 34th Street')"
+    },
+    {
+      "basis": "Explicitly mentioned as the catalyst for adopting Twitter; SXSW is widely known to be held in Austin, TX",
+      "confidence": 0.6,
+      "name": "South by Southwest (SXSW)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "d493080a-7c71-5be2-90c4-3cb268e99983",
+    "spec_sha256": "3a6ef11d52fb677a7ce5d0326f573f13ca1d4d73d4d0ffdec7f69afce2da0a54",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-f6634cd3d975"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 65325,
+      "dependency_resolution_ms": 118,
+      "handler_ms": 66395,
+      "input_fetch_ms": 851
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 297580,
+      "digest": "5fdfbd59cd16be322cd6d5c1003e57f6382a4fc35acb41faacc1d064eca13b39",
+      "key": "objects/sha256/5f/dfbd59cd16be322cd6d5c1003e57f6382a4fc35acb41faacc1d064eca13b39",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "5b81543f-e0d5-5a80-beb7-e47ec390d0c0"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Long-term customer relationship over individual sale",
+        "Finding substitutes by searching across multiple websites when an item is unavailable",
+        "Delivering a 'Miracle on 34th Street' style help-desk experience",
+        "Average call length ~5-6 minutes and associated cost",
+        "Low incremental cost for wow experiences and their strategic value"
+      ],
+      "description": "Dialogue outlines how Zappos trains and empowers customer loyalty reps to locate items not in stock, prioritizing the customer relationship and branding benefits over short-term sales efficiency.",
+      "end": "00:03:53",
+      "start": "00:01:22",
+      "title": "Case Study 1 — Empowering service reps to locate out-of-stock items"
+    },
+    {
+      "concepts": [
+        "Core value: deliver wow through service",
+        "Pure empowerment and a non-hierarchical, bottoms-up culture",
+        "Hiring emphasis on belief in the culture and future of Zappos",
+        "Alignment and happiness through culture-driven decision making"
+      ],
+      "description": "Explores how belief in the culture informs hiring, empowerment of frontline staff, and streamlined decision making, reducing top-down friction.",
+      "end": "00:05:31",
+      "start": "00:04:02",
+      "title": "Section 2 — Decide to Believe: culture, empowerment, and bottoms-up leadership"
+    },
+    {
+      "concepts": [
+        "Idea originated with Tony; legal/HR pushback",
+        "Concept: paying new hires to leave during training to weed out non-commitment",
+        "Evolution to a formal $2,000 offer during onboarding",
+        "Turn-down psychology: accepting the leave offer signals stronger commitment",
+        "Cultural test and grace in departures"
+      ],
+      "description": "Details the controversial program to pay employees to leave, its rationale, and how it serves as a deliberate culture and commitment check during onboarding.",
+      "end": "00:08:33",
+      "start": "00:05:38",
+      "title": "Section 3 — The 2,000 Dollar Leave Program: testing commitment and culture"
+    },
+    {
+      "concepts": [
+        "Early adoption after SXSW introduction",
+        "Internal adoption: hundreds of employees using Twitter; ~1.4M followers for Tony; ~10-11k for a co-host",
+        "Facilitating serendipity and tighter employee bonds",
+        "Customer perceptions: feeling like they know the people at Zappos"
+      ],
+      "description": "Describes how Twitter evolved from a casual communications tool to a platform that strengthens internal culture and personalizes the brand for customers.",
+      "end": "00:11:21",
+      "start": "00:09:14",
+      "title": "Section 4 — Twitter as a Humanizing Connection"
+    },
+    {
+      "concepts": [
+        "Early model of dropshipping versus inventory ownership",
+        "Control of the customer experience as a growth enabler",
+        "25% revenue cost in the transition phase",
+        "Board and leadership alignment in a capital-intensive shift"
+      ],
+      "description": "Covers the strategic shift from dropshipping to maintaining inventory to ensure a consistent, high-quality customer experience, including financial trade-offs.",
+      "end": "00:13:53",
+      "start": "00:11:57",
+      "title": "Section 5 — Stop dropshipping: Owning the Experience"
+    },
+    {
+      "concepts": [
+        "Original focus on selection due to Nick's founding story",
+        "Evolution to include service and a personal emotional connection",
+        "Ongoing expansion of the vision to deliver happiness"
+      ],
+      "description": "Summarizes how Zappos continuously evolves its mission to deepen customer impact and brand purpose.",
+      "end": "00:14:53",
+      "start": "00:13:53",
+      "title": "Section 6 — Vision Evolution: From Selection to Service to Delivering Happiness"
+    }
+  ],
+  "summary": "The interview with Zappos COO Alfred Lin centers on how Zappos became a beloved company through a relentless focus on service, culture, and deliberate business decisions. The discussion unfolds across several documented case studies and practices: empowering customer-service reps to locate items not in stock to fulfill customer needs; a culture of belief and bottom-up leadership that prioritizes the customer experience; a controversial but defining program that pays people to leave to test commitment; the strategic use of social media (Twitter) to strengthen internal bonds and humanize the brand; a bold shift away from dropshipping to owning inventory to control the customer experience; and an evolving vision that moves from selection to service to delivering happiness. Throughout, the ROI of exceptional service is framed not just in dollars saved or earned, but in strengthened brand loyalty, employee alignment, and a durable competitive edge in tough economic times.",
+  "title": "Zappos Case Studies: Empowerment, Culture, and Strategic Service Choices (Transcript Analysis)",
+  "topics": [
+    "Zappos core value: deliver wow through service",
+    "Miracle on 34th Street analogy in service decisions",
+    "Empowering loyalty reps to locate out-of-stock items",
+    "Multi-website search to fulfill customer requests",
+    "Cost of service vs ROI: 5-6 minute calls; $5-6 per call",
+    "ROI of exceptional service and branding effects",
+    "Decide to believe: empowerment and culture alignment",
+    "Bottom-up, non-hierarchical culture at Zappos",
+    "Hiring for cultural fit and belief in the company",
+    "2,000 to leave program: concept, implementation, and culture test",
+    "Stopping dropshipping: owning inventory to control the customer experience",
+    "Revenue impact of stopping dropshipping (~25%)",
+    "Vision evolution: from selection to service to delivering happiness",
+    "Personal emotional connection and humanization through social media (Twitter)",
+    "Serendipity and internal bonding via Twitter"
+  ],
+  "video": "0POuZ6LC760.youtube"
+}

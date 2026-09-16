@@ -1,0 +1,126 @@
+{
+  "analysis_created_at": "2026-09-15T03:19:34.500182+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 19, 2010",
+    "iso": "2010-08-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.82,
+      "technique": "High-touch + high-tech CRM integration",
+      "timestamp": "00:01:39"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Customer storytelling and social proof in the marketplace",
+      "timestamp": "00:00:28"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Employee retention as driver of loyalty and cost reduction",
+      "timestamp": "00:00:39"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Social media signals of brand love (customers saying 'love' or 'can't live without')",
+      "timestamp": "00:01:20"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Accountability tied to CRM outputs",
+      "timestamp": "00:01:51"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "CRM as a tool, not a magic bullet",
+      "timestamp": "00:01:34"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Actionable interpretation of data to surface required actions",
+      "timestamp": "00:01:45"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "20e5017d-e091-5c6d-89d5-7f3ccb18c482",
+    "spec_sha256": "a7f9a6d57c37d54af434d05ac8f0bfb1a14d0b214ea8858214d9360fe43f1457",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-463417965754",
+        "term-a13eb851ac35"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 39898,
+      "dependency_resolution_ms": 214,
+      "handler_ms": 41071,
+      "input_fetch_ms": 787
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 34828,
+      "digest": "1c46b8a055d3204e67f3d04ba62af57184c19fbf8ab0b9a96cf0c5152df2de2c",
+      "key": "objects/sha256/1c/46b8a055d3204e67f3d04ba62af57184c19fbf8ab0b9a96cf0c5152df2de2c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "6460a45b-af37-5839-be64-050af9e71b21"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Customers tell their stories and defend the brand in the marketplace",
+        "Employee retention reduces continuous recruiting costs",
+        "Unrivaled customer experience drives profitability, internal prosperity, and growth"
+      ],
+      "description": "Bliss identifies three differentiators of beloved companies: customers who publicly tell the brand story, employees who stay and energize the organization, and a distinctive customer experience that outperforms competitors. These factors contribute to profitability, internal prosperity, and growth even in challenging times.",
+      "end": "00:01:34",
+      "start": "00:00:07",
+      "title": "Three pillars and benefits of a beloved company"
+    },
+    {
+      "concepts": [
+        "CRM is not a magic bullet",
+        "Blend high touch with high tech to surface information and actions",
+        "Drive accountability by attaching commitment to the tool"
+      ],
+      "description": "The speaker argues that CRM must be paired with people and process. While CRM can extract data and suggest actions, real value comes when there is organizational commitment to act on those insights. The phrase 'tickle out' refers to surfacing what needs to be done, and the organization must commit to taking those actions to realize the benefits of the tool.",
+      "end": "01:56:00",
+      "start": "00:01:34",
+      "title": "CRM: balancing high touch with high tech and ensuring accountability"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that beloved companies are defined by three interrelated dynamics: (1) customers actively sharing their stories in the marketplace, which creates immune-brand loyalty; (2) employees who stay and infuse Energy into the organization, reducing replacement costs; and (3) an unrivaled customer experience that differentiates the brand and drives growth. The talk emphasizes that loyalty yields profitability and resilience in good and bad times. The path to beloved status begins with retaining employees and cultivating a culture where customers publicly express love for the brand, often via social media. Bliss cautions that CRM is not a magic bullet; success requires blending high-touch, human service with high-tech data to surface needed actions and drive accountability. Without organizational commitment to act on CRM insights, the tool alone falls short.",
+  "title": "What Makes a Beloved Company: Jeanne Bliss on People, Experience, and CRM",
+  "topics": [
+    "Customer storytelling",
+    "Word-of-mouth / social proof",
+    "Employee retention",
+    "Cost reduction from reduced turnover",
+    "Unrivaled customer experience",
+    "profitability and growth",
+    "Social media signals of brand love",
+    "CRM as a tool, not a solution",
+    "High-touch + high-tech integration",
+    "Accountability tied to CRM actions",
+    "Leadership culture and Energy",
+    "Actionable insights from customer data"
+  ],
+  "video": "44UnvCWhgBA.youtube"
+}

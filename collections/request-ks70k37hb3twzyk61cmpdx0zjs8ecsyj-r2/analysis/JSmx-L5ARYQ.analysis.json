@@ -1,0 +1,146 @@
+{
+  "analysis_created_at": "2026-09-14T22:43:15.602962+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 19, 2013",
+    "iso": "2013-03-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Apology language",
+      "timestamp": "00:00:20"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Accountability and learning from mistakes",
+      "timestamp": "00:00:22"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Moving toward customers at decision points",
+      "timestamp": "00:00:34"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Proactive recovery plan and frontline empowerment",
+      "timestamp": "00:00:41"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Suspending fear to acknowledge fault",
+      "timestamp": "00:00:15"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "12c4f7a2-59b9-50c7-8d3e-5ca6c1982083",
+    "spec_sha256": "a92147364084e597c91329b9cc6e55c00187b970c904def6a65b611af5504e41",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-f58482b7aa0f"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 27652,
+      "dependency_resolution_ms": 238,
+      "handler_ms": 28736,
+      "input_fetch_ms": 705
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 14867,
+      "digest": "a2565ef724159fd81cf763db55d1013b7e5e778896ff3be2489c556b1d35c66c",
+      "key": "objects/sha256/a2/565ef724159fd81cf763db55d1013b7e5e778896ff3be2489c556b1d35c66c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "de033ecb-d658-5cd2-a5e3-455d2d224c1c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "emotional repair",
+        "apology",
+        "grace and wisdom guiding decisions"
+      ],
+      "description": "Beloved companies repair the emotional connection with customers after things go wrong, guided by grace and wisdom rather than fear.",
+      "end": "00:00:20",
+      "start": "00:00:00",
+      "title": "Emotional repair through apology"
+    },
+    {
+      "concepts": [
+        "We are sorry",
+        "humility",
+        "accountability",
+        "learning from mistakes"
+      ],
+      "description": "The transcript notes the explicit apology phrase and the expectation that organizations go beyond words by accepting accountability and learning from errors.",
+      "end": "00:00:33",
+      "start": "00:00:20",
+      "title": "We are sorry and accountability"
+    },
+    {
+      "concepts": [
+        "move toward customers",
+        "fork in the road",
+        "customer-centric decisions"
+      ],
+      "description": "At key decision points, beloved companies decide to move in the direction of customers, signaling a commitment to customer interests.",
+      "end": "00:00:40",
+      "start": "00:00:33",
+      "title": "Choosing the customer-directed path"
+    },
+    {
+      "concepts": [
+        "proactive recovery plan",
+        "empowering people to rescue customers",
+        "trust and loyalty"
+      ],
+      "description": "A proactive recovery plan and trusting frontline teams to resolve issues are described as essential to earning customer and employee stories and achieving loyalty and growth.",
+      "end": "00:00:47",
+      "start": "00:00:40",
+      "title": "Proactive recovery and trust-building"
+    }
+  ],
+  "summary": "In this brief lesson, Jeanne Bliss emphasizes that great companies repair the emotional bond with customers after mistakes by openly apologizing, taking accountability, and learning from errors. The speaker frames apology as a humble, courageous action—captured in the line We are sorry—that should be followed by concrete changes and a proactive recovery plan. By choosing to move toward customers at critical decision points and trusting frontline teams to resolve issues, organizations can cultivate deep loyalty and turn broken experiences into enduring customer and employee stories that fuel growth.",
+  "title": "Decision 5: Say Sorry and Proactively Restore Customer Trust",
+  "topics": [
+    "emotional repair",
+    "apology language",
+    "We are sorry",
+    "accountability",
+    "learning from mistakes",
+    "change management",
+    "humility in leadership",
+    "securing customer trust",
+    "proactive recovery plan",
+    "moving toward customers",
+    "frontline empowerment",
+    "customer loyalty",
+    "employee advocacy",
+    "risk-taking in customer service",
+    "trust during crises",
+    "repairing the customer relationship",
+    "grace and wisdom in decision-making",
+    "avoidance of fear in service recovery",
+    "customer and employee narratives",
+    "business growth through trust"
+  ],
+  "video": "JSmx-L5ARYQ.youtube"
+}

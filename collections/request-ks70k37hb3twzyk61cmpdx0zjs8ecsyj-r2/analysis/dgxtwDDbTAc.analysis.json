@@ -1,0 +1,79 @@
+{
+  "analysis_created_at": "2026-09-14T22:10:43.132973+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Acronym usage elimination exercise",
+      "timestamp": "00:00:40.000"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Customer-perspective process walkthrough",
+      "timestamp": "00:01:31.200"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "USAA-style onboarding reference",
+      "timestamp": "00:01:37.820"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "dd7a71db-bb0c-5803-ab53-2928adb71c20",
+    "spec_sha256": "42736dafc3b34e24a14116b0d0a9f6c44d96cb951c253f6d974cfaa38ae44e4b",
+    "timing": {
+      "analysis_ms": 46850,
+      "dependency_resolution_ms": 135,
+      "handler_ms": 47881,
+      "input_fetch_ms": 790
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 30657,
+      "digest": "9349f5e6dfb73740de52460a6cab4ce479a38b321b583e3ccd9b6816bca35501",
+      "key": "objects/sha256/93/49f5e6dfb73740de52460a6cab4ce479a38b321b583e3ccd9b6816bca35501",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "5a1c94f8-f8c1-5a96-b898-8474984376e0"
+  },
+  "schema_version": 2,
+  "sections": [],
+  "summary": " Jeanne Bliss argues that real, customer-centered operation starts by prioritizing people over accounts and choosing to manage life rather than spread sheets, and by visibly embedding values into how the business runs. She frames a three-action approach to being real, then expands with practical methods: (1) put humanity on the line in how you do business; (2) remove jargon from communications with customers; and (3) surface language issues through an acronym-focused team exercise. The talk also emphasizes walking in customers’ shoes by mapping and stepping through the processes customers experience, and it advocates onboarding that mirrors the customer-centric USAA training approach to instill customer experience into new hires. The examples include airline jargon to illustrate how acronyms can erase human connection, and she invites teams to test their own language and processes against the customer’s perspective.",
+  "title": "Being Real in Customer Operations: Three Actions to Put Humanity into How You Operate",
+  "topics": [
+    "customer-centric operations",
+    "human-centered business",
+    "managing life over spreadsheets",
+    "embedding values in operations",
+    "reducing jargon in customer communications",
+    "acronym elimination exercise",
+    "team activity: stand up, pair off, three-minute acronym talk",
+    "airline jargon example (PAX, C-12) as illustration",
+    "become a customer: walking in customers' shoes",
+    "customer journey/process walkthrough",
+    "deliberate processing through customer tasks",
+    "new hire onboarding modeled on USAA training",
+    "communication clarity with customers",
+    "tone and language in customer interactions",
+    "feeling of humanity in everyday operations",
+    "operational alignment with customer experience"
+  ],
+  "video": "dgxtwDDbTAc.youtube"
+}

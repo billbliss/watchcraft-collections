@@ -1,0 +1,94 @@
+{
+  "analysis_created_at": "2026-09-15T03:22:17.534292+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Authentic storytelling and personal branding through family history",
+      "timestamp": "00:00:13"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Empathetic, customer-centric language in sales",
+      "timestamp": "00:00:25"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Identity framing through lived experience to shape business philosophy",
+      "timestamp": "00:00:00"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit statement in transcript: \"Grew up in Des Plaines, Illinois.\"",
+      "confidence": 0.92,
+      "name": "Des Plaines, Illinois"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e209aade-703c-5a1f-81de-44236ce90b88",
+    "spec_sha256": "bb735f54d26326a5582974eb62564d6f787f9d70c5a8e4306018bd6c4025a70f",
+    "timing": {
+      "analysis_ms": 25321,
+      "dependency_resolution_ms": 113,
+      "handler_ms": 26077,
+      "input_fetch_ms": 555
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 12505,
+      "digest": "361c798d9796c6f9b32e65fb7a78f3fca23861f0c1bd306968f2343eba68a8fc",
+      "key": "objects/sha256/36/1c798d9796c6f9b32e65fb7a78f3fca23861f0c1bd306968f2343eba68a8fc",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "5d882d89-6692-5451-a54d-8ce8f9d18503"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Italian heritage",
+        "Family size and dynamics",
+        "Des Plaines upbringing",
+        "Father's shoe store (Buster Browns)",
+        "Lessons on authentic customer connection",
+        "Empathy and ethical sales practices"
+      ],
+      "description": "This section presents the speaker's self-identification, family background, and upbringing, highlighting the influence of her father’s shoe store on values such as authenticity, genuine connection with customers, and considerate sales practices.",
+      "end": "00:00:34",
+      "start": "00:00:00",
+      "title": "Biographical Introduction and Family Influence"
+    }
+  ],
+  "summary": "In a brief autobiographical segment, Jeanne Bliss identifies herself with Italian heritage and a large family, naming Des Plaines, Illinois, as her hometown. She recalls her father running a Buster Browns shoe store and describes how sitting at his knee taught her not only how to sell footwear but how to be real and connect with customers. The narrative emphasizes empathy in sales—persuading a mother to buy for her children while acknowledging financial constraints—and frames these early experiences as defining elements of her identity and approach to business.",
+  "title": "Jeanne Bliss: Early Life in Des Plaines and Lessons from a Family Shoe Store",
+  "topics": [
+    "Italian heritage",
+    "Large family dynamics (four brothers, three sisters)",
+    "Des Plaines, Illinois upbringing",
+    "Father's Buster Browns shoe store",
+    "Learning to sell through family guidance",
+    "Authenticity in customer relationships",
+    "Empathetic sales and connection with customers",
+    "Financial empathy in sales (mom and children scenario)",
+    "Value of helping customers within their means",
+    "Personal framing of identity through early work experiences"
+  ],
+  "video": "CcSPskMvGiM.youtube"
+}

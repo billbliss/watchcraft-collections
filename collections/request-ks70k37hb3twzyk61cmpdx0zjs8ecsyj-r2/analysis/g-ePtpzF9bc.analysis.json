@@ -1,0 +1,139 @@
+{
+  "analysis_created_at": "2026-09-15T03:25:25.152294+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "In-pool testing with real customers for swimwear",
+      "timestamp": "00:00:28"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Translating customer words into business decisions (voice-of-customer driven strategy)",
+      "timestamp": "00:00:39"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Speaker refers to 'the first experience to be at Land's End'; no explicit evidence about filming location.",
+      "confidence": 0.65,
+      "name": "Land's End (probable workplace/context referenced)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "33eca902-2372-50d5-a5b5-91e34d6911a3",
+    "spec_sha256": "eff0e89c26baaef5bae42b4b19818f386f5ebed51e68efe7e6d40bc187d49ec1",
+    "timing": {
+      "analysis_ms": 66621,
+      "dependency_resolution_ms": 41,
+      "handler_ms": 67379,
+      "input_fetch_ms": 599
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 19517,
+      "digest": "e98a6f4a6dd34cb37bef06b3e6b620eaf3eb80b53d64cfa2dc7cee029ed466c0",
+      "key": "objects/sha256/e9/8a6f4a6dd34cb37bef06b3e6b620eaf3eb80b53d64cfa2dc7cee029ed466c0",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "676ff8f7-ed76-5707-9cf6-6a5c8f840b07"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "formative experience at Land's End",
+        "culture of trust and autonomy"
+      ],
+      "description": "The speaker attributes foundational insights to an early experience at Land's End, where she felt trusted to be herself and empowered to do the right things for customers.",
+      "end": "00:00:12",
+      "start": "00:00:00",
+      "title": "Gift of the Land's End experience"
+    },
+    {
+      "concepts": [
+        "trust enables decision rights",
+        "customer-first focus"
+      ],
+      "description": "She notes that staff were given the right decisions and the ability to act for customers.",
+      "end": "00:00:20",
+      "start": "00:00:12",
+      "title": "Right decisions for customers"
+    },
+    {
+      "concepts": [
+        "listen to customers",
+        "foundation for product creation"
+      ],
+      "description": "The philosophy of building products begins with listening to customers.",
+      "end": "00:00:28",
+      "start": "00:00:20",
+      "title": "Listening-first product development"
+    },
+    {
+      "concepts": [
+        "recruit real women",
+        "pool testing",
+        "try-on evaluation"
+      ],
+      "description": "Real women were brought into a pool to swim and try on swimsuits, using hands-on testing to inform design.",
+      "end": "00:00:33",
+      "start": "00:00:28",
+      "title": "In-pool testing with real customers"
+    },
+    {
+      "concepts": [
+        "customer feedback on fit",
+        "cup placement",
+        "back fit"
+      ],
+      "description": "A participant comments on fit issues (cup riding high) and how it affects appearance, illustrating direct customer input on design tweaks.",
+      "end": "00:00:39",
+      "start": "00:00:33",
+      "title": "Fit feedback from customers"
+    },
+    {
+      "concepts": [
+        "voice-of-customer informs strategy",
+        "long-term customer-centric focus"
+      ],
+      "description": "The speaker asserts that customer words shaped the business and commits to continuing this customer-centric approach throughout her career.",
+      "end": "00:00:54",
+      "start": "00:00:39",
+      "title": "Words drive the business; career commitment"
+    }
+  ],
+  "summary": "Jeanne Bliss recounts a formative experience at Land's End that shaped her commitment to customer-centric product design. She describes a culture of trust that empowered staff to make the right decisions for customers, and she emphasizes building products by listening to real customers. A concrete example describes inviting real women to test swimsuits in a pool, gathering direct feedback on fit (such as cup placement and back fit), and using those words to drive business decisions. The talk culminates in a pledge to pursue this customer-focused approach throughout her career.",
+  "title": "Real-World Customer Feedback Drives Swimwear Design: The Land's End Experience",
+  "topics": [
+    "Land's End experience",
+    "customer-centric product development",
+    "listening to customers",
+    "real-user testing",
+    "in-pool testing with real customers",
+    "fit feedback (cup placement, back fit)",
+    "voice-of-customer driven strategy",
+    "culture of trust and autonomy",
+    "translating customer words into business decisions",
+    "long-term commitment to customer-centric work",
+    "prototype development from customer input",
+    "customer feedback loop"
+  ],
+  "video": "g-ePtpzF9bc.youtube"
+}

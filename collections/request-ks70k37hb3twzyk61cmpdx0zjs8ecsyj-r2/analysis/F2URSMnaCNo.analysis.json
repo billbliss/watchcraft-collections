@@ -1,0 +1,141 @@
+{
+  "analysis_created_at": "2026-09-14T22:22:14.999833+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.9,
+      "technique": "Story-based customer relationship",
+      "timestamp": "00:00:01"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Guided product choice over flashy options",
+      "timestamp": "00:00:07"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Flexible payment/trust-building gesture",
+      "timestamp": "00:00:25"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Calm, tender fitting approach",
+      "timestamp": "00:00:41"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Story integration as memory anchor",
+      "timestamp": "00:00:56"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Personal mentorship and authenticity model",
+      "timestamp": "00:01:19"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Addressing scalability of authentic care",
+      "timestamp": "00:01:34"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Leadership priority and action",
+      "timestamp": "00:01:39"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit in transcript: 'selling Buster Brown shoes in Des Plaines, Illinois.'",
+      "confidence": 0.9,
+      "name": "Des Plaines, Illinois"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "22b11917-4d94-5401-b4e3-8984e87196c4",
+    "spec_sha256": "2881ce3de8d1c26806bbf3d3bc11c304a0ff59639cfe3406886790b30a48dda0",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-ac8099fe19a3"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 68380,
+      "dependency_resolution_ms": 63,
+      "handler_ms": 69476,
+      "input_fetch_ms": 818
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 32618,
+      "digest": "f373147864587efee2244b48e73eddce47f4a29f64699f6acfa649914ce182fa",
+      "key": "objects/sha256/f3/73147864587efee2244b48e73eddce47f4a29f64699f6acfa649914ce182fa",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "6e6b8a18-c53f-52a3-860f-009fa4730d9f"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer touchpoints",
+        "first shoes",
+        "appropriate_product_fit",
+        "economic sensitivity and trust",
+        "calm selling style",
+        "generational storytelling"
+      ],
+      "description": "The anecdote centers on a small-town merchant who quietly guides families toward the right fit, even under budget constraints, and becomes part of their lifetime stories.",
+      "end": "01:15:00",
+      "start": "00:00:01",
+      "title": "Story of the local shoe merchant and the power of fitting as a memory anchor"
+    },
+    {
+      "concepts": [
+        "authentic leadership",
+        "scalability of customer-centric culture",
+        "priority of customer stories in business"
+      ],
+      "description": "The speaker connects his father's example to the argument that authentic customer care must scale in business and should be a leadership priority.",
+      "end": "01:43:00",
+      "start": "01:15:00",
+      "title": "From personal mentor to corporate leadership: authenticity as a strategic priority"
+    }
+  ],
+  "summary": "This short talk uses a vivid hometown anecdote about a small-town shoe merchant to illustrate how deeply a business can be woven into a family's life. By gently guiding customers toward the right first shoes, accommodating tight budgets with a 'bring back the rest when you're in town' gesture, and treating the fitting moment as a meaningful service, the merchant becomes part of generations of family stories. The speaker then ties this lived example to leadership, crediting his father—the Des Plaines, Illinois shoeman—as the first to teach him the importance of being real. He argues that authentic, customer-centered care—embodied in everyday interactions—must scale in large organizations, and that the best leaders make this their most important job. The core message is that business growth should be anchored in staying present in customers’ lives, not just flashy marketing or transactional sales.",
+  "title": "Be Part of the Story of Your Customer's Life: A Lesson in Customer-Centric Leadership",
+  "topics": [
+    "first_shoes_as_touchpoint",
+    "steering_to_right_fit_over_flash",
+    "pay_later_trust-building",
+    "tender_fitting_touch",
+    "becoming_part_of_family_life_stories",
+    "story_as_fabric_of_business_growth",
+    "authentic_leadership",
+    "personal_mentorship_by_father",
+    "brand stories and family generations",
+    "scalability_of_true_customer_c care",
+    "customer_relationship_as_memory_anchor",
+    "small_business_to_corporate_practice",
+    "storytelling_in_customer_experience",
+    "leadership_priority_and_culture"
+  ],
+  "video": "F2URSMnaCNo.youtube"
+}

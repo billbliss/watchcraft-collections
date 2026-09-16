@@ -1,0 +1,98 @@
+{
+  "analysis_created_at": "2026-09-15T03:36:02.094226+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 11, 2010",
+    "iso": "2010-08-11",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Noble decision-making as a driver of financial and human prosperity",
+      "timestamp": "00:00:22.980"
+    },
+    {
+      "confidence": 0.6,
+      "technique": "Leveraging customer advocacy to accelerate growth",
+      "timestamp": "00:01:11.260"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "96ed16e1-ef36-5fab-8579-17ff44c87014",
+    "spec_sha256": "f7301a7c2d32fbcbd3fe3bc5ff5627db0ccc162b2e32dca75bfa770059bbd4fe",
+    "timing": {
+      "analysis_ms": 22776,
+      "dependency_resolution_ms": 113,
+      "handler_ms": 23601,
+      "input_fetch_ms": 588
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 25499,
+      "digest": "8370fa9ab066111996b555cd0d3859b18c208730ae03af56baf2d5a8f725322b",
+      "key": "objects/sha256/83/70fa9ab066111996b555cd0d3859b18c208730ae03af56baf2d5a8f725322b",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "f3f8a887-6cbd-5442-aa3c-9307e1a17144"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "noble decisions return to the sender",
+        "financial impact of clear decision-making",
+        "decision frameworks as strategic assets",
+        "prosperity of the human spirit",
+        "employee engagement and retention"
+      ],
+      "description": "This section covers the core claim that noble, well-made decisions benefit the company, its people, and its customers. It emphasizes that clear decision-making paths are a powerful asset and that ethical choices yield both financial and non-financial prosperity, including stronger employee relationships and higher engagement.",
+      "end": "00:01:03.900",
+      "start": "00:00:00",
+      "title": "Impact of noble decisions on the company, people, and customers"
+    },
+    {
+      "concepts": [
+        "customers as advocates",
+        "customers recruiting others to try the business",
+        "word-of-mouth amplification",
+        "growth through customer advocacy"
+      ],
+      "description": "This section describes how customers who love the company become its biggest champions, attracting others and fueling growth through their advocacy and referrals. It also notes that happy customers can effectively market the brand more powerfully than the company itself.",
+      "end": "00:01:33.560",
+      "start": "00:01:03.900",
+      "title": "Customers as champions and drivers of growth"
+    }
+  ],
+  "summary": "The talk argues that becoming a beloved company hinges on noble, well-communicated decisions that resonate with employees and customers alike. Such decisions not only yield financial rewards but also create prosperity for the human spirit, as genuine, enduring relationships form between the company, its people, and its customers. When customers become champions, they help attract others, energize growth, and act as an organic marketing force, while employees stay engaged and see their contributions as meaningful to the business and its mission.",
+  "title": "Impact of being a beloved company",
+  "topics": [
+    "beloved company",
+    "noble decisions",
+    "decision-making path",
+    "financial outcomes",
+    "prosperity of the human spirit",
+    "employee engagement",
+    "employee retention",
+    "genuine relationships",
+    "customers as champions",
+    "customer advocacy",
+    "word-of-mouth marketing",
+    "growth through customer referrals",
+    "brand loyalty",
+    "market differentiation by culture"
+  ],
+  "video": "nzpa0u8qVYc.youtube"
+}

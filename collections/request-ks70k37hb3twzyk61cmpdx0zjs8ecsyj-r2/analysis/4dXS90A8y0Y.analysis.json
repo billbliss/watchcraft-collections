@@ -1,0 +1,147 @@
+{
+  "analysis_created_at": "2026-09-14T23:20:35.272544+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 10, 2010",
+    "iso": "2010-11-10",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Experiential hiring task: white paper bag assignment (Amy's Ice Creams case)",
+      "timestamp": "00:00:31"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Analogical storytelling via comparisons (Seattle Fish Market carnival analogy)",
+      "timestamp": "00:00:49"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Weirdness as a proxy for cultural fit in recruitment",
+      "timestamp": "00:01:12"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Reliability engine concept: being there for customers",
+      "timestamp": "00:01:36"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Customer journey framing: 'Here's what happens when you go there' and 'Here's what you get first...'",
+      "timestamp": "00:02:03"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "explicitly named in transcript",
+      "confidence": 0.9,
+      "name": "Amy's Ice Creams, Austin, Texas"
+    },
+    {
+      "basis": "explicitly named as analogy in transcript",
+      "confidence": 0.75,
+      "name": "Seattle Fish Market"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "7a5b0a46-3e3d-5847-9156-7583159f21c2",
+    "spec_sha256": "5673219afcf9955efb76c21cf60a0c281181fb927bc83aa524a99b92dd6cd072",
+    "timing": {
+      "analysis_ms": 60022,
+      "dependency_resolution_ms": 114,
+      "handler_ms": 61805,
+      "input_fetch_ms": 1160
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 48927,
+      "digest": "711bc1168c993b329590e6563812cc0dcf21b222f8d04a32f811953958bee928",
+      "key": "objects/sha256/71/1bc1168c993b329590e6563812cc0dcf21b222f8d04a32f811953958bee928",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ae915bf3-1d7e-58b4-ae1f-1c03e7169f1c"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "replacement or augmentation of resumes with experiential task",
+        "Amy's Ice Creams bag assignment",
+        "Seattle Fish Market referenced as analogy",
+        "bag return and interpretation of applicant identity"
+      ],
+      "description": "Introduces the central idea: a whimsical, experiential task (a white paper bag) that captures a candidate's alignment with the organization's service ethos. Uses Amy's Ice Creams and Seattle Fish Market as concrete, memorable anchors to illustrate what the organization values in candidates.",
+      "end": "00:01:14",
+      "start": "00:00:02",
+      "title": "White Paper Bag concept introduction"
+    },
+    {
+      "concepts": [
+        "weirdness as a proxy for fit",
+        "word-of-mouth as a marketing force",
+        "philanthropy reallocating advertising budget",
+        "the candidate's ability to evoke humanity and connection with customers"
+      ],
+      "description": "Explores how hiring should surface a candidate's real interaction style and cultural alignment. Emphasizes authenticity, human connection, and the idea that strong staff contribute to organic growth via storytelling and philanthropy rather than traditional ads.",
+      "end": "00:01:50",
+      "start": "00:01:14",
+      "title": "Cultural fit and storytelling in hiring"
+    },
+    {
+      "concepts": [
+        "reliability engine",
+        "moments of connection",
+        "consistent, customer-centered experience",
+        "distinguishing customer perspective from company perspective"
+      ],
+      "description": "Delivers the core service design principle: being reliably present for customers creates the engine for growth, built through consistent, meaningful moments of connection perceived from the customer's point of view.",
+      "end": "00:02:10",
+      "start": "00:01:50",
+      "title": "Reliability engine and customer moments"
+    },
+    {
+      "concepts": [
+        "hair in the sink and dirt under the bed as a counterpoint to niceties",
+        "alignment of tangible cues with promises",
+        "importance of a genuine, customer-first experience"
+      ],
+      "description": "Concludes with a hotel-service analogy: no amount of niceties (music, chocolate, pillows) can compensate for failures in basic service quality. Service cues must align with the core experience promised to customers.",
+      "end": "00:02:26",
+      "start": "00:02:10",
+      "title": "Service cues vs luxuries: hotel analogy"
+    }
+  ],
+  "summary": "Jeanne Bliss advocates replacing or augmenting traditional job applications with an experiential task that reveals an applicant’s fit to a customer-centric culture. Using Amy's Ice Creams as a concrete example, the talk describes giving applicants a white paper bag to fill and return, a playful activity intended to surface personality and interaction style. The presenter links this approach to broader service principles by comparing the workplace environment to a vibrant, customer-facing space like Seattle Fish Market and by emphasizing moments of human connection as the core of reliability. The talk also highlights how a brand’s growth can emerge from genuine customer experiences and word-of-mouth, rather than solely from paid advertising, and cautions that tangible service cues must align with the overall experience (as illustrated by the hotel-room analogy).",
+  "title": "White Paper Bag Hiring: A Customer-Centric Recruitment Demonstration",
+  "topics": [
+    "white paper bag",
+    "experiential hiring",
+    "Amy's Ice Creams hiring",
+    "two-week bag return",
+    "revealing personality through tasks",
+    "Seattle Fish Market analogy",
+    "ice cream service as carnival",
+    "cultural fit and 'weirdness'",
+    "word of mouth marketing",
+    "philanthropy over advertising",
+    "story of customer experience",
+    "bring the best self to work",
+    "reliability engine",
+    "mom/grandmother/colleague referrals",
+    "customer journey: first impression, experience, feel, reliability"
+  ],
+  "video": "4dXS90A8y0Y.youtube"
+}

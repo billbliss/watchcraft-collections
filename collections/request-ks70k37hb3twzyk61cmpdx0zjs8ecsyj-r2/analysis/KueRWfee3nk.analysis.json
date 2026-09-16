@@ -1,0 +1,75 @@
+{
+  "analysis_created_at": "2026-09-14T22:12:45.114876+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.6,
+      "technique": "Acronym exposure exercise: stand up, pair off, and speak for three minutes using every acronym in the organization to reveal how jargon excludes listeners.",
+      "timestamp": "00:37:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "193a6d2d-27b2-58ac-8b27-97892138b222",
+    "spec_sha256": "24c4976bfb77ae0f2ef508e9874bbe8355221d17768d1fc8d1ce24f0298e4dfa",
+    "timing": {
+      "analysis_ms": 32936,
+      "dependency_resolution_ms": 44,
+      "handler_ms": 33874,
+      "input_fetch_ms": 776
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 19919,
+      "digest": "ce648688cdff89637b42bd02911e8ad40ee012b616cc71e0c0a3229b3424e13f",
+      "key": "objects/sha256/ce/648688cdff89637b42bd02911e8ad40ee012b616cc71e0c0a3229b3424e13f",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "876f1393-0d90-5dc4-ae73-38327a5576f8"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Humanity in business",
+        "Eliminating jargon",
+        "Acronym-based communication exercise"
+      ],
+      "description": "The speaker outlines a three-action framework for being real: (1) put humanity on the line in how you conduct business, (2) remove jargon from communication with customers, and (3) implement a team activity to surface and evaluate the use of acronyms.",
+      "end": "00:00:57",
+      "start": "00:00:14",
+      "title": "Three Actions on Being Real"
+    }
+  ],
+  "summary": "This concise, roughly 1-minute YouTube clip presents Jeanne Bliss’s core idea that being real in business means focusing on people rather than numbers, and aligning operations with stated values. The talk lays out three actions for being real: (1) put humanity on the line in how you do business, (2) eliminate jargon in communication with customers, and (3) introduce a practical team exercise to surface acronyms and their impact on clarity. It warns that acronyms can exclude listeners and impede understanding, and it offers a quick, participatory activity—team members stand, pair off, and speak for three minutes using every acronym they have—to reveal how language can disconnect customers. The segment serves as a micro-guide to customer-centric language and culture within a tight time frame.",
+  "title": "Being Real in Business: People over Spreadsheets, with Jargon Reduction",
+  "topics": [
+    "People-first leadership",
+    "Customer-centric culture",
+    "Operationalizing values",
+    "Jargon elimination",
+    "Acronym usage and comprehension",
+    "Communication clarity with customers",
+    "Jargon-detecting team exercise",
+    "Conscious business language",
+    "Humanity in business operations",
+    "Real-world CRM language practices"
+  ],
+  "video": "KueRWfee3nk.youtube"
+}

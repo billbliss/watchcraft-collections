@@ -1,0 +1,150 @@
+{
+  "analysis_created_at": "2026-09-15T03:02:49.940398+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 9, 2010",
+    "iso": "2010-11-09",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Belief-based customer service culture (trust-first approach)",
+      "timestamp": "00:00:02"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Empowerment over micromanagement (employee decision rights)",
+      "timestamp": "00:01:56"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Test-ride without collateral (risk-tolerant, trust-enabled policy)",
+      "timestamp": "00:03:14"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Lifetime value framing (customers as assets with long-term value)",
+      "timestamp": "00:03:34"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Values-based hiring (long-term fit over quick fills)",
+      "timestamp": "00:04:06"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention in transcript as a setting for luxury shopping experiences; not established as the shooting location",
+      "confidence": 0.6,
+      "name": "California"
+    },
+    {
+      "basis": "Explicit mention of Zane Cycles in Connecticut; used to illustrate test-ride policy and customer lifetime value",
+      "confidence": 0.9,
+      "name": "Connecticut (Zane Cycles)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "d198c301-8cdf-504c-83d8-817ae6cb7f06",
+    "spec_sha256": "49449b0af94630892b09c7bb2528b0943562cee506bf53600d65b1b6faa4da45",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-a13eb851ac35"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 53532,
+      "dependency_resolution_ms": 127,
+      "handler_ms": 54405,
+      "input_fetch_ms": 614
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 77365,
+      "digest": "e286b6811bcb00aab5974e8730c3040c3f49bd1754fe3d5ae33c06003ecd74c2",
+      "key": "objects/sha256/e2/86b6811bcb00aab5974e8730c3040c3f49bd1754fe3d5ae33c06003ecd74c2",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ff0722a1-a85b-502b-a598-3c075f7d864d"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "the beloved and prosperous company",
+        "believing customers can be trusted",
+        "reducing wedge between customers and company"
+      ],
+      "description": "Bliss frames the talk as a mirror exercise toward becoming a beloved and prosperous company, arguing that trust-based behavior replaces heavy rules and promises repeat business.",
+      "end": "00:01:56",
+      "start": "00:00:02",
+      "title": "Intro and the Mirror Challenge"
+    },
+    {
+      "concepts": [
+        "believing employees will do the right thing",
+        "less oversight, more Energy and innovation",
+        "congruence of heart and habit"
+      ],
+      "description": "Describes how trust in both customers and employees frees staff to think creatively and align personal ethics with business practice.",
+      "end": "00:03:52",
+      "start": "00:01:56",
+      "title": "Belief in People and Congruence"
+    },
+    {
+      "concepts": [
+        "customers as assets",
+        "long-term relationship value",
+        "no-collateral test ride policy",
+        "lifetime value example ($12,500)"
+      ],
+      "description": "Stresses treating customers as assets with potential lifetime revenue; uses Zane Cycles to illustrate high lifetime value and risk tolerance, including occasional losses on low-value bikes.",
+      "end": "00:04:14",
+      "start": "00:03:52",
+      "title": "Asset Mindset and Lifetime Value"
+    },
+    {
+      "concepts": [
+        "hiring for lifelong values",
+        "not just filling seats",
+        "alignment with company story"
+      ],
+      "description": "Concludes with the suggestion to hire for values and long-term fit rather than merely filling vacancies as the economy shifts.",
+      "end": "00:04:18",
+      "start": "00:04:14",
+      "title": "Hiring for Long-Term Values"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that beloved and prosperous companies share a trust-based operating model: they believe that customers can be trusted, they minimize wedges created by excessive rules, and they empower employees to act with autonomy. This results in Energy, innovation, and a workforce that brings its best self to work. A core theme is treating customers as assets with long-term value rather than as mere costs, and granting decision rights across the organization to nurture that asset. The video stitches these ideas to a concrete example—Zane Cycles offering test rides without collateral—to show how trust can coexist with risk, yielding a high lifetime value per customer (about $12,500). It closes by urging hiring for long-term values, not just filling seats, underscoring the link between personal ethics and business behavior.",
+  "title": "Belief-Driven Customer Asset Strategy: Lessons from Jeanne Bliss on Beloved and Prosperous Companies",
+  "topics": [
+    "trust-based customer policy",
+    "customers as assets vs cost center",
+    "employee empowerment and decision rights",
+    "congruence of heart and habit",
+    "long-term customer lifetime value (LTV)",
+    "test ride policy without collateral",
+    "risk management through trust",
+    "brand stories and customer trust",
+    "ethics in business and personal life",
+    "hiring for values",
+    "customer experience in luxury retail",
+    "nickel-and-diming avoidance",
+    "policy simplicity and trust"
+  ],
+  "video": "h4VJtLVnEcA.youtube"
+}

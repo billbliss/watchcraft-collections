@@ -1,0 +1,139 @@
+{
+  "analysis_created_at": "2026-09-14T22:15:36.082111+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Creative candidate assessment via a 'white bag' task",
+      "timestamp": "00:00:24-00:01:01"
+    },
+    {
+      "confidence": 0.5,
+      "technique": "Using cultural analogies to illustrate workplace environment (Seattle Fish Market reference)",
+      "timestamp": "00:00:41-00:00:54"
+    },
+    {
+      "confidence": 0.55,
+      "technique": "Philanthropy-focused recruitment as branding/marketing",
+      "timestamp": "00:01:13-00:01:15"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention in transcript: 'Amy's Ice Creams in Austin, Texas'.",
+      "confidence": 0.9,
+      "name": "Austin, Texas, USA"
+    },
+    {
+      "basis": "Explicit mention of Seattle Fish Market as analogy; not a filming location.",
+      "confidence": 0.6,
+      "name": "Seattle, Washington, USA (Seattle Fish Market reference)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "4ddac85e-a1d0-5884-9ffa-874b9dc6ca4d",
+    "spec_sha256": "6e04877175aadbbf982fa2b7fff1b10feccc8d96a058e5faf59d5be20f813f5a",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-a13eb851ac35"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 49163,
+      "dependency_resolution_ms": 47,
+      "handler_ms": 50039,
+      "input_fetch_ms": 690
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 25818,
+      "digest": "e6ee15047b8ab4259d63cebb2f135b3489a53497cf6ecd8b60f0d7137f0149f7",
+      "key": "objects/sha256/e6/ee15047b8ab4259d63cebb2f135b3489a53497cf6ecd8b60f0d7137f0149f7",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "cd197e09-c584-577a-affa-c2097d6d0132"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "hiring philosophy",
+        "soul of the company",
+        "customer interaction"
+      ],
+      "description": "The speaker asks whether there is a better way to hire than traditional applications, aiming to capture the whimsy and soul of the organization and to forecast how candidates might interact with customers.",
+      "end": "00:01:15",
+      "start": "00:00:00",
+      "title": "Opening question: a soulful approach to hiring"
+    },
+    {
+      "concepts": [
+        "creative candidate task",
+        "culture-aligned hiring"
+      ],
+      "description": "Amy’s Ice Creams in Austin uses a white paper bag that applicants must transform and return within two weeks to reveal who they are, illustrating a culture-focused hiring method.",
+      "end": "00:01:01",
+      "start": "00:00:24",
+      "title": "Amy's Ice Creams bag exercise"
+    },
+    {
+      "concepts": [
+        "playful culture",
+        "brand analogy"
+      ],
+      "description": "The speaker compares the atmosphere of Amy’s to the Seattle Fish Market’s playful Energy, highlighting how environment and interaction reflect organizational culture.",
+      "end": "00:00:54",
+      "start": "00:00:41",
+      "title": "Seattle Fish Market analogy"
+    },
+    {
+      "concepts": [
+        "word-of-mouth marketing",
+        "philanthropy as strategy"
+      ],
+      "description": "The speaker notes that positive word-of-mouth supports the business and that the money not spent on traditional advertising is redirected toward philanthropy, tying culture to broader brand and recruitment impact.",
+      "end": "00:01:15",
+      "start": "00:01:06",
+      "title": "Outcome: word-of-mouth and philanthropy over traditional advertising"
+    }
+  ],
+  "summary": "The speaker argues for hiring practices that reveal the organization’s whimsy and its impact on customer experiences, rather than relying solely on traditional job applications. By highlighting Amy’s Ice Creams in Austin—where applicants submit a white paper bag that they transform within two weeks to reveal who they are—the talk illustrates a culture-aligned evaluation. It also uses the Seattle Fish Market analogy to illustrate how a playful, high-Energy environment can reflect a company’s soul. The takeaway is that culture, word-of-mouth recruitment, and even philanthropic spending can drive growth and brand strength more effectively than conventional advertising, tying hiring to the broader mission and customer service ethos.",
+  "title": "Hiring for the Soul: A Playful, Culture-Driven Approach to Candidate Fit",
+  "topics": [
+    "hiring",
+    "talent acquisition",
+    "company culture",
+    "employee fit",
+    "creative assessment",
+    "brand-aligned hiring",
+    "Amy's Ice Creams",
+    "Seattle Fish Market analogy",
+    "playful culture",
+    "word-of-mouth marketing",
+    "philanthropy as strategy",
+    "customer experience",
+    "whimsy in hiring",
+    "recruitment marketing",
+    "culture as a differentiator",
+    "employee engagement"
+  ],
+  "video": "OVO-HO14HPU.youtube"
+}

@@ -1,0 +1,164 @@
+{
+  "analysis_created_at": "2026-09-15T03:24:02.186308+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Power Core framework introduction",
+      "timestamp": "00:00:08"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Industry-specific Power Core examples",
+      "timestamp": "00:00:23"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Identify and align with the Power Core",
+      "timestamp": "00:01:01"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Product-based Power Core and early traction",
+      "timestamp": "00:01:17"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Engage the Power Core to gain early traction",
+      "timestamp": "00:01:45"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "4a6941ce-4a73-57ab-945d-d2d9c282f23e",
+    "spec_sha256": "7593220dd61937e76ae9498fc4931959e97022c8e00cd644aec357c7286fe720",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-a13eb851ac35",
+        "term-e655a9fa2f16"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 54569,
+      "dependency_resolution_ms": 46,
+      "handler_ms": 55419,
+      "input_fetch_ms": 686
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 34100,
+      "digest": "0c8c86a1c55725abe6290f1ed7a869a3a49ab53250873a51f434c9533237a8b2",
+      "key": "objects/sha256/0c/8c86a1c55725abe6290f1ed7a869a3a49ab53250873a51f434c9533237a8b2",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "f214d718-d91d-5ab2-bab9-ac106d9f2080"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "PowerCore",
+        "customer transformation",
+        "organizational focus"
+      ],
+      "description": "Bliss defines Power Core as the core driver within a company that shapes how it serves customers and transforms the organization.",
+      "end": "00:00:17",
+      "start": "00:00:00",
+      "title": "Power Core concept introduced"
+    },
+    {
+      "concepts": [
+        "marketing power core",
+        "events and brochures",
+        "customer promise vs. experience"
+      ],
+      "description": "In auto, the traditional Power Core has been marketing—brochures and events—that promises a customer experience, which the actual dealership experience may fail to fulfill.",
+      "end": "00:00:38",
+      "start": "00:00:17",
+      "title": "Industry example: automotive power core and dealership experience"
+    },
+    {
+      "concepts": [
+        "sales focus",
+        "actuarial science",
+        "claims",
+        "customer relevance"
+      ],
+      "description": "In financial services, Power Core tends to center on internal tasks (sales or actuarial/claims work) rather than directly serving customers, with rewards tied to those outputs rather than customer value.",
+      "end": "00:01:01",
+      "start": "00:00:38",
+      "title": "Industry example: financial services power core"
+    },
+    {
+      "concepts": [
+        "identify Power Core",
+        "customer transformation",
+        "alignment"
+      ],
+      "description": "Bliss advocates first identifying the Power Core inside a company and then taking initial actions that align the organization with desired customer transformation.",
+      "end": "00:01:24",
+      "start": "00:01:01",
+      "title": "Approach: identify and align with your Power Core"
+    },
+    {
+      "concepts": [
+        "Microsoft pop-up help",
+        "product-based Power Core"
+      ],
+      "description": "She cites Microsoft’s contextual help prompts as an example of a product-based Power Core that centers improvements around the product to gain traction.",
+      "end": "00:01:24",
+      "start": "00:01:17",
+      "title": "Microsoft example: product-based power core"
+    },
+    {
+      "concepts": [
+        "Energy",
+        "feistiness",
+        "passion",
+        "engage Power Core",
+        "early traction",
+        "move on"
+      ],
+      "description": "Bliss contrasts her early career approach with a more energetic, customer-centric stance and introduces two actions: engage the Power Core and secure early traction to justify broader change.",
+      "end": "00:01:45",
+      "start": "00:01:24",
+      "title": "Execution: energize with passion and engage the Power Core"
+    }
+  ],
+  "summary": "Jeanne Bliss introduces the concept of a Power Core—an internal organizational focus that drives how a company delivers value to customers. Using industry examples (automotive marketing, financial services, and a Microsoft service-model reference), she explains that a Power Core often governs rewards and behavior, sometimes detached from real customer outcomes. The talk then outlines a practical path: identify your Power Core, align actions with it to drive customer transformation, and begin with early traction—often by improving the core product or service—before expanding to broader initiatives. A notable example is Microsoft’s pop-up help as a product-based Power Core, and Bliss emphasizes energizing leadership with passion to engage the Power Core and earn the right to scale change.",
+  "title": "Power Core: Identifying and Leveraging Your Company's Customer-Centric Core",
+  "topics": [
+    "Power Core",
+    "Customer transformation",
+    "Identify Power Core",
+    "Power Core alignment",
+    "Automotive marketing power core",
+    "Dealership experience vs marketing promises",
+    "financial-services power core",
+    "Sales vs customer value",
+    "Product-based power core",
+    "Microsoft pop-up help",
+    "Early traction",
+    "Engagement and expansion",
+    "Cross-functional alignment"
+  ],
+  "video": "MBta2oTI78g.youtube"
+}

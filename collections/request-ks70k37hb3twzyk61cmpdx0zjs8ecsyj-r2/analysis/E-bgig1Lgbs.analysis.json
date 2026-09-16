@@ -1,0 +1,99 @@
+{
+  "analysis_created_at": "2026-09-14T22:30:38.475860+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "ffe2456d-e4b3-55bd-8029-e0e3631d973a",
+    "spec_sha256": "3dbca6e89f7da943202206e571b0eb5f3eb343a4f5a9ea08d72e51ddc8fc32bb",
+    "timing": {
+      "analysis_ms": 36170,
+      "dependency_resolution_ms": 74,
+      "handler_ms": 37082,
+      "input_fetch_ms": 713
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 6959,
+      "digest": "974488aeff34293d7a4928e99aee4935730bd8450a2cabe66253cfbb951ffca4",
+      "key": "objects/sha256/97/4488aeff34293d7a4928e99aee4935730bd8450a2cabe66253cfbb951ffca4",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d4a82b74-f15d-5785-970c-87993302c3a6"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "memories to deliver",
+        "customer experience emphasis"
+      ],
+      "description": "The speaker introduces the core theme: clarity about the memories a business aims to deliver to customers.",
+      "end": "00:00:03",
+      "start": "00:00:00",
+      "title": "Opening question on delivering memories"
+    },
+    {
+      "concepts": [
+        "organization-wide input",
+        "five people",
+        "critical touchpoints"
+      ],
+      "description": "A hypothetical scan of the organization to determine if multiple stakeholders can identify the key moments that shape the customer relationship.",
+      "end": "00:00:06",
+      "start": "00:00:03",
+      "title": "Internal perspective inquiry"
+    },
+    {
+      "concepts": [
+        "critical touchpoints",
+        "intersection points",
+        "personal bond"
+      ],
+      "description": "The speaker highlights the importance of moments that can make or break the bond between a customer and a small business.",
+      "end": "00:00:10",
+      "start": "00:00:06",
+      "title": "Defining critical touchpoints"
+    },
+    {
+      "concepts": [
+        "shared understanding",
+        "could everybody tell you what those were?"
+      ],
+      "description": "The fragment closes with a challenge about whether the organization-wide team can articulate the identified moments.",
+      "end": "00:00:15",
+      "start": "00:00:10",
+      "title": "Questioning shared understanding"
+    }
+  ],
+  "summary": "In this brief, Jeanne Bliss provocatively asks how clearly an organization defines the memories it intends customers to carry. The message emphasizes identifying the critical touchpoints and intersection points that shape a personal bond between customers and a small business owner, highlighting the need for cross-functional alignment within the organization. By considering whether five people across the company can articulate those moments, the talk underscores that memorable customer experiences hinge on shared understanding of which interactions matter most and how to deliver them consistently.",
+  "title": "Clarify the Memories You Deliver: Mapping Critical Touchpoints for Personal Bonds in Small Businesses",
+  "topics": [
+    "memories to deliver",
+    "critical touchpoints",
+    "intersection points",
+    "personal bonds",
+    "small business owner",
+    "organization-wide alignment",
+    "customer experience strategy",
+    "brand messaging and memory",
+    "internal stakeholder perspectives"
+  ],
+  "video": "E-bgig1Lgbs.youtube"
+}

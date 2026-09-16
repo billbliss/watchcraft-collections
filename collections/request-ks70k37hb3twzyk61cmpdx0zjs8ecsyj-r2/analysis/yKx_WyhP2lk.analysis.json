@@ -1,0 +1,226 @@
+{
+  "analysis_created_at": "2026-09-15T03:10:15.041767+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 3, 2010",
+    "iso": "2010-11-03",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.72,
+      "technique": "Store concept as experiential differentiator in banking",
+      "timestamp": "00:00:41.580"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Culture as core asset and risk management",
+      "timestamp": "00:03:28.360"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Front-line empowerment with clear accountability",
+      "timestamp": "00:04:39.100"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Cross-industry benchmarking for innovation",
+      "timestamp": "00:06:26.820"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Transparent leadership and staff engagement during change",
+      "timestamp": "00:07:38.440"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Culture-enabled growth and acquisitions",
+      "timestamp": "00:10:00.260"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Brand trust through authentic in-store experience",
+      "timestamp": "00:06:16.520"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Open, clear communication as a motivator",
+      "timestamp": "00:08:25.260"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "f992b2df-4454-50ee-836d-d6c45e2b1c9a",
+    "spec_sha256": "76c39c3cfb17e9277b16b057f05a127a8aa1bc876fcf5f313634871578df307e",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-10a8c741eaad",
+        "term-a13eb851ac35"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 54423,
+      "dependency_resolution_ms": 255,
+      "handler_ms": 55482,
+      "input_fetch_ms": 721
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 246747,
+      "digest": "c26542dd6fa46ed0833a030df09c11b69d76d4c3c9006a2a45b78baa9b5bfe61",
+      "key": "objects/sha256/c2/6542dd6fa46ed0833a030df09c11b69d76d4c3c9006a2a45b78baa9b5bfe61",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "f74458ff-82cd-558a-b9cb-35f341d96155"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "store concept",
+        "delivery of products",
+        "customer experience",
+        "banking as experiential environment"
+      ],
+      "description": "Ray Davis recounts the strategic decision in the mid-1990s to reinvent banking delivery through a ‘store’ concept, arguing products are commodities and the differentiator is how they are delivered and experienced by customers. The store concept is presented as a response to competition from larger banks.",
+      "end": "00:02:02.060",
+      "start": "00:00:41.580",
+      "title": "Origins of the store concept and differentiating delivery"
+    },
+    {
+      "concepts": [
+        "advertising in retail",
+        "front-line hiring",
+        "customer-facing skills",
+        "non-banking hiring pool"
+      ],
+      "description": "Davis explains that stores recruit from the retail world rather than the traditional banking sector, expanding the candidate pool and focusing on people who can greet customers, sell products, and operate in a lively store environment.",
+      "end": "00:02:59.640",
+      "start": "00:02:25.920",
+      "title": "Retail-oriented recruitment"
+    },
+    {
+      "concepts": [
+        "culture as asset",
+        "risk of bureaucracy",
+        "empowerment vs. hierarchy"
+      ],
+      "description": "The discussion frames culture as the organization’s greatest strength and its greatest risk as the company grows, with a warning against bureaucracy that can erode a distinctive culture.",
+      "end": "00:04:46.600",
+      "start": "00:03:28.360",
+      "title": "Culture as greatest asset and risk"
+    },
+    {
+      "concepts": [
+        "front-line empowerment",
+        "customer-first decisions",
+        "file lines vs. autonomy",
+        "accountability"
+      ],
+      "description": "Davis emphasizes giving store employees authority to resolve issues without escalating, paired with tough-love accountability, clear goals, and timely follow-up to maintain standards and performance.",
+      "end": "00:05:59.080",
+      "start": "00:04:39.100",
+      "title": "Empowerment, decision-making, and tough love"
+    },
+    {
+      "concepts": [
+        "in-store experience",
+        "sign of legitimacy",
+        "trust-building"
+      ],
+      "description": "The speaker describes how customers react to the store environment, including moments when they verify the space is indeed a bank, highlighting the importance of authentic customer-facing experiences.",
+      "end": "00:06:23.220",
+      "start": "00:06:16.520",
+      "title": "Customer experience and brand trust in-store"
+    },
+    {
+      "concepts": [
+        "external benchmarking",
+        "look outside banking",
+        "adapt strategies"
+      ],
+      "description": "Davis advocates seeking ideas outside the banking industry to differentiate, using cross-industry strategies to outpace competitors by adapting successful approaches.",
+      "end": "00:07:01.760",
+      "start": "00:06:26.820",
+      "title": "Cross-industry borrowing and differentiation"
+    },
+    {
+      "concepts": [
+        "transparent leadership",
+        "staff updates",
+        "open feedback loops"
+      ],
+      "description": "The interview highlights the value of frequent, candid communication with employees—citing a flood of emails from staff following transparent leadership decisions.",
+      "end": "00:08:21.000",
+      "start": "00:07:38.440",
+      "title": "Clarity and communication with staff"
+    },
+    {
+      "concepts": [
+        "discipline",
+        "staff motivation",
+        "culture during economic stress"
+      ],
+      "description": "Davis discusses maintaining culture and motivation during challenging times, illustrating how openness about changes (like salary decisions) sustains commitment and Energy.",
+      "end": "00:09:40.580",
+      "start": "00:08:25.260",
+      "title": "Cultural discipline and staff engagement under pressure"
+    },
+    {
+      "concepts": [
+        "growth through acquisitions",
+        "culture as integration tool",
+        "not insular culture"
+      ],
+      "description": "The narrative links ongoing growth and acquisitions to culture, arguing that a strong, adaptable culture not only survives growth but enables smooth integration with outside organizations.",
+      "end": "00:11:15.300",
+      "start": "00:10:00.260",
+      "title": "Staying dynamic and acquisitions as culture-enabled growth"
+    },
+    {
+      "concepts": [
+        "welcoming culture",
+        "accountability",
+        "leadership tone"
+      ],
+      "description": "The conversation closes with a metaphor of culture as a warm, guiding presence—an informal, supportive leadership style that still holds people to high standards and accountability.",
+      "end": "00:11:23.740",
+      "start": "00:11:00.500",
+      "title": "Warm, accountable leadership and the “warm hug” metaphor"
+    }
+  ],
+  "summary": "In this interview excerpt, Ray Davis describes the strategic shift in 1990s to a store-centric, customer-friendly banking model designed to differentiate from large, product-focused banks. He explains how the “store” concept reframed product delivery, hiring, and culture around empowering front-line staff, creativity within rules, and a transparent, accountability-driven leadership style. The discussion covers recruitment in retail rather than banking, the evolving culture as the organization’s greatest asset and its greatest risk, and how clear communication—down to salary decisions—maintains alignment during growth and during acquisitions. Across the narrative, the emphasis is on experiential banking, cross-industry learning, and staying dynamic rather than becoming a bureaucracy-driven traditional bank.",
+  "title": "Store-first banking and culture-driven growth: Ray Davis on Umpqua Bank’s customer-centric strategy",
+  "topics": [
+    "Store concept",
+    "Customer experience in banking",
+    "Experiential banking",
+    "Development of a retail-like banking workforce",
+    "culture as asset and risk",
+    "Empowerment and frontline decision-making",
+    "Tough love and accountability",
+    "Non-bureaucratic leadership",
+    "Retail-style hiring for banks",
+    "Cross-industry benchmarking",
+    "External ideas for differentiation",
+    "Communication and transparency with staff",
+    "Salary freezes and organizational honesty",
+    "Acquisition integration through culture",
+    "Brand trust and authenticity in-store",
+    "Staying adaptive vs. stagnation"
+  ],
+  "video": "yKx_WyhP2lk.youtube"
+}

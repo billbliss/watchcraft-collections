@@ -1,0 +1,100 @@
+{
+  "analysis_created_at": "2026-09-15T03:26:38.487324+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Executive-level customer metrics: track inflows and losses",
+      "timestamp": "00:00:09.580"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Communication for customer-centric leadership: a defined language set for CEO and direct reports",
+      "timestamp": "00:00:13.220"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e6e1e310-ef0a-53cf-bb2b-acc5fb0a17cd",
+    "spec_sha256": "9fc3965b2ff473fe330d577e87b91c06f83a0ecc715c839bb889569747997b91",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-03cd2e2a7f91"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 23424,
+      "dependency_resolution_ms": 270,
+      "handler_ms": 24615,
+      "input_fetch_ms": 828
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 16682,
+      "digest": "f236f715ba3c60fc1b0acc5351cf20185838412d83951d4b5ad6ad1c795eea91",
+      "key": "objects/sha256/f2/36f715ba3c60fc1b0acc5351cf20185838412d83951d4b5ad6ad1c795eea91",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "94ffc3f2-91f2-5497-ae76-8db296b52a26"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customers as asset",
+        "new leadership language",
+        "CEO/direct reports alignment"
+      ],
+      "description": "Introduction to reframing customers as the business asset and creating a language set for top leadership to discuss customer metrics in meetings.",
+      "end": "00:00:28.060",
+      "start": "00:00:00.000",
+      "title": "Asset-focused leadership language and metrics introduction"
+    },
+    {
+      "concepts": [
+        "customer metrics in meetings",
+        "sales vs customer-centric focus",
+        "actions to fix what’s broken"
+      ],
+      "description": "Emphasizes elevating customer importance in business discussions and moving beyond a sole sales focus to address customer impact.",
+      "end": "00:00:43.760",
+      "start": "00:00:28.060",
+      "title": "Shifting meeting discussions toward customer outcomes"
+    }
+  ],
+  "summary": "In this brief talk, Jeanne Bliss reframes the business mindset by treating customers as the primary asset. She describes creating a leadership language and a meeting cadence that centers on customer metrics—specifically tracking how many customers are acquired, how many are lost, why losses occur, and how to fix the underlying issues. The aim is to shift the conversation from a sole focus on sales to a broader, customer-centric view and to embed customer outcomes into executive accountability.",
+  "title": "Customers Are the Asset of the Business: Elevating Customer Metrics in Leadership Meetings",
+  "topics": [
+    "Customers as asset",
+    "Executive metrics for customer inflows and losses",
+    "Customer churn analysis",
+    "Root cause analysis for customer loss",
+    "Leadership language for customer-centricity",
+    "Executive meeting content and accountability",
+    "Sales vs. customer-centric focus",
+    "Fixing broken processes to protect customers",
+    "Asset-based business mindset",
+    "customer lifecycle metrics",
+    "Management culture shift",
+    "Metrics-driven leadership"
+  ],
+  "video": "clZ7fqysrjY.youtube"
+}

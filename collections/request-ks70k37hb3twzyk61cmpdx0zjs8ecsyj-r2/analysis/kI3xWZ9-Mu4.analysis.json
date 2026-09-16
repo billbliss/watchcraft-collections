@@ -1,0 +1,98 @@
+{
+  "analysis_created_at": "2026-09-14T22:34:46.291410+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Deliberate warm greeting / onboarding-focused intro",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Goal-oriented inquiry about business objectives",
+      "timestamp": "00:00:24"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Closing with peace of mind / reassurance",
+      "timestamp": "00:00:37"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "b856e669-941d-5d2e-a70d-9ba8964eb9d2",
+    "spec_sha256": "c77de7197db9504c98058afc8a50369ed5d8317541c4b922fbd2831bcf7fc3a4",
+    "timing": {
+      "analysis_ms": 27315,
+      "dependency_resolution_ms": 128,
+      "handler_ms": 28148,
+      "input_fetch_ms": 592
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 12752,
+      "digest": "e9ad1a1b65a74952211d930db891c156e0df311bc1e89004c784234a033a1750",
+      "key": "objects/sha256/e9/ad1a1b65a74952211d930db891c156e0df311bc1e89004c784234a033a1750",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "388e1528-6fb2-5cf9-a3c3-f676b3842a29"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "deliberate welcoming",
+        "goal-focused onboarding",
+        "initial questions about business goals"
+      ],
+      "description": "Introduces the bookends concept and contrasts greeting approaches: transactional vs relational. Emphasizes asking about what the client aims to accomplish in their business rather than defaulting to tax-year or other administrative questions.",
+      "end": "00:00:24",
+      "start": "00:00:00",
+      "title": "Deliberate Hello in CX"
+    },
+    {
+      "concepts": [
+        "goal-oriented questions about business aims",
+        "quality of goodbye",
+        "peace of mind at close"
+      ],
+      "description": "Discusses avoiding purely transactional questions and ending interactions with actions that provide the client peace of mind.",
+      "end": "00:00:37",
+      "start": "00:00:24",
+      "title": "Relational Conversation and Peaceful Goodbye"
+    }
+  ],
+  "summary": "The video frames customer experience around two pivotal moments—the hello and the goodbye. Jeanne Bliss argues that onboarding should start with a deliberate, relationship-focused welcome that asks about what a client wants to accomplish in their business, rather than defaulting to transactional checks such as tax-year questions. She contrasts this with a personal anecdote about an accountant whose interactions felt overly transactional. The outro matters too: a thoughtful goodbye should leave the client with peace of mind and a sense of closure. Taken together, the video promotes a relational, goal-oriented approach to client conversations at both the start and end of interactions, rather than purely transactional exchanges.",
+  "title": "Customer Experience Bookends: Hello and Goodbye as Deliberate Interactions",
+  "topics": [
+    "customer experience",
+    "bookends concept",
+    "deliberate greeting",
+    "onboarding conversations",
+    "goal-oriented questions",
+    "relationship-building",
+    "business goals discovery",
+    "transactional vs relational service",
+    "client communication",
+    "closing with peace of mind",
+    "first impressions in CX",
+    "end-of-call reassurance"
+  ],
+  "video": "kI3xWZ9-Mu4.youtube"
+}

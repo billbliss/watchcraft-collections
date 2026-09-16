@@ -1,0 +1,138 @@
+{
+  "analysis_created_at": "2026-09-14T23:00:38.224326+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.72,
+      "technique": "Beloved company framework: three pillars (customer storytelling, employee retention, unrivaled experience)",
+      "timestamp": "00:00:14.320"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Observation on social proof: customers using love language and advocacy in public discourse",
+      "timestamp": "00:01:11.920"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "CRM as a tool that must drive actionable outcomes (not just data collection)",
+      "timestamp": "00:01:30.440"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "High touch with high tech: blending qualitative engagement with quantitative data",
+      "timestamp": "00:01:30.440"
+    },
+    {
+      "confidence": 0.76,
+      "technique": "Accountability linkage: commitment attached to CRM to realize results",
+      "timestamp": "00:01:42.440"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "af4e82b4-5b9a-5147-88bf-9049bbcb6083",
+    "spec_sha256": "1688891e82f1093277ce599ec00ce5a5ef7b93de76edb1e818f89fffc77f039c",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-42f04c18a79b",
+        "term-a13eb851ac35"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 57828,
+      "dependency_resolution_ms": 45,
+      "handler_ms": 58512,
+      "input_fetch_ms": 529
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 34735,
+      "digest": "aca9dfd69809825243f5d55450bbaf03c73dfc4715da4354b8c8f00a53fc856c",
+      "key": "objects/sha256/ac/a9dfd69809825243f5d55450bbaf03c73dfc4715da4354b8c8f00a53fc856c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "a509acc8-9bf1-581a-9da1-574a6d0c6bba"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "speaker background",
+        "three pillars",
+        "customer-centric leadership"
+      ],
+      "description": "Jeanne Bliss introduces her background as a customer executive in five large US corporations, announces her work with Customer Bliss, and outlines the core framework of a beloved company: customers who tell your story, employees who stay, and an unrivaled customer experience.",
+      "end": "00:01:01.000",
+      "start": "00:00:00.000",
+      "title": "Introduction and Beloved Company Framework"
+    },
+    {
+      "concepts": [
+        "social media",
+        "customer love",
+        "word-of-mouth"
+      ],
+      "description": "Bliss notes that in today’s environment customers talk about brands, using language like love and cannot live without, signaling authentic advocacy and social proof.",
+      "end": "00:01:21.000",
+      "start": "00:01:01.000",
+      "title": "Customer Voice and Social Proof"
+    },
+    {
+      "concepts": [
+        "CRM not a magic bullet",
+        "blend high touch with high tech",
+        "data-informed actions"
+      ],
+      "description": "She acknowledges CRM as a useful tool but cautions it is not a magic solution; the value comes from combining high-touch engagement with high-tech data to surface actions.",
+      "end": "00:01:42.000",
+      "start": "00:01:25.000",
+      "title": "CRM and High-Touch vs High-Tech"
+    },
+    {
+      "concepts": [
+        "accountability",
+        "commitment attached to the tool"
+      ],
+      "description": "Bliss emphasizes that tools like CRM require organizational commitment to act on the insights; without action, the tool’s value is limited.",
+      "end": "00:01:47.000",
+      "start": "00:01:42.000",
+      "title": "Actionability and Commitment"
+    }
+  ],
+  "summary": "In this short interview, Jeanne Bliss articulates a practical framework for building “beloved” companies. She identifies three differentiators: (1) customers who tell your story in the marketplace, which creates competitive immunity; (2) employees who stay, which lowers recruiting costs and sustains Energy; and (3) an unrivaled customer experience that fuels profitability and growth in both good and bad times. She emphasizes that customer love and social proof—exemplified by positive mentions in social media—are key signals, and she cautions that CRM alone is not a magic bullet. To be effective, organizations must blend high-touch engagement with high-tech data and ensure action and accountability flow from insights, not just collection of information.",
+  "title": "Beloved Company Blueprint: Customer Advocacy, Employee Retention, and CRM Cautions (Jeanne Bliss Interview)",
+  "topics": [
+    "Beloved company framework",
+    "Customer advocacy and storytelling",
+    "Employee retention and recruiting cost",
+    "Unrivaled customer experience",
+    "social media and customer love",
+    "Word-of-mouth and loyalty signals",
+    "Profitability through culture",
+    "Road to beloved organizations",
+    "CRM limitations",
+    "High touch vs high tech",
+    "Actionable insights from data",
+    "Accountability with tools",
+    "Commitment to action"
+  ],
+  "video": "pVRxjqTm9xc.youtube"
+}

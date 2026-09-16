@@ -1,0 +1,91 @@
+{
+  "analysis_created_at": "2026-09-15T03:29:17.473007+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 17, 2010",
+    "iso": "2010-08-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.7,
+      "technique": "Creating human connections that turn customers into brand ambassadors",
+      "timestamp": "00:00:16"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "d9f8d4ec-72cd-591b-a5bb-d120cfb2b6c9",
+    "spec_sha256": "4db062fee792e9b259caf8e3d5279ee3985dfa6feb7186e41fc5c9b1b49892ac",
+    "timing": {
+      "analysis_ms": 32904,
+      "dependency_resolution_ms": 115,
+      "handler_ms": 33740,
+      "input_fetch_ms": 656
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 23497,
+      "digest": "a740e9f83082373dfbb2a759e56e22bd08ae0e82cfbc94397837a07b8f5a7ed5",
+      "key": "objects/sha256/a7/40e9f83082373dfbb2a759e56e22bd08ae0e82cfbc94397837a07b8f5a7ed5",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "93d22ca6-b019-57bb-87dc-a08f1b459a26"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "rave",
+        "experiences",
+        "human connections",
+        "brand ambassadors"
+      ],
+      "description": "The speaker describes how raving fans are created by experiences and human connections, resulting in customers who actively spread the brand story as ambassadors.",
+      "end": "00:00:54",
+      "start": "00:00:00",
+      "title": "Earn the rave through experiences and human connections"
+    },
+    {
+      "concepts": [
+        "earn the right",
+        "customer's story",
+        "interactions",
+        "outcomes"
+      ],
+      "description": "Interactions along the customer journey determine whether customers tell a great story, a not-so-great story, or remain mediocre; the authentic brand story is the one customers tell about who you are beyond marketing.",
+      "end": "00:01:15",
+      "start": "00:00:58",
+      "title": "Earning the right to the customer's story"
+    }
+  ],
+  "summary": "Jeanne Bliss discusses how organizations earn customer raves by crafting experiences and fostering genuine human connections. When a company earns the rave, customers become an army of mouthpieces who share the brand story, extending reach beyond advertising and PR. The talk emphasizes that the authentic story of a company lives in how it operates—its values, people, and decisions—rather than only in marketing materials. The core lesson is that the right to tell a customer’s story is earned through every interaction along the customer journey, with outcomes ranging from great, to not-so-great, to mediocre depending on performance.",
+  "title": "Earn the Rave: Turning Customers into Brand Ambassadors",
+  "topics": [
+    "earn the rave",
+    "customer raves",
+    "word-of-mouth marketing",
+    "online communities",
+    "social media",
+    "customer experience",
+    "human connections",
+    "brand ambassadors",
+    "brand narrative",
+    "authenticity beyond marketing",
+    "earning the right to the customer's story",
+    "customer interactions",
+    "outcomes: great, not-so-great, mediocre"
+  ],
+  "video": "5ZTpTl1rTfY.youtube"
+}

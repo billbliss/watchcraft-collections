@@ -1,0 +1,100 @@
+{
+  "analysis_created_at": "2026-09-14T22:41:51.623995+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 19, 2013",
+    "iso": "2013-03-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.82,
+      "technique": "Five-step decision path",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.72,
+      "technique": "Benchmarking decisions against beloved brands",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "External perception as a pathway to improvement",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.68,
+      "technique": "Fork-in-the-road decision points emphasizing customer and employee focus",
+      "timestamp": "00:00:22"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "b5240e9d-1017-5162-b6a4-665116f1db3f",
+    "spec_sha256": "823a3b4f946706a6e163d6e704af14cff13de6210f23d1afd8473ffdc4d338f7",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-9fdf073a438b"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 26983,
+      "dependency_resolution_ms": 51,
+      "handler_ms": 27849,
+      "input_fetch_ms": 700
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 8681,
+      "digest": "bad87d6da4eeab349b431ca2bef1bdae0b83f1ed7d8e89eaa989c1c731a4d4a2",
+      "key": "objects/sha256/ba/d87d6da4eeab349b431ca2bef1bdae0b83f1ed7d8e89eaa989c1c731a4d4a2",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ed0d3738-6436-5d5a-9b49-633adcbf9ab9"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "five-step decision path",
+        "benchmarking against beloved brands",
+        "external perception",
+        "customer and employee focus",
+        "growth through decision quality"
+      ],
+      "description": "Overview of using a five-step path to compare company decisions with those of beloved brands, highlighting the aim to achieve devoted customers and growth while revealing how you are seen externally and how decisions can be oriented toward customers and employees.",
+      "end": "00:00:22",
+      "start": "00:00:00",
+      "title": "Introduction to the Five-Decision Path"
+    }
+  ],
+  "summary": "Jeanne Bliss introduces a five-step decision assessment that asks viewers to benchmark their company decisions against five decisions made by beloved brands. The aim is to reveal how externally perceived decisions influence loyalty, growth, and overall brand image, and to show how such decisions can be oriented toward both customers and employees. The talk emphasizes that at each decision point (the “fork in the road”) observers will see how beloved companies guide their choices and how those decisions are operationally executed within the organization to drive devoted customers and sustainable growth.",
+  "title": "Introduction to the Five-Decision Path for Customer-Centric Growth",
+  "topics": [
+    "Five-step decision path",
+    "benchmarking against beloved brands",
+    "Customer-centric decision focus",
+    "Employee-centric decision focus",
+    "External perception and brand image",
+    "Operational execution of decisions",
+    "Fork-in-the-road decision points",
+    "Growth through better decisions",
+    "Decision assessment framework",
+    "Path metaphor in business decisions",
+    "Beloved brands as decision guides"
+  ],
+  "video": "qMwZGLfs9s8.youtube"
+}

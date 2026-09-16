@@ -1,0 +1,148 @@
+{
+  "analysis_created_at": "2026-09-14T22:56:51.695495+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Stairway to Desire (desire-centric framing of customer loyalty)",
+      "timestamp": "00:00:54"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Cross-silo leadership exercise (right/left gait analogy)",
+      "timestamp": "00:04:16"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Human duct tape concept (internal alignment for customer experience)",
+      "timestamp": "00:06:02"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "9a4a1e46-ddc4-579a-a144-580534ce6548",
+    "spec_sha256": "f4af8d7a78877ba73a4672945081e31395f3511b7356e808a3c89761df7c39eb",
+    "timing": {
+      "analysis_ms": 44010,
+      "dependency_resolution_ms": 65,
+      "handler_ms": 45108,
+      "input_fetch_ms": 904
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 101066,
+      "digest": "221ffda2f3bacda7bceca263558d69a7e138ef60a93a80455bda9343c5b7a300",
+      "key": "objects/sha256/22/1ffda2f3bacda7bceca263558d69a7e138ef60a93a80455bda9343c5b7a300",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "3738fa50-b176-5c16-9bf7-d5651a65b70b"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer experience leadership",
+        "executive credibility",
+        "industry recognition",
+        "publications and books"
+      ],
+      "description": "Introduces Jeanne Bliss as a sought-after leader hired by top brands to drive customer experience and growth. Highlights 25 years of corporate experience, a track record with major companies, and her status as a credible, results-oriented speaker who reduces focus on mere lip service and accelerates real customer impact.",
+      "end": "00:02:28",
+      "start": "00:00:00",
+      "title": "Credentials and credibility of Jeanne Bliss"
+    },
+    {
+      "concepts": [
+        "media coverage",
+        "thought leadership",
+        "publication references"
+      ],
+      "description": "Notes Bliss’s visibility in national publications and her role as a regular contributor to industry outlets. References her book and the expectation that leadership in customer experience is grounded in proven practice and strategic insight.",
+      "end": "00:02:28",
+      "start": "00:01:13",
+      "title": "Public impact and thought leadership"
+    },
+    {
+      "concepts": [
+        "desire vs loyalty",
+        "stairway to desire",
+        "word-of-mouth growth"
+      ],
+      "description": "Presents the shift from traditional loyalty to the concept of desire as the primary growth driver. Introduces the metaphor of the 'stairway to desire' as the emotional trigger behind customer purchases and referrals, emphasizing that experiences should lead to measurable revenue through word-of-mouth.",
+      "end": "00:01:12",
+      "start": "00:02:29",
+      "title": "Desire over loyalty and the Stairway to Desire"
+    },
+    {
+      "concepts": [
+        "silos and handoffs",
+        "experience governance",
+        "metrics and motivation alignment",
+        "organizational culture"
+      ],
+      "description": "Argues that customer experience is the reflection of an organization’s internal dynamics. Emphasizes the need to align silos, metrics, motivation, and mechanics to deliver a unified experience. Uses the concept of an overseeing group or office to drive purposeful customer experience.",
+      "end": "00:04:32",
+      "start": "00:02:29",
+      "title": "Organizational dynamics: silos, handoffs, and customer experience"
+    },
+    {
+      "concepts": [
+        "interactive exercise",
+        "leadership alignment",
+        "end-game clarity for customers"
+      ],
+      "description": "Describes an exercise to turn individual leaders toward unified action (a physical metaphor of changing gait). Builds toward questions that prompt audiences to assess clarity of purpose for customers and to classify organizational maturity in customer experience.",
+      "end": "00:05:58",
+      "start": "00:04:33",
+      "title": "Audience engagement and actionable prompts"
+    },
+    {
+      "concepts": [
+        "human duct tape",
+        "executive involvement in experience",
+        "closing takeaway"
+      ],
+      "description": "Concludes with Bliss’s metaphor of 'human duct tape'—the binding role inside companies to ensure customer experience is front-and-center—from her 25 years of practice, including examples from her affiliations. Sets up the takeaway that organizations must actively embrace customer experience leadership to avoid negative silos.",
+      "end": "00:06:12",
+      "start": "00:05:59",
+      "title": "Closing concepts: human duct tape and role of experience leadership"
+    }
+  ],
+  "summary": "This six-minute introduction showcases Jeanne Bliss outlining her credentials and core philosophy for leading customer experience in large organizations. The talk foregrounds the idea that customer loyalty is driven by a desirable experience rather than mere satisfaction, introduces the iconic “stairway to desire,” and emphasizes cross-functional alignment to break silos. It weaves in real-world references (Rackspace example, public publications, and Bliss’s book) and culminates with actionable guidance for speakers and organizations to drive accountability for the customer experience, including an exercise to simulate unified leadership in a conference setting.",
+  "title": "Jeanne Bliss: Introduction to Customer Experience Leadership and the Stairway to Desire",
+  "topics": [
+    "customer experience leadership",
+    "chief customer officer (CCO)",
+    "desire vs loyalty",
+    "stairway to desire",
+    "word of mouth and growth",
+    "silos and handoffs",
+    "customer-centric metrics",
+    "cross-functional collaboration",
+    "experience governance/ownership",
+    "publications mentioning customer experience",
+    "book: Chief Customer Officer",
+    "Rackspace case (Bermuda Triangle)",
+    "end-game clarity for customers",
+    "human duct tape",
+    "conference kickoff speaker",
+    "customer experience leadership in large organizations"
+  ],
+  "video": "T3t5ApXbh8Q.youtube"
+}

@@ -1,0 +1,89 @@
+{
+  "analysis_created_at": "2026-09-14T21:45:40.291378+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Experience-focused organizational design to align cross-functional delivery",
+      "timestamp": "00:00:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "adc47540-6cf3-548b-837a-3287224a935f",
+    "spec_sha256": "bd838bd2f39ae2ac245613968426829f5fe226f565b59118b74b42e8f5b2778f",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-b3866fb66172"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 51325,
+      "dependency_resolution_ms": 115,
+      "handler_ms": 52156,
+      "input_fetch_ms": 630
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 9261,
+      "digest": "f46268731c17976cb5c1617de34b29b03b081cc16bd041636c07b56299e62b0c",
+      "key": "objects/sha256/f4/6268731c17976cb5c1617de34b29b03b081cc16bd041636c07b56299e62b0c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "78625752-6db7-5c89-95b7-a4736b574472"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "customer experience",
+        "organization chart",
+        "centers of expertise",
+        "silos",
+        "reliable delivery",
+        "deliberate actions",
+        "consistent experience",
+        "herd the cats"
+      ],
+      "description": "The speaker emphasizes reliability, deliberate action, and unifying the customer experience, arguing that organizing by centers of expertise (operations, data, accounting, sales) can force customers to navigate the organization chart instead of delivering a seamless experience.",
+      "end": "00:00:38",
+      "start": "00:00:00",
+      "title": "Deliver an Experience Beyond the Org Chart"
+    }
+  ],
+  "summary": "Jeanne Bliss argues that delivering a great customer experience requires reliability and deliberate action, not simply following an internal organization chart. She notes that companies are traditionally organized around centers of expertise—operations, data, accounting, and sales—and that this structure can force customers to traverse the internal org chart. The core message is to unite the experience across functions and ‘herd the cats’ to deliver a consistent, authentic customer story, rather than allowing silos to fragment service delivery.",
+  "title": "Deliver an Experience, Not Your Organization Chart",
+  "topics": [
+    "customer experience",
+    "organization chart vs customer journey",
+    "centers of expertise",
+    "operational silos",
+    "reliability and deliberate service",
+    "earning the right to tell the customer's story",
+    "unifying the customer experience",
+    "cross-functional alignment",
+    "consistent customer experience",
+    "customer journey orientation",
+    "silo reduction",
+    "service design"
+  ],
+  "video": "6L3dhmGvfpc.youtube"
+}

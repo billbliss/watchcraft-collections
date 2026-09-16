@@ -1,0 +1,137 @@
+{
+  "analysis_created_at": "2026-09-14T21:39:53.847364+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 1, 2013",
+    "iso": "2013-08-01",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Trust-based, non-intrusive customer interaction (no ID/collateral required)",
+      "timestamp": "00:00:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Frame integrity as a driver of customer lifetime value",
+      "timestamp": "00:00:34"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Cultivate an anti-cynicism internal culture by avoiding suspicion in interactions",
+      "timestamp": "00:00:44"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Risk tolerance as a growth enabler (trust-based policies tied to growth)",
+      "timestamp": "00:00:50"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Use of loss-rate data to justify trust-based practices",
+      "timestamp": "00:00:56"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention in transcript: \"This is a $3,000 bicycle... at Zane Cycles in Connecticut\"; not asserted as shooting location.",
+      "confidence": 0.65,
+      "name": "Zane Cycles, Connecticut"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "e569a069-045a-5eae-b970-9fba6ce9f179",
+    "spec_sha256": "711fe17615b85d4c0b631a0c449b7fe22cccad132dc096faba2931bc0dda149b",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-1562d1a01805",
+        "term-4a997c2d06d7"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 56203,
+      "dependency_resolution_ms": 121,
+      "handler_ms": 57001,
+      "input_fetch_ms": 603
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 20199,
+      "digest": "8b70347bb1fc2e6df2b3cb5063fdfd67eade97c95e5a67b7382032635d1c1eee",
+      "key": "objects/sha256/8b/70347bb1fc2e6df2b3cb5063fdfd67eade97c95e5a67b7382032635d1c1eee",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d988e352-6645-5e66-933a-656aa72ba342"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "ID-free access",
+        "No collateral requirement",
+        "No credit card verification",
+        "Trust-based interaction"
+      ],
+      "description": "The speaker describes a policy at Zane Cycles where a customer can ride a $3,000 bicycle without presenting ID or collateral, arguing that honoring integrity at the moment of interaction builds trust and loyalty rather than interrogating the customer.",
+      "end": "00:24:00",
+      "start": "00:00:00",
+      "title": "No ID, collateral, or credit checks; trust as the default"
+    },
+    {
+      "concepts": [
+        "Lifetime value of customers",
+        "Financial impact of trust",
+        "Value proposition of trust-based service"
+      ],
+      "description": "By honoring customer integrity, the shop reportedly earns a lifetime value of $12,500 from each customer who walks in the door, framing integrity as a strategic asset rather than a risk.",
+      "end": "00:37:12",
+      "start": "00:24:00",
+      "title": "Trust translates to high lifetime value"
+    },
+    {
+      "concepts": [
+        "Internal culture",
+        "policy as protection",
+        "Avoiding cynicism",
+        "Minority protection via rules"
+      ],
+      "description": "The speaker emphasizes that most rules are created to protect the majority from the minority, and warns that asking and checking can foster cynicism among staff. The implication is that policy design should balance trust with risk mitigation to sustain customer relationships and reduce loss.",
+      "end": "01:01:00",
+      "start": "00:37:12",
+      "title": "Internal culture and policy design to protect the majority"
+    }
+  ],
+  "summary": "The speaker uses a real-world example from Zane Cycles in Connecticut to illustrate a trust-first customer experience: riders can take a $3,000 bicycle for a ride without presenting ID, collateral, or credit card information. By honoring the customer’s integrity, the shop aims to build a large lifetime value per customer (cited as $12,500) and cultivate an internal culture that discourages cynicism. The lesson emphasizes aligning business rules with trust, suggesting that strict checks can undermine relationships and erode growth, while a policy that protects the majority from the minority can sustain low loss rates and long-term loyalty.",
+  "title": "Honor Integrity to Grow: A Trust-Based Customer Policy at a Connecticut Bicycle Shop",
+  "topics": [
+    "ID-free rental policy",
+    "Collateral-free policy",
+    "Credit-check avoidance",
+    "Integrity-based trust",
+    "Customer lifetime value ($12,500 per person)",
+    "Internal culture against cynicism",
+    "policy design to protect the majority from the minority",
+    "Low loss rate (about three bikes per year)",
+    "Use of a real-world case study (Zane Cycles, CT)",
+    "Ethics of trust in customer service",
+    "Trust as a growth strategy",
+    "Brand reputation through customer integrity",
+    "Communication of trust to customers",
+    "Risk management through trust-based policies"
+  ],
+  "video": "mKMU7kspppw.youtube"
+}

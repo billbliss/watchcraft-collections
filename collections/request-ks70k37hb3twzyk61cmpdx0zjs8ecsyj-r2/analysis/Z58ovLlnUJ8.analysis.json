@@ -1,0 +1,121 @@
+{
+  "analysis_created_at": "2026-09-14T22:18:48.437911+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 8, 2013",
+    "iso": "2013-05-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.65,
+      "technique": "Eliminate internal airline jargon to improve external customer service",
+      "timestamp": "00:00:32.500"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Reframe staff-facing terminology to reflect customer-centric values (e.g., guests vs. passengers)",
+      "timestamp": "00:00:47.100"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Leadership/branding through changed executive language (e.g., 'big shots' as a contrast to guest-centric terms)",
+      "timestamp": "00:00:43.400"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Cultural transformation as a strategic driver of competitive advantage",
+      "timestamp": "00:00:50.500"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript explicitly refers to WestJet as a Canadian airline and mentions Canadians",
+      "confidence": 0.75,
+      "name": "Canada"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "bec3a9cf-03ca-5351-bcce-46356c3e1902",
+    "spec_sha256": "3150ec5d974081240a618e735c1f1988258772846bfe60e5cd8864d382a1b5d5",
+    "timing": {
+      "analysis_ms": 61159,
+      "dependency_resolution_ms": 123,
+      "handler_ms": 62127,
+      "input_fetch_ms": 700
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 20364,
+      "digest": "2c65159cdabd830e387347fcef25879fce747950ac57fba21896371e069917df",
+      "key": "objects/sha256/2c/65159cdabd830e387347fcef25879fce747950ac57fba21896371e069917df",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "20507c8e-d5f8-5e31-872d-d2a06811fcb7"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "online perception",
+        "internal meetings and external image",
+        "language as a driver of brand perception"
+      ],
+      "description": "Opening idea: the way a company is heard about online depends on the language used in meetings and internal communications, framing how outsiders perceive the business.",
+      "end": "00:00:06.420",
+      "start": "00:00:00",
+      "title": "Perception and the power of organizational language"
+    },
+    {
+      "concepts": [
+        "internal jargon",
+        "airline staff communication",
+        "audience misalignment"
+      ],
+      "description": "Illustrates how airline staff may use shorthand (e.g., pax in seat 10 wants a coffee) that can leak into customer interactions if not managed.",
+      "end": "00:00:32.500",
+      "start": "00:00:06.420",
+      "title": "Flight-crew shorthand as an example of internal lingo"
+    },
+    {
+      "concepts": [
+        "language overhaul",
+        "guest-centric service",
+        "cultural transformation",
+        "competitive positioning"
+      ],
+      "description": "WestJet decided to get rid of the old lingo and shift toward a respectful, guest-centric approach. They frame customers as honored guests, and the ensuing attitude is described as permeating the organization. The result, framed as a five-year outcome, was that WestJet surpassed other Canadian airlines to become the second-largest carrier in Canada.",
+      "end": "00:01:00.360",
+      "start": "00:00:32.500",
+      "title": "WestJet’s lingo reform and its consequences"
+    }
+  ],
+  "summary": "The speaker uses a concrete industry example to illustrate how internal language shapes customer experience and brand perception. By showing flight-crew shorthand (such as Pax in seat 10 wants a coffee) and WestJet’s deliberate move to eliminate that lingo, the talk demonstrates a shift toward a guest-centric service culture. The new attitude—treating passengers as honored guests—permeates the organization and is linked to a dramatic competitive outcome in the Canadian market within five years. The excerpt highlights how language choices at the leadership and daily operations level can become a strategic lever for differentiation.",
+  "title": "WestJet Lingo Reform: From Flight-Attendant Slang to Honored Guest Service",
+  "topics": [
+    "internal language reform",
+    "elimination of jargon",
+    "customer-centric language",
+    "guest-focused branding",
+    "service culture transformation",
+    "leadership messaging",
+    "branding and corporate identity",
+    "organizational change management",
+    "WestJet case study",
+    "impacts on competitive positioning",
+    "online reputation and perception",
+    "communication in service industries"
+  ],
+  "video": "Z58ovLlnUJ8.youtube"
+}

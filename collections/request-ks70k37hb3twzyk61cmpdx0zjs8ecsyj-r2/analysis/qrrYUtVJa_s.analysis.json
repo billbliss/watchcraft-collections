@@ -1,0 +1,188 @@
+{
+  "analysis_created_at": "2026-09-14T22:52:15.127044+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "June 6, 2011",
+    "iso": "2011-06-06",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Reliability as competitive differentiator (operational excellence as a brand asset)",
+      "timestamp": "00:00:17"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Emotional packaging as brand touchpoint",
+      "timestamp": "00:00:57"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Emotion-led product/experience design over focus groups",
+      "timestamp": "00:01:04"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Customer math framework: five key questions",
+      "timestamp": "00:02:26"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Humanizing customer data and asking why",
+      "timestamp": "00:03:00"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Frontline empowerment and trusted decision-making",
+      "timestamp": "00:04:07"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Generous returns policy as loyalty driver",
+      "timestamp": "00:04:24"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "28dc5fac-918d-5f85-abcf-df6dd34ff8aa",
+    "spec_sha256": "376e439a9bfada7635dfa7a723772542e22645718e4e88467c6c7b03a1cccfcf",
+    "terminology_resolution": {
+      "job_id": "d5681edf-acbd-52d5-ab71-eee3082820c2",
+      "resolution_ids": [
+        "term-e647ff379582"
+      ],
+      "source_hash": "df4d14fa9206f7839f216127023654a10e99eef986debcfe37faf730a7f676b6"
+    },
+    "timing": {
+      "analysis_ms": 48546,
+      "dependency_resolution_ms": 116,
+      "handler_ms": 49382,
+      "input_fetch_ms": 635
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 86636,
+      "digest": "013866d6b5d98dde3bba620e944bd784f7c7f0efd29fa85038f4d909a59332b4",
+      "key": "objects/sha256/01/3866d6b5d98dde3bba620e944bd784f7c7f0efd29fa85038f4d909a59332b4",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c9ef90cf-80b3-5912-a663-5f3382d36bdb"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "phone responsiveness",
+        "order fulfillment speed",
+        "operational reliability"
+      ],
+      "description": "The speaker cites Land’s End as achieving high call-answer rates and shipping nearly all orders within 24 hours, framing reliability as the foundation for a differentiated customer experience.",
+      "end": "00:00:57",
+      "start": "00:00:01",
+      "title": "Reliability as differentiator: fast responses and shipping"
+    },
+    {
+      "concepts": [
+        "emotional connection",
+        "brand touchpoints",
+        "kids' product experience"
+      ],
+      "description": "To express gratitude and shared values with families, Land’s End prints animal heads/tails inside boxes so children can ‘ride the lands and box’ around the house, creating a playful emotional connection.",
+      "end": "00:01:44",
+      "start": "00:00:57",
+      "title": "Emotional packaging: boxes that engage kids"
+    },
+    {
+      "concepts": [
+        "emotional-driven design",
+        "values-based brand",
+        "bypassing ineffective focus groups"
+      ],
+      "description": "The speaker argues there was no focus group asking for animal-print packaging; success came from starting from emotional connection and shared values to shape customer experience.",
+      "end": "00:02:26",
+      "start": "00:01:44",
+      "title": "From emotion to business language"
+    },
+    {
+      "concepts": [
+        "customer lifecycle metrics",
+        "new customers, volume and value",
+        "lost customers: volume and value"
+      ],
+      "description": "Introduces the concept of customer math, urging leaders to begin with five questions that center on customers, including who the newest and lost customers are and their financial impact.",
+      "end": "00:03:00",
+      "start": "00:02:26",
+      "title": "Customer math: five questions to focus leadership"
+    },
+    {
+      "concepts": [
+        "why follow-up",
+        "customer data as living people",
+        "keep passion in customer work"
+      ],
+      "description": "Emphasizes following every customer question with 'why' to stay passionate and to prevent treating customers as mere numbers.",
+      "end": "00:03:39",
+      "start": "00:03:00",
+      "title": "Humanizing customer data and asking why"
+    },
+    {
+      "concepts": [
+        "frontline empowerment",
+        "trusting employees",
+        "doing the right thing for customers"
+      ],
+      "description": "Uses the Zappos example to illustrate how trusting frontline staff to make customer-focused decisions can create heroic service experiences.",
+      "end": "00:04:24",
+      "start": "00:04:07",
+      "title": "Frontline empowerment and trust: the hero model"
+    },
+    {
+      "concepts": [
+        "365-day returns",
+        "carpet test for returns",
+        "word-of-mouth growth"
+      ],
+      "description": "Points to Zappos’ 365-day return policy and the resulting word-of-mouth-driven sales growth, showing how generous policies build trust and long-term loyalty.",
+      "end": "00:04:42",
+      "start": "00:04:24",
+      "title": "Generous returns and word-of-mouth growth"
+    }
+  ],
+  "summary": "In this talk, Jeanne Bliss argues that genuine customer focus starts with reliable operations and grows through emotional connections and frontline empowerment. She cites Land’s End as an example of operational reliability—quick phone responses and 24-hour shipping—as a foundation for differentiated customer experiences. She describes a playful packaging gesture for land’s End Kids that reinforces family values, then shifts to a broader framework of customer-centric leadership: treat customers as living, breathing people, start product decisions from emotion, and use a “customer math” approach that answers five questions about customers (including newest and lost customers) to keep the organization aligned around customers. The talk culminates in a contrast with Zappos, where frontline staff are trusted as heroes, including a generous 365-day return policy that fuels word-of-mouth growth. Together, these examples illustrate how reliability, emotional branding, and frontline autonomy translate into loyalty and long-term growth.",
+  "title": "Customer Math and Frontline Trust: Lessons from Land's End and Zappos",
+  "topics": [
+    "reliability as differentiator",
+    "phone responsiveness",
+    "on-time shipping",
+    "emotional branding",
+    "emotional packaging",
+    "box as a touchpoint",
+    "customer-centric leadership",
+    "customer math",
+    "new customers, volume and value",
+    "lost customers: volume and value",
+    "retention and re-engagement",
+    "why questions in leadership",
+    "frontline empowerment",
+    "trust in front lines",
+    "Zappos customer service model",
+    "generous return policy",
+    "word-of-mouth growth",
+    "brand fan loyalty",
+    "humanizing customer data",
+    "customer as asset"
+  ],
+  "video": "qrrYUtVJa_s.youtube"
+}

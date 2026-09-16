@@ -1,0 +1,243 @@
+{
+  "analysis_created_at": "2026-09-14T19:33:41.475281+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 20, 2016",
+    "iso": "2016-11-20",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Long-tail revenue strategy and back catalog optimization",
+      "timestamp": "00:02:03"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Seasonal promotions and repromotion to extend lifecycle",
+      "timestamp": "00:14:32"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Localization and content expansion (levels, localization) to boost sales",
+      "timestamp": "00:15:04"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Public-domain IP licensing as a development approach (Wizard of Oz)",
+      "timestamp": "00:11:32"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Investment in art and audio to improve market viability",
+      "timestamp": "00:12:34"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Crowdsourced localization and outsourcing management",
+      "timestamp": "00:22:59"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Grants, tax credits, and alternative funding (UK focus)",
+      "timestamp": "00:34:01"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Collaboration with a spouse as co-developer and project management",
+      "timestamp": "00:33:50"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Avoidance of desperate or impulse porting decisions (mobile) and strategic pacing",
+      "timestamp": "00:35:03"
+    },
+    {
+      "confidence": 0.83,
+      "technique": "Networking and community-building as a growth strategy (Full Indie)",
+      "timestamp": "00:21:28"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "explicit mentions of moving to Vancouver and founding Full Indie Vancouver",
+      "confidence": 0.75,
+      "name": "Vancouver, Canada"
+    },
+    {
+      "basis": "explicit references to returning to England in 2012 and UK-based grants/tax credits",
+      "confidence": 0.8,
+      "name": "England, United Kingdom"
+    },
+    {
+      "basis": "indie meetup in Birmingham referenced",
+      "confidence": 0.6,
+      "name": "Birmingham, United Kingdom"
+    },
+    {
+      "basis": "Resed in London referenced",
+      "confidence": 0.6,
+      "name": "London, United Kingdom"
+    },
+    {
+      "basis": "grant for the southwest of England discussed",
+      "confidence": 0.6,
+      "name": "Southwest England, United Kingdom"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "1b6ae391-6886-52ef-af04-550351533915",
+    "spec_sha256": "c17f549cd928c9efc6bf25f39e913a9933c13157d2b996333b6d6af72c44bd4f",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-e5f0b276fc5b",
+        "term-fd1c85cf5818"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 85247,
+      "dependency_resolution_ms": 177,
+      "handler_ms": 86302,
+      "input_fetch_ms": 774
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 967192,
+      "digest": "02aeece303510a5c3c20fdf45aac81657818d4a25b742c0a0d255633d3a5362d",
+      "key": "objects/sha256/02/aeece303510a5c3c20fdf45aac81657818d4a25b742c0a0d255633d3a5362d",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "08756243-5da4-541d-8fc3-fee20cfaccc0"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "indie realism",
+        "balance between hits and longevity",
+        "sustainable business mindset"
+      ],
+      "description": "Opening asserts that most indies won't ship a 'hit' and emphasizes the goal of building a sustainable, long-tail business rather than chasing a single success.",
+      "end": "00:04:50",
+      "start": "00:00:02",
+      "title": "Reality check and sustainable mindset"
+    },
+    {
+      "concepts": [
+        "Iron Fist development",
+        "Bejeweled-inspired prototype",
+        "initial revenue and learning"
+      ],
+      "description": "Burkett recounts early projects, quitting his day job to ship small games, and the sobering reality of early profits (or lack thereof).",
+      "end": "00:10:00",
+      "start": "00:05:53",
+      "title": "Early career and initial prototypes"
+    },
+    {
+      "concepts": [
+        "public-domain IP licensing",
+        "BlitzMax engine",
+        "finding partners and assets"
+      ],
+      "description": "Describes leveraging public-domain IP, selling a new engine, and the early profitability of a Wizard of Oz-themed match-3 title.",
+      "end": "00:13:26",
+      "start": "00:11:32",
+      "title": "Wizard of Oz IP and engine pivot"
+    },
+    {
+      "concepts": [
+        "seasonal repromotion",
+        "localization",
+        "feature updates"
+      ],
+      "description": "Details how seasonal releases, localization, and expanded content extended a game’s life and revenue over years.",
+      "end": "00:15:21",
+      "start": "00:13:26",
+      "title": "Seasonal strategy and long-tail growth"
+    },
+    {
+      "concepts": [
+        "contract work vs. self-owned titles",
+        "networking as friendship",
+        "Full Indie Vancouver"
+      ],
+      "description": "Burkett discusses moving to Vancouver, a Big Fish contract, and co-founding Full Indie; emphasizes collaboration and mentoring within a community.",
+      "end": "00:22:24",
+      "start": "00:16:16",
+      "title": "Vancouver era, Full Indie, and collaboration"
+    },
+    {
+      "concepts": [
+        "UK grants",
+        "tax credits",
+        "Regency Solitaire success",
+        "Steam share"
+      ],
+      "description": "Covers returning to the UK, pursuing non-dilutive funding, tax credits, and launching Regency Solitaire, which performs strongly on casual portals with limited Steam revenue.",
+      "end": "00:36:58",
+      "start": "00:29:53",
+      "title": "Grants, funding, and Regency Solitaire"
+    },
+    {
+      "concepts": [
+        "long-term motivation",
+        "work-life balance",
+        "one step at a time"
+      ],
+      "description": "Philosophical reflection on sustaining a career in games, including personal resilience, family considerations, and a Rocky-inspired mantra.",
+      "end": "00:44:14",
+      "start": "00:39:58",
+      "title": "Sustainability philosophy and personal life"
+    },
+    {
+      "concepts": [
+        "questions and clarifications",
+        "practical tips for motivation and long-tail thinking"
+      ],
+      "description": "Concludes with audience Q&A covering topics from project pacing to long-tail maintenance and ongoing learning.",
+      "end": "00:52:00",
+      "start": "00:44:41",
+      "title": "Q&A wrap-up and closing guidance"
+    }
+  ],
+  "summary": "Jake Burkett chronicles more than a decade in indie game development, emphasizing a shift from chasing hits to building a sustainable, long-tail business. He threads together personal history, experimental projects, and the accumulation of revenue over time, highlighting lessons such as investing in art and audio, repromoting long-tail titles, localizing for new markets, and leveraging grants and tax credits. The talk blends hard-won experiences—facing cash flow crises, contract work versus owning titles, and collaboration with his spouse—into pragmatic strategies for resilience, community building (Full Indie), and data-informed decision making. Throughout, Burkett reinforces the idea that sustainable success comes from incremental progress, collaboration, and maintaining focus on the end goal rather than a single hit.",
+  "title": "How to Survive in Gamedev for Eleven Years Without a Hit (GDC 2016)",
+  "topics": [
+    "indie game development",
+    "long-tail revenue",
+    "back catalog strategy",
+    "sustainable game business",
+    "not chasing hits",
+    "public-domain IP licensing",
+    "Wizard of Oz match-3",
+    "art and audio investment",
+    "seasonal promotions and repromotions",
+    "localization and global markets",
+    "seasonal/limited releases",
+    "crowdsourced localization",
+    "portal strategy and Steam",
+    "mobile port cautions",
+    "UK grants and tax credits",
+    "crowdfunding vs grants",
+    "networking and community building",
+    "collaboration with spouse",
+    "data-driven decision making",
+    "keeping motivation under pressure",
+    "risk management in indie development",
+    "milestones and runway planning"
+  ],
+  "video": "JmwbYl6f11c.youtube"
+}

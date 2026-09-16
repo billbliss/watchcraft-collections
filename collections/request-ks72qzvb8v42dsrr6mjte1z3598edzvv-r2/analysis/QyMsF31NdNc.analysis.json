@@ -1,0 +1,201 @@
+{
+  "analysis_created_at": "2026-09-16T05:54:28.507301+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 10, 2017",
+    "iso": "2017-03-10",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Stasis rune (time stop for objects)",
+      "timestamp": "00:31:48"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Magnesis rune (move metal objects)",
+      "timestamp": "00:33:07"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Climbing dynamic constraint (link to moving surfaces)",
+      "timestamp": "00:33:44"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Havok physics engine integration",
+      "timestamp": "00:30:55"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Chemistry engine (state calculator for interactions)",
+      "timestamp": "00:39:40"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Elements-as-chemistry rules (fire, water, ice interactions)",
+      "timestamp": "00:40:50"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Multiplicative gameplay concept (interacting elements, actions, and environment)",
+      "timestamp": "00:41:10"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "2D prototype as proof of concept for Breath of the Wild",
+      "timestamp": "00:18:32"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "3D prototype under the hood (physical testing)",
+      "timestamp": "00:47:22"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Wind Waker HD influence on Breath of the Wild art direction",
+      "timestamp": "01:06:44"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Art style slogan: 'Refreshing and full flavored'",
+      "timestamp": "01:11:40"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "9d7cdbc7-215a-561e-b2c7-247a61fc7257",
+    "spec_sha256": "f8e6e4c703a137650660c48d321934843f1f30437d451abcd6c047400392e29c",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-588a9439a680",
+        "term-a5fad9e27712"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 103184,
+      "dependency_resolution_ms": 128,
+      "handler_ms": 104308,
+      "input_fetch_ms": 869
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 945726,
+      "digest": "42d2552faa27d8974d91b677e96bc06c358a4a0d16c64c13cee971751af04d3e",
+      "key": "objects/sha256/42/d2552faa27d8974d91b677e96bc06c358a4a0d16c64c13cee971751af04d3e",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "277b9ba4-38e5-5b00-8300-b802fb210440"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Triforce framing",
+        "Rediscovering the essence",
+        "Breaking conventions"
+      ],
+      "description": "Panel introduction and the speakers’ roles, outlining the two guiding design principles—rediscovering Zelda’s essence and breaking conventions to expand how players experience the game.",
+      "end": "00:06:30",
+      "start": "00:00:06",
+      "title": "Opening and guiding design principles"
+    },
+    {
+      "concepts": [
+        "removing conventional walls",
+        "experimental gameplay field",
+        "player-driven exploration"
+      ],
+      "description": "Discussion of transforming traditional Zelda barriers into optional paths within an experimental field to create an active, player-driven experience.",
+      "end": "00:22:28",
+      "start": "00:12:01",
+      "title": "Active game design and rethinking Zelda conventions"
+    },
+    {
+      "concepts": [
+        "Havok integration",
+        "physics and chemistry engine",
+        "state changes and interactions"
+      ],
+      "description": "Technical overview of adopting Havok for robust physics and introducing a chemistry engine to drive state changes and inter-object interactions, enabling multiplicative gameplay.",
+      "end": "00:41:44",
+      "start": "00:23:16",
+      "title": "Physics, Havok, and the birth of multiplicative gameplay"
+    },
+    {
+      "concepts": [
+        "Stasis rune",
+        "Magnesis rune",
+        "climbing moving objects",
+        "dynamic interactions"
+      ],
+      "description": "Showcases Stasis (time stop) and Magnesis (moving metal), plus dynamic climbing on moving surfaces as core mechanisms expanding possible solutions.",
+      "end": "01:01:29",
+      "start": "00:50:01",
+      "title": "Runes, climbing, and real-time interactions"
+    },
+    {
+      "concepts": [
+        "art style that makes it easy to lie",
+        "Wind Waker HD influence",
+        "playability versus reality"
+      ],
+      "description": "Explores how art direction supports playability and believable yet flexible physics, with Wind Waker HD as a key influence and a slogan-driven design philosophy for Breath of the Wild.",
+      "end": "01:13:52",
+      "start": "01:04:16",
+      "title": "Art direction and the influence of Wind Waker HD"
+    },
+    {
+      "concepts": [
+        "Wii U and Nintendo Switch",
+        "Joy-Con play mechanics",
+        "post-launch reflections"
+      ],
+      "description": "Discussion of cross-platform design goals, Switch-specific play elements, and closing reflections on the game’s philosophy and upcoming impressions.",
+      "end": "01:27:57",
+      "start": "01:25:58",
+      "title": "Platform considerations and closing remarks"
+    }
+  ],
+  "summary": "This panel from the GDC Festival of Gaming featuring Hidemaro Fujibayashi (Breath of the Wild director), Takuhiro Dota (technical director), and Satoru Takizawa (art director) explains how The Legend of Zelda: Breath of the Wild rethinks Zelda conventions to enable expansive player freedom. The speakers describe two core design principles—rediscovering the essence of Zelda and breaking conventions—and outline how a unified system of game physics and a “chemistry engine” power multiplicative gameplay, where objects, environments, and player actions interlock to produce countless possible outcomes. The talk also covers runes like Stasis and Magnesis, climbing dynamics, prototyping (including a 2D Zelda concept), and the art-direction trajectory influenced by Wind Waker HD, culminating in platform considerations for Wii U and Nintendo Switch and the philosophy of providing players with tools to invent their own solutions.”",
+  "title": "Breath of the Wild: Rediscovering the Essence and Breaking Conventions through Multiplicative Gameplay",
+  "topics": [
+    "Breath of the Wild design philosophy",
+    "rediscovering the essence",
+    "breaking conventions",
+    "active game design",
+    "wall climbing as a design element",
+    "experimental playfield",
+    "multiplicative gameplay",
+    "player-action x environment interactions",
+    "Stasis rune",
+    "Magnesis rune",
+    "climbing on moving surfaces",
+    "log and water interactions",
+    "fire/water/ice chemistry interactions",
+    "Havok physics engine",
+    "chemistry engine (state calculator)",
+    "elements as gameplay primitives",
+    "state-change rules",
+    "Wind Waker HD influence on art style",
+    "art style that makes it easy to lie",
+    "switch vs Wii U platform considerations",
+    "prototype-driven development",
+    "2D Zelda prototype as proof of concept"
+  ],
+  "video": "QyMsF31NdNc.youtube"
+}

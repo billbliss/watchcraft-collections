@@ -1,0 +1,221 @@
+{
+  "analysis_created_at": "2026-09-14T20:47:39.481082+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "October 8, 2018",
+    "iso": "2018-10-08",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.74,
+      "technique": "Shareware-driven distribution (early internet era) and free demos with paid full game",
+      "timestamp": "00:08:53"
+    },
+    {
+      "confidence": 0.72,
+      "technique": "In-house storefront and direct credit-card processing",
+      "timestamp": "00:25:49"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Remaster-and-iterate strategy as a business model",
+      "timestamp": "00:37:02"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Back catalog monetization and fan-base cultivation",
+      "timestamp": "00:41:09"
+    },
+    {
+      "confidence": 0.68,
+      "technique": "Own the source code and hire freelancers for non-core work",
+      "timestamp": "00:57:34"
+    },
+    {
+      "confidence": 0.69,
+      "technique": "Pricing strategy adaptation for platform distribution (25 -> 10 -> 20)",
+      "timestamp": "00:43:00"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Lean asset reuse and 25% worst-part redo rule",
+      "timestamp": "00:24:07"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention of a Washington State ferry in the transcript as the place where a box with a game demo was found (00:05:32–00:05:38).",
+      "confidence": 0.6,
+      "name": "Washington State ferry"
+    },
+    {
+      "basis": "Explicit quote in Q&A: 'I was at Rutgers University in beautiful central New Jersey working on a PhD in applied mathematics' (00:50:04–00:50:11).",
+      "confidence": 0.75,
+      "name": "Rutgers University, central New Jersey"
+    },
+    {
+      "basis": "Explicit reference to going to Disney World as a future possibility (34:14).",
+      "confidence": 0.4,
+      "name": "Disney World"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "800040fb-4c9d-5a40-813a-400f3e790185",
+    "spec_sha256": "5d04b35015e250a33e9398b3cceb185103fd040c2bdae1f1ec812b24eb78fb37",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-05d77cbbb5f5",
+        "term-0cb60639a5ca",
+        "term-38eeb5b68b48",
+        "term-4202a061a0ba",
+        "term-972749b5bacf",
+        "term-cf36e22c58ed",
+        "term-e0488c9048bb"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 59296,
+      "dependency_resolution_ms": 109,
+      "handler_ms": 60315,
+      "input_fetch_ms": 786
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1264211,
+      "digest": "f4bb1fad3ff89c7dd76979cb74ea0a493b3ad571012c6527bb340b9fcaf02bb0",
+      "key": "objects/sha256/f4/bb1fad3ff89c7dd76979cb74ea0a493b3ad571012c6527bb340b9fcaf02bb0",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "9a1e5e3d-f9bc-5080-98be-524071802114"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Spiderweb Software; small team, long-running indie RPGs",
+        "Non-hits focus; sustainable middle-class income",
+        "Postmortem-style career reflection as a career canvas"
+      ],
+      "description": "Jeff Vogel introduces Spiderweb Software, frames the talk as a career postmortem rather than a single-game postmortem, and outlines the studio’s philosophy of making turn-based, dialogue-heavy RPGs with a sustainable, middle-class income rather than chasing blockbuster hits.",
+      "end": "00:04:46",
+      "start": "00:00:05",
+      "title": "Origins, company philosophy, and the long view"
+    },
+    {
+      "concepts": [
+        "Shareware as a marketing model in 1994",
+        "Demos spread via BBS, AOL, Prodigy, magazines, mall kiosks",
+        "Money flow: checks, postal money orders, and the early credit-card barrier"
+      ],
+      "description": "Describes the 1994-1995 shareware approach, the distribution ecosystem before broad consumer internet, and the friction of monetizing demos during that era (full game price, mailing payments, and the steps to accept credit cards).",
+      "end": "00:16:16",
+      "start": "00:08:53",
+      "title": "Shareware era and practical distribution"
+    },
+    {
+      "concepts": [
+        "Copy from favorite games to form a cohesive whole",
+        "Lean development: reuse assets; small team; quick iteration",
+        "Ship something tangible even if flawed; ‘good enough’ is a strategic target"
+      ],
+      "description": "Explains the practical, non-artsiness of Vogel’s process: basing a game on loved inspirations, reusing code/assets, and committing to shipping when the product is sufficiently complete rather than perfect.",
+      "end": "00:23:23",
+      "start": "00:16:28",
+      "title": "Creative process, lean development, and the ‘25% redo’ rule"
+    },
+    {
+      "concepts": [
+        "Going independent from Fantasoft; accepting credit cards",
+        "Building an in-house storefront and customer support",
+        "Frictions of platforms and payments; owning the pipeline"
+      ],
+      "description": "Details the leap to independence, obtaining a credit-card processor, and building Spiderweb’s own store infrastructure to control distribution and customer experience.",
+      "end": "00:33:52",
+      "start": "00:25:49",
+      "title": "Indie independence, banking, and building the store"
+    },
+    {
+      "concepts": [
+        "Indie games grow because audiences like the underdog story",
+        "the value of being approachable and honest with fans",
+        "Balancing new releases with remasters to maintain relevance"
+      ],
+      "description": "Discusses the social dynamics of indie fan communities, the importance of likability, and how fan support sustains a business through market cycles.",
+      "end": "00:41:09",
+      "start": "00:34:01",
+      "title": "Fan base, market forces, and staying likable"
+    },
+    {
+      "concepts": [
+        "Years of back catalog revenue",
+        "Sequels and remasters; sustaining money flow",
+        "Avoiding burnout by alternating new games and remasters"
+      ],
+      "description": "Emphasizes the power of a long-running back catalog, the strategic role of remasters, and maintaining a cadence that keeps revenue flowing.",
+      "end": "00:46:01",
+      "start": "00:41:10",
+      "title": "Sustaining through cycles and the value of back catalog"
+    },
+    {
+      "concepts": [
+        "Protecting mental health; ‘shelter your brain’ from toxic input",
+        "Balancing work, sleep, relationships, and money pressures",
+        "The pragmatic need to avoid endless forum/stormy feedback"
+      ],
+      "description": "Offers mental-health and workflow guidance for enduring the pressures of long-term indie work, including handling criticism and protecting focus.",
+      "end": "00:58:56",
+      "start": "00:56:20",
+      "title": "Managing adversity and personal resilience"
+    },
+    {
+      "concepts": [
+        "Ship a game every 1.5 years; avoid perpetual perfectionism",
+        "Keep learning, experimentation, and adaptability",
+        "Do not quit your day job until you’re sure the game will sustain you"
+      ],
+      "description": "Wraps with pragmatic maxims about shipping cadence, continual growth, and wise risk-taking, ending with Steve Martin’s pee-test analogy and the notion that making it as an indie is possible but hard.",
+      "end": "01:00:00",
+      "start": "00:58:56",
+      "title": "Closing reflections and big-picture advice"
+    }
+  ],
+  "summary": "Jeff Vogel of Spiderweb Software offers a long-range, no-nonsense retrospective on building a sustainable indie RPG studio across more than two decades. Grounded in a refusal to chase ‘hits,’ he explains a philosophy of lean development, back-catalog leverage, and remastering as a business strategy, paired with careful cash flow and fan-base cultivation. The talk traces early shareware distribution in the 1990s, the challenges of launching Exile and Avernum titles, the shift to independent publishing with in-house payment processing, and the evolution through Geneforge, Avernum remasters, and new IPs. Vogel emphasizes luck, persistence, the value of owning your source, and the necessity of protecting one’s mental bandwidth from critics while remaining likable to fans. Throughout, he balances practical advice (pricing, contracts, accounting, art workflows) with candid humility about the risks and uncertainties of a long career in an industry that Nobody “knows” yet, while underscoring that quality, consistency, and a loyal fan base can sustain a life as a ‘humble toy maker’ in a brutally competitive market.",
+  "title": "Failing to Fail: The Spiderweb Software Way",
+  "topics": [
+    "Spiderweb Software",
+    "Exile: Escape from the Pit",
+    "Avernum remasters",
+    "Shareware distribution",
+    "Mall/Kiosk distribution in the 1990s",
+    "AOL/CompuServe/Prodigy distribution",
+    "Credit card processing for indie games",
+    "in-house online store",
+    "back-catalog strategy",
+    "Remastering of remasters",
+    "Geneforge series",
+    "Avernum/Exile design philosophy",
+    "Lean development and asset reuse",
+    "Creative process: copying influences",
+    "North Star and long-term career planning",
+    "Pricing strategy (25, 10, 20 USD)",
+    "Indie glut and Steam era",
+    "Fan base cultivation",
+    "Managing criticism and online toxicity",
+    "Own the source code"
+  ],
+  "video": "stxVBJem3Rs.youtube"
+}

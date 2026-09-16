@@ -1,0 +1,197 @@
+{
+  "analysis_created_at": "2026-09-14T19:25:40.999487+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 22, 2017",
+    "iso": "2017-08-22",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.78,
+      "technique": "Ring-modulated white-noise sub-bass to reveal audible sub frequencies",
+      "timestamp": "00:10:15.920"
+    },
+    {
+      "confidence": 0.86,
+      "technique": "Four-pedal analog signal chain with distortion, tube distortion, Geiger counter-like effects, and tape echo",
+      "timestamp": "00:17:30.020"
+    },
+    {
+      "confidence": 0.72,
+      "technique": "Analog-to-digital workflow: multi-chain mixer, EQ, and high-sensitivity compression for dynamic texture",
+      "timestamp": "00:21:12.520"
+    },
+    {
+      "confidence": 0.76,
+      "technique": "Doom instrument: sine waves processed through pedal chains with side-chaining and fast attack",
+      "timestamp": "00:22:02.240"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Endless risers using Shepherd tones for adaptive in-game tension",
+      "timestamp": "00:49:40.000"
+    },
+    {
+      "confidence": 0.92,
+      "technique": "Morph plugin for interpolating guitar with chainsaw timbres to create Doom-specific guitar textures",
+      "timestamp": "00:34:11.000"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "9-string guitar exploration for expanded low-end timbre",
+      "timestamp": "00:33:16.460"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Harmer image-based synthesis: mapping images to spectral content",
+      "timestamp": "00:39:24.420"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Subliminal-content exploration and mono/stereo phase trickery",
+      "timestamp": "00:43:54.440"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript explicitly states 'hotel in Dallas' and 'Yid offices' during the Doom team visit",
+      "confidence": 0.85,
+      "name": "Dallas, TX"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "babde4be-84ec-51b8-9a94-a84e8524a1bb",
+    "spec_sha256": "465c7f6306429fdfe686ce46f270e108abbabce50a51a90768859d629f39d4e6",
+    "timing": {
+      "analysis_ms": 98987,
+      "dependency_resolution_ms": 215,
+      "handler_ms": 100031,
+      "input_fetch_ms": 749
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1044372,
+      "digest": "df1307bc26dc7fe39512626f6048ffea7ab35633de3257cbd9d6ed3eb9f56877",
+      "key": "objects/sha256/df/1307bc26dc7fe39512626f6048ffea7ab35633de3257cbd9d6ed3eb9f56877",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "9b3c5c50-e5ba-51ba-aa55-0aaa84e37649"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "brief overview",
+        "no guitars emphasized, synths favored",
+        "set up for the talk's geek-out on soundtrack design"
+      ],
+      "description": "Mick Gordon introduces the talk's premise: dissecting how to create music that fits a game brief and resonates with fans, starting from a Doom-specific brief that excludes guitars in favor of synth-driven textures.",
+      "end": "00:04:17",
+      "start": "00:02:03",
+      "title": "Intro: the Doom brief and the no-guitars directive"
+    },
+    {
+      "concepts": [
+        "piano piece as an interpretation of the brief",
+        "dubstep approach with demon/bass textures",
+        "composer workflow relying on familiar templates",
+        "the mantra: change the process to change the outcome"
+      ],
+      "description": "Gordon explains that mechanically applying familiar workflows yields insufficient results; a brief must be executed by altering the production process rather than repeating past patterns.",
+      "end": "00:06:07",
+      "start": "00:04:17",
+      "title": "Three failed approaches and the case for changing the process"
+    },
+    {
+      "concepts": [
+        "collaborative studio culture",
+        "Weird Wednesday: unstructured jam sessions with modular gear",
+        "encouraging experimentation and failure"
+      ],
+      "description": "Describes meeting key Doom team members, their gear-heavy workspace, and a weekly practice that encourages creative risk-taking and archival jam sessions to spark inspiration.",
+      "end": "00:10:04",
+      "start": "00:06:07",
+      "title": "Team dynamics and environment: meeting the Doom team"
+    },
+    {
+      "concepts": [
+        "sub-bass fundamentals",
+        "ring-modulated white noise to reveal audible high-end",
+        "distortion and compression that shape the sound"
+      ],
+      "description": "Demonstrates an approach to making sub-bass audible on consumer systems by pairing sub tones with ring-modulated white noise, then exploring distortion-driven textures and the role of compression.",
+      "end": "00:13:40",
+      "start": "00:10:04",
+      "title": "From sub-bass to Doom instrument: early experimentation"
+    },
+    {
+      "concepts": [
+        "first experiments using sine waves and pedals",
+        "feedback from Chris and the shift toward new processes",
+        "the role of Wyze file delivery for team integration"
+      ],
+      "description": "Details a sequence of experiments (sine waves, distortion, and sidechain dynamics) that initially fail but pivot toward a more suitable process aligned with the project’s goals and team feedback.",
+      "end": "00:23:31",
+      "start": "00:13:40",
+      "title": "The 'doom instrument' and early failure-to-success arc"
+    },
+    {
+      "concepts": [
+        "9-string guitar for extended low-end",
+        "Morph plugin to morph guitar tone toward a chainsaw-like texture",
+        "sampling Doom’s chainsaw and spectral morphing"
+      ],
+      "description": "Explains extending the guitar’s low end with a 9-string instrument, using Morph to interpolate guitar tones with Doom’s iconic chainsaw texture, and the strategic use of guitar to enrich the Doom soundscape without letting it dominate the texture.",
+      "end": "00:37:07",
+      "start": "00:31:00",
+      "title": "Guitar experiments and tone shaping: 9-strings and Morph"
+    },
+    {
+      "concepts": [
+        "Satan imagery and controversy surrounding the DOOM soundtrack",
+        "subliminal content experiments (mono vs stereo, reverse playback)",
+        "final lessons: change the process, change the brief if needed, cultivate a failure-friendly team culture",
+        "the soundtrack as a standalone, album-like experience"
+      ],
+      "description": "Addresses controversy and creative experimentation (including a reverse-speech gag) and consolidates core lessons: change the process to reach new outcomes, and cultivate a team culture that tolerates, even encourages, risk-taking for better results.",
+      "end": "01:00:45",
+      "start": "00:37:47",
+      "title": "Controversy, reverse-speech experiments, and final takeaways"
+    }
+  ],
+  "summary": "DOOM: Behind the Music is a GDC talk by Doom soundtrack composer Mick Gordon that reveals how the DOOM (2016) score was developed through a radical rethinking of the brief, a culture of collaboration, and hands-on experimentation with synthesis and hardware. The talk traces the path from an initial no-guitars brief through multiple failed approaches, to a process-driven pivot that embraced experimentation, a modular analog pedal pipeline, and even guitar-based textures judiciously integrated via Morph and extended-range guitar. Key themes include fear of rejection as a barrier to change, the value of a failure-friendly team environment (including Weird Wednesday sessions), the use of unusual audio processing (ring-modulated sub-bass, tape echoes, Geiger-counter-like distortion), and the concept of a soundtrack staged as a standalone, tour-able album with deliberately chosen Doom callbacks. The speaker also discusses how game-structure and sound design can be aligned, and how controversy and subliminal ideas were navigated in pursuit of a cohesive Doom identity.",
+  "title": "DOOM: Behind the Music — Change the process to change the outcome",
+  "topics": [
+    "Doom soundtrack brief: no guitars, synth-forward approach",
+    "Execution versus inspiration of a brief",
+    "Three failed approaches (piano, dubstep, composer templates) and why the process must change",
+    "Change the process, change the outcome",
+    "Team dynamics: Doom studio visit, Weird Wednesday experimentation, and a failure-friendly culture",
+    "Sub-bass design with white-noise ring modulation for audible bass",
+    "Analog signal chain: four-pedal Doom array (distortion, tube distortion, Geiger counter, fuzz) and tape echo",
+    "Doom instrument concept: sine waves, subdivision, compression, and side-chaining",
+    "Guitar experimentation: 9-string guitar, octaves, and extreme tones",
+    "Morph plugin usage: interpolating guitar with chainsaw to create Doom textures",
+    "Harmer image-based synthesis for spectral shaping",
+    "Incorporating Doom themes and legacy cues into new music",
+    "90s DOOM design influences and the role of fast, aggressive gameplay",
+    "Dynamic music in games: comparison with Killer Instinct and the approach for DOOM",
+    "Soundtrack as a standalone project with monologues and concept-album structure",
+    "Subliminal content and reverse messages as a curiosity (controversy awareness)",
+    "Endless risers and Shepard tones for adaptive game pacing",
+    "Sound design integration: tonal alignment to prevent frequency clash with on-screen effects"
+  ],
+  "video": "U4FNBMZsqrY.youtube"
+}

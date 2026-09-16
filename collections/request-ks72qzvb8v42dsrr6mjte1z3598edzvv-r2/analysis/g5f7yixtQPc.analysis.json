@@ -1,0 +1,210 @@
+{
+  "analysis_created_at": "2026-09-14T20:56:27.854814+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 26, 2019",
+    "iso": "2019-11-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Public asset licensing and asset-pack-based prototyping to finish a game quickly",
+      "timestamp": "00:06:20"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Low-time, high-impact launch planning (website/trailer/Steam page first; minimal viable product)",
+      "timestamp": "00:04:22"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "1% daily progress mindset to combat burnout and maintain momentum",
+      "timestamp": "00:07:58"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "GIF-driven marketing and data-informed trailer creation",
+      "timestamp": "00:02:31"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Visuals-first development and asset customization for a cohesive look",
+      "timestamp": "00:07:01"
+    },
+    {
+      "confidence": 0.72,
+      "technique": "Budget-conscious music and voice-acting strategy (license-based music; family involvement)",
+      "timestamp": "00:06:27"
+    },
+    {
+      "confidence": 0.76,
+      "technique": "Prelaunch engagement and Reddit/Imgur strategy with self-promotion rules",
+      "timestamp": "00:12:03"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Console port strategy funded by early Steam success (Duke Games; Switch publishing)",
+      "timestamp": "00:02:05"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention as the setting of the second parallel story in the transcript (00:00:44-00:00:51)",
+      "confidence": 0.65,
+      "name": "Alaska"
+    },
+    {
+      "basis": "Transcript notes the Smithsonian American Art Museum showed The First Tree at PAX West (00:01:03-00:01:13)",
+      "confidence": 0.75,
+      "name": "Smithsonian American Art Museum"
+    },
+    {
+      "basis": "Explicit mention of PAX West in the transcript (00:01:13)",
+      "confidence": 0.7,
+      "name": "PAX West (Seattle, WA, USA)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "81ba875b-2cd1-5c04-ba28-2c3f9a1a34e6",
+    "spec_sha256": "e3de599e14dcacf611b83f72b26978e25aff0bc2d3381c8728fd6b8cc8316d92",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-09f472869641",
+        "term-145d6becd3b8",
+        "term-4e200c005e9e"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 66409,
+      "dependency_resolution_ms": 68,
+      "handler_ms": 67245,
+      "input_fetch_ms": 646
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 613441,
+      "digest": "c6fc1df532f885085df9a4386e61745c85c7d120e3d873aa8ef865812ab311aa",
+      "key": "objects/sha256/c6/fc1df532f885085df9a4386e61745c85c7d120e3d873aa8ef865812ab311aa",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "72ac3e3e-93f9-5791-9db2-2a6bae968ae3"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "The First Tree premise",
+        "Two parallel stories set in Alaska",
+        "Personal motivation (father’s loss)"
+      ],
+      "description": "David Whaley introduces The First Tree as a third-person exploration game about a fox and a parallel father-son story in Alaska, framing the personal emotional drive behind finishing the game.",
+      "end": "00:01:59",
+      "start": "00:00:05",
+      "title": "Project overview and personal motivation"
+    },
+    {
+      "concepts": [
+        "18 months of nights/weekends",
+        "$10,000 budget including all costs",
+        "Full-time job at The Void; parenting two kids"
+      ],
+      "description": "Overview of the tight constraints: a hobby project finished while working full-time and parenting, culminating in a Steam launch after roughly 18 months and a modest budget.",
+      "end": "00:04:43",
+      "start": "00:01:59",
+      "title": "Constraints and launch groundwork"
+    },
+    {
+      "concepts": [
+        "Publicly licensed assets as a springboard",
+        "Environment packs and asset customization",
+        "Budget-friendly music from Josh Kramer"
+      ],
+      "description": "Explains using licensed assets to accelerate development, customizing them to create a cohesive look, and sourcing affordable music to support the narrative.",
+      "end": "00:07:34",
+      "start": "00:04:43",
+      "title": "Asset strategy and music on a budget"
+    },
+    {
+      "concepts": [
+        "1% daily progress mentality",
+        "Stock asset modification for visual consistency",
+        "Unity project challenges and learning curves"
+      ],
+      "description": "Describes a visuals-first development approach, the daily 1% habit to stay productive, and how asset modification helped maintain a unified art style despite using stock assets.",
+      "end": "00:12:16",
+      "start": "00:07:34",
+      "title": "Visuals-first workflow and daily progress"
+    },
+    {
+      "concepts": [
+        "website, trailer, and Steam page",
+        "GIF-based marketing vs screenshots",
+        "Organic data from engagement signals"
+      ],
+      "description": "Outlines building a prelaunch presence (website, trailer, Steam page) and prioritizing GIFs and social posts to gather data that informs the trailer and marketing messaging.",
+      "end": "00:18:40",
+      "start": "00:12:16",
+      "title": "Marketing setup and data-driven prelaunch"
+    },
+    {
+      "concepts": [
+        "New & Trending on Steam; initial traffic impact",
+        "First-week sales and conversion rates",
+        "Switch publishing pathway and console exposure"
+      ],
+      "description": "Covers results from Steam and console launches, including traffic dynamics from Steam’s algorithm, first-week sales numbers, and how Steam success enabled console publishing opportunities.",
+      "end": "00:21:58",
+      "start": "00:18:40",
+      "title": "Launch outcomes and platform strategy"
+    },
+    {
+      "concepts": [
+        "authenticity in marketing",
+        "Asset consistency and art style",
+        "Steam vs Switch dynamics",
+        "Scope, time management, and finishing a game",
+        "Self-promotion rules on Reddit"
+      ],
+      "description": "Concludes with audience questions on title choice, art consistency with assets, platform differences, balancing development with marketing, and guidance on authentic, human marketing approaches.",
+      "end": "00:31:58",
+      "start": "00:21:58",
+      "title": "Q&A highlights and practical takeaways"
+    }
+  ],
+  "summary": "David Whaley recounts finishing The First Tree under extreme time and budget constraints while holding a full-time job, a family, and a partner pursuing art. The talk traces the game’s two intertwined stories, its Steam debut in 2017, and a console port that followed. He explains the core tactics that allowed completion and later growth: leveraging publicly licensed assets and affordable music, adopting a visuals-first, asset-modification approach, and maintaining a daily 1% progress mindset. Marketing was built around consistent GIF-based posts across Reddit, Imgur, Tumblr, and Twitter, with a focus on early assets (website, trailer, Steam page) and data-driven trailer creation using engagement signals. He also covers the costs, revenue milestones, and the lessons learned about scope, quality, and working with partners (Duke Games, DoGames) to port to consoles. The talk culminates with practical tips on authenticity in promotion, building an email/list, and the importance of finishing a project for both personal and financial reasons, followed by a Q&A on refining their approach and platform-specific strategies.",
+  "title": "Finishing The First Tree: No Time, No Budget, No Problem — a shoestring indie dev case study",
+  "topics": [
+    "Steam launch and revenue (Steam release date, revenue figures)",
+    "Console port strategy (Switch publishing, Duke Games involvement)",
+    "Budget planning and actual cost ($10,000 budget; 18 months; ~1,000 hours)",
+    "Public asset licensing (Unity assets, environment packs, asset modification)",
+    "Music licensing and workflow (Pond5, Musicbed, Josh Kramer)",
+    "Voice acting decisions under budget constraints",
+    "Visuals-first development and asset customization",
+    "1% daily progress mindset vs zero-day bias",
+    "Marketing on a shoestring: GIFs, Reddit, Imgur, Tumblr, Twitter",
+    "New & Trending and wishlists on Steam to drive launch traffic",
+    "Data-driven trailer creation using engagement metrics",
+    "Pre-launch marketing setup: website, trailer, Steam page, tagging",
+    "Post-launch performance and platform differences (Steam vs Switch)",
+    "Q&A themes: authenticity, avoiding formulaic marketing, human connection",
+    "Work-life balance of indie developers (full-time job, family, indie project)",
+    "Asset reuse and preventing asset-flip perceptions",
+    "Steam and console marketing pipelines (features, curation, and publicity)"
+  ],
+  "video": "g5f7yixtQPc.youtube"
+}

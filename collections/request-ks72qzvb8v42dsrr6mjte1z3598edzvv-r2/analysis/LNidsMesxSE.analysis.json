@@ -1,0 +1,278 @@
+{
+  "analysis_created_at": "2026-09-14T19:57:51.038829+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "October 21, 2017",
+    "iso": "2017-10-21",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "Center-of-mass based motion planning using simple curves",
+      "timestamp": "00:02:03.380"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Idle pose draped onto a physics sphere with velocity-reactive rotation",
+      "timestamp": "00:04:38.760"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Pass pose and reach pose with a surveyor wheel distance measure",
+      "timestamp": "00:05:30.660"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Synchronized blend between walking and running (stride-based)",
+      "timestamp": "00:06:11.160"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Bicubic interpolation to preserve spatial and velocity continuity",
+      "timestamp": "00:07:17.860"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Spring-damper interpolation for crouch/landing transitions",
+      "timestamp": "00:08:00.240"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Inverse kinematics for pose matching and multi-joint IK for hands/feet",
+      "timestamp": "00:11:18.560"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Secondary bone physics with per-bone softness (ears, limbs)",
+      "timestamp": "00:12:57.740"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Ragdoll concepts with delayed activation and active ragdoll ideas (euphoria-style)",
+      "timestamp": "00:16:29.360"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Pose matching via joint-constraint in Bullet physics",
+      "timestamp": "00:23:07.120"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "1530c604-4993-56be-a5bd-f3168eec7fa3",
+    "spec_sha256": "b77a646ce8a310544a1c82780caf9ebcff4f693ca87032184cb9687dc75f39e7",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-09128d389072",
+        "term-5e99ad4d05b2",
+        "term-6126ffab1e11",
+        "term-64d03021d18a",
+        "term-7374b1e8d2a0",
+        "term-870e1ea92e63",
+        "term-b07838d8f6a4"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 73591,
+      "dependency_resolution_ms": 247,
+      "handler_ms": 74578,
+      "input_fetch_ms": 610
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 466831,
+      "digest": "80ac15862454061b41efe48225cde43290746a2ac8d68d2702b4b3160eb51769",
+      "key": "objects/sha256/80/ac15862454061b41efe48225cde43290746a2ac8d68d2702b4b3160eb51769",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "10c3265a-a8e2-5cad-9a00-79d605e00c4d"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Speaker intro: David from Wolfire Games",
+        "Overgrowth project context",
+        "Need to optimize animation tasks by abstracting into curves and systems"
+      ],
+      "description": "David frames the talk around building efficient, animation-friendly foundations for movement by separating gameplay input from the animation layer.",
+      "end": "00:02:40.000",
+      "start": "00:00:02.380",
+      "title": "Introduction and goals"
+    },
+    {
+      "concepts": [
+        "Mario-style direct input vs rotoscoped animation",
+        "Latency considerations"
+      ],
+      "description": "He contrasts simple frame-based animation with smooth transitions, aiming to achieve both responsiveness and detailed motion.",
+      "end": "00:04:15.000",
+      "start": "00:02:40.000",
+      "title": "Movement trade-offs: responsive vs detailed"
+    },
+    {
+      "concepts": [
+        "Treating human motion like a vehicle",
+        "Center of mass follows simple curves",
+        "gravity and angular momentum considerations"
+      ],
+      "description": "The idea is to apply vehicle-like rules to a human character by focusing on the center of mass and simple rules to stay balanced.",
+      "end": "00:05:54.000",
+      "start": "00:04:15.000",
+      "title": "Vehicle analogy and center of mass"
+    },
+    {
+      "concepts": [
+        "Idle pose draped on a physics sphere",
+        "Reactive rotation to velocity",
+        "Obvious wall-sliding behavior"
+      ],
+      "description": "An idle physics-based pose anchors movement, with rotation driven by actual velocity rather than controller input.",
+      "end": "00:07:20.000",
+      "start": "00:05:54.000",
+      "title": "Idle pose and velocity-driven rotation"
+    },
+    {
+      "concepts": [
+        "Pass pose and reach pose for leg movement",
+        "Surveyor wheel-like distance measurement",
+        "Feet stay in sync with the ground"
+      ],
+      "description": "Keyframes define limb poses, while a wheel-like method translates ground distance into animation timing.",
+      "end": "00:08:30.000",
+      "start": "00:07:20.000",
+      "title": "Pass pose, reach pose, and wheel-distance mapping"
+    },
+    {
+      "concepts": [
+        "Two speeds with different stride lengths",
+        "Blending between keyframes across speeds"
+      ],
+      "description": "Smooth transitions between walking and running are achieved by synchronized interpolation of pose and stride.",
+      "end": "00:09:56.000",
+      "start": "00:08:30.000",
+      "title": "Walking vs running: synchronized blending"
+    },
+    {
+      "concepts": [
+        "Linear interpolation drawbacks",
+        "Introduction of bicubic interpolation"
+      ],
+      "description": "To preserve spatial and velocity continuity, the transition is upgraded from linear to bicubic interpolation.",
+      "end": "00:10:58.000",
+      "start": "00:09:56.000",
+      "title": "Interpolation quality: from linear to bicubic"
+    },
+    {
+      "concepts": [
+        "six locomotion keyframes",
+        "Two standing keyframes",
+        "Crouch and landing absorption via spring"
+      ],
+      "description": "A compact locomotion system supports multiple poses with coordinated transitions and landing absorption.",
+      "end": "00:12:20.000",
+      "start": "00:10:58.000",
+      "title": "Locomotion keyframes and crouch transitions"
+    },
+    {
+      "concepts": [
+        "Air control with directional input",
+        "Anticipation and ease-out curves",
+        "Rolling poses and transitions"
+      ],
+      "description": "Airborne actions extend movement with physics-like curves to look plausible and responsive.",
+      "end": "00:14:10.000",
+      "start": "00:12:20.000",
+      "title": "Air actions: flips, angular momentum, and rolls"
+    },
+    {
+      "concepts": [
+        "From simple ragdolls to active ragdolls",
+        "Industry reference (Euphoria)",
+        "Pose-based to movement-based ragdoll behavior"
+      ],
+      "description": "Ragdoll dynamics are explored as a way to enhance drama and gameplay interactions without losing control.",
+      "end": "00:16:50.000",
+      "start": "00:14:10.000",
+      "title": "Ragdoll concepts and active ragdolls"
+    },
+    {
+      "concepts": [
+        "Two-bone IK for limbs",
+        "Multiple joint IK for hands/feet",
+        "Look targets and torso/head separation"
+      ],
+      "description": "IK is used to preserve contacts, enable believable gaze, and maintain pose integrity during motion.",
+      "end": "00:19:20.000",
+      "start": "00:16:50.000",
+      "title": "Inverse kinematics and look targets"
+    },
+    {
+      "concepts": [
+        "softness parameter per bone",
+        "Wobbling effects (ears, limbs)",
+        "Stability during transitions"
+      ],
+      "description": "Secondary physics add life while keeping transitions coherent across actions.",
+      "end": "00:21:20.000",
+      "start": "00:19:20.000",
+      "title": "Secondary physics and bone softness"
+    },
+    {
+      "concepts": [
+        "Segregating curve-driven tasks from keyframes",
+        "Reducing repetitive work via tools",
+        "Future integration of animation with code"
+      ],
+      "description": "The speaker argues for closer coupling of animation tooling with gameplay code to save time and improve performance.",
+      "end": "00:23:20.000",
+      "start": "00:21:20.000",
+      "title": "Automation and tooling for animators"
+    },
+    {
+      "concepts": [
+        "Shadow of the Colossus, Rain World, Gang Beasts, Receiver",
+        "Role of procedural animation in large games",
+        "Q&A and final remarks"
+      ],
+      "description": "He cites games that use procedural animation techniques and closes with a call for closer animator-technologist collaboration.",
+      "end": "00:26:00.000",
+      "start": "00:23:20.000",
+      "title": "Examples, references, and closing thoughts"
+    }
+  ],
+  "summary": "In this GDC Festival talk, David from Wolfire Games outlines a lean, code-friendly approach to procedural animation for a human-like character in Overgrowth. He starts from a physics-first movement system driven by simple center-of-mass curves and ground-contact rules, then layers detailed animation on top with a small set of keyframes and robust interpolation. The talk covers ground rules that keep movement responsive and predictable, introduces a wheel-like technique to map ground distance to animation, and uses acceleration tilts, pose-driven keyframes, and synchronized blends to blend between walking and running. He demonstrates how to upgrade inter-frame transitions with bicubic interpolation, then introduces a spring-damper system for crouch and landing transitions. The session expands into inverse kinematics (pose matching, multi-joint IK, look targets), secondary physics for subtle bone motion, and even ragdoll concepts and “active ragdoll” ideas inspired by industry work like Euphoria. Throughout, the emphasis is on decoupling animation from core gameplay input, enabling rapid variation with fewer keyframes, and suggesting closer integration of animation with code to offload repetitive work for animators.",
+  "title": "Animation Bootcamp: Indie Procedural Animation with Minimal Keyframes (GDC 2017)",
+  "topics": [
+    "procedural animation",
+    "Center of mass and simple curves for movement",
+    "Acceleration tilt and velocity-based rotation",
+    "Idle pose draped on physics sphere",
+    "Pass pose and reach pose; surveyor wheel technique",
+    "Synchronized blending between walk and run",
+    "Interpolation: linear vs bicubic for continuity",
+    "Spring damper interpolation for crouch/landing",
+    "six locomotion keyframes and two standing keyframes",
+    "Inverse kinematics: pose matching and multi-joint IK",
+    "Look targets and IK for hands/feet",
+    "Secondary physics and bone softness",
+    "Ragdoll concepts and active ragdolls",
+    "Ledge grabbing and wall interactions via IK",
+    "tooling: anim-code collaboration to reduce repetitive work"
+  ],
+  "video": "LNidsMesxSE.youtube"
+}

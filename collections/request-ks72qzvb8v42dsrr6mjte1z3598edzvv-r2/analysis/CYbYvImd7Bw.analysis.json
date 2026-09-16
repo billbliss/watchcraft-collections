@@ -1,0 +1,237 @@
+{
+  "analysis_created_at": "2026-09-14T20:28:27.028782+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "April 19, 2018",
+    "iso": "2018-04-19",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "3D base blocking / blocking out scenes in 3D (Modo and similar tools)",
+      "timestamp": "00:21:28"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Photobashing and photo reference integration",
+      "timestamp": "00:16:25"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Using Daz 3D assets for posing and base models",
+      "timestamp": "00:19:32"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Kitbashing 3D parts to assemble complex props",
+      "timestamp": "00:31:04"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Google Earth as environment reference for composition and scale",
+      "timestamp": "00:17:07"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "3D lighting and camera placement to inform final painting",
+      "timestamp": "00:33:42"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Environment photo references and blocking in shapes",
+      "timestamp": "00:24:08"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Edge seasoning and Detail control (filters like median, Aquas, etc.)",
+      "timestamp": "00:42:55"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Narrative-focused composition and storytelling in a single frame",
+      "timestamp": "00:44:24"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Corral and chorale concept for client-driven constraints",
+      "timestamp": "00:48:32"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Copy-first acceleration: emulate top references to learn faster",
+      "timestamp": "00:37:03"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicit mention in transcript: 'Concept Design Academy here in L.A.'",
+      "confidence": 0.6,
+      "name": "Los Angeles, CA (reference to Concept Design Academy)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "bf449278-6d29-57e4-a829-6472e19b7577",
+    "spec_sha256": "f8ddf8eaf265e7f264a03f28a295f112e67845bb0da8ffdb919fb460a0be37d6",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-b5ae5a5b5211"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 74630,
+      "dependency_resolution_ms": 208,
+      "handler_ms": 76127,
+      "input_fetch_ms": 1175
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1349416,
+      "digest": "e6431845627ee92aee3913401e0f5f429db7dad018df281f7b4361d04d0d4e15",
+      "key": "objects/sha256/e6/431845627ee92aee3913401e0f5f429db7dad018df281f7b4361d04d0d4e15",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "47efba12-bcd9-54e9-acba-695d18ed7b90"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "OnePixelBrush brief",
+        "artist as trainer and director",
+        "bias of taste"
+      ],
+      "description": "Shadi introduces his studio, his dual role as artist and art director, and sets up the idea that personal taste biases what is taught and pursued in concept art.",
+      "end": "00:04:14",
+      "start": "00:00:04",
+      "title": "Intro and framing: personal background and bias"
+    },
+    {
+      "concepts": [
+        "career path guided by taste",
+        "art gods as benchmarks"
+      ],
+      "description": "He argues that личный вкус should steer a artist’s path and acknowledges that different studios demand different 'art gods' or exemplars.",
+      "end": "00:05:27",
+      "start": "00:04:14",
+      "title": "Taste as career compass"
+    },
+    {
+      "concepts": [
+        "cheatiness",
+        "color juice",
+        "shape juice",
+        "Detail control",
+        "composition",
+        "storytelling"
+      ],
+      "description": "Safadi unveils the four zones of awesomeness and elaborates on how each zone informs practical decisions in concept art, including how and when to use cheats like photo references, 3D, and photobashing.",
+      "end": "00:27:31",
+      "start": "00:16:09",
+      "title": "The four zones of awesomeness (overview and examples)"
+    },
+    {
+      "concepts": [
+        "3D base blocking",
+        "perspective",
+        "lighting",
+        "pose reference"
+      ],
+      "description": "Demonstrates the value of 3D as a base for layout, perspective checks, and lighting, with examples of using Daz assets and Modo for base setups before painting.",
+      "end": "00:32:02",
+      "start": "00:27:31",
+      "title": "From concept to model: 3D as a design aid"
+    },
+    {
+      "concepts": [
+        "photo-to-environment workflow",
+        "keeping a cohesive look between photo-derived elements and painting"
+      ],
+      "description": "Discusses integrating photographs and 3D assets to drive designs, and the nuanced balance between photographic accuracy and painterly polish.",
+      "end": "00:37:55",
+      "start": "00:32:04",
+      "title": "Photobashing, reference integration, and design refinement"
+    },
+    {
+      "concepts": [
+        "shape juice",
+        "slice of light (Eitan)",
+        "simplification and Detail control"
+      ],
+      "description": "Explores how strong shapes drive composition, and how expert simplification plus selective detailing achieves a stronger visual read.",
+      "end": "00:43:55",
+      "start": "00:37:56",
+      "title": "Shape design, simplification, and 'slice of light'"
+    },
+    {
+      "concepts": [
+        "storytelling-ness",
+        "composition",
+        "corral",
+        "chorale"
+      ],
+      "description": "Emphasizes having a clear narrative or directive for the single-frame concept, and introduces the corral/chorale framework to define constraints with clients.",
+      "end": "00:48:40",
+      "start": "00:44:11",
+      "title": "Narrative and corral constraints in art direction"
+    },
+    {
+      "concepts": [
+        "team mentorship",
+        "recruitment via social networks",
+        "one-on-one coaching"
+      ],
+      "description": "Addresses mentorship dynamics, hiring practices, and the importance of team culture and feedback in accelerating artist growth.",
+      "end": "01:00:04",
+      "start": "00:49:34",
+      "title": "Collaboration, client management, and mentorship"
+    },
+    {
+      "concepts": [
+        "business cards",
+        "post-talk discussion"
+      ],
+      "description": "Closes the talk with practical notes on following up, exchanging contact information, and continuing the conversation after the session.",
+      "end": "01:05:05",
+      "start": "01:04:33",
+      "title": "Wrap-up and Q&A logistics"
+    }
+  ],
+  "summary": "In this talk from the GDC Festival of Gaming, Shadi Safadi (OnePixelBrush) outlines a practical philosophy for building high-level concept art teams and workstreams. He introduces the 'law of increasing awesomeness' as a path from student work to pro-level concept art, emphasizing that taste—and the gatekeepers who embody it—shape career direction as much as technical skill. Safadi details a toolbox of techniques used to accelerate growth, including leveraging 3D as a base for perspective and layout, using photoreference and photobashing, and selectively kitbashing 3D assets to quick-start complex scenes. He also presents structured ideas for working with clients (the 'corral' and 'chorale' constraints), the importance of narrative clarity in a single-frame concept piece, and the balance between exploration and direction in a studio setting. Throughout, he interweaves case studies (e.g., John Sweeney’s development path, a Cliffy B project, and internal studio processes) to illustrate mentorship, critique, and the practical realities of delivering top-tier concept art under tight deadlines.",
+  "title": "Law of Increasing Awesomeness and the Four Zones of Concept Art: Insights from Shadi Safadi's 'Concept Art is Dead' (GDC Festival of Gaming, 2018)",
+  "topics": [
+    "law of increasing awesomeness",
+    "art god metaphor",
+    "taste-driven career path",
+    "grounded realism vs. stylized direction",
+    "shortcuts and speed training in concept art",
+    "the four zones of awesomeness (cheatiness, color juice, shape juice, Detail control)",
+    "Google Earth as environmental reference",
+    "3D base blocking / perspective (Modo, 3D blockout)",
+    "Daz 3D assets for posing and base models",
+    "photobashing and photo reference blending",
+    "kitbashing 3D parts for rapid prop/vehicle design",
+    "3D for lighting and composition",
+    "environment photography and blocking in shapes",
+    "seasoning edges and Detail control with filters",
+    "slice of light and shape-driven design (Eitan's concept)",
+    "corral and chorale: constraint-driven design with clients",
+    "mentorship, team-building, and recruitment via social networks",
+    "storytelling and narrative clarity in concept art",
+    "client collaboration and problem-solving in art direction"
+  ],
+  "video": "CYbYvImd7Bw.youtube"
+}

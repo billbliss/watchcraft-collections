@@ -1,0 +1,246 @@
+{
+  "analysis_created_at": "2026-09-14T20:13:50.143995+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "August 15, 2017",
+    "iso": "2017-08-15",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "Traditional paper animation (ink-on-paper) with hand-drawn frames",
+      "timestamp": "00:01:49"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Watercolor background paintings",
+      "timestamp": "00:01:54"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Live jazz band soundtrack",
+      "timestamp": "00:01:58"
+    },
+    {
+      "confidence": 0.84,
+      "technique": "Idol-model sheet workflow (model sheet from idol, not full turnaround)",
+      "timestamp": "00:12:05"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "On twos and on ones (frame-rate technique)",
+      "timestamp": "00:16:25"
+    },
+    {
+      "confidence": 0.95,
+      "technique": "32 drawings per animation, scanning and inking onto paper",
+      "timestamp": "00:17:18"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Screen shake and timing adjustments using TV Paint",
+      "timestamp": "00:19:00"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Digital color in Photoshop",
+      "timestamp": "00:23:50"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Rough blue-pencil freehand ideation with roughs",
+      "timestamp": "00:15:01"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Speaker mentions Capilano University in Vancouver and work on Vancouver-based TV animation.",
+      "confidence": 0.68,
+      "name": "Vancouver, British Columbia, Canada"
+    },
+    {
+      "basis": "Explicitly stated as the speaker's education location.",
+      "confidence": 0.6,
+      "name": "Capilano University, Vancouver"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "9fdd6d36-10e4-5400-a488-1842dc439115",
+    "spec_sha256": "89e57472cc94539e750c79ee575e7fc045db41214b614ce2b7ea3b5498af86e1",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-a073619fbcb7",
+        "term-e7552a479310"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 78830,
+      "dependency_resolution_ms": 263,
+      "handler_ms": 80100,
+      "input_fetch_ms": 849
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 500423,
+      "digest": "0c4ba1ce9258723614dcc907d59518d129781577fe41939410c090a1a5ab9757",
+      "key": "objects/sha256/0c/4ba1ce9258723614dcc907d59518d129781577fe41939410c090a1a5ab9757",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "2ed23ea5-c92b-5c19-aa53-1c8219bf3043"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "speaker introduction",
+        "Cuphead overview",
+        "Capilano University reference",
+        "2D animation background and 30s influence"
+      ],
+      "description": "Presenter introduces himself and Cuphead, outlines the 1930s cartoon influence (Betty Boop, Popeye, vintage Mickey Mouse) and the traditional pipeline (paper animation, watercolor backgrounds, live jazz).",
+      "end": "00:02:03",
+      "start": "00:00:02",
+      "title": "Intro and Cuphead concept"
+    },
+    {
+      "concepts": [
+        "authenticity in craft",
+        "2015 trailer reference"
+      ],
+      "description": "The team aims to reproduce era-appropriate production methods as faithfully as feasible and previews the 2015 trailer to illustrate the concept.",
+      "end": "00:02:39",
+      "start": "00:02:03",
+      "title": "Authenticity goals and trailer reference"
+    },
+    {
+      "concepts": [
+        "simplicity and solid shapes",
+        "rubber hose and bendy limbs",
+        "limited features to emulate 30s cartoons",
+        "reference sourcing (Betty Boop, Olive Oil, Wonder Woman, Mega Man 9) and initial ideation"
+      ],
+      "description": "John outlines why 30s designs favor simplicity, bold shapes, and flexible anatomy for easy space-turns. He describes his early mermaid concept, including octopus hair and ship-on-head ideas, and discusses initial references and the shift toward Betty Boop-inspired features.",
+      "end": "00:11:00",
+      "start": "00:03:38",
+      "title": "1930s design principles and mermaid concept"
+    },
+    {
+      "concepts": [
+        "idol as model sheet",
+        "references and body vs. head sketches",
+        "final design selection"
+      ],
+      "description": "The designer explains that, in Cuphead, the idol serves as the model sheet—everything comes from it. He reviews iterative head-and-shoulders explorations, references from various sources, and how the leftmost design ultimately becomes the chosen style.",
+      "end": "00:12:23",
+      "start": "00:11:00",
+      "title": "Idol vs. model sheet and finalizing design direction"
+    },
+    {
+      "concepts": [
+        "pre-visualization",
+        "non-negotiables for idle pose",
+        "hip sway and hands ready",
+        "dancing/floaty quality"
+      ],
+      "description": "Before drawing, the team visualizes what works in motion. The animator identifies non-negotiables (continuous movement, hip sway, hands ready) and notes a dance-like quality typical of 30s cartoons.",
+      "end": "00:15:10",
+      "start": "00:12:23",
+      "title": "Idle animation planning and roughs"
+    },
+    {
+      "concepts": [
+        "four breakdowns",
+        "eight more drawings to put on twos",
+        "16 total frames",
+        "transition to ones and lightweight in-betweens"
+      ],
+      "description": "The process evolves from roughs to a 16-frame set on twos, then in-betweening toward ones as needed when motion remains expressive and not overly exaggerated.",
+      "end": "00:17:25",
+      "start": "00:15:10",
+      "title": "Roughs to 16 frames on twos, then ones"
+    },
+    {
+      "concepts": [
+        "Tombstone boss attack",
+        "antic timing and pose",
+        "in-game testing and frame budgeting"
+      ],
+      "description": "The Tombstone boss slam is developed from quick thumbnails to roughs, with screen-safe adjustments and a test to ensure proper frame count and gameplay impact.",
+      "end": "00:19:32",
+      "start": "00:17:25",
+      "title": "Finalizing the Tombstone anti-slam and in-game testing"
+    },
+    {
+      "concepts": [
+        "Monty Python-inspired death",
+        "scale considerations",
+        "matching background/platform",
+        "rough to final with keys"
+      ],
+      "description": "Presenter shares rough ideas, rejects gorier options for ESR rating reasons, and selects a layered death sequence with a large cigar and stomper, emphasized by early thumbnails and final keys.",
+      "end": "00:23:40",
+      "start": "00:20:42",
+      "title": "Cigar boss death concept and execution"
+    },
+    {
+      "concepts": [
+        "paper vs. digital ink",
+        "live jazz vs MIDI",
+        "watercolor backgrounds",
+        "coloring in Photoshop"
+      ],
+      "description": "Rationale for continuing to animate on paper with live musicians and watercolor backdrops, while color work remains digital. The team argues this balance preserves feel and craftsmanship.",
+      "end": "00:26:49",
+      "start": "00:23:37",
+      "title": "Why paper animation and 1930s styling, and color pipeline"
+    },
+    {
+      "concepts": [
+        "freedom of gameplay in 30s style",
+        "flat-plane compositions",
+        "brand philosophy and release signals"
+      ],
+      "description": "Clark argues the 1930s aesthetic liberates gameplay design and narratively supports wildly imaginative ideas. He closes with social handles and notes about release timing.",
+      "end": "00:28:07",
+      "start": "00:26:49",
+      "title": "1930s style as gameplay enabler and wrap-up"
+    }
+  ],
+  "summary": "The video presents Cuphead animator Jake Clark describing the game’s hand-drawn, paper-based production and a deliberate 1930s cartoon aesthetic. He details the design philosophy (simple, solid shapes; rubber-hose limbs; limited features), the idol-model workflow, and the extensive on-paper animation pipeline (roughs, breakdowns, and a 32-frame final per animation with inking on paper). Clark also explains the studio’s commitment to traditional watercolor backgrounds, live jazz scoring, and a bold gameplay philosophy enabled by the 1930s style, including flexible, high-spirited boss animations like the Mermaid, Tombstone, Antic, and the cigar boss. Throughout, he emphasizes reference-led design, the balance between ease of animation and visual appeal, and the team’s aim to keep paper animation alive while producing a modern game with authentic era flavor. The talk interweaves design anecdotes, technical steps, and strategic rationale for why Cuphead embraces this era and workflow rather than standard digital animation pipelines.",
+  "title": "Cuphead's 1930s Animation Process and Philosophy",
+  "topics": [
+    "1930s cartoon aesthetic",
+    "rubber hose animation",
+    "limited features in character design",
+    "idol vs model sheet workflow",
+    "traditional paper animation",
+    "inked-on-paper production",
+    "live jazz soundtrack",
+    "watercolor background painting",
+    "frame-rate workflow: on twos and on ones",
+    "roughs, thumbnails, and blue-pencil concepts",
+    "non-negotiables in animation (hip sway, hands ready)",
+    "idle animation development",
+    "Maquette of character: Mermaid (Mermes cast) design process",
+    "boss design and death animations (Tombstone, Antic, cigar boss)",
+    "in-game testing and layout considerations",
+    "screen shake and post-processing with TV Paint",
+    "digital coloring in Photoshop",
+    "production rationale for 1930s style"
+  ],
+  "video": "RmGb-jU3uVQ.youtube"
+}

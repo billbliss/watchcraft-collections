@@ -1,0 +1,338 @@
+{
+  "analysis_created_at": "2026-09-14T19:47:36.896666+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 2, 2016",
+    "iso": "2016-05-02",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.9,
+      "technique": "Time Spiral Suspend mechanics as a case study",
+      "timestamp": "00:02:16"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Public-facing design correction (changing rules to fit audience)",
+      "timestamp": "00:03:25"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Resonance and cultural pre-existence (zombies example)",
+      "timestamp": "00:08:33"
+    },
+    {
+      "confidence": 0.87,
+      "technique": "Piggybacking to teach mechanics (easiest mechanic: Flying)",
+      "timestamp": "00:11:10"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Forced-action education (Eldrazi attacking forced)",
+      "timestamp": "00:42:21"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Split cards innovation (Invasion era)",
+      "timestamp": "00:47:52"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Full-art lands and personal visual identity",
+      "timestamp": "00:20:03"
+    },
+    {
+      "confidence": 0.83,
+      "technique": "Restriction-driven creativity (Making Magic theme vs open weeks)",
+      "timestamp": "00:54:18"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Audience psychographics to shape components (Timmy/Johnny/Spike)",
+      "timestamp": "00:43:57"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Explicitly described as Mark Rosewater's first talk at GDC in the transcript",
+      "confidence": 0.8,
+      "name": "GDC (Game Developers Conference) venue"
+    },
+    {
+      "basis": "Explicit reference to taking aesthetics classes there",
+      "confidence": 0.75,
+      "name": "Boston University College of Communications"
+    },
+    {
+      "basis": "Mentioned as a travel destination during a plane ride in the talk",
+      "confidence": 0.6,
+      "name": "Gen Con"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "57d66dc4-ed7d-5f08-bfef-05f8d8b1f24a",
+    "spec_sha256": "40458ffdbf48a8782d83730888d734fbd3c3a2dd59f180158a3b46ca8390cf82",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-15be7b3eb7a4",
+        "term-1a8fb6f0e082",
+        "term-2628c2350192",
+        "term-4ae8c0b5cc76",
+        "term-57b18644a2b0",
+        "term-63369021503d",
+        "term-6f35a8383815",
+        "term-750f118164ea",
+        "term-7fe0a4e7ac16",
+        "term-9d5528cb9c4d",
+        "term-b58c194b3490",
+        "term-c9bbeab7fe1f",
+        "term-ecd6235b3940"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 67852,
+      "dependency_resolution_ms": 57,
+      "handler_ms": 68968,
+      "input_fetch_ms": 928
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1231829,
+      "digest": "49a9634d1ed98c2a285182f67ae7b91f2923f65c1248e11843e41f6790879662",
+      "key": "objects/sha256/49/a9634d1ed98c2a285182f67ae7b91f2923f65c1248e11843e41f6790879662",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "64d07dcc-cd9c-55e7-a938-0c4566050412"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Human audience",
+        "Design to match players"
+      ],
+      "description": "Using the Suspend mechanic from Time Spiral (2006) to illustrate that trying to force players to do something they intuitively resist leads to worse design; the antidote is shaping the game to fit human behavior.",
+      "end": "00:04:14",
+      "start": "00:02:14",
+      "title": "Lesson 1: Fighting against human nature"
+    },
+    {
+      "concepts": [
+        "perception",
+        "Balance and pattern recognition"
+      ],
+      "description": "Aesthetics extend beyond visuals to components’ feel and balance; perceived quality affects engagement, with examples tied to Gristlebrand and a discussion of aesthetics education at Boston University.",
+      "end": "00:07:11",
+      "start": "00:04:43",
+      "title": "Lesson 2: aesthetics matter"
+    },
+    {
+      "concepts": [
+        "pre-existing emotional responses",
+        "Front-loading learning"
+      ],
+      "description": "Resonance leverages audience familiarity (e.g., zombies in MTG). Piggybacking uses familiar concepts (like flying) to teach mechanics quickly; Plants vs. Zombies example illustrates cross-media learning aids.",
+      "end": "00:12:15",
+      "start": "00:07:46",
+      "title": "Lesson 3 & 4: Resonance and piggybacking"
+    },
+    {
+      "concepts": [
+        "Intellectual vs. emotional stimulation",
+        "player satisfaction"
+      ],
+      "description": "Intellectual curiosity in card design vs. actual in-game fun; emotional payoff drives lasting engagement more reliably.",
+      "end": "00:16:04",
+      "start": "00:12:52",
+      "title": "Lesson 5: Don’t confuse interesting with fun"
+    },
+    {
+      "concepts": [
+        "Horror mechanics",
+        "theme-driven design"
+      ],
+      "description": "From Innistrad/Dark Ascension’s horror flavor to double-faced cards and Morbid/Flashback mechanics, Rosewater ties emotion to mechanic choices and ongoing audience experience checks.",
+      "end": "00:19:11",
+      "start": "00:16:11",
+      "title": "Lesson 6: Know the emotion you want to evoke"
+    },
+    {
+      "concepts": [
+        "Full-art lands",
+        "player ownership"
+      ],
+      "description": "Personalization through lands, full-art presentation, and later formats (Unglued, Zendikar, Battle for Zendikar) shows how distinctive visuals enhance attachment and ownership.",
+      "end": "00:23:12",
+      "start": "00:19:21",
+      "title": "Lesson 7: Make the game personal"
+    },
+    {
+      "concepts": [
+        "Fibblethip meme, details matter",
+        "Customization via formats and deck-building"
+      ],
+      "description": "Memes and collectible details create bonding; player customization (deck-building across 15,000+ cards and multiple formats) turns decks into personal statements.",
+      "end": "00:29:41",
+      "start": "00:23:39",
+      "title": "Lesson 8 & 9: Details and ownership through customization"
+    },
+    {
+      "concepts": [
+        "player-driven discovery",
+        "Pitch technique (interactive)"
+      ],
+      "description": "Encouraging discovery and avoiding over-telegraphing content; the pitch analogy emphasizes audience-initiated questions to drive investment.",
+      "end": "00:33:08",
+      "start": "00:30:04",
+      "title": "Lesson 10: Leave room for exploration"
+    },
+    {
+      "concepts": [
+        "Data-driven design",
+        "Love vs. like vs. hate"
+      ],
+      "description": "R&D rare polls show that strong emotional responses—even negative—are more informative than bland consensus; avoid chasing mere likability.",
+      "end": "00:36:07",
+      "start": "00:33:30",
+      "title": "Lesson 11: Rare polls and strong responses"
+    },
+    {
+      "concepts": [
+        "Designer ego",
+        "Audience-centered decisions"
+      ],
+      "description": "Planeswalker design case shows that ego-driven experimentation can backfire unless decisions serve the target audience experience.",
+      "end": "00:38:00",
+      "start": "00:36:07",
+      "title": "Lesson 12: Don’t design to prove you can"
+    },
+    {
+      "concepts": [
+        "Core loop",
+        "Engagement ensures promise fulfillment"
+      ],
+      "description": "Unhinged era and Gotcha mechanic illustrate making the fun core to winning strategy; avoid tangential fun that the player must seek out.",
+      "end": "00:39:55",
+      "start": "00:38:32",
+      "title": "Lesson 13: Make the fun part the winning strategy"
+    },
+    {
+      "concepts": [
+        "Show, don’t tell vs bluntness"
+      ],
+      "description": "Rise of Eldrazi teaches bluntness can be clearer than subtle hints when needing to convey new mechanics or themes.",
+      "end": "00:42:40",
+      "start": "00:41:40",
+      "title": "Lesson 14: Be blunt when needed"
+    },
+    {
+      "concepts": [
+        "Timmy, Johnny, Spike",
+        "Personalized component design"
+      ],
+      "description": "Three audience archetypes guide design of specific components; tailor for Timmy, Johnny, or Spike rather than pleasing all simultaneously.",
+      "end": "00:46:09",
+      "start": "00:43:42",
+      "title": "Lesson 15: Psychographics and audience targeting"
+    },
+    {
+      "concepts": [
+        "Risk-taking vs boredom",
+        "Breaking monotony"
+      ],
+      "description": "Unglued’s over-the-top ideas vs boring mechanics show the danger of boring the audience; risk-taking is often better received than repetitive safe bets.",
+      "end": "00:50:12",
+      "start": "00:46:09",
+      "title": "Lesson 16: Don’t fear boring your players if you’re avoiding risk"
+    },
+    {
+      "concepts": [
+        "Ravnica vs Invasion",
+        "Minimal but impactful shifts"
+      ],
+      "description": "Small changes (e.g., two-color guilds in Ravnica) yield huge world-building effects; avoid adding complexity where it isn’t needed.",
+      "end": "00:53:20",
+      "start": "00:50:12",
+      "title": "Lesson 17: Change little to change everything"
+    },
+    {
+      "concepts": [
+        "Creative constraint",
+        "Open-ended vs themed design"
+      ],
+      "description": "Constrained topics vs open-ended weeks for Making Magic illustrate how limits foster creative solutions.",
+      "end": "00:57:53",
+      "start": "00:53:20",
+      "title": "Lesson 18: Restrictions breed creativity"
+    },
+    {
+      "concepts": [
+        "Feedback as resource",
+        "Doctor-patient analogy"
+      ],
+      "description": "Players know what feels off; use them as a diagnostic resource but be cautious about accepting their suggested solutions wholesale.",
+      "end": "01:00:25",
+      "start": "00:55:59",
+      "title": "Lesson 19: Audience as problem-recognizers"
+    },
+    {
+      "concepts": [
+        "Holistic design",
+        "Interconnected insights"
+      ],
+      "description": "The full talk ties the 20 lessons into a single interconnected philosophy rather than standalone ideas.",
+      "end": "00:59:55",
+      "start": "00:57:55",
+      "title": "Lesson 20: All lessons connect"
+    },
+    {
+      "concepts": [
+        "Audience engagement",
+        "Forum feedback"
+      ],
+      "description": "Presenter invites audience to share feedback and participate in post-talk activities.",
+      "end": "01:00:00",
+      "start": "00:59:55",
+      "title": "Closing"
+    }
+  ],
+  "summary": "Magic: The Gathering designer Mark Rosewater shares a cohesive, 20-point design philosophy drawn from two decades at Wizards of the Coast. Using concrete MTG case studies (Time Spiral Suspend, Gristlebrand, Innistrad/Dark Ascension, Theros, Odyssey, Unglued, Ravnica, and more), he argues that great game design emerges from respecting human nature, leveraging aesthetics and resonance, embracing player ownership and customization, and balancing education with fun. He emphasizes learning from constraints, encouraging risk-taking over boring sameness, and letting players discover meaningful parts of a game through exploration and carefully crafted details. The talk weaves practical design lessons with anecdotes about formats, mechanics, and community engagement to illustrate how a designer’s decisions ripple through gameplay and player attachment.",
+  "title": "20 Years, 20 Lessons Learned: A GDC Talk by Mark Rosewater on Magic: The Gathering Design",
+  "topics": [
+    "Fighting against human nature",
+    "aesthetics matter",
+    "Resonance is important",
+    "Piggybacking as a teaching tool",
+    "don't confuse interesting with fun",
+    "Emotion-driven design and audience experience",
+    "Make the game personal for players",
+    "Details drive player attachment",
+    "Formats and player ownership (Commander, etc.)",
+    "Leave room for player exploration",
+    "player psychographics (Timmy, Johnny, Spike)",
+    "don't design to prove you can do something",
+    "Blunt design vs. subtlety in communication",
+    "Restrictions breed creativity",
+    "three-way player types and component targeting",
+    "Be willing to challenge players (not just bore them)",
+    "Change small elements to change everything",
+    "Split cards and modular design experiments",
+    "Creative bite-sized constraints in design",
+    "Audience as problem-recognizers, not problem-solvers"
+  ],
+  "video": "QHHg99hwQGY.youtube"
+}

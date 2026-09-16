@@ -1,0 +1,291 @@
+{
+  "analysis_created_at": "2026-09-14T19:43:05.538592+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 11, 2016",
+    "iso": "2016-05-11",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.75,
+      "technique": "256-color palette with 128-background / 128-foreground split and per-tile lighting (nibble-based color lookup)",
+      "timestamp": "00:15:41"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Sprite pipeline from 3D models to 2D sprites; debablizer palette remapping",
+      "timestamp": "00:18:40"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Tile-based world with per-tile light levels and color-nibble encoding to drive atmosphere",
+      "timestamp": "00:20:02"
+    },
+    {
+      "confidence": 0.68,
+      "technique": "Floor-first rendering with wall-attached objects and movement prediction to avoid sprite clipping",
+      "timestamp": "00:21:31"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Early multiplayer architecture notes: Battle.net concept and single-computer hosting claim",
+      "timestamp": "00:57:22"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "DirectX integration and PC Gamer demo as a catalyst for a new interface and multiplayer exposure",
+      "timestamp": "00:39:50"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Mom test and Doom-style UI to minimize learning curve; quick-action hotbar invention late in development",
+      "timestamp": "00:46:12"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Cinematic ending concept (You’ve killed Diablo) and its influence on player perception and replayability",
+      "timestamp": "01:14:19"
+    },
+    {
+      "confidence": 0.65,
+      "technique": "Sound design innovations: using everyday objects for creature sounds (pencils, dice) by Matt Ullman",
+      "timestamp": "01:01:04"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Speaker states he lived in Danville and was at the base of Mount Diablo",
+      "confidence": 0.65,
+      "name": "Danville, California, USA"
+    },
+    {
+      "basis": "Speaker mentions living at the base of Mount Diablo",
+      "confidence": 0.6,
+      "name": "Mount Diablo, California, USA"
+    },
+    {
+      "basis": "Explicit reference to East Bay and San Francisco Bay Area",
+      "confidence": 0.75,
+      "name": "East Bay, San Francisco Bay Area, California, USA"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "f4782760-2447-5151-94a1-55f08d6b1a2c",
+    "spec_sha256": "61a3e6ccee517baf15f6463b5852926883db6f845f7480c7d493bd00939e73ab",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-aebe7ba3fc0d",
+        "term-ce654c5ee266"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 86407,
+      "dependency_resolution_ms": 51,
+      "handler_ms": 87511,
+      "input_fetch_ms": 923
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1351815,
+      "digest": "6aaeb30583c53364ba471c15e32bcda588b088fae612c8bd1dc79a80a900383a",
+      "key": "objects/sha256/6a/aeb30583c53364ba471c15e32bcda588b088fae612c8bd1dc79a80a900383a",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "fc9089f3-e4b9-5ed6-9ba4-e48bc0655466"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Original concept originated in high school",
+        "Roguelike influence shaping initial design",
+        "Mount Diablo as the naming inspiration"
+      ],
+      "description": "Brevik explains the genesis of a Diablo concept grounded in roguelike influences, with the Mount Diablo locale naming the project.",
+      "end": "00:05:15",
+      "start": "00:02:00",
+      "title": "Origins and early concept"
+    },
+    {
+      "concepts": [
+        "Condor as the shared studio name and dream of independent game creation",
+        "the secret project and the Diablo design document",
+        "Early differences between the concept and the final game"
+      ],
+      "description": "From a small company dream (Condor) to paper designs for Diablo, Brevik contrasts early plans with what Diablo would become.",
+      "end": "00:12:00",
+      "start": "00:05:15",
+      "title": "Condor days to the Diablo design paper"
+    },
+    {
+      "concepts": [
+        "Claymation/stop-motion vs. modern 3D look",
+        "Influence and later correction after evaluating Primal Rage",
+        "Primal Rage stop-motion inspiration and practical constraints"
+      ],
+      "description": "The talk clarifies the claymation misconception and explains the pragmatic choice against full stop-motion due to production limits.",
+      "end": "00:08:01",
+      "start": "00:06:20",
+      "title": "Art direction and claymation discussion"
+    },
+    {
+      "concepts": [
+        "CES era interactions with Silicon & Synapse",
+        "The Blizzard name change and Warcraft collaboration",
+        "Pitching Diablo after Warcraft collaboration"
+      ],
+      "description": "Brevik recounts meetings at CES, the Blizzard‑Warcraft relationship, and how Diablo emerged from those interactions.",
+      "end": "00:12:41",
+      "start": "00:08:47",
+      "title": "CES, Blizzard/Silicon & Synapse, and the Warcraft pitch"
+    },
+    {
+      "concepts": [
+        "XCOM as a visual blueprint",
+        "Tile-based basis and matching grid geometry with XCOM",
+        "Early art direction decisions based on existing successful tile systems"
+      ],
+      "description": "A key graphical influence was XCOM, which informed the tile-based framework that Diablo inherited.",
+      "end": "00:14:13",
+      "start": "00:13:24",
+      "title": "Inspiration from XCOM and early look decisions"
+    },
+    {
+      "concepts": [
+        "256-color palette with two sections: 128 for background, 128 for foreground",
+        "Per-tile light levels and nibble-based color lookups",
+        "Creative palette engineering to achieve atmosphere"
+      ],
+      "description": "Brevik details a novel lighting technique using a dual 128-color split and nibble-level color lookups to deliver a dark, atmospheric Diablo.",
+      "end": "00:20:14",
+      "start": "00:15:41",
+      "title": "Palette and lighting technique"
+    },
+    {
+      "concepts": [
+        "3D modeling for sprites, exporting to 2D sheets",
+        "Debablizer mapping to palette for backgrounds vs foreground",
+        "Sprite sheets and tile-based rendering workflow"
+      ],
+      "description": "The team describes turning 3D models into 2D sprite sheets and palette mapping to fit the limited 256-color palette.",
+      "end": "00:19:58",
+      "start": "00:18:40",
+      "title": "Art pipeline and sprite export"
+    },
+    {
+      "concepts": [
+        "tiles drawn floor-first, then objects on top",
+        "Walls attached to floors caused clipping during movement",
+        "Solution: pre-positioning logic to avoid clipping"
+      ],
+      "description": "A practical programming fix is described: separating floor from walls to prevent sprites being cut off during transitions.",
+      "end": "00:22:18",
+      "start": "00:21:31",
+      "title": "Floor versus walls and movement clipping fix"
+    },
+    {
+      "concepts": [
+        "Deliberation on real-time vs turn-based",
+        "Kitchen vote: Brevik voted no while Blizzard South voted yes",
+        "Operational impact and delayed milestones"
+      ],
+      "description": "The talk captures the pivotal choice to shift to real-time, including a contentious vote and subsequent scheduling implications.",
+      "end": "00:26:10",
+      "start": "00:22:49",
+      "title": "Turn-based vs real-time: decision and fallout"
+    },
+    {
+      "concepts": [
+        "Battle.net concept introduced as the in-box service",
+        "Mike O'Brien's networking leadership"
+      ],
+      "description": "Brevik explains the genesis of Battle.net and early networking efforts, including the claim that Battle.net initially ran on a single computer.",
+      "end": "00:38:31",
+      "start": "00:35:40",
+      "title": "Battle.net origin and early networking"
+    },
+    {
+      "concepts": [
+        "DirectX adoption as a solution to DOS-era headaches",
+        "PC Gamer demo distribution in 1996",
+        "Early interface and gameplay notes observed in the DirectX variant"
+      ],
+      "description": "The DirectX demo and PC Gamer CD distribution helped propel Diablo’s accessibility and multiplayer potential.",
+      "end": "00:41:34",
+      "start": "00:39:50",
+      "title": "DirectX, PC Gamer demo, and early multiplayer demo"
+    },
+    {
+      "concepts": [
+        "Doom-style menus and simplified navigation",
+        "The mom test as a usability heuristic",
+        "Auto-map debates and the Dark Forces overlay influence"
+      ],
+      "description": "Brevik highlights UI philosophy, interface conciseness, and the debates over how the auto-map should feel and function.",
+      "end": "00:46:32",
+      "start": "00:43:21",
+      "title": "Interface, auto-map, and mom test"
+    },
+    {
+      "concepts": [
+        "Early involvement of composer Matt Ullman",
+        "Novel sound effects (skeleton sounds from pencils and dice)"
+      ],
+      "description": "Ullman’s involvement helped shape Diablo’s haunting audio, including inventive sound effect techniques.",
+      "end": "01:01:50",
+      "start": "01:00:02",
+      "title": "Sound design and Matt Ullman"
+    },
+    {
+      "concepts": [
+        "Cinematic decision to include the gem-in-the-head ending",
+        "Audience and team reactions to the ending",
+        "Post-release interpretation and the ending’s ambiguity"
+      ],
+      "description": "The You’ve killed Diablo ending sparked debate but later became part of Diablo’s quirky legacy.",
+      "end": "01:16:36",
+      "start": "01:14:19",
+      "title": "Ending cinematic and the gem-in-the-forehead moment"
+    }
+  ],
+  "summary": "In this Blizzard North postmortem, David Brevik chronicles the Diablo project from its origins in his high‑school concept through Blizzard’s acquisition and the game’s 1996 release. He details roguelike influences, early design notes, and the technical choices that shaped Diablo’s dark atmosphere—most notably a pioneering 256‑color palette, per‑tile lighting, and a tile-based rendering approach with a careful art pipeline. Brevik recounts the push‑and‑pull of design decisions (turn‑based versus real‑time, single-player versus multiplayer), the birth of Battle.net, and the direct‑to‑consumer momentum of DirectX demos and PC Gamer coverage. The talk also offers candid reflections on crunch, business decisions, Hellfire’s expansion, and the game’s enduring legacy, including the memorable ending and the lessons learned that informed later Blizzard titles.",
+  "title": "'Diablo': A Classic Game Postmortem",
+  "topics": [
+    "Diablo naming and Mount Diablo",
+    "Danville, East Bay, and San Francisco Bay Area origins",
+    "Roguelike influences: Rogue, NetHack, Moria, Angband",
+    "Condor / Blizzard North and the Diablo concept",
+    "Original Diablo design document: turn-based, single-player, DOS, expansions, permadeath",
+    "Art direction: claymation/stop-motion debate and Primal Rage influence",
+    "XCOM influence on early Diablo visuals",
+    "256-color VGA palette strategy: 128 background / 128 foreground; lighting as 16 levels",
+    "Sprite pipeline: 24-bit to 8‑bit palette via debablizer; sprite sheets",
+    "Tile-based level rendering and floor-vs-wall separation",
+    "Turn-based versus real-time decision and internal vote",
+    "Battle.net origin, single-computer hosting claim, and multiplayer integration",
+    "Multiplayer evolution: client-server intent for cheating prevention (Diablo 2 lessons)",
+    "DirectX integration and PC Gamer demo (1996)",
+    "Interface philosophy: NHL 95 influence, Doom-style menus, mom test, and auto-map debates",
+    "Hotbar invention and UI refinements during late development",
+    "Hellfire expansion: non-Blizzard North development and the fallout",
+    "Cinematic ending and the 'You've killed Diablo' moment",
+    "Crunch, personal life, and recovery after launch",
+    "Composer Matt Ullman and early sound design innovations",
+    "Gem-in-the-forehead cinematic controversy"
+  ],
+  "video": "VscdPA6sUkc.youtube"
+}

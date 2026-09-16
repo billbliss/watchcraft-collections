@@ -1,0 +1,229 @@
+{
+  "analysis_created_at": "2026-09-14T19:21:25.009063+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 2, 2017",
+    "iso": "2017-11-02",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.8,
+      "technique": "Emphasize hook over pillars",
+      "timestamp": "00:04:59"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Prototype focused on unique mechanics",
+      "timestamp": "00:10:00"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Single standout art piece over many mediocre images",
+      "timestamp": "00:11:15"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Describe moment-to-moment gameplay, not just setting",
+      "timestamp": "00:06:26"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Pre-pitch research to target publishers/events",
+      "timestamp": "00:15:43"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Be transparent about risks and how you mitigate them",
+      "timestamp": "00:09:43"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Avoid over-reliance on monetization specifics in early pitches",
+      "timestamp": "00:18:12"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Trailer usefulness depends on audience; rely on prototype clarity for feasibility",
+      "timestamp": "00:33:26"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript references GDC; publisher is \"GDC Festival of Gaming\". City not specified in transcript.",
+      "confidence": 0.6,
+      "name": "GDC (likely San Francisco, CA) – venue of the talk"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "a89dc17f-d3cb-5a89-9cc4-d8a21a75439b",
+    "spec_sha256": "8734371268fd5cefe2ad4864c3941a190c2dbd99140725443c295a356118adec",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-37f751656114",
+        "term-44e6fae93ce0",
+        "term-daec7569da56"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 81466,
+      "dependency_resolution_ms": 241,
+      "handler_ms": 82948,
+      "input_fetch_ms": 1105
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 745159,
+      "digest": "49d5280f5676b3b85bdf1e4c30447356299505726cbd6f6ddfa4b62ea54cbf44",
+      "key": "objects/sha256/49/d5280f5676b3b85bdf1e4c30447356299505726cbd6f6ddfa4b62ea54cbf44",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ba7d207d-27b6-507f-9dc3-1664cc526661"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "pitch credibility",
+        "two core questions",
+        "audience perspective",
+        "speaker background"
+      ],
+      "description": "The speaker sets the stage, explaining why pitches matter by sharing credentials and framing two central questions every pitch should address: is the game worth making, and can the team deliver it.",
+      "end": "00:02:10",
+      "start": "00:00:04",
+      "title": "Introduction: Pitch value and two core questions"
+    },
+    {
+      "concepts": [
+        "backstory dump",
+        "lore heavy pitches",
+        "Star Wars crawl analogy",
+        "selling at purchase vs. in-play"
+      ],
+      "description": "A critique of starting pitches with extensive world lore. Lore-heavy introductions rarely sell at the decision point; pitches should be able to stand on core concept without exhaustive backstory.",
+      "end": "00:04:52",
+      "start": "00:02:19",
+      "title": "Backstory & lore: avoid overloading the pitch"
+    },
+    {
+      "concepts": [
+        "game pillars",
+        "hook vs. pillars",
+        "moment-to-moment gameplay",
+        "avoid generic features"
+      ],
+      "description": "Distinguishes pillars (staying on track) from the hook (the unique selling point). Emphasizes describing what the player actually does and why the core loop is compelling.",
+      "end": "00:06:40",
+      "start": "00:04:52",
+      "title": "Pillars vs hook; describe gameplay"
+    },
+    {
+      "concepts": [
+        "frame story",
+        "game show frame",
+        "parody risk"
+      ],
+      "description": "Advice on whether framing your game (e.g., as a game show) helps, and warning against declaring a parody too early, which can undermine credibility.",
+      "end": "00:08:31",
+      "start": "00:06:41",
+      "title": "Frame stories and parody caution"
+    },
+    {
+      "concepts": [
+        "proof of concept",
+        "hard/prototypable elements",
+        "single strong image vs many mediocre pieces",
+        "placeholders versus final art",
+        "dialogue writing quality"
+      ],
+      "description": "Guidance on what to prototype (the hook and hard visuals) and how to present art and dialogue; prioritize strong writing and clearly distinguish placeholders from final art.",
+      "end": "00:12:00",
+      "start": "00:09:51",
+      "title": "Prototyping, art, and dialogue quality"
+    },
+    {
+      "concepts": [
+        "tech hotness",
+        "VR/AR hype",
+        "Gone Home / Minecraft comparisons",
+        "IP licensing risk",
+        "monetization plan depth"
+      ],
+      "description": " cautions against chasing the latest tech craze without game-centric justification; discusses licensing risks and the appropriate level of monetization detail in a pitch.",
+      "end": "00:18:50",
+      "start": "00:14:21",
+      "title": "Tech hype, IP, and monetization framing"
+    },
+    {
+      "concepts": [
+        "scope clarity",
+        "hours, levels, dialogue",
+        "cost estimation",
+        "feasibility",
+        "realistic business plan"
+      ],
+      "description": "Emphasizes knowing the game's scope and cost, having a plausible business plan, and avoiding inflated revenue projections or vague roadmaps. Includes advice on presenting a hiring plan to deliver the project.",
+      "end": "00:23:39",
+      "start": "00:18:50",
+      "title": "Feasibility, scope, and business realism"
+    },
+    {
+      "concepts": [
+        "presentation tech",
+        "tablet/ laptop use",
+        "headphones",
+        "trailer considerations",
+        "pre-pitch research",
+        "handling questions",
+        "professionalism and respect"
+      ],
+      "description": "Practical tips on equipment, environment, and etiquette during pitches. Discusses how to handle questions, the value of pre-pitch research, and the importance of maintaining professionalism through the process.",
+      "end": "00:37:22",
+      "start": "00:23:39",
+      "title": "Presentation logistics, Q&A, and professionalism"
+    }
+  ],
+  "summary": "This talk dissects common pitfalls and hard truths about pitching video games, distilling practical guidance into 30 concise observations. The speaker emphasizes pitches should answer two core questions (is the game worth making, and can the team execute it) and warns against overloading a pitch with lore, standard systems, or superficial polish. Key lessons include distinguishing a compelling hook from supporting pillars, clearly describing moment-to-moment gameplay, avoiding heavy backstories and demos that don’t prove the concept, and resisting the temptation to chase the latest tech or a flashy monetization plan. The talk also covers prototyping focus, art direction, dialogue quality, licensing risks, scope realism, and the interpersonal dynamics of working with publishers. The speaker closes with practical tips on preparation, presentation tools, and handling questions, reinforced by examples and counterexamples from industry practice.",
+  "title": "30 Things I Hate About Your Game Pitch",
+  "topics": [
+    "Two core pitch questions: is the game worth making? can the team execute it?",
+    "Avoid heavy backstory in pitches; lore dump distracts from core concept",
+    "How to reference Star Wars-like quick setup as an example rather than lengthy exposition",
+    "Don’t dump standard or non-core features unless they’re central to the concept",
+    "Don’t invite the audience to design the game during the pitch; present your vision",
+    "Pillars are not hooks; emphasize a unique selling proposition (hook) early",
+    "Describe moment-to-moment gameplay, not just setting or visuals",
+    "Realism as justification: avoid excuses for design decisions unless you’re doing hardcore simulation",
+    "Frame stories (game shows) are often unnecessary; remove unless there is a strong reason",
+    "Be wary of parody as a selling point; it can signal underlying issues with the concept",
+    "Explicitly acknowledge technical risks and explain mitigation plans",
+    "Proof of concept: prototype should showcase a unique or hard-to-build element, not trivial mechanics",
+    "Art direction: one stellar image can sell the look better than many mediocre visuals; placeholders help distinguish final intent",
+    "Polished visuals too early can be a red flag if mechanics are incomplete",
+    "Dialogue quality matters; showcase strong writing rather than placeholder dialogue",
+    "Tech hype (VR/AR, etc.) should fit the game concept; avoid retrofitting to chase trends",
+    "IP licensing risk: avoid relying on IP you do not own; licensing should be settled beforehand",
+    "Monetization details belong later; share basic monetization direction but not granular pricing before development",
+    "Scope and feasibility: know hours, levels, dialogue, and cost; a solid plan supports feasibility",
+    "Team and hiring roadmap: demonstrate leads and hiring plan to execute the project",
+    "Professionalism and collaboration: pitch performance reflects how you’d function under stress",
+    "Traction metrics and track record: note any past shipped titles or relevant successes to bolster feasibility",
+    "Trailer vs prototype: use trailers judiciously; strong prototype and gameplay proof are often more persuasive",
+    "Preparation and targeting: research publishers/investors to tailor the pitch to their interests"
+  ],
+  "video": "4LTtr45y7P0.youtube"
+}

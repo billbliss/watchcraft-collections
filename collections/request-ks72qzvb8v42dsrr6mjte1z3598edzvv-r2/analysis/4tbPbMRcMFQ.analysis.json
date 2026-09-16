@@ -1,0 +1,271 @@
+{
+  "analysis_created_at": "2026-09-14T20:06:28.794409+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "January 4, 2017",
+    "iso": "2017-01-04",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.92,
+      "technique": "swag scheduling",
+      "timestamp": "00:03:20"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "butchery (early cutting of features)",
+      "timestamp": "00:04:44"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "risk reduction via familiar tech stack",
+      "timestamp": "00:05:34"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "contractor onboarding and governance",
+      "timestamp": "00:05:59"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "elevator pitch development",
+      "timestamp": "00:10:05"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "devlog-based community building",
+      "timestamp": "00:08:48"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "early access via indie storefronts",
+      "timestamp": "00:13:11"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "cross-platform release with distinct PC/mobile stories",
+      "timestamp": "00:14:53"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "localization as revenue strategy",
+      "timestamp": "00:23:46"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "post-launch tail marketing and DLC impact",
+      "timestamp": "00:21:24"
+    },
+    {
+      "confidence": 0.77,
+      "technique": "leveraging non-game media for hook",
+      "timestamp": "00:12:54"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "cross-promo with YouTubers and PR outreach",
+      "timestamp": "00:11:25"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Speaker says they lived in San Francisco; the talk is at a GDC venue, but the speaker’s location is explicitly stated in the transcript.",
+      "confidence": 0.75,
+      "name": "San Francisco, United States"
+    },
+    {
+      "basis": "Game setting includes Stockton among 20 real California cities; Stockton is also referenced via local press (Stockton Record) mentioned in the talk.",
+      "confidence": 0.6,
+      "name": "Stockton, California"
+    },
+    {
+      "basis": "Local press referenced (Sacramento Bee) in discussing outreach in real California cities used by the game.",
+      "confidence": 0.6,
+      "name": "Sacramento, California"
+    },
+    {
+      "basis": "Mentioned via the Marysville Mountain Gazette as part of the local-press outreach example.",
+      "confidence": 0.55,
+      "name": "Marysville, California"
+    },
+    {
+      "basis": "The game is said to include six real cities in Nevada; Nevada Magazine is cited in outreach.",
+      "confidence": 0.6,
+      "name": "Nevada (state), United States"
+    },
+    {
+      "basis": "Localization effort described (German localization) and revenue data discussed; inferred market inference from localization discussion.",
+      "confidence": 0.5,
+      "name": "Germany (market)"
+    },
+    {
+      "basis": "Localization effort described (French localization) and early data discussed; inferred market from localization mention.",
+      "confidence": 0.5,
+      "name": "France (market)"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "9664dd04-ea7b-510b-a5cc-3bb794290446",
+    "spec_sha256": "aac44a1ab7101b392db93e00fa8a0f297e3591fc7f60fdec02b174c76099bb06",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-21bc0a0dd806",
+        "term-e4df1aa726e6"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 82077,
+      "dependency_resolution_ms": 256,
+      "handler_ms": 83209,
+      "input_fetch_ms": 704
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 597153,
+      "digest": "2da928c8253ac7c12a0730f2f2650ffe49e07b466270cbd5f4bee6e9686854d6",
+      "key": "objects/sha256/2d/a928c8253ac7c12a0730f2f2650ffe49e07b466270cbd5f4bee6e9686854d6",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "0771550c-2c70-576b-8923-3b40f00ddb45"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "on-the-clock-industry-year",
+        "indie-game-vision vs scope"
+      ],
+      "description": "Matthew frames the core dilemma: finish a first indie game and make a business out of it within about a year, or risk losing momentum. He introduces 1849 as the launch example and outlines the shift from multiple concepts to a single-year plan.",
+      "end": "00:02:03",
+      "start": "00:00:03",
+      "title": "Introduction, stakes, and year-long planning"
+    },
+    {
+      "concepts": [
+        "swag scheduling",
+        "Post-it planning",
+        "relative risk"
+      ],
+      "description": "The team adopts swag scheduling (stupid, wild-ass guests), breaks work into chunks, and estimates duration and cost. They perform a meta calculation that yields roughly 16 months of work, then apply butchery to cut the most time-consuming parts (notably, a multiplayer system).",
+      "end": "00:04:21",
+      "start": "00:02:03",
+      "title": "Swag scheduling and initial project breakdown"
+    },
+    {
+      "concepts": [
+        "tool selection",
+        "multiplayer cut",
+        "contractor oversight"
+      ],
+      "description": "Butchered scope reveals a 4-month multiplayer effort; they cut to sole focus on single-player. They opt for familiar Flash tooling over Unity to minimize risk, and emphasize careful contractor onboarding, documentation, and corporate formation.",
+      "end": "00:06:59",
+      "start": "00:04:21",
+      "title": "Risk reduction, tech choices, and contractor management"
+    },
+    {
+      "concepts": [
+        "PR basics",
+        "devlog",
+        "Twitter and press"
+      ],
+      "description": "Nine months in, they begin self-marketing, frame publicity as strategic (not magic), and build a community via devlogs, social media, and targeted outreach. They discuss the roles of journalists and platforms like Rock, Paper, Shotgun (RP$), YouTubers, and non-game media.",
+      "end": "00:11:18",
+      "start": "00:07:02",
+      "title": "Marketing groundwork, community building, and journalist outreach"
+    },
+    {
+      "concepts": [
+        "dev blogs",
+        "early access",
+        "independent stores"
+      ],
+      "description": "The team leverages devlogs and cross-posts, uses Indie Game Stand for early access, and highlights the value of testing with a smaller community before a broad Steam release.",
+      "end": "00:14:08",
+      "start": "00:11:18",
+      "title": "Audience engagement channels and early access strategy"
+    },
+    {
+      "concepts": [
+        "cross-platform release",
+        "PC vs mobile pricing",
+        "Kobayashi Maru (paradox)"
+      ],
+      "description": "They plan a simultaneous multi-platform launch, discuss distinct game stories for PC and mobile, weigh pricing tensions, and introduce a cross-platform pricing dilemma, emphasizing justification of PC pricing and content differentiation.",
+      "end": "00:17:56",
+      "start": "00:14:08",
+      "title": "Cross-platform release planning and pricing tensions"
+    },
+    {
+      "concepts": [
+        "localization",
+        "store diversity",
+        "revenue breakdown"
+      ],
+      "description": "The talk reviews revenue sources (roughly 60% PC, 40% mobile), the impact of German and French localizations, and the importance of appearing on multiple stores. They note localization shifts (German becoming a top market after translation).",
+      "end": "00:24:57",
+      "start": "00:18:07",
+      "title": "Localization, platform stores, and revenue mix"
+    },
+    {
+      "concepts": [
+        "post-launch marketing",
+        "DLC, ads as messaging",
+        "tail sales"
+      ],
+      "description": "Marketing continues after launch: DLC bumps sales, ads are used with urgency and consistent voice, and ‘the tail’ is actively flogged through promotions and ongoing content.",
+      "end": "00:23:40",
+      "start": "00:20:41",
+      "title": "Post-release marketing, DLC, and ad strategy"
+    },
+    {
+      "concepts": [
+        "bootstrapping vs investors",
+        "networking for contractors",
+        "what’s next"
+      ],
+      "description": "They outline bootstrapping, the plan for a second game (two-year horizon), and how urgency persists. Q&A touches on investor avoidance, early tester networks, and contracting via personal networks.",
+      "end": "00:29:45",
+      "start": "00:24:57",
+      "title": "Second game and takeaways, Q&A highlights"
+    }
+  ],
+  "summary": "In this GDC Festival of Gaming presentation, SomaSim cofounder Matthew Vione recounts how his studio planned, produced, marketed, and self-published their first indie simulation game, 1849, within a year (ultimately ~14 months). The talk emphasizes pragmatic project scoping (swag scheduling and the “butchery” cut of features), risk management (sticking to familiar tech), contract and corporate basics, and a multi-faceted self-marketing plan that includes devlogs, social-media outreach, press relations, influencer engagement, and non-game media hooks. The team pursued a cross-platform release (PC and mobile) with careful pricing decisions and localization to boost long-tail sales, while also leveraging early access, DLC, and periodic ads to sustain revenue after launch. The talk culminates with lessons on how to sustain a new studio’s momentum after their first release, and how the second project is structured to avoid over-reliance on the first success.",
+  "title": "One-Year Indie Game Launch: Planning, Production, and Self-Publishing (SomaSim's 1849 Case Study)",
+  "topics": [
+    "swag scheduling",
+    "butchery (feature pruning) to fit timelines",
+    "year-long planning for an indie game",
+    "risk-reducing tech choices",
+    "contractor management and paperwork",
+    "corporate setup and accounting",
+    "elevator pitch development",
+    "devlog and press outreach",
+    "social-media strategy and Reddit engagement",
+    "Screenshots Saturday and community building",
+    "public relations and press outreach",
+    "YouTube influencer engagement",
+    "indie game stand and early access",
+    "cross-platform release strategy (PC and mobile)",
+    "pricing strategy and the Kobayashi Maru concept",
+    "localization (German and French)",
+    "revenue split by store/platform",
+    "DLC and marketing tail effects",
+    "trading cards and community features",
+    "post-release reviews and response management"
+  ],
+  "video": "4tbPbMRcMFQ.youtube"
+}

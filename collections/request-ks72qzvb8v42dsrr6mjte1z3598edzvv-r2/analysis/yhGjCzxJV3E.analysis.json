@@ -1,0 +1,262 @@
+{
+  "analysis_created_at": "2026-09-14T20:14:05.105601+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "May 21, 2015",
+    "iso": "2015-05-21",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.86,
+      "technique": "Cel-shaded 3D pipeline to preserve anime look",
+      "timestamp": "00:04:40"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Real-time shader preview in modeling software to iterate shading",
+      "timestamp": "00:11:48"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Per-character lighting with dedicated light vector (no global lighting)",
+      "timestamp": "00:18:13"
+    },
+    {
+      "confidence": 0.92,
+      "technique": "Inverted hull outlines with vertex-color controlled width",
+      "timestamp": "00:23:57"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Axis-aligned UV-driven inner lines to avoid jaggies",
+      "timestamp": "00:25:33"
+    },
+    {
+      "confidence": 0.92,
+      "technique": "Two-texture shading: base texture for lit color, tint texture for shading depth",
+      "timestamp": "00:21:02"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Limited animation: frame-by-frame keyframes with extensive rigging (~500 bones)",
+      "timestamp": "00:30:11"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Scale animation and per-frame mesh deformation to add intentional imperfection",
+      "timestamp": "00:31:16"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Gator normal-transfer tool in Softimage to control shading normals",
+      "timestamp": "00:50:58"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Speaker states 'I'm standing here today at GDC' in transcript; GDC is convention in San Francisco",
+      "confidence": 0.75,
+      "name": "GDC stage (Game Developers Conference) – San Francisco, CA, USA"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "36fe24fc-dca6-555e-8428-fbf617b2f4bd",
+    "spec_sha256": "93130932327231ff51c91aed686aba6d49cf3404abef764faba2907ce44835bb",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-0de90621205b",
+        "term-1fdf0116d761",
+        "term-6c38f8692814",
+        "term-eb7bdbdf87a4",
+        "term-ed3ec9fc97d3"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 65672,
+      "dependency_resolution_ms": 107,
+      "handler_ms": 66558,
+      "input_fetch_ms": 635
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 836203,
+      "digest": "48c147202cabbf6bef4839f2492eba0a9bcc682482aeaa866ad317ffbc01808c",
+      "key": "objects/sha256/48/c147202cabbf6bef4839f2492eba0a9bcc682482aeaa866ad317ffbc01808c",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "6349f83d-bd2f-5318-886f-4097b17f7e34"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "session goals",
+        "speaker introduction",
+        "scope and Q&A at end"
+      ],
+      "description": "Opening remarks from Junior Motomura, outlining the talk focus on Guilty Gear Exord (XRD) art style, with emphasis on 3D character art and animation, and eventual Q&A at the end.",
+      "end": "00:03:12",
+      "start": "00:01:34",
+      "title": "Introduction and session scope"
+    },
+    {
+      "concepts": [
+        "Guilty Gear Exord as reboot",
+        "Shift from 2D sprites to 3D",
+        "preserving sprite charm in 3D"
+      ],
+      "description": "Context for moving the Guilty Gear series from traditional 2D sprites to 3D cel-shaded work while maintaining the franchise’s aesthetic heritage.",
+      "end": "00:06:50",
+      "start": "00:03:12",
+      "title": "Guilty Gear Exord context and art-styling shift"
+    },
+    {
+      "concepts": [
+        "why not stick to 2D sprites",
+        "examples of alternatives considered",
+        "direction toward cel-shaded 3D"
+      ],
+      "description": "Explanation of the decision to pursue cel-shaded 3D rather than staying with 2D sprites or other approaches, highlighting the potential for a distinct look and new opportunities.",
+      "end": "00:08:41",
+      "start": "00:06:56",
+      "title": "Rationale for the new art path"
+    },
+    {
+      "concepts": [
+        "Unreal Engine 3 selected for multi-platform needs",
+        "Softimage for modeling/animation and shader work",
+        "built-in shader editor and non-destructive workflow"
+      ],
+      "description": "Rationale for choosing Unreal Engine 3 and Autodesk Softimage, emphasizing the artist-friendly pipeline and the ability to prototype cel-shading with a non-destructive workflow.",
+      "end": "00:14:10",
+      "start": "00:08:41",
+      "title": "Pipeline decisions: engines and tools"
+    },
+    {
+      "concepts": [
+        "kill everything 3D",
+        "hand-crafted adjustments for convincing 2D look",
+        "high-polygon modeling (≈40k tris) for close-ups",
+        "vertex properties as data storage (normals, colors, UB coords)"
+      ],
+      "description": "Details on achieving a convincing 2D look via manual craftsmanship, high-detail geometry, and data-driven shading using vertex properties rather than textures alone.",
+      "end": "00:20:24",
+      "start": "00:14:10",
+      "title": "Character look development: 2D fidelity and shader control"
+    },
+    {
+      "concepts": [
+        "base vs tint textures for shading",
+        "textures as color lookups (not detail-driven)",
+        "per-material color decisions to express character",
+        "anisotropic shading considerations and line integration"
+      ],
+      "description": "How the anime look is achieved through a two-texture shading workflow, intentional color choices, and shader-driven control over lighting and tone.",
+      "end": "00:23:57",
+      "start": "00:20:24",
+      "title": "Shading, color and texture strategy for anime feel"
+    },
+    {
+      "concepts": [
+        "inverted hull outline method",
+        "extra line control via vertex shader and vertex colors",
+        "axis-aligned UVs for clean lines",
+        "sampling textures for line rendering and anti-aliasing considerations"
+      ],
+      "description": "Techniques to render crisp outlines and inner lines without relying on post-process effects, including axis-aligned UV line drawing and per-vertex control.",
+      "end": "00:28:41",
+      "start": "00:23:57",
+      "title": "Outlines and inner lines: geometry-driven line work"
+    },
+    {
+      "concepts": [
+        "limited animation to emulate 2D feel",
+        "frame-by-frame keyframes (no interpolation)",
+        "extensive rigging (~500 bones per character)",
+        "scale animation and intentional pose variety",
+        "deforming mesh per keyframe to add imperfection"
+      ],
+      "description": "Approach to animation that favors explicit keyframes, high bone counts, and deliberate pose articulation to preserve the 2D feel in a 3D pipeline.",
+      "end": "00:34:55",
+      "start": "00:29:14",
+      "title": "Animation philosophy: limited animation and high-fidelity posing"
+    },
+    {
+      "concepts": [
+        "character creation team size",
+        "two-month modeling and animation timelines",
+        "UV layout strategy per character",
+        "Per-character lighting and lack of global lighting",
+        "texture resolution and performance"
+      ],
+      "description": "Early Q&A covering team composition, production cadence, UV planning, and lighting architecture, illustrating how the NPR pipeline scales for a fighting game.",
+      "end": "00:42:24",
+      "start": "00:37:46",
+      "title": "Q&A highlights: production scale and workflow"
+    },
+    {
+      "concepts": [
+        "Gator tool for normal transfer in Softimage",
+        "per-character lighting versus stage lighting",
+        "specular computation from base and tint textures",
+        "effects as animated particles and frame-swapped frames",
+        "XSI-only workflow advantages and future NPR exploration"
+      ],
+      "description": "Additional audience discourse focusing on normals editing tools, lighting integration, texture-based specular makeup, and practical notes about effects and future NPR research.",
+      "end": "00:58:50",
+      "start": "00:42:24",
+      "title": "Further Q&A: normals, specular, effects and pipeline practicality"
+    },
+    {
+      "concepts": [
+        "artist’s intention as the X Factor",
+        "call for more NPR exploration by studios",
+        "thank you and wrap-up"
+      ],
+      "description": "Concluding reflections emphasizing the artist’s intent as the differentiator and urging broader exploration of NPR in games.",
+      "end": "00:59:30",
+      "start": "00:58:50",
+      "title": "Closing: the X Factor and future NPR exploration"
+    }
+  ],
+  "summary": "In this GDC talk, Arc System Works technical artist Junior Motomura explains Guilty Gear XRD’s transition from traditional 2D sprites to a cel-shaded 3D look that preserves the series’ anime feel. The talk details the NPR pipeline: tool choices (Unreal Engine 3, Autodesk Softimage), real-time shader previews, and a shader-driven approach that uses vertex colors, thresholds, and reimagined normals to achieve a convincing 2D appearance. Motomura covers outlines and inner-line techniques, two-color texture shading, per-character lighting with no global scene lighting, and a frame-by-frame, limited-animation workflow (roughly 500 bones per character) to retain the iconic 2D appearance in a 3D medium. He frames the ‘X Factor’ as the artist’s intention guiding every step, from modeling to animation, and closes with Q&A on production scale, UV layouts, and future NPR exploration.",
+  "title": "GDC 2015: Guilty Gear XRD’s NPR Cel-Shaded 3D Art Pipeline",
+  "topics": [
+    "cel-shaded 3D",
+    "non-photorealistic rendering (NPR)",
+    "2D look rendered from 3D",
+    "Unreal Engine 3",
+    "Autodesk Softimage",
+    "real-time shader preview",
+    "vertex colors for shading and thresholds",
+    "Per-character lighting (no global lighting)",
+    "per-character shadow and lighting setup",
+    "texture-based shading with base and tint textures",
+    "two-texture shading workflow",
+    "outline technique: inverted hull",
+    "inner-line technique and axis-aligned UVs",
+    "line width control via vertex shader",
+    "scale animation and frame-by-frame technique",
+    "high bone-count rigs (~500 bones per character)",
+    "limited animation versus full interpolation",
+    "texture resolution strategy (2K/1K textures; PS4 vs PS3)",
+    "real-time shader preview in modeling tools",
+    "X Factor: artist’s intention as differentiator",
+    "production workflow and time (modeling ~2 months; animation ~2 months)"
+  ],
+  "video": "yhGjCzxJV3E.youtube"
+}

@@ -1,0 +1,70 @@
+{
+  "analysis_created_at": "2026-09-16T05:40:49.242020+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "March 16, 2016",
+    "iso": "2016-03-16",
+    "precision": "day"
+  },
+  "featured_techniques": [],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "67cb9c1d-7544-50f0-848a-4250c809b056",
+    "spec_sha256": "e6c207b4b1d25cc4c7daa5486629e1a9d74168cbf1de683739eb6f216123bd8a",
+    "timing": {
+      "analysis_ms": 41403,
+      "dependency_resolution_ms": 194,
+      "handler_ms": 42388,
+      "input_fetch_ms": 679
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 3963,
+      "digest": "0b5b8d947579bddce39c0d28bc1f511097bfbd0cad3cdc2ca3d7a60f9ba568fb",
+      "key": "objects/sha256/0b/5b8d947579bddce39c0d28bc1f511097bfbd0cad3cdc2ca3d7a60f9ba568fb",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "ae005129-efb4-5a00-87da-46f2793cc9a5"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "brief spoken remarks",
+        "apology and gratitude cues",
+        "solemn commemorative tone"
+      ],
+      "description": "Section reflecting the core memorial moment captured in the transcript, featuring minimal dialogue such as 'I'm sorry' and 'Thank you' and a restrained, respectful tone. The segment covers a portion of the overall 3-minute video.",
+      "end": "00:02:33.240",
+      "start": "00:00:03.280",
+      "title": "Tribute remarks (transcript-sourced)"
+    }
+  ],
+  "summary": "This is a short, approximately three-minute tribute video produced by the GDC Festival of Gaming, posted to YouTube to honor Satoru Iwata during the Game Developers Choice Awards. The transcript reveals only a handful of brief, non-technical spoken lines (examples include 'I'm sorry' and 'Thank you') with limited dialogue, suggesting a restrained commemorative moment rather than an instructional or process-focused tutorial. Relying on a solemn, memorial tone, the video appears to function as a memorial segment within the awards context rather than as a craft demonstration. The provided transcript timestamps indicate activity from about 00:00:03 through 00:02:33 within the 3-minute runtime, aligning with a short-form tribute format.",
+  "title": "Satoru Iwata Tribute at the Game Developers Choice Awards (GDC Festival of Gaming)",
+  "topics": [
+    "Satoru Iwata",
+    "Tribute",
+    "Game Developers Choice Awards",
+    "GDC Festival of Gaming",
+    "YouTube publication",
+    "Three-minute video",
+    "Apology and gratitude phrases",
+    "Public remembrance in gaming",
+    "Gaming industry legacy",
+    "Award show memorial",
+    "Transcript cues: I'm sorry; Thank you"
+  ],
+  "video": "9YG9INjO91Y.youtube"
+}

@@ -1,0 +1,194 @@
+{
+  "analysis_created_at": "2026-09-14T21:10:16.737794+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "November 17, 2015",
+    "iso": "2015-11-17",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Gamutography: three camera styles (fixed-angle 3P, dynamic-angle 3P, first-person)",
+      "timestamp": "00:02:53"
+    },
+    {
+      "confidence": 0.9,
+      "technique": "Whiskers: ray-cast obstacle detection for proactive camera avoidance",
+      "timestamp": "00:12:57"
+    },
+    {
+      "confidence": 0.88,
+      "technique": "Seven degrees of freedom and constraint separation (yaw, pitch, roll, offsets, FOV)",
+      "timestamp": "00:15:59"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Bird's-eye FOV adjustments during sky views (FOV derived from pitch)",
+      "timestamp": "00:21:24"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Scripted camera hints with controlled override timing",
+      "timestamp": "00:41:57"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Mitigating simulation sickness via FOV and screen shake controls",
+      "timestamp": "00:49:12"
+    },
+    {
+      "confidence": 0.84,
+      "technique": "Dual input modalities for camera control (analog stick and gyroscope)",
+      "timestamp": "00:44:32"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "VR caution and cross-platform play stance (avoid VR exclusivity)",
+      "timestamp": "00:55:27"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "dae6ab64-7ea4-59c8-8766-90ad59c16857",
+    "spec_sha256": "bd0e6755ec8ba56bcd69d9569793bd3908a48d09877b9c84f046ef34ad095c7f",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-32bd7b2a2237",
+        "term-afafd2c435b2",
+        "term-cfbd711dce3d",
+        "term-d87eefb075a3",
+        "term-f9b4ec3da195"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 65382,
+      "dependency_resolution_ms": 59,
+      "handler_ms": 66319,
+      "input_fetch_ms": 761
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1040064,
+      "digest": "163f6720c9b2c6bf2c4c4975af1cf9f0cb862be057b21e2d05d08cdc69f506d5",
+      "key": "objects/sha256/16/3f6720c9b2c6bf2c4c4975af1cf9f0cb862be057b21e2d05d08cdc69f506d5",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "d1822c83-090e-5924-9699-ec23b4e24a26"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "gamutography",
+        "fixed-angle third-person",
+        "dynamic-angle third-person",
+        "first-person"
+      ],
+      "description": "John Eske introduces gamutography as the discipline of teaching cameras to adapt to gameplay. He outlines the three main camera styles—fixed-angle third-person, dynamic-angle third-person, and first-person—and notes that camera distance is a central differentiator among them.",
+      "end": "00:06:21",
+      "start": "00:00:00",
+      "title": "Intro to gamutography and three camera styles"
+    },
+    {
+      "concepts": [
+        "enumerated problems",
+        "Journey as case study",
+        "iteration in camera design"
+      ],
+      "description": "Eske explains that camera design yields many failure modes (there are many more problems than designers can cover in a talk). He uses Journey to illustrate where iterative practice often fixes problems while noting that shipped games still exhibit issues.",
+      "end": "00:12:12",
+      "start": "00:06:22",
+      "title": "Problem framing and Journey context"
+    },
+    {
+      "concepts": [
+        "line of sight",
+        "obstacle occlusion",
+        "whiskers ray casts",
+        "preemptive motion"
+      ],
+      "description": "The talk introduces maintaining line of sight, handling occluders, and the use of whiskers (ray casts) to detect obstacles early and steer the camera preemptively—balanced against the player's intent to move the camera.",
+      "end": "00:16:16",
+      "start": "00:12:13",
+      "title": "Line of sight and obstacle-avoidance basics"
+    },
+    {
+      "concepts": [
+        "seven DOF (yaw, pitch, roll, offsets, FOV)",
+        "Separation of concerns",
+        "prioritizing player control"
+      ],
+      "description": "Eske identifies seven camera degrees of freedom and describes separating constraints by degree of freedom to ensure predictable prioritization—especially keeping the player’s control as a priority over automatic adjustments.",
+      "end": "00:23:32",
+      "start": "00:16:17",
+      "title": "Seven degrees of freedom and constraint management"
+    },
+    {
+      "concepts": [
+        "line of sight with occluders",
+        "near-clipping plane",
+        "avoiding camera cuts",
+        "Distance-FOV coupling"
+      ],
+      "description": "This section covers maintaining line of sight with obstacles, handling near clipping, and avoiding abrupt camera cuts. It also discusses how distance and field of view should be coherently driven by pitch to prevent jarring changes.",
+      "end": "00:31:31",
+      "start": "00:23:33",
+      "title": "Line-of-sight in dynamic scenarios and non-cut transitions"
+    },
+    {
+      "concepts": [
+        "scripted hints vs user control",
+        "VR cautions and accessibility",
+        "input modalities (analog, gyroscope)",
+        "motion sickness mitigation (FOV, screen shake)",
+        "testing with diverse users",
+        "Q&A wrap-up"
+      ],
+      "description": "The final portion focuses on scripted camera hints, balancing guidance with player control, multi-input modalities (analog and gyroscope), and accessibility measures to mitigate simulation sickness. Eske stresses testing with diverse demographics and discusses opportunities for tooling (e.g., a potential Unity plug-in) to help teams start from solid camera foundations.",
+      "end": "01:00:41",
+      "start": "00:37:29",
+      "title": "Hints, controls, sickness, and practical takeaways"
+    }
+  ],
+  "summary": "This video presents a focused talk on the challenges of designing third-person game cameras, delivered by John Eske (Backend Company) at the GDC Festival of Gaming. Framed around the idea that cameras reveal failures, Eske formalizes a discipline called gamutography and outlines three core camera styles (fixed-angle third-person, dynamic-angle third-person, and first-person). He enumerates and analyzes dozens of failures that can derail camera behavior, illustrates practical remedies (from obstacle-aware whiskers to near clipping safeguards), and emphasizes maintaining player intent and line of sight. Throughout, he uses Journey as a running case study and interleaves cinematic principles (like the 30-degree rule and rule of thirds) with game-specific constraints (seven degrees of freedom; Separation of concerns). The talk also covers player accessibility (simulation sickness, adjustable field of view, screen shake, and input options) and ends with a practical Q&A on tooling and collaboration across disciplines.",
+  "title": "50 Game Camera Mistakes — camera design deep-dive from GDC Festival of Gaming",
+  "topics": [
+    "Gamutography concept and three camera styles",
+    "Fixed-angle third-person camera",
+    "dynamic-angle third-person camera",
+    "First-person camera",
+    "Euler angles vs quaternions for camera orientation",
+    "Seven degrees of freedom for camera (yaw, pitch, roll, horizontal/vertical/forward/back, FOV)",
+    "Separation of concerns in camera constraints",
+    "Line of sight and obstacle occlusion handling",
+    "Whiskers: ray casts for obstacle detection",
+    "Camera proximity and the 30-degree rule for cuts",
+    "Non-cut transitions vs camera cuts and player intent",
+    "Bird's-eye view transitions and sky visibility",
+    "Near clipping plane and avatar spacing",
+    "Rule of thirds: correct vs incorrect usage",
+    "Scripted camera hints vs player control and delays",
+    "Camera hints in small environments",
+    "Simulation sickness and accessibility (FOV, screen shake, motion)",
+    "VR considerations and cross-platform play (Oculus Rift caution)",
+    "Multiple input modalities for camera control (analog stick, gyroscope)",
+    "Testing with diverse demographics and iterative design",
+    "Path cues and landmark visibility to aid navigation",
+    "Open vs closed environments and tooltips/hints"
+  ],
+  "video": "C7307qRmlMI.youtube"
+}

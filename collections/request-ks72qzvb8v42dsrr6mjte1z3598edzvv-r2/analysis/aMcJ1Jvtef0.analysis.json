@@ -1,0 +1,266 @@
+{
+  "analysis_created_at": "2026-09-14T20:43:47.867491+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "January 10, 2017",
+    "iso": "2017-01-10",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.85,
+      "technique": "Color cycling for animation in 8-bit art",
+      "timestamp": "00:05:58"
+    },
+    {
+      "confidence": 0.85,
+      "technique": "Palette shifting to simulate day/night and weather",
+      "timestamp": "00:12:59"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Large-scale palette-driven sky/day transitions (three times of day)",
+      "timestamp": "00:13:10"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Dither templates and stencil-driven dithering",
+      "timestamp": "00:42:43"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Band shading with concentric color bands",
+      "timestamp": "00:25:44"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Moiré-based waterfalls and water/rain effects via color cycling",
+      "timestamp": "00:55:02"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Checkerboard dithering to imply transparency",
+      "timestamp": "00:53:53"
+    }
+  ],
+  "locations": [
+    {
+      "basis": "Transcript: \"I started with Lucasfilm games... 16 colors...\" and discussion of early palette constraints.",
+      "confidence": 0.9,
+      "name": "Lucasfilm Games"
+    },
+    {
+      "basis": "Transcript: \"back in these days I was able to work with deluxe paint\"; discussion of 16-color/ dithering workflows.",
+      "confidence": 0.8,
+      "name": "Deluxe Paint"
+    },
+    {
+      "basis": "\"Today, Deluxe Paint 2 is barely usable\" referenced while discussing workflow limits.",
+      "confidence": 0.7,
+      "name": "Deluxe Paint 2"
+    },
+    {
+      "basis": "Transcript: \"the only real tool for producing true 8-bit art... is a program many you probably know called Promotion\" and later comparisons.",
+      "confidence": 0.85,
+      "name": "Promotion (Cosmigo)"
+    },
+    {
+      "basis": "Transcript: Mark Ferrari discusses working on backgrounds for Thimbleweed Park and Kickstarter context.",
+      "confidence": 0.9,
+      "name": "Thimbleweed Park"
+    },
+    {
+      "basis": "Demonstrations occur in DOSBox/DOS environment; several references to DOS-era tools and emulation.",
+      "confidence": 0.8,
+      "name": "DOS/ DOSBox"
+    },
+    {
+      "basis": "Transcript: \"HTML5 color cycling emulator created by Joe Huckabee\" used to showcase work.",
+      "confidence": 0.75,
+      "name": "Joe Huckabee's HTML5 color cycling emulator"
+    }
+  ],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "c8971be9-dbc7-5a9a-a270-18bb1063ff32",
+    "spec_sha256": "af3438893b7ed79dbeb9b4ac187a849862b4fad5e9c0d52e3b9f3f559ea89d18",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-0e814e7f1711",
+        "term-3153d207447c",
+        "term-6b588d973867",
+        "term-b819121a70c8",
+        "term-b96d30505942",
+        "term-cafdceb76b2d",
+        "term-f6f350d4e175"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 90584,
+      "dependency_resolution_ms": 48,
+      "handler_ms": 91429,
+      "input_fetch_ms": 688
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 1454935,
+      "digest": "caf2267dca62c80192fa006675837c24bb503e89e9c570d2f46ca1f537543156",
+      "key": "objects/sha256/ca/f2267dca62c80192fa006675837c24bb503e89e9c570d2f46ca1f537543156",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "c6cb1a4a-9045-5965-ad54-0e51a1da8520"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Lucasfilm Games",
+        "16-color palette",
+        "EGA constraints",
+        "palette symmetry and critique"
+      ],
+      "description": "Ferrari introduces his background, the 16-color palette used across the industry, and the impact of palette choices on early game art.",
+      "end": "00:03:41",
+      "start": "00:00:03",
+      "title": "Intro and Palette Constraints (Lucasfilm/EGA)"
+    },
+    {
+      "concepts": [
+        "dithering strategies",
+        "Zach McCracken and the Alien Mindbenders",
+        "Secret of Monkey Island",
+        "color cycling improvements"
+      ],
+      "description": "Discussion of how dithering was used to expand color space (e.g., more blues) and how Monkey Island leveraged dithering for richer environments.",
+      "end": "00:07:20",
+      "start": "00:03:41",
+      "title": "Dithering Evolution: From EGA to Monkey Island"
+    },
+    {
+      "concepts": [
+        "Deluxe Paint",
+        "D-Paint limitations",
+        "Promotion (Cosmigo)",
+        "HTML5 color-cycling emulator"
+      ],
+      "description": "Ferrari contrasts early tools with later ones, notes the rise of 8-bit-ish work, and previews live demonstrations of color cycling and dithering.",
+      "end": "00:12:00",
+      "start": "00:07:20",
+      "title": "Tool Landscape and 8-bit-ish Art"
+    },
+    {
+      "concepts": [
+        "color cycling",
+        "Palette-driven animation",
+        "times-of-day visual shifts"
+      ],
+      "description": "A core demonstration: changing palettes to simulate animation, time of day, and weather without extra art frames.",
+      "end": "00:14:40",
+      "start": "00:12:00",
+      "title": "Color Cycling and Palette-Driven Animation"
+    },
+    {
+      "concepts": [
+        "Thimbleweed Park backgrounds",
+        "Kickstarter backstory",
+        "Renaissance Fair aesthetic vs. authentic era visuals"
+      ],
+      "description": "Ferrari discusses modern work on Thimbleweed Park and how retro-inspired visuals can be updated for contemporary gameplay while preserving the feel.",
+      "end": "00:19:24",
+      "start": "00:15:49",
+      "title": "Thimbleweed Park and Renaissance Aesthetic"
+    },
+    {
+      "concepts": [
+        "sketch to pixel",
+        "lighting templates",
+        "color balance",
+        "nearest neighbor",
+        "anti-aliasing off",
+        "selections for fills"
+      ],
+      "description": "Live demonstration of planning a scene, laying out space in hard pixels, and using lighting templates combined with color controls to achieve retro shading.",
+      "end": "00:29:12",
+      "start": "00:20:00",
+      "title": "8-bit-ish Photoshop Workflow: Setup and Lighting"
+    },
+    {
+      "concepts": [
+        "hand-dither",
+        "dither templates",
+        "promotion-based fills",
+        "gradient fills",
+        "stencils"
+      ],
+      "description": "Practical approaches to building dithers, including templates, grayscale dithers, and using promotion to automate patterns where possible.",
+      "end": "01:00:00",
+      "start": "00:29:12",
+      "title": "Dithering Techniques, Templates, and Handcrafting"
+    },
+    {
+      "concepts": [
+        "color harmony",
+        "warm vs cool contrast",
+        "value contrast",
+        "art outside digital tools"
+      ],
+      "description": "Theoretical grounding: color theory, cross-tool learning, and staying artist-first when using digital tools.",
+      "end": "01:01:56",
+      "start": "01:00:00",
+      "title": "Color Theory and Practical Advice"
+    },
+    {
+      "concepts": [
+        "relevance of 8-bit aesthetics",
+        "tools evolution",
+        "creative discipline",
+        "closing remarks"
+      ],
+      "description": "Ferrari reflects on the enduring appeal of 8-bit-ish art, the balance between constraints and creative freedom, and final thoughts.",
+      "end": "01:25:33",
+      "start": "01:01:56",
+      "title": "8-bit-ish Philosophy and Final Reflections"
+    }
+  ],
+  "summary": "Mark Ferrari surveys the history and craft of 8-bit and 8-bit-ish art, tracing the evolution from strict 16-color EGA palettes and early dithering at Lucasfilm Games to richer 256-color work and the later revival of the retro aesthetic in modern titles like Thimbleweed Park. He details techniques born from constraint—dithering, color cycling, and palette shifting—and demonstrates how artists could simulate movement, time of day, weather, and depth with careful palette management, rather than brute-frame animation. Ferrari contrasts historical tools (Deluxe Paint, D-Paint) with contemporary options (Promotion) and shares pragmatic studio workflows in Photoshop for achieving a retro look, including lighting templates, near-neighbor sampling, and anti-aliasing discipline. The talk interleaves technical demonstrations, live Q&A, and reflections on why the 8-bit look remains compelling despite modern resources, framing 8-bit-ish art as a creatively manageable space that still rewards deliberate color choice and clever structuring of limited palettes.",
+  "title": "8 Bit & '8 Bitish' Graphics—Outside the Box: Palette, Dither, and Color Cycling",
+  "topics": [
+    "Lucasfilm Games",
+    "EGA 16-color palette",
+    "CGA vs EGA vs VGA color handling",
+    "Dithering (manual, pixel-by-pixel)",
+    "Color cycling / animation without frames",
+    "Palette shifting for time of day",
+    "Sunset and night palettes",
+    "Six to seven blue tones via palette manipulation",
+    "Exclusive use of 256-color workflows",
+    "Concentric color bands for shading",
+    "Warm vs cool color contrast",
+    "Bounce light and turning edge concepts",
+    "Color harmony and contrast theory in limited palettes",
+    "Nearest neighbor interpolation and anti-aliasing discipline",
+    "Lighting templates and color-balance workflows",
+    "Promotion vs Deluxe Paint (D-Paint) capabilities",
+    "Dither templates and stencils",
+    "Checkerboard dithering to imply transparency",
+    "Gradient fills and contour gradients for water and fog",
+    "Moiré patterns for waterfalls/rain",
+    "Joe Huckabee's color cycling demo",
+    "Thimbleweed Park backgrounds and Renaissance Fair aesthetic",
+    "Kickstarter-driven revival of 8-bit aesthetics",
+    "8-bit-ish art philosophy vs pure 8-bit"
+  ],
+  "video": "aMcJ1Jvtef0.youtube"
+}

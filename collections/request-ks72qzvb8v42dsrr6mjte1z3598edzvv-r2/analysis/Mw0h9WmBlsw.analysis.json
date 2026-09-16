@@ -1,0 +1,227 @@
+{
+  "analysis_created_at": "2026-09-14T19:49:16.293893+00:00",
+  "analysis_model": "gpt-5-nano",
+  "analysis_prompt_version": 3,
+  "date": {
+    "basis": "YouTube publication date",
+    "confidence": 1.0,
+    "display": "January 26, 2016",
+    "iso": "2016-01-26",
+    "precision": "day"
+  },
+  "featured_techniques": [
+    {
+      "confidence": 0.78,
+      "technique": "Silhouette-based read for fast-action readability",
+      "timestamp": "00:01:58"
+    },
+    {
+      "confidence": 0.82,
+      "technique": "Anticipation and wind-up tailored to player vs. enemy",
+      "timestamp": "00:02:31"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Favoring key poses when frame budgets are tight",
+      "timestamp": "00:04:00"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Follow-through to fill spacing gaps (hair, clothes, cape)",
+      "timestamp": "00:04:44"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Smears as a primary motion cue to convey movement",
+      "timestamp": "00:05:40"
+    },
+    {
+      "confidence": 0.78,
+      "technique": "Overshoot before impact to amplify power",
+      "timestamp": "00:06:34"
+    },
+    {
+      "confidence": 0.79,
+      "technique": "Drag/weight breaking to enhance perceived force",
+      "timestamp": "00:07:52"
+    },
+    {
+      "confidence": 0.75,
+      "technique": "Hit-stop to reinforce impactful hits (programmer/animator collaboration)",
+      "timestamp": "00:12:45"
+    },
+    {
+      "confidence": 0.8,
+      "technique": "Four-part move structure: anticipation, smear, main attack, idle return",
+      "timestamp": "00:14:31"
+    },
+    {
+      "confidence": 0.7,
+      "technique": "Frame pruning for snappier motion (reducing redundant frames)",
+      "timestamp": "00:16:00"
+    },
+    {
+      "confidence": 0.72,
+      "technique": "Early playable iterations to test gameplay timing",
+      "timestamp": "00:10:00"
+    }
+  ],
+  "locations": [],
+  "provenance": {
+    "handler_id": "watchcraft.analysis.educational-video",
+    "handler_version": "1",
+    "job_id": "28695c14-364b-5ac8-b2a9-f35fdf3ceb05",
+    "spec_sha256": "f37f8268fb497bbf91705dbc526dfcde1411628f5e5c1ce98fd9bed7dfd0e89c",
+    "terminology_resolution": {
+      "job_id": "a4ee677c-7cc0-55f9-8a2d-7d4c6461a850",
+      "resolution_ids": [
+        "term-4e0fa8a361b9",
+        "term-7f5e2be119be",
+        "term-fd2190eed80d"
+      ],
+      "source_hash": "d6144fd52b520aa225f22cc9448a9e1d49b383f61c6fd30083aa9735db3db1de"
+    },
+    "timing": {
+      "analysis_ms": 54672,
+      "dependency_resolution_ms": 55,
+      "handler_ms": 55427,
+      "input_fetch_ms": 575
+    },
+    "transcript": {
+      "algorithm": "sha256",
+      "artifact_kind": "transcript",
+      "byte_length": 351153,
+      "digest": "60596a60764cad82002a3467b37f44fb8449d907287b7e82eba11d28ec54b0c6",
+      "key": "objects/sha256/60/596a60764cad82002a3467b37f44fb8449d907287b7e82eba11d28ec54b0c6",
+      "media_type": "application/json",
+      "schema": {
+        "id": "watchcraft.transcript",
+        "version": 1
+      },
+      "store": "r2"
+    },
+    "transcription_job_id": "2e3446bf-e1cf-595c-afe7-f12a4a1d95a8"
+  },
+  "schema_version": 2,
+  "sections": [
+    {
+      "concepts": [
+        "Speaker identity and role",
+        "Project overview",
+        "hand-animated, frame-by-frame approach",
+        "Platforms referenced (PSN, Xbox, etc.)"
+      ],
+      "description": "Marilla Cartwright introduces herself as Skullgirls' lead animator and explains the talk's focus on fluid, powerful animation within frame restrictions. She establishes Skullgirls as a 2D fighting game known for being entirely hand-animated and notes the relevance of gameplay-readability when designing within limited frames.",
+      "end": "00:01:04",
+      "start": "00:00:03",
+      "title": "Introduction and Skullgirls context"
+    },
+    {
+      "concepts": [
+        "Silhouette emphasis in fast reads",
+        "Defining punch/read and defense with pose clarity",
+        "Anticipation and wind-up considerations",
+        "Player vs. enemy timing dynamics"
+      ],
+      "description": "The talk covers core principles—silhouette and anticipation—tailored for gameplay. Cartwright explains how player characters require quick, instantaneous reactions, while enemies benefit from wind-ups that give players time to dodge or block.",
+      "end": "00:03:54",
+      "start": "00:01:04",
+      "title": "Animation principles for game readability under constraints"
+    },
+    {
+      "concepts": [
+        "Favoring key poses to read motion",
+        "Two-pose motion vs. in-betweens",
+        "Using follow-through to fill gaps",
+        "Integrating these with limited frames"
+      ],
+      "description": "Discussion on prioritizing keys over in-betweens due to frame constraints. Follow-through is shown as a mechanism to bridge gaps, with examples on how to make quickly read, snappy motions by building toward key poses rather than relying on dense in-betweens.",
+      "end": "00:07:13",
+      "start": "00:03:54",
+      "title": "Keyframes, timing, and follow-through"
+    },
+    {
+      "concepts": [
+        "Weighty motion and drag",
+        "Leading motion with a different body part",
+        "Nonlinear poses that feel powerful"
+      ],
+      "description": "Cartwright describes how purposeful exaggeration of weight and the body’s drag can make fast actions feel stronger. She emphasizes leading with a part other than the final key to create dynamic, convincing motion.",
+      "end": "00:08:57",
+      "start": "00:07:13",
+      "title": "Breaking the body and weight for impact"
+    },
+    {
+      "concepts": [
+        "Brainstorm → rough animation → designer integration",
+        "Playable early iterations and feedback",
+        "Frame counts for weak/medium/hard moves",
+        "holding key poses and timing tweaks"
+      ],
+      "description": "Cartwright outlines Skullgirls' iterative process, including quick roughs tested in-game with hitboxes, and the collaborative loop with designers and cleanup artists. She notes that playing rough animations early helps refine timing and gameplay interaction before final art is completed.",
+      "end": "00:12:59",
+      "start": "00:08:57",
+      "title": "Skullgirls pipeline and frame-timing strategy"
+    },
+    {
+      "concepts": [
+        "Anticipation, smear, main attack, idle return",
+        "Minimal frames to convey action",
+        "Clearing how to think about a move in four parts"
+      ],
+      "description": "The four-part model (anticipation, smear, main attack key, return to idle) is presented as a way to compress a motion into as few as five to six frames for weak moves, while maintaining clarity and impact.",
+      "end": "00:14:57",
+      "start": "00:12:59",
+      "title": "Putting it together: four-part move framework"
+    },
+    {
+      "concepts": [
+        "Fluidity versus over-animation",
+        "Removing redundant frames to improve snappiness",
+        "Reducing animation size while preserving impact",
+        "Boob jiggle note leading to separate idle state"
+      ],
+      "description": "Cartwright reflects on personal growth, acknowledging over-animated sequences and describing how removing frames can preserve impact while reducing runtime size. She also notes a design decision to separate certain idle states to avoid unnecessary motion.",
+      "end": "00:19:01",
+      "start": "00:15:21",
+      "title": "Common pitfalls: fluid vs. over-animated and optimization"
+    },
+    {
+      "concepts": [
+        "Gameplay remains king",
+        "Study references: Zvifus and Fighters Generation",
+        "Encouragement to analyze other games frame by frame"
+      ],
+      "description": "The speaker reiterates that gameplay is the priority, thanks the audience, and shares valuable resource sites for studying fighting game animation to inform future work.",
+      "end": "00:20:52",
+      "start": "00:19:03",
+      "title": "Closing remarks and resources"
+    }
+  ],
+  "summary": "In this talk, Marilla Cartwright, Skullgirls' lead animator, outlines how to achieve fluid, impactful animation within tight frame budgets for a hand-animated 2D fighting game. She emphasizes readability through silhouette, anticipation differences between player and enemy moves, and efficient use of key poses when frame counts are limited. The talk covers practical techniques such as favoring key poses, using follow-through and smears to fill gaps, and employing overshoot and weight-breaking to amplify impact. Cartwright also details Skullgirls' production pipeline—from quick roughs to playable builds to cleanup—and argues that gameplay constraints should drive animation decisions, not hamper creativity. She closes with performance considerations, cautions against over-animation, and recommends reference resources like Zvifus and Fighters Generation to study frame-by-frame animation in fighting games.",
+  "title": "Fluid and Powerful Animation Within Frame Restrictions — Skullgirls Lead Animator's Techniques",
+  "topics": [
+    "Silhouette readability in fast-action games",
+    "Character posing and clear silhouettes for punches and blocks",
+    "Anticipation differences for player versus enemy moves",
+    "Wind-up and read-readiness in attacks",
+    "Favoring key poses when frame budgets are small",
+    "In-between frames versus key poses in game animation",
+    "Follow-through to fill spacing gaps (hair, clothes, cape)",
+    "Smears as a primary motion cue",
+    "Smear timing and its relationship to impact",
+    "Overshoot before hit to amplify power",
+    "Combining smear and overshoot while timing the hit frame",
+    "Weight and break (drag) to convey powerful motion",
+    "Leading motion with different body parts for impact",
+    "Hit-stop to strengthen impacts (programmers/animators collaboration)",
+    "Idle spacing and transitions to preserve responsiveness",
+    "Four-part model of a move: anticipation, smear, main attack, return to idle",
+    "Balancing game design constraints with animation aesthetics",
+    "Frame-count planning for weak/medium/strong moves",
+    "Skullgirls production pipeline: brainstorm → rough → design integration → cleanup → playable",
+    "Iterative testing with rough animations for gameplay feedback",
+    "Resources for study: Zvifus (Street Fighter Third Strike sprites) and Fighters Generation"
+  ],
+  "video": "Mw0h9WmBlsw.youtube"
+}

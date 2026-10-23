@@ -2,7 +2,12 @@
   "kind": "watchcraft.authoring",
   "schema_version": 1,
   "collection": {
-    "listed": false
+    "listed": false,
+    "onboarding": {
+      "intro": "Explore Marc Adamus’s landscape photography tutorials by topic and chapter.",
+      "media_folder_prompt": "Where are your Marc Adamus videos stored?",
+      "media_folder_help": "Choose the main Marc Adamus Videos folder containing the Part 1, Part 2, and other Part folders. This can be on your computer or an external drive. The folder only needs your videos; no Watchcraft files are required."
+    }
   },
   "sources": {}
 }
